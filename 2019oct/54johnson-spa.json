@@ -1,0 +1,542 @@
+{
+  "tableOfContentsUri": "/liahona/2019/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2019/11/54johnson",
+      "data-aid": "141769445",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "7688d3f64b344c928f740a7e757b657c",
+      "data-aid-version": "2",
+      "data-orig-id": "f1a9bd3b9557443abf7db556fc8625ca"
+    },
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/magazines/1861154johnson/2019-11-0034-power-to-overcome-the-adversary-64k-spa.mp3"
+    }],
+    "title": "Poder para vencer al adversario",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141769445",
+      {"key": "141769445"}
+    ],
+    [
+      "141769451",
+      {"key": "141769451"}
+    ],
+    [
+      "141769456",
+      {"key": "141769456"}
+    ],
+    [
+      "141769506",
+      {"key": "141769506"}
+    ],
+    [
+      "141769511",
+      {"key": "141769511"}
+    ],
+    [
+      "141769516",
+      {"key": "141769516"}
+    ],
+    [
+      "141769521",
+      {"key": "141769521"}
+    ],
+    [
+      "141769527",
+      {"key": "141769527"}
+    ],
+    [
+      "141769532",
+      {"key": "141769532"}
+    ],
+    [
+      "141769537",
+      {"key": "141769537"}
+    ],
+    [
+      "141769542",
+      {"key": "141769542"}
+    ],
+    [
+      "141769547",
+      {"key": "141769547"}
+    ],
+    [
+      "141769553",
+      {"key": "141769553"}
+    ],
+    [
+      "141769558",
+      {"key": "141769558"}
+    ],
+    [
+      "141769563",
+      {"key": "141769563"}
+    ],
+    [
+      "141769568",
+      {"key": "141769568"}
+    ],
+    [
+      "141769574",
+      {"key": "141769574"}
+    ],
+    [
+      "141769580",
+      {"key": "141769580"}
+    ],
+    [
+      "141769586",
+      {"key": "141769586"}
+    ],
+    [
+      "141769592",
+      {"key": "141769592"}
+    ],
+    [
+      "141769598",
+      {"key": "141769598"}
+    ],
+    [
+      "141769604",
+      {"key": "141769604"}
+    ],
+    [
+      "141769610",
+      {"key": "141769610"}
+    ],
+    [
+      "141769616",
+      {"key": "141769616"}
+    ],
+    [
+      "141769621",
+      {"key": "141769621"}
+    ],
+    [
+      "141769626",
+      {"key": "141769626"}
+    ],
+    [
+      "141769631",
+      {"key": "141769631"}
+    ],
+    [
+      "141769636",
+      {"key": "141769636"}
+    ],
+    [
+      "141769640",
+      {"key": "141769640"}
+    ],
+    [
+      "141769644",
+      {"key": "141769644"}
+    ],
+    [
+      "141769649",
+      {"key": "141769649"}
+    ],
+    [
+      "141769656",
+      {"key": "141769656"}
+    ],
+    [
+      "141769661",
+      {"key": "141769661"}
+    ],
+    [
+      "141769667",
+      {"key": "141769667"}
+    ],
+    [
+      "141769672",
+      {"key": "141769672"}
+    ],
+    [
+      "141769678",
+      {"key": "141769678"}
+    ],
+    [
+      "141769683",
+      {"key": "141769683"}
+    ],
+    [
+      "141769689",
+      {"key": "141769689"}
+    ],
+    [
+      "141769693",
+      {"key": "141769693"}
+    ],
+    [
+      "141769698",
+      {"key": "141769698"}
+    ],
+    [
+      "141769703",
+      {"key": "141769703"}
+    ],
+    [
+      "141769708",
+      {"key": "141769708"}
+    ],
+    [
+      "141769713",
+      {"key": "141769713"}
+    ],
+    [
+      "141769719",
+      {"key": "141769719"}
+    ],
+    [
+      "141769725",
+      {"key": "141769725"}
+    ],
+    [
+      "141769731",
+      {"key": "141769731"}
+    ],
+    [
+      "141769736",
+      {"key": "141769736"}
+    ],
+    [
+      "141769741",
+      {"key": "141769741"}
+    ],
+    [
+      "141769746",
+      {"key": "141769746"}
+    ],
+    [
+      "141769752",
+      {"key": "141769752"}
+    ],
+    [
+      "141770760",
+      {"key": "141770760"}
+    ],
+    [
+      "141770765",
+      {"key": "141770765"}
+    ],
+    [
+      "141770771",
+      {"key": "141770771"}
+    ],
+    [
+      "141770776",
+      {"key": "141770776"}
+    ],
+    [
+      "141770779",
+      {"key": "141770779"}
+    ],
+    [
+      "141770786",
+      {"key": "141770786"}
+    ],
+    [
+      "141770793",
+      {"key": "141770793"}
+    ]
+  ],
+  "uri": "/liahona/2019/11/54johnson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Poder para vencer al adversario",
+          "title": "Poder para vencer al adversario"
+        },
+        "pageSocial": {
+          "description": "Poder para vencer al adversario",
+          "title": "Poder para vencer al adversario"
+        }
+      }
+    },
+    "body": "<header>\n<h1 data-aid=\"141769451\" id=\"title1\">Poder para vencer al adversario<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141769456\" id=\"author1\">Por el &#xE9;lder Peter&#xA0;M. Johnson<\/p>\n<p class=\"author-role\" data-aid=\"141769506\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141769511\" id=\"kicker1\">&#xBF;De qu&#xE9; manera hallamos paz, recordamos qui&#xE9;nes somos y vencemos las tres t&#xE1;cticas del adversario que he descrito?<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141769516\" id=\"p1\">Hermanos y hermanas, gracias por todo lo que hacen para llegar a ser verdaderos seguidores de Jesucristo y ayudar a que otras personas lo sean, y disfrutar de las bendiciones del santo templo. Gracias por su bondad; ustedes son maravillosos y hermosos.<\/p>\n<p data-aid=\"141769521\" id=\"p2\">Ruego que reconozcamos la influencia <em>confirmadora<\/em> del Esp&#xED;ritu Santo conforme llegamos a entender cabalmente que somos hijos de Dios. En &#x201C;La Familia: Una Proclamaci&#xF3;n para el Mundo&#x201D; se afirma: &#x201C;Todos los seres humanos, hombres y mujeres, son creados a la imagen de Dios. Cada uno es un amado hijo o hija procreado como esp&#xED;ritu por padres celestiales y, como tal, cada uno tiene una naturaleza y un destino divinos&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Somos &#x201C;&#x2026; esp&#xED;ritus selectos que fu[imos] reservados para nacer en el cumplimiento de los tiempos, a fin de participar en la colocaci&#xF3;n de los cimientos de la gran obra de los &#xFA;ltimos d&#xED;as&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. El presidente Russell&#xA0;M. Nelson declar&#xF3;: &#x201C;Se les ense&#xF1;&#xF3; en el mundo de los esp&#xED;ritus a prepararse para cualquier cosa y para todas las cosas que afrontar&#xED;an en esta postrera parte de estos &#xFA;ltimos d&#xED;as (v&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.56?lang=spa#p56\">D.&amp; y C. 138:56<\/a>). &#xA1;Esas ense&#xF1;anzas perduran en su interior!&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"141769527\" id=\"p3\">Ustedes son hijos e hijas selectos de Dios; tienen el poder para vencer al adversario. Sin embargo, el adversario, es consciente de qui&#xE9;nes son ustedes; &#xE9;l est&#xE1; al tanto de su herencia divina y procura limitar su potencial terrenal y celestial vali&#xE9;ndose de estas tres t&#xE1;cticas:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"141769532\" id=\"p4\">El enga&#xF1;o<\/p>\n<\/li>\n<li>\n<p data-aid=\"141769537\" id=\"p5\">La distracci&#xF3;n<\/p>\n<\/li>\n<li>\n<p data-aid=\"141769542\" id=\"p6\">El des&#xE1;nimo<\/p>\n<\/li>\n<\/ul>\n<section>\n<header>\n<h2 data-aid=\"141769547\" id=\"p7\">El enga&#xF1;o<\/h2>\n<\/header>\n<p data-aid=\"141769553\" id=\"p8\">El adversario utiliz&#xF3; la t&#xE9;cnica del enga&#xF1;o en la &#xE9;poca de Mois&#xE9;s. El Se&#xF1;or le declar&#xF3; a Mois&#xE9;s:<\/p>\n<p data-aid=\"141769558\" id=\"p31\">&#x201C;He aqu&#xED;, t&#xFA; eres mi hijo&#x2026;<\/p>\n<p data-aid=\"141769563\" id=\"p30\">Y tengo una obra para ti [&#x2026;]; y t&#xFA; eres a semejanza de mi Unig&#xE9;nito&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"141769568\" id=\"p9\">Poco despu&#xE9;s de esa gloriosa visi&#xF3;n, Satan&#xE1;s intent&#xF3; enga&#xF1;ar a Mois&#xE9;s. Las palabras que utiliz&#xF3; son interesantes: &#x201C;Mois&#xE9;s, hijo de hombre, ad&#xF3;rame&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. El enga&#xF1;o no yac&#xED;a solo en la invitaci&#xF3;n a adorar a Satan&#xE1;s, sino tambi&#xE9;n en la forma en que describi&#xF3; a Mois&#xE9;s como hijo de hombre. Recuerden que el Se&#xF1;or acababa de decir a Mois&#xE9;s que era un hijo de Dios, creado a semejanza del Unig&#xE9;nito.<\/p>\n<p data-aid=\"141769574\" id=\"p10\">El adversario fue implacable en su intento por enga&#xF1;ar a Mois&#xE9;s, pero este se resisti&#xF3;, diciendo: &#x201C;Ret&#xED;rate de m&#xED;, Satan&#xE1;s, porque solamente a este &#xFA;nico Dios adorar&#xE9;, el cual es el Dios de gloria&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. Mois&#xE9;s record&#xF3; qui&#xE9;n era: un hijo de Dios.<\/p>\n<p data-aid=\"141769580\" id=\"p11\">Las palabras del Se&#xF1;or a Mois&#xE9;s se aplican a ustedes y a m&#xED;. Fuimos creados a la imagen de Dios, y &#xC9;l tiene una obra para nosotros. El adversario procura enga&#xF1;arnos al hacernos olvidar qui&#xE9;nes somos realmente. Si no entendemos qui&#xE9;nes somos, entonces es dif&#xED;cil reconocer qui&#xE9;nes podemos llegar a ser.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769586\" id=\"p12\">La distracci&#xF3;n<\/h2>\n<\/header>\n<p data-aid=\"141769592\" id=\"p13\">El adversario tambi&#xE9;n intenta distraernos de Cristo y de Su senda de los convenios. El &#xE9;lder Ronald&#xA0;A. Rasband comparti&#xF3; lo siguiente: &#x201C;El prop&#xF3;sito del adversario es distraernos de los testimonios espirituales, mientras que el deseo del Se&#xF1;or es iluminarnos y que participemos en Su obra&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"141769598\" id=\"p14\">En nuestros d&#xED;as hay muchas distracciones, entre ellas Twitter, Facebook, juegos de realidad virtual y muchas m&#xE1;s. Esos avances de la tecnolog&#xED;a son incre&#xED;bles, pero si no tenemos cuidado, nos pueden distraer de cumplir con nuestro potencial divino. El usarlos debidamente puede manifestar el poder de los cielos y permitir que seamos testigos de milagros conforme procuremos congregar al Israel disperso en ambos lados del velo.<\/p>\n<p data-aid=\"141769604\" id=\"p15\">Seamos cuidadosos y no despreocupados en el uso que le demos a la tecnolog&#xED;a<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Busquemos continuamente maneras en que la tecnolog&#xED;a nos pueda acercar m&#xE1;s al Salvador y nos permita llevar a cabo Su obra a medida que nos preparemos para Su segunda venida.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769610\" id=\"p16\">El des&#xE1;nimo<\/h2>\n<\/header>\n<p data-aid=\"141769616\" id=\"p17\">Finalmente, el adversario desea que nos desanimemos. Podemos desanimarnos al compararnos con los dem&#xE1;s o al sentir que no estamos viviendo de acuerdo con lo que se espera de nosotros, incluso con nuestras propias expectativas.<\/p>\n<p data-aid=\"141769621\" id=\"p18\">Cuando comenc&#xE9; mi programa de doctorado, me sent&#xED;a desanimado. Solo se aceptaron a cuatro estudiantes en el programa ese a&#xF1;o, y los otros alumnos eran brillantes. Ten&#xED;an notas m&#xE1;s altas y m&#xE1;s experiencia laboral en puestos directivos de alto nivel, e irradiaban confianza en sus habilidades. Despu&#xE9;s de las primeras dos semanas en el programa, los sentimientos de des&#xE1;nimo y duda empezaron a arraigarse en m&#xED;, al grado de casi agobiarme.<\/p>\n<p data-aid=\"141769626\" id=\"p19\">Decid&#xED; que si iba a completar ese programa de cuatro a&#xF1;os, terminar&#xED;a de leer el Libro de Morm&#xF3;n cada semestre. Cada d&#xED;a, cuando le&#xED;a, reconoc&#xED;a la declaraci&#xF3;n del Salvador de que el Esp&#xED;ritu Santo me ense&#xF1;ar&#xED;a y me recordar&#xED;a todas las cosas<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Me reafirm&#xF3; que soy un hijo de Dios, me record&#xF3; que no me comparara con los dem&#xE1;s y me dio confianza en mi funci&#xF3;n divina de tener &#xE9;xito<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"141769631\" id=\"p20\">Mis queridos amigos, les suplico que no permitan que persona alguna les robe la felicidad. No se comparen con los dem&#xE1;s. Por favor recuerden las amorosas palabras del Salvador: &#x201C;La <em>paz<\/em> os dejo, mi <em>paz<\/em> os doy; yo no os la doy como el mundo la da. No se <em>turbe<\/em> vuestro coraz&#xF3;n ni tenga miedo&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<\/section>\n<p data-aid=\"141769636\" id=\"p21\">Entonces, &#xBF;c&#xF3;mo lo hacemos? &#xBF;De qu&#xE9; manera hallamos esa paz, recordamos qui&#xE9;nes somos y vencemos las tres t&#xE1;cticas del adversario que he descrito?<\/p>\n<p data-aid=\"141769640\" id=\"p22\">Primero, recuerden que el primero y grande mandamiento es amar a Dios con todo nuestro coraz&#xF3;n, alma, mente y fuerza<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Todo lo que hagamos debe estar motivado por el amor que le tenemos a &#xC9;l y a Su Hijo. A medida que desarrollemos amor por Ellos al guardar Sus mandamientos, nuestra capacidad para amarnos a nosotros mismos y a los dem&#xE1;s aumentar&#xE1;. Comenzaremos a prestar servicio a nuestra familia, amigos y vecinos porque los veremos como el Salvador los ve: como hijos e hijas de Dios<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"141769644\" id=\"p23\">Segundo, oren al Padre en el nombre de Jesucristo cada d&#xED;a, cada d&#xED;a, cada d&#xED;a<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Es mediante la oraci&#xF3;n que podemos sentir el amor de Dios y demostrarle el amor que le tenemos. Por medio de la oraci&#xF3;n expresamos gratitud y pedimos la fortaleza y el valor para someter nuestra voluntad a la de Dios y ser guiados y dirigidos en todas las cosas.<\/p>\n<p data-aid=\"141769649\" id=\"p24\">Los aliento a &#x201C;&#x2026; <em>pedi[r]<\/em> al Padre con toda la energ&#xED;a de vuestros corazones, que se&#xE1;is llenos de este amor [&#x2026;]; para que llegu&#xE9;is a ser hijos [e hijas] de Dios; para que cuando &#xE9;l aparezca <em>seamos<\/em> semejantes a &#xE9;l&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"141769656\" id=\"p25\">Tercero, lean y estudien el Libro de Morm&#xF3;n cada d&#xED;a, cada d&#xED;a, cada d&#xED;a<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Mi estudio del Libro de Morm&#xF3;n tiende a ser mejor cuando leo con una pregunta en mente. Cuando leemos con una pregunta, podemos recibir revelaci&#xF3;n y reconocer que el profeta Jos&#xE9; Smith habl&#xF3; la verdad cuando declar&#xF3; que &#x201C;&#x2026; el Libro de Morm&#xF3;n [es] el m&#xE1;s correcto de todos los libros sobre la tierra [&#x2026;]; y que un hombre [o mujer] se acercar[&#xE1;] m&#xE1;s a Dios al seguir sus preceptos que los de cualquier otro libro&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. El Libro de Morm&#xF3;n contiene las palabras de Cristo y nos ayuda a recordar qui&#xE9;nes somos.<\/p>\n<p data-aid=\"141769661\" id=\"p26\">Por &#xFA;ltimo, participen de la Santa Cena con esp&#xED;ritu de oraci&#xF3;n cada semana, cada semana, cada semana. Es mediante los convenios y las ordenanzas del sacerdocio, entre ellas la Santa Cena, que el poder de la divinidad se manifiesta en nuestra vida<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. El &#xE9;lder David&#xA0;A. Bednar ense&#xF1;&#xF3;: &#x201C;La ordenanza de la Santa Cena es una invitaci&#xF3;n sagrada y recurrente a arrepentirnos sinceramente y ser renovados espiritualmente. El acto de participar de la Santa Cena, en s&#xED; mismo, no produce la remisi&#xF3;n de pecados; pero al prepararnos conscientemente y al participar de esta sagrada ordenanza con un coraz&#xF3;n quebrantado y un esp&#xED;ritu contrito, tenemos la promesa de que <em>siempre<\/em> tendremos el Esp&#xED;ritu del Se&#xF1;or con nosotros&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"141769667\" id=\"p27\">Al participar con humildad de la Santa Cena, recordamos el sufrimiento de Jesucristo en ese sagrado jard&#xED;n llamado Getseman&#xED;, as&#xED; como Su sacrificio en la cruz. Expresamos gratitud al Padre por haber enviado a Su Hijo Unig&#xE9;nito, nuestro Redentor, y demostramos nuestra disposici&#xF3;n a guardar Sus mandamientos y a recordarle siempre<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. La Santa Cena conlleva iluminaci&#xF3;n espiritual; es personal, es poderosa y es necesaria.<\/p>\n<p data-aid=\"141769672\" id=\"p28\">Mis amigos, prometo que conforme nos esforcemos por amar a Dios con todo nuestro coraz&#xF3;n, por orar en el nombre de Jesucristo, estudiar el Libro de Morm&#xF3;n y participar de la Santa Cena con esp&#xED;ritu de oraci&#xF3;n, tendremos la capacidad, con la fuerza del Se&#xF1;or, de vencer las pr&#xE1;cticas <em>enga&#xF1;osas<\/em> del adversario, de minimizar las <em>distracciones<\/em> que limitan nuestro potencial divino y de resistir el <em>des&#xE1;nimo<\/em> que reduce nuestra capacidad de sentir el amor de nuestro Padre Celestial y de Su Hijo. Llegaremos a entender <em>plenamente<\/em> qui&#xE9;nes somos como hijos e hijas de Dios.<\/p>\n<p data-aid=\"141769678\" id=\"p29\">Hermanos y hermanas, les comparto mi amor y declaro mi testimonio de que s&#xE9; que el Padre Celestial vive y que Jes&#xFA;s es el Cristo; los amo. La Iglesia de Jesucristo de los Santos de los &#xDA;ltimos D&#xED;as es el reino de Dios sobre la tierra. Nosotros tenemos el <em>mandato divino<\/em> de recoger a Israel y preparar al mundo para la segunda venida del Mes&#xED;as. En el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141769563",
+        "id": "note4",
+        "text": "<p data-aid=\"141769703\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.4,6?lang=spa#p4\">Mois&#xE9;s 1:4, 6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.4,6?lang=spa#p4",
+          "text": "Moisés 1:4, 6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141769568",
+        "id": "note5",
+        "text": "<p data-aid=\"141769708\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.12?lang=spa#p12\">Mois&#xE9;s 1:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.12?lang=spa#p12",
+          "text": "Moisés 1:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141769521",
+        "id": "note2",
+        "text": "<p data-aid=\"141769693\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.53?lang=spa#p53\">Doctrina y Convenios 138:53<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.54-56?lang=spa#p54\">Doctrina y Convenios 138:54&#x2013;56<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/138.53?lang=spa#p53",
+            "text": "Doctrina y Convenios 138:53",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/138.54-56?lang=spa#p54",
+            "text": "Doctrina y Convenios 138:54\u201356",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141769521",
+        "id": "note3",
+        "text": "<p data-aid=\"141769698\" id=\"note3_p1\">Russell M. Nelson, &#x201C;<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../liahona/2016/10/young-adults/stand-as-true-millennials.html?para=reference1#reference1\">Vivan como verdaderos mil&#xE9;nicos<\/span>&#x201D;, <cite>Liahona<\/cite>, octubre de 2016, p&#xE1;g. 48.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141769604",
+        "id": "note8",
+        "text": "<p data-aid=\"141769725\" id=\"note8_p1\">V&#xE9;ase Becky Craven, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/12craven?lang=spa\">Cuidadosos vs. despreocupados<\/a>&#x201D;, <cite>Liahona,<\/cite> mayo de 2019, p&#xE1;gs. 9&#x2013;11.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/12craven?lang=spa",
+          "text": "Cuidadosos vs. despreocupados",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141769626",
+        "id": "note9",
+        "text": "<p data-aid=\"141769731\" id=\"note9_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.26?lang=spa#p26\">Juan 14:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.26?lang=spa#p26",
+          "text": "Juan 14:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141769574",
+        "id": "note6",
+        "text": "<p data-aid=\"141769713\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.20?lang=spa#p20\">Mois&#xE9;s 1:20<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.16-19,21?lang=spa#p16\">Mois&#xE9;s 1:16&#x2013;19, 21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/1.20?lang=spa#p20",
+            "text": "Moisés 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.16-19,21?lang=spa#p16",
+            "text": "Moisés 1:16\u201319, 21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141769592",
+        "id": "note7",
+        "text": "<p data-aid=\"141769719\" id=\"note7_p1\">Ronald&#xA0;A. Rasband, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/lest-thou-forget?lang=spa\">Para que no te olvides<\/a>&#x201D;, <cite>Liahona,<\/cite> noviembre de 2016, p&#xE1;g. 115.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/lest-thou-forget?lang=spa",
+          "text": "Para que no te olvides",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141769656",
+        "id": "note16",
+        "text": "<p data-aid=\"141770771\" id=\"note16_p1\">V&#xE9;ase Kevin&#xA0;W. Pearson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/stay-by-the-tree?lang=spa\">Permanezcamos junto al &#xE1;rbol<\/a>&#x201D;, <cite>Liahona,<\/cite> mayo de 2015, p&#xE1;gs. 114&#x2013;16.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/04/stay-by-the-tree?lang=spa",
+          "text": "Permanezcamos junto al árbol",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141769649",
+        "id": "note15",
+        "text": "<p data-aid=\"141770765\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=spa#p48\">Moroni 7:48<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.48?lang=spa#p48",
+          "text": "Moroni 7:48",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141769644",
+        "id": "note14",
+        "text": "<p data-aid=\"141770760\" id=\"note14_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.18-21?lang=spa#p18\">3&#xA0;Nefi 18:18&#x2013;21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.18-21?lang=spa#p18",
+          "text": "3 Nefi 18:18\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141769640",
+        "id": "note13",
+        "text": "<p data-aid=\"141769752\" id=\"note13_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=spa#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4.19?lang=spa#p19\">1&#xA0;Juan 4:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=spa#p17\">Mos&#xED;ah 2:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/3.16?lang=spa#p16",
+            "text": "Juan 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/4.19?lang=spa#p19",
+            "text": "1 Juan 4:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/2.17?lang=spa#p17",
+            "text": "Mosíah 2:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141769640",
+        "id": "note12",
+        "text": "<p data-aid=\"141769746\" id=\"note12_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-38?lang=spa#p37\">Mateo 22:37&#x2013;38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.37-38?lang=spa#p37",
+          "text": "Mateo 22:37\u201338",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141769631",
+        "id": "note11",
+        "text": "<p data-aid=\"141769741\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=spa#p27\">Juan 14:27<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.27?lang=spa#p27",
+          "text": "Juan 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141769626",
+        "id": "note10",
+        "text": "<p data-aid=\"141769736\" id=\"note10_p1\">Nuestra funci&#xF3;n divina para tener &#xE9;xito es de obtener la vida eterna independientemente de si uno obtiene lo que el mundo considera como &#xE9;xito en los esfuerzos terrenales. El Esp&#xED;ritu Santo nos recuerda nuestra funci&#xF3;n divina y qui&#xE9;nes podemos llegar a ser conforme nos mantengamos en la senda de los convenios y venzamos, con la fuerza del Se&#xF1;or, las tentaciones del adversario.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "141769667",
+        "id": "note20",
+        "text": "<p data-aid=\"141770793\" id=\"note20_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/4.2-3?lang=spa#p2\">Moroni 4:2&#x2013;3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/5.1-2?lang=spa#p1\">5:1&#x2013;2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.76-79?lang=spa#p76\">Doctrina y Convenios 20:76&#x2013;79<\/a>. Tengan a bien observar que vivimos en una &#xE9;poca en la que urgentemente necesitamos que Su Esp&#xED;ritu siempre est&#xE9; con nosotros.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/4.2-3?lang=spa#p2",
+            "text": "Moroni 4:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/5.1-2?lang=spa#p1",
+            "text": "5:1\u20132",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.76-79?lang=spa#p76",
+            "text": "Doctrina y Convenios 20:76\u201379",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141769521",
+        "id": "note1",
+        "text": "<p data-aid=\"141769689\" id=\"note1_p1\">&#x201C;<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../liahona/2017/05/the-family-a-proclamation-to-the-world.html?para=reference1#reference1\">La Familia: Una Proclamaci&#xF3;n para el Mundo<\/span>&#x201D;, <cite>Liahona,<\/cite> mayo de 2017, p&#xE1;g. 145.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "141769661",
+        "id": "note19",
+        "text": "<p data-aid=\"141770786\" id=\"note19_p1\">David&#xA0;A. Bednar, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/always-retain-a-remission-of-your-sins?lang=spa\">Siempre retendr&#xE9;is la remisi&#xF3;n de vuestros pecados<\/a>&#x201D;, <cite>Liahona, <\/cite>mayo de 2016, p&#xE1;g. 61.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/04/always-retain-a-remission-of-your-sins?lang=spa",
+          "text": "Siempre retendréis la remisión de vuestros pecados",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "141769661",
+        "id": "note18",
+        "text": "<p data-aid=\"141770779\" id=\"note18_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20-21?lang=spa#p20\">Doctrina y Convenios 84:20&#x2013;21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.20-21?lang=spa#p20",
+          "text": "Doctrina y Convenios 84:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "141769656",
+        "id": "note17",
+        "text": "<p data-aid=\"141770776\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducci&#xF3;n del Libro de Morm&#xF3;n<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/introduction?lang=spa",
+          "text": "Introducción del Libro de Mormón",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

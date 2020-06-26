@@ -1,0 +1,537 @@
+{
+  "tableOfContentsUri": "/ensign/2020/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2020/05/34bingham",
+      "data-aid": "143139605",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "f524020ea59f449184a9d83323052c9b",
+      "data-aid-version": "1",
+      "data-orig-id": "f524020ea59f449184a9d83323052c9b"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147167571001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3040-jean-b-bingham-64k-eng.mp3"
+    }],
+    "title": "United in Accomplishing God\u2019s Work",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "143139605",
+      {"key": "143139605"}
+    ],
+    [
+      "143139608",
+      {"key": "143139608"}
+    ],
+    [
+      "143139612",
+      {"key": "143139612"}
+    ],
+    [
+      "143139614",
+      {"key": "143139614"}
+    ],
+    [
+      "143139619",
+      {"key": "143139619"}
+    ],
+    [
+      "143139622",
+      {"key": "143139622"}
+    ],
+    [
+      "143139625",
+      {"key": "143139625"}
+    ],
+    [
+      "143139627",
+      {"key": "143139627"}
+    ],
+    [
+      "143139629",
+      {"key": "143139629"}
+    ],
+    [
+      "143139631",
+      {"key": "143139631"}
+    ],
+    [
+      "143139634",
+      {"key": "143139634"}
+    ],
+    [
+      "143139636",
+      {"key": "143139636"}
+    ],
+    [
+      "143139640",
+      {"key": "143139640"}
+    ],
+    [
+      "143139646",
+      {"key": "143139646"}
+    ],
+    [
+      "143139648",
+      {"key": "143139648"}
+    ],
+    [
+      "143139654",
+      {"key": "143139654"}
+    ],
+    [
+      "143139661",
+      {"key": "143139661"}
+    ],
+    [
+      "143139665",
+      {"key": "143139665"}
+    ],
+    [
+      "143139669",
+      {"key": "143139669"}
+    ],
+    [
+      "143139673",
+      {"key": "143139673"}
+    ],
+    [
+      "143139677",
+      {"key": "143139677"}
+    ],
+    [
+      "143140681",
+      {"key": "143140681"}
+    ],
+    [
+      "143140686",
+      {"key": "143140686"}
+    ],
+    [
+      "143140688",
+      {"key": "143140688"}
+    ],
+    [
+      "143140694",
+      {"key": "143140694"}
+    ],
+    [
+      "143140698",
+      {"key": "143140698"}
+    ],
+    [
+      "143140700",
+      {"key": "143140700"}
+    ],
+    [
+      "143140705",
+      {"key": "143140705"}
+    ],
+    [
+      "143140709",
+      {"key": "143140709"}
+    ],
+    [
+      "143140713",
+      {"key": "143140713"}
+    ],
+    [
+      "143140716",
+      {"key": "143140716"}
+    ],
+    [
+      "143140720",
+      {"key": "143140720"}
+    ],
+    [
+      "143140724",
+      {"key": "143140724"}
+    ],
+    [
+      "143140727",
+      {"key": "143140727"}
+    ],
+    [
+      "143140730",
+      {"key": "143140730"}
+    ],
+    [
+      "143140733",
+      {"key": "143140733"}
+    ],
+    [
+      "143140737",
+      {"key": "143140737"}
+    ],
+    [
+      "143140739",
+      {"key": "143140739"}
+    ],
+    [
+      "143140742",
+      {"key": "143140742"}
+    ],
+    [
+      "143140745",
+      {"key": "143140745"}
+    ],
+    [
+      "143140747",
+      {"key": "143140747"}
+    ],
+    [
+      "143140749",
+      {"key": "143140749"}
+    ],
+    [
+      "143140750",
+      {"key": "143140750"}
+    ],
+    [
+      "143140751",
+      {"key": "143140751"}
+    ],
+    [
+      "143140752",
+      {"key": "143140752"}
+    ],
+    [
+      "143140753",
+      {"key": "143140753"}
+    ],
+    [
+      "143140754",
+      {"key": "143140754"}
+    ],
+    [
+      "143140755",
+      {"key": "143140755"}
+    ],
+    [
+      "143140756",
+      {"key": "143140756"}
+    ],
+    [
+      "143140758",
+      {"key": "143140758"}
+    ],
+    [
+      "143140760",
+      {"key": "143140760"}
+    ],
+    [
+      "143140762",
+      {"key": "143140762"}
+    ],
+    [
+      "143140764",
+      {"key": "143140764"}
+    ],
+    [
+      "143140765",
+      {"key": "143140765"}
+    ],
+    [
+      "143140767",
+      {"key": "143140767"}
+    ],
+    [
+      "143140769",
+      {"key": "143140769"}
+    ]
+  ],
+  "uri": "/ensign/2020/05/34bingham",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "United in Accomplishing God\u2019s Work",
+          "title": "United in Accomplishing God\u2019s Work"
+        },
+        "pageSocial": {
+          "description": "United in Accomplishing God\u2019s Work",
+          "title": "United in Accomplishing God\u2019s Work"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/34bingham?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147167571001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147167571001\" data-video-id=\"6147167571001\" data-video-title=\"Jean B. Bingham\" data-ref-id=\"F6D90CF0431F63A0C51721D4076301572B204233\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147167571001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147167571001/640/360/995000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"102467423\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147167571001/1280/720/2126000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"218671448\"><\/video><h1 data-aid=\"143139608\" id=\"title1\">United in Accomplishing God&#x2019;s Work<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143139612\" id=\"author1\">By Jean&#xA0;B. Bingham<\/p>\n<p class=\"author-role\" data-aid=\"143139614\" id=\"author2\">Relief Society General President<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143139619\" id=\"kicker1\">The most effective way to fulfill our divine potential is to work together, blessed by the power and authority of the priesthood.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143139622\" id=\"p1\">Dear wonderful sisters and brothers, it is a delight to be with you. Wherever you are listening, I extend hugs to my sisters and heartfelt handshakes to my brothers. We are united in the work of the Lord.<\/p>\n<p data-aid=\"143139625\" id=\"p30\">When we think of Adam and Eve, often our first thought is of their idyllic life in the Garden of Eden. I imagine that the weather was always perfect&#xFEFF;&#x2014;not too hot and not too cold&#xFEFF;&#x2014;and that abundant, delicious fruits and vegetables grew within reach so they could eat whenever they liked. Since this was a new world for them, there was much to discover, so every day was interesting as they interacted with the animal life and explored their beautiful surroundings. They also were given commandments to obey and had different ways of approaching those instructions, which caused some initial anxiety and confusion.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> But as they made decisions that changed their lives forever, they learned to work together and became united in accomplishing the purposes God had for them&#xFEFF;&#x2014;and for all of His children.<\/p>\n<p data-aid=\"143139627\" id=\"p2\">Now picture this same couple in mortality. They had to labor for their food, some of the animals considered <em>them<\/em> food, and there were difficult challenges that could be overcome only as they counseled and prayed together. I imagine there were at least a few times they had differing opinions about how to approach those challenges. However, through the Fall, they had learned that it was essential to act in unity and love. In the tutoring they received from divine sources, they were taught the plan of salvation and the principles of the gospel of Jesus Christ that make the plan operable. Because they understood that their earthly purpose and eternal goal were identical, they found satisfaction and success in learning to labor in love and righteousness together.<\/p>\n<img alt=\"Adam and Eve teaching their children\" id=\"img1\" src=\"https://assets.ldscdn.org/11/a7/11a73bc2b74ff0d02d316e9a86ceb2af74f985b0/adam_eve_family_children_teaching.png\" data-img-id=\"2350194\" srcset=\"https://assets.ldscdn.org/87/56/87563f5510c1c22bd0c5194d8160c0dc8fe53c83/adam_eve_family_children_teaching.png 60w,https://assets.ldscdn.org/4b/be/4bbe21dd03c30b09db2eecce6ce920af081c72c2/adam_eve_family_children_teaching.png 100w,https://assets.ldscdn.org/24/c6/24c634d00087e7472c4b5c2c78d5edbfe585eec0/adam_eve_family_children_teaching.png 200w,https://assets.ldscdn.org/f9/a4/f9a4b8c1e58ae3b03b1bc85a2f184ee913072eec/adam_eve_family_children_teaching.png 250w,https://assets.ldscdn.org/cd/3a/cd3a08d2cde64b3b6ab053c1a762741cdc1c2f83/adam_eve_family_children_teaching.png 320w,https://assets.ldscdn.org/11/a7/11a73bc2b74ff0d02d316e9a86ceb2af74f985b0/adam_eve_family_children_teaching.png 500w,https://assets.ldscdn.org/ec/35/ec3529ba170507899c7ad7e1ca92a84c2c55cf8a/adam_eve_family_children_teaching.png 640w\" data-assetid=\"d44777aac2e16abee86a4ffc395b9b392f205767\" data-missing-asset=\"false\">\n<p data-aid=\"143139629\" id=\"p3\">As children were born to them, Adam and Eve taught their family what they had learned from heavenly messengers. They were focused on helping their children also understand and embrace those principles that would make them happy in this life, as well as prepared to return to their heavenly parents after having increased their abilities and proved their obedience to God. In the process, Adam and Eve learned to appreciate their differing strengths and supported one another in their eternally significant work.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"143139631\" id=\"p4\">As centuries and then millennia came and went, the clarity of men&#x2019;s and women&#x2019;s inspired and interdependent contributions became clouded with misinformation and misunderstandings. During the time between that marvelous beginning in the Garden of Eden and now, the adversary has been quite successful in his goal to divide men and women in his attempts to conquer our souls. Lucifer knows that if he can damage the unity men and women feel, if he can confuse us about our divine worth and covenant responsibilities, he will succeed in destroying families, which are the essential units of eternity.<\/p>\n<p data-aid=\"143139634\" id=\"p5\">Satan incites comparison as a tool to create feelings of being superior or inferior, hiding the eternal truth that men&#x2019;s and women&#x2019;s innate differences are God given and equally valued. He has attempted to demean women&#x2019;s contributions both to the family and in civil society, thereby decreasing their uplifting influence for good. His goal has been to foster a power struggle rather than a celebration of the unique contributions of men and women that complement one another and contribute to unity.<\/p>\n<p data-aid=\"143139636\" id=\"p6\">So, over the years and around the globe, a full understanding of the divinely interdependent and yet differing contributions and responsibilities of women and men largely disappeared. Females in many societies became subservient to males rather than side-by-side partners, their activities limited to a narrow scope. Spiritual progress slowed to a trickle during those dark times; indeed, little spiritual light could penetrate minds and hearts steeped in traditions of dominance.<\/p>\n<p data-aid=\"143139640\" id=\"p7\">And then the light of the restored gospel shone &#x201C;above the brightness of the sun&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> when God the Father and His Son, Jesus Christ, appeared to the boy Joseph Smith early in the spring of 1820 in that hallowed woodland in upstate New York. That event began a modern outpouring of revelation from heaven. One of the first elements of Christ&#x2019;s original Church to be restored was the authority of the priesthood of God. As the Restoration continued to unfold, men and women began to realize anew the importance and potential of working as partners, authorized and directed in this sacred labor by Him.<\/p>\n<img alt=\"Organization of the Relief Society\" id=\"img2\" src=\"https://assets.ldscdn.org/52/33/52336a51088eaf1d0fe393f68cca12f3c2c8bd85/relief_society_organization.png\" data-img-id=\"2350199\" srcset=\"https://assets.ldscdn.org/9e/05/9e0562b79d0c629d0bd09f6b20bcc6cbdece72a1/relief_society_organization.png 60w,https://assets.ldscdn.org/e9/81/e981648aa14e18909e8ef23f247a04a317788ad5/relief_society_organization.png 100w,https://assets.ldscdn.org/e6/a8/e6a8cd79a71e3b7a8ad7c1cd310486b85447233c/relief_society_organization.png 200w,https://assets.ldscdn.org/bb/62/bb62270f7e71fca7d2447b0d810aef96406844f5/relief_society_organization.png 250w,https://assets.ldscdn.org/79/f9/79f9e9587e5a17ecc53976744b4129e164f28115/relief_society_organization.png 320w,https://assets.ldscdn.org/52/33/52336a51088eaf1d0fe393f68cca12f3c2c8bd85/relief_society_organization.png 500w,https://assets.ldscdn.org/6a/5f/6a5f34ab7f41f40bf9436510cfd00689d62fce31/relief_society_organization.png 640w\" data-assetid=\"4e72389564073784f65dc137021be270c83ff713\" data-missing-asset=\"false\">\n<p data-aid=\"143139646\" id=\"p8\">In 1842, when the women of the fledgling Church wanted to form an official group to help in the work, President Joseph Smith felt inspired to organize them &#x201C;under the priesthood after the pattern of the priesthood.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> He said, &#x201C;I now turn the key to you in the name of God&#xA0;&#x2026;&#xFEFF;&#x2014;this is the beginning of better days.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> And since that key was turned, educational, political, and economic opportunities for women have begun to gradually expand throughout the world.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"143139648\" id=\"p9\">This new Church organization for women, named the Relief Society, was unlike other women&#x2019;s societies of the day because it was established by a prophet who acted with priesthood authority to give women authority, sacred responsibilities, and official positions within the structure of the Church, not apart from it.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"143139654\" id=\"p10\">From the Prophet Joseph Smith&#x2019;s day to ours, the ongoing restoration of all things has brought enlightenment on the necessity of the authority and power of the priesthood in helping both men and women accomplish their divinely appointed responsibilities. Recently we have been taught that women who are set apart under the direction of one holding priesthood keys operate with <em>priesthood authority<\/em> in their callings.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"143139661\" id=\"p11\">In October 2019, President Russell&#xA0;M. Nelson taught that women who are endowed in the temple have <em>priesthood power<\/em> in their lives and in their homes as they keep those sacred covenants they made with God.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> He explained that &#x201C;the heavens are just as open to <em>women<\/em> who are endowed with God&#x2019;s power flowing from their priesthood covenants as they are to men who bear the priesthood.&#x201D; And he encouraged every sister to &#x201C;draw liberally upon the Savior&#x2019;s power to help your family and others you love.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143139665\" id=\"p12\">So what does that mean for you and me? How does understanding priesthood authority and power change our lives? One of the keys is to understand that when women and men work together, we accomplish a great deal more than we do working separately.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Our roles are complementary rather than competitive. Although women are not ordained to a priesthood office, as noted previously women are blessed with priesthood power as they keep their covenants, and they operate with priesthood authority when they are set apart to a calling.<\/p>\n<p data-aid=\"143139669\" id=\"p13\">On a lovely August day, I was privileged to sit down with President Russell&#xA0;M. Nelson in the reconstructed home of Joseph and Emma Smith in Harmony, Pennsylvania, near where the Aaronic Priesthood was restored in these latter days. In our conversation, President Nelson talked about the important role women played in the Restoration.<\/p>\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147254802001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147254802001\" data-video-id=\"6147254802001\" data-video-title=\"The Important Role of Women in the Restoration\" data-ref-id=\"740BE0C4C19812F9CD95F68FC3DA079185027768\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147254802001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147254802001/640/360/986000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"8766713\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147254802001/1280/720/2118000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"18759469\"><\/video>\n<p data-aid=\"143139673\" id=\"p14\"><strong>President Nelson:<\/strong> &#x201C;One of the most important aspects that I am reminded of when I come to this restoration of the priesthood site is the important role that women played in the Restoration.<\/p>\n<p data-aid=\"143139677\" id=\"p15\">&#x201C;When Joseph first started to translate the Book of Mormon, who did the writing? Well, he did a little, but not much. Emma stepped in.<\/p>\n<p data-aid=\"143140681\" id=\"p16\">&#x201C;And then I think of how Joseph went into the woods to pray near their home in Palmyra, New York. Where did he go? He went to the Sacred Grove. Why did he go there? Because that&#x2019;s where Mother went when she wanted to pray.<\/p>\n<p data-aid=\"143140686\" id=\"p17\">&#x201C;Those are just two of the women who had key roles in the restoration of the priesthood and in the Restoration of the Church. No doubt, we could say our wives are just as important today as they were then. Of course they are.&#x201D;<\/p>\n<p data-aid=\"143140688\" id=\"p18\">Like Emma and Lucy and Joseph, we are most effective when we are willing to learn from one another and are united in our goal to become disciples of Jesus Christ and help others along that path.<\/p>\n<p data-aid=\"143140694\" id=\"p19\">We are taught that &#x201C;priesthood blesses the lives of God&#x2019;s children in innumerable ways. &#x2026; In [Church] callings, temple ordinances, family relationships, and quiet, individual ministry, Latter-day Saint women and men go forward with priesthood power and authority. This interdependence of men and women in accomplishing God&#x2019;s work through His power is central to the gospel of Jesus Christ restored through the Prophet Joseph Smith.&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"143140698\" id=\"p20\">Unity is essential to the divine work we are privileged and called to do, but it doesn&#x2019;t just happen. It takes effort and time to really counsel together&#xFEFF;&#x2014;to listen to one another, understand others&#x2019; viewpoints, and share experiences&#xFEFF;&#x2014;but the process results in more inspired decisions. Whether at home or in our Church responsibilities, the most effective way to fulfill our divine potential is to work together, blessed by the power and authority of the priesthood in our differing yet complementary roles.<\/p>\n<p data-aid=\"143140700\" id=\"p21\">What does that partnership look like in the lives of covenant women today? Let me share an example.<\/p>\n<img alt=\"Couple on tandem bicycle\" id=\"img3\" src=\"https://assets.ldscdn.org/c3/e2/c3e216dca857267efa050e9ffcf6e101301fa023/bike_riding_exercise.png\" data-img-id=\"2349969\" srcset=\"https://assets.ldscdn.org/50/e1/50e1308ad1641db26c94391a4b27109697ef0e43/bike_riding_exercise.png 60w,https://assets.ldscdn.org/50/75/507542bff36729f832f6eb6a21f0594ec369c728/bike_riding_exercise.png 100w,https://assets.ldscdn.org/14/e5/14e539704dd8c024ca9fedee8921e580f9af56d5/bike_riding_exercise.png 200w,https://assets.ldscdn.org/81/f8/81f85225f96d9e8d1eba99f1ac27b58411aae466/bike_riding_exercise.png 250w,https://assets.ldscdn.org/fa/f3/faf3ce823f9aea0a2eb248b31f95b8d17186722e/bike_riding_exercise.png 320w,https://assets.ldscdn.org/c3/e2/c3e216dca857267efa050e9ffcf6e101301fa023/bike_riding_exercise.png 500w,https://assets.ldscdn.org/43/30/4330516c8a0a8b83477330e2ab4731072dd048e8/bike_riding_exercise.png 640w\" data-assetid=\"60548696956994bc45be3c768f3e04da79d134c0\" data-missing-asset=\"false\">\n<p data-aid=\"143140705\" id=\"p22\">Alison and John had a partnership that was unique. They rode a tandem bicycle in races short and long. To successfully compete on that vehicle, the two riders must be in harmony. They have to lean in the same direction at the right time. One cannot dominate the other, but they must communicate clearly and each do his or her part. The captain, in front, has control over when to brake and when to stand. The stoker, in the back, needs to pay attention to what is going on and be ready to give extra power if they lag behind a little or to ease up if they get too close to other cyclists. They must support one another to make progress and achieve their goal.<\/p>\n<p data-aid=\"143140709\" id=\"p23\">Alison explained: &#x201C;For the first little while, the person in the captain position would say &#x2018;Stand&#x2019; when we needed to stand and &#x2018;Braking&#x2019; when we needed to stop pedaling. After a while, the person who was the stoker learned to tell when the captain was about to stand or brake, and no words needed to be said. We learned to be in tune to how each other was doing and could tell when one was struggling and [then] the other tried to pick up the slack. It&#x2019;s really all about trust and working together.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"143140713\" id=\"p24\">John and Alison were united not only as they pedaled their bicycle, but they were united in their marriage as well. Each desired the happiness of the other more than his or her own; each looked for the good in one another and worked to overcome the not-so-great in him or herself. They took turns leading and took turns giving more when one partner was struggling. Each valued the other&#x2019;s contributions and found better answers to their challenges as they combined their talents and resources. They are truly bound to one another through Christlike love.<\/p>\n<p data-aid=\"143140716\" id=\"p25\">Becoming more in tune with the divine pattern of working together in unity is critical in this day of &#x201C;me first&#x201D; messages that surround us. Women do possess distinctive, divine gifts<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> and are given unique responsibilities, but those are not more&#xFEFF;&#x2014;or less&#xFEFF;&#x2014;important than men&#x2019;s gifts and responsibilities. <em>All<\/em> are designed and needed to bring about Heavenly Father&#x2019;s divine plan to give each of His children the best opportunity to fulfill his or her divine potential.<\/p>\n<p data-aid=\"143140720\" id=\"p26\">Today, &#x201C;we need women who have the courage and vision of our Mother Eve&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> to unite with their brethren in bringing souls unto Christ.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Men need to become true partners rather than assume they are solely responsible or act as &#x201C;pretend&#x201D; partners while women carry out much of the work. Women need to be willing to &#x201C;step forward [and] take [their] rightful and needful place&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> as partners rather than thinking they need to do it all by themselves or wait to be told what to do.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"143140724\" id=\"p27\">Seeing women as vital participants is not about creating parity but about understanding doctrinal truth. Rather than establishing a program to bring that about, we can actively work to value women as God does: as essential partners in the work of salvation and exaltation.<\/p>\n<p data-aid=\"143140727\" id=\"p28\">Are we ready? Will we strive to overcome cultural bias and instead embrace divine patterns and practices based on foundational doctrine? President Russell&#xA0;M. Nelson invites us to &#x201C;walk arm in arm in this sacred work &#x2026; [to] help prepare the world for the Second Coming of the Lord.&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> As we do, we will learn to value each individual&#x2019;s contributions and increase the effectiveness with which we fulfill our divine roles. We will feel greater joy than we have ever experienced.<\/p>\n<p data-aid=\"143140730\" id=\"p29\">May each of us choose to become united in the Lord&#x2019;s inspired way to help His work go forward. In the name of our beloved Savior, Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "143139646",
+        "id": "note4",
+        "text": "<p data-aid=\"143140745\" id=\"note4_p1\">Joseph Smith, in Sarah&#xA0;M. Kimball, &#x201C;Auto-Biography,&#x201D; <cite>Woman&#x2019;s Exponent,<\/cite> Sept.&#xA0;1, 1883, 51; see also <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-39?lang=eng&amp;para=reference1#reference1\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 451.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-39?lang=eng&para=reference1#reference1",
+          "text": "Teachings of Presidents of the Church: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "143139646",
+        "id": "note5",
+        "text": "<p data-aid=\"143140747\" id=\"note5_p1\">Joseph Smith, in &#x201C;<a href=\"https://www.josephsmithpapers.org/paper-summary/nauvoo-relief-society-minute-book/37\">Nauvoo Relief Society Minute Book<\/a>,&#x201D; 40, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/nauvoo-relief-society-minute-book/37",
+          "text": "Nauvoo Relief Society Minute Book"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "143139629",
+        "id": "note2",
+        "text": "<p data-aid=\"143140739\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.1-12?lang=eng#p1\">Moses 5:1&#x2013;12<\/a>. These verses teach of Adam and Eve&#x2019;s true partnership: they had children together (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.2?lang=eng#p2\">verse 2<\/a>); they labored together in providing for themselves and their family (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.1?lang=eng#p1\">verse 1<\/a>); they prayed together (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.1?lang=eng#p1\">verse 4<\/a>); they obeyed the commandments of God and offered sacrifices together (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.5?lang=eng#p5\">verse 5<\/a>); they learned (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.4?lang=eng#p4\">verses 4<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.6-11?lang=eng#p6\">6&#x2013;11<\/a>) and taught the gospel of Jesus Christ to their children together (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.12?lang=eng#p12\">verse 12<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/5.1-12?lang=eng#p1",
+            "text": "Moses 5:1\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.2?lang=eng#p2",
+            "text": "verse 2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.1?lang=eng#p1",
+            "text": "verse 1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.1?lang=eng#p1",
+            "text": "verse 4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.5?lang=eng#p5",
+            "text": "verse 5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.4?lang=eng#p4",
+            "text": "verses 4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.6-11?lang=eng#p6",
+            "text": "6\u201311",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.12?lang=eng#p12",
+            "text": "verse 12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "143139640",
+        "id": "note3",
+        "text": "<p data-aid=\"143140742\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.16?lang=eng#p16\">Joseph Smith&#xFEFF;&#x2014;History 1:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.16?lang=eng#p16",
+          "text": "Joseph Smith﻿\u2014History 1:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "143139654",
+        "id": "note8",
+        "text": "<p data-aid=\"143140751\" id=\"note8_p1\">See Dallin&#xA0;H. Oaks, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng\">The Keys and Authority of the Priesthood<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2014, 49&#x2013;52.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng",
+          "text": "The Keys and Authority of the Priesthood",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "143139661",
+        "id": "note9",
+        "text": "<p data-aid=\"143140752\" id=\"note9_p1\">See Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng\">Spiritual Treasures<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2019, 78, 79.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/36nelson?lang=eng",
+          "text": "Spiritual Treasures",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "143139646",
+        "id": "note6",
+        "text": "<p data-aid=\"143140749\" id=\"note6_p1\">See George Albert Smith, &#x201C;Address to the Members of the Relief Society,&#x201D; <cite>Relief Society Magazine,<\/cite> Dec. 1945, 717.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "143139648",
+        "id": "note7",
+        "text": "<p data-aid=\"143140750\" id=\"note7_p1\">See John Taylor, in Nauvoo Relief Society Minutes, Mar.&#xA0;17, 1842, available at churchhistorianspress.org. According to Eliza&#xA0;R. Snow, Joseph Smith also taught that women had been formally organized in previous dispensations (see Eliza&#xA0;R. Snow, &#x201C;Female Relief Society,&#x201D; <cite>Deseret News,<\/cite> Apr.&#xA0;22, 1868, 1; <cite><a class=\"cross-ref\" href=\"/study/manual/daughters-in-my-kingdom-the-history-and-work-of-relief-society/relief-society-a-restoration-of-an-ancient-pattern?lang=eng&amp;para=reference1#reference1\">Daughters in My Kingdom: The History and Work of Relief Society<\/a><\/cite> [2011], 1&#x2013;7).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/daughters-in-my-kingdom-the-history-and-work-of-relief-society/relief-society-a-restoration-of-an-ancient-pattern?lang=eng&para=reference1#reference1",
+          "text": "Daughters in My Kingdom: The History and Work of Relief Society",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "143140720",
+        "id": "note16",
+        "text": "<p data-aid=\"143140762\" id=\"note16_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&amp;para=title18#title18\">General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/a>,<\/cite> 1.4, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&para=title18#title18",
+          "text": "General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "143140720",
+        "id": "note15",
+        "text": "<p data-aid=\"143140760\" id=\"note15_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng\">A Plea to My Sisters<\/a>,&#x201D; 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng",
+          "text": "A Plea to My Sisters",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "143140716",
+        "id": "note14",
+        "text": "<p data-aid=\"143140758\" id=\"note14_p1\">See Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng\">A Plea to My Sisters<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2015, 95&#x2013;97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng",
+          "text": "A Plea to My Sisters",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "143140709",
+        "id": "note13",
+        "text": "<p data-aid=\"143140756\" id=\"note13_p1\">Personal correspondence.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "143140694",
+        "id": "note12",
+        "text": "<p data-aid=\"143140755\" id=\"note12_p1\">Gospel Topics, &#x201C;<a class=\"cross-ref\" href=\"/study/manual/gospel-topics-essays/joseph-smiths-teachings-about-priesthood-temple-and-women?lang=eng&amp;para=reference1#reference1\">Joseph Smith&#x2019;s Teachings about Priesthood, Temple, and Women<\/a>,&#x201D; topics.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/gospel-topics-essays/joseph-smiths-teachings-about-priesthood-temple-and-women?lang=eng&para=reference1#reference1",
+          "text": "Joseph Smith\u2019s Teachings about Priesthood, Temple, and Women",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "143139665",
+        "id": "note11",
+        "text": "<p data-aid=\"143140754\" id=\"note11_p1\">&#x201C;But the restored gospel teaches the eternal idea that husbands and wives are <em>interdependent<\/em> with each other. They are equal. They are partners&#x201D; (Bruce&#xA0;R. and Marie&#xA0;K. Hafen, &#x201C;<a class=\"cross-ref\" href=\"/study/liahona/2007/08/crossing-thresholds-and-becoming-equal-partners?lang=eng&amp;para=reference1#reference1\">Crossing Thresholds and Becoming Equal Partners<\/a>,&#x201D; <cite>Ensign,<\/cite> Aug. 2007, 26; <cite>Liahona,<\/cite> Aug. 2007, 28).<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2007/08/crossing-thresholds-and-becoming-equal-partners?lang=eng&para=reference1#reference1",
+          "text": "Crossing Thresholds and Becoming Equal Partners",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "143139661",
+        "id": "note10",
+        "text": "<p data-aid=\"143140753\" id=\"note10_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng\">Spiritual Treasures<\/a>,&#x201D; 77.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/36nelson?lang=eng",
+          "text": "Spiritual Treasures",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "143139625",
+        "id": "note1",
+        "text": "<p data-aid=\"143140737\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/3.1-18?lang=eng#p1\">Genesis 3:1&#x2013;18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4.1-19?lang=eng#p1\">Moses 4:1&#x2013;19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/3.1-18?lang=eng#p1",
+            "text": "Genesis 3:1\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/4.1-19?lang=eng#p1",
+            "text": "Moses 4:1\u201319",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "143140727",
+        "id": "note19",
+        "text": "<p data-aid=\"143140769\" id=\"note19_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng\">A Plea to My Sisters<\/a>,&#x201D; 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng",
+          "text": "A Plea to My Sisters",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "143140720",
+        "id": "note18",
+        "text": "<p data-aid=\"143140765\" id=\"note18_p1\">&#x201C;My dear sisters, whatever your calling, whatever your circumstances, we need your impressions, your insights, and your inspiration. We need you to speak up and speak out in ward and stake councils. We need each married sister to speak as &#x2018;a <em>contributing<\/em> and <em>full<\/em> partner&#x2019; as you unite with your husband in governing your family. Married or single, you sisters possess distinctive capabilities and special intuition you have received as gifts from God. We brethren cannot duplicate your unique influence.&#xA0;&#x2026;<\/p>\n<p data-aid=\"143140767\" id=\"note18_p2\">&#x201C;&#x2026;&#xA0;We need your strength!&#x201D; (Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng\">A Plea to My Sisters<\/a>,&#x201D; 97).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng",
+          "text": "A Plea to My Sisters",
+          "type": "cross-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "143140720",
+        "id": "note17",
+        "text": "<p data-aid=\"143140764\" id=\"note17_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng\">A Plea to My Sisters<\/a>,&#x201D; 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng",
+          "text": "A Plea to My Sisters",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

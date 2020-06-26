@@ -1,0 +1,370 @@
+{
+  "tableOfContentsUri": "/ensign/2019/11",
+  "meta": {
+    "pdf": {
+      "name": "pagePdf",
+      "source": "https://media.ldscdn.org/pdf/magazines/ensign-november-2019/2019-11-0003-the-message-the-meaning-and-the-multitude-eng.pdf"
+    },
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2019/11/11holland",
+      "data-aid": "141535474",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "55db0fad0c5e4a5d9673c689669d99c2",
+      "data-aid-version": "2",
+      "data-orig-id": "55db0fad0c5e4a5d9673c689669d99c2"
+    },
+    "ogTagImageUrl": "https://mediasrv.lds.org/media-services/GA/thumbnail/6092544519001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-1010-jeffrey-r-holland-64k-eng.mp3"
+    }],
+    "title": "The Message, the Meaning, and the Multitude",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141535474",
+      {"key": "141535474"}
+    ],
+    [
+      "141535475",
+      {"key": "141535475"}
+    ],
+    [
+      "141535476",
+      {"key": "141535476"}
+    ],
+    [
+      "141535477",
+      {"key": "141535477"}
+    ],
+    [
+      "141535478",
+      {"key": "141535478"}
+    ],
+    [
+      "141535480",
+      {"key": "141535480"}
+    ],
+    [
+      "141535482",
+      {"key": "141535482"}
+    ],
+    [
+      "141535484",
+      {"key": "141535484"}
+    ],
+    [
+      "141535487",
+      {"key": "141535487"}
+    ],
+    [
+      "141535489",
+      {"key": "141535489"}
+    ],
+    [
+      "141535492",
+      {"key": "141535492"}
+    ],
+    [
+      "141535496",
+      {"key": "141535496"}
+    ],
+    [
+      "141535500",
+      {"key": "141535500"}
+    ],
+    [
+      "141535505",
+      {"key": "141535505"}
+    ],
+    [
+      "141535509",
+      {"key": "141535509"}
+    ],
+    [
+      "141535513",
+      {"key": "141535513"}
+    ],
+    [
+      "141535517",
+      {"key": "141535517"}
+    ],
+    [
+      "141535522",
+      {"key": "141535522"}
+    ],
+    [
+      "141535529",
+      {"key": "141535529"}
+    ],
+    [
+      "141535537",
+      {"key": "141535537"}
+    ],
+    [
+      "141535546",
+      {"key": "141535546"}
+    ],
+    [
+      "141535552",
+      {"key": "141535552"}
+    ],
+    [
+      "141535559",
+      {"key": "141535559"}
+    ],
+    [
+      "141535564",
+      {"key": "141535564"}
+    ],
+    [
+      "141535570",
+      {"key": "141535570"}
+    ],
+    [
+      "141535573",
+      {"key": "141535573"}
+    ],
+    [
+      "141535577",
+      {"key": "141535577"}
+    ],
+    [
+      "141535583",
+      {"key": "141535583"}
+    ],
+    [
+      "141535589",
+      {"key": "141535589"}
+    ],
+    [
+      "141535597",
+      {"key": "141535597"}
+    ],
+    [
+      "141535602",
+      {"key": "141535602"}
+    ],
+    [
+      "141535605",
+      {"key": "141535605"}
+    ],
+    [
+      "141535609",
+      {"key": "141535609"}
+    ],
+    [
+      "141535613",
+      {"key": "141535613"}
+    ],
+    [
+      "141535618",
+      {"key": "141535618"}
+    ],
+    [
+      "141535621",
+      {"key": "141535621"}
+    ],
+    [
+      "141535628",
+      {"key": "141535628"}
+    ],
+    [
+      "141535632",
+      {"key": "141535632"}
+    ],
+    [
+      "141535637",
+      {"key": "141535637"}
+    ]
+  ],
+  "uri": "/ensign/2019/11/11holland",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "The Message, the Meaning, and the Multitude",
+          "title": "The Message, the Meaning, and the Multitude"
+        },
+        "pageSocial": {
+          "description": "The Message, the Meaning, and the Multitude",
+          "title": "The Message, the Meaning, and the Multitude"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.lds.org/media-services/GA/videoStill/6092544519001\" thumbnail=\"https://mediasrv.lds.org/media-services/GA/thumbnail/6092544519001\" data-video-id=\"6092544519001\" data-video-title=\"The Message, the Meaning, and the Multitude\" data-ref-id=\"75AA9008F475935738FCC2A8C21BA655DEA0371C\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.lds.org/media-services/GA/type/6092544519001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092544519001/640/360/995000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"110583877\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092544519001/1280/720/2127000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"236077336\"><track kind=\"captions\" srclang=\"eng\" src=\"https://media.ldscdn.org/webvtt/general-conference/october-2019-general-conference/2019-10-1010-jeffrey-r-holland-eng.vtt\"><\/video><h1 data-aid=\"141535475\" id=\"title1\">The Message, the Meaning, and the Multitude<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141535476\" id=\"author1\">By Elder Jeffrey&#xA0;R. Holland<\/p>\n<p class=\"author-role\" data-aid=\"141535477\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141535478\" id=\"kicker1\">Through the incessant din and drumbeat of our day, may we strive to see Christ at the center of our lives, of our faith, and of our service.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141535480\" id=\"p1\">Brothers and sisters, this is Sammy Ho Ching, seven months old, watching general conference on television in his home last April.<\/p>\n<img alt=\"Sammy Ho Ching watching conference\" id=\"img1\" src=\"https://assets.ldscdn.org/1d/f7/1df7060486114f8ba597210d68116fb15d4b5857/sammie_watching_conference.png\" data-img-id=\"2293561\" srcset=\"https://assets.ldscdn.org/4b/9b/4b9b08c96cf7b984b84f966ec71dfc6c0f93e14d/sammie_watching_conference.png 30w,https://assets.ldscdn.org/68/31/68316d87f63d397721a8ff06a9db8effc143e0cc/sammie_watching_conference.png 60w,https://assets.ldscdn.org/75/4b/754bcbc853d76b54c39a33790f8ee2c216a3ec25/sammie_watching_conference.png 64w,https://assets.ldscdn.org/e0/57/e05758f4800f436c661c72faccc234b153c35951/sammie_watching_conference.png 100w,https://assets.ldscdn.org/a7/f8/a7f804a40d0c4adcbc584f572138d78ceebd0df8/sammie_watching_conference.png 200w,https://assets.ldscdn.org/d4/89/d48996ea0259d8144c225d08b0e385b6920e0358/sammie_watching_conference.png 205w,https://assets.ldscdn.org/82/ea/82ea01a02c8d43ef5b092166fcfeb438df15df1f/sammie_watching_conference.png 250w,https://assets.ldscdn.org/b8/01/b801a81f6346558098b589ab9191d22b0167d3bf/sammie_watching_conference.png 320w,https://assets.ldscdn.org/1d/f7/1df7060486114f8ba597210d68116fb15d4b5857/sammie_watching_conference.png 500w,https://assets.ldscdn.org/98/f2/98f24e84afec77431dfe4a12d99d322a6602d810/sammie_watching_conference.png 640w\" data-assetid=\"a52cd9a35ff3d1128861d30c478a099fbb5de5cc\" data-missing-asset=\"false\">\n<p data-aid=\"141535482\" id=\"p2\">As time approached to sustain President Russell&#xA0;M. Nelson and the other General Authorities, Sammy&#x2019;s arms were busy holding his bottle. So he did the next best thing.<\/p>\n<img alt=\"Sammy Ho Ching during sustaining\" id=\"img2\" src=\"https://assets.ldscdn.org/c8/2f/c82f1dca71236bf1b70a8c52fb75495e10547c46/sammie_watching_conference.png\" data-img-id=\"2293563\" srcset=\"https://assets.ldscdn.org/8d/68/8d68ed808dc21818a1d8398b947d32d5cdf3ab63/sammie_watching_conference.png 30w,https://assets.ldscdn.org/67/4a/674aaed099dd8fb31dc91face33e9bd4a66ee5c6/sammie_watching_conference.png 60w,https://assets.ldscdn.org/ac/68/ac683b78444a5be3775feed86037c06c3bc7d4b6/sammie_watching_conference.png 64w,https://assets.ldscdn.org/d5/0c/d50ce013b033aa170b2fe0193aaebef829101f71/sammie_watching_conference.png 100w,https://assets.ldscdn.org/79/b7/79b7492f7d9696ad9cb076a354b5698b7b863438/sammie_watching_conference.png 200w,https://assets.ldscdn.org/cb/a8/cba89bf806c5f661db0707d69b79e6baf7c01058/sammie_watching_conference.png 205w,https://assets.ldscdn.org/1a/cb/1acbb584d5a8705136d577f214719669546f36d9/sammie_watching_conference.png 250w,https://assets.ldscdn.org/f0/ba/f0ba2a392a1c761619fd960482f3511d772604ab/sammie_watching_conference.png 320w,https://assets.ldscdn.org/c8/2f/c82f1dca71236bf1b70a8c52fb75495e10547c46/sammie_watching_conference.png 500w,https://assets.ldscdn.org/27/1c/271c2f26fc27fc89da9da0a7a18955dcc4e780df/sammie_watching_conference.png 640w\" data-assetid=\"6ff4ee5b79da5fce368634cb35a8a1dfc2465363\" data-missing-asset=\"false\">\n<p data-aid=\"141535484\" id=\"p3\">Sammy gives entirely new meaning to the concept of voting with your feet.<\/p>\n<p data-aid=\"141535487\" id=\"p4\">Welcome to this semiannual conference of The Church of Jesus Christ of Latter-day Saints. To set the stage for a discussion of the meaning of these twice-a-year gatherings, I invoke this scene from Luke&#x2019;s New Testament account:<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"141535489\" id=\"p5\">&#x201C;It came to pass, that as [Jesus] was come nigh unto Jericho, a certain blind man sat by the way side begging:<\/p>\n<p data-aid=\"141535492\" id=\"p6\">&#x201C;&#x2026; <em>Hearing [a] multitude pass by, he asked what it meant.<\/em><\/p>\n<p data-aid=\"141535496\" id=\"p7\">&#x201C;&#x2026; They told him, that Jesus of Nazareth passeth by.<\/p>\n<p data-aid=\"141535500\" id=\"p8\">&#x201C;And he cried, saying, Jesus, thou Son of David, have mercy on me.&#x201D;<\/p>\n<p data-aid=\"141535505\" id=\"p9\">Startled at his boldness, the crowd tried to silence the man, but &#x201C;he cried so much the more,&#x201D; it says. As a result of his persistence, he was brought to Jesus, who heard his faith-filled plea for the restoration of his sight and healed him.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"141535509\" id=\"p10\">I am moved by this vivid little vignette every time I read it. We can sense the man&#x2019;s distress. We can almost hear him shouting for the Savior&#x2019;s attention. We smile at his refusal to be silenced&#xFEFF;&#x2014;indeed, his determination to turn the volume <em>up<\/em> when everyone else was telling him to turn it <em>down.<\/em> It is, in and of itself, a sweet story of very determined faith. But as with all scripture, the more we read it, the more we find in it.<\/p>\n<p data-aid=\"141535513\" id=\"p11\">One thought that struck me only recently is the good sense this man had in having spiritually sensitive people around him. The entire significance of this story hinges on a handful of anonymous women and men who, when asked by their colleague, &#x201C;What does this commotion mean?&#x201D; had the vision, if you will, to identify Christ as the reason for the clamor; He was Meaning Personified. There is a lesson in this little exchange for all of us. In matters of faith and conviction, it helps to direct your inquiry toward those who actually have some! &#x201C;Can the blind lead the blind?&#x201D; Jesus once asked. &#x201C;[If so,] shall they not both fall into the ditch?&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"141535517\" id=\"p12\">Such a quest for faith and conviction is our purpose in these conferences, and by joining with us today, you will realize that this search is a broadly shared endeavor. Look around you. Here on these grounds you see families of all sizes coming from every direction. Old friends embrace in joyful reunion, a marvelous choir is warming up, and protestors shout from their favorite soapbox. Missionaries of an earlier day look for former companions, while recently returned missionaries look for entirely <em>new<\/em> companions (if you know what I mean!). And photos? Heaven help us! With cell phones in every hand, we have morphed from &#x201C;every member a missionary&#x201D; to &#x201C;every member a photographer.&#x201D; In the midst of all of this delightful commotion, one could justifiably ask, &#x201C;What does it all mean?&#x201D;<\/p>\n<p data-aid=\"141535522\" id=\"p13\">As in our New Testament story, those blessed with sight will recognize that, in spite of everything else this conference tradition may offer us, it will mean little or nothing unless we find Jesus at the center of it all. To grasp the vision we are seeking, the healing that He promises, the significance we somehow know is here, we must cut through the commotion&#xFEFF;&#x2014;joyful as it is&#xFEFF;&#x2014;and fix our attention on Him. The prayer of every speaker, the hope of all who sing, the reverence of every guest&#xFEFF;&#x2014;all are dedicated to inviting the Spirit of Him whose Church this is&#xFEFF;&#x2014;the living Christ, the Lamb of God, the Prince of Peace.<\/p>\n<p data-aid=\"141535529\" id=\"p14\">But we don&#x2019;t have to be in a conference center to find Him. When a child reads the Book of Mormon for the first time and is enamored with Abinadi&#x2019;s courage or the march of 2,000 stripling warriors, we can gently add that Jesus is the omnipresent central figure in this marvelous chronicle, standing like a colossus over virtually every page of it and providing the link to all of the other faith-promoting figures in it.<\/p>\n<p data-aid=\"141535537\" id=\"p15\">Likewise, when a friend is learning about our faith, she or he can be a bit overwhelmed by some of the unique elements and unfamiliar vocabulary of our religious practice&#xFEFF;&#x2014;dietary restrictions, self-reliance supplies, pioneer treks, digitized family trees, with an untold number of stake centers where some have undoubtedly expected to be served a fine charbroiled sirloin, medium-rare. So, as our new friends experience a multitude of new sights and sounds, we must point past the hustle and bustle and concentrate them on the meaning of it all, on the beating heart of the eternal gospel&#xFEFF;&#x2014;the love of Heavenly Parents, the atoning gift of a divine Son, the comforting guidance of the Holy Ghost, the latter-day restoration of all these truths and so much more.<\/p>\n<p data-aid=\"141535546\" id=\"p16\">When one goes to the holy temple for the first time, he or she may be somewhat awestruck by that experience. Our job is to ensure that the sacred symbols and revealed rituals, the ceremonial clothing and visual presentations, never distract from but rather point toward the Savior, whom we are there to worship. The temple is His house, and He should be uppermost in our minds and hearts&#xFEFF;&#x2014;the majestic doctrine of Christ pervading our very being just as it pervades the temple ordinances&#xFEFF;&#x2014;from the time we read the inscription over the front door to the very last moment we spend in the building. Amid all the wonder we encounter, we are to see, above all else, the meaning of Jesus in the temple.<\/p>\n<p data-aid=\"141535552\" id=\"p17\">Consider the swirl of bold initiatives and new announcements in the Church in these recent months. As we minister to one another, or refine our Sabbath experience, or embrace a new program for children and youth, we will miss the real reason for these revelatory adjustments if we see them as disparate, unrelated elements rather than as an interrelated effort to help us build more firmly on the Rock of our Salvation.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Surely, surely, this is what President Russell&#xA0;M. Nelson intends in having us use the revealed name of the Church.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> If Jesus&#xFEFF;&#x2014;His name, His doctrine, His example, His divinity&#xFEFF;&#x2014;can be at the center of our worship, we will be reinforcing the great truth Alma once taught: &#x201C;There be many things to come; [but] behold, there is one thing which is of more importance than they all&#xFEFF;&#x2014; &#x2026; the Redeemer [who] liveth and cometh among his people.&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"141535559\" id=\"p18\">One concluding thought: Joseph Smith&#x2019;s 19th-century frontier environment was aflame with competing crowds of Christian witnesses.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> But in the tumult they created, these exuberant revivalists were, ironically, obscuring the very Savior young Joseph so earnestly sought. Battling what he called &#x201C;darkness and confusion,&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> he retreated to the solitude of a grove of trees where he saw and heard a more glorious witness of the Savior&#x2019;s centrality to the gospel than anything we have mentioned here this morning. With a gift of sight unimagined and unanticipated, Joseph beheld in vision his Heavenly Father, the great God of the universe, and Jesus Christ, His perfect Only Begotten Son. Then the Father set the example we have been applauding this morning: He pointed to Jesus, saying: &#x201C;This is My Beloved Son. Hear Him!&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> No greater expression of Jesus&#x2019;s divine identity, His primacy in the plan of salvation, and His standing in the eyes of God could ever exceed that short seven-word declaration.<\/p>\n<p data-aid=\"141535564\" id=\"p19\">Commotion and confusion? Crowds and contention? There is plenty of all that in our world. Indeed, skeptics and the faithful still contend over this vision and virtually all else I have referred to today. In case <em>you<\/em> may be striving to see more clearly and to find meaning in the midst of a multitude of opinions, I point you toward that same Jesus and bear apostolic witness of Joseph Smith&#x2019;s experience, coming as it did some 1,800 years after our blind friend received his sight on the ancient Jericho Road. I testify with these two and a host of others down through time that surely the most thrilling sight and sound in life is that of Jesus not only passing by<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> but His coming <em>to<\/em> us, stopping <em>beside<\/em> us, and making His abode <em>with<\/em> us.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"141535570\" id=\"p20\">Sisters and brothers, through the incessant din and drumbeat of our day, may we strive to see Christ at the center of our lives, of our faith, and of our service. That is where true meaning lies. And if some days our vision is limited or our confidence has waned or our belief is being tested and refined&#xFEFF;&#x2014;as surely it will be&#xFEFF;&#x2014;may we then cry out the louder, &#x201C;Jesus, thou son of David, have mercy on me.&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> I promise with apostolic fervor and prophetic conviction that He will hear you and will say, soon or late, &#x201C;Receive thy sight: thy faith hath saved thee.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Welcome to general conference. In the name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141535552",
+        "id": "note4",
+        "text": "<p data-aid=\"141535597\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.45?lang=eng#p45\">2&#xA0;Nephi 9:45<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/9.45?lang=eng#p45",
+          "text": "2 Nephi 9:45",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141535552",
+        "id": "note5",
+        "text": "<p data-aid=\"141535602\" id=\"note5_p1\">See Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng\">The Correct Name of the Church<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2018, 87&#x2013;89.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng",
+          "text": "The Correct Name of the Church",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141535505",
+        "id": "note2",
+        "text": "<p data-aid=\"141535583\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.35-43?lang=eng#p35\">Luke 18:35&#x2013;43<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18.35-43?lang=eng#p35",
+          "text": "Luke 18:35\u201343",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141535513",
+        "id": "note3",
+        "text": "<p data-aid=\"141535589\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.39?lang=eng#p39\">Luke 6:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6.39?lang=eng#p39",
+          "text": "Luke 6:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141535559",
+        "id": "note8",
+        "text": "<p data-aid=\"141535613\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.13?lang=eng#p13\">Joseph Smith&#xFEFF;&#x2014;History 1:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.13?lang=eng#p13",
+          "text": "Joseph Smith﻿\u2014History 1:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141535559",
+        "id": "note9",
+        "text": "<p data-aid=\"141535618\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith&#xFEFF;&#x2014;History 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
+          "text": "Joseph Smith﻿\u2014History 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141535552",
+        "id": "note6",
+        "text": "<p data-aid=\"141535605\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.7?lang=eng#p7\">Alma 7:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.7?lang=eng#p7",
+          "text": "Alma 7:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141535559",
+        "id": "note7",
+        "text": "<p data-aid=\"141535609\" id=\"note7_p1\">The region in upstate New York near Palmyra was often referred to as &#x201C;the burned-over district&#x201D; due to the religious zeal that regularly swept through those small communities.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141535570",
+        "id": "note13",
+        "text": "<p data-aid=\"141535637\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.42?lang=eng#p42\">Luke 18:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18.42?lang=eng#p42",
+          "text": "Luke 18:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141535570",
+        "id": "note12",
+        "text": "<p data-aid=\"141535632\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.47?lang=eng#p47\">Mark 10:47<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/10.47?lang=eng#p47",
+          "text": "Mark 10:47",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141535564",
+        "id": "note11",
+        "text": "<p data-aid=\"141535628\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.23?lang=eng#p23\">John 14:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.23?lang=eng#p23",
+          "text": "John 14:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141535564",
+        "id": "note10",
+        "text": "<p data-aid=\"141535621\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.37?lang=eng#p37\">Luke 18:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18.37?lang=eng#p37",
+          "text": "Luke 18:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141535487",
+        "id": "note1",
+        "text": "<p data-aid=\"141535577\" id=\"note1_p1\">This may or may not be the same incident recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.30-34?lang=eng#p30\">Matthew 20:30&#x2013;34<\/a>, in which there are two blind men responding, or the one recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.46-52?lang=eng#p46\">Mark 10:46&#x2013;52<\/a>, in which the blind man is identified as Bartimaeus, the son of Timaeus.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/20.30-34?lang=eng#p30",
+            "text": "Matthew 20:30\u201334",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/10.46-52?lang=eng#p46",
+            "text": "Mark 10:46\u201352",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

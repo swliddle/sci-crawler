@@ -1,0 +1,526 @@
+{
+  "tableOfContentsUri": "/ensign/2019/11",
+  "meta": {
+    "pdf": {
+      "name": "pagePdf",
+      "source": "https://media.ldscdn.org/pdf/magazines/ensign-november-2019/2019-11-0020-honoring-his-name-eng.pdf"
+    },
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2019/11/32harkness",
+      "data-aid": "141536885",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "ee9b0fc5e216423fb8afd79374a2ca1f",
+      "data-aid-version": "3",
+      "data-orig-id": "ee9b0fc5e216423fb8afd79374a2ca1f"
+    },
+    "ogTagImageUrl": "https://mediasrv.lds.org/media-services/GA/thumbnail/6092601061001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-3020-lisa-harkness-64k-eng.mp3"
+    }],
+    "title": "Honoring His Name",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141536885",
+      {"key": "141536885"}
+    ],
+    [
+      "141536887",
+      {"key": "141536887"}
+    ],
+    [
+      "141536889",
+      {"key": "141536889"}
+    ],
+    [
+      "141536891",
+      {"key": "141536891"}
+    ],
+    [
+      "141536893",
+      {"key": "141536893"}
+    ],
+    [
+      "141536895",
+      {"key": "141536895"}
+    ],
+    [
+      "141536897",
+      {"key": "141536897"}
+    ],
+    [
+      "141536899",
+      {"key": "141536899"}
+    ],
+    [
+      "141536901",
+      {"key": "141536901"}
+    ],
+    [
+      "141536903",
+      {"key": "141536903"}
+    ],
+    [
+      "141536905",
+      {"key": "141536905"}
+    ],
+    [
+      "141536907",
+      {"key": "141536907"}
+    ],
+    [
+      "141536909",
+      {"key": "141536909"}
+    ],
+    [
+      "141536911",
+      {"key": "141536911"}
+    ],
+    [
+      "141536914",
+      {"key": "141536914"}
+    ],
+    [
+      "141536916",
+      {"key": "141536916"}
+    ],
+    [
+      "141536917",
+      {"key": "141536917"}
+    ],
+    [
+      "141536925",
+      {"key": "141536925"}
+    ],
+    [
+      "141536929",
+      {"key": "141536929"}
+    ],
+    [
+      "141536939",
+      {"key": "141536939"}
+    ],
+    [
+      "141536945",
+      {"key": "141536945"}
+    ],
+    [
+      "141536950",
+      {"key": "141536950"}
+    ],
+    [
+      "141536955",
+      {"key": "141536955"}
+    ],
+    [
+      "141536961",
+      {"key": "141536961"}
+    ],
+    [
+      "141536967",
+      {"key": "141536967"}
+    ],
+    [
+      "141536974",
+      {"key": "141536974"}
+    ],
+    [
+      "141536982",
+      {"key": "141536982"}
+    ],
+    [
+      "141536989",
+      {"key": "141536989"}
+    ],
+    [
+      "141536993",
+      {"key": "141536993"}
+    ],
+    [
+      "141537003",
+      {"key": "141537003"}
+    ],
+    [
+      "141537010",
+      {"key": "141537010"}
+    ],
+    [
+      "141537017",
+      {"key": "141537017"}
+    ],
+    [
+      "141537025",
+      {"key": "141537025"}
+    ],
+    [
+      "141537032",
+      {"key": "141537032"}
+    ],
+    [
+      "141537040",
+      {"key": "141537040"}
+    ],
+    [
+      "141537047",
+      {"key": "141537047"}
+    ],
+    [
+      "141537054",
+      {"key": "141537054"}
+    ],
+    [
+      "141537064",
+      {"key": "141537064"}
+    ],
+    [
+      "141537072",
+      {"key": "141537072"}
+    ],
+    [
+      "141537080",
+      {"key": "141537080"}
+    ],
+    [
+      "141537089",
+      {"key": "141537089"}
+    ],
+    [
+      "141537095",
+      {"key": "141537095"}
+    ],
+    [
+      "141537102",
+      {"key": "141537102"}
+    ],
+    [
+      "141537110",
+      {"key": "141537110"}
+    ],
+    [
+      "141537116",
+      {"key": "141537116"}
+    ],
+    [
+      "141537123",
+      {"key": "141537123"}
+    ],
+    [
+      "141537131",
+      {"key": "141537131"}
+    ],
+    [
+      "141537139",
+      {"key": "141537139"}
+    ],
+    [
+      "141537143",
+      {"key": "141537143"}
+    ],
+    [
+      "141537150",
+      {"key": "141537150"}
+    ],
+    [
+      "141537158",
+      {"key": "141537158"}
+    ],
+    [
+      "141537166",
+      {"key": "141537166"}
+    ],
+    [
+      "141537174",
+      {"key": "141537174"}
+    ]
+  ],
+  "uri": "/ensign/2019/11/32harkness",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Honoring His Name",
+          "title": "Honoring His Name"
+        },
+        "pageSocial": {
+          "description": "Honoring His Name",
+          "title": "Honoring His Name"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.lds.org/media-services/GA/videoStill/6092601061001\" thumbnail=\"https://mediasrv.lds.org/media-services/GA/thumbnail/6092601061001\" data-video-id=\"6092601061001\" data-video-title=\"Honoring His Name\" data-ref-id=\"DC41DAE2BCE1C6E1CC4FFF346DD2F5DB847636CB\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.lds.org/media-services/GA/type/6092601061001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092601061001/640/360/994000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"74001379\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092601061001/1280/720/2125000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"157943181\"><track kind=\"captions\" srclang=\"eng\" src=\"https://media.ldscdn.org/webvtt/general-conference/october-2019-general-conference/2019-10-3020-lisa-harkness-eng.vtt\"><\/video><h1 data-aid=\"141536887\" id=\"title1\">Honoring His Name<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141536889\" id=\"author1\">By Lisa&#xA0;L. Harkness<\/p>\n<p class=\"author-role\" data-aid=\"141536891\" id=\"author2\">First Counselor in the Primary General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141536893\" id=\"kicker1\">With covenant identity and belonging, we are called by the name of Jesus Christ.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141536895\" id=\"p1\">As parents excitedly await the birth of a child, they have the responsibility of choosing a name for their new baby. Perhaps when you were born, you received a name that was passed down in your family for generations. Or maybe the name you were given was popular in the year or area in which you were born.<\/p>\n<p data-aid=\"141536897\" id=\"p2\">The prophet Helaman and his wife gave meaningful family names to their infant sons Nephi and Lehi. Helaman later told his sons:<\/p>\n<p data-aid=\"141536899\" id=\"p3\">&#x201C;I have given unto you the names of our first parents &#x2026; that when you remember your names ye may remember them; and when ye remember them ye may remember their works &#x2026; that it is said, and also written, that they were good.<\/p>\n<p data-aid=\"141536901\" id=\"p4\">&#x201C;Therefore, my sons, I would that ye should do that which is good.&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"141536903\" id=\"p5\">Nephi&#x2019;s and Lehi&#x2019;s names helped them remember the good works of their ancestors and encouraged them to do good as well.<\/p>\n<p data-aid=\"141536905\" id=\"p6\">Sisters, no matter where we live, what language we speak, or whether we are 8 years old or 108, we all share a special name that has these same purposes.<\/p>\n<p data-aid=\"141536907\" id=\"p7\">&#x201C;For as many of [us] as have been baptized into Christ have put on Christ &#x2026; for [we] are all one in Christ Jesus.&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"141536909\" id=\"p8\">As members of The Church of Jesus Christ of Latter-day Saints, &#x201C;we first pledge[d] our willingness to take upon us the name of Christ &#x2026; by the ordinance of baptism.&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Through this covenant, we promised to always remember Him, keep His commandments, and serve others. Our willingness to keep this covenant is renewed each Sabbath day when we partake of the sacrament and rejoice once again in <em>the blessing<\/em> of &#x201C;walk[ing] in newness of life.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"141536911\" id=\"p9\">The name we were given at birth reflects our individual identity and gives us belonging within our earthly families. However, when we were &#x201C;born again&#x201D; at baptism, our understanding of who we are was enlarged. &#x201C;Because of the covenant which ye have made ye shall be called the children of Christ, &#x2026; for behold, &#x2026; he hath spiritually begotten you; for ye say that your hearts are changed through faith on his name; therefore, ye are born of him.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"141536914\" id=\"p10\">Thus, with covenant identity and belonging, we are called by the name of Jesus Christ. And &#x201C;there [is] no other name given nor any other way nor means whereby salvation can come unto the children of men, only in and through the name of Christ, the Lord Omnipotent.&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"141536916\" id=\"p11\">The name of Jesus was known long before His birth. To King Benjamin, an angel prophesied, &#x201C;And he shall be called Jesus Christ, the Son of God, &#x2026; and his mother shall be called Mary.&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> His work of &#x201C;redeeming love&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> was also made known to God&#x2019;s children whenever the gospel has been on the earth, from the days of Adam and Eve until our present day, so they could &#x201C;know to what source they may look for a remission of their sins.&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"141536917\" id=\"p12\">Last year, President Russell&#xA0;M. Nelson extended &#x201C;a prophetic plea&#x201D; to the sisters &#x201C;to shape the future by helping to gather scattered Israel.&#x201D; He invited us to read the Book of Mormon and &#x201C;mark each verse that speaks of or refers to the Savior.&#x201D; He asked that we &#x201C;be intentional about talking of Christ, rejoicing in Christ, and preaching of Christ with [our family] and friends.&#x201D; Perhaps you have begun to recognize the fruits of his promise that &#x201C;you and they will be drawn closer to the Savior. &#x2026; And changes, even miracles, will begin to happen.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"141536925\" id=\"p13\">Our promise to always remember the Savior gives us strength to stand for truth and righteousness&#xFEFF;&#x2014;whether we are in a large crowd or in our solitary places, where no one knows our actions except for God. When we remember Him and His name we bear, we have no place for self-degrading comparisons or overbearing judgments. With our eyes on the Savior, we see ourselves for who we really are&#xFEFF;&#x2014;a cherished child of God.<\/p>\n<p data-aid=\"141536929\" id=\"p14\">Our covenant remembering quiets worldly worries, turns self-doubt into courage, and gives hope in times of trial.<\/p>\n<p data-aid=\"141536939\" id=\"p15\">And when we stumble and fall in our progression along the covenant path, we have only to remember His name and His loving-kindness toward us. &#x201C;For he has all power, all wisdom, and all understanding; he comprehendeth all things, and he is a merciful Being &#x2026; to those who will repent and believe on his name.&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Surely there is no sweeter sound than the name of Jesus to all those who, with a broken heart and a contrite spirit, seek to &#x201C;do better and be better.&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"141536945\" id=\"p16\">President Nelson taught: &#x201C;The day is gone when you can be a quiet and comfortable Christian. Your religion is not just about showing up for church on Sunday. It is about showing up as a true disciple from Sunday morning through Saturday night. &#x2026; There is no such thing as a &#x2018;part-time&#x2019; disciple of the Lord Jesus Christ.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"141536950\" id=\"p17\">Our willingness to take upon us the name of Christ is more than a formal exchange of words. It is not a passive promise or a cultural contrivance. It is not a rite of passage or a name tag that we wear. It is not a saying that we simply place on a shelf or hang on a wall. His is a name that is &#x201C;put on,&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> written in our hearts, and &#x201C;engraven upon [our] countenances.&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"141536955\" id=\"p18\">The Savior&#x2019;s atoning sacrifice should be remembered, always, through our thoughts, actions, and interactions with others. Not only does He remember <em>our names,<\/em> but He remembers <em>us<\/em> always. The Savior declared:<\/p>\n<p data-aid=\"141536961\" id=\"p19\">&#x201C;For can a woman forget her sucking child, that she should not have compassion on the son of her womb? Yea, they may forget, yet will I not forget thee, O house of Israel.<\/p>\n<p data-aid=\"141536967\" id=\"p20\">&#x201C;Behold, I have graven thee upon the palms of my hands.&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"141536974\" id=\"p21\">President George Albert Smith taught, &#x201C;Honor the names that you bear, because some day you will have the privilege and the obligation of reporting &#x2026; to your Father in heaven &#x2026; what you have done with [those names].&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"141536982\" id=\"p22\">Like the carefully chosen names of Nephi and Lehi, can it be said and written of us that we are true disciples of the Lord Jesus Christ? Do we honor the name of Jesus Christ that we have willingly taken upon ourselves? Are we both &#x201C;a minister and a witness&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> of His loving-kindness and His redeeming power?<\/p>\n<p data-aid=\"141536989\" id=\"p23\">Not long ago, I was listening to the Book of Mormon. In the last chapter of 2&#xA0;Nephi, I <em>heard<\/em> Nephi say something that I had never <em>read<\/em> the same way before. All throughout his record, he teaches and testifies of the &#x201C;Redeemer,&#x201D; the &#x201C;Holy One of Israel,&#x201D; the &#x201C;Lamb of God,&#x201D; and the &#x201C;Messiah.&#x201D; But as he closed his account, I heard him say these words: &#x201C;I glory in plainness; I glory in truth; I glory in <em>my Jesus,<\/em> for he hath redeemed my soul.&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> When I heard these words, my heart rejoiced and I had to listen over and over again. I recognized and responded to that verse just as I recognize and respond to my own name.<\/p>\n<p data-aid=\"141536993\" id=\"p24\">The Lord has said, &#x201C;Yea, blessed is this people who are willing to bear my name; for in my name shall they be called; and they are mine.&#x201D;<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"141537003\" id=\"p25\">As members of The Church of Jesus Christ of Latter-day Saints, may we &#x201C;gladly [take upon us] the name of Christ&#x201D;<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> by honoring His name with love, devotion, and good works. I testify that He is &#x201C;the Lamb of God, yea, even the Son of the Eternal Father.&#x201D;<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> In the name of His holy child, Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141536909",
+        "id": "note4",
+        "text": "<p data-aid=\"141537040\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/6.4?lang=eng#p4\">Romans 6:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/6.4?lang=eng#p4",
+          "text": "Romans 6:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141536911",
+        "id": "note5",
+        "text": "<p data-aid=\"141537047\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">Mosiah 5:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5.7?lang=eng#p7",
+          "text": "Mosiah 5:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141536907",
+        "id": "note2",
+        "text": "<p data-aid=\"141537025\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/3.27-28?lang=eng#p27\">Galatians 3:27&#x2013;28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/gal/3.27-28?lang=eng#p27",
+          "text": "Galatians 3:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141536909",
+        "id": "note3",
+        "text": "<p data-aid=\"141537032\" id=\"note3_p1\">D.&#xA0;Todd Christofferson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2009/04/the-power-of-covenants?lang=eng\">The Power of Covenants<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2009, 20.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2009/04/the-power-of-covenants?lang=eng",
+          "text": "The Power of Covenants",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141536916",
+        "id": "note8",
+        "text": "<p data-aid=\"141537072\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.13?lang=eng#p13\">Alma 26:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/26.13?lang=eng#p13",
+          "text": "Alma 26:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141536916",
+        "id": "note9",
+        "text": "<p data-aid=\"141537080\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=eng#p26\">2&#xA0;Nephi 25:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25.26?lang=eng#p26",
+          "text": "2 Nephi 25:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141536914",
+        "id": "note6",
+        "text": "<p data-aid=\"141537054\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.17?lang=eng#p17\">Mosiah 3:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3.17?lang=eng#p17",
+          "text": "Mosiah 3:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141536916",
+        "id": "note7",
+        "text": "<p data-aid=\"141537064\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.8?lang=eng#p8\">Mosiah 3:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3.8?lang=eng#p8",
+          "text": "Mosiah 3:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141536967",
+        "id": "note16",
+        "text": "<p data-aid=\"141537131\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21.15-16?lang=eng#p15\">1&#xA0;Nephi 21:15&#x2013;16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/21.15-16?lang=eng#p15",
+          "text": "1 Nephi 21:15\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141536950",
+        "id": "note15",
+        "text": "<p data-aid=\"141537123\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.19?lang=eng#p19\">Alma 5:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.19?lang=eng#p19",
+          "text": "Alma 5:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141536950",
+        "id": "note14",
+        "text": "<p data-aid=\"141537116\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/3.27?lang=eng#p27\">Galatians 3:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/gal/3.27?lang=eng#p27",
+          "text": "Galatians 3:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141536945",
+        "id": "note13",
+        "text": "<p data-aid=\"141537110\" id=\"note13_p1\">Russell&#xA0;M. Nelson, &#x201C;<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/disciples-jesus-christ-defenders-of-marriage/\">Disciples of Jesus Christ&#xFEFF;&#x2014;Defenders of Marriage<\/a>&#x201D; (Brigham Young University commencement, Aug.&#xA0;14, 2014), 3, speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/russell-m-nelson/disciples-jesus-christ-defenders-of-marriage/",
+          "text": "Disciples of Jesus Christ﻿\u2014Defenders of Marriage"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141536939",
+        "id": "note12",
+        "text": "<p data-aid=\"141537102\" id=\"note12_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=eng\">We Can Do Better and Be Better<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2019, 68.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/36nelson?lang=eng",
+          "text": "We Can Do Better and Be Better",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141536939",
+        "id": "note11",
+        "text": "<p data-aid=\"141537095\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.35?lang=eng#p35\">Alma 26:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/26.35?lang=eng#p35",
+          "text": "Alma 26:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "141537003",
+        "id": "note22",
+        "text": "<p data-aid=\"141537174\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.21?lang=eng#p21\">1&#xA0;Nephi 11:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.21?lang=eng#p21",
+          "text": "1 Nephi 11:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141536917",
+        "id": "note10",
+        "text": "<p data-aid=\"141537089\" id=\"note10_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/sisters-participation-in-the-gathering-of-israel?lang=eng\">Sisters&#x2019; Participation in the Gathering of Israel<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2018, 69&#x2013;70.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/sisters-participation-in-the-gathering-of-israel?lang=eng",
+          "text": "Sisters\u2019 Participation in the Gathering of Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "141537003",
+        "id": "note21",
+        "text": "<p data-aid=\"141537166\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/46.15?lang=eng#p15\">Alma 46:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/46.15?lang=eng#p15",
+          "text": "Alma 46:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "141536993",
+        "id": "note20",
+        "text": "<p data-aid=\"141537158\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.18?lang=eng#p18\">Mosiah 26:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/26.18?lang=eng#p18",
+          "text": "Mosiah 26:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141536901",
+        "id": "note1",
+        "text": "<p data-aid=\"141537017\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.6-7?lang=eng#p6\">Helaman 5:6&#x2013;7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.6-7?lang=eng#p6",
+          "text": "Helaman 5:6\u20137",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "141536989",
+        "id": "note19",
+        "text": "<p data-aid=\"141537150\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.6?lang=eng#p6\">2&#xA0;Nephi 33:6<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/33.6?lang=eng#p6",
+          "text": "2 Nephi 33:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "141536982",
+        "id": "note18",
+        "text": "<p data-aid=\"141537143\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/26.16?lang=eng#p16\">Acts 26:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/26.16?lang=eng#p16",
+          "text": "Acts 26:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "141536974",
+        "id": "note17",
+        "text": "<p data-aid=\"141537139\" id=\"note17_p1\">George Albert Smith, &#x201C;Your Good Name,&#x201D; <cite>Improvement Era,<\/cite> Mar. 1947, 139.<\/p>"
+      }
+    }
+  }
+}

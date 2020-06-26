@@ -1,0 +1,756 @@
+{
+  "tableOfContentsUri": "/ensign/2019/11",
+  "meta": {
+    "pdf": {
+      "name": "pagePdf",
+      "source": "https://media.ldscdn.org/pdf/magazines/ensign-november-2019/2019-11-0016-consistent-and-resilient-trust-eng.pdf"
+    },
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2019/11/27budge",
+      "data-aid": "141535849",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "9e2ea6f8925641868d0322cc4dcda380",
+      "data-aid-version": "3",
+      "data-orig-id": "9e2ea6f8925641868d0322cc4dcda380"
+    },
+    "ogTagImageUrl": "https://mediasrv.lds.org/media-services/GA/thumbnail/6092595274001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2019-general-conference/2019-10-2070-l-todd-budge-64k-eng.mp3"
+    }],
+    "title": "Consistent and Resilient Trust",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141535849",
+      {"key": "141535849"}
+    ],
+    [
+      "141535862",
+      {"key": "141535862"}
+    ],
+    [
+      "141535867",
+      {"key": "141535867"}
+    ],
+    [
+      "141535872",
+      {"key": "141535872"}
+    ],
+    [
+      "141535878",
+      {"key": "141535878"}
+    ],
+    [
+      "141535882",
+      {"key": "141535882"}
+    ],
+    [
+      "141535887",
+      {"key": "141535887"}
+    ],
+    [
+      "141535890",
+      {"key": "141535890"}
+    ],
+    [
+      "141535895",
+      {"key": "141535895"}
+    ],
+    [
+      "141535898",
+      {"key": "141535898"}
+    ],
+    [
+      "141535901",
+      {"key": "141535901"}
+    ],
+    [
+      "141535906",
+      {"key": "141535906"}
+    ],
+    [
+      "141535910",
+      {"key": "141535910"}
+    ],
+    [
+      "141535913",
+      {"key": "141535913"}
+    ],
+    [
+      "141535916",
+      {"key": "141535916"}
+    ],
+    [
+      "141535918",
+      {"key": "141535918"}
+    ],
+    [
+      "141535922",
+      {"key": "141535922"}
+    ],
+    [
+      "141535926",
+      {"key": "141535926"}
+    ],
+    [
+      "141535927",
+      {"key": "141535927"}
+    ],
+    [
+      "141535931",
+      {"key": "141535931"}
+    ],
+    [
+      "141535933",
+      {"key": "141535933"}
+    ],
+    [
+      "141535938",
+      {"key": "141535938"}
+    ],
+    [
+      "141535944",
+      {"key": "141535944"}
+    ],
+    [
+      "141535948",
+      {"key": "141535948"}
+    ],
+    [
+      "141535954",
+      {"key": "141535954"}
+    ],
+    [
+      "141535957",
+      {"key": "141535957"}
+    ],
+    [
+      "141535962",
+      {"key": "141535962"}
+    ],
+    [
+      "141535965",
+      {"key": "141535965"}
+    ],
+    [
+      "141535968",
+      {"key": "141535968"}
+    ],
+    [
+      "141535972",
+      {"key": "141535972"}
+    ],
+    [
+      "141535978",
+      {"key": "141535978"}
+    ],
+    [
+      "141535982",
+      {"key": "141535982"}
+    ],
+    [
+      "141535985",
+      {"key": "141535985"}
+    ],
+    [
+      "141535989",
+      {"key": "141535989"}
+    ],
+    [
+      "141535993",
+      {"key": "141535993"}
+    ],
+    [
+      "141535997",
+      {"key": "141535997"}
+    ],
+    [
+      "141536000",
+      {"key": "141536000"}
+    ],
+    [
+      "141536003",
+      {"key": "141536003"}
+    ],
+    [
+      "141536006",
+      {"key": "141536006"}
+    ],
+    [
+      "141536010",
+      {"key": "141536010"}
+    ],
+    [
+      "141536013",
+      {"key": "141536013"}
+    ],
+    [
+      "141536016",
+      {"key": "141536016"}
+    ],
+    [
+      "141536019",
+      {"key": "141536019"}
+    ],
+    [
+      "141536022",
+      {"key": "141536022"}
+    ],
+    [
+      "141536024",
+      {"key": "141536024"}
+    ],
+    [
+      "141536026",
+      {"key": "141536026"}
+    ],
+    [
+      "141536030",
+      {"key": "141536030"}
+    ],
+    [
+      "141536033",
+      {"key": "141536033"}
+    ],
+    [
+      "141536036",
+      {"key": "141536036"}
+    ],
+    [
+      "141536039",
+      {"key": "141536039"}
+    ],
+    [
+      "141536041",
+      {"key": "141536041"}
+    ],
+    [
+      "141536045",
+      {"key": "141536045"}
+    ],
+    [
+      "141536048",
+      {"key": "141536048"}
+    ],
+    [
+      "141536052",
+      {"key": "141536052"}
+    ],
+    [
+      "141536055",
+      {"key": "141536055"}
+    ],
+    [
+      "141536057",
+      {"key": "141536057"}
+    ],
+    [
+      "141536060",
+      {"key": "141536060"}
+    ],
+    [
+      "141536064",
+      {"key": "141536064"}
+    ],
+    [
+      "141536066",
+      {"key": "141536066"}
+    ],
+    [
+      "141536069",
+      {"key": "141536069"}
+    ],
+    [
+      "141536072",
+      {"key": "141536072"}
+    ],
+    [
+      "141536076",
+      {"key": "141536076"}
+    ],
+    [
+      "141536079",
+      {"key": "141536079"}
+    ],
+    [
+      "141536082",
+      {"key": "141536082"}
+    ],
+    [
+      "141536085",
+      {"key": "141536085"}
+    ]
+  ],
+  "uri": "/ensign/2019/11/27budge",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Consistent and Resilient Trust",
+          "title": "Consistent and Resilient Trust"
+        },
+        "pageSocial": {
+          "description": "Consistent and Resilient Trust",
+          "title": "Consistent and Resilient Trust"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.lds.org/media-services/GA/videoStill/6092595274001\" thumbnail=\"https://mediasrv.lds.org/media-services/GA/thumbnail/6092595274001\" data-video-id=\"6092595274001\" data-video-title=\"Consistent and Resilient Trust\" data-ref-id=\"58C83001C763F5A4ABDEE601BC3B1D1FC3F78BB6\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.lds.org/media-services/GA/type/6092595274001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092595274001/640/360/992000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"77577913\"><source src=\"https://mediasrv.lds.org/media-services/GA/size/6092595274001/1280/720/2127000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"166122466\"><track kind=\"captions\" srclang=\"eng\" src=\"https://media.ldscdn.org/webvtt/general-conference/october-2019-general-conference/2019-10-2070-l-todd-budge-eng.vtt\"><\/video><h1 data-aid=\"141535862\" id=\"title1\">Consistent and Resilient Trust<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141535867\" id=\"author1\">By Elder L.&#xA0;Todd Budge<\/p>\n<p class=\"author-role\" data-aid=\"141535872\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141535878\" id=\"kicker1\">Trusting in the Lord includes trusting in His timing and requires patience and endurance that outlast the storms of life.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141535882\" id=\"p1\">Our son Dan got very sick on his mission in Africa and was taken to a medical facility with limited resources. As we read his first letter to us after his illness, we expected that he would be discouraged, but instead he wrote, &#x201C;Even as I lay in the emergency room, I felt peace. I have never been so consistently and resiliently happy in my life.&#x201D; <\/p>\n<p data-aid=\"141535887\" id=\"p28\">As my wife and I read these words, we were overcome with emotion.<em> Consistently and resiliently happy.<\/em> We had never heard happiness described that way, but his words rang true. We knew that the happiness he described was not simply pleasure or an elevated mood but a peace and joy that come when we surrender ourselves to God and put our trust in Him in <em>all things.<\/em><a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> We too had had those times in our lives when God spoke peace to our souls and caused us to have hope in Christ even when life was hard and uncertain.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"141535890\" id=\"p2\">Lehi teaches that if Adam and Eve had not fallen, &#x201C;they would have remained in a state of innocence, having no joy, for they knew no misery;&#xA0;&#x2026;<\/p>\n<p data-aid=\"141535895\" id=\"p3\">&#x201C;But behold, <em>all things<\/em> have been done in the wisdom of him who knoweth <em>all things.<\/em><\/p>\n<p data-aid=\"141535898\" id=\"p4\">&#x201C;Adam fell that men might be; and men are, that they might have joy.&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"141535901\" id=\"p5\">In a paradoxical way, afflictions and sorrow prepare us to experience joy if we will trust in the Lord and His plan for us. This truth is beautifully expressed by a 13th-century poet: &#x201C;Sorrow prepares you for joy. It violently sweeps everything out of your house, so that new joy can find space to enter. It shakes the yellow leaves from the bough of your heart, so that fresh, green leaves can grow in their place. It pulls up the rotten roots, so that new roots hidden beneath have room to grow. Whatever sorrow shakes from your heart, far better things will take their place.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"141535906\" id=\"p7\">President Russell M. Nelson taught, &#x201C;The joy the Savior offers [us] &#x2026; is constant, assuring us that our &#x2018;afflictions shall be but a small moment&#x2019; [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.7?lang=eng#p7\">Doctrine and Covenants 121:7<\/a>] and be consecrated to our gain.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> Our trials and afflictions can make space for greater joy.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"141535910\" id=\"p8\">The good news of the gospel is not the promise of a life free of sorrow and tribulation but a life full of purpose and meaning&#xFEFF;&#x2014;a life where our sorrows and afflictions can be &#x201C;swallowed up in the joy of Christ.&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> The Savior declared, &#x201C;In the world ye shall have tribulation: but be of good cheer; I have overcome the world.&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> His gospel is a message of hope. Sorrow coupled with hope in Jesus Christ holds the promise of enduring joy.<\/p>\n<p data-aid=\"141535913\" id=\"p9\">The account of the Jaredites&#x2019; journey to the promised land can be used as a metaphor for our journey through mortality. The Lord promised the brother of Jared and his people that He would &#x201C;go before [them] into a land which is choice above all the lands of the earth.&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> He commanded them to build barges, and they obediently went to work building them according to the Lord&#x2019;s instructions. However, as the work progressed, the brother of Jared developed concerns that the Lord&#x2019;s design for the barges was not sufficient. He cried out:<\/p>\n<p data-aid=\"141535916\" id=\"p10\">&#x201C;O Lord, I have performed the work which thou hast commanded me, and I have made the barges according as thou hast directed me.<\/p>\n<p data-aid=\"141535918\" id=\"p11\">&#x201C;And behold, O Lord, in them there is no light.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"141535922\" id=\"p12\">&#x201C;O Lord, wilt thou suffer that we shall cross this great water in darkness?&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"141535926\" id=\"p13\">Have you ever poured out your soul to God in such a way? When striving to live as the Lord commands and righteous expectations are not met, have you ever wondered if you must go through this life in darkness?<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"141535927\" id=\"p14\">The brother of Jared then expressed an even greater concern about their ability to survive in the barges. He cried, &#x201C;And also we shall perish, for in them we cannot breathe, save it is the air which is in them.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Have the difficulties of life ever made it hard for you to breathe and caused you to wonder how you can make it through the day, let alone make it back to your heavenly home?<\/p>\n<p data-aid=\"141535931\" id=\"p15\">After the Lord worked with the brother of Jared to resolve each of his concerns, He then explained, &#x201C;Ye cannot cross this great deep save <em>I prepare<\/em> [a way for] you against the waves of the sea, and the winds which have gone forth, and the floods which shall come.&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"141535933\" id=\"p16\">The Lord made it clear that ultimately the Jaredites could not make it to the promised land without Him. They were not in control, and the only way they could make it across the great deep was to put their trust in Him. These experiences and tutoring from the Lord seemed to deepen the brother of Jared&#x2019;s faith and strengthen his trust in the Lord.<\/p>\n<p data-aid=\"141535938\" id=\"p17\">Notice how his prayers changed from questions and concerns to expressions of faith and trust:<\/p>\n<p data-aid=\"141535944\" id=\"p18\">&#x201C;I know, O Lord, that thou hast all power, and can do whatsoever thou wilt for the benefit of man;&#xA0;&#x2026;<\/p>\n<p data-aid=\"141535948\" id=\"p19\">&#x201C;Behold, O Lord, thou canst do this. We know that thou art able to show forth great power, which looks small unto the understanding of men.&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"141535954\" id=\"p20\">It is recorded that the Jaredites then &#x201C;got aboard of their &#x2026; barges, and set forth into the sea, <em>commending<\/em> themselves unto the Lord their God.&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> To <em>commend<\/em> means to entrust or to surrender. The Jaredites did not get into the barges because they knew exactly how things would work on their journey. They got aboard because they had learned to trust in the Lord&#x2019;s power, goodness, and mercy, and they were therefore willing to surrender themselves and any doubts or fears they may have had to the Lord.<\/p>\n<p data-aid=\"141535957\" id=\"p30\">Recently our grandson Abe was afraid to ride one of the carousel animals that move up and down. He preferred one that didn&#x2019;t move. His grandmother finally persuaded him that it would be safe, so, trusting her, he got aboard. He then said with a big smile, &#x201C;I don&#x2019;t feel safe, but I am safe.&#x201D; Perhaps that is how the Jaredites felt. Trusting God may not always feel safe at first, but joy follows.<\/p>\n<img alt=\"Abe on the carousel\" id=\"img1\" src=\"https://assets.ldscdn.org/de/5c/de5cbca5e967040c199140c6165b97ef6677d9cd/merry_go_round_boy.png\" data-img-id=\"2295108\" srcset=\"https://assets.ldscdn.org/a1/f8/a1f84f28f7c87a1e53b658116f7b47c2d2b44d9d/merry_go_round_boy.png 30w,https://assets.ldscdn.org/f0/03/f0036e9c179c3e6e60dba47abb1b7c5a233e0134/merry_go_round_boy.png 60w,https://assets.ldscdn.org/eb/9d/eb9da255815185ebf7b8b1af00e17d326c967310/merry_go_round_boy.png 64w,https://assets.ldscdn.org/8c/95/8c95722aa4e16416d56aebc80f1fadaba3cfd30e/merry_go_round_boy.png 100w,https://assets.ldscdn.org/20/66/206637b75e367ff7824a9954050e98a076f6a97c/merry_go_round_boy.png 200w,https://assets.ldscdn.org/72/c8/72c86b21cf69ea9b55fba6ad7166c0539b2041f1/merry_go_round_boy.png 205w,https://assets.ldscdn.org/19/16/191662c851207c90e3a3fa56e8b7e7ecd37544ff/merry_go_round_boy.png 250w,https://assets.ldscdn.org/32/31/323192b84686ad60aa746d1dc631a5fd22242cc3/merry_go_round_boy.png 320w,https://assets.ldscdn.org/de/5c/de5cbca5e967040c199140c6165b97ef6677d9cd/merry_go_round_boy.png 500w,https://assets.ldscdn.org/3f/02/3f0289c2e2d27f052180608450ef22245aaf2052/merry_go_round_boy.png 640w\" data-assetid=\"761680ade0168334e6da5fe92eb41dc20516fd1e\" data-missing-asset=\"false\">\n<p data-aid=\"141535962\" id=\"p21\">The journey was not easy for the Jaredites. &#x201C;They were many times buried in the depths of the sea, because of the mountain waves which broke upon them.&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> Yet it is recorded that &#x201C;the wind did never cease to blow [them] <em>towards<\/em> the promised land.&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> As difficult as it is to understand, especially at the times in our lives when the headwinds are strong and the seas are turbulent, we can take comfort in knowing that God in His infinite goodness is always blowing us toward home. <\/p>\n<p data-aid=\"141535965\" id=\"p29\">The record continues, &#x201C;They were driven forth; and no monster of the sea could break them, neither whale that could mar them; and they did have light continually, whether it was above the water or under the water.&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> We live in a world where the monster waves of death, physical and mental illness, and trials and afflictions of every kind break upon us. Yet, through faith in Jesus Christ and choosing to trust in Him, <em>we too <\/em>can have light continually, whether above the water or under the water. <em>We<\/em> can have the assurance that God never does cease to blow us toward our heavenly home.<\/p>\n<p data-aid=\"141535968\" id=\"p22\">While being tossed about in the barges, the Jaredites &#x201C;did sing praises unto the Lord; &#x2026; and [they] did thank and praise the Lord all the day long; and when the night came, they did not cease to praise the Lord.&#x201D;<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> They felt joy and thanksgiving even in the midst of their afflictions. They had not yet arrived in the promised land, yet they were rejoicing in the promised blessing because of their <em>consistent<\/em> and <em>resilient<\/em> trust in Him.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"141535972\" id=\"p23\">The Jaredites were driven forth upon the water 344 days.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> Can you imagine that? Trusting in the Lord includes trusting in His timing and requires patience and endurance that outlast the storms of life.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"141535978\" id=\"p24\">Ultimately, the Jaredites &#x201C;did land upon the shore of the promised land. And when they had set their feet upon the shores of the promised land they bowed themselves down upon the face of the land, and did humble themselves before the Lord, and did shed tears of joy before the Lord, because of the multitude of his tender mercies over them.&#x201D;<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"141535982\" id=\"p25\">If we are faithful in keeping our covenants, we too will one day arrive safely home and will bow before the Lord and shed tears of joy for the multitude of His tender mercies in our lives, including the sorrows that made space for more joy.<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"141535985\" id=\"p26\">I testify that as we commend ourselves unto the Lord and consistently and resiliently trust in Jesus Christ and His divine purposes in our lives, He will visit us with assurances, speak peace to our souls, and cause us to &#x201C;hope for our deliverance in him.&#x201D;<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"141535989\" id=\"p27\">I witness that Jesus is the Christ. He is the source of all joy.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> His grace is sufficient, and He is mighty to save.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a> He is the light, the life, and the hope of the world.<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> He will not let us perish.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141535901",
+        "id": "note4",
+        "text": "<p data-aid=\"141536006\" id=\"note4_p1\">See <cite>The Mathnawi of Jalalu&#x2019;ddin Rumi<\/cite> (1925&#x2013;40), trans. Reynold&#xA0;A. Nicholson, vol. 5, 132.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141535906",
+        "id": "note5",
+        "text": "<p data-aid=\"141536010\" id=\"note5_p1\">Russell M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=17#p17\">Joy and Spiritual Survival<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2016, 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&para=17#p17",
+          "text": "Joy and Spiritual Survival",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141535887",
+        "id": "note2",
+        "text": "<p data-aid=\"141536000\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/58.11?lang=eng#p11\">Alma 58:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/58.11?lang=eng#p11",
+          "text": "Alma 58:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141535898",
+        "id": "note3",
+        "text": "<p data-aid=\"141536003\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.23-25?lang=eng#p23\">2&#xA0;Nephi 2:23&#x2013;25<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.23-25?lang=eng#p23",
+          "text": "2 Nephi 2:23\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141535910",
+        "id": "note8",
+        "text": "<p data-aid=\"141536019\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.33?lang=eng#p33\">John 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.33?lang=eng#p33",
+          "text": "John 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141535913",
+        "id": "note9",
+        "text": "<p data-aid=\"141536022\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/1.42?lang=eng#p42\">Ether 1:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/1.42?lang=eng#p42",
+          "text": "Ether 1:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141535906",
+        "id": "note6",
+        "text": "<p data-aid=\"141536013\" id=\"note6_p1\">See Neal&#xA0;A. Maxwell, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2001/04/plow-in-hope?lang=eng\">Plow in Hope<\/a>,&#x201D; <cite>Ensign,<\/cite> May 2001, 60; <cite>Liahona,<\/cite> July 2001, 73: &#x201C;Redeeming Jesus also &#x2018;poured out his soul unto death.&#x2019; &#x2026; As we on occasion &#x2018;pour&#x2019; out our souls in personal pleadings, we are thus emptied, making room for more joy!&#x201D;<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2001/04/plow-in-hope?lang=eng",
+          "text": "Plow in Hope",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141535910",
+        "id": "note7",
+        "text": "<p data-aid=\"141536016\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/31.38?lang=eng#p38\">Alma 31:38<\/a>; see also Neal&#xA0;A. Maxwell, &#x201C;<a href=\"http://speeches.byu.edu/talks/neal-a-maxwell/brim-joy/\">Brim with Joy<\/a>&#x201D; (Brigham Young University devotional, Jan.&#xA0;23, 1996), speeches.byu.edu: &#x201C;When we reach a point of consecration, our afflictions will be swallowed up in the joy of Christ. It does not mean we won&#x2019;t have afflictions, but they will be put in a perspective that permits us to deal with them. With our steady pursuit of joy and with each increasing measure of righteousness, we will experience one more drop of delight&#xFEFF;&#x2014;one drop after another&#xFEFF;&#x2014;until, in the words of a prophet, our hearts are &#x2018;brim with joy&#x2019; (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.11?lang=eng#p11\">Alma 26:11<\/a>). At last, the soul&#x2019;s cup finally runs over!&#x201D;<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/31.38?lang=eng#p38",
+            "text": "Alma 31:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "http://speeches.byu.edu/talks/neal-a-maxwell/brim-joy/",
+            "text": "Brim with Joy"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26.11?lang=eng#p11",
+            "text": "Alma 26:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": null,
+        "pid": "141535989",
+        "id": "note30",
+        "text": "<p data-aid=\"141536085\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1.14?lang=eng#p14\">1&#xA0;Nephi 1:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1.14?lang=eng#p14",
+          "text": "1 Nephi 1:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141535954",
+        "id": "note16",
+        "text": "<p data-aid=\"141536041\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.4?lang=eng#p4\">Ether 6:4<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/6.4?lang=eng#p4",
+          "text": "Ether 6:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141535948",
+        "id": "note15",
+        "text": "<p data-aid=\"141536039\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/3.4-5?lang=eng#p4\">Ether 3:4&#x2013;5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/3.4-5?lang=eng#p4",
+          "text": "Ether 3:4\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141535931",
+        "id": "note14",
+        "text": "<p data-aid=\"141536036\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/2.25?lang=eng#p25\">Ether 2:25<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/2.25?lang=eng#p25",
+          "text": "Ether 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141535927",
+        "id": "note13",
+        "text": "<p data-aid=\"141536033\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/2.19?lang=eng#p19\">Ether 2:19<\/a>; compare <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.38?lang=eng#p38\">Mark 4:38<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.35-41?lang=eng#p35\">Mark 4:35&#x2013;41<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/2.19?lang=eng#p19",
+            "text": "Ether 2:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/4.38?lang=eng#p38",
+            "text": "Mark 4:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/4.35-41?lang=eng#p35",
+            "text": "Mark 4:35\u201341",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141535926",
+        "id": "note12",
+        "text": "<p data-aid=\"141536030\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.12?lang=eng#p12\">John 8:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/8.12?lang=eng#p12",
+          "text": "John 8:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141535922",
+        "id": "note11",
+        "text": "<p data-aid=\"141536026\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/2.22?lang=eng#p22\">Ether 2:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/2.22?lang=eng#p22",
+          "text": "Ether 2:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141535918",
+        "id": "note10",
+        "text": "<p data-aid=\"141536024\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/2.18-19?lang=eng#p18\">Ether 2:18&#x2013;19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/2.18-19?lang=eng#p18",
+          "text": "Ether 2:18\u201319",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "141535965",
+        "id": "note19",
+        "text": "<p data-aid=\"141536052\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.10?lang=eng#p10\">Ether 6:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/6.10?lang=eng#p10",
+          "text": "Ether 6:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "141535962",
+        "id": "note18",
+        "text": "<p data-aid=\"141536048\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.8?lang=eng#p8\">Ether 6:8<\/a>; emphasis added; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/18.8?lang=eng#p8\">1&#xA0;Nephi 18:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/6.8?lang=eng#p8",
+            "text": "Ether 6:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/18.8?lang=eng#p8",
+            "text": "1 Nephi 18:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "141535962",
+        "id": "note17",
+        "text": "<p data-aid=\"141536045\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.6?lang=eng#p6\">Ether 6:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/6.6?lang=eng#p6",
+          "text": "Ether 6:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": null,
+        "pid": "141535989",
+        "id": "note27",
+        "text": "<p data-aid=\"141536076\" id=\"note27_p1\">See Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=13#p13\">Joy and Spiritual Survival<\/a>,&#x201D; 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&para=13#p13",
+          "text": "Joy and Spiritual Survival",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": null,
+        "pid": "141535985",
+        "id": "note26",
+        "text": "<p data-aid=\"141536072\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/58.11?lang=eng#p11\">Alma 58:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/58.11?lang=eng#p11",
+          "text": "Alma 58:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": null,
+        "pid": "141535982",
+        "id": "note25",
+        "text": "<p data-aid=\"141536069\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1.20?lang=eng#p20\">1&#xA0;Nephi 1:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.8?lang=eng#p8\">8:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33.16?lang=eng#p16\">Alma 33:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/1.20?lang=eng#p20",
+            "text": "1 Nephi 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.8?lang=eng#p8",
+            "text": "8:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/33.16?lang=eng#p16",
+            "text": "Alma 33:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": null,
+        "pid": "141535978",
+        "id": "note24",
+        "text": "<p data-aid=\"141536066\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.12?lang=eng#p12\">Ether 6:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/6.12?lang=eng#p12",
+          "text": "Ether 6:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "141535972",
+        "id": "note23",
+        "text": "<p data-aid=\"141536064\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10.36?lang=eng#p36\">Hebrews 10:36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.41?lang=eng#p41\">Alma 34:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/24.8?lang=eng#p8\">Doctrine and Covenants 24:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.32?lang=eng#p32\">64:32<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/heb/10.36?lang=eng#p36",
+            "text": "Hebrews 10:36",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34.41?lang=eng#p41",
+            "text": "Alma 34:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/24.8?lang=eng#p8",
+            "text": "Doctrine and Covenants 24:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/64.32?lang=eng#p32",
+            "text": "64:32",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "141535972",
+        "id": "note22",
+        "text": "<p data-aid=\"141536060\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.11?lang=eng#p11\">Ether 6:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/6.11?lang=eng#p11",
+          "text": "Ether 6:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "141535968",
+        "id": "note21",
+        "text": "<p data-aid=\"141536057\" id=\"note21_p1\">Compare <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/5.5?lang=eng#p5\">1&#xA0;Nephi 5:5<\/a>. Though still in the wilderness, Lehi rejoiced in the promised blessing.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/5.5?lang=eng#p5",
+          "text": "1 Nephi 5:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "141535968",
+        "id": "note20",
+        "text": "<p data-aid=\"141536055\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/6.9?lang=eng#p9\">Ether 6:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/18.16?lang=eng#p16\">1&#xA0;Nephi 18:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/6.9?lang=eng#p9",
+            "text": "Ether 6:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/18.16?lang=eng#p16",
+            "text": "1 Nephi 18:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141535887",
+        "id": "note1",
+        "text": "<p data-aid=\"141535997\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.3?lang=eng#p3\">Alma 36:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57.27?lang=eng#p27\">57:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/36.3?lang=eng#p3",
+            "text": "Alma 36:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/57.27?lang=eng#p27",
+            "text": "57:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": null,
+        "pid": "141535989",
+        "id": "note29",
+        "text": "<p data-aid=\"141536082\" id=\"note29_p1\">See &#x201C;<a class=\"cross-ref\" href=\"/study/manual/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=eng&amp;para=reference1#reference1\">The Living Christ: The Testimony of the Apostles<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2017, inside front cover.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=eng&para=reference1#reference1",
+          "text": "The Living Christ: The Testimony of the Apostles",
+          "type": "cross-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": null,
+        "pid": "141535989",
+        "id": "note28",
+        "text": "<p data-aid=\"141536079\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19?lang=eng#p19\">2&#xA0;Nephi 31:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.18?lang=eng#p18\">Alma 34:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.19?lang=eng#p19",
+            "text": "2 Nephi 31:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34.18?lang=eng#p18",
+            "text": "Alma 34:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.32?lang=eng#p32",
+            "text": "Moroni 10:32",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

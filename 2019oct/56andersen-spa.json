@@ -1,0 +1,628 @@
+{
+  "tableOfContentsUri": "/liahona/2019/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2019/11/56andersen",
+      "data-aid": "141769576",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "a875d3b65e51424fabcd5aa4c6fceeea",
+      "data-aid-version": "2",
+      "data-orig-id": "d68e27c842a04b13980b20a7f270c9b5"
+    },
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/magazines/1861156andersen/2019-11-0036-fruit-64k-spa.mp3"
+    }],
+    "title": "El fruto",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141769576",
+      {"key": "141769576"}
+    ],
+    [
+      "141769582",
+      {"key": "141769582"}
+    ],
+    [
+      "141769588",
+      {"key": "141769588"}
+    ],
+    [
+      "141769594",
+      {"key": "141769594"}
+    ],
+    [
+      "141769600",
+      {"key": "141769600"}
+    ],
+    [
+      "141769606",
+      {"key": "141769606"}
+    ],
+    [
+      "141769612",
+      {"key": "141769612"}
+    ],
+    [
+      "141769617",
+      {"key": "141769617"}
+    ],
+    [
+      "141769622",
+      {"key": "141769622"}
+    ],
+    [
+      "141769627",
+      {"key": "141769627"}
+    ],
+    [
+      "141769632",
+      {"key": "141769632"}
+    ],
+    [
+      "141769637",
+      {"key": "141769637"}
+    ],
+    [
+      "141769642",
+      {"key": "141769642"}
+    ],
+    [
+      "141769646",
+      {"key": "141769646"}
+    ],
+    [
+      "141769652",
+      {"key": "141769652"}
+    ],
+    [
+      "141769657",
+      {"key": "141769657"}
+    ],
+    [
+      "141769663",
+      {"key": "141769663"}
+    ],
+    [
+      "141769668",
+      {"key": "141769668"}
+    ],
+    [
+      "141769671",
+      {"key": "141769671"}
+    ],
+    [
+      "141769676",
+      {"key": "141769676"}
+    ],
+    [
+      "141769682",
+      {"key": "141769682"}
+    ],
+    [
+      "141769688",
+      {"key": "141769688"}
+    ],
+    [
+      "141769694",
+      {"key": "141769694"}
+    ],
+    [
+      "141769699",
+      {"key": "141769699"}
+    ],
+    [
+      "141769704",
+      {"key": "141769704"}
+    ],
+    [
+      "141769709",
+      {"key": "141769709"}
+    ],
+    [
+      "141769714",
+      {"key": "141769714"}
+    ],
+    [
+      "141769720",
+      {"key": "141769720"}
+    ],
+    [
+      "141769726",
+      {"key": "141769726"}
+    ],
+    [
+      "141769732",
+      {"key": "141769732"}
+    ],
+    [
+      "141769737",
+      {"key": "141769737"}
+    ],
+    [
+      "141769742",
+      {"key": "141769742"}
+    ],
+    [
+      "141769748",
+      {"key": "141769748"}
+    ],
+    [
+      "141769755",
+      {"key": "141769755"}
+    ],
+    [
+      "141770757",
+      {"key": "141770757"}
+    ],
+    [
+      "141770763",
+      {"key": "141770763"}
+    ],
+    [
+      "141770769",
+      {"key": "141770769"}
+    ],
+    [
+      "141770773",
+      {"key": "141770773"}
+    ],
+    [
+      "141770777",
+      {"key": "141770777"}
+    ],
+    [
+      "141770782",
+      {"key": "141770782"}
+    ],
+    [
+      "141770784",
+      {"key": "141770784"}
+    ],
+    [
+      "141770790",
+      {"key": "141770790"}
+    ],
+    [
+      "141770796",
+      {"key": "141770796"}
+    ],
+    [
+      "141770802",
+      {"key": "141770802"}
+    ],
+    [
+      "141770811",
+      {"key": "141770811"}
+    ],
+    [
+      "141770815",
+      {"key": "141770815"}
+    ],
+    [
+      "141770821",
+      {"key": "141770821"}
+    ],
+    [
+      "141770825",
+      {"key": "141770825"}
+    ],
+    [
+      "141770828",
+      {"key": "141770828"}
+    ],
+    [
+      "141770831",
+      {"key": "141770831"}
+    ],
+    [
+      "141770834",
+      {"key": "141770834"}
+    ],
+    [
+      "141770836",
+      {"key": "141770836"}
+    ],
+    [
+      "141770839",
+      {"key": "141770839"}
+    ],
+    [
+      "141770842",
+      {"key": "141770842"}
+    ],
+    [
+      "141770845",
+      {"key": "141770845"}
+    ],
+    [
+      "141770848",
+      {"key": "141770848"}
+    ],
+    [
+      "141770851",
+      {"key": "141770851"}
+    ],
+    [
+      "141770854",
+      {"key": "141770854"}
+    ],
+    [
+      "141770855",
+      {"key": "141770855"}
+    ],
+    [
+      "141770858",
+      {"key": "141770858"}
+    ],
+    [
+      "141770862",
+      {"key": "141770862"}
+    ],
+    [
+      "141770865",
+      {"key": "141770865"}
+    ],
+    [
+      "141770867",
+      {"key": "141770867"}
+    ],
+    [
+      "141770871",
+      {"key": "141770871"}
+    ],
+    [
+      "141770874",
+      {"key": "141770874"}
+    ],
+    [
+      "141770876",
+      {"key": "141770876"}
+    ],
+    [
+      "141770881",
+      {"key": "141770881"}
+    ],
+    [
+      "141770884",
+      {"key": "141770884"}
+    ],
+    [
+      "141770885",
+      {"key": "141770885"}
+    ],
+    [
+      "141770887",
+      {"key": "141770887"}
+    ],
+    [
+      "141770889",
+      {"key": "141770889"}
+    ],
+    [
+      "141770891",
+      {"key": "141770891"}
+    ],
+    [
+      "141770894",
+      {"key": "141770894"}
+    ],
+    [
+      "141770896",
+      {"key": "141770896"}
+    ],
+    [
+      "141770898",
+      {"key": "141770898"}
+    ],
+    [
+      "141770900",
+      {"key": "141770900"}
+    ]
+  ],
+  "uri": "/liahona/2019/11/56andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El fruto",
+          "title": "El fruto"
+        },
+        "pageSocial": {
+          "description": "El fruto",
+          "title": "El fruto"
+        }
+      }
+    },
+    "body": "<header>\n<h1 data-aid=\"141769582\" id=\"title1\">El fruto<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141769588\" id=\"author1\">Por el &#xE9;lder Neil&#xA0;L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"141769594\" id=\"author2\">Del Cu&#xF3;rum de los Doce Ap&#xF3;stoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141769600\" id=\"kicker1\"> Mantengan los ojos y el coraz&#xF3;n centrados en el Salvador Jesucristo y en el eterno gozo que proviene solo mediante &#xC9;l.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141769606\" id=\"p1\">&#xA1;S&#xE9; lo que est&#xE1;n pensando! Solo un discursante m&#xE1;s y escucharemos al presidente Nelson. Con la esperanza de mantenerlos alerta durante unos minutos mientras esperamos a nuestro amado profeta, he seleccionado un tema muy interesante: hablar&#xE9; del fruto.<\/p>\n<img alt=\"Fruto\" id=\"img1\" src=\"https://assets.ldscdn.org/b9/ea/b9ea48940e862db9109ec2e7ad40513177e07e8f/fruits_vegetables.png\" data-img-id=\"2293705\" srcset=\"https://assets.ldscdn.org/f7/07/f7075f7c27a81332d222af41b808454c1fd109eb/fruits_vegetables.png 60w,https://assets.ldscdn.org/40/11/4011075b52f4fab2985292af677c33a40f03c162/fruits_vegetables.png 100w,https://assets.ldscdn.org/91/86/9186acd45d48c935ee7d4a221946381e25899f5b/fruits_vegetables.png 200w,https://assets.ldscdn.org/72/64/7264afba9ce151f70349e0397db72cd386f01872/fruits_vegetables.png 250w,https://assets.ldscdn.org/8e/d3/8ed3a433142de027cc8a6b99972c81c4fb445417/fruits_vegetables.png 320w,https://assets.ldscdn.org/b9/ea/b9ea48940e862db9109ec2e7ad40513177e07e8f/fruits_vegetables.png 500w,https://assets.ldscdn.org/1a/4b/1a4b2124af1b40d20e422e9a3fe2fade074f007e/fruits_vegetables.png 640w\" data-assetid=\"82bf4ab25d2eb90f60a774bad207532bac4eb274\" data-missing-asset=\"false\">\n<p data-aid=\"141769612\" id=\"p2\">Con el color, la textura y la dulzura de las moras, las bananas, las sand&#xED;as y los mangos, o de frutas m&#xE1;s ex&#xF3;ticas como el mel&#xF3;n kiwano o la granada, durante mucho tiempo la fruta ha sido un manjar muy preciado.<\/p>\n<p data-aid=\"141769617\" id=\"p3\">Durante Su ministerio terrenal, el Salvador compar&#xF3; el buen fruto con cosas de valor eterno. &#xC9;l dijo: &#x201C;Por sus frutos los conocer&#xE9;is<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> [&#x2026;],&#xA0;todo buen &#xE1;rbol da buenos frutos&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Nos alent&#xF3; a recoger &#x201C;fruto para vida eterna&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"141769622\" id=\"p4\">En un conocido y v&#xED;vido sue&#xF1;o del Libro de Morm&#xF3;n, que todos conocemos, el profeta Lehi se halla en &#x201C;un desierto oscuro y l&#xFA;gubre&#x201D;. Hay aguas sucias, un vapor de tinieblas, senderos extra&#xF1;os y senderos prohibidos, as&#xED; como una barra de hierro<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> a lo largo de un camino angosto y estrecho que conduce a un hermoso &#xE1;rbol con &#x201C;fruto [que hace] a uno feliz&#x201D;. Al relatar el sue&#xF1;o, Lehi dice: &#x201C;&#x2026;&#xA0;com&#xED; de su fruto [&#x2026;]; era de lo m&#xE1;s dulce, superior a todo cuanto yo hab&#xED;a probado antes [&#x2026;]. [Y] mi alma se llen&#xF3; de un gozo inmenso&#x201D;.<em>Ese<\/em> fruto era &#x201C;[m&#xE1;s] preferible [que] todos los dem&#xE1;s&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<img alt=\"El &#xE1;rbol de la vida con su fruto delicioso\" id=\"img2\" src=\"https://assets.ldscdn.org/a2/57/a2579f29ee8fc26d4fadc6ec0f05607e1195c8b8/lehi_dream_tree_life_olsen.png\" data-img-id=\"2293711\" srcset=\"https://assets.ldscdn.org/e6/d9/e6d9d4d36fef36998cec0e11ac298ae9cab94184/lehi_dream_tree_life_olsen.png 60w,https://assets.ldscdn.org/46/e0/46e05eca1a9c63cb1243c3c96afe21d79f0b2353/lehi_dream_tree_life_olsen.png 100w,https://assets.ldscdn.org/2a/b8/2ab83f8906561efd24a87c407b42db3715e0f31d/lehi_dream_tree_life_olsen.png 200w,https://assets.ldscdn.org/3f/02/3f0270647a7143ea9afc47fe993355d461cf54f8/lehi_dream_tree_life_olsen.png 250w,https://assets.ldscdn.org/c3/62/c362b54df5f05c1f6c9b2218f649940426f8f06b/lehi_dream_tree_life_olsen.png 320w,https://assets.ldscdn.org/a2/57/a2579f29ee8fc26d4fadc6ec0f05607e1195c8b8/lehi_dream_tree_life_olsen.png 500w,https://assets.ldscdn.org/60/de/60deb0f062b973d5e2b113b8a9b5c92602173c1a/lehi_dream_tree_life_olsen.png 640w\" data-assetid=\"98881de76a9cd4210914cc5c9e64e34876f0bcb3\" data-missing-asset=\"false\">\n<section>\n<header>\n<h2 data-aid=\"141769627\" id=\"p5\">El significado del &#xE1;rbol y del fruto<\/h2>\n<\/header>\n<p data-aid=\"141769632\" id=\"p41\">&#xBF;Qu&#xE9; simboliza ese &#xE1;rbol con su fruto de tanto valor? Representa &#x201C;el amor de Dios&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> y proclama el maravilloso plan de redenci&#xF3;n de nuestro Padre Celestial. &#x201C;Porque de tal manera am&#xF3; Dios al mundo que ha dado a su Hijo Unig&#xE9;nito, para que todo aquel que en &#xE9;l cree no se pierda, mas tenga vida eterna&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"141769637\" id=\"p6\">Ese fruto valioso simboliza las bendiciones maravillosas de la expiaci&#xF3;n incomparable del Salvador. No solo viviremos nuevamente despu&#xE9;s de nuestra vida en la tierra, sino que, mediante nuestra fe en Jesucristo, nuestro arrepentimiento y el cumplimiento de los mandamientos, podemos ser perdonados de nuestros pecados y un d&#xED;a comparecer limpios y puros ante nuestro Padre y Su Hijo.<\/p>\n<p data-aid=\"141769642\" id=\"p7\">El participar del fruto del &#xE1;rbol tambi&#xE9;n simboliza que aceptamos las ordenanzas y los convenios del Evangelio restaurado: ser bautizados, recibir el don del Esp&#xED;ritu Santo y entrar en la Casa del Se&#xF1;or para ser investidos con poder de lo alto. Mediante la gracia de Jesucristo y al honrar nuestros convenios, recibimos la promesa inconmensurable de vivir con nuestra familia justa por la eternidad<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"141769646\" id=\"p8\">No es de extra&#xF1;ar que el &#xE1;ngel describiera el fruto como &#x201C;el de mayor gozo para el alma&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. &#xA1;De verdad lo es!<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769652\" id=\"title6\">El desaf&#xED;o de permanecer firmes<\/h2>\n<\/header>\n<p data-aid=\"141769657\" id=\"p9\">Como todos hemos aprendido, incluso despu&#xE9;s de saborear el fruto valioso del Evangelio restaurado, el permanecer firmes y fieles al Se&#xF1;or Jesucristo no es f&#xE1;cil. Como se ha dicho muchas veces en esta conferencia, continuamos haciendo frente a distracciones y enga&#xF1;os, confusi&#xF3;n y conmoci&#xF3;n, seducciones y tentaciones que intentan alejar nuestros corazones del Salvador y de los gozos y las bellezas que hemos experimentado al seguirlo.<\/p>\n<p data-aid=\"141769663\" id=\"p10\">Debido a esta adversidad, &#xA1;el sue&#xF1;o de Lehi tambi&#xE9;n incluye una advertencia! Al otro lado del r&#xED;o hay un edificio espacioso con personas de todas las edades que se&#xF1;alan con el dedo y ridiculizan y se burlan de los seguidores justos de Jesucristo.<\/p>\n<p data-aid=\"141769668\" id=\"p11\">Las personas del edificio ridiculizan y se r&#xED;en de aquellos que guardan los mandamientos, con la esperanza de desacreditar y criticar su fe en Jesucristo y en Su evangelio. Y debido a los ataques verbales de duda y desd&#xE9;n que lanzan contra los creyentes, algunos de los que han probado el fruto comienzan a sentirse avergonzados del Evangelio que una vez aceptaron. Los falsos encantos del mundo los seducen; ellos se apartan del &#xE1;rbol y del fruto y, en las palabras de las Escrituras, &#x201C;[caen] en senderos prohibidos y se [pierden]&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"141769671\" id=\"p12\">En nuestro mundo actual, los equipos de construcci&#xF3;n del adversario trabajan horas extras ampliando a toda prisa el edificio grande y espacioso. La expansi&#xF3;n se ha extendido al otro lado del r&#xED;o, con la esperanza de rodear nuestros hogares, mientras que quienes se&#xF1;alan gimen d&#xED;a y noche en sus meg&#xE1;fonos de Internet<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"141769676\" id=\"p13\">El presidente Nelson explic&#xF3;: &#x201C;&#x2026;&#xA0;El adversario est&#xE1; cuadruplicando sus esfuerzos por desestabilizar testimonios e impedir la obra del Se&#xF1;or&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Recordemos las palabras de Lehi: &#x201C;&#x2026;&#xA0;no les hicimos caso&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"141769682\" id=\"p14\">Aunque no debemos temer, debemos estar en guardia. A veces, las cosas peque&#xF1;as pueden destruir nuestro equilibrio espiritual. No permitan que sus dudas, los insultos de los dem&#xE1;s, los amigos sin fe, o los errores y las decepciones desafortunadas los alejen de las bendiciones tiernas, puras que elevan el alma y que provienen del preciado fruto del &#xE1;rbol. Mantengan los ojos y el coraz&#xF3;n centrados en el Salvador Jesucristo y en el eterno gozo que proviene solo mediante &#xC9;l.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769688\" id=\"title7\">La fe de Jason Hall<\/h2>\n<\/header>\n<p data-aid=\"141769694\" id=\"p15\">En junio, mi esposa, Kathy y yo asistimos al funeral de Jason Hall. Cuando falleci&#xF3;, ten&#xED;a 48 a&#xF1;os y serv&#xED;a como presidente del cu&#xF3;rum de &#xE9;lderes.<\/p>\n<p data-aid=\"141769699\" id=\"p16\">Estas son las palabras de Jason sobre un evento que le cambi&#xF3; la vida:<\/p>\n<p data-aid=\"141769704\" id=\"p17\">[A los 15 a&#xF1;os], tuve un accidente al hacer un clavado [&#x2026;]. [Me quebr&#xE9;] el cuello y qued&#xE9; paralizado del pecho para abajo. Perd&#xED; completamente el control de las piernas y parcialmente el de los brazos. Ya no pod&#xED;a caminar, ponerme de pie [&#x2026;]&#xA0;o alimentarme. Apenas pod&#xED;a respirar o hablar&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"141769709\" id=\"p18\">&#x201C;&#x2018;Querido Padre [Celestial]&#x2019;, supliqu&#xE9;, &#x2018;si tan solo pudiera usar las manos, s&#xE9; que podr&#xED;a salir adelante. Por favor, Padre, por favor [&#x2026;].<\/p>\n<p data-aid=\"141769714\" id=\"p19\">&#x201C;&#x2018;Qu&#xE9;date con mis piernas, Padre; solo [te suplico] el uso de mis manos&#x2019;&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"141769720\" id=\"p20\">Jason nunca recuper&#xF3; el uso de las manos. &#xBF;Pueden o&#xED;r las voces provenientes del edificio espacioso?: &#x201C;Jason Hall, &#xA1;Dios no escucha tus oraciones! Si Dios es un Dios amoroso, &#xBF;c&#xF3;mo podr&#xED;a dejarte as&#xED;? &#xBF;Por qu&#xE9; tener fe en Cristo?&#x201D;. Jason Hall oy&#xF3; sus voces, pero no les hizo caso. Mas bien se deleit&#xF3; en el fruto del &#xE1;rbol. Su fe en Jesucristo se volvi&#xF3; inamovible. Se gradu&#xF3; de la universidad y se cas&#xF3; en el templo con Kolette Coleman, a quien describi&#xF3; como el amor de su vida<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Despu&#xE9;s de 16 a&#xF1;os de matrimonio, ocurri&#xF3; otro milagro: naci&#xF3; su adorado hijo, Coleman.<\/p>\n<img alt=\"Jason y Kolette Hall\" id=\"img3\" src=\"https://assets.ldscdn.org/46/5d/465dbff4520a2aab1115d58536ff86bb005c0fcd/hall_family.png\" data-img-id=\"2293715\" srcset=\"https://assets.ldscdn.org/17/60/17602823a062d3f95ceb7a2558e657e6d0470e56/hall_family.png 30w,https://assets.ldscdn.org/af/56/af56227c152a16c506f02bd4ed1f019f60a7f030/hall_family.png 60w,https://assets.ldscdn.org/32/ad/32ad5baaf9da5916cc10c8183a36eab3c6ab984f/hall_family.png 64w,https://assets.ldscdn.org/0f/a9/0fa980503c97b239146e831069df8ca42c31a2ef/hall_family.png 100w,https://assets.ldscdn.org/7f/aa/7faa360fe224c9b408ef7c360f1734e1c89d36a0/hall_family.png 200w,https://assets.ldscdn.org/98/af/98af777782657ea0059791265195d72048b97c52/hall_family.png 205w,https://assets.ldscdn.org/00/ab/00ab9a75f73a5b0147e7e60e5a3c43bf36e2d2bf/hall_family.png 250w,https://assets.ldscdn.org/2b/dc/2bdcc3e518328958cd2e1d2efb3f6e883cc5899a/hall_family.png 320w,https://assets.ldscdn.org/46/5d/465dbff4520a2aab1115d58536ff86bb005c0fcd/hall_family.png 500w,https://assets.ldscdn.org/14/9c/149cc0867ef2f236bc26f3c1709d27ae03921e14/hall_family.png 640w\" data-assetid=\"ef5abe1be3d726d19183f4fa3fee51e122bfada7\" data-missing-asset=\"false\">\n<img alt=\"La familia Hall\" id=\"img4\" src=\"https://assets.ldscdn.org/e8/48/e848f3478298228f0289e1b1697b242ec836f0fb/hall_family.png\" data-img-id=\"2293713\" srcset=\"https://assets.ldscdn.org/b8/2f/b82f307af5ea1a94f15cdc4225febe76fa6bde5c/hall_family.png 60w,https://assets.ldscdn.org/22/43/2243c8473a97f6ee385c17a93841a25dbb3005c3/hall_family.png 100w,https://assets.ldscdn.org/26/37/2637ef8e8a24bf8559a470ab69b74f2be7dcd54f/hall_family.png 200w,https://assets.ldscdn.org/11/ca/11ca6752b5431aa9ff431aed1b50fe6e1bdc1037/hall_family.png 250w,https://assets.ldscdn.org/f9/b1/f9b1a0c57c23a100e4d7f418a88b3cf4c095aa3d/hall_family.png 320w,https://assets.ldscdn.org/e8/48/e848f3478298228f0289e1b1697b242ec836f0fb/hall_family.png 500w,https://assets.ldscdn.org/f2/8a/f28a97403a99319097e661179ad1c33ba69289b9/hall_family.png 640w\" data-assetid=\"29379c5cbcbb8c0f728cc7a840c355551a74da42\" data-missing-asset=\"false\">\n<p data-aid=\"141769726\" id=\"p21\">&#xBF;C&#xF3;mo hicieron ellos para aumentar su fe? Kolette explic&#xF3;: &#x201C;Confiamos en el plan de Dios y eso nos dio esperanza. Sab&#xED;amos que Jason [en un d&#xED;a futuro] ser&#xED;a sanado [&#x2026;]. Sab&#xED;amos que Dios nos proporcion&#xF3; un Salvador, cuyo sacrificio expiatorio nos permite seguir viendo hacia el futuro cuando queremos darnos por vencidos&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<img alt=\"Coleman Hall\" id=\"img5\" src=\"https://assets.ldscdn.org/c2/36/c236e5bb11ddda479b9b0516d693a4ab4e096dee/young_men_portrait.png\" data-img-id=\"2293717\" srcset=\"https://assets.ldscdn.org/08/01/0801c22e19aaeb20c3357a0c50d8aebf4abbdde9/young_men_portrait.png 60w,https://assets.ldscdn.org/5e/0a/5e0aff1a10db10605656939d2be99002be112eaa/young_men_portrait.png 100w,https://assets.ldscdn.org/d0/83/d083e89fcda54036adf0068e9a078bfdad0afab5/young_men_portrait.png 200w,https://assets.ldscdn.org/d8/5b/d85b619d897b38576f20db9b9803832b91530885/young_men_portrait.png 250w,https://assets.ldscdn.org/8a/72/8a725eb6f26d86b40d952b1fba899022426c9090/young_men_portrait.png 320w,https://assets.ldscdn.org/c2/36/c236e5bb11ddda479b9b0516d693a4ab4e096dee/young_men_portrait.png 500w,https://assets.ldscdn.org/98/23/9823d76f5b959d47095dc9d2e90d1939f1fbe26b/young_men_portrait.png 640w\" data-assetid=\"cecaa2acc6332431f62cc2ddffc883b2e976e886\" data-missing-asset=\"false\">\n<p data-aid=\"141769732\" id=\"p22\">Al hablar en el funeral de Jason, Coleman, de 10 a&#xF1;os, dijo que su padre le ense&#xF1;&#xF3; &#x201C;que nuestro Padre Celestial [tiene] un plan para nosotros, que la vida en la tierra ser&#xED;a incre&#xED;ble y que podr&#xED;amos vivir en familias [&#x2026;] pero [&#x2026;]&#xA0;tendr&#xED;amos que pasar por cosas dif&#xED;ciles y cometer&#xED;amos errores&#x201D;.<\/p>\n<p data-aid=\"141769737\" id=\"p23\">Coleman continu&#xF3;: &#x201C;El Padre Celestial envi&#xF3; a Su Hijo Jes&#xFA;s, a la tierra. Su tarea era ser perfecto; sanar a las personas; amarlas. Y luego sufrir por todos nuestros dolores, penas y pecados. Despu&#xE9;s muri&#xF3; por nosotros&#x201D;. Entonces Coleman agreg&#xF3;: &#x201C;Debido a que lo hizo, Jes&#xFA;s sabe c&#xF3;mo me siento en este momento.<\/p>\n<p data-aid=\"141769742\" id=\"p24\">&#x201C;Tres d&#xED;as despu&#xE9;s de que Jes&#xFA;s muri&#xF3; [&#x2026;],&#xA0;volvi&#xF3; a la vida con Su cuerpo perfecto. Eso es importante para m&#xED; porque s&#xE9; que [&#x2026;]&#xA0;el cuerpo de mi [pap&#xE1;] ser&#xE1; perfecto y estaremos juntos como familia&#xA0;[&#x2026;].<\/p>\n<img alt=\"La familia Hall\" id=\"img6\" src=\"https://assets.ldscdn.org/5f/23/5f238be19ae8809692653ddacfd186a7399286a1/hall_family.png\" data-img-id=\"2293719\" srcset=\"https://assets.ldscdn.org/d2/1c/d21c78f65eb7c8faabdf0b9852cb071d7dd3ca5a/hall_family.png 60w,https://assets.ldscdn.org/d4/07/d407f1cdb6f48617d2cd1423945e9bf0f9618b7d/hall_family.png 100w,https://assets.ldscdn.org/b5/68/b568ef32a9e3e02ae6621f73d604cca11ffcb095/hall_family.png 200w,https://assets.ldscdn.org/cc/1f/cc1fa287ef664b47b4a7f67942ff58e1059a295e/hall_family.png 250w,https://assets.ldscdn.org/62/33/62330d3f63d6dac9a66ffada707979cf9883d71f/hall_family.png 320w,https://assets.ldscdn.org/5f/23/5f238be19ae8809692653ddacfd186a7399286a1/hall_family.png 500w,https://assets.ldscdn.org/ef/6a/ef6ac56f5de66ab11606d5d109804d1f179d2431/hall_family.png 640w\" data-assetid=\"2c17ca82d0c9ee1580d011f11a21b4be2d84acd1\" data-missing-asset=\"false\">\n<p data-aid=\"141769748\" id=\"p38\">Coleman concluy&#xF3;: &#x201C;Todas las noches desde que era beb&#xE9;, mi pap&#xE1; me dec&#xED;a: &#x2018;Tu pap&#xE1; te ama, el Padre Celestial te ama y t&#xFA; eres un ni&#xF1;o bueno&#x2019;&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769755\" id=\"title8\">El gozo proviene gracias a Jesucristo<\/h2>\n<\/header>\n<p data-aid=\"141770757\" id=\"p25\">El presidente Russell&#xA0;M. Nelson describi&#xF3; la raz&#xF3;n por la que la familia Hall siente gozo y esperanza. &#xC9;l dijo:<\/p>\n<p data-aid=\"141770763\" id=\"p37\">&#x201C;&#x2026;&#xA0;el gozo que sentimos tiene poco que ver con las circunstancias de nuestra vida, y tiene mucho que ver con el enfoque de nuestra vida.<\/p>\n<p data-aid=\"141770769\" id=\"p26\">&#x201C;Si centramos nuestra vida en el Plan de Salvaci&#xF3;n de Dios [&#x2026;] y en Jesucristo y Su Evangelio, podemos sentir gozo independientemente de lo que est&#xE9; sucediendo &#xFEFF;&#x2014;o no est&#xE9; sucediendo&#xFEFF;&#x2014; en nuestra vida. El gozo proviene de &#xC9;l, y gracias a &#xC9;l. &#xC9;l es la fuente de todo gozo&#x2026;<\/p>\n<p data-aid=\"141770773\" id=\"p28\">&#x201C;Si ponemos la vista en el mundo [&#x2026;], jam&#xE1;s conoceremos el gozo [&#x2026;]. [El gozo] es el don que proviene de tratar de vivir, de forma intencional, una vida de rectitud, como ense&#xF1;&#xF3; Jesucristo&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141770777\" id=\"title9\">Una promesa al regresar<\/h2>\n<\/header>\n<p data-aid=\"141770782\" id=\"p29\">Si han estado sin el fruto del &#xE1;rbol durante alg&#xFA;n tiempo, sepan que los brazos del Salvador siempre est&#xE1;n extendidos hacia ustedes. &#xC9;l llama con amor: &#x201C;&#x2026;&#xA0;arrepi[&#xE9;ntanse] y vengan a m&#xED;&#x201D;<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Su fruto es abundante y est&#xE1; siempre en temporada. No se puede comprar con dinero, y a nadie que sinceramente lo desea se le niega<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"141770784\" id=\"p32\">Si desean regresar al &#xE1;rbol y probar el fruto otra vez, empiecen con una oraci&#xF3;n a su Padre Celestial. Crean en Jesucristo y en el poder de Su sacrificio expiatorio. Les prometo que al mirar al Salvador &#x201C;en todo pensamiento&#x201D;<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>, el fruto del &#xE1;rbol ser&#xE1; suyo otra vez, delicioso a su gusto, gozoso para su alma, &#x201C;el m&#xE1;s grande de todos los dones de Dios&#x201D;<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<img alt=\"El &#xE9;lder Andersen con los santos portugueses en la dedicaci&#xF3;n del Templo de Lisboa\" id=\"img7\" src=\"https://assets.ldscdn.org/a5/b0/a5b0c59174a6ce7bc282aa5669e7bf99f26e3905/pioneers_men_women_lisbon_portugal.png\" data-img-id=\"2293721\" srcset=\"https://assets.ldscdn.org/5e/70/5e7012dc5d4797d46e75e4536488ee1b0e6cae91/pioneers_men_women_lisbon_portugal.png 60w,https://assets.ldscdn.org/4a/74/4a746d001d03c61e92742a5b8614fc536b62508f/pioneers_men_women_lisbon_portugal.png 100w,https://assets.ldscdn.org/97/45/9745a6f8e54aae12238fc51e34c91545480546bc/pioneers_men_women_lisbon_portugal.png 200w,https://assets.ldscdn.org/3b/e2/3be229f2a1b6dd3cb16e14f0444d6f65be31d017/pioneers_men_women_lisbon_portugal.png 250w,https://assets.ldscdn.org/3c/7e/3c7e658ac843173fb5589c24251b15d31834d674/pioneers_men_women_lisbon_portugal.png 320w,https://assets.ldscdn.org/a5/b0/a5b0c59174a6ce7bc282aa5669e7bf99f26e3905/pioneers_men_women_lisbon_portugal.png 500w,https://assets.ldscdn.org/1a/1f/1a1fdb6339f30dd6b17be9b5ed4e7cf1c7a915dd/pioneers_men_women_lisbon_portugal.png 640w\" data-assetid=\"d66e65d238ee6c1d624db065cdbc25f3ab49b784\" data-missing-asset=\"false\">\n<p data-aid=\"141770790\" id=\"p40\">Hace tres semanas, vi el gozo del fruto del Salvador manifestarse a plena vista, mientras Kathy y yo asist&#xED;amos a la dedicaci&#xF3;n del Templo de Lisboa, Portugal. Las verdades del Evangelio restaurado se pusieron al alcance de Portugal en 1975, cuando se estableci&#xF3; la libertad religiosa. Muchos santos nobles que probaron del fruto por primera vez cuando no hab&#xED;a congregaciones, capillas ni ning&#xFA;n templo a menos de 1600 km, se regocijaron con nosotros de tener ahora el preciado fruto del &#xE1;rbol en la Casa del Se&#xF1;or en Lisboa, Portugal. Cu&#xE1;nto honro y venero a esos Santos de los &#xDA;ltimos D&#xED;as que han mantenido sus corazones afianzados en el Salvador.<\/p>\n<p data-aid=\"141770796\" id=\"p33\">El Salvador dijo: &#x201C;Yo soy la vid, vosotros los p&#xE1;mpanos; el que permanece en m&#xED;, y yo en &#xE9;l, este lleva mucho fruto, porque sin m&#xED; nada pod&#xE9;is hacer&#x201D;<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"141770802\" id=\"p34\">Esta ma&#xF1;ana, el presidente Nelson al hablar a los miembros de la Iglesia de todo el mundo dijo: &#x201C;Mis queridos hermanos y hermanas, ustedes son modelos vivientes de los frutos que provienen de seguir las ense&#xF1;anzas de Jesucristo&#x201D;. Entonces agreg&#xF3;: &#x201C;&#xA1;Gracias! &#xA1;Los amo!&#x201D;<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"141770811\" id=\"p39\">Lo amamos, presidente Nelson.<\/p>\n<p data-aid=\"141770815\" id=\"p35\">Soy testigo ocular del poder de la revelaci&#xF3;n que descansa sobre nuestro querido Presidente. &#xC9;l es el profeta de Dios. Al igual que Lehi de anta&#xF1;o, el presidente Russell&#xA0;M. Nelson nos invita a nosotros y a todos en la familia de Dios, a venir y participar del fruto del &#xE1;rbol. Ruego que tengamos la humildad y la fortaleza para seguir su consejo.<\/p>\n<p data-aid=\"141770821\" id=\"p36\">Testifico humildemente que Jesucristo es el Hijo de Dios. Su amor, Su poder y Su gracia brindan todas las cosas de valor duradero. De ello testifico, en el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141769622",
+        "id": "note4",
+        "text": "<p data-aid=\"141770836\" id=\"note4_p1\">A principios de enero de 2007, mientras me preparaba para dar un discurso en un Devocional de la Universidad Brigham Young en calidad de miembro de la Presidencia de los Setenta, con fecha 4 de marzo de 2007, le pregunt&#xE9; al &#xE9;lder David&#xA0;A. Bednar qu&#xE9; estaba preparando para su discurso del 4 de febrero de 2007, frente al mismo p&#xFA;blico. Me sorprend&#xED; cuando me respondi&#xF3; que su discurso era acerca de asirse a la barra de hierro. Ese era el t&#xED;tulo exacto que yo hab&#xED;a elegido para mi discurso. Luego de compartir el texto entre nosotros, nos dimos cuenta de que nuestros enfoques eran distintos. Su discurso, que se titulaba &#x201C;<a href=\"https://speeches.byu.edu/talks/david-a-bednar/reservoir-living-water/\">Una reserva de agua viva<\/a>&#x201D;, hac&#xED;a hincapi&#xE9; en la barra de hierro, o la palabra de Dios, como lo que contienen las Escrituras. En su discurso, &#xE9;l pregunt&#xF3;: &#x201C;&#xBF;Estamos leyendo, estudiando y escudri&#xF1;ando diariamente las Escrituras de una manera que nos permita aferrarnos a la barra de hierro&#x2026;? (speeches.byu.edu).<\/p>\n<p data-aid=\"141770839\" id=\"note4_p2\">Luego, justo una semana despu&#xE9;s de mi conversaci&#xF3;n con el &#xE9;lder Bednar, el presidente Boyd&#xA0;K. Packer dio un discurso en un Devocional de BYU titulado &#x201C;<a href=\"https://speeches.byu.edu/talks/boyd-k-packer/lehis-dream/\">Lehi&#x2019;s Dream and You<\/a>&#x201D;. El presidente Packer hizo hincapi&#xE9; en la barra de hierro como la revelaci&#xF3;n e inspiraci&#xF3;n personales que vienen a nosotros por medio del Esp&#xED;ritu Santo. &#xC9;l dijo: &#x201C;Si se aferran a la barra de hierro, podr&#xE1;n <em>seguir<\/em> adelante a tientas con el don del Esp&#xED;ritu Santo [&#x2026;]. Af&#xE9;rrense a la barra de hierro y no se suelten. Por medio del poder del Esp&#xED;ritu Santo pueden <em>sentir<\/em> su camino en la vida&#x201D; (16 de enero de 2007, speeches.byu.edu).<\/p>\n<p data-aid=\"141770842\" id=\"note4_p3\">Mi tema: &#x201C;<a href=\"https://speeches.byu.edu/talks/neil-l-andersen/hold-fast-words-prophets/\">Asiros con firmeza a las palabras de los profetas<\/a>&#x201D;, de marzo de 2007 fue la barra de hierro como lo que representan las palabras de los profetas vivientes (4 de marzo de 2007, speeches.byu.edu).<\/p>\n<p data-aid=\"141770845\" id=\"note4_p4\">La conexi&#xF3;n entre estos tres discursos no fue una coincidencia. La mano del Se&#xF1;or intervino cuando en tres discursos, preparados para el mismo p&#xFA;blico, se determinaron tres aspectos de la barra de hierro o la palabra de Dios: (1)&#xA0;las Escrituras, o las palabras de los profetas antiguos; (2)&#xA0;las palabras de los profetas vivientes; y (3)&#xA0;el poder del Esp&#xED;ritu Santo. Fue una experiencia de aprendizaje importante para m&#xED;.<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://speeches.byu.edu/talks/david-a-bednar/reservoir-living-water/",
+            "text": "Una reserva de agua viva"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/boyd-k-packer/lehis-dream/",
+            "text": "Lehi\u2019s Dream and You"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/neil-l-andersen/hold-fast-words-prophets/",
+            "text": "Asiros con firmeza a las palabras de los profetas"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141769622",
+        "id": "note5",
+        "text": "<p data-aid=\"141770848\" id=\"note5_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.4-12?lang=spa#p4\">1&#xA0;Nefi 8:4&#x2013;12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.4-12?lang=spa#p4",
+          "text": "1 Nefi 8:4\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141769617",
+        "id": "note2",
+        "text": "<p data-aid=\"141770831\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.17?lang=spa#p17\">Mateo 7:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.17?lang=spa#p17",
+          "text": "Mateo 7:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141769617",
+        "id": "note3",
+        "text": "<p data-aid=\"141770834\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.36?lang=spa#p36\">Juan 4:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.36?lang=spa#p36",
+          "text": "Juan 4:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141769642",
+        "id": "note8",
+        "text": "<p data-aid=\"141770855\" id=\"note8_p1\">V&#xE9;ase David&#xA0;A. Bednar, &#x201C;<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/2011/10/lehis-dream-holding-fast-to-the-rod.html\">El sue&#xF1;o de Lehi: Asidos constantemente a la barra<\/span>&#x201D;, <cite>Liahona,<\/cite> octubre de 2011, p&#xE1;gs. 32&#x2013;37.<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141769646",
+        "id": "note9",
+        "text": "<p data-aid=\"141770858\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.23?lang=spa#p23\">1&#xA0;Nefi 11:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.23?lang=spa#p23",
+          "text": "1 Nefi 11:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141769632",
+        "id": "note6",
+        "text": "<p data-aid=\"141770851\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=spa#p25\">1&#xA0;Nefi 11:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.25?lang=spa#p25",
+          "text": "1 Nefi 11:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141769632",
+        "id": "note7",
+        "text": "<p data-aid=\"141770854\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=spa#p16\">Juan 3:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3.16?lang=spa#p16",
+          "text": "Juan 3:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141769720",
+        "id": "note16",
+        "text": "<p data-aid=\"141770881\" id=\"note16_p1\">Correspondencia personal del &#xE9;lder Andersen, de parte de Kolette Hall.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141769714",
+        "id": "note15",
+        "text": "<p data-aid=\"141770876\" id=\"note15_p1\">Stephen Jason Hall, &#x201C;<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../new-era/1995/10/helping-hands.html\">Helping Hands<\/span>&#x201D;, <cite>New Era,<\/cite> octubre de 1995, p&#xE1;gs. 46, 47.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141769704",
+        "id": "note14",
+        "text": "<p data-aid=\"141770874\" id=\"note14_p1\">Stephen Jason Hall, &#x201C;<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../new-era/1994/12/the-gift-of-home.html\">The Gift of Home<\/span>&#x201D;, <cite>New Era,<\/cite> diciembre de 1994, p&#xE1;g. 12.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141769676",
+        "id": "note13",
+        "text": "<p data-aid=\"141770871\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1&#xA0;Nefi 8:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.33?lang=spa#p33",
+          "text": "1 Nefi 8:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141769676",
+        "id": "note12",
+        "text": "<p data-aid=\"141770867\" id=\"note12_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>&#x201D;, <cite>Liahona,<\/cite> mayo de 2019, p&#xE1;g. 68.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/36nelson?lang=spa",
+          "text": "Podemos actuar mejor y ser mejores",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141769671",
+        "id": "note11",
+        "text": "<p data-aid=\"141770865\" id=\"note11_p1\">V&#xE9;ase Boyd&#xA0;K. Packer, &#x201C;<a href=\"https://speeches.byu.edu/talks/boyd-k-packer/lehis-dream/\">Lehi&#x2019;s Dream and You<\/a>&#x201D; (Devocional en la Universidad Brigham Young, 16 de enero de 2007), speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/boyd-k-packer/lehis-dream/",
+          "text": "Lehi\u2019s Dream and You"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141769668",
+        "id": "note10",
+        "text": "<p data-aid=\"141770862\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.28?lang=spa#p28\">1&#xA0;Nefi 8:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.28?lang=spa#p28",
+          "text": "1 Nefi 8:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "141770773",
+        "id": "note19",
+        "text": "<p data-aid=\"141770887\" id=\"note19_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa\">El gozo y la supervivencia espiritual<\/a>&#x201D;, <cite>Liahona,<\/cite> noviembre de 2016, p&#xE1;g. 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa",
+          "text": "El gozo y la supervivencia espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "141769748",
+        "id": "note18",
+        "text": "<p data-aid=\"141770885\" id=\"note18_p1\">Discurso de Coleman Hall en el funeral, seg&#xFA;n lo comparti&#xF3; Kolette Hall con el &#xE9;lder Andersen.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "141769726",
+        "id": "note17",
+        "text": "<p data-aid=\"141770884\" id=\"note17_p1\">Correspondencia personal del &#xE9;lder Andersen, de parte de Kolette Hall.<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "context": null,
+        "pid": "141770802",
+        "id": "note25",
+        "text": "<p data-aid=\"141770900\" id=\"note25_p1\">Russell&#xA0;M. Nelson, &#x201C;El segundo gran mandamiento&#x201D;, <cite>Liahona<\/cite>, noviembre de 2019, p&#xE1;g. 100.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "context": null,
+        "pid": "141770796",
+        "id": "note24",
+        "text": "<p data-aid=\"141770898\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.5?lang=spa#p5\">Juan 15:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.5?lang=spa#p5",
+          "text": "Juan 15:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "141770784",
+        "id": "note23",
+        "text": "<p data-aid=\"141770896\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.36?lang=spa#p36\">1&#xA0;Nefi 15:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/15.36?lang=spa#p36",
+          "text": "1 Nefi 15:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "141770784",
+        "id": "note22",
+        "text": "<p data-aid=\"141770894\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.36?lang=spa#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6.36?lang=spa#p36",
+          "text": "Doctrina y Convenios 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "141770782",
+        "id": "note21",
+        "text": "<p data-aid=\"141770891\" id=\"note21_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.25,33?lang=spa#p25\">2&#xA0;Nefi 26:25, 33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.25,33?lang=spa#p25",
+          "text": "2 Nefi 26:25, 33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "141770782",
+        "id": "note20",
+        "text": "<p data-aid=\"141770889\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.6?lang=spa#p6\">3&#xA0;Nefi 21:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/21.6?lang=spa#p6",
+          "text": "3 Nefi 21:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141769617",
+        "id": "note1",
+        "text": "<p data-aid=\"141770828\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.16?lang=spa#p16\">Mateo 7:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.16?lang=spa#p16",
+          "text": "Mateo 7:16",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

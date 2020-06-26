@@ -1,0 +1,869 @@
+{
+  "tableOfContentsUri": "/liahona/2019/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2019/11/33cordon",
+      "data-aid": "141768696",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "7b612b6b79ed4f79beb050bac7202fdb",
+      "data-aid-version": "2",
+      "data-orig-id": "45f2055707b54cfbaf18aa2ddf468c1f"
+    },
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/magazines/1861133cordon/2019-11-0021-beloved-daughters-64k-spa.mp3"
+    }],
+    "title": "Hijas amadas",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141768696",
+      {"key": "141768696"}
+    ],
+    [
+      "141768698",
+      {"key": "141768698"}
+    ],
+    [
+      "141768700",
+      {"key": "141768700"}
+    ],
+    [
+      "141768702",
+      {"key": "141768702"}
+    ],
+    [
+      "141768704",
+      {"key": "141768704"}
+    ],
+    [
+      "141768706",
+      {"key": "141768706"}
+    ],
+    [
+      "141768707",
+      {"key": "141768707"}
+    ],
+    [
+      "141768709",
+      {"key": "141768709"}
+    ],
+    [
+      "141768711",
+      {"key": "141768711"}
+    ],
+    [
+      "141768713",
+      {"key": "141768713"}
+    ],
+    [
+      "141768715",
+      {"key": "141768715"}
+    ],
+    [
+      "141768718",
+      {"key": "141768718"}
+    ],
+    [
+      "141768719",
+      {"key": "141768719"}
+    ],
+    [
+      "141768722",
+      {"key": "141768722"}
+    ],
+    [
+      "141768724",
+      {"key": "141768724"}
+    ],
+    [
+      "141768725",
+      {"key": "141768725"}
+    ],
+    [
+      "141768727",
+      {"key": "141768727"}
+    ],
+    [
+      "141768730",
+      {"key": "141768730"}
+    ],
+    [
+      "141768733",
+      {"key": "141768733"}
+    ],
+    [
+      "141768735",
+      {"key": "141768735"}
+    ],
+    [
+      "141768739",
+      {"key": "141768739"}
+    ],
+    [
+      "141768742",
+      {"key": "141768742"}
+    ],
+    [
+      "141768745",
+      {"key": "141768745"}
+    ],
+    [
+      "141768746",
+      {"key": "141768746"}
+    ],
+    [
+      "141768749",
+      {"key": "141768749"}
+    ],
+    [
+      "141768753",
+      {"key": "141768753"}
+    ],
+    [
+      "141768755",
+      {"key": "141768755"}
+    ],
+    [
+      "141769758",
+      {"key": "141769758"}
+    ],
+    [
+      "141769762",
+      {"key": "141769762"}
+    ],
+    [
+      "141769765",
+      {"key": "141769765"}
+    ],
+    [
+      "141769768",
+      {"key": "141769768"}
+    ],
+    [
+      "141769771",
+      {"key": "141769771"}
+    ],
+    [
+      "141769774",
+      {"key": "141769774"}
+    ],
+    [
+      "141769775",
+      {"key": "141769775"}
+    ],
+    [
+      "141769778",
+      {"key": "141769778"}
+    ],
+    [
+      "141769783",
+      {"key": "141769783"}
+    ],
+    [
+      "141769786",
+      {"key": "141769786"}
+    ],
+    [
+      "141769788",
+      {"key": "141769788"}
+    ],
+    [
+      "141769792",
+      {"key": "141769792"}
+    ],
+    [
+      "141769795",
+      {"key": "141769795"}
+    ],
+    [
+      "141769804",
+      {"key": "141769804"}
+    ],
+    [
+      "141769809",
+      {"key": "141769809"}
+    ],
+    [
+      "141769813",
+      {"key": "141769813"}
+    ],
+    [
+      "141769818",
+      {"key": "141769818"}
+    ],
+    [
+      "141769825",
+      {"key": "141769825"}
+    ],
+    [
+      "141769831",
+      {"key": "141769831"}
+    ],
+    [
+      "141769837",
+      {"key": "141769837"}
+    ],
+    [
+      "141769843",
+      {"key": "141769843"}
+    ],
+    [
+      "141769849",
+      {"key": "141769849"}
+    ],
+    [
+      "141769856",
+      {"key": "141769856"}
+    ],
+    [
+      "141769863",
+      {"key": "141769863"}
+    ],
+    [
+      "141769870",
+      {"key": "141769870"}
+    ],
+    [
+      "141769877",
+      {"key": "141769877"}
+    ],
+    [
+      "141769884",
+      {"key": "141769884"}
+    ],
+    [
+      "141769890",
+      {"key": "141769890"}
+    ],
+    [
+      "141769897",
+      {"key": "141769897"}
+    ],
+    [
+      "141769902",
+      {"key": "141769902"}
+    ],
+    [
+      "141769906",
+      {"key": "141769906"}
+    ],
+    [
+      "141769912",
+      {"key": "141769912"}
+    ],
+    [
+      "141769918",
+      {"key": "141769918"}
+    ],
+    [
+      "141769924",
+      {"key": "141769924"}
+    ],
+    [
+      "141769930",
+      {"key": "141769930"}
+    ],
+    [
+      "141769937",
+      {"key": "141769937"}
+    ],
+    [
+      "141769943",
+      {"key": "141769943"}
+    ],
+    [
+      "141769950",
+      {"key": "141769950"}
+    ],
+    [
+      "141769957",
+      {"key": "141769957"}
+    ],
+    [
+      "141769964",
+      {"key": "141769964"}
+    ],
+    [
+      "141769971",
+      {"key": "141769971"}
+    ],
+    [
+      "141769978",
+      {"key": "141769978"}
+    ]
+  ],
+  "uri": "/liahona/2019/11/33cordon",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Hijas amadas",
+          "title": "Hijas amadas"
+        },
+        "pageSocial": {
+          "description": "Hijas amadas",
+          "title": "Hijas amadas"
+        }
+      }
+    },
+    "body": "<header>\n<h1 data-aid=\"141768698\" id=\"title1\">Hijas amadas<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141768700\" id=\"author1\">Por Bonnie&#xA0;H. Cordon<\/p>\n<p class=\"author-role\" data-aid=\"141768702\" id=\"author2\">Presidenta General de las Mujeres J&#xF3;venes<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141768704\" id=\"kicker1\">En el centro de todo lo que hacemos en las Mujeres J&#xF3;venes est&#xE1; nuestro deseo de ayudarlas a lograr una fe inquebrantable en el Se&#xF1;or Jesucristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141768706\" id=\"p1\">Mis queridas hermanas, &#xA1;es una dicha estar con ustedes! Estamos presenciando un torrente de revelaci&#xF3;n que al mismo tiempo nos ensancha el alma y nos alegra.<\/p>\n<p data-aid=\"141768707\" id=\"p2\">Al comenzar, me gustar&#xED;a presentarles a algunas amigas; son mujeres j&#xF3;venes &#xFA;nicas en talentos, costumbres y en circunstancias individuales y familiares. Cada una de ellas, como todas ustedes, me ha cautivado el coraz&#xF3;n.<\/p>\n<img alt=\"Bella\" id=\"img1\" src=\"https://assets.ldscdn.org/f6/ce/f6ce35a3cb239969bf5fcab6f0643db77b65997b/bella_young_women.png\" data-img-id=\"2293678\" srcset=\"https://assets.ldscdn.org/f2/7f/f27f6edfe59c1aaf248b70c76929653e98380258/bella_young_women.png 30w,https://assets.ldscdn.org/95/40/95409f80b2517edff2ae37f6f88150e0ee6a1cec/bella_young_women.png 60w,https://assets.ldscdn.org/a8/a6/a8a64eaa04e8a81dee4ba34a388578a3cbeb78ba/bella_young_women.png 64w,https://assets.ldscdn.org/fb/77/fb77511c2835ffc5f381cfc0f908bf0263047485/bella_young_women.png 100w,https://assets.ldscdn.org/f6/70/f6708f8d650d5214f052b30ca4f47b6396bd0985/bella_young_women.png 200w,https://assets.ldscdn.org/06/49/064998fc4c71373305b64aa1ed0015393a545a40/bella_young_women.png 205w,https://assets.ldscdn.org/c0/02/c00295752579434152c3c972e33f327f3c716177/bella_young_women.png 250w,https://assets.ldscdn.org/04/eb/04eb104059262891cfeb8d20149638f2648dd4cd/bella_young_women.png 320w,https://assets.ldscdn.org/f6/ce/f6ce35a3cb239969bf5fcab6f0643db77b65997b/bella_young_women.png 500w,https://assets.ldscdn.org/75/6b/756bd20d9ad6ea302bbdc76a39a78ebe073ec9eb/bella_young_women.png 640w\" data-assetid=\"bdda8086e4f3e110e43a788e10b7287b800e9eb3\" data-missing-asset=\"false\">\n<p data-aid=\"141768709\" id=\"p31\">Primero, conozcan a Bella. Ella se erige firme como la &#xFA;nica mujer joven de su rama en Islandia.<\/p>\n<img alt=\"Josephine\" id=\"img2\" src=\"https://assets.ldscdn.org/3f/cf/3fcf894605af9c7bf3486cbb7703963de02d9af9/josephine_young_woman.png\" data-img-id=\"2293680\" srcset=\"https://assets.ldscdn.org/f2/99/f299a3e14d5c210274066f7e40e9f4b7fae307ff/josephine_young_woman.png 60w,https://assets.ldscdn.org/c6/10/c6104fdaf022be03f766ffebf593c8451325f39b/josephine_young_woman.png 100w,https://assets.ldscdn.org/e3/87/e387d89500882f023b1aeece36be3679432771e2/josephine_young_woman.png 200w,https://assets.ldscdn.org/08/63/0863940c22bdbd07a5d85f6b9f678485ccd03ccc/josephine_young_woman.png 250w,https://assets.ldscdn.org/c6/20/c62027f2ee8de8f31c19f9cc9ed4819ef0ec09e9/josephine_young_woman.png 320w,https://assets.ldscdn.org/3f/cf/3fcf894605af9c7bf3486cbb7703963de02d9af9/josephine_young_woman.png 500w,https://assets.ldscdn.org/62/1f/621f984447fb4e1247c7e883f532a5b3dc096f8c/josephine_young_woman.png 640w\" data-assetid=\"4637cbd64e149b1020bb5eec7a6d5ecdf34efa91\" data-missing-asset=\"false\">\n<p data-aid=\"141768711\" id=\"p32\">Conozcan a la dedicada Josephine, de &#xC1;frica, quien se ha comprometido de nuevo a estudiar el Libro de Morm&#xF3;n cada d&#xED;a. Ella est&#xE1; descubriendo el poder y las bendiciones que provienen de ese sencillo acto fiel.<\/p>\n<img alt=\"Ashtyn\" id=\"img3\" src=\"https://assets.ldscdn.org/3c/80/3c806e9ffe95accbd1c69696e2da7f12fe84e11a/young_woman_ashtyn.png\" data-img-id=\"2293682\" srcset=\"https://assets.ldscdn.org/54/73/5473741c523c37e51adbc401a63c2765e0f2e80b/young_woman_ashtyn.png 60w,https://assets.ldscdn.org/f3/83/f38332186e86ae4e114128b69fec53c931ce4637/young_woman_ashtyn.png 100w,https://assets.ldscdn.org/03/2b/032b03a58570d4e8a2e1af2063162eb552e1087b/young_woman_ashtyn.png 200w,https://assets.ldscdn.org/63/6d/636dbfdf6b946c37c1075e07c4b0b6ee155b2b5e/young_woman_ashtyn.png 250w,https://assets.ldscdn.org/20/b8/20b802ed9911212baf5574adc208b8aaccb4a2cb/young_woman_ashtyn.png 320w,https://assets.ldscdn.org/3c/80/3c806e9ffe95accbd1c69696e2da7f12fe84e11a/young_woman_ashtyn.png 500w,https://assets.ldscdn.org/29/39/293912e2d1abe999aeeaf58ff4765d1c81d42cfd/young_woman_ashtyn.png 640w\" data-assetid=\"87afb18873f45c1ba458023745a03ee98fbef69b\" data-missing-asset=\"false\">\n<p data-aid=\"141768713\" id=\"p33\">Y finalmente, conozcan a mi querida amiga, Ashtyn, una mujer joven extraordinaria que falleci&#xF3; tras una batalla de seis a&#xF1;os contra el c&#xE1;ncer. Su testimonio fuerte de la expiaci&#xF3;n de Jesucristo a&#xFA;n resuena en mi coraz&#xF3;n.<\/p>\n<p data-aid=\"141768715\" id=\"p3\"><em>Todas<\/em> ustedes son mujeres j&#xF3;venes extraordinarias; son &#xFA;nicas, cada una tiene sus propios dones y experiencias, aunque son semejantes de una manera muy importante y eterna.<\/p>\n<p data-aid=\"141768718\" id=\"p4\">Son literalmente hijas procreadas en esp&#xED;ritu por Padres Celestiales, y nada puede separarlas de Su amor ni del amor de su Salvador<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Al acercarse m&#xE1;s a &#xC9;l, incluso dando los pasos m&#xE1;s peque&#xF1;itos hacia adelante, descubrir&#xE1;n la paz duradera que se arraiga en sus almas como fieles disc&#xED;pulas de nuestro Salvador Jesucristo.<\/p>\n<p data-aid=\"141768719\" id=\"p5\">El presidente Russell&#xA0;M. Nelson, nuestro muy amado profeta, ha pedido que comparta algunos cambios inspirados que las ayudar&#xE1;n a &#x201C;desarrollar [su] sagrado potencial personal&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, y aumentar su influencia justa. Esta noche me referir&#xE9; a cuatro &#xE1;reas en las que se har&#xE1;n ajustes.<\/p>\n<section>\n<header>\n<h2 data-aid=\"141768722\" id=\"title2\">El Lema de las Mujeres J&#xF3;venes<\/h2>\n<\/header>\n<p data-aid=\"141768724\" id=\"p6\">Primero, en el centro de todo lo que hacemos en las Mujeres J&#xF3;venes est&#xE1; nuestro deseo de ayudarlas a lograr una fe inquebrantable en el Se&#xF1;or Jesucristo<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>, y un conocimiento certero de su identidad divina como hijas de Dios.<\/p>\n<p data-aid=\"141768725\" id=\"p7\">Esta noche, quisiera anunciar la revisi&#xF3;n del Lema de las Mujeres J&#xF3;venes. Ruego que sientan testificar al Esp&#xED;ritu Santo sobre la verdad de estas palabras mientras pronuncie el nuevo lema:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"141768727\" id=\"p8\">Soy una hija amada de Padres Celestiales<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>, con una naturaleza divina y un destino eterno<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p class=\"line\" data-aid=\"141768730\" id=\"p9\">Como disc&#xED;pula de Jesucristo<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, me esfuerzo por llegar a ser semejante a &#xC9;l<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. Busco revelaci&#xF3;n personal y act&#xFA;o de conformidad con ella<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>, y ministro a otras personas en Su santo nombre<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p class=\"line\" data-aid=\"141768733\" id=\"p10\">Ser&#xE9; testigo de Dios en todo tiempo, en todas las cosas y en todo lugar<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p class=\"line\" data-aid=\"141768735\" id=\"p11\">A medida que me esfuerzo por ser merecedora de la exaltaci&#xF3;n<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>, valoro el don del arrepentimiento<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> y procuro mejorar cada d&#xED;a<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Con fe<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>, fortalecer&#xE9; mi hogar y mi familia<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, har&#xE9; y guardar&#xE9; convenios sagrados<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>, y recibir&#xE9; las ordenanzas<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> y las bendiciones del santo templo<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"141768739\" id=\"p12\">Noten el cambio de &#x201C;nosotras&#x201D; a &#x201C;yo&#x201D;. Estas verdades se aplican a ustedes de manera individual. T&#xFA; <em>eres<\/em> una hija amada de Padres Celestiales. T&#xFA; <em>eres<\/em> una disc&#xED;pula de nuestro Salvador Jesucristo bajo convenio. Te invito a estudiar y meditar estas palabras. S&#xE9; que al hacerlo, obtendr&#xE1;s un testimonio de su veracidad. Entender esas verdades cambiar&#xE1; la manera en que afrontes los desaf&#xED;os. Conocer tu identidad y tu prop&#xF3;sito te ayudar&#xE1; a ajustar tu voluntad a la del Salvador.<\/p>\n<p data-aid=\"141768742\" id=\"p13\">Tendr&#xE1;s paz y gu&#xED;a a medida que sigas a Jesucristo.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141768745\" id=\"title3\">Las clases de las Mujeres J&#xF3;venes<\/h2>\n<\/header>\n<p data-aid=\"141768746\" id=\"p14\">La segunda &#xE1;rea de cambio implica las clases de las Mujeres J&#xF3;venes. El &#xE9;lder Neal&#xA0;A. Maxwell dijo: &#x201C;Con mucha frecuencia, aquello que las personas necesitan tanto ha de resguardarse de las tormentas de la vida en el santuario de la pertenencia&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Nuestras clases deben ser santuarios que amparen de las tormentas, lugares seguros de amor y de pertenencia. En un esfuerzo por establecer una mayor unidad, fortalecer las amistades y aumentar ese sentimiento de pertenencia dentro de las Mujeres J&#xF3;venes, estamos haciendo algunos ajustes a la estructura de las clases.<\/p>\n<p data-aid=\"141768749\" id=\"p15\">Por m&#xE1;s de cien a&#xF1;os, las j&#xF3;venes se han dividido en tres clases. A partir de ahora y de inmediato, invitamos a las l&#xED;deres de las Mujeres J&#xF3;venes y a los obispos a considerar con esp&#xED;ritu de oraci&#xF3;n las necesidades de cada mujer joven y organizarlas de acuerdo con las circunstancias espec&#xED;ficas del barrio. Los siguientes son ejemplos de c&#xF3;mo podr&#xED;a hacerse:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"141768753\" id=\"p16\">Si tienen pocas j&#xF3;venes, podr&#xED;an tener una clase de Mujeres J&#xF3;venes en la que se re&#xFA;nan todas juntas.<\/p>\n<\/li>\n<li>\n<p data-aid=\"141768755\" id=\"p17\">Quiz&#xE1;s tengan un grupo grande de jovencitas de doce a&#xF1;os de edad y otro grupo peque&#xF1;o de jovencitas que sean mayores; podr&#xED;an optar por tener dos clases: Mujeres J&#xF3;venes de 12 a&#xF1;os y Mujeres J&#xF3;venes de 13 a 18 a&#xF1;os.<\/p>\n<\/li>\n<li>\n<p data-aid=\"141769758\" id=\"p18\">O bien, si tienen un barrio grande con sesenta mujeres j&#xF3;venes que asisten, podr&#xED;an tener seis clases, una para cada edad, organizadas por a&#xF1;o.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"141769762\" id=\"p19\">M&#xE1;s all&#xE1; de c&#xF3;mo est&#xE9;n organizadas sus clases, ustedes, jovencitas, son cruciales para edificar la unidad. Sean una luz para quienes las rodeen. Sean la fuente de amor y cuidado que esperan recibir de otras personas. Con una oraci&#xF3;n en el coraz&#xF3;n, contin&#xFA;en tendiendo la mano a los dem&#xE1;s y siendo esa fuerza de bien. Al hacerlo, su vida estar&#xE1; colmada de bondad; tendr&#xE1;n mejores sentimientos hacia los dem&#xE1;s y a su vez comenzar&#xE1;n a ver la bondad de ellos.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769765\" id=\"title4\">Los nombres de las clases de las Mujeres J&#xF3;venes<\/h2>\n<\/header>\n<p data-aid=\"141769768\" id=\"p20\">Tercero, dada la nueva organizaci&#xF3;n de las clases, se har&#xE1; referencia a todas las clases mediante el nombre unificador de &#x201C;Mujeres J&#xF3;venes&#x201D;<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Dejaremos de usar los nombres &#x201C;Abejita&#x201D;, &#x201C;Damita&#x201D; y &#x201C;Laurel&#x201D;.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"141769771\" id=\"title5\">Fortalecer las presidencias de clase<\/h2>\n<\/header>\n<p data-aid=\"141769774\" id=\"p21\">La &#xFA;ltima &#xE1;rea que deseo tratar es la importancia de las presidencias de clase. No importa c&#xF3;mo est&#xE9;n organizadas las clases de las Mujeres J&#xF3;venes, <em>&#xA1;cada clase debe tener una presidencia de clase!<\/em><a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. A las j&#xF3;venes se las llama a liderar en su juventud por designio divino.<\/p>\n<p data-aid=\"141769775\" id=\"p22\">La funci&#xF3;n y el prop&#xF3;sito de las presidencias de clase han sido fortalecidos y m&#xE1;s claramente definidos. La obra de salvaci&#xF3;n es una de esas responsabilidades significativas, en particular, en las &#xE1;reas de la ministraci&#xF3;n, la obra misional, la activaci&#xF3;n, y la obra del templo y de historia familiar<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. S&#xED;, as&#xED; es c&#xF3;mo recogemos a Israel<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>: una obra maravillosa para todas las mujeres j&#xF3;venes del batall&#xF3;n de j&#xF3;venes del Se&#xF1;or.<\/p>\n<p data-aid=\"141769778\" id=\"p23\">Como saben, el Se&#xF1;or llama presidencias para liderar a Su pueblo en cada nivel de la Iglesia. J&#xF3;venes, ser miembro de una presidencia de clase quiz&#xE1;s sea su primera oportunidad de participar en ese inspirado modelo de liderazgo. L&#xED;deres adultas, hagan que el llamamiento de las presidencias de clase sea una prioridad y luego lideren codo a codo con ellas, asesor&#xE1;ndolas y gui&#xE1;ndolas a fin de que puedan tener &#xE9;xito<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Sin importar el nivel de experiencia en liderazgo que tiene la presidencia de clase, empiecen desde donde est&#xE9;n, y ay&#xFA;denlas a cultivar las habilidades y la confianza que las bendecir&#xE1;n como l&#xED;deres. Permanezcan cerca de ellas, pero no asuman el control. El Esp&#xED;ritu las guiar&#xE1; a ustedes conforme ustedes las gu&#xED;en a ellas.<\/p>\n<img alt=\"Chloe\" id=\"img4\" src=\"https://assets.ldscdn.org/08/5c/085c93cc6395cabb096e24c5b3c0f3761a719183/chloe_young_woman.png\" data-img-id=\"2293684\" srcset=\"https://assets.ldscdn.org/6e/ef/6eef6d8a6963ba2e72a6127b3e858f375dbac92c/chloe_young_woman.png 30w,https://assets.ldscdn.org/39/0d/390d52ffa901e05d1fd9570517c87803f3693170/chloe_young_woman.png 60w,https://assets.ldscdn.org/a0/70/a07091d6234966ec6562c73b36efc73fa31153f8/chloe_young_woman.png 64w,https://assets.ldscdn.org/0a/82/0a82de761bcdc43016ad80f2a4742411e8c78a64/chloe_young_woman.png 100w,https://assets.ldscdn.org/47/1d/471dc51fbbb456914628139495e4531a18d9bee4/chloe_young_woman.png 200w,https://assets.ldscdn.org/de/ab/deabaec01b18b4cd69e9e3174e1b32f224fee7b2/chloe_young_woman.png 205w,https://assets.ldscdn.org/01/f1/01f18932cf058c8285d13576e28c30baded74904/chloe_young_woman.png 250w,https://assets.ldscdn.org/1e/d9/1ed911dcf34ea89e61b58b9f04079e0a2f866236/chloe_young_woman.png 320w,https://assets.ldscdn.org/08/5c/085c93cc6395cabb096e24c5b3c0f3761a719183/chloe_young_woman.png 500w,https://assets.ldscdn.org/8d/c5/8dc555618e22fb2449709fcb77527b32bcd7923c/chloe_young_woman.png 640w\" data-assetid=\"542c36cb393840a47978a9744416f8788c6fa6e5\" data-missing-asset=\"false\">\n<p data-aid=\"141769783\" id=\"p24\">Para ilustrar la funci&#xF3;n crucial de los padres y l&#xED;deres como mentores, perm&#xED;tanme relatarles algo. A Chloe se la llam&#xF3; como presidenta de clase. Su sabio l&#xED;der del sacerdocio la inst&#xF3; a buscar la ayuda del Se&#xF1;or a fin de recomendar nombres para la presidencia. Chloe or&#xF3; y recibi&#xF3; inspiraci&#xF3;n sobre a qui&#xE9;nes deb&#xED;a recomendar como sus consejeras con bastante rapidez. Al continuar meditando y orando en cuanto a la secretaria, el Esp&#xED;ritu dirigi&#xF3; su atenci&#xF3;n repetidamente hacia una joven que la sorprendi&#xF3;; alguien que rara vez iba a la Iglesia o a las actividades.<\/p>\n<p data-aid=\"141769786\" id=\"p25\">Al sentirse un poco insegura sobre tal inspiraci&#xF3;n, Chloe habl&#xF3; con su madre, quien le explic&#xF3; que una de las formas en que podemos recibir revelaci&#xF3;n es mediante pensamientos recurrentes. Con renovada confianza, Chloe sinti&#xF3; que pod&#xED;a recomendar a aquella joven. El obispo extendi&#xF3; el llamamiento y la joven acept&#xF3;. Despu&#xE9;s que se la hubo apartado, la dulce secretaria dijo: &#x201C;Nunca he sentido que perteneciera a ning&#xFA;n lugar ni que se me necesitara en ning&#xFA;n sitio; no sent&#xED;a que fuera parte del grupo. Pero con este llamamiento, siento como si el Padre Celestial tuviera un prop&#xF3;sito y un lugar para m&#xED;&#x201D;. Cuando Chloe y su madre salieron de la reuni&#xF3;n, Chloe mir&#xF3; a su mam&#xE1; y le dijo con l&#xE1;grimas en los ojos: &#x201C;&#xA1;La revelaci&#xF3;n es real! &#xA1;La revelaci&#xF3;n realmente funciona!&#x201D;.<\/p>\n<p data-aid=\"141769788\" id=\"p26\">Presidencias de clase, ustedes han sido llamadas por Dios y se les ha confiado liderar a un grupo de Sus hijas. &#x201C;El Se&#xF1;or [las] conoce&#x2026; &#xC9;l [las] escogi&#xF3;&#x201D;<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. Las ha <em>apartado<\/em> alguien que tiene la autoridad del sacerdocio; eso significa que al desempe&#xF1;ar los deberes de su llamamiento, ejercen la autoridad del sacerdocio. Ustedes tienen una importante obra que hacer. Sean receptivas a los susurros del Esp&#xED;ritu Santo y act&#xFA;en de conformidad con ellos. Al hacerlo, podr&#xE1;n servir con confianza, &#xA1;ya que no servir&#xE1;n solas!<\/p>\n<p data-aid=\"141769792\" id=\"p27\">Presidentas de clase, necesitamos su sabidur&#xED;a, sus opiniones y su energ&#xED;a en el nuevo consejo de barrio para la juventud que el &#xE9;lder Quentin&#xA0;L. Cook ha anunciado hoy. Ustedes son una parte fundamental de la soluci&#xF3;n para satisfacer las necesidades de sus hermanos y hermanas<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<p data-aid=\"141769795\" id=\"p28\">Estos cambios a la organizaci&#xF3;n de las clases y al liderazgo pueden iniciarse tan pronto como los barrios y ramas est&#xE9;n listos, pero deben estar implementados para el 1.&#xAA; de enero de 2020.<\/p>\n<p data-aid=\"141769804\" id=\"p29\">Mis queridas hermanas, doy testimonio de que los ajustes de los que he hablado hoy son instrucciones inspiradas del Se&#xF1;or; al implementarlos con diligencia, ruego que nunca perdamos de vista nuestro objetivo: fortalecer nuestra determinaci&#xF3;n de seguir a Jesucristo y ayudar a otras personas a venir a &#xC9;l. Testifico que esta es Su Iglesia. Cu&#xE1;n agradecida estoy de que &#xC9;l nos permita ser una parte muy importante de Su sagrada obra.<\/p>\n<p data-aid=\"141769809\" id=\"p30\">Ruego que el mismo Esp&#xED;ritu que ha guiado estos ajustes los gu&#xED;e a medida que avancen en la senda de los convenios. De ello testifico, en el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141768727",
+        "id": "note4",
+        "text": "<p data-aid=\"141769837\" id=\"note4_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.16-17?lang=spa#p16\">Romanos 8:16&#x2013;17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.24?lang=spa#p24\">Doctrina y Convenios 76:24<\/a>; &#x201C;<a class=\"cross-ref\" href=\"/study/manual/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa\">La Familia: Una Proclamaci&#xF3;n para el Mundo<\/a>&#x201D;, <cite>Liahona<\/cite>, mayo de 2017, p&#xE1;g. 145.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rom/8.16-17?lang=spa#p16",
+            "text": "Romanos 8:16\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76.24?lang=spa#p24",
+            "text": "Doctrina y Convenios 76:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa",
+            "text": "La Familia: Una Proclamación para el Mundo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141768727",
+        "id": "note5",
+        "text": "<p data-aid=\"141769843\" id=\"note5_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1.3-4?lang=spa#p3\">2&#xA0;Pedro 1:3&#x2013;4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.44?lang=spa#p44\">Alma 37:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18?lang=spa#p18\">Doctrina y Convenios 78:18<\/a>; &#x201C;<a class=\"cross-ref\" href=\"/study/manual/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa\">La Familia: Una Proclamaci&#xF3;n para el Mundo<\/a>&#x201D;.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-pet/1.3-4?lang=spa#p3",
+            "text": "2 Pedro 1:3\u20134",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/37.44?lang=spa#p44",
+            "text": "Alma 37:44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/78.18?lang=spa#p18",
+            "text": "Doctrina y Convenios 78:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa",
+            "text": "La Familia: Una Proclamación para el Mundo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141768719",
+        "id": "note2",
+        "text": "<p data-aid=\"141769825\" id=\"note2_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/24nelson?lang=spa\">Testigos, cu&#xF3;rums del Sacerdocio Aar&#xF3;nico y clases de las Mujeres J&#xF3;venes<\/a>&#x201D;, <cite>Liahona<\/cite>, noviembre de 2019, p&#xE1;g. 39.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/24nelson?lang=spa",
+          "text": "Testigos, cuórums del Sacerdocio Aarónico y clases de las Mujeres Jóvenes",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141768724",
+        "id": "note3",
+        "text": "<p data-aid=\"141769831\" id=\"note3_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5-7?lang=spa#p5\">Proverbios 3:5&#x2013;7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/7.5?lang=spa#p5\">Jacob 7:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/prov/3.5-7?lang=spa#p5",
+            "text": "Proverbios 3:5\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/jacob/7.5?lang=spa#p5",
+            "text": "Jacob 7:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141768730",
+        "id": "note8",
+        "text": "<p data-aid=\"141769863\" id=\"note8_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.13?lang=spa#p13\">Juan 16:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.7-8?lang=spa#p7\">3&#xA0;Nefi 14:7&#x2013;8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.13?lang=spa#p13\">Moroni 7:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.5?lang=spa#p5\">10:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2?lang=spa#p2\">Doctrina y Convenios 8:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/9.8?lang=spa#p8\">9:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.13?lang=spa#p13\">11:13<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/16.13?lang=spa#p13",
+            "text": "Juan 16:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/14.7-8?lang=spa#p7",
+            "text": "3 Nefi 14:7\u20138",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.13?lang=spa#p13",
+            "text": "Moroni 7:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.5?lang=spa#p5",
+            "text": "10:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8.2?lang=spa#p2",
+            "text": "Doctrina y Convenios 8:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/9.8?lang=spa#p8",
+            "text": "9:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/11.13?lang=spa#p13",
+            "text": "11:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141768730",
+        "id": "note9",
+        "text": "<p data-aid=\"141769870\" id=\"note9_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.26-28?lang=spa#p26\">Mateo 20:26&#x2013;28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-39?lang=spa#p37\">22:37&#x2013;39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.34-40?lang=spa#p34\">25:34&#x2013;40<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/26.19?lang=spa#p19\">3&#xA0;Nefi 26:19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/20.26-28?lang=spa#p26",
+            "text": "Mateo 20:26\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/22.37-39?lang=spa#p37",
+            "text": "22:37\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/25.34-40?lang=spa#p34",
+            "text": "25:34\u201340",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/26.19?lang=spa#p19",
+            "text": "3 Nefi 26:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141768730",
+        "id": "note6",
+        "text": "<p data-aid=\"141769849\" id=\"note6_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.14-15,35?lang=spa#p14\">Juan 13:14&#x2013;15, 35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13.14-15,35?lang=spa#p14",
+          "text": "Juan 13:14\u201315, 35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141768730",
+        "id": "note7",
+        "text": "<p data-aid=\"141769856\" id=\"note7_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-39?lang=spa#p37\">Mateo 22:37&#x2013;39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.40?lang=spa#p40\">25:40<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.48?lang=spa#p48\">3&#xA0;Nefi 12:48<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/22.37-39?lang=spa#p37",
+            "text": "Mateo 22:37\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/25.40?lang=spa#p40",
+            "text": "25:40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12.48?lang=spa#p48",
+            "text": "3 Nefi 12:48",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note16",
+        "text": "<p data-aid=\"141769912\" id=\"note16_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/19.5?lang=spa#p5\">&#xC9;xodo 19:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.14?lang=spa#p14\">1&#xA0;Nefi 14:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/11.5?lang=spa#p5\">2&#xA0;Nefi 11:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/54.6?lang=spa#p6\">Doctrina y Convenios 54:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/66.2?lang=spa#p2\">66:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90.24?lang=spa#p24\">90:24<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ex/19.5?lang=spa#p5",
+            "text": "Éxodo 19:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/14.14?lang=spa#p14",
+            "text": "1 Nefi 14:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/11.5?lang=spa#p5",
+            "text": "2 Nefi 11:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/54.6?lang=spa#p6",
+            "text": "Doctrina y Convenios 54:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/66.2?lang=spa#p2",
+            "text": "66:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/90.24?lang=spa#p24",
+            "text": "90:24",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note15",
+        "text": "<p data-aid=\"141769906\" id=\"note15_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/24.15?lang=spa#p15\">Josu&#xE9; 24:15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.8?lang=spa#p8\">Doctrina y Convenios 109:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.19?lang=spa#p19\">132:19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/josh/24.15?lang=spa#p15",
+            "text": "Josué 24:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109.8?lang=spa#p8",
+            "text": "Doctrina y Convenios 109:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132.19?lang=spa#p19",
+            "text": "132:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note14",
+        "text": "<p data-aid=\"141769902\" id=\"note14_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=spa\">Hebreos 11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-20?lang=spa#p19\">2&#xA0;Nefi 31:19&#x2013;20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.21?lang=spa#p21\">Alma 32:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/heb/11?lang=spa",
+            "text": "Hebreos 11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.19-20?lang=spa#p19",
+            "text": "2 Nefi 31:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32.21?lang=spa#p21",
+            "text": "Alma 32:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note13",
+        "text": "<p data-aid=\"141769897\" id=\"note13_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.33?lang=spa#p33\">Alma 34:33<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.18?lang=spa#p18\">Doctrina y Convenios 82:18<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34.33?lang=spa#p33",
+            "text": "Alma 34:33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/82.18?lang=spa#p18",
+            "text": "Doctrina y Convenios 82:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note12",
+        "text": "<p data-aid=\"141769890\" id=\"note12_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12.23?lang=spa#p23\">Helam&#xE1;n 12:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.33?lang=spa#p33\">Moroni 10:33<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.42?lang=spa#p42\">Doctrina y Convenios 58:42<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/hel/12.23?lang=spa#p23",
+            "text": "Helamán 12:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.33?lang=spa#p33",
+            "text": "Moroni 10:33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/58.42?lang=spa#p42",
+            "text": "Doctrina y Convenios 58:42",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note11",
+        "text": "<p data-aid=\"141769884\" id=\"note11_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.17?lang=spa#p17\">Romanos 8:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.18?lang=spa#p18\">2&#xA0;Nefi 9:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">31:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=spa#p38\">Doctrina y Convenios 84:38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.49?lang=spa#p49\">132:49<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=spa#p39\">Mois&#xE9;s 1:39<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rom/8.17?lang=spa#p17",
+            "text": "Romanos 8:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/9.18?lang=spa#p18",
+            "text": "2 Nefi 9:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.20?lang=spa#p20",
+            "text": "31:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.38?lang=spa#p38",
+            "text": "Doctrina y Convenios 84:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132.49?lang=spa#p49",
+            "text": "132:49",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.39?lang=spa#p39",
+            "text": "Moisés 1:39",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141768733",
+        "id": "note10",
+        "text": "<p data-aid=\"141769877\" id=\"note10_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/43.10?lang=spa#p10\">Isa&#xED;as 43:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=spa#p9\">Mos&#xED;ah 18:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14.8?lang=spa#p8\">Doctrina y Convenios 14:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/43.10?lang=spa#p10",
+            "text": "Isaías 43:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.9?lang=spa#p9",
+            "text": "Mosíah 18:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/14.8?lang=spa#p8",
+            "text": "Doctrina y Convenios 14:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "141768746",
+        "id": "note19",
+        "text": "<p data-aid=\"141769930\" id=\"note19_p1\">Neal&#xA0;A. Maxwell, <cite>All These Things Shall Give Thee Experience<\/cite>, 1979, p&#xE1;g. 55.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note18",
+        "text": "<p data-aid=\"141769924\" id=\"note18_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/24.3?lang=spa#p3\">Salmos 24:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2.3?lang=spa#p3\">Isa&#xED;as 2:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/37.26?lang=spa#p26\">Ezequiel 37:26<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/24.3?lang=spa#p3",
+            "text": "Salmos 24:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/2.3?lang=spa#p3",
+            "text": "Isaías 2:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ezek/37.26?lang=spa#p26",
+            "text": "Ezequiel 37:26",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "141768735",
+        "id": "note17",
+        "text": "<p data-aid=\"141769918\" id=\"note17_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/13.30?lang=spa#p30\">Mos&#xED;ah 13:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30.3?lang=spa#p3\">Alma 30:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20-22?lang=spa#p20\">Doctrina y Convenios 84:20&#x2013;22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.3?lang=spa#p3\">Art&#xED;culos de Fe 1:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/13.30?lang=spa#p30",
+            "text": "Mosíah 13:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/30.3?lang=spa#p3",
+            "text": "Alma 30:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.20-22?lang=spa#p20",
+            "text": "Doctrina y Convenios 84:20\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/a-of-f/1.3?lang=spa#p3",
+            "text": "Artículos de Fe 1:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": null,
+        "pid": "141769792",
+        "id": "note26",
+        "text": "<p data-aid=\"141769978\" id=\"note26_p1\">Si solo tuvieran una clase y una presidencia de clase, entonces esa presidencia completa podr&#xE1; participar en el consejo de barrio para la juventud junto con los presidentes de los cu&#xF3;rums del Sacerdocio Aar&#xF3;nico, de modo que haya un equilibrio entre las Mujeres J&#xF3;venes y los Hombres J&#xF3;venes (v&#xE9;ase <cite>Manual 2<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/meetings-in-the-church/meetings-in-the-church?lang=spa&amp;para=title_number12#title_number12\">18.2.9<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/handbook-2-administering-the-church/meetings-in-the-church/meetings-in-the-church?lang=spa&para=title_number12#title_number12",
+          "text": "18.2.9",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": null,
+        "pid": "141769788",
+        "id": "note25",
+        "text": "<p data-aid=\"141769971\" id=\"note25_p1\">V&#xE9;ase Henry&#xA0;B. Eyring, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2002/10/rise-to-your-call?lang=spa\">El&#xE9;vense a la altura de su llamamiento<\/a>&#x201D;, <cite>Liahona<\/cite>, noviembre de 2002, p&#xE1;g. 76.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2002/10/rise-to-your-call?lang=spa",
+          "text": "Elévense a la altura de su llamamiento",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": null,
+        "pid": "141769778",
+        "id": "note24",
+        "text": "<p data-aid=\"141769964\" id=\"note24_p1\">Existe instrucci&#xF3;n adicional para las l&#xED;deres adultas de las Mujeres J&#xF3;venes en el <cite>Manual 2<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa\">cap&#xED;tulo 10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa",
+          "text": "capítulo 10",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "141769775",
+        "id": "note23",
+        "text": "<p data-aid=\"141769957\" id=\"note23_p1\">V&#xE9;ase Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa\">Juventud de Israel<\/a>&#x201D;, devocional mundial para los j&#xF3;venes, 3 de junio de 2018, churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?cid=rdb_v_hope-of-Israel&amp;lang=spa.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa",
+          "text": "Juventud de Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "141769775",
+        "id": "note22",
+        "text": "<p data-aid=\"141769950\" id=\"note22_p1\">V&#xE9;ase <cite>Manual 2<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&amp;para=title_number14#title_number14\">10.3.5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&para=title_number14#title_number14",
+          "text": "10.3.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "141769774",
+        "id": "note21",
+        "text": "<p data-aid=\"141769943\" id=\"note21_p1\">Se debe llamar una presidencia de clase para cada clase de las Mujeres J&#xF3;venes. Donde sea posible, debe llamarse la presidencia completa, con una presidenta, dos consejeras y una secretaria. Si fuera necesario, puede llamarse una presidencia parcial (v&#xE9;ase <cite>Manual 2<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&amp;para=title_number14#title_number14\">10.3.5<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&para=title_number14#title_number14",
+          "text": "10.3.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "141769768",
+        "id": "note20",
+        "text": "<p data-aid=\"141769937\" id=\"note20_p1\">Debe hacerse referencia a las clases mediante el t&#xED;tulo unificador de &#x201C;Mujeres J&#xF3;venes&#x201D;. Para distinguir una clase espec&#xED;fica, a&#xF1;adan la edad, por ejemplo: &#x201C;Mujeres J&#xF3;venes 12&#x2013;14 a&#xF1;os&#x201D;; &#x201C;Mujeres J&#xF3;venes 15&#x2013;18 a&#xF1;os&#x201D; (v&#xE9;ase <cite>Manual 2: Administraci&#xF3;n de la Iglesia<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&amp;para=title_number7#title_number7\">10.1.5<\/a>, ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/handbook-2-administering-the-church/young-women/young-women?lang=spa&para=title_number7#title_number7",
+          "text": "10.1.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141768718",
+        "id": "note1",
+        "text": "<p data-aid=\"141769818\" id=\"note1_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.35-39?lang=spa#p35\">Romanos 8:35&#x2013;39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8.35-39?lang=spa#p35",
+          "text": "Romanos 8:35\u201339",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

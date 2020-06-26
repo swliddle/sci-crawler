@@ -1,0 +1,525 @@
+{
+  "tableOfContentsUri": "/liahona/2019/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2019/11/44gonzalez",
+      "data-aid": "141769815",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "ac92f20fe200495dbf175afe8de9b612",
+      "data-aid-version": "2",
+      "data-orig-id": "a36d7bcb1e9a4c128ea064eee7773d0f"
+    },
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/magazines/1861144gonzalez/2019-11-0028-the-saviors-touch-64k-spa.mp3"
+    }],
+    "title": "El toque del Salvador",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141769815",
+      {"key": "141769815"}
+    ],
+    [
+      "141769821",
+      {"key": "141769821"}
+    ],
+    [
+      "141769824",
+      {"key": "141769824"}
+    ],
+    [
+      "141769830",
+      {"key": "141769830"}
+    ],
+    [
+      "141769835",
+      {"key": "141769835"}
+    ],
+    [
+      "141769841",
+      {"key": "141769841"}
+    ],
+    [
+      "141769847",
+      {"key": "141769847"}
+    ],
+    [
+      "141769854",
+      {"key": "141769854"}
+    ],
+    [
+      "141769861",
+      {"key": "141769861"}
+    ],
+    [
+      "141769868",
+      {"key": "141769868"}
+    ],
+    [
+      "141769875",
+      {"key": "141769875"}
+    ],
+    [
+      "141769883",
+      {"key": "141769883"}
+    ],
+    [
+      "141769889",
+      {"key": "141769889"}
+    ],
+    [
+      "141769895",
+      {"key": "141769895"}
+    ],
+    [
+      "141769901",
+      {"key": "141769901"}
+    ],
+    [
+      "141769905",
+      {"key": "141769905"}
+    ],
+    [
+      "141769911",
+      {"key": "141769911"}
+    ],
+    [
+      "141769917",
+      {"key": "141769917"}
+    ],
+    [
+      "141769923",
+      {"key": "141769923"}
+    ],
+    [
+      "141769929",
+      {"key": "141769929"}
+    ],
+    [
+      "141769935",
+      {"key": "141769935"}
+    ],
+    [
+      "141769941",
+      {"key": "141769941"}
+    ],
+    [
+      "141769948",
+      {"key": "141769948"}
+    ],
+    [
+      "141769955",
+      {"key": "141769955"}
+    ],
+    [
+      "141769962",
+      {"key": "141769962"}
+    ],
+    [
+      "141769969",
+      {"key": "141769969"}
+    ],
+    [
+      "141769976",
+      {"key": "141769976"}
+    ],
+    [
+      "141769983",
+      {"key": "141769983"}
+    ],
+    [
+      "141769990",
+      {"key": "141769990"}
+    ],
+    [
+      "141769994",
+      {"key": "141769994"}
+    ],
+    [
+      "141769999",
+      {"key": "141769999"}
+    ],
+    [
+      "141770005",
+      {"key": "141770005"}
+    ],
+    [
+      "141770010",
+      {"key": "141770010"}
+    ],
+    [
+      "141770016",
+      {"key": "141770016"}
+    ],
+    [
+      "141770022",
+      {"key": "141770022"}
+    ],
+    [
+      "141770028",
+      {"key": "141770028"}
+    ],
+    [
+      "141770034",
+      {"key": "141770034"}
+    ],
+    [
+      "141770040",
+      {"key": "141770040"}
+    ],
+    [
+      "141770046",
+      {"key": "141770046"}
+    ],
+    [
+      "141770051",
+      {"key": "141770051"}
+    ],
+    [
+      "141770056",
+      {"key": "141770056"}
+    ],
+    [
+      "141770061",
+      {"key": "141770061"}
+    ],
+    [
+      "141770066",
+      {"key": "141770066"}
+    ],
+    [
+      "141770071",
+      {"key": "141770071"}
+    ],
+    [
+      "141770077",
+      {"key": "141770077"}
+    ],
+    [
+      "141770082",
+      {"key": "141770082"}
+    ],
+    [
+      "141770087",
+      {"key": "141770087"}
+    ],
+    [
+      "141770093",
+      {"key": "141770093"}
+    ],
+    [
+      "141770098",
+      {"key": "141770098"}
+    ],
+    [
+      "141770104",
+      {"key": "141770104"}
+    ],
+    [
+      "141770110",
+      {"key": "141770110"}
+    ],
+    [
+      "141770116",
+      {"key": "141770116"}
+    ],
+    [
+      "141770123",
+      {"key": "141770123"}
+    ],
+    [
+      "141770129",
+      {"key": "141770129"}
+    ],
+    [
+      "141770135",
+      {"key": "141770135"}
+    ],
+    [
+      "141770140",
+      {"key": "141770140"}
+    ],
+    [
+      "141770145",
+      {"key": "141770145"}
+    ],
+    [
+      "141770150",
+      {"key": "141770150"}
+    ],
+    [
+      "141770155",
+      {"key": "141770155"}
+    ],
+    [
+      "141770160",
+      {"key": "141770160"}
+    ],
+    [
+      "141770165",
+      {"key": "141770165"}
+    ],
+    [
+      "141770170",
+      {"key": "141770170"}
+    ],
+    [
+      "141770175",
+      {"key": "141770175"}
+    ],
+    [
+      "141770180",
+      {"key": "141770180"}
+    ],
+    [
+      "141770184",
+      {"key": "141770184"}
+    ],
+    [
+      "141770188",
+      {"key": "141770188"}
+    ],
+    [
+      "141770193",
+      {"key": "141770193"}
+    ]
+  ],
+  "uri": "/liahona/2019/11/44gonzalez",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El toque del Salvador",
+          "title": "El toque del Salvador"
+        },
+        "pageSocial": {
+          "description": "El toque del Salvador",
+          "title": "El toque del Salvador"
+        }
+      }
+    },
+    "body": "<header>\n<h1 data-aid=\"141769821\" id=\"title1\">El toque del Salvador<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141769824\" id=\"author1\">Por el &#xE9;lder Walter F. Gonz&#xE1;lez<\/p>\n<p class=\"author-role\" data-aid=\"141769830\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141769835\" id=\"kicker1\">Al venir a &#xC9;l, Dios acudir&#xE1; a nuestro rescate ya sea para curarnos o para darnos la fuerza que precisamos a fin de enfrentar cualquier situaci&#xF3;n.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141769841\" id=\"p1\">Hace unos dos mil a&#xF1;os el Salvador descend&#xED;a de la monta&#xF1;a tras ense&#xF1;ar las Bienaventuranzas y otros principios del Evangelio. En Su camino se le acerc&#xF3; un hombre enfermo de lepra, quien mostrando reverencia y respeto se postr&#xF3; ante Cristo para implorar el alivio de sus pesares. Su s&#xFA;plica fue simple: &#x201C;Se&#xF1;or, si quieres, puedes limpiarme&#x201D;.<\/p>\n<p data-aid=\"141769847\" id=\"p2\">El Salvador extendi&#xF3; entonces Su mano para tocarlo y decirle: &#x201C;Quiero; s&#xE9; limpio&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"141769854\" id=\"p3\">Aprendemos aqu&#xED; que nuestro Salvador siempre quiere bendecirnos. Algunas bendiciones podr&#xE1;n llegar de inmediato, otras se demorar&#xE1;n m&#xE1;s y algunas incluso podr&#xE1;n concretarse despu&#xE9;s de esta vida; pero, en su debido momento, llegar&#xE1;n.<\/p>\n<p data-aid=\"141769861\" id=\"p4\">Al igual que el leproso, podemos hallar fuerza y consuelo en esta vida cuando aceptamos la voluntad de &#xC9;l, sabiendo que nos quiere bendecir. Podemos encontrar la fuerza para enfrentar cualquier desaf&#xED;o, superar las tentaciones, y para entender y sobrellevar nuestras circunstancias dif&#xED;ciles. Sin duda, en uno de los momentos m&#xE1;s agobiantes de Su vida, el Salvador encontr&#xF3; mayor fuerza para prevalecer cuando le dijo a Su Padre: &#x201C;h&#xE1;gase tu voluntad&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"141769868\" id=\"p5\">El leproso no present&#xF3; su pedido de forma pretensiosa ni exigente. Sus palabras revelan una actitud humilde, con altas expectativas, pero tambi&#xE9;n el deseo genuino de que la voluntad del Salvador fuese lo que tuviese lugar. Este es un ejemplo de la actitud con la cual debemos venir a Cristo. Podemos venir a Cristo con la certeza de que Su deseo es y siempre ser&#xE1; lo mejor para nuestras vidas mortales y eternas. &#xC9;l posee una perspectiva eterna que nosotros no tenemos. Debemos venir a Cristo con el deseo genuino de que nuestra voluntad sea absorbida por la voluntad del Padre, como lo fue la de &#xC9;l<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Esto nos preparar&#xE1; para la vida eterna.<\/p>\n<p data-aid=\"141769875\" id=\"p6\">Resulta muy dif&#xED;cil imaginar el sufrimiento f&#xED;sico y emocional que agobiaba al leproso que acudi&#xF3; al Salvador. La lepra afecta los nervios y la piel, produciendo desfiguraciones y discapacidades. Resultaba, adem&#xE1;s, en un enorme estigma social. El enfermo de lepra deb&#xED;a abandonar a sus seres queridos y vivir aislado de la sociedad. Se consideraba que el leproso era inmundo, tanto f&#xED;sica como espiritualmente. Por ello, la ley de Mois&#xE9;s exig&#xED;a que el leproso usase ropas rasgadas y gritase &#x201C;&#xA1;Inmundo!&#x201D; a su paso<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Enfermos y despreciados, los leprosos terminaban viviendo en casas abandonadas o en tumbas<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. No es dif&#xED;cil imaginarse que el leproso que se acerc&#xF3; al Salvador llegaba abatido.<\/p>\n<p data-aid=\"141769883\" id=\"p7\">A veces, de un modo u otro, nosotros tambi&#xE9;n podemos sentirnos abatidos, ya sea por acciones propias o ajenas, por circunstancias dentro o fuera de nuestro control. En esos momentos, podemos poner nuestra voluntad en manos de &#xC9;l.<\/p>\n<p data-aid=\"141769889\" id=\"p8\">Hace algunos a&#xF1;os, Zulma &#xFEFF;&#x2014;mi esposa, mi media naranja, mi mejor parte&#xFEFF;&#x2014; recibi&#xF3; una noticia complicada justo dos semanas antes de la boda de uno de nuestros hijos. Ten&#xED;a un tumor en la gl&#xE1;ndula par&#xF3;tida, el cual le crec&#xED;a aceleradamente. Se le empezaba a hinchar el rostro y ten&#xED;a que someterse a una delicada intervenci&#xF3;n. Muchas inquietudes le pasaban por la mente y le oprim&#xED;an el coraz&#xF3;n. &#xBF;Era maligno el tumor? &#xBF;C&#xF3;mo se recuperar&#xED;a su cuerpo? &#xBF;Se le paralizar&#xED;a la cara? &#xBF;Qu&#xE9; tan fuerte ser&#xED;a el dolor? &#xBF;Le quedar&#xED;a el rostro marcado de forma permanente? &#xBF;Regresar&#xED;a el tumor una vez que lo extirparan? &#xBF;Estar&#xED;a en condici&#xF3;n de asistir a la boda de nuestro hijo? Acostada en el quir&#xF3;fano, se sent&#xED;a abatida.<\/p>\n<p data-aid=\"141769895\" id=\"p9\">En ese momento de crucial importancia, el Esp&#xED;ritu le susurr&#xF3; que ten&#xED;a que aceptar la voluntad del Padre. Entonces decidi&#xF3; depositar su confianza en Dios. Sinti&#xF3; fuertemente que cualquiera que fuera el resultado, la voluntad divina ser&#xED;a lo mejor para ella. Pronto la envolvi&#xF3; un sue&#xF1;o quir&#xFA;rgico.<\/p>\n<p data-aid=\"141769901\" id=\"p10\">Poco despu&#xE9;s, escribi&#xF3; con sentido po&#xE9;tico en su diario lo siguiente: &#x201C;En la mesa del cirujano me postr&#xE9; ante Ti y rendida mi voluntad ante la Tuya, dormida me qued&#xE9;; sab&#xED;a que pod&#xED;a acudir a Ti, sabiendo que nada malo pod&#xED;a venir de Ti&#x201D;.<\/p>\n<p data-aid=\"141769905\" id=\"p11\">Ella obtuvo fuerza y consuelo al rendir su voluntad ante la del Padre. Ese d&#xED;a, Dios la bendijo en gran manera.<\/p>\n<p data-aid=\"141769911\" id=\"p12\">Sea cual sea nuestra circunstancia, podemos ejercer la fe para venir a Cristo y descubrir un Dios en quien confiar. Como escribi&#xF3; en cierta ocasi&#xF3;n Gabriel, uno de mis hijos:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"141769917\" id=\"p13\">Dice el profeta que el rostro de Dios resplandece m&#xE1;s que el sol<\/p>\n<p class=\"line\" data-aid=\"141769923\" id=\"p14\">y que Su cabellera es m&#xE1;s blanca que la nieve<\/p>\n<p class=\"line\" data-aid=\"141769929\" id=\"p15\">y que Su voz ruge con estruendo como de un r&#xED;o,<\/p>\n<p class=\"line\" data-aid=\"141769935\" id=\"p16\">y a Su lado el hombre nada es&#x2026;<\/p>\n<p class=\"line\" data-aid=\"141769941\" id=\"p17\">Me aplasta cobrar consciencia de que nada soy.<\/p>\n<p class=\"line\" data-aid=\"141769948\" id=\"p18\">Y reci&#xE9;n as&#xED; tanteo un dios en quien confiar.<\/p>\n<p class=\"line\" data-aid=\"141769955\" id=\"p19\">Y reci&#xE9;n as&#xED; descubro al Dios en quien confiar<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"141769962\" id=\"p20\">Un Dios en quien confiar fortalece nuestra esperanza. Podemos confiar en &#xC9;l porque nos ama y desea lo mejor para nosotros en toda circunstancia.<\/p>\n<p data-aid=\"141769969\" id=\"p21\">El leproso llegaba impulsado por el poder de la esperanza. El mundo no le ofrec&#xED;a soluciones, ni siquiera consuelo. Por eso, el sencillo toque del Salvador debi&#xF3; ser como una caricia para toda el alma. No podemos m&#xE1;s que imaginar los sentimientos de profunda gratitud que este leproso pudo haber experimentado al sentir el toque del Salvador, y m&#xE1;s a&#xFA;n cuando escuch&#xF3; las palabras: &#x201C;Quiero, s&#xE9; limpio&#x201D;.<\/p>\n<p data-aid=\"141769976\" id=\"p22\">El relato cuenta que &#x201C;&#x2026;&#xA0;al instante su lepra fue limpiada&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"141769983\" id=\"p23\">Del mismo modo, tambi&#xE9;n nosotros podemos sentir el toque de Su amorosa mano sanadora. &#xA1;Cu&#xE1;nta alegr&#xED;a, esperanza y gratitud trae a nuestra alma el saber que el Salvador quiere ayudarnos a ser limpios! Al venir a &#xC9;l, Dios acudir&#xE1; a nuestro rescate ya sea para curarnos o para darnos la fuerza que precisamos a fin de enfrentar cualquier situaci&#xF3;n.<\/p>\n<p data-aid=\"141769990\" id=\"p24\">En todo caso, la aceptaci&#xF3;n de Su voluntad &#xFEFF;&#x2014;no de la nuestra&#xFEFF;&#x2014; nos servir&#xE1; para entender nuestras circunstancias. Nada malo puede venir de Dios. &#xC9;l sabe lo que es mejor para nosotros. Tal vez no nos retire las cargas de inmediato. A veces puede hacer que sintamos ligeras esas mismas cargas, como lo hizo con Alma y su pueblo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. A la larga, por causa de los convenios, las cargas ser&#xE1;n quitadas<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, ya sea en esta vida o en la santa Resurrecci&#xF3;n.<\/p>\n<p data-aid=\"141769994\" id=\"p25\">El deseo genuino de que Su voluntad sea hecha, junto con la comprensi&#xF3;n de la naturaleza divina de nuestro Redentor, nos ayuda a desarrollar la misma fe que demostr&#xF3; el leproso para ser limpio. Jesucristo es un Dios de amor, un Dios de esperanza, un Dios de sanaci&#xF3;n, un Dios que quiere bendecirnos y ayudarnos a ser limpios. Lo quiso antes de que vini&#xE9;ramos a esta tierra cuando se ofreci&#xF3; a rescatarnos si ca&#xED;amos en transgresi&#xF3;n. Lo quiso en Getseman&#xED; cuando enfrent&#xF3; un dolor humanamente inconcebible durante la agon&#xED;a de pagar el precio del pecado. Lo quiere ahora cuando ruega al Padre por nosotros<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Por eso Su voz resuena todav&#xED;a: &#x201C;Venid a m&#xED; los que est&#xE1;is tristes y cansados y yo os har&#xE9; descansar&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"141769999\" id=\"p26\">&#xC9;l puede sanarnos y elevarnos porque tiene la capacidad de hacerlo. Tom&#xF3; sobre S&#xED; todos los padecimientos, del cuerpo y del esp&#xED;ritu, para que Sus entra&#xF1;as fueran llenas de misericordia y para as&#xED; ayudarnos en todo, e incluso sanarnos y elevarnos<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Las palabras de Isa&#xED;as citadas por Abinad&#xED; expresan esto bella y conmovedoramente:<\/p>\n<p data-aid=\"141770005\" id=\"p27\">&#x201C;Ciertamente &#xE9;l ha llevado nuestros pesares y sufrido nuestros dolores.<\/p>\n<p data-aid=\"141770010\" id=\"p28\">&#x201C;&#x2026;&#xA0;&#xE9;l herido fue por nuestras transgresiones, golpeado por nuestras iniquidades y el castigo de nuestra paz fue sobre &#xE9;l y con sus llagas somos sanados&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"141770016\" id=\"p29\">Este mismo principio se ense&#xF1;a en el siguiente poema:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"141770022\" id=\"p30\">&#x201C;Ah, Carpintero de Nazaret, <\/p>\n<p class=\"line\" data-aid=\"141770028\" id=\"p31\">&#xBF;Te ser&#xE1; posible reparar<\/p>\n<p class=\"line\" data-aid=\"141770034\" id=\"p32\">mi destrozado coraz&#xF3;n,<\/p>\n<p class=\"line\" data-aid=\"141770040\" id=\"p33\">y mi vida destrozada de verdad?&#x201D;.<\/p>\n<\/div>\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"141770046\" id=\"p34\">Y por Su amor y gran bondad,<\/p>\n<p class=\"line\" data-aid=\"141770051\" id=\"p35\">Su vida dulce entretejer&#xE1;<\/p>\n<p class=\"line\" data-aid=\"141770056\" id=\"p36\">con la nuestra destrozada<\/p>\n<p class=\"line\" data-aid=\"141770061\" id=\"p37\">y vida nueva crear&#xE1;.<\/p>\n<\/div>\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"141770066\" id=\"p38\">&#x201C;Ah, Carpintero de Nazaret,<\/p>\n<p class=\"line\" data-aid=\"141770071\" id=\"p39\">convierte en plena perfecci&#xF3;n,<\/p>\n<p class=\"line\" data-aid=\"141770077\" id=\"p40\">los destrozados &#xED;dolos de mi ser:<\/p>\n<p class=\"line\" data-aid=\"141770082\" id=\"p41\">deseo, esperanza, fe y aspiraci&#xF3;n!&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"141770087\" id=\"p42\">Si de forma alguna se sienten impuros, se sienten abatidos, sepan, por favor, que pueden ser limpios, que pueden ser reparados, porque &#xC9;l los ama. Conf&#xED;en en que nada malo puede venir de &#xC9;l.<\/p>\n<p data-aid=\"141770093\" id=\"p43\">Por causa de que &#x201C;descendi&#xF3; debajo de todo&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, &#xC9;l hace posible que todo lo que est&#xE9; destrozado en nuestras vidas pueda ser reparado, y as&#xED; nos podemos reconciliar con Dios. Por medio de &#xC9;l, todas las cosas se reconcilian, &#x201C;tanto las que est&#xE1;n en la tierra como las que est&#xE1;n en los cielos, haciendo la paz mediante la sangre de su cruz&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"141770098\" id=\"p44\">Vengamos a Cristo dando todo paso necesario. Al hacerlo, que nuestra actitud sea la de decir: &#x201C;Se&#xF1;or, si quieres, puedes limpiarme&#x201D;. Si lo hacemos, podremos recibir el toque sanador del Maestro, acompa&#xF1;ado del dulce eco de Su voz: &#x201C;Quiero, s&#xE9; limpio&#x201D;.<\/p>\n<p data-aid=\"141770104\" id=\"p45\">El Salvador es un Dios en quien podemos confiar. &#xC9;l es el Cristo, el Ungido, el Mes&#xED;as, de quien testifico en Su santo nombre, a saber, Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141769875",
+        "id": "note4",
+        "text": "<p data-aid=\"141770135\" id=\"note4_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/lev/13.45?lang=spa#p45\">Lev&#xED;tico 13:45<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/lev/13.45?lang=spa#p45",
+          "text": "Levítico 13:45",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141769875",
+        "id": "note5",
+        "text": "<p data-aid=\"141770140\" id=\"note5_p1\">V&#xE9;ase Bruce R. McConkie, <cite>Doctrinal New Testament Commentary<\/cite>, 1973, tomo I, p&#xE1;g.&#xA0;174.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141769861",
+        "id": "note2",
+        "text": "<p data-aid=\"141770123\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.42?lang=spa#p42\">Mateo 26:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/26.42?lang=spa#p42",
+          "text": "Mateo 26:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141769868",
+        "id": "note3",
+        "text": "<p data-aid=\"141770129\" id=\"note3_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7?lang=spa#p7\">Mos&#xED;ah 15:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15.7?lang=spa#p7",
+          "text": "Mosíah 15:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141769990",
+        "id": "note8",
+        "text": "<p data-aid=\"141770155\" id=\"note8_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.8-15?lang=spa#p8\">Mos&#xED;ah 24:8&#x2013;15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.8-15?lang=spa#p8",
+          "text": "Mosíah 24:8\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141769990",
+        "id": "note9",
+        "text": "<p data-aid=\"141770160\" id=\"note9_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.13-16?lang=spa#p13\">Mos&#xED;ah 24:13&#x2013;16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.13-16?lang=spa#p13",
+          "text": "Mosíah 24:13\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141769955",
+        "id": "note6",
+        "text": "<p data-aid=\"141770145\" id=\"note6_p1\">V&#xE9;anse tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5-6?lang=spa#p5\">Proverbios 3:5&#x2013;6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.2-3?lang=spa#p2\">Doctrina y Convenios 110:2&#x2013;3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.2-10?lang=spa#p2\">Mois&#xE9;s 1:2&#x2013;10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/prov/3.5-6?lang=spa#p5",
+            "text": "Proverbios 3:5\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/110.2-3?lang=spa#p2",
+            "text": "Doctrina y Convenios 110:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.2-10?lang=spa#p2",
+            "text": "Moisés 1:2\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141769976",
+        "id": "note7",
+        "text": "<p data-aid=\"141770150\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.3?lang=spa#p3\">Mateo 8:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.3?lang=spa#p3",
+          "text": "Mateo 8:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "141770093",
+        "id": "note16",
+        "text": "<p data-aid=\"141770193\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/1.20?lang=spa#p20\">Colosenses 1:20<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.18-20?lang=spa#p18\">2&#xA0;Corintios 5:18&#x2013;20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/col/1.20?lang=spa#p20",
+            "text": "Colosenses 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/2-cor/5.18-20?lang=spa#p18",
+            "text": "2 Corintios 5:18\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "141770093",
+        "id": "note15",
+        "text": "<p data-aid=\"141770188\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.6?lang=spa#p6\">Doctrina y Convenios 88:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.6?lang=spa#p6",
+          "text": "Doctrina y Convenios 88:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "141770082",
+        "id": "note14",
+        "text": "<p data-aid=\"141770184\" id=\"note14_p1\">George Blair, &#x201C;The Carpenter of Nazareth&#x201D; [el Carpintero de Nazaret], en Obert&#xA0;C. Tanner, <cite>Christ&#x2019;s Ideals for Living<\/cite> (Manual de la Escuela Dominical, 1955), p&#xE1;g. 22; citado en Jeffrey&#xA0;R. Holland, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2006/04/broken-things-to-mend?lang=spa&amp;para=41#p41\">Las cosas destrozadas pueden repararse<\/a>&#x201D;, <cite>Liahona,<\/cite> mayo de 2006, p&#xE1;g. 71.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2006/04/broken-things-to-mend?lang=spa&para=41#p41",
+          "text": "Las cosas destrozadas pueden repararse",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "141770010",
+        "id": "note13",
+        "text": "<p data-aid=\"141770180\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/14.4-5?lang=spa#p4\">Mos&#xED;ah 14:4&#x2013;5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/14.4-5?lang=spa#p4",
+          "text": "Mosíah 14:4\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "141769999",
+        "id": "note12",
+        "text": "<p data-aid=\"141770175\" id=\"note12_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.12?lang=spa#p12\">Alma 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.12?lang=spa#p12",
+          "text": "Alma 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141769994",
+        "id": "note11",
+        "text": "<p data-aid=\"141770170\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=spa#p28\">Mateo 11:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28?lang=spa#p28",
+          "text": "Mateo 11:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141769994",
+        "id": "note10",
+        "text": "<p data-aid=\"141770165\" id=\"note10_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.3-5?lang=spa#p3\">Doctrina y Convenios 45:3&#x2013;5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.3-5?lang=spa#p3",
+          "text": "Doctrina y Convenios 45:3\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141769847",
+        "id": "note1",
+        "text": "<p data-aid=\"141770116\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.2-3?lang=spa#p2\">Mateo 8:2&#x2013;3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.2-3?lang=spa#p2",
+          "text": "Mateo 8:2\u20133",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "tableOfContentsUri": "/liahona/2019/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "article",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2019/11/46nelson",
+      "data-aid": "141769375",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "d6421f6b4a3b47aab723cc1bd4d05192",
+      "data-aid-version": "2",
+      "data-orig-id": "7d5dfd0608fd43479607aa9b8fb0b9c8"
+    },
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/magazines/1861146nelson/2019-11-0030-the-second-great-commandment-64k-spa.mp3"
+    }],
+    "title": "El segundo gran mandamiento",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "141769375",
+      {"key": "141769375"}
+    ],
+    [
+      "141769379",
+      {"key": "141769379"}
+    ],
+    [
+      "141769385",
+      {"key": "141769385"}
+    ],
+    [
+      "141769389",
+      {"key": "141769389"}
+    ],
+    [
+      "141769396",
+      {"key": "141769396"}
+    ],
+    [
+      "141769401",
+      {"key": "141769401"}
+    ],
+    [
+      "141769408",
+      {"key": "141769408"}
+    ],
+    [
+      "141769414",
+      {"key": "141769414"}
+    ],
+    [
+      "141769420",
+      {"key": "141769420"}
+    ],
+    [
+      "141769425",
+      {"key": "141769425"}
+    ],
+    [
+      "141769431",
+      {"key": "141769431"}
+    ],
+    [
+      "141769436",
+      {"key": "141769436"}
+    ],
+    [
+      "141769441",
+      {"key": "141769441"}
+    ],
+    [
+      "141769447",
+      {"key": "141769447"}
+    ],
+    [
+      "141769452",
+      {"key": "141769452"}
+    ],
+    [
+      "141769458",
+      {"key": "141769458"}
+    ],
+    [
+      "141769463",
+      {"key": "141769463"}
+    ],
+    [
+      "141769468",
+      {"key": "141769468"}
+    ],
+    [
+      "141769473",
+      {"key": "141769473"}
+    ],
+    [
+      "141769476",
+      {"key": "141769476"}
+    ],
+    [
+      "141769479",
+      {"key": "141769479"}
+    ],
+    [
+      "141769483",
+      {"key": "141769483"}
+    ],
+    [
+      "141769488",
+      {"key": "141769488"}
+    ],
+    [
+      "141769492",
+      {"key": "141769492"}
+    ],
+    [
+      "141769496",
+      {"key": "141769496"}
+    ],
+    [
+      "141769501",
+      {"key": "141769501"}
+    ],
+    [
+      "141769505",
+      {"key": "141769505"}
+    ],
+    [
+      "141769510",
+      {"key": "141769510"}
+    ],
+    [
+      "141769515",
+      {"key": "141769515"}
+    ],
+    [
+      "141769520",
+      {"key": "141769520"}
+    ],
+    [
+      "141769525",
+      {"key": "141769525"}
+    ],
+    [
+      "141769530",
+      {"key": "141769530"}
+    ],
+    [
+      "141769535",
+      {"key": "141769535"}
+    ],
+    [
+      "141769540",
+      {"key": "141769540"}
+    ],
+    [
+      "141769545",
+      {"key": "141769545"}
+    ],
+    [
+      "141769550",
+      {"key": "141769550"}
+    ],
+    [
+      "141769555",
+      {"key": "141769555"}
+    ],
+    [
+      "141769560",
+      {"key": "141769560"}
+    ],
+    [
+      "141769565",
+      {"key": "141769565"}
+    ],
+    [
+      "141769570",
+      {"key": "141769570"}
+    ],
+    [
+      "141769575",
+      {"key": "141769575"}
+    ],
+    [
+      "141769581",
+      {"key": "141769581"}
+    ],
+    [
+      "141769587",
+      {"key": "141769587"}
+    ],
+    [
+      "141769593",
+      {"key": "141769593"}
+    ],
+    [
+      "141769599",
+      {"key": "141769599"}
+    ],
+    [
+      "141769605",
+      {"key": "141769605"}
+    ],
+    [
+      "141769611",
+      {"key": "141769611"}
+    ],
+    [
+      "141769618",
+      {"key": "141769618"}
+    ],
+    [
+      "141769623",
+      {"key": "141769623"}
+    ],
+    [
+      "141769628",
+      {"key": "141769628"}
+    ],
+    [
+      "141769633",
+      {"key": "141769633"}
+    ],
+    [
+      "141769638",
+      {"key": "141769638"}
+    ],
+    [
+      "141769643",
+      {"key": "141769643"}
+    ],
+    [
+      "141769648",
+      {"key": "141769648"}
+    ],
+    [
+      "141769655",
+      {"key": "141769655"}
+    ],
+    [
+      "141769660",
+      {"key": "141769660"}
+    ],
+    [
+      "141769666",
+      {"key": "141769666"}
+    ],
+    [
+      "141769670",
+      {"key": "141769670"}
+    ],
+    [
+      "141769677",
+      {"key": "141769677"}
+    ]
+  ],
+  "uri": "/liahona/2019/11/46nelson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El segundo gran mandamiento",
+          "title": "El segundo gran mandamiento"
+        },
+        "pageSocial": {
+          "description": "El segundo gran mandamiento",
+          "title": "El segundo gran mandamiento"
+        }
+      }
+    },
+    "body": "<header>\n<h1 data-aid=\"141769379\" id=\"title1\">El segundo gran mandamiento<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"141769385\" id=\"author1\">Por el presidente Russell&#xA0;M. Nelson<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"141769389\" id=\"kicker1\">Sentimos nuestro mayor gozo al ayudar a nuestros hermanos y hermanas.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"141769396\" id=\"p1\">Mis queridos hermanos y hermanas, gracias por todo lo que est&#xE1;n haciendo para ayudar a recoger a Israel a ambos lados del velo, fortalecer a sus familias y bendecir la vida de los necesitados. Gracias por vivir como verdaderos disc&#xED;pulos de Jesucristo<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Ustedes conocen Sus dos grandes mandamientos y les encanta obedecerlos: Amar a Dios y amar al pr&#xF3;jimo<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"141769401\" id=\"p2\">Durante los &#xFA;ltimos seis meses, la hermana Nelson y yo hemos conocido a miles de santos al viajar a Am&#xE9;rica Central y del Sur, a las islas del Pac&#xED;fico, y a varias ciudades de los Estados Unidos. Al viajar, nuestra esperanza es edificar <em>su<\/em> fe, pero siempre regresamos con <em>nuestra<\/em> fe fortalecida por los miembros y amigos que conocemos. &#xBF;Puedo compartir tres momentos significativos de nuestras experiencias recientes?<\/p>\n<img alt=\"President Nelson in New Zealand\" id=\"img1\" src=\"https://assets.ldscdn.org/14/7d/147d76abb483965ecc154f4117fa76a7b629d15b/russell_m_nelson_ministry_tour.png\" data-img-id=\"2294385\" srcset=\"https://assets.ldscdn.org/ed/6c/ed6c1232cba59f36fa5a836cf3f210ee71c70b23/russell_m_nelson_ministry_tour.png 60w,https://assets.ldscdn.org/87/69/87698ec8f0d2f82eb45adb7f3bce15dcce0b4d1f/russell_m_nelson_ministry_tour.png 100w,https://assets.ldscdn.org/80/48/8048df57736700cca7830e05145da10fa0f72d57/russell_m_nelson_ministry_tour.png 200w,https://assets.ldscdn.org/35/1d/351d975118b2b1be21c307aff8a3c8895ceee123/russell_m_nelson_ministry_tour.png 250w,https://assets.ldscdn.org/2d/9a/2d9a7288edbf1ec07ce276c3352292c03b9ba14c/russell_m_nelson_ministry_tour.png 320w,https://assets.ldscdn.org/14/7d/147d76abb483965ecc154f4117fa76a7b629d15b/russell_m_nelson_ministry_tour.png 500w,https://assets.ldscdn.org/24/f6/24f62538846619054340e14e22276092a89a6504/russell_m_nelson_ministry_tour.png 640w\" data-assetid=\"85819881602287e2de4d6791a9a1ab05c5a56768\" data-missing-asset=\"false\">\n<img alt=\"President Nelson in New Zealand\" id=\"img2\" src=\"https://assets.ldscdn.org/9b/bc/9bbc3cc59b4a1def22f384a75bcca000b86007a0/russell_m_nelson_ministry_tour.png\" data-img-id=\"2294387\" srcset=\"https://assets.ldscdn.org/ef/cc/efccb344ba185b3186e0d07146903aa4b631a08e/russell_m_nelson_ministry_tour.png 60w,https://assets.ldscdn.org/2f/a9/2fa9413c64964dcf124656332d344c1eceb64ed4/russell_m_nelson_ministry_tour.png 100w,https://assets.ldscdn.org/ef/e5/efe593ca26dccde12bad3a4135322bdcf3ac3ce5/russell_m_nelson_ministry_tour.png 200w,https://assets.ldscdn.org/0c/33/0c33dd5303c98dcc435b53af996010b5c8da75d5/russell_m_nelson_ministry_tour.png 250w,https://assets.ldscdn.org/28/04/280481469898892590109f7e4416b5a98f024db6/russell_m_nelson_ministry_tour.png 320w,https://assets.ldscdn.org/9b/bc/9bbc3cc59b4a1def22f384a75bcca000b86007a0/russell_m_nelson_ministry_tour.png 500w,https://assets.ldscdn.org/b6/aa/b6aa7775c48a0bc8f0bd97c13bf91a08e90ae41b/russell_m_nelson_ministry_tour.png 640w\" data-assetid=\"16b85b1088e09a9707c12c51e2ee08d5fed5811c\" data-missing-asset=\"false\">\n<p data-aid=\"141769408\" id=\"p3\">En mayo, la hermana Nelson y yo viajamos con el &#xE9;lder Gerrit&#xA0;W. Gong y la hermana Susan Gong al Pac&#xED;fico Sur. Mientras est&#xE1;bamos en Auckland, Nueva Zelanda, tuvimos el honor de reunirnos con los imanes de dos mezquitas de Christchurch, Nueva Zelanda, donde solo dos meses antes, se hab&#xED;a asesinado a disparos a devotos inocentes en un acto de terrible violencia.<\/p>\n<p data-aid=\"141769414\" id=\"p4\">Extendimos nuestras condolencias a aquellos hermanos de otra religi&#xF3;n y reafirmamos nuestro compromiso mutuo con la libertad de culto.<\/p>\n<p data-aid=\"141769420\" id=\"p5\">Tambi&#xE9;n ofrecimos mano de obra voluntaria y ayuda econ&#xF3;mica modesta para reconstruir sus mezquitas. Nuestra reuni&#xF3;n con esos l&#xED;deres musulmanes rebos&#xF3; de tiernas expresiones de hermandad.<\/p>\n<img alt=\"Wheelchair recipients in Argentina\" id=\"img3\" src=\"https://assets.ldscdn.org/37/b7/37b7918f990591f33eeb03b4dd56a131abb15cb8/russell_m_nelson_ministry_tour.png\" data-img-id=\"2294389\" srcset=\"https://assets.ldscdn.org/ea/11/ea11a4452a9742fc5df35e1518b2b6d4aa833746/russell_m_nelson_ministry_tour.png 60w,https://assets.ldscdn.org/2a/78/2a7850a5e89e0a3d4128853c66f14722372149ce/russell_m_nelson_ministry_tour.png 100w,https://assets.ldscdn.org/9e/59/9e59e1ef4c61e8ea31c6b03380aea1cacc243761/russell_m_nelson_ministry_tour.png 200w,https://assets.ldscdn.org/8e/87/8e878a67600cac6207108a019bffc1d949c228d9/russell_m_nelson_ministry_tour.png 250w,https://assets.ldscdn.org/e8/a2/e8a2425f9d0dc99cd4a59d4bc19c616b28a15d79/russell_m_nelson_ministry_tour.png 320w,https://assets.ldscdn.org/37/b7/37b7918f990591f33eeb03b4dd56a131abb15cb8/russell_m_nelson_ministry_tour.png 500w,https://assets.ldscdn.org/fe/1f/fe1f40145e85d57badaace9e683d001b985dbd05/russell_m_nelson_ministry_tour.png 640w\" data-assetid=\"d21650efa0de49f9e3abdee9df3793495f1ac9db\" data-missing-asset=\"false\">\n<img alt=\"Wheelchair recipients in Argentina\" id=\"img4\" src=\"https://assets.ldscdn.org/31/92/31924c27940eaf0803baf48e0062167a6112021b/russell_m_nelson_ministry_tour.png\" data-img-id=\"2294391\" srcset=\"https://assets.ldscdn.org/da/0b/da0b8a6dfc0ab209288b593c93fbfb804aa5f428/russell_m_nelson_ministry_tour.png 60w,https://assets.ldscdn.org/f9/40/f940f8a0d19b8ff6514ba6da12bbafac4d7879c0/russell_m_nelson_ministry_tour.png 100w,https://assets.ldscdn.org/1c/f8/1cf8945ba836392f18d5bb39c44b2778aac325ab/russell_m_nelson_ministry_tour.png 200w,https://assets.ldscdn.org/0d/4c/0d4ce1bebbf85dfe368bcf46f888668afdb0b5d9/russell_m_nelson_ministry_tour.png 250w,https://assets.ldscdn.org/8f/17/8f17a1bfc10a2f4f21dd5030af58498863b53442/russell_m_nelson_ministry_tour.png 320w,https://assets.ldscdn.org/31/92/31924c27940eaf0803baf48e0062167a6112021b/russell_m_nelson_ministry_tour.png 500w,https://assets.ldscdn.org/c7/c4/c7c4a61538424b2e1d72ec9230ebf4ef12c207b4/russell_m_nelson_ministry_tour.png 640w\" data-assetid=\"520de20a15580f1ddf91de5dd64b2a412ba4e2ab\" data-missing-asset=\"false\">\n<p data-aid=\"141769425\" id=\"p6\">En agosto, junto con el &#xE9;lder Quentin&#xA0;L. Cook y la hermana Mary Cook, la hermana Nelson y yo conocimos a personas en Buenos Aires, Argentina &#xFEFF;&#x2014;la mayor&#xED;a de ellas no eran de nuestra religi&#xF3;n&#xFEFF;&#x2014; cuyas vidas hab&#xED;an cambiado gracias a las sillas de ruedas que se les hab&#xED;a proporcionado por medio de la organizaci&#xF3;n ben&#xE9;fica Latter-day Saint Charities. Nos sentimos inspirados mientras expresaban gratitud colmada de gozo por su nuevo medio de movilidad.<\/p>\n<p data-aid=\"141769431\" id=\"p7\">Un tercer momento preciado ocurri&#xF3; hace solo unas pocas semanas aqu&#xED;, en Salt Lake City. Provino de una carta singular que recib&#xED; en mi cumplea&#xF1;os de una jovencita a quien llamar&#xE9; Mary, de catorce a&#xF1;os de edad.<\/p>\n<p data-aid=\"141769436\" id=\"p8\">Mary escribi&#xF3; sobre las cosas que ella y yo ten&#xED;amos en com&#xFA;n: &#x201C;Usted tiene diez hijos. Nosotros somos diez hijos. Usted habla mandar&#xED;n. Siete de los ni&#xF1;os de mi familia, incluida yo, fuimos adoptados en China, as&#xED; que el mandar&#xED;n es nuestro idioma natal. Usted es cardiocirujano. Mi hermana ha tenido dos [operaciones] a coraz&#xF3;n abierto. A usted le agrada la Iglesia de dos horas de duraci&#xF3;n. A nosotros nos agrada la Iglesia de dos horas de duraci&#xF3;n. Usted tiene o&#xED;do absoluto. Mi hermano tambi&#xE9;n lo tiene; &#xE9;l es ciego, como yo&#x201D;.<\/p>\n<p data-aid=\"141769441\" id=\"p9\">Las palabras de Mary me conmovieron profundamente, y revelaron no solo su gran esp&#xED;ritu, sino tambi&#xE9;n la consagraci&#xF3;n de su madre y su padre.<\/p>\n<p data-aid=\"141769447\" id=\"p10\">Los Santos de los &#xDA;ltimos D&#xED;as, tal como otros disc&#xED;pulos de Jesucristo, siempre buscan formas de ayudar, elevar y amar a otras personas. Quienes est&#xE1;n dispuestos a ser llamados el pueblo del Se&#xF1;or &#x201C;est[&#xE1;n] dispuestos a llevar las cargas los unos de los otros[;]&#xA0;[&#x2026;] a llorar con los que lloran;&#xA0;[&#x2026;] y a consolar a los que necesitan de consuelo&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"141769452\" id=\"p11\">Verdaderamente procuran vivir el primer gran mandamiento y el segundo. Cuando amamos a <em>Dios<\/em> con todo el coraz&#xF3;n, &#xC9;l nos vuelve el coraz&#xF3;n hacia el bienestar de <em>otras personas<\/em> en un bello c&#xED;rculo virtuoso.<\/p>\n<p data-aid=\"141769458\" id=\"p12\">Ser&#xED;a imposible calcular la cantidad de servicio que los Santos de los &#xDA;ltimos D&#xED;as prestan en todo el mundo cada d&#xED;a de cada a&#xF1;o, pero s&#xED; <em>es<\/em> posible calcular el bien que la Iglesia hace como organizaci&#xF3;n para bendecir a hombres y mujeres, a ni&#xF1;os y ni&#xF1;as, que necesitan una mano de ayuda.<\/p>\n<p data-aid=\"141769463\" id=\"p13\">El programa humanitario de la Iglesia comenz&#xF3; en 1984; posteriormente se realiz&#xF3; un ayuno mundial para recaudar fondos a fin de ayudar a los afligidos por una devastadora sequ&#xED;a en &#xC1;frica oriental. Durante ese <em>solo<\/em> d&#xED;a de ayuno, los miembros de la Iglesia donaron $6,4 millones de d&#xF3;lares estadounidenses.<\/p>\n<img alt=\"Then-Elder Ballard in Ethiopia \" id=\"img5\" src=\"https://assets.ldscdn.org/07/78/07789e67088d5601c8918fdcf76c3cbaa2c2707d/m_russell_ballard_ethiopa.png\" data-img-id=\"2294393\" srcset=\"https://assets.ldscdn.org/37/59/375934b04f6f36993fe8eb44946b4d7265db1735/m_russell_ballard_ethiopa.png 60w,https://assets.ldscdn.org/78/d2/78d2d361599ad6c4a23437390a2e8611a96b734f/m_russell_ballard_ethiopa.png 100w,https://assets.ldscdn.org/0e/6e/0e6e4c5f0e1493dc2a57553eac1addfdd5481142/m_russell_ballard_ethiopa.png 200w,https://assets.ldscdn.org/5f/e7/5fe788c942bd325fc68516ab1a285bacc9292db7/m_russell_ballard_ethiopa.png 250w,https://assets.ldscdn.org/f8/e7/f8e78ec3baede7998368c695b7a3d08519d60921/m_russell_ballard_ethiopa.png 320w,https://assets.ldscdn.org/07/78/07789e67088d5601c8918fdcf76c3cbaa2c2707d/m_russell_ballard_ethiopa.png 500w,https://assets.ldscdn.org/76/c7/76c71c87a15ed17e1d4bd0aaed2b9052606e209c/m_russell_ballard_ethiopa.png 640w\" data-assetid=\"80acf7f0ddd17cd64082422a877e014d814247a7\" data-missing-asset=\"false\">\n<p data-aid=\"141769468\" id=\"p14\">Se envi&#xF3; a Etiop&#xED;a a quien entonces era el &#xE9;lder M.&#xA0;Russell Ballard y al hermano Glenn&#xA0;L. Pace para evaluar c&#xF3;mo podr&#xED;an usarse mejor aquellos fondos consagrados. Esa labor mostr&#xF3; ser el inicio de lo que luego se conocer&#xED;a como la obra ben&#xE9;fica Latter-day Saint Charities.<\/p>\n<p data-aid=\"141769473\" id=\"p15\">Desde aquel momento, Latter-day Saint Charities ha proporcionado m&#xE1;s de <em>dos mil millones<\/em> de d&#xF3;lares en ayuda para atender a necesitados de todo el mundo. Dicha ayuda se brinda a los destinatarios sin importar su afiliaci&#xF3;n religiosa, nacionalidad, raza, orientaci&#xF3;n sexual, sexo u opiniones pol&#xED;ticas.<\/p>\n<p data-aid=\"141769476\" id=\"p16\">Eso no es todo; para ayudar a los miembros de la Iglesia del Se&#xF1;or que sufren tribulaciones, amamos y vivimos la antigua ley del ayuno<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Sentimos hambre para ayudar a otras personas que tienen hambre. Un d&#xED;a de cada mes, nos abstenemos de alimentos y donamos el costo de esas comidas (y m&#xE1;s) para ayudar a los necesitados.<\/p>\n<p data-aid=\"141769479\" id=\"p17\">Jam&#xE1;s olvidar&#xE9; mi primera visita a &#xC1;frica occidental, en 1986. Los santos llegaron a nuestras reuniones en grandes cantidades; aunque ten&#xED;an poco en t&#xE9;rminos de posesiones materiales, la mayor&#xED;a llegaron vestidos con ropa blanca impecable.<\/p>\n<p data-aid=\"141769483\" id=\"p18\">Pregunt&#xE9; al presidente de estaca c&#xF3;mo cuidaba de miembros que ten&#xED;an tan poco. Respondi&#xF3; que sus obispos conoc&#xED;an bien a su gente; si los miembros pod&#xED;an pagar por dos comidas diarias, no necesitaban ayuda. Sin embargo, si pod&#xED;an pagar solo por una comida o menos &#xFEFF;&#x2014;aun con ayuda de la familia&#xFEFF;&#x2014;, los obispos proporcionaban alimentos, que costeaban con ofrendas de ayuno. Luego a&#xF1;adi&#xF3; este notable hecho: por lo general, sus contribuciones de ofrendas de ayuno <em>exced&#xED;an<\/em> sus gastos; las ofrendas de ayuno sobrantes entonces se enviaban a personas de <em>otras partes<\/em>, cuyas necesidades excedieran las de ellos. Aquellos firmes santos africanos me ense&#xF1;aron una gran lecci&#xF3;n sobre el poder de la <em>ley<\/em> del ayuno y el <em>esp&#xED;ritu<\/em> de esta.<\/p>\n<p data-aid=\"141769488\" id=\"p19\">Como miembros de la Iglesia, sentimos afinidad hacia quienes sufren de cualquier manera<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Como hijos e hijas de Dios, todos somos hermanos y hermanas; damos o&#xED;do a una admonici&#xF3;n del Antiguo Testamento: &#x201C;Abrir&#xE1;s tu mano a tu hermano, al pobre y al menesteroso en tu tierra&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"141769492\" id=\"p20\">Tambi&#xE9;n nos esforzamos por vivir las ense&#xF1;anzas del Se&#xF1;or Jesucristo, tal como se hallan en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa\">Mateo 25<\/a>:<\/p>\n<p data-aid=\"141769496\" id=\"p21\">&#x201C;Porque tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fui forastero, y me recogisteis;<\/p>\n<p data-aid=\"141769501\" id=\"p22\">&#x201C;estuve desnudo, y me cubristeis; enfermo, y me visitasteis&#x2026;<\/p>\n<p data-aid=\"141769505\" id=\"p23\">&#x201C;&#x2026;&#xA0;en cuanto lo hicisteis a uno de estos, mis hermanos m&#xE1;s peque&#xF1;os, a m&#xED; lo hicisteis&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"141769510\" id=\"p24\">Perm&#xED;tanme citar solo unos pocos ejemplos de c&#xF3;mo la Iglesia sigue esas ense&#xF1;anzas del Salvador.<\/p>\n<img alt=\"Almac&#xE9;n de los obispos\" id=\"img6\" src=\"https://assets.ldscdn.org/ff/01/ff01436b218653293b678194ecf3f63e75459419/mexico_working.png\" data-img-id=\"2294395\" srcset=\"https://assets.ldscdn.org/40/8e/408ecc03379eb13b0410fd9c5ebf8813bfed1f0e/mexico_working.png 60w,https://assets.ldscdn.org/2d/77/2d776b4563c93b75d5d2fa190466890959f78ca5/mexico_working.png 100w,https://assets.ldscdn.org/53/30/5330d86f0ebcb91d3f6dd263bfd15b78f8da72a6/mexico_working.png 200w,https://assets.ldscdn.org/20/28/202897f4b590e5efd7375cab17ba7c9e5f1d7496/mexico_working.png 250w,https://assets.ldscdn.org/19/5c/195c138f592b38de997a51b9c5ad929386afd04a/mexico_working.png 320w,https://assets.ldscdn.org/ff/01/ff01436b218653293b678194ecf3f63e75459419/mexico_working.png 500w,https://assets.ldscdn.org/a0/8c/a08c946959c6520a3f8c1e595e384d9347ebd95f/mexico_working.png 640w\" data-assetid=\"f47f6b564a3ecfa4ac5e0ce1fb70ce574cbb287e\" data-missing-asset=\"false\">\n<p data-aid=\"141769515\" id=\"p25\">Para ayudar a aliviar el hambre, la Iglesia administra 124 almacenes del obispo en todo el mundo. Por medio de ellos, cada a&#xF1;o se entregan aproximadamente 400&#xA0;000 solicitudes de alimentos a personas necesitadas. En los lugares donde no existen almacenes, los obispos y presidentes de rama usan los fondos de ofrendas de ayuno de la Iglesia para proporcionar alimentos y mercader&#xED;as a sus miembros necesitados.<\/p>\n<p data-aid=\"141769520\" id=\"p26\">Sin embargo, el problema del hambre se extiende mucho m&#xE1;s all&#xE1; del &#xE1;mbito de la Iglesia. Est&#xE1; aumentando en todo el mundo. Un informe reciente de las Naciones Unidas ha indicado que el n&#xFA;mero de personas desnutridas en el mundo ahora excede los 820 millones; o casi uno de cada nueve de los habitantes de la tierra<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"141769525\" id=\"p27\">&#xA1;Qu&#xE9; estad&#xED;stica preocupante! Cu&#xE1;n agradecidos estamos por sus contribuciones; gracias a su generosidad sincera, millones de personas de todo el mundo recibir&#xE1;n alimentos, ropa, refugio temporario, sillas de ruedas, medicinas, agua potable que tanto necesitan, y m&#xE1;s.<\/p>\n<p data-aid=\"141769530\" id=\"p28\">Hay mucha enfermedad en todo el mundo a causa del agua contaminada. Hasta la fecha, la iniciativa humanitaria de la Iglesia ha ayudado a proporcionar agua potable a cientos de comunidades de 76 pa&#xED;ses.<\/p>\n<p data-aid=\"141769535\" id=\"p29\">La labor en Luputa, Rep&#xFA;blica Democr&#xE1;tica del Congo, es un gran ejemplo. La ciudad tiene una poblaci&#xF3;n que excede los 100&#xA0;000 habitantes y <em>no ten&#xED;a agua corriente<\/em>. Los pobladores ten&#xED;an que caminar largas distancias hasta fuentes de agua potable. Se descubri&#xF3; un manantial de monta&#xF1;a a 29 kil&#xF3;metros, pero los habitantes de la localidad no pod&#xED;an acceder a esa agua con regularidad.<\/p>\n<img alt=\"Digging a trench for water\" id=\"img7\" src=\"https://assets.ldscdn.org/46/3b/463b154581ce4a3e79f0c525413f7f69cf61adc4/dr_congo_welfare_media_trip.png\" data-img-id=\"2294397\" srcset=\"https://assets.ldscdn.org/6d/5c/6d5ca96010509acd41074b8a6f57d3506c6a3490/dr_congo_welfare_media_trip.png 30w,https://assets.ldscdn.org/ba/44/ba4420a809d537b5bf60635184a2f84afd9a5ba0/dr_congo_welfare_media_trip.png 60w,https://assets.ldscdn.org/c5/88/c5887124436e04a2705f7a961a3f0f0a1a05cb75/dr_congo_welfare_media_trip.png 64w,https://assets.ldscdn.org/40/40/40401cb6160d2ead9c6cc33d3772459048404e87/dr_congo_welfare_media_trip.png 100w,https://assets.ldscdn.org/ad/45/ad45e884a835fc79c1e0b7032e9b46fa39cde34c/dr_congo_welfare_media_trip.png 200w,https://assets.ldscdn.org/4f/0e/4f0eeac918b96227d5d5c12c3cb0936be847fb39/dr_congo_welfare_media_trip.png 205w,https://assets.ldscdn.org/a0/e0/a0e0bdebf8b391097032ed5ea018d7c7bfcd3b7a/dr_congo_welfare_media_trip.png 250w,https://assets.ldscdn.org/5b/f1/5bf146264f24d537f6690a0b3806a54719963d50/dr_congo_welfare_media_trip.png 320w,https://assets.ldscdn.org/46/3b/463b154581ce4a3e79f0c525413f7f69cf61adc4/dr_congo_welfare_media_trip.png 500w,https://assets.ldscdn.org/78/14/7814d13ac5004871c50a7351c08e7dfd4e2967bc/dr_congo_welfare_media_trip.png 640w\" data-assetid=\"e10d346f70acc1d3c6f02ab700444fbddad07dfc\" data-missing-asset=\"false\">\n<p data-aid=\"141769540\" id=\"p30\">Cuando nuestros misioneros de ayuda humanitaria se enteraron del problema, trabajaron con los l&#xED;deres de Luputa proporcionando materiales y capacitaci&#xF3;n para llevar el agua mediante ca&#xF1;er&#xED;as a la ciudad. El pueblo de Luputa dedic&#xF3; <em>tres a&#xF1;os<\/em> a excavar una zanja de un metro de profundidad a trav&#xE9;s de rocas y jungla. Al trabajar juntos, finalmente lleg&#xF3; el gozoso d&#xED;a en que hubo agua dulce y potable al alcance de todos los del pueblo.<\/p>\n<img alt=\"Carrying water\" id=\"img8\" src=\"https://assets.ldscdn.org/1c/85/1c853ac527728c9bf2e5812d17a74b450a3e768a/african_women_housework_water.png\" data-img-id=\"2294399\" srcset=\"https://assets.ldscdn.org/40/ac/40acd1ca2d781a3798c08b5506116e1a12904147/african_women_housework_water.png 60w,https://assets.ldscdn.org/f5/16/f516e223fa03ed0eb7e04772bf71ac77940e1524/african_women_housework_water.png 100w,https://assets.ldscdn.org/c2/ed/c2ed2ce5aa9a4fa5aca264cb2c9a1df6ea1f8a3a/african_women_housework_water.png 200w,https://assets.ldscdn.org/9e/06/9e06a2bcb500822d3a98e150d7ad55cb97b1c0f4/african_women_housework_water.png 250w,https://assets.ldscdn.org/0b/3a/0b3a0c4150bf3dfed7e623805fffd2f5d1edc36e/african_women_housework_water.png 320w,https://assets.ldscdn.org/1c/85/1c853ac527728c9bf2e5812d17a74b450a3e768a/african_women_housework_water.png 500w,https://assets.ldscdn.org/3d/f5/3df51a868e26eef70aacac4512ef40ceb68d963b/african_women_housework_water.png 640w\" data-assetid=\"81bb108ddbc91c715f278a3792114c02465f232b\" data-missing-asset=\"false\">\n<p data-aid=\"141769545\" id=\"p31\">La Iglesia tambi&#xE9;n ayuda a los refugiados, ya sea por conflictos civiles, desastres naturales o persecuci&#xF3;n religiosa. M&#xE1;s de 70 millones de personas se hallan ahora desplazadas de su hogar<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<img alt=\"Ministering to refugees\" id=\"img9\" src=\"https://assets.ldscdn.org/82/fb/82fb4ecac3c8b8b2f2a3b5f7160cc8b769ee6183/women_refugee_camp.png\" data-img-id=\"2294401\" srcset=\"https://assets.ldscdn.org/5c/92/5c926eecafe6417e0682e035e11ea36ddceae159/women_refugee_camp.png 60w,https://assets.ldscdn.org/3e/ca/3eca5015a5aeb0a2c721799a96103cb8ef0b187d/women_refugee_camp.png 100w,https://assets.ldscdn.org/21/a7/21a7619c13ee957ef745cacc11df5847015645e1/women_refugee_camp.png 200w,https://assets.ldscdn.org/43/61/4361ff7c017ac63e8f5041b06cfadd773a7b8163/women_refugee_camp.png 250w,https://assets.ldscdn.org/dd/fc/ddfc66bbb53606bb138f5c56ce5f1e6a96efefbf/women_refugee_camp.png 320w,https://assets.ldscdn.org/82/fb/82fb4ecac3c8b8b2f2a3b5f7160cc8b769ee6183/women_refugee_camp.png 500w,https://assets.ldscdn.org/43/18/431859787820123fbcf3a18d166f3659dd235efa/women_refugee_camp.png 640w\" data-assetid=\"d9138124fd9a79e3ca5f58ddf738b8c1585a51c8\" data-missing-asset=\"false\">\n<p data-aid=\"141769550\" id=\"p32\">Solo en el a&#xF1;o 2018, la Iglesia proporcion&#xF3; provisiones de emergencia a refugiados en 56 pa&#xED;ses. Asimismo, muchos miembros de la Iglesia ofrecen su tiempo como voluntarios para ayudar a los refugiados a integrarse en nuevas comunidades. Agradecemos a cada uno de ustedes que tienden la mano para ayudar a quienes tratan de establecer un nuevo hogar.<\/p>\n<img alt=\"Clothing distribution\" id=\"img10\" src=\"https://assets.ldscdn.org/57/32/5732143518b9a6aeca065c33edb245fecccd2990/dominican_republic_humanitarian_initiatives_clothing.png\" data-img-id=\"2294403\" srcset=\"https://assets.ldscdn.org/4d/96/4d969a5ea489e4d70658eb727147b573ffe9f081/dominican_republic_humanitarian_initiatives_clothing.png 60w,https://assets.ldscdn.org/f2/42/f242824db7568d0b81cbf5e930447d0eb3dbbdfa/dominican_republic_humanitarian_initiatives_clothing.png 100w,https://assets.ldscdn.org/0f/b5/0fb54eb356d7915838fe93f75146781193c8530f/dominican_republic_humanitarian_initiatives_clothing.png 200w,https://assets.ldscdn.org/41/aa/41aaa5b97f110d115a90340e6dcb1d053e48624f/dominican_republic_humanitarian_initiatives_clothing.png 250w,https://assets.ldscdn.org/e7/1e/e71e5cec146e561ac18297a4c3488302ce584167/dominican_republic_humanitarian_initiatives_clothing.png 320w,https://assets.ldscdn.org/57/32/5732143518b9a6aeca065c33edb245fecccd2990/dominican_republic_humanitarian_initiatives_clothing.png 500w,https://assets.ldscdn.org/34/21/3421a592423e0d5a0f60d912af02e8c3f2cac6a7/dominican_republic_humanitarian_initiatives_clothing.png 640w\" data-assetid=\"3bf952cfd339b066951c9c8db5dabe881a79f5d9\" data-missing-asset=\"false\">\n<p data-aid=\"141769555\" id=\"p33\">Mediante las generosas donaciones a las tiendas de Deseret Industries de Estados Unidos, se recolectan y clasifican millones de kilos de ropa cada a&#xF1;o. Aunque los obispos locales usan esas vastas existencias para ayudar a los miembros necesitados, la <em>mayor<\/em> parte se dona a otras organizaciones de beneficencia, que distribuyen los art&#xED;culos en todo el mundo.<\/p>\n<p data-aid=\"141769560\" id=\"p34\">Apenas el a&#xF1;o pasado, la Iglesia proporcion&#xF3; atenci&#xF3;n oftalmol&#xF3;gica a m&#xE1;s de 300&#xA0;000 personas en 35 pa&#xED;ses, atenci&#xF3;n neonatal a miles de madres y beb&#xE9;s en 39 pa&#xED;ses, y sillas de ruedas a m&#xE1;s de 50&#xA0;000 personas que viven en decenas de pa&#xED;ses.<\/p>\n<p data-aid=\"141769565\" id=\"p35\">La Iglesia es bien conocida por estar entre los primeros socorristas cuando sobreviene alguna tragedia. Incluso <em>antes<\/em> que un hurac&#xE1;n toque tierra, los l&#xED;deres de la Iglesia y el personal de los lugares afectados hacen planes sobre c&#xF3;mo entregar&#xE1;n suministros de socorro y prestar&#xE1;n ayuda voluntaria a quienes sufrir&#xE1;n los efectos.<\/p>\n<img alt=\"Serving with Helping Hands\" id=\"img11\" src=\"https://assets.ldscdn.org/ec/fa/ecfa6949c624f0a3f8c6e92bc24fd9ed094a9cb1/mormon_helping_hands_haiyan.png\" data-img-id=\"2294357\" srcset=\"https://assets.ldscdn.org/56/d1/56d1b619f08ef38660b3aaa5aba24aef55ddcc8e/mormon_helping_hands_haiyan.png 60w,https://assets.ldscdn.org/6a/b6/6ab6a3e90e775cda968bb0fdaca9f05e791e67e9/mormon_helping_hands_haiyan.png 100w,https://assets.ldscdn.org/80/02/8002870f98f92e72da7184fa8bf36c2b517be45f/mormon_helping_hands_haiyan.png 200w,https://assets.ldscdn.org/e8/30/e83060a297ab7c30b940a7cf32fb0dd9d63b7693/mormon_helping_hands_haiyan.png 250w,https://assets.ldscdn.org/38/5e/385ea0682109c02f5aa1406ed908037d4362c017/mormon_helping_hands_haiyan.png 320w,https://assets.ldscdn.org/ec/fa/ecfa6949c624f0a3f8c6e92bc24fd9ed094a9cb1/mormon_helping_hands_haiyan.png 500w,https://assets.ldscdn.org/04/87/0487f78093e1f82f54b68b5bfdf4c9353787abf6/mormon_helping_hands_haiyan.png 640w\" data-assetid=\"3419a6a878c0ddd0692a4556462120e3756dcb2b\" data-missing-asset=\"false\">\n<p data-aid=\"141769570\" id=\"p36\">Tan solo el a&#xF1;o pasado, la Iglesia efectu&#xF3; m&#xE1;s de cien labores de socorro por cat&#xE1;strofes en todo el mundo al ayudar a v&#xED;ctimas de huracanes, incendios, inundaciones, terremotos y otras calamidades. Siempre que es posible, nuestros miembros de la Iglesia, vestidos con chalecos amarillos de Manos que Ayudan, se movilizan en grandes cantidades para ayudar a los afligidos por los desastres. Esa clase de servicio que prestan tantos de ustedes es la esencia misma de la ministraci&#xF3;n.<\/p>\n<p data-aid=\"141769575\" id=\"p37\">Mis queridos hermanos y hermanas, las actividades que he descrito son tan solo una peque&#xF1;a parte del creciente programa humanitario y de bienestar de La Iglesia de Jesucristo de los Santos de los &#xDA;ltimos D&#xED;as<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>; y <em>ustedes<\/em> son quienes hacen posible todo ello. Debido a sus vidas ejemplares, su coraz&#xF3;n generoso y sus manos que ayudan, no es de sorprender que muchas comunidades y l&#xED;deres gubernamentales elogien sus esfuerzos<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"141769581\" id=\"p38\">Desde que llegu&#xE9; a ser Presidente de la Iglesia, me ha asombrado cu&#xE1;ntos presidentes, primeros ministros y embajadores me han agradecido sinceramente nuestra ayuda humanitaria a su pueblo; y tambi&#xE9;n han expresado gratitud por la fortaleza que nuestros miembros fieles aportan a su pa&#xED;s como leales ciudadanos que contribuyen.<\/p>\n<p data-aid=\"141769587\" id=\"p39\">Tambi&#xE9;n me he maravillado conforme los l&#xED;deres del mundo han visitado a la Primera Presidencia y han expresado <em>su esperanza<\/em> de que la Iglesia se establezca en su tierra. &#xBF;Por qu&#xE9;? Porque saben que los Santos de los &#xDA;ltimos D&#xED;as ayudar&#xE1;n a edificar familias y comunidades fuertes, y mejorar&#xE1;n la vida de los dem&#xE1;s <em>dondequiera<\/em> que vivan.<\/p>\n<p data-aid=\"141769593\" id=\"p40\">Sin importar cu&#xE1;l sea el lugar al que llamemos hogar, los miembros de la Iglesia creemos fervientemente en la paternidad de Dios y la hermandad del hombre. Por lo tanto, sentimos <em>nuestro<\/em> mayor gozo al ayudar a nuestros hermanos y hermanas, sin importar d&#xF3;nde vivamos en este mundo maravilloso.<\/p>\n<p data-aid=\"141769599\" id=\"p41\">Nuestro gozo es brindar ayuda a otras personas; hacer un esfuerzo concienzudo por preocuparnos por los dem&#xE1;s tanto o <em>m&#xE1;s<\/em> que por nosotros mismos; en especial, podr&#xED;a a&#xF1;adir, cuando no resulta oportuno y nos aleja de nuestra comodidad. <em>Vivir<\/em> el segundo gran mandamiento es la <em>clave<\/em> para llegar a ser un verdadero disc&#xED;pulo de Jesucristo.<\/p>\n<p data-aid=\"141769605\" id=\"p42\">Mis queridos hermanos y hermanas, ustedes son modelos vivientes de los frutos que provienen de seguir las ense&#xF1;anzas de Jesucristo. &#xA1;Gracias! &#xA1;Los amo!<\/p>\n<p data-aid=\"141769611\" id=\"p43\">S&#xE9; que Dios vive; Jes&#xFA;s es el Cristo; Su Iglesia ha sido restaurada en estos &#xFA;ltimos d&#xED;as para cumplir sus prop&#xF3;sitos divinos. De ello testifico, en el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "141769476",
+        "id": "note4",
+        "text": "<p data-aid=\"141769638\" id=\"note4_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/58.3-12?lang=spa#p3\">Isa&#xED;as 58:3&#x2013;12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/58.3-12?lang=spa#p3",
+          "text": "Isaías 58:3\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "141769488",
+        "id": "note5",
+        "text": "<p data-aid=\"141769643\" id=\"note5_p1\">En los primeros tiempos de la historia de la Iglesia, los valientes pioneros tambi&#xE9;n tuvieron hambre, carecieron de techo y fueron hostigados.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "141769396",
+        "id": "note2",
+        "text": "<p data-aid=\"141769628\" id=\"note2_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-39?lang=spa#p37\">Mateo 22:37&#x2013;39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.27?lang=spa#p27\">Lucas 10:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/22.37-39?lang=spa#p37",
+            "text": "Mateo 22:37\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/10.27?lang=spa#p27",
+            "text": "Lucas 10:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "141769447",
+        "id": "note3",
+        "text": "<p data-aid=\"141769633\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8-9?lang=spa#p8\">Mos&#xED;ah 18:8&#x2013;9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.8-9?lang=spa#p8",
+          "text": "Mosíah 18:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "141769520",
+        "id": "note8",
+        "text": "<p data-aid=\"141769660\" id=\"note8_p1\">V&#xE9;ase Organizaci&#xF3;n de las Naciones Unidas para la Alimentaci&#xF3;n y la Agricultura et al, <cite>El estado de la seguridad alimentaria y la nutrici&#xF3;n en el mundo, 2019<\/cite>, p&#xE1;g. 6, fao.org/3/ca5162es/ca5162es.pdf<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "141769545",
+        "id": "note9",
+        "text": "<p data-aid=\"141769666\" id=\"note9_p1\">V&#xE9;ase &#x201C;Worldwide Displacement Tops 70 Million, UN Refugee Chief Urges Greater Solidarity in Response&#x201D;, sitio web del Alto Comisionado de la ONU para Refugiados, 19 de junio de 2019, unhcr.org/en-us.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "141769575",
+        "id": "note11",
+        "text": "<p data-aid=\"141769677\" id=\"note11_p1\">&#x201C;El mejor folleto que podemos ofrecer es la bondad de nuestra propia vida&#x201D; (Gordon&#xA0;B. Hinckley, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/1999/04/find-the-lambs-feed-the-sheep?lang=spa&amp;para=39#p39\">Apacienta Mis Ovejas<\/a>&#x201D;, <cite>Liahona<\/cite>, julio de 1999, p&#xE1;g. 121).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1999/04/find-the-lambs-feed-the-sheep?lang=spa&para=39#p39",
+          "text": "Apacienta Mis Ovejas",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "141769488",
+        "id": "note6",
+        "text": "<p data-aid=\"141769648\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/15.11?lang=spa#p11\">Deuteronomio 15:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/deut/15.11?lang=spa#p11",
+          "text": "Deuteronomio 15:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "141769575",
+        "id": "note10",
+        "text": "<p data-aid=\"141769670\" id=\"note10_p1\">Para obtener m&#xE1;s informaci&#xF3;n sobre los esfuerzos de beneficencia de la Iglesia, visite <a href=\"http://www.churchofjesuschrist.org/topics/welfare\">ChurchofJesusChrist.org/topics/welfare<\/a>; <a href=\"https://www.LatterDaySaintCharities.org\">LatterDaySaintCharities.org<\/a>; <a href=\"http://www.facebook.com/LatterDaySaintCharities\">facebook.com/LatterDaySaintCharities<\/a>; <a href=\"https://www.JustServe.org\">JustServe.org<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "http://www.churchofjesuschrist.org/topics/welfare",
+            "text": "ChurchofJesusChrist.org/topics/welfare"
+          },
+          {
+            "href": "https://www.LatterDaySaintCharities.org",
+            "text": "LatterDaySaintCharities.org"
+          },
+          {
+            "href": "http://www.facebook.com/LatterDaySaintCharities",
+            "text": "facebook.com/LatterDaySaintCharities"
+          },
+          {
+            "href": "https://www.JustServe.org",
+            "text": "JustServe.org"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "141769505",
+        "id": "note7",
+        "text": "<p data-aid=\"141769655\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.35-36,40?lang=spa#p35\">Mateo 25:35&#x2013;36, 40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.35-36,40?lang=spa#p35",
+          "text": "Mateo 25:35\u201336, 40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "141769396",
+        "id": "note1",
+        "text": "<p data-aid=\"141769623\" id=\"note1_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=spa#p48\">Moroni 7:48<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.48?lang=spa#p48",
+          "text": "Moroni 7:48",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

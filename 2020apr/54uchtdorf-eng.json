@@ -1,0 +1,597 @@
+{
+  "tableOfContentsUri": "/ensign/2020/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2020/05/54uchtdorf",
+      "data-aid": "143140327",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "4dca8b38551c49db892ed9ac0b4e8402",
+      "data-aid-version": "1",
+      "data-orig-id": "4dca8b38551c49db892ed9ac0b4e8402"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147310662001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-5040-dieter-f-uchtdorf-64k-eng.mp3"
+    }],
+    "title": "Come and Belong",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "143140327",
+      {"key": "143140327"}
+    ],
+    [
+      "143140331",
+      {"key": "143140331"}
+    ],
+    [
+      "143140334",
+      {"key": "143140334"}
+    ],
+    [
+      "143140335",
+      {"key": "143140335"}
+    ],
+    [
+      "143140340",
+      {"key": "143140340"}
+    ],
+    [
+      "143140348",
+      {"key": "143140348"}
+    ],
+    [
+      "143140358",
+      {"key": "143140358"}
+    ],
+    [
+      "143140362",
+      {"key": "143140362"}
+    ],
+    [
+      "143140365",
+      {"key": "143140365"}
+    ],
+    [
+      "143140368",
+      {"key": "143140368"}
+    ],
+    [
+      "143140372",
+      {"key": "143140372"}
+    ],
+    [
+      "143140377",
+      {"key": "143140377"}
+    ],
+    [
+      "143140382",
+      {"key": "143140382"}
+    ],
+    [
+      "143140387",
+      {"key": "143140387"}
+    ],
+    [
+      "143140392",
+      {"key": "143140392"}
+    ],
+    [
+      "143140399",
+      {"key": "143140399"}
+    ],
+    [
+      "143140401",
+      {"key": "143140401"}
+    ],
+    [
+      "143140410",
+      {"key": "143140410"}
+    ],
+    [
+      "143140415",
+      {"key": "143140415"}
+    ],
+    [
+      "143140420",
+      {"key": "143140420"}
+    ],
+    [
+      "143140425",
+      {"key": "143140425"}
+    ],
+    [
+      "143140427",
+      {"key": "143140427"}
+    ],
+    [
+      "143140431",
+      {"key": "143140431"}
+    ],
+    [
+      "143140437",
+      {"key": "143140437"}
+    ],
+    [
+      "143140443",
+      {"key": "143140443"}
+    ],
+    [
+      "143140446",
+      {"key": "143140446"}
+    ],
+    [
+      "143140453",
+      {"key": "143140453"}
+    ],
+    [
+      "143140456",
+      {"key": "143140456"}
+    ],
+    [
+      "143140459",
+      {"key": "143140459"}
+    ],
+    [
+      "143140464",
+      {"key": "143140464"}
+    ],
+    [
+      "143140470",
+      {"key": "143140470"}
+    ],
+    [
+      "143140475",
+      {"key": "143140475"}
+    ],
+    [
+      "143140479",
+      {"key": "143140479"}
+    ],
+    [
+      "143140481",
+      {"key": "143140481"}
+    ],
+    [
+      "143140485",
+      {"key": "143140485"}
+    ],
+    [
+      "143140489",
+      {"key": "143140489"}
+    ],
+    [
+      "143140492",
+      {"key": "143140492"}
+    ],
+    [
+      "143140499",
+      {"key": "143140499"}
+    ],
+    [
+      "143140504",
+      {"key": "143140504"}
+    ],
+    [
+      "143140508",
+      {"key": "143140508"}
+    ],
+    [
+      "143140510",
+      {"key": "143140510"}
+    ],
+    [
+      "143140516",
+      {"key": "143140516"}
+    ],
+    [
+      "143140518",
+      {"key": "143140518"}
+    ],
+    [
+      "143140523",
+      {"key": "143140523"}
+    ],
+    [
+      "143140526",
+      {"key": "143140526"}
+    ],
+    [
+      "143140530",
+      {"key": "143140530"}
+    ],
+    [
+      "143140532",
+      {"key": "143140532"}
+    ],
+    [
+      "143140537",
+      {"key": "143140537"}
+    ],
+    [
+      "143140540",
+      {"key": "143140540"}
+    ],
+    [
+      "143140544",
+      {"key": "143140544"}
+    ],
+    [
+      "143140548",
+      {"key": "143140548"}
+    ],
+    [
+      "143140551",
+      {"key": "143140551"}
+    ],
+    [
+      "143140552",
+      {"key": "143140552"}
+    ],
+    [
+      "143140554",
+      {"key": "143140554"}
+    ],
+    [
+      "143140555",
+      {"key": "143140555"}
+    ],
+    [
+      "143140557",
+      {"key": "143140557"}
+    ],
+    [
+      "143140558",
+      {"key": "143140558"}
+    ],
+    [
+      "143140559",
+      {"key": "143140559"}
+    ],
+    [
+      "143140560",
+      {"key": "143140560"}
+    ],
+    [
+      "143140561",
+      {"key": "143140561"}
+    ],
+    [
+      "143140562",
+      {"key": "143140562"}
+    ],
+    [
+      "143140563",
+      {"key": "143140563"}
+    ],
+    [
+      "143140564",
+      {"key": "143140564"}
+    ],
+    [
+      "143140565",
+      {"key": "143140565"}
+    ],
+    [
+      "143140566",
+      {"key": "143140566"}
+    ],
+    [
+      "143140567",
+      {"key": "143140567"}
+    ],
+    [
+      "143140568",
+      {"key": "143140568"}
+    ],
+    [
+      "143140569",
+      {"key": "143140569"}
+    ],
+    [
+      "143140570",
+      {"key": "143140570"}
+    ],
+    [
+      "143140571",
+      {"key": "143140571"}
+    ],
+    [
+      "143140572",
+      {"key": "143140572"}
+    ],
+    [
+      "143140573",
+      {"key": "143140573"}
+    ],
+    [
+      "143140574",
+      {"key": "143140574"}
+    ],
+    [
+      "143140575",
+      {"key": "143140575"}
+    ],
+    [
+      "143140576",
+      {"key": "143140576"}
+    ],
+    [
+      "143140577",
+      {"key": "143140577"}
+    ],
+    [
+      "143140578",
+      {"key": "143140578"}
+    ],
+    [
+      "143140579",
+      {"key": "143140579"}
+    ],
+    [
+      "143140580",
+      {"key": "143140580"}
+    ],
+    [
+      "143140581",
+      {"key": "143140581"}
+    ],
+    [
+      "143140582",
+      {"key": "143140582"}
+    ],
+    [
+      "143140583",
+      {"key": "143140583"}
+    ],
+    [
+      "143140584",
+      {"key": "143140584"}
+    ],
+    [
+      "143140585",
+      {"key": "143140585"}
+    ],
+    [
+      "143140586",
+      {"key": "143140586"}
+    ],
+    [
+      "143140587",
+      {"key": "143140587"}
+    ],
+    [
+      "143140588",
+      {"key": "143140588"}
+    ],
+    [
+      "143140589",
+      {"key": "143140589"}
+    ],
+    [
+      "143140590",
+      {"key": "143140590"}
+    ]
+  ],
+  "uri": "/ensign/2020/05/54uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Come and Belong",
+          "title": "Come and Belong"
+        },
+        "pageSocial": {
+          "description": "Come and Belong",
+          "title": "Come and Belong"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/54uchtdorf?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147310662001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147310662001\" data-video-id=\"6147310662001\" data-video-title=\"Dieter F. Uchtdorf\" data-ref-id=\"32DCCDEAC101C1911FD7D441AADFAC163C6A75C4\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147310662001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147310662001/640/360/995000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"126626241\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147310662001/1280/720/2126000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"270073178\"><\/video><h1 data-aid=\"143140331\" id=\"title1\">Come and Belong<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143140334\" id=\"author1\">By Elder Dieter&#xA0;F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"143140335\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143140340\" id=\"kicker1\">We invite all of God&#x2019;s children throughout the world to join us in this great endeavor.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143140348\" id=\"p1\">My dear brothers and sisters, my dear friends, each week members of The Church of Jesus Christ of Latter-day Saints all around the globe worship our beloved Heavenly Father, the God and King of the universe, and His Beloved Son, Jesus Christ. We ponder the life and teachings of Jesus Christ&#xFEFF;&#x2014;the only sinless soul who ever lived, the spotless Lamb of God. As often as we can, we partake of the sacrament in remembrance of His sacrifice and recognize that He is the center in our lives.<\/p>\n<p data-aid=\"143140358\" id=\"p2\">We love Him and we honor Him. Because of His profound and eternal love, Jesus Christ suffered and died for you and me. He broke open the gates of death, shattered the barriers that separated friends and loved ones,<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> and brought hope to the hopeless, healing to the sick, and deliverance to the captive.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"143140362\" id=\"p3\">To Him we dedicate our hearts, our lives, and our daily devotion. For this reason, &#x201C;we talk of Christ, we rejoice in Christ, [and] we preach of Christ, &#x2026; that our children may know to what source they may look for a remission of their sins.&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<section>\n<header>\n<h2 data-aid=\"143140365\" id=\"title2\">Practicing Discipleship<\/h2>\n<\/header>\n<p data-aid=\"143140368\" id=\"p4\">However, being a disciple of Jesus Christ involves much more than talking and preaching of Christ. The Savior Himself restored His Church to help us on the path to become more like Him. The Church of Jesus Christ of Latter-day Saints is structured to provide opportunities to practice the fundamentals of discipleship. Through our participation in the Church, we learn to recognize and act on the promptings of the Holy Spirit. We develop the disposition of reaching out in compassion and kindness to others.<\/p>\n<p data-aid=\"143140372\" id=\"p5\">This is an effort of a lifetime, and it requires practice.<\/p>\n<p data-aid=\"143140377\" id=\"p6\">Accomplished athletes spend countless hours practicing the fundamentals of their sports. Nurses, networkers, nuclear engineers, and even I as a competitive hobby cook in Harriet&#x2019;s kitchen become capable and skilled only as we diligently practice our craft.<\/p>\n<p data-aid=\"143140382\" id=\"p7\">As an airline captain, I often trained pilots using a flight simulator&#xFEFF;&#x2014;a sophisticated machine that replicates the flying experience. The simulator not only helps pilots learn the fundamentals of flying; it also allows them to experience and react to unexpected events they could encounter when they take command of the real aircraft.<\/p>\n<p data-aid=\"143140387\" id=\"p61\">The same principles apply for disciples of Jesus Christ.<\/p>\n<p data-aid=\"143140392\" id=\"p8\">Actively participating in the Church of Jesus Christ and its great variety of opportunities will help us to be better prepared for life&#x2019;s changing circumstances, whatever and however serious they may be. As members of the Church, we are encouraged to immerse ourselves in the words of God through His prophets, ancient and modern. Through sincere and humble prayer to our Heavenly Father, we learn to recognize the voice of the Holy Spirit. We accept calls to serve, teach, plan, minister, and administer. These opportunities allow us to grow in spirit, mind, and character. <\/p>\n<p data-aid=\"143140399\" id=\"p60\">They will help us prepare to make and keep sacred covenants that will bless us in this life and in the life to come.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140401\" id=\"title3\">Come, Join with Us!<\/h2>\n<\/header>\n<p data-aid=\"143140410\" id=\"p9\">We invite all of God&#x2019;s children throughout the world to join us in this great endeavor. Come and see! Even during this challenging time of COVID-19, meet with us online. Meet with our missionaries online. Find out for yourself what this Church is all about! When this difficult time has passed, meet with us in our homes and in our worship places!<\/p>\n<p data-aid=\"143140415\" id=\"p10\">We invite you to come and help! Come and serve with us, ministering to God&#x2019;s children, following in the footsteps of the Savior, and making this world a better place.<\/p>\n<p data-aid=\"143140420\" id=\"p11\">Come and belong! You will make us stronger. And you will become better, kinder, and happier as well. Your faith will deepen and grow more resilient&#xFEFF;&#x2014;more capable of withstanding the turbulences and unexpected trials of life.<\/p>\n<p data-aid=\"143140425\" id=\"p12\">And how do we start? There are many possible ways.<\/p>\n<p data-aid=\"143140427\" id=\"p13\">We invite you to read the Book of Mormon. If you don&#x2019;t have a copy, you can read it on ChurchofJesusChrist.org<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> or download the Book of Mormon app. The Book of Mormon is another testament of Jesus Christ and a companion to the Old and New Testaments. We love all of these holy scriptures and learn from them.<\/p>\n<p data-aid=\"143140431\" id=\"p14\">We invite you to spend some time at <a href=\"https://www.comeuntochrist.org/\">ComeuntoChrist.org<\/a> to find out what members of the Church teach and believe.<\/p>\n<p data-aid=\"143140437\" id=\"p15\">Invite the missionaries to visit with you online or in the privacy of your home where this is possible&#xFEFF;&#x2014;they have a message of hope and healing. These missionaries are our precious sons and daughters who serve in many places around the world on their own time and money.<\/p>\n<p data-aid=\"143140443\" id=\"p16\">In the Church of Jesus Christ, you will find a family of people who are not so different from you. You will find people who need your help and who want to help you as you strive to become the best version of yourself&#xFEFF;&#x2014;the person God created you to become.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140446\" id=\"title4\">The Savior&#x2019;s Embrace Extends to All<\/h2>\n<\/header>\n<p data-aid=\"143140453\" id=\"p17\">You might be thinking, &#x201C;I have made mistakes in my life. I&#x2019;m not sure I could ever feel like I belong in the Church of Jesus Christ. God couldn&#x2019;t be interested in someone like me.&#x201D;<\/p>\n<p data-aid=\"143140456\" id=\"p18\">Jesus the Christ, though He is &#x201C;the King of kings,&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> the Messiah, &#x201C;the Son of the living God,&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> does care deeply about each and every one of God&#x2019;s children. He cares regardless of a person&#x2019;s position&#xFEFF;&#x2014;how poor or rich, how imperfect or proven someone is. During His mortal life, the Savior ministered to all: to the happy and accomplished, to the broken and lost, and to those without hope. Often, the people He served and ministered to were not individuals of prominence, beauty, or wealth. Often, the people He lifted up had little to offer in return but gratitude, a humble heart, and the desire to have faith.<\/p>\n<p data-aid=\"143140459\" id=\"p19\">If Jesus spent His mortal life ministering to &#x201C;the least of these,&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> would He not love them today? Is there not a place in His Church for all of God&#x2019;s children? Even for those who feel unworthy, forgotten, or alone?<\/p>\n<p data-aid=\"143140464\" id=\"p20\">There is no threshold of perfection you must attain in order to qualify for God&#x2019;s grace. Your prayers do not have to be loud or eloquent or grammatically correct in order to reach heaven.<\/p>\n<p data-aid=\"143140470\" id=\"p21\">In truth, God does not show favoritism<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>&#xFEFF;&#x2014;the things the world values mean nothing to Him. He knows your heart, and He loves you regardless of your title, financial net worth, or number of Instagram followers.<\/p>\n<p data-aid=\"143140475\" id=\"p22\">As we incline our hearts to our Heavenly Father and draw near to Him, we will feel Him draw near to us.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"143140479\" id=\"p23\">We are His beloved children.<\/p>\n<p data-aid=\"143140481\" id=\"p24\">Even those who reject Him.<\/p>\n<p data-aid=\"143140485\" id=\"p25\">Even those who, like a headstrong, unruly child, become angry with God and His Church, pack their bags, and storm out the door proclaiming that they&#x2019;re running away and never coming back.<\/p>\n<p data-aid=\"143140489\" id=\"p26\">When a child runs away from home, he or she may not notice the concerned parents looking out the window. With tender hearts, they watch their son or daughter go&#xFEFF;&#x2014;hoping their precious child will learn something from this heartrending experience and perhaps see life with new eyes&#xFEFF;&#x2014;and eventually return home.<\/p>\n<p data-aid=\"143140492\" id=\"p27\">So it is with our loving Heavenly Father. He is waiting for our return.<\/p>\n<p data-aid=\"143140499\" id=\"p28\">Your Savior, tears of love and compassion in His eyes, awaits your return. Even when you feel far away from God, He will see you; He will have compassion for you and run to embrace you.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143140504\" id=\"p29\">Come and belong.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140508\" id=\"title5\">God Allows Us to Learn from Our Mistakes<\/h2>\n<\/header>\n<p data-aid=\"143140510\" id=\"p30\">We are pilgrims walking the road of mortality in a grand search for meaning and ultimate truth. Often, all we see is the path directly ahead&#xFEFF;&#x2014;we cannot see where the bends in the road will lead. Our loving Heavenly Father has not given us every answer. He expects us to figure out many things for ourselves. He expects us to believe&#xFEFF;&#x2014;even when it&#x2019;s difficult to do so.<\/p>\n<p data-aid=\"143140516\" id=\"p31\">He expects us to straighten our shoulders and develop a little resolve&#xFEFF;&#x2014;a little backbone&#xFEFF;&#x2014;and take another step forward.<\/p>\n<p data-aid=\"143140518\" id=\"p32\">That is the way we learn and grow.<\/p>\n<p data-aid=\"143140523\" id=\"p33\">Would you honestly want everything spelled out in every detail? Would you honestly want every question answered? Every destination mapped out?<\/p>\n<p data-aid=\"143140526\" id=\"p34\">I believe most of us would tire very quickly of this sort of heavenly micromanagement. We learn the important lessons of life through experience. Through learning from our mistakes. Through repenting and realizing for ourselves that &#x201C;wickedness never was happiness.&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"143140530\" id=\"p35\">Jesus Christ, the Son of God, died so that our mistakes might not condemn us and forever halt our progress. Because of Him, we can repent, and our mistakes can become stepping-stones to greater glory.<\/p>\n<p data-aid=\"143140532\" id=\"p36\">You don&#x2019;t have to walk this road alone. Our Heavenly Father has not left us to wander in darkness.<\/p>\n<p data-aid=\"143140537\" id=\"p37\">This is why, in the spring of 1820, He appeared with His Son, Jesus Christ, to a young man, Joseph Smith.<\/p>\n<p data-aid=\"143140540\" id=\"p38\">Think of that for a moment! The God of the universe appeared to man!<\/p>\n<p data-aid=\"143140544\" id=\"p39\">This was the first of many encounters Joseph had with God and other heavenly beings. Many of the words these divine beings spoke to him are recorded in the scriptures of The Church of Jesus Christ of Latter-day Saints. They are easily accessible. Anyone can read them and learn for themselves the message God has for us in our day.<\/p>\n<p data-aid=\"143140548\" id=\"p40\">We invite you to study them for yourself.<\/p>\n<p data-aid=\"143140551\" id=\"p41\">Joseph Smith was quite young when he received these revelations. Most of them came before he was 30 years old.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> He lacked experience, and to some people, he probably seemed underqualified to be the Lord&#x2019;s prophet.<\/p>\n<p data-aid=\"143140552\" id=\"p42\">And yet the Lord called him anyway&#xFEFF;&#x2014;following a pattern we find throughout the holy scriptures.<\/p>\n<p data-aid=\"143140554\" id=\"p43\">God didn&#x2019;t wait to find a perfect person to restore His gospel.<\/p>\n<p data-aid=\"143140555\" id=\"p44\">If He had, He would still be waiting.<\/p>\n<p data-aid=\"143140557\" id=\"p45\">Joseph was a lot like you and me. Though Joseph made mistakes, God used him to accomplish His great purposes.<\/p>\n<p data-aid=\"143140558\" id=\"p46\">President Thomas&#xA0;S. Monson often repeated these words of advice: &#x201C;Whom the Lord calls, the Lord qualifies.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"143140559\" id=\"p47\">The Apostle Paul reasoned with the Saints in Corinth: &#x201C;Consider your own call, brothers and sisters: not many of you were wise by human standards, not many were powerful, not many were of noble birth.&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"143140560\" id=\"p48\">God uses the weak and the plain to bring about His purposes. This truth stands as a testimony that it is God&#x2019;s power, not man&#x2019;s, that accomplishes His work on the earth.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140561\" id=\"title6\">Hear Him, Follow Him<\/h2>\n<\/header>\n<p data-aid=\"143140562\" id=\"p49\">When God appeared to Joseph Smith, He introduced His Son, Jesus Christ, and said, &#x201C;Hear Him!&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"143140563\" id=\"p50\">Joseph spent the rest of his life hearing Him and following Him.<\/p>\n<p data-aid=\"143140564\" id=\"p51\">As with Joseph, our discipleship begins with our decision to hear and follow the Savior Jesus Christ.<\/p>\n<p data-aid=\"143140565\" id=\"p52\">If you desire to follow Him, gather your faith and take upon yourself His cross.<\/p>\n<p data-aid=\"143140566\" id=\"p53\">You will find that you <em>do<\/em> belong in His Church&#xFEFF;&#x2014;a place of warmth and welcoming where you can join in the grand pursuit of discipleship and happiness.<\/p>\n<p data-aid=\"143140567\" id=\"p54\">It is my hope that, in this bicentennial year of the First Vision, as we contemplate and learn of the Restoration of the Church of Jesus Christ, we will realize that it is not just a historical event. You and I play a crucial part in this great, continuing story.<\/p>\n<p data-aid=\"143140568\" id=\"p55\">What, then, is your and my part?<\/p>\n<p data-aid=\"143140569\" id=\"p62\">It is to learn of Jesus Christ. To study His words. To hear Him and to follow Him by actively participating in this great work. I invite you to come and belong!<\/p>\n<p data-aid=\"143140570\" id=\"p56\">You don&#x2019;t have to be perfect. You only have to have a desire to develop your faith and draw nearer to Him each day.<\/p>\n<p data-aid=\"143140571\" id=\"p57\">Our part is to love and serve God and to love and serve God&#x2019;s children.<\/p>\n<p data-aid=\"143140572\" id=\"p58\">As you do so, God will encircle you with His love, joy, and certain guidance through this life, even under the most serious circumstances, and even beyond.<\/p>\n<p data-aid=\"143140573\" id=\"p59\">Of this I testify and leave you my blessing in deep gratitude and love for each one of you, in the sacred name of our Savior, our Master&#xFEFF;&#x2014;in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "143140427",
+        "id": "note4",
+        "text": "<p data-aid=\"143140578\" id=\"note4_p1\">See the Book of Mormon at <a class=\"cross-ref\" href=\"/study/scriptures/bofm/_recordable-toc?lang=eng&amp;verse=title1#title1\">ChurchofJesusChrist.org/study/scriptures/bofm<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/_recordable-toc?lang=eng&verse=title1#title1",
+          "text": "ChurchofJesusChrist.org/study/scriptures/bofm",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "143140456",
+        "id": "note5",
+        "text": "<p data-aid=\"143140579\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/6.15?lang=eng#p15\">1&#xA0;Timothy 6:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-tim/6.15?lang=eng#p15",
+          "text": "1 Timothy 6:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "143140358",
+        "id": "note2",
+        "text": "<p data-aid=\"143140576\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.18?lang=eng#p18\">Luke 4:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/4.18?lang=eng#p18",
+          "text": "Luke 4:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "143140362",
+        "id": "note3",
+        "text": "<p data-aid=\"143140577\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=eng#p26\">2&#xA0;Nephi 25:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25.26?lang=eng#p26",
+          "text": "2 Nephi 25:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "143140470",
+        "id": "note8",
+        "text": "<p data-aid=\"143140582\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.34?lang=eng#p34\">Acts 10:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10.34?lang=eng#p34",
+          "text": "Acts 10:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "143140475",
+        "id": "note9",
+        "text": "<p data-aid=\"143140583\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63?lang=eng#p63\">Doctrine and Covenants 88:63<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.63?lang=eng#p63",
+          "text": "Doctrine and Covenants 88:63",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "143140456",
+        "id": "note6",
+        "text": "<p data-aid=\"143140580\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.15-17?lang=eng#p15\">Matthew 16:15&#x2013;17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/16.15-17?lang=eng#p15",
+          "text": "Matthew 16:15\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "143140459",
+        "id": "note7",
+        "text": "<p data-aid=\"143140581\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.40?lang=eng#p40\">Matthew 25:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.40?lang=eng#p40",
+          "text": "Matthew 25:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "143140562",
+        "id": "note16",
+        "text": "<p data-aid=\"143140590\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith&#xFEFF;&#x2014;History 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
+          "text": "Joseph Smith﻿\u2014History 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "143140560",
+        "id": "note15",
+        "text": "<p data-aid=\"143140589\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/1.28-29?lang=eng#p28\">1&#xA0;Corinthians 1:28&#x2013;29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4.7?lang=eng#p7\">2&#xA0;Corinthians 4:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/1.28-29?lang=eng#p28",
+            "text": "1 Corinthians 1:28\u201329",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/2-cor/4.7?lang=eng#p7",
+            "text": "2 Corinthians 4:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "143140559",
+        "id": "note14",
+        "text": "<p data-aid=\"143140588\" id=\"note14_p1\">1&#xA0;Corinthians 1:26, New Revised Standard Version.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "143140558",
+        "id": "note13",
+        "text": "<p data-aid=\"143140587\" id=\"note13_p1\">Thomas&#xA0;S. Monson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/1996/04/duty-calls?lang=eng\">Duty Calls<\/a>,&#x201D; <cite>Ensign,<\/cite> May 1996, 44.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1996/04/duty-calls?lang=eng",
+          "text": "Duty Calls",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "143140551",
+        "id": "note12",
+        "text": "<p data-aid=\"143140586\" id=\"note12_p1\">For example, of the 138 sections of the Doctrine and Covenants, more than 100 are revelations that Joseph Smith received before his 30th birthday, on December&#xA0;23, 1835.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "143140526",
+        "id": "note11",
+        "text": "<p data-aid=\"143140585\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41.10?lang=eng#p10\">Alma 41:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41.10?lang=eng#p10",
+          "text": "Alma 41:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "143140499",
+        "id": "note10",
+        "text": "<p data-aid=\"143140584\" id=\"note10_p1\">See the reaction of the father who sees the return of his prodigal son in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15.20?lang=eng#p20\">Luke 15:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/15.20?lang=eng#p20",
+          "text": "Luke 15:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "143140358",
+        "id": "note1",
+        "text": "<p data-aid=\"143140575\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2.13-14?lang=eng#p13\">Ephesians 2:13&#x2013;14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/2.13-14?lang=eng#p13",
+          "text": "Ephesians 2:13\u201314",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}
