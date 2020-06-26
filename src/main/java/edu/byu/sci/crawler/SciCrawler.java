@@ -1,11 +1,8 @@
 package edu.byu.sci.crawler;
 
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -14,7 +11,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Stream;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -24,13 +20,22 @@ import org.json.JSONObject;
 
 public class SciCrawler {
 
+    private static final String HYPHEN = "-";
+    private static final String NDASH = "–";
+
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
     private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
+    private static final String URL_LIAHONA = URL_BASE + "/study/liahona";
 
-    private final int month;
+    private static final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
+
     private final String monthString;
     private final int year;
     private final String conferencePath;
+
+    private Pattern referencePattern;
+
+    private final Books books = new Books();
 
     private final List<String> talkIds = new ArrayList<>();
     private final Map<String, String> talkHrefs = new HashMap<>();
@@ -39,7 +44,6 @@ public class SciCrawler {
 
     public SciCrawler(int year, int month) {
         this.year = year;
-        this.month = month;
         monthString = month == 4 ? "05" : "11";
         conferencePath = year + (month == 4 ? "apr" : "oct");
     }
@@ -57,9 +61,9 @@ public class SciCrawler {
             }
         }
 
-        if (year < 2020 || month < 0 || (month != 4 && month != 10) || year > 2040) {
+        if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050) {
             System.err.println("Usage: SciCrawler year month");
-            System.err.println("    where year is 2020 to 2040 and month is either 4 or 10");
+            System.err.println("    where year is 1970 to 2050 and month is either 4 or 10");
             System.exit(-1);
         }
 
@@ -70,14 +74,36 @@ public class SciCrawler {
 //        crawler.crawl("spa");
     }
 
+    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+        String[] tags = {"scriptures/bd", "scriptures/gs", "scriptures/tg"};
+
+        for (String tag : tags) {
+            if (href.contains(tag)) {
+                return;
+            }
+        }
+
+        Link link = new Link(talkId, href, text);
+
+        link.addParsedToList(links);
+    }
+
     private void crawl(String language) {
         List<Link> scriptureLinks = new ArrayList<>();
+
+        String pattern = "\\/study\\/scriptures\\/"
+                + "(?:ot|nt|bofm|dc-testament|pgp|jst)\\/"
+                + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam|2-sam|1-kgs|2-kgs|1-chr|2-chr|ezra|neh|esth|job|ps|prov|eccl|song|isa|jer|lam|ezek|dan|hosea|joel|amos|obad|jonah|micah|nahum|hab|zeph|hag|zech|mal|matt|mark|luke|john|acts|rom|1-cor|2-cor|gal|eph|philip|col|1-thes|2-thes|1-tim|2-tim|titus|philem|heb|james|1-pet|2-pet|1-jn|2-jn|3-jn|jude|rev|bofm-title|introduction|three|eight|1-ne|2-ne|jacob|enos|jarom|omni|w-of-m|mosiah|alma|hel|3-ne|4-ne|morm|ether|moro|dc|od|moses|abr|js-m|js-h|fac-1|fac-2|fac-3|a-of-f))"
+                + "(?:(?:\\/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)|study_intro[0-9])?)?"
+                + "[?]lang=" + language + "(#p[A-Za-z0-9_-]+)?";
+
+        referencePattern = Pattern.compile(pattern);
 
         // For each talkId, get its contents JSON
         talkIds.forEach((talkId) -> {
             System.out.println("Get " + talkId);
 
-            File talkFile = new File(conferencePath + "/" + talkId + "-"
+            File talkFile = new File(conferencePath + "/" + talkId + HYPHEN
                     + language + ".json");
             JSONObject talkJson;
 
@@ -85,9 +111,9 @@ public class SciCrawler {
                 // Save talk if we haven't yet crawled it
                 talkJson = new JSONObject(urlContent(talkUrl(talkId, language)));
 
-                writeStringToFile(talkJson.toString(2), talkFile);
+                FileUtils.writeStringToFile(talkJson.toString(2), talkFile);
             } else {
-                talkJson = new JSONObject(stringFromFile(talkFile));
+                talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
             }
 
             JSONObject talkContent = talkJson.getJSONObject("content");
@@ -105,7 +131,8 @@ public class SciCrawler {
             Link link = scriptureLinks.get(i);
 
             System.out.println((i + 1) + "\t" + link.talkId + "\t" + link.href
-                    + "\t" + link.text);
+                    + "\t" + link.text + "\t" + link.book + "\t" + link.chapter
+                    + "\t" + link.verses + "\t" + link.isJst);
         }
     }
 
@@ -115,7 +142,7 @@ public class SciCrawler {
                 .replace("”", "&rdquo;")
                 .replace("’", "&rsquo;")
                 .replace("—", "&mdash;")
-                .replace("–", "&ndash;");
+                .replace(NDASH, "&ndash;");
     }
 
     private String extractMatch(String text, String regex) {
@@ -145,8 +172,7 @@ public class SciCrawler {
 
                     if (uri.has("href") && uri.has("type") && uri.has("text")
                             && uri.getString("type").equals("scripture-ref")) {
-                        // NEEDSWORK: skip links that are /bd/, /gs/, etc.
-                        links.add(new Link(talkId, uri.getString("href"), uri.getString("text")));
+                        addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"));
                     }
                 });
             }
@@ -157,7 +183,7 @@ public class SciCrawler {
         Matcher matcher = Pattern.compile("<a\\s+class=\"scripture-ref\"\\s+href=\"([^\"]+)\"[^>]*>([^<]*)<").matcher(content);
 
         while (matcher.find()) {
-            links.add(new Link(talkId, matcher.group(1), matcher.group(2)));
+            addFilteredLink(links, talkId, matcher.group(1), matcher.group(2));
         }
     }
 
@@ -165,14 +191,19 @@ public class SciCrawler {
         int sessionNumber = 0;
         int talkNumber = 0;
         String url = URL_ENSIGN + "/" + year + "/" + monthString + "?lang=eng";
+        File conferenceDirectory = new File(conferencePath);
         File cachedContent = new File(conferencePath + "/contents.html");
         String content;
 
+        if (!conferenceDirectory.exists()) {
+            conferenceDirectory.mkdir();
+        }
+
         if (cachedContent.exists()) {
-            content = stringFromFile(cachedContent);
+            content = FileUtils.stringFromFile(cachedContent);
         } else {
             content = urlContent(url);
-            writeStringToFile(content, cachedContent);
+            FileUtils.writeStringToFile(content, cachedContent);
         }
 
         if (content != null) {
@@ -253,23 +284,11 @@ public class SciCrawler {
         }
     }
 
-    private String stringFromFile(File file) {
-        StringBuilder contentBuilder = new StringBuilder();
-
-        try ( Stream<String> stream = Files.lines(Paths.get(file.getPath()),
-                StandardCharsets.UTF_8)) {
-            stream.forEach(s -> contentBuilder.append(s).append("\n"));
-        } catch (IOException e) {
-            e.printStackTrace(System.err);
-        }
-
-        return contentBuilder.toString();
-    }
-
     private String talkUrl(String talkId, String language) {
         return URL_BASE + "/study/api/v3/language-pages/type/content?lang="
-                + language + "&uri=%2Fensign%2F"
-                + year + "%2F" + monthString + "%2F" + talkId;
+                + language + "&uri=%2F"
+                + (language.equals("eng") ? "ensign" : "liahona")
+                + "%2F" + year + "%2F" + monthString + "%2F" + talkId;
     }
 
     private String urlContent(String url) {
@@ -294,26 +313,158 @@ public class SciCrawler {
         return content;
     }
 
-    private void writeStringToFile(String content, File file) {
-        try {
-            try ( FileOutputStream stream = new FileOutputStream(file)) {
-                stream.write(content.getBytes(StandardCharsets.UTF_8));
-            }
-        } catch (IOException e) {
-            e.printStackTrace(System.err);
-        }
-    }
-
     private class Link {
 
         String talkId;
         String href;
         String text;
+        String book;
+        String chapter;
+        String verses;
+        boolean isJst;
 
         Link(String talkId, String href, String text) {
             this.talkId = talkId;
             this.href = href;
             this.text = text;
+        }
+
+        Link(String talkId, String href, String text, String book,
+                String chapter, String verses, boolean isJst) {
+            this.talkId = talkId;
+            this.href = href;
+            this.text = text;
+            this.book = book;
+            this.chapter = chapter;
+            this.verses = verses;
+            this.isJst = isJst;
+        }
+
+        Link(Link source) {
+            this.talkId = source.talkId;
+            this.href = source.href;
+            this.text = source.text;
+            this.book = source.book;
+            this.chapter = source.chapter;
+            this.verses = source.verses;
+            this.isJst = source.isJst;
+        }
+
+        public void addParsedToList(List<Link> links) {
+            links.add(this);
+
+            Matcher matcher = referencePattern.matcher(href);
+
+            if (matcher.find()) {
+                book = matcher.group(1);
+                chapter = matcher.group(2);
+                verses = matcher.group(3);
+                isJst = book.startsWith("jst-");
+
+                JSONObject bookObject = bookObjectForThis();
+
+                if (bookObject == null) {
+                    System.out.println(">>>>>>>>>>>>> Unable to find book " + book);
+                } else {
+                    if (chapter != null) {
+                        int maxVerse = books.maxVerseForBookIdChapter(bookObject.getInt("id"), Integer.parseInt(chapter), isJst);
+
+                        if (verses != null) {
+                            String[] verseList = verses.split("(,|" + HYPHEN + "|" + NDASH + ")");
+
+                            for (String verse : verseList) {
+                                int verseValue = Integer.parseInt(verse);
+
+                                if (book.equals("js-h") && verseValue >= 76 && verseValue <= 82) {
+                                    // NEEDSWORK: this is a reference to JS—H 1:endnote
+                                    // which we should map to verse 1000 for our database
+                                } else if (verseValue > maxVerse) {
+                                    System.out.println(">>>>>>>>>>>>> Verse out of range "
+                                            + book + " " + chapter + ":" + verses
+                                            + " (" + verse + ")");
+                                    break;
+                                }
+                            }
+                        } else {
+                            verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
+
+                            addLinksForReferencedChaptersOtherThanChapter(links, integerValue(chapter));
+                        }
+                    } else {
+                        // There is no chapter given; if the book should have
+                        // a chapter, this could be a problem.
+                        if (bookObject.getInt("numChapters") > 0) {
+                            System.out.println(">>>>>>>>>>>>> Book should have chapter " + book);
+                        }
+                    }
+                }
+            } else {
+                System.out.println(">>>>>>>>>>>>> No match for " + href);
+            }
+        }
+
+        private void addLinkForReferencedChapter(List<Link> links, int chapter) {
+            Link link = new Link(this);
+            JSONObject bookObject = bookObjectForThis();
+            int maxVerse = books.maxVerseForBookIdChapter(bookObject.getInt("id"), chapter, isJst);
+
+            link.chapter = "" + chapter;
+            link.verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
+            links.add(link);
+        }
+
+        private void addLinksForReferencedChaptersOtherThanChapter(List<Link> links, int baseChapter) {
+            String[] parts = text.split(String.format(WITH_DELIMITER, "[^0-9]+"));
+
+            for (int i = 0; i < parts.length; i++) {
+                int chapter = integerValue(parts[i]);
+
+                if (chapter > 0 && i + 2 < parts.length) {
+                    // Process a disjunction or a range
+                    int endChapter = integerValue(parts[i + 2]);
+
+                    if ((parts[i + 1].contains(HYPHEN) || parts[i + 1].contains(NDASH))
+                            && endChapter > 0) {
+                        // This is a range
+                        for (int chap = chapter; chap <= endChapter; chap++) {
+                            if (chap != baseChapter) {
+                                addLinkForReferencedChapter(links, chap);
+                            }
+                        }
+                    } else {
+                        // This is a disjunction
+                        if (chapter > baseChapter && chapter > 0) {
+                            addLinkForReferencedChapter(links, chapter);
+                        }
+
+                        if (endChapter > baseChapter && endChapter > 0) {
+                            addLinkForReferencedChapter(links, endChapter);
+                        }
+                    }
+
+                    i += 2;
+                } else if (chapter > 0 && chapter > baseChapter) {
+                    addLinkForReferencedChapter(links, chapter);
+                }
+            }
+        }
+
+        private JSONObject bookObjectForThis() {
+            String bookKey = book;
+
+            if (book.startsWith("jst-")) {
+                bookKey = book.substring(4);
+            }
+
+            return books.bookForAbbreviation(bookKey);
+        }
+
+        private int integerValue(String text) {
+            try {
+                return Integer.parseInt(text);
+            } catch (NumberFormatException e) {
+                return 0;
+            }
         }
     }
 
