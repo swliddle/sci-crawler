@@ -21,7 +21,6 @@ import org.json.JSONObject;
 public class SciCrawler {
 
     // Constants
-
     private static final String CLASS_PARSER = "\\s+class=\"?";
     private static final String END_CLASS_PARSER = "[^\">]*\"?\\s*";
     private static final String END_TAG_PARSER = "[^>]*>";
@@ -36,7 +35,6 @@ public class SciCrawler {
     private static final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
 
     // Properties
-
     private final String monthString;
     private final int year;
     private final String conferencePath;
@@ -45,6 +43,7 @@ public class SciCrawler {
     private final Pattern referencePattern;
 
     private final Books books = new Books();
+    private final Speakers speakers = new Speakers();
 
     private final List<String> talkIds = new ArrayList<>();
     private final Map<String, String> talkHrefs = new HashMap<>();
@@ -52,7 +51,6 @@ public class SciCrawler {
     private final Map<String, String> talkTitles = new HashMap<>();
 
     // Initialization
-
     public SciCrawler(int year, int month, String language) {
         this.year = year;
         this.language = language;
@@ -92,14 +90,14 @@ public class SciCrawler {
             String iAccent = "(?:i|í|&#x[eE][dD];|&#iacute;)";
             String oAccent = "(?:o|ó|&#x[fF]3;|&#oacute;)";
             String uAccent = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
-            String bibleBookName =
-                    "(G" + eAccent + "nesis|" + EAccent + "xodo"
+            String bibleBookName
+                    = "(G" + eAccent + "nesis|" + EAccent + "xodo"
                     + "|Lev" + iAccent + "tico|N" + uAccent + "meros"
                     + "|Deuteronomio|Josu" + eAccent
                     + "|Jueces|Rut"
                     + "|(?:1|2)" + space
-                    +     "(?:Samuel|Reyes|Cr" + oAccent + "nicas"
-                    +      "|Corintios|Tesalonicenses|Timoteo|Pedro|Juan)"
+                    + "(?:Samuel|Reyes|Cr" + oAccent + "nicas"
+                    + "|Corintios|Tesalonicenses|Timoteo|Pedro|Juan)"
                     + "|3" + space + "Juan"
                     + "|Esdras|Nehem" + iAccent + "as|Ester|Job|Salmos?"
                     + "|Proverbios|Eclesiast" + eAccent + "s|Cantares"
@@ -116,12 +114,12 @@ public class SciCrawler {
 
             jstPattern = Pattern.compile(
                     "Traducci" + oAccent + "n" + space + "de" + space
-                        + "Jos" + eAccent + space + "Smith," + space
-                        + bibleBookName
-                        + space
-                        + chapter
-                        + ":"
-                        + verses,
+                    + "Jos" + eAccent + space + "Smith," + space
+                    + bibleBookName
+                    + space
+                    + chapter
+                    + ":"
+                    + verses,
                     Pattern.MULTILINE | Pattern.CASE_INSENSITIVE
             );
             referencePattern = Pattern.compile(
@@ -142,12 +140,12 @@ public class SciCrawler {
                     + "[?]lang=" + language + "(#p[A-Za-z0-9_-]+)?"
             );
         } else {
-            String bibleBookName =
-                    "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua"
+            String bibleBookName
+                    = "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua"
                     + "|Judges|Ruth"
                     + "|(?:1|2)" + space
-                    +     "(?:Samuel|Kings|Chronicles|Corinthians"
-                    +       "|Thessalonians|Timothy|Peter|John)"
+                    + "(?:Samuel|Kings|Chronicles|Corinthians"
+                    + "|Thessalonians|Timothy|Peter|John)"
                     + "|3" + space + "John"
                     + "|Ezra|Nehemiah|Esther|Job|Psalms?"
                     + "|Proverbs|Ecclesiastes"
@@ -160,11 +158,11 @@ public class SciCrawler {
 
             jstPattern = Pattern.compile(
                     "Joseph" + space + "Smith" + space + "Translation," + space
-                        + bibleBookName
-                        + space
-                        + chapter
-                        + ":"
-                        + verses,
+                    + bibleBookName
+                    + space
+                    + chapter
+                    + ":"
+                    + verses,
                     Pattern.MULTILINE | Pattern.CASE_INSENSITIVE
             );
             referencePattern = Pattern.compile(
@@ -214,6 +212,7 @@ public class SciCrawler {
 
         crawler.getTableOfContents();
         crawler.crawlTalks();
+        crawler.checkSpeakers();
     }
 
     private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
@@ -228,6 +227,17 @@ public class SciCrawler {
         Link link = new Link(talkId, href, text);
 
         link.addParsedToList(links);
+    }
+
+    private void checkSpeakers() {
+        talkSpeakers.entrySet().forEach(entry -> {
+            JSONObject speaker = speakers.matchingSpeaker(entry.getValue());
+
+            if (speaker == null) {
+                System.out.println("New speaker: " + entry.getValue());
+                speakers.addSpeaker(entry.getValue());
+            }
+        });
     }
 
     private void crawlTalks() {
@@ -310,8 +320,8 @@ public class SciCrawler {
 
             links.add(new Link(
                     talkId, "/study/scriptures/" + volume + "/"
-                        + bookAbbr + "/" + chapter + "." + verses + "?lang="
-                        + language + "#p" + firstVerse(verses),
+                    + bookAbbr + "/" + chapter + "." + verses + "?lang="
+                    + language + "#p" + firstVerse(verses),
                     fullMatch, book, chapter, verses, true));
         }
     }
@@ -410,7 +420,7 @@ public class SciCrawler {
                   "type": "scripture-ref"
                 }]
               },
-        */
+         */
 
         talk.append("\n<footer class=\"notes\">\n");
         talk.append("<p class=\"title\" id=\"note_title1\">Notes</p>\n");
@@ -476,7 +486,7 @@ public class SciCrawler {
                     }
                   ]
                 }
-        */
+         */
 
         JSONObject footnote = footnotes.getJSONObject("note" + noteKey);
         String footnoteText = footnote.getString("text")
@@ -502,6 +512,14 @@ public class SciCrawler {
                     inlinedFootnote(markerMatcher.group(1), footnotes)
             );
         }
+    }
+
+    private String magazineForLanguageYear(String language) {
+        if (language.equals("eng") && year <= 2020) {
+            return "ensign";
+        }
+
+        return "liahona";
     }
 
     private int parseSessionItems(String sessionItems, int sessionNumber, int talkNumber) {
@@ -624,8 +642,7 @@ public class SciCrawler {
         talkBody = talkBody
                 .replaceAll("<link[^>]*>", "")
                 .replaceAll("<video[^>]*>.*<\\/video>", "")
-                .replaceAll("<img[^>]*>", "")
-                ;
+                .replaceAll("<img[^>]*>", "");
 
         talk.append("<div class=\"body\">");
         talk.append(talkBody);
@@ -639,11 +656,12 @@ public class SciCrawler {
 
         return encodeSpecialCharacters(
                 talk.toString()
-//                        .replaceAll("><", ">\n<")
-//                        .replaceAll("> ", ">\n")
-//                        .replaceAll("\n\n", "\n")
+        //                        .replaceAll("><", ">\n<")
+        //                        .replaceAll("> ", ">\n")
+        //                        .replaceAll("\n\n", "\n")
         );
     }
+
     /*
     NEEDSWORK: access database to know citation number?
 
@@ -655,8 +673,7 @@ public class SciCrawler {
         <a href="javascript:void(0)" onclick="sx(this, 135301)">&#xA0;</a>
         <a href="javascript:void(0)" onclick="gs(135301)">Matthew 20:30–34</a>
         </span>
-    */
-
+     */
     private String talkSubitemsFromTableOfContents(String content) {
         // Extract the subitems <ul> from the document
         String contentParser = "<nav" + CLASS_PARSER + "tableOfContents"
@@ -674,7 +691,7 @@ public class SciCrawler {
     private String talkUrl(String talkId, String language) {
         return URL_BASE + "/study/api/v3/language-pages/type/content?lang="
                 + language + "&uri=%2F"
-                + (language.equals("eng") ? "ensign" : "liahona")
+                + magazineForLanguageYear(language)
                 + "%2F" + year + "%2F" + monthString + "%2F" + talkId;
     }
 
@@ -701,7 +718,7 @@ public class SciCrawler {
     }
 
     private String urlForConferenceContents() {
-        return URL_ENSIGN + "/" + year + "/" + monthString + "?lang=eng";
+        return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=eng";
     }
 
     private void writeHtmlContent(String talkId, JSONObject talkJson) {
@@ -712,6 +729,7 @@ public class SciCrawler {
     }
 
     private class Book {
+
         private static final int newTestamentIndex = 39;
         private static final String space = "(?:\\s| |&#x[aA]0;|&#160;)+";
         private static final String aAccent = "(?:a|á|&#x[eE]1;|&#aacute;)";
@@ -721,83 +739,83 @@ public class SciCrawler {
         private static final String oAccent = "(?:o|ó|&#x[fF]3;|&#oacute;)";
         private static final String uAccent = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
         private final List<String> abbreviations = List.of(
-            "gen", "ex", "lev", "num", "deut", "josh", "judg", "ruth",
-            "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra",
-            "neh", "esth", "job", "ps", "prov", "eccl", "song", "isa",
-            "jer", "lam", "ezek", "dan", "hosea", "joel", "amos", "obad",
-            "jonah", "micah", "nahum", "hab", "zeph", "hag", "zech", "mal",
-            "matt", "mark", "luke", "john", "acts", "rom", "1-cor", "2-cor",
-            "gal", "eph", "philip", "col", "1-thes", "2-thes", "1-tim",
-            "2-tim", "titus", "philem", "heb", "james", "1-pet", "2-pet",
-            "1-jn", "2-jn", "3-jn", "jude", "rev"
+                "gen", "ex", "lev", "num", "deut", "josh", "judg", "ruth",
+                "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra",
+                "neh", "esth", "job", "ps", "prov", "eccl", "song", "isa",
+                "jer", "lam", "ezek", "dan", "hosea", "joel", "amos", "obad",
+                "jonah", "micah", "nahum", "hab", "zeph", "hag", "zech", "mal",
+                "matt", "mark", "luke", "john", "acts", "rom", "1-cor", "2-cor",
+                "gal", "eph", "philip", "col", "1-thes", "2-thes", "1-tim",
+                "2-tim", "titus", "philem", "heb", "james", "1-pet", "2-pet",
+                "1-jn", "2-jn", "3-jn", "jude", "rev"
         );
         private final List<String> bookPatterns = List.of(
-            "(Genesis|G" + eAccent + "nesis)",
-            "(Exodus|" + EAccent + "xodo)",
-            "(Leviticus|Lev" + iAccent + "tico)",
-            "(Numbers|N" + uAccent + "meros)",
-            "(Deuteronomy|Deuteronomio)",
-            "(Joshua|Josu" + "eAccent)",
-            "(Judges|Jueces)",
-            "(Ruth|Rut)",
-            "1" + space + "Samuel",
-            "2" + space + "Samuel",
-            "1" + space + "(Kings|Reyes)",
-            "2" + space + "(Kings|Reyes)",
-            "1" + space + "(Chronicles|Cr" + oAccent + "nicas)",
-            "2" + space + "(Chronicles|Cr" + oAccent + "nicas)",
-            "(Ezra|Esdras)",
-            "(Nehemiah|Nehem" + iAccent + "as)",
-            "(Esther|Ester)",
-            "Job",
-            "(Psalms?|Salmos?)",
-            "(Proverbs|Proverbios)",
-            "(Ecclesiastes|Eclesiast" + eAccent + "s)",
-            "(Song" + space + "of" + space + "Solomon|Cantares)",
-            "(Isaiah|Isa" + iAccent + "as)",
-            "(Jeremiah|Jerem" + iAccent + "as)",
-            "(Lamentations|Lamentaciones)",
-            "(Ezekiel|Ezequiel)",
-            "Daniel",
-            "(Hosea|Oseas)",
-            "Joel",
-            "(Amos|Am" + oAccent + "s)",
-            "(Obadiah|Abd" + iAccent + "as)",
-            "(Jonah|Jon" + aAccent + "s)",
-            "(Micah|Miqueas)",
-            "(Nahum|Nah" + uAccent + "m)",
-            "(Habakkuk|Habacuc)",
-            "(Zephaniah|Sofon" + iAccent + "as)",
-            "(Haggai|Hageo)",
-            "(Zechariah|Zacar" + iAccent + "as)",
-            "(Malachi|Malaqu" + iAccent + "as)",
-            "(Matthew|Mateo)",
-            "(Mark|Marcos)",
-            "(Luke|Lucas)",
-            "(John|Juan)",
-            "(Acts|Hechos)",
-            "(Romans|Romanos)",
-            "1" + space + "(Corinthians|Corintios)",
-            "2" + space + "(Corinthians|Corintios)",
-            "(Galatians|G" + aAccent + "latas)",
-            "(Ephesians|Efesios)",
-            "(Philippians|Filipenses)",
-            "(Colossians|Colosenses)",
-            "1" + space + "(Thessalonians|Tesalonicenses)",
-            "2" + space + "(Thessalonians|Tesalonicenses)",
-            "1" + space + "(Timothy|Timoteo)",
-            "2" + space + "(Timothy|Timoteo)",
-            "(Titus|Tito)",
-            "(Philememon|Filem" + oAccent + "n)",
-            "(Hebrews|Hebreos)",
-            "(James|Santiago)",
-            "1" + space + "(Peter|Pedro)",
-            "2" + space + "(Peter|Pedro)",
-            "1" + space + "(John|Juan)",
-            "2" + space + "(John|Juan)",
-            "3" + space + "(John|Juan)",
-            "(Jude|Judas)",
-            "(Revelation|Apocalipsis)"
+                "(Genesis|G" + eAccent + "nesis)",
+                "(Exodus|" + EAccent + "xodo)",
+                "(Leviticus|Lev" + iAccent + "tico)",
+                "(Numbers|N" + uAccent + "meros)",
+                "(Deuteronomy|Deuteronomio)",
+                "(Joshua|Josu" + "eAccent)",
+                "(Judges|Jueces)",
+                "(Ruth|Rut)",
+                "1" + space + "Samuel",
+                "2" + space + "Samuel",
+                "1" + space + "(Kings|Reyes)",
+                "2" + space + "(Kings|Reyes)",
+                "1" + space + "(Chronicles|Cr" + oAccent + "nicas)",
+                "2" + space + "(Chronicles|Cr" + oAccent + "nicas)",
+                "(Ezra|Esdras)",
+                "(Nehemiah|Nehem" + iAccent + "as)",
+                "(Esther|Ester)",
+                "Job",
+                "(Psalms?|Salmos?)",
+                "(Proverbs|Proverbios)",
+                "(Ecclesiastes|Eclesiast" + eAccent + "s)",
+                "(Song" + space + "of" + space + "Solomon|Cantares)",
+                "(Isaiah|Isa" + iAccent + "as)",
+                "(Jeremiah|Jerem" + iAccent + "as)",
+                "(Lamentations|Lamentaciones)",
+                "(Ezekiel|Ezequiel)",
+                "Daniel",
+                "(Hosea|Oseas)",
+                "Joel",
+                "(Amos|Am" + oAccent + "s)",
+                "(Obadiah|Abd" + iAccent + "as)",
+                "(Jonah|Jon" + aAccent + "s)",
+                "(Micah|Miqueas)",
+                "(Nahum|Nah" + uAccent + "m)",
+                "(Habakkuk|Habacuc)",
+                "(Zephaniah|Sofon" + iAccent + "as)",
+                "(Haggai|Hageo)",
+                "(Zechariah|Zacar" + iAccent + "as)",
+                "(Malachi|Malaqu" + iAccent + "as)",
+                "(Matthew|Mateo)",
+                "(Mark|Marcos)",
+                "(Luke|Lucas)",
+                "(John|Juan)",
+                "(Acts|Hechos)",
+                "(Romans|Romanos)",
+                "1" + space + "(Corinthians|Corintios)",
+                "2" + space + "(Corinthians|Corintios)",
+                "(Galatians|G" + aAccent + "latas)",
+                "(Ephesians|Efesios)",
+                "(Philippians|Filipenses)",
+                "(Colossians|Colosenses)",
+                "1" + space + "(Thessalonians|Tesalonicenses)",
+                "2" + space + "(Thessalonians|Tesalonicenses)",
+                "1" + space + "(Timothy|Timoteo)",
+                "2" + space + "(Timothy|Timoteo)",
+                "(Titus|Tito)",
+                "(Philememon|Filem" + oAccent + "n)",
+                "(Hebrews|Hebreos)",
+                "(James|Santiago)",
+                "1" + space + "(Peter|Pedro)",
+                "2" + space + "(Peter|Pedro)",
+                "1" + space + "(John|Juan)",
+                "2" + space + "(John|Juan)",
+                "3" + space + "(John|Juan)",
+                "(Jude|Judas)",
+                "(Revelation|Apocalipsis)"
         );
 
         public String abbreviationForBook(String book) {
