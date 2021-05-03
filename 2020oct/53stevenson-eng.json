@@ -1,0 +1,458 @@
+{
+  "tableOfContentsUri": "/ensign/2020/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2020/11/53stevenson",
+      "data-aid": "144620150",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "8ffe352f288d42d69a846aa1808bff43",
+      "data-aid-version": "3",
+      "data-orig-id": "8ffe352f288d42d69a846aa1808bff43"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6197398072001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-5030-gary-e-stevenson-32k-eng.mp3"
+    }],
+    "title": "Highly Favored of the Lord",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "144620150",
+      {"key": "144620150"}
+    ],
+    [
+      "144620153",
+      {"key": "144620153"}
+    ],
+    [
+      "144620155",
+      {"key": "144620155"}
+    ],
+    [
+      "144620158",
+      {"key": "144620158"}
+    ],
+    [
+      "144620161",
+      {"key": "144620161"}
+    ],
+    [
+      "144620164",
+      {"key": "144620164"}
+    ],
+    [
+      "144620167",
+      {"key": "144620167"}
+    ],
+    [
+      "144620170",
+      {"key": "144620170"}
+    ],
+    [
+      "144620173",
+      {"key": "144620173"}
+    ],
+    [
+      "144620176",
+      {"key": "144620176"}
+    ],
+    [
+      "144620179",
+      {"key": "144620179"}
+    ],
+    [
+      "144620182",
+      {"key": "144620182"}
+    ],
+    [
+      "144620185",
+      {"key": "144620185"}
+    ],
+    [
+      "144620189",
+      {"key": "144620189"}
+    ],
+    [
+      "144620194",
+      {"key": "144620194"}
+    ],
+    [
+      "144620197",
+      {"key": "144620197"}
+    ],
+    [
+      "144620201",
+      {"key": "144620201"}
+    ],
+    [
+      "144620205",
+      {"key": "144620205"}
+    ],
+    [
+      "144620209",
+      {"key": "144620209"}
+    ],
+    [
+      "144620213",
+      {"key": "144620213"}
+    ],
+    [
+      "144620217",
+      {"key": "144620217"}
+    ],
+    [
+      "144620221",
+      {"key": "144620221"}
+    ],
+    [
+      "144620225",
+      {"key": "144620225"}
+    ],
+    [
+      "144620229",
+      {"key": "144620229"}
+    ],
+    [
+      "144620233",
+      {"key": "144620233"}
+    ],
+    [
+      "144620237",
+      {"key": "144620237"}
+    ],
+    [
+      "144620241",
+      {"key": "144620241"}
+    ],
+    [
+      "144620245",
+      {"key": "144620245"}
+    ],
+    [
+      "144620249",
+      {"key": "144620249"}
+    ],
+    [
+      "144620252",
+      {"key": "144620252"}
+    ],
+    [
+      "144620255",
+      {"key": "144620255"}
+    ],
+    [
+      "144620258",
+      {"key": "144620258"}
+    ],
+    [
+      "144620261",
+      {"key": "144620261"}
+    ],
+    [
+      "144620264",
+      {"key": "144620264"}
+    ],
+    [
+      "144620266",
+      {"key": "144620266"}
+    ],
+    [
+      "144620269",
+      {"key": "144620269"}
+    ],
+    [
+      "144620272",
+      {"key": "144620272"}
+    ],
+    [
+      "144620275",
+      {"key": "144620275"}
+    ],
+    [
+      "144620278",
+      {"key": "144620278"}
+    ],
+    [
+      "144620281",
+      {"key": "144620281"}
+    ],
+    [
+      "144620283",
+      {"key": "144620283"}
+    ],
+    [
+      "144620285",
+      {"key": "144620285"}
+    ],
+    [
+      "144620287",
+      {"key": "144620287"}
+    ],
+    [
+      "144620289",
+      {"key": "144620289"}
+    ],
+    [
+      "144620291",
+      {"key": "144620291"}
+    ],
+    [
+      "144620293",
+      {"key": "144620293"}
+    ],
+    [
+      "144620295",
+      {"key": "144620295"}
+    ],
+    [
+      "144620297",
+      {"key": "144620297"}
+    ],
+    [
+      "144620299",
+      {"key": "144620299"}
+    ],
+    [
+      "144620301",
+      {"key": "144620301"}
+    ],
+    [
+      "144620303",
+      {"key": "144620303"}
+    ],
+    [
+      "144620305",
+      {"key": "144620305"}
+    ],
+    [
+      "144620307",
+      {"key": "144620307"}
+    ],
+    [
+      "144621308",
+      {"key": "144621308"}
+    ],
+    [
+      "144621310",
+      {"key": "144621310"}
+    ],
+    [
+      "144621312",
+      {"key": "144621312"}
+    ]
+  ],
+  "uri": "/ensign/2020/11/53stevenson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Stevenson teaches that although we will face disappointment and affliction, we can come to know that we are highly favored of the Lord.",
+          "title": "Highly Favored of the Lord"
+        },
+        "pageSocial": {
+          "description": "Elder Stevenson teaches that although we will face disappointment and affliction, we can come to know that we are highly favored of the Lord.",
+          "title": "Highly Favored of the Lord"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/10/53stevenson?lang=eng\">\n\n<header>\n<span class=\"page-break\" data-page=\"102\"><\/span>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6197398072001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6197398072001\" data-video-title=\"Highly Favored of the Lord\" data-video-description=\"Elder Stevenson teaches that although we will face disappointment and affliction, we can come to know that we are highly favored of the Lord. \" data-video-id=\"6197398072001\" data-ip=\"Download &amp; Streaming\" data-duration=\"847347\" data-assetid=\"54C74517257A237E0D55927B514A4C59A6CF4DE3\" data-ref-id=\"54C74517257A237E0D55927B514A4C59A6CF4DE3\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6197398072001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-5030-gary-e-stevenson-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"109653427\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-5030-gary-e-stevenson-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"219306855\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-5030-gary-e-stevenson-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"438613710\"><\/video><h1 data-aid=\"144620153\" id=\"title1\">Highly Favored of the Lord<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"144620155\" id=\"author1\">By Elder Gary&#xA0;E. Stevenson<\/p>\n<p class=\"author-role\" data-aid=\"144620158\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"144620161\" id=\"kicker1\">Times of affliction and disappointment do not change the watchful eye of the Lord as He favorably looks upon us, blessing us.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"144620164\" id=\"p1\">One day years ago, as young missionaries laboring in a tiny branch on the small island of Amami Oshima, Japan, my companion and I were ecstatic to learn that President Spencer&#xA0;W. Kimball would be visiting Asia and that all members and missionaries in Japan were invited to Tokyo to hear the prophet at an area conference. With branch members, my companion and I excitedly began making plans for the conference, which would require a 12-hour boat ride across the East China Sea to mainland Japan, followed by a 15-hour train ride to Tokyo. Sadly, however, it was not to be. We received word from our mission president that because of distance and time, my companion and I would not be able to attend the conference in Tokyo.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/6d/5d/6d5d193357ff0270fb905ea1f3571ddf5b8ee975/gary_stevenson_mission.png\" data-img-id=\"c6cc0f6943653d47c8120ea002f0ccf39e730f7d\" srcset=\"https://assets.ldscdn.org/f3/61/f361d89b38374d3465e619b538505f311bdfa218/gary_stevenson_mission.png 60w,https://assets.ldscdn.org/78/11/78116785b4613ad102d120a513ae54701694ee22/gary_stevenson_mission.png 100w,https://assets.ldscdn.org/e1/41/e14163e973c12de9aeef9c4ccd3eb4eca283cae7/gary_stevenson_mission.png 200w,https://assets.ldscdn.org/57/8b/578b48545b0c6336027f239a890413f3b8002dbe/gary_stevenson_mission.png 250w,https://assets.ldscdn.org/2d/5e/2d5ef2f428962b7bdea7956e4ca750360dc81a8f/gary_stevenson_mission.png 320w,https://assets.ldscdn.org/6d/5d/6d5d193357ff0270fb905ea1f3571ddf5b8ee975/gary_stevenson_mission.png 500w,https://assets.ldscdn.org/d5/2d/d52d4db01747951eb8dbf58b2c2c1d52fe09dd88/gary_stevenson_mission.png 640w\" data-assetid=\"c6cc0f6943653d47c8120ea002f0ccf39e730f7d\" data-missing-asset=\"false\" alt=\"Gary Stevenson\">\n<p data-aid=\"144620167\" id=\"p2\">While members of our little branch embarked for Tokyo, we stayed behind. The following days seemed quiet and empty. We held sacrament meeting alone in the small chapel, while the Latter-day Saints and missionaries of Japan attended the conference.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/d8/24/d824cecfe80be958a808c65c4eb6c76ff110687c/asia_area_conference.png\" data-img-id=\"0a817816cfc5b639adcb8a2a52fd3d821a52c6d0\" srcset=\"https://assets.ldscdn.org/e9/98/e998b5b4e63832db462107388587f2e60b24c6a3/asia_area_conference.png 60w,https://assets.ldscdn.org/09/4f/094f8d592bc33796d0f5bd36e2cdc80f27d18566/asia_area_conference.png 100w,https://assets.ldscdn.org/20/6e/206ec21211aa129b573ab632c5f20059b2bb0723/asia_area_conference.png 200w,https://assets.ldscdn.org/1a/80/1a809bbcd99fb86095453a6acfbdc72880787e97/asia_area_conference.png 250w,https://assets.ldscdn.org/9a/42/9a420a232c541f0cbcd20465912f5d9fdf1ec0f5/asia_area_conference.png 320w,https://assets.ldscdn.org/d8/24/d824cecfe80be958a808c65c4eb6c76ff110687c/asia_area_conference.png 500w,https://assets.ldscdn.org/20/35/20352acbcb1c16f45777252c7c4ae9adf351cc56/asia_area_conference.png 640w\" data-assetid=\"0a817816cfc5b639adcb8a2a52fd3d821a52c6d0\" data-missing-asset=\"false\" alt=\"Area Conference\">\n<p data-aid=\"144620170\" id=\"p3\">My sense of personal disappointment intensified even as I joyfully listened to branch members return from the conference days later to report that President Kimball had announced a temple in Tokyo. They gushed with excitement as they shared the fulfillment of their dream. They described how, upon hearing the temple announcement, members and missionaries were unable to contain their joy and spontaneously erupted into clapping their hands.<\/p>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/5f/56/5f56e6818906ea0379687a11f6ca7ed51d18c5e8/spencer_w_kimball.png\" data-img-id=\"57eaf1d5de63774fccd08e3f5256a87799f040d2\" srcset=\"https://assets.ldscdn.org/83/9c/839cea160d554a550db64fe1d842b28a9977bdc7/spencer_w_kimball.png 60w,https://assets.ldscdn.org/8a/fe/8afe6e12368c90446c1713175ca3770aae94cd1e/spencer_w_kimball.png 100w,https://assets.ldscdn.org/32/7f/327f9233e15a29f4fe1df5a3cc10ffd5a6295b29/spencer_w_kimball.png 200w,https://assets.ldscdn.org/99/d3/99d302d32fb33c48927026cfd7e26e0ef4d92930/spencer_w_kimball.png 250w,https://assets.ldscdn.org/7e/b5/7eb583f69ab43525d1a80d2ebfb6d4d24a21c1be/spencer_w_kimball.png 320w,https://assets.ldscdn.org/5f/56/5f56e6818906ea0379687a11f6ca7ed51d18c5e8/spencer_w_kimball.png 500w,https://assets.ldscdn.org/da/c0/dac01c231c31cf5ee38770e6ffaef118fc0c6627/spencer_w_kimball.png 640w\" data-assetid=\"57eaf1d5de63774fccd08e3f5256a87799f040d2\" data-missing-asset=\"false\" alt=\"Spencer W. Kimball\">\n<p data-aid=\"144620173\" id=\"p4\">Years have passed, but I can still remember the disappointment I felt from missing that historic meeting.<\/p>\n<p data-aid=\"144620176\" id=\"p5\">In recent months I have reflected upon this experience as I have observed others face deep disappointment and sorrow&#xFEFF;&#x2014;far greater and deeper than mine ever was as a young missionary&#xFEFF;&#x2014;brought on by the worldwide COVID-19 pandemic.<\/p>\n<p data-aid=\"144620179\" id=\"p6\">Earlier this year, as the pandemic accelerated, the First Presidency pledged that &#x201C;the Church and its members will faithfully exhibit our commitment to being good citizens and good neighbors&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> and will &#x201C;use an abundance of caution.&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Thus, we experienced the suspension of Church gatherings worldwide, the return of more than half the Church&#x2019;s missionary force to their home nations, and the closure of all temples throughout the Church. Thousands of you were preparing to enter the temple for living ordinances&#xFEFF;&#x2014;including temple sealings. Others of you have completed your service as missionaries early or have been temporarily released and reassigned.<\/p>\n<img id=\"img4\" src=\"https://assets.ldscdn.org/57/8f/578f1845563bcac5926989a7584272f99882615e/missionaries_air_planes_flight.png\" data-img-id=\"322ebea48baee1701e5f98ebdc36a258428411a7\" srcset=\"https://assets.ldscdn.org/09/99/09996fba10f279056d2700a429f2ccba9ebe79fc/missionaries_air_planes_flight.png 60w,https://assets.ldscdn.org/76/05/76053c9c2d83634cbbf6c93c96c4b8e708357c44/missionaries_air_planes_flight.png 100w,https://assets.ldscdn.org/ec/1b/ec1bb875f97cd7aba27551281df5e1cd4f11fd72/missionaries_air_planes_flight.png 200w,https://assets.ldscdn.org/c2/2d/c22d6080d61c545f00f27eb3da7af876476445e2/missionaries_air_planes_flight.png 250w,https://assets.ldscdn.org/d0/6c/d06c897ca521e5bf03b9d5f38f3c65a8dc8ca94b/missionaries_air_planes_flight.png 320w,https://assets.ldscdn.org/57/8f/578f1845563bcac5926989a7584272f99882615e/missionaries_air_planes_flight.png 500w,https://assets.ldscdn.org/a5/e6/a5e65c7de1c3a214dd64bd0fcfa0b9b04efc3538/missionaries_air_planes_flight.png 640w\" data-assetid=\"322ebea48baee1701e5f98ebdc36a258428411a7\" data-missing-asset=\"false\" alt=\"Missionaries\">\n<p data-aid=\"144620182\" id=\"p7\">During this time, government and educational leaders closed schools&#xFEFF;&#x2014;which consequently altered graduations and forced the cancellation of sporting, social, cultural, and educational events and activities. Many of you prepared for events that were not attended, performances that were not heard, and athletic seasons that were not played.<\/p>\n<p data-aid=\"144620185\" id=\"p8\">Even more poignant are thoughts of families who have lost loved ones during this time; most could not hold funerals or other tender gatherings as they had hoped.<\/p>\n<span class=\"page-break\" data-page=\"103\"><\/span>\n<p data-aid=\"144620189\" id=\"p9\">In short, many, many of you have dealt with heartbreaking disappointment, sorrow, and discouragement. So how do we heal, endure, and move forward when things seem so broken?<\/p>\n<p data-aid=\"144620194\" id=\"p10\">The prophet Nephi began engraving the small plates when he was a grown man. As he looked back on his life and ministry, he offered an important reflection in the very first verse of the Book of Mormon. This verse frames an important principle for us to consider in our time. Following his familiar words, &#x201C;I, Nephi, having been born of goodly parents&#xA0;&#x2026;&#xA0;,&#x201D; he writes, &#x201C;and having seen many afflictions in the course of my days, nevertheless, having been highly favored of the Lord in all my days.&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"144620197\" id=\"p11\">As students of the Book of Mormon, we are familiar with the many afflictions to which Nephi refers. Yet following acknowledgment of his afflictions in the course of his days, Nephi gives his gospel perspective of being highly favored of the Lord in all his days. Times of affliction and disappointment do not change the watchful eye of the Lord as He favorably looks upon us, blessing us.<\/p>\n<img id=\"img5\" src=\"https://assets.ldscdn.org/38/91/3891c63124150f77937d6817c9e501f949883856/mission_meeting_room.png\" data-img-id=\"fe7da5b5c3a21f389044ac18546676f7b176e81b\" srcset=\"https://assets.ldscdn.org/50/06/50060438aea6adc541acc772f732297a9aad8269/mission_meeting_room.png 60w,https://assets.ldscdn.org/c0/59/c059c004d0d6e616cf812fdd1c1e35bb2fbdc708/mission_meeting_room.png 100w,https://assets.ldscdn.org/24/83/2483161ebb871366c630e46c9ab24e24c4ac3eef/mission_meeting_room.png 200w,https://assets.ldscdn.org/a1/a6/a1a64c663c4f9c4f7e861d7aad9895bb93a44774/mission_meeting_room.png 250w,https://assets.ldscdn.org/12/94/1294c8605ca730f26ff67fab669cfd8a3427a045/mission_meeting_room.png 320w,https://assets.ldscdn.org/38/91/3891c63124150f77937d6817c9e501f949883856/mission_meeting_room.png 500w,https://assets.ldscdn.org/53/b3/53b3769995a7648dfb28bc7c8282e2b2d52de2f6/mission_meeting_room.png 640w\" data-assetid=\"fe7da5b5c3a21f389044ac18546676f7b176e81b\" data-missing-asset=\"false\" alt=\"Mission Meeting\">\n<img id=\"img6\" src=\"https://assets.ldscdn.org/d0/3d/d03d0d0e45c75ca45d5a845edb8606837ce7b894/mission_meeting_missionaries.png\" data-img-id=\"1fe1bb6e631ae6e0f63249b79995917e8777e068\" srcset=\"https://assets.ldscdn.org/51/e3/51e3ea31813e189a5a8e804c6e0c3c66690890c6/mission_meeting_missionaries.png 60w,https://assets.ldscdn.org/17/10/1710dd11045abbc41dc0978c1b34f00e2d526af6/mission_meeting_missionaries.png 100w,https://assets.ldscdn.org/72/86/7286bd9d012589cda3c08aca9818bba1c75adf35/mission_meeting_missionaries.png 200w,https://assets.ldscdn.org/33/f0/33f087063ea9f56e0c0313ce4ceede27944db9c4/mission_meeting_missionaries.png 250w,https://assets.ldscdn.org/26/16/2616446e36f9b057f7d3ab98c70669ddfd9ee2c5/mission_meeting_missionaries.png 320w,https://assets.ldscdn.org/d0/3d/d03d0d0e45c75ca45d5a845edb8606837ce7b894/mission_meeting_missionaries.png 500w,https://assets.ldscdn.org/1e/cc/1ecc7f7164c944d61b8914646e91c2aa27e60aee/mission_meeting_missionaries.png 640w\" data-assetid=\"1fe1bb6e631ae6e0f63249b79995917e8777e068\" data-missing-asset=\"false\" alt=\"Mission Meeting\">\n<img id=\"img7\" src=\"https://assets.ldscdn.org/97/18/97188c36a884b4bda30e38c45357240f2fce90b0/mission_meeting_missionaries.png\" data-img-id=\"50269197c37b6a6014250d0822c98d3a9425b36b\" srcset=\"https://assets.ldscdn.org/fb/2f/fb2f7fea7bda4713996a2a3f7f59c001217839d3/mission_meeting_missionaries.png 60w,https://assets.ldscdn.org/fb/86/fb864515c29d9e2b9346fbec72a7f9a24f49d7ea/mission_meeting_missionaries.png 100w,https://assets.ldscdn.org/04/9e/049e2cf2d68c585a70e9df723beb675a86381865/mission_meeting_missionaries.png 200w,https://assets.ldscdn.org/06/73/0673782aaa05067f64647f76c721616b666f2135/mission_meeting_missionaries.png 250w,https://assets.ldscdn.org/6a/07/6a07609e0834b8a2eec68c5763cfc73379b25b7d/mission_meeting_missionaries.png 320w,https://assets.ldscdn.org/97/18/97188c36a884b4bda30e38c45357240f2fce90b0/mission_meeting_missionaries.png 500w,https://assets.ldscdn.org/11/46/1146b08a7b0aded6ad1d352c4a641b0c19967d53/mission_meeting_missionaries.png 640w\" data-assetid=\"50269197c37b6a6014250d0822c98d3a9425b36b\" data-missing-asset=\"false\" alt=\"Mission Meeting\">\n<p data-aid=\"144620201\" id=\"p12\">Lesa and I recently met virtually with about 600 missionaries in Australia, most of whom were under some measure of confinement or restriction related to COVID-19, many working from their apartments. Together we considered individuals in the New Testament, Book of Mormon, and Doctrine and Covenants whom the Lord blessed to accomplish greatness in adversity. All were defined more by what they were able to do with the Lord&#x2019;s help than by what they could not do as a result of their confinement and restriction.<\/p>\n<p data-aid=\"144620205\" id=\"p13\">We read of Paul and Silas, who, while imprisoned in stocks, prayed, sang, taught, testified&#xFEFF;&#x2014;and even baptized the jailer.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"144620209\" id=\"p14\">And again of Paul, in Rome, who was under house arrest for two years, during which time he continually &#x201C;expounded and testified the kingdom of God,&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> &#x201C;teaching those things which concern the Lord Jesus Christ.&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"144620213\" id=\"p15\">Of Nephi and Lehi, the sons of Helaman, who after abuse and imprisonment were encircled by a fire of protection as the Lord&#x2019;s &#x201C;still voice of perfect mildness &#x2026; did pierce [their captors] even to the very soul.&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"144620217\" id=\"p16\">Of Alma and Amulek in Ammonihah, who found that many &#x201C;did believe &#x2026; and began to repent, and to search the scriptures,&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> even though they were then mocked and without food, water, or clothes, bound and confined in prison.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<img id=\"img8\" src=\"https://assets.ldscdn.org/8a/6c/8a6c7802550d289b60579d53feaaac34067773d6/joseph_smith_liberty_jail.png\" data-img-id=\"f85a7feb144d926b290f773d45dcb3f3e6c51e1f\" srcset=\"https://assets.ldscdn.org/70/f5/70f5aa1e7dc874ae68812b1e2bde37ff6e008e7a/joseph_smith_liberty_jail.png 60w,https://assets.ldscdn.org/a5/3a/a53a4e547623c5e994647ae2c512c3adb6a1f225/joseph_smith_liberty_jail.png 100w,https://assets.ldscdn.org/af/79/af7974750d0a6c29b3aba49be60c6bfc0bcc63dd/joseph_smith_liberty_jail.png 200w,https://assets.ldscdn.org/24/f7/24f70f6317d2c3447617fb90c0abc6be09259188/joseph_smith_liberty_jail.png 250w,https://assets.ldscdn.org/a9/32/a93200f55d05e492d0bc0365659560e0275c2a39/joseph_smith_liberty_jail.png 320w,https://assets.ldscdn.org/8a/6c/8a6c7802550d289b60579d53feaaac34067773d6/joseph_smith_liberty_jail.png 500w,https://assets.ldscdn.org/6c/72/6c727fdc3e66b1f7d57c3e328cb51e2575e3e91c/joseph_smith_liberty_jail.png 640w\" data-assetid=\"f85a7feb144d926b290f773d45dcb3f3e6c51e1f\" data-missing-asset=\"false\" alt=\"Joseph Smith\">\n<p data-aid=\"144620221\" id=\"p17\">And finally of Joseph Smith, who, while languishing in Liberty Jail, felt abandoned and forsaken, then heard the words of the Lord: &#x201C;These things &#x2026; shall be for thy good&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> and &#x201C;God shall be with you forever.&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"144620225\" id=\"p18\">Each of them understood what Nephi knew: that although they had seen many afflictions in the course of their days, they were highly favored of the Lord.<\/p>\n<p data-aid=\"144620229\" id=\"p19\">We too can draw parallels as individual members and as a church in the way in which we have been highly favored of the Lord during the challenging times we have encountered the past several months. As I cite these examples, let them also strengthen your testimony of the seership of our living prophet, who prepared us with adjustments before any hint of a pandemic, enabling us to endure the challenges that have come.<\/p>\n<span class=\"page-break\" data-page=\"104\"><\/span>\n<p data-aid=\"144620233\" id=\"p20\">First, <strong>becoming more home centered and Church supported.<\/strong><\/p>\n<p data-aid=\"144620237\" id=\"p21\">Two years ago, President Russell&#xA0;M. Nelson said: &#x201C;We have become accustomed to thinking of &#x2018;church&#x2019; as something that happens in our meetinghouses, supported by what happens at home. We need an adjustment to this pattern.&#xA0;&#x2026; A <em>home-centered Church,<\/em> supported by what takes place inside our &#x2026; buildings.&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> What a prophetic adjustment! Home-centered gospel learning has been put into practice with the temporary closure of meetinghouses. Even as the world begins to normalize and we return to chapels, we will want to retain our home-centered patterns of gospel study and learning developed during the pandemic.<\/p>\n<p data-aid=\"144620241\" id=\"p22\">A second example of being highly favored of the Lord is the revelation regarding ministering <strong>in a higher and holier way. <\/strong><\/p>\n<img id=\"img9\" src=\"https://assets.ldscdn.org/6d/08/6d08c1f392556d69a5540216bf8b617e5c5d66cf/service_projects_ministering.png\" data-img-id=\"e99ecaaf8e655b32353ec37eec4c725d3f2acb41\" srcset=\"https://assets.ldscdn.org/94/a4/94a4daa91fec89d0bd8d012865d11e8f47905226/service_projects_ministering.png 60w,https://assets.ldscdn.org/98/84/98845297149b03f8e202d61c8a9621656386eb97/service_projects_ministering.png 100w,https://assets.ldscdn.org/50/84/5084c0ef9e6470c1baa2384cbbf5a802c971d2e1/service_projects_ministering.png 200w,https://assets.ldscdn.org/af/b1/afb1e1873ebe61128e34b1b1b04e86460b100991/service_projects_ministering.png 250w,https://assets.ldscdn.org/62/18/6218b4a6434140e79afb4e71447a7febe60fee50/service_projects_ministering.png 320w,https://assets.ldscdn.org/6d/08/6d08c1f392556d69a5540216bf8b617e5c5d66cf/service_projects_ministering.png 500w,https://assets.ldscdn.org/3f/af/3fafcfa7d235fbcdd1303eee763bd9bb548c09a1/service_projects_ministering.png 640w\" data-assetid=\"e99ecaaf8e655b32353ec37eec4c725d3f2acb41\" data-missing-asset=\"false\" alt=\"Service\">\n<p data-aid=\"144620245\" id=\"p23\">In 2018, President Nelson introduced ministering as an adjustment &#x201C;in the way we care for each other.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> The pandemic has introduced numerous opportunities to hone our ministering skills. Ministering brothers and sisters, young women and young men, and others have reached out to provide contact, conversation, yard care, meals, messages via technology, and the sacrament ordinance to bless those in need. The Church itself has also been ministering to others during the pandemic with an unprecedented distribution of commodities to food banks, homeless shelters, and immigrant support centers and with projects directed to the world&#x2019;s most serious hunger situations. Relief Society sisters and their families responded to the challenge of making millions of masks for health-care workers.<\/p>\n<img id=\"img10\" src=\"https://assets.ldscdn.org/ea/07/ea079d07d8d05a60b016d19553e1303d1c6b73f5/dood_distribution_service.png\" data-img-id=\"6d487f362a2f3ea38faa8092f8dfbe06339d514e\" srcset=\"https://assets.ldscdn.org/68/35/6835245048e753a5c3f46f906f81159beeb51611/dood_distribution_service.png 60w,https://assets.ldscdn.org/70/fa/70fadff584e700f29cc6917327619671f1ea9c8c/dood_distribution_service.png 100w,https://assets.ldscdn.org/2d/6d/2d6d26264fb4bb03f41c77fe430c5f59a2e8192e/dood_distribution_service.png 200w,https://assets.ldscdn.org/d0/d0/d0d0d405541b62551cba9f0dca7cdb8f90ff92de/dood_distribution_service.png 250w,https://assets.ldscdn.org/71/0e/710ef374a78af895ac11329e475c2a7bc95ce88a/dood_distribution_service.png 320w,https://assets.ldscdn.org/ea/07/ea079d07d8d05a60b016d19553e1303d1c6b73f5/dood_distribution_service.png 500w,https://assets.ldscdn.org/0f/a3/0fa3d4ea2757f63f900a19d626ea44231d27f75a/dood_distribution_service.png 640w\" data-assetid=\"6d487f362a2f3ea38faa8092f8dfbe06339d514e\" data-missing-asset=\"false\" alt=\"Food Distribution\">\n<img id=\"img11\" src=\"https://assets.ldscdn.org/05/78/0578f4e6c8d0437720c631e3bb90bbb087ba5ebd/family_life_mozambique.png\" data-img-id=\"6d6b4d90e47bb298d2312146fb601a9a00c5b1b8\" srcset=\"https://assets.ldscdn.org/02/95/0295b7268dc3a0a896d7627b8663a4369de18b34/family_life_mozambique.png 60w,https://assets.ldscdn.org/22/06/220613a3e644fbf97872bf6cc97e9c93bee11c33/family_life_mozambique.png 100w,https://assets.ldscdn.org/74/1f/741f5ec15ad6e20d07ca92f285506fc21d94b471/family_life_mozambique.png 200w,https://assets.ldscdn.org/8b/93/8b93fe0b8266b8ce0f6508cee77b15db166b2f16/family_life_mozambique.png 250w,https://assets.ldscdn.org/26/bf/26bf8aee02e36eed66daae1c09ac9f952ca2321b/family_life_mozambique.png 320w,https://assets.ldscdn.org/05/78/0578f4e6c8d0437720c631e3bb90bbb087ba5ebd/family_life_mozambique.png 500w,https://assets.ldscdn.org/98/c6/98c690e4b148a8dd28f8bb3468ba4478166baa26/family_life_mozambique.png 640w\" data-assetid=\"6d6b4d90e47bb298d2312146fb601a9a00c5b1b8\" data-missing-asset=\"false\" alt=\"Family Life\">\n<p data-aid=\"144620249\" id=\"p24\">A final example of being blessed during adversity is <strong>finding heightened joy in the return of temple ordinances.<\/strong><\/p>\n<img id=\"img12\" src=\"https://assets.ldscdn.org/b6/3d/b63d902ae8611d9888d923a570c37a3aeda3cec1/mission_call_missionaries.png\" data-img-id=\"e30a2b2e0605ef69e66b94953ff69a4d6dc4e5b0\" srcset=\"https://assets.ldscdn.org/d5/4b/d54b8fd5b5cf1c7d0b83f47b56412fc27a2d0e38/mission_call_missionaries.png 60w,https://assets.ldscdn.org/6c/b7/6cb799aaf2df47889643d4fd02af359374fa338b/mission_call_missionaries.png 100w,https://assets.ldscdn.org/bc/64/bc64ba1b75616976aff3588213b6850d40b563a9/mission_call_missionaries.png 200w,https://assets.ldscdn.org/f4/97/f497ab9665c4723affadce223d73f649bb6cfa3d/mission_call_missionaries.png 250w,https://assets.ldscdn.org/e4/13/e4134b68f69b0aadf397fa0b3b0576ff5b9e43f3/mission_call_missionaries.png 320w,https://assets.ldscdn.org/b6/3d/b63d902ae8611d9888d923a570c37a3aeda3cec1/mission_call_missionaries.png 500w,https://assets.ldscdn.org/7a/41/7a4109dcbd99b9cf886455a3c7e818e40b10c26c/mission_call_missionaries.png 640w\" data-assetid=\"e30a2b2e0605ef69e66b94953ff69a4d6dc4e5b0\" data-missing-asset=\"false\" alt=\"Mission Call\">\n<p data-aid=\"144620252\" id=\"p27\">This is best described with a story. When Sister Kaitlyn Palmer received her mission call last April, she was excited to be called as a missionary but felt it equally important and special to go to the temple to receive her endowment and make sacred covenants. Shortly after she scheduled her endowment, the announcement came that all temples would temporarily close due to the worldwide pandemic. After receiving this heartbreaking information, she then learned she would attend the missionary training center (MTC) virtually from her home. Despite these disappointments, Kaitlyn focused on keeping her spirits high.<\/p>\n<img id=\"img13\" src=\"https://assets.ldscdn.org/d2/77/d277a46ba19aebbadb1616d9178e9eb69e013564/home_mtc_missiobaries.png\" data-img-id=\"9f2028f767f437ab605ff4d2b456b9fd55269aed\" srcset=\"https://assets.ldscdn.org/ea/57/ea57f961109c6fd778308f694bebdcaee0a7efa4/home_mtc_missiobaries.png 60w,https://assets.ldscdn.org/66/93/66938b23363b14ba8add188288011313d07524e0/home_mtc_missiobaries.png 100w,https://assets.ldscdn.org/22/ff/22ffa4752bfebe04551d1c0a3c2d4504ed9ab162/home_mtc_missiobaries.png 200w,https://assets.ldscdn.org/fc/c2/fcc2f26da26e1b37432cd9da9836fd580bfb5d10/home_mtc_missiobaries.png 250w,https://assets.ldscdn.org/d4/5f/d45ff6885d90bc9a3bae605fd6387b19935d1b0b/home_mtc_missiobaries.png 320w,https://assets.ldscdn.org/d2/77/d277a46ba19aebbadb1616d9178e9eb69e013564/home_mtc_missiobaries.png 500w,https://assets.ldscdn.org/b8/46/b846345021a5eb44e483b05ac537c190c9e8dfa2/home_mtc_missiobaries.png 640w\" data-assetid=\"9f2028f767f437ab605ff4d2b456b9fd55269aed\" data-missing-asset=\"false\" alt=\"Home MTC\">\n<p data-aid=\"144620255\" id=\"p28\">In the intervening months, Sister Palmer never lost hope of attending the temple. Her family fasted and prayed that temples would open prior to her departure. Kaitlyn would often start her home MTC mornings by saying, &#x201C;Is today going to be the day we receive a miracle and temples open back up?&#x201D;<\/p>\n<p data-aid=\"144620258\" id=\"p29\">On August 10, the First Presidency announced that Kaitlyn&#x2019;s temple would reopen for living ordinances on the exact day her early-morning flight to her mission was scheduled. She would not be able to attend the temple and make her flight. With little hope for success, her family contacted temple president Michael Vellinga to see if there was any way the miracle they had been praying for could be realized. Their fasting and prayers were answered!<\/p>\n<img id=\"img14\" src=\"https://assets.ldscdn.org/a8/45/a845eeb89cab0580b63b2db22e2599653252bb16/family_life_temple.png\" data-img-id=\"c07e98f309e82c1aaea26e30f4a5503e2205337e\" srcset=\"https://assets.ldscdn.org/5b/dc/5bdc5158749525660b3386a68b224a7351a12953/family_life_temple.png 60w,https://assets.ldscdn.org/a1/d8/a1d8cc515702fcb0d3638b61cbcafb7302e0ecd3/family_life_temple.png 100w,https://assets.ldscdn.org/6f/64/6f643d6ec67bcf0a09a495061dc82fd13ca1d92f/family_life_temple.png 200w,https://assets.ldscdn.org/47/dd/47dd74666d86f0d407d1fe571c2c3253594c0668/family_life_temple.png 250w,https://assets.ldscdn.org/1a/f3/1af314aeafa12f454891df4620078b57ae37785f/family_life_temple.png 320w,https://assets.ldscdn.org/a8/45/a845eeb89cab0580b63b2db22e2599653252bb16/family_life_temple.png 500w,https://assets.ldscdn.org/cf/3f/cf3fcbde39617eb99a90fe7278d8a2f82c2d4f1e/family_life_temple.png 640w\" data-assetid=\"c07e98f309e82c1aaea26e30f4a5503e2205337e\" data-missing-asset=\"false\" alt=\"Family Life\">\n<p data-aid=\"144620261\" id=\"p30\">At 2:00 a.m., hours before her flight departure, Sister Palmer and her family, in tears, were greeted at the temple doors by the smiling temple president with the words, &#x201C;Good morning, Palmer family. Welcome to the temple!&#x201D; As she completed her <span class=\"page-break\" data-page=\"105\"><\/span>endowment, they were encouraged to move quickly, as the next family was waiting at the temple doors. They drove directly to the airport just in time to make her flight to her mission.<\/p>\n<img id=\"img15\" src=\"https://assets.ldscdn.org/19/6b/196bddb0d00c6443d4182240588d6a302d652bdb/sister_missionaries_airport.png\" data-img-id=\"d79436b4489deb3090891588d75677417a549234\" srcset=\"https://assets.ldscdn.org/1d/62/1d6218bc5c0ad378443d09b4dd3ea97f515a3b4a/sister_missionaries_airport.png 60w,https://assets.ldscdn.org/67/36/673692f5fd7975028804995acd55610399ef19da/sister_missionaries_airport.png 100w,https://assets.ldscdn.org/d0/6b/d06b95991966af7fddbd0c9bc9469692068bdade/sister_missionaries_airport.png 200w,https://assets.ldscdn.org/b2/76/b276c0256a47cd3ee9736ea6220d698e6ba80d7a/sister_missionaries_airport.png 250w,https://assets.ldscdn.org/12/84/1284bcc55707b46765c03328402e84664e659862/sister_missionaries_airport.png 320w,https://assets.ldscdn.org/19/6b/196bddb0d00c6443d4182240588d6a302d652bdb/sister_missionaries_airport.png 500w,https://assets.ldscdn.org/9b/37/9b37d5498ef62a63232bf7e8cfe78b14bc911db6/sister_missionaries_airport.png 640w\" data-assetid=\"d79436b4489deb3090891588d75677417a549234\" data-missing-asset=\"false\" alt=\"Sister Missionary\">\n<p data-aid=\"144620264\" id=\"p31\">The temple ordinances we have missed over several months seem sweeter than previously imagined as temples around the world reopen in phases.<\/p>\n<p data-aid=\"144620266\" id=\"p32\">As I close, please listen to the encouraging, enthusiastic, uplifting words of the Prophet Joseph Smith. One would never guess he penned them in affliction and isolation, constrained and restricted at a home in Nauvoo, hiding from those who were seeking to illegally apprehend him:<\/p>\n<p data-aid=\"144620269\" id=\"p33\">&#x201C;Now, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy.&#xA0;&#x2026;<\/p>\n<p data-aid=\"144620272\" id=\"p34\">&#x201C;&#x2026; Shall we not go on in so great a cause? Go forward and not backward. Courage, &#x2026; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing.&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"144620275\" id=\"p35\">Brothers and sisters, I believe that one day, each of you will look back at the canceled events, the sadness, the disappointments, and the loneliness attendant to the challenging times we are passing through to see them overshadowed by choice blessings and increased faith and testimonies. I believe that in this life, and in the life to come, your afflictions, your Ammonihah, your Liberty Jail, will be consecrated for your gain.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> I pray that, along with Nephi, we can acknowledge the afflictions in the course of our days while at the same time recognizing that we are highly favored of the Lord.<\/p>\n<p data-aid=\"144620278\" id=\"p36\">I close with my testimony of Jesus Christ, who Himself was no stranger to affliction and as part of His infinite Atonement descended below all things.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> He understands our grief, pain, and desperation. He is our Savior, our Redeemer, our hope, our consolation, and our Deliverer. Of this I testify in His holy name, Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "144620205",
+        "id": "note4",
+        "text": "<p data-aid=\"144620289\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/16.24-33?lang=eng#p24\">Acts 16:24&#x2013;33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/16.24-33?lang=eng#p24",
+          "text": "Acts 16:24\u201333",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "144620209",
+        "id": "note5",
+        "text": "<p data-aid=\"144620291\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/28.23?lang=eng#p23\">Acts 28:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/28.23?lang=eng#p23",
+          "text": "Acts 28:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "144620179",
+        "id": "note2",
+        "text": "<p data-aid=\"144620285\" id=\"note2_p1\">First Presidency letter, May 19, 2020.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "144620194",
+        "id": "note3",
+        "text": "<p data-aid=\"144620287\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1.1?lang=eng#p1\">1&#xA0;Nephi 1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1.1?lang=eng#p1",
+          "text": "1 Nephi 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "144620217",
+        "id": "note8",
+        "text": "<p data-aid=\"144620297\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/14.1?lang=eng#p1\">Alma 14:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/14.1?lang=eng#p1",
+          "text": "Alma 14:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "144620217",
+        "id": "note9",
+        "text": "<p data-aid=\"144620299\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/14.22?lang=eng#p22\">Alma 14:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/14.22?lang=eng#p22",
+          "text": "Alma 14:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "144620209",
+        "id": "note6",
+        "text": "<p data-aid=\"144620293\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/28.31?lang=eng#p31\">Acts 28:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/28.31?lang=eng#p31",
+          "text": "Acts 28:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "144620213",
+        "id": "note7",
+        "text": "<p data-aid=\"144620295\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.30?lang=eng#p30\">Helaman 5:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.30?lang=eng#p30",
+          "text": "Helaman 5:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "144620278",
+        "id": "note16",
+        "text": "<p data-aid=\"144621312\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.8?lang=eng#p8\">Doctrine and Covenants 122:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.8?lang=eng#p8",
+          "text": "Doctrine and Covenants 122:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "144620275",
+        "id": "note15",
+        "text": "<p data-aid=\"144621310\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=eng#p2\">2&#xA0;Nephi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=eng#p2",
+          "text": "2 Nephi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "144620272",
+        "id": "note14",
+        "text": "<p data-aid=\"144621308\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128.19,22?lang=eng#p19\">Doctrine and Covenants 128:19, 22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128.19,22?lang=eng#p19",
+          "text": "Doctrine and Covenants 128:19, 22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "144620245",
+        "id": "note13",
+        "text": "<p data-aid=\"144620307\" id=\"note13_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/let-us-all-press-on?lang=eng\">Let Us All Press On<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2018, 118.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/let-us-all-press-on?lang=eng",
+          "text": "Let Us All Press On",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "144620237",
+        "id": "note12",
+        "text": "<p data-aid=\"144620305\" id=\"note12_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/opening-remarks?lang=eng\">Opening Remarks<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2018, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/opening-remarks?lang=eng",
+          "text": "Opening Remarks",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "144620221",
+        "id": "note11",
+        "text": "<p data-aid=\"144620303\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=eng#p9\">Doctrine and Covenants 122:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.9?lang=eng#p9",
+          "text": "Doctrine and Covenants 122:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "144620221",
+        "id": "note10",
+        "text": "<p data-aid=\"144620301\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.7?lang=eng#p7\">Doctrine and Covenants 122:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.7?lang=eng#p7",
+          "text": "Doctrine and Covenants 122:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "144620179",
+        "id": "note1",
+        "text": "<p data-aid=\"144620283\" id=\"note1_p1\">First Presidency letter, Apr. 16, 2020.<\/p>"
+      }
+    }
+  }
+}

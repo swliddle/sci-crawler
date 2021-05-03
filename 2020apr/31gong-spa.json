@@ -1,0 +1,987 @@
+{
+  "tableOfContentsUri": "/liahona/2020/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2020/05/31gong",
+      "data-aid": "143141094",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "fecc45fc4e654f4bbbb6c2dca09008e6",
+      "data-aid-version": "3",
+      "data-orig-id": "2b17e92da1e649a78ab8e54adeb84bf8"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147164051001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3010-gerrit-w-gong-64k-spa.mp3"
+    }],
+    "title": "Hosanna y aleluya \u2014 Jesucristo viviente: La esencia de la Restauración y de la Pascua de Resurrección",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "143141094",
+      {"key": "143141094"}
+    ],
+    [
+      "143176493",
+      {"key": "143176493"}
+    ],
+    [
+      "143176494",
+      {"key": "143176494"}
+    ],
+    [
+      "143176495",
+      {"key": "143176495"}
+    ],
+    [
+      "143176496",
+      {"key": "143176496"}
+    ],
+    [
+      "143176497",
+      {"key": "143176497"}
+    ],
+    [
+      "143176498",
+      {"key": "143176498"}
+    ],
+    [
+      "143176499",
+      {"key": "143176499"}
+    ],
+    [
+      "143176500",
+      {"key": "143176500"}
+    ],
+    [
+      "143176501",
+      {"key": "143176501"}
+    ],
+    [
+      "143176502",
+      {"key": "143176502"}
+    ],
+    [
+      "143176503",
+      {"key": "143176503"}
+    ],
+    [
+      "143176504",
+      {"key": "143176504"}
+    ],
+    [
+      "143176505",
+      {"key": "143176505"}
+    ],
+    [
+      "143176506",
+      {"key": "143176506"}
+    ],
+    [
+      "143176507",
+      {"key": "143176507"}
+    ],
+    [
+      "143176508",
+      {"key": "143176508"}
+    ],
+    [
+      "143176509",
+      {"key": "143176509"}
+    ],
+    [
+      "143176510",
+      {"key": "143176510"}
+    ],
+    [
+      "143176511",
+      {"key": "143176511"}
+    ],
+    [
+      "143176512",
+      {"key": "143176512"}
+    ],
+    [
+      "143176513",
+      {"key": "143176513"}
+    ],
+    [
+      "143176514",
+      {"key": "143176514"}
+    ],
+    [
+      "143176515",
+      {"key": "143176515"}
+    ],
+    [
+      "143176516",
+      {"key": "143176516"}
+    ],
+    [
+      "143176517",
+      {"key": "143176517"}
+    ],
+    [
+      "143176518",
+      {"key": "143176518"}
+    ],
+    [
+      "143176519",
+      {"key": "143176519"}
+    ],
+    [
+      "143176520",
+      {"key": "143176520"}
+    ],
+    [
+      "143176521",
+      {"key": "143176521"}
+    ],
+    [
+      "143176522",
+      {"key": "143176522"}
+    ],
+    [
+      "143176523",
+      {"key": "143176523"}
+    ],
+    [
+      "143176524",
+      {"key": "143176524"}
+    ],
+    [
+      "143176525",
+      {"key": "143176525"}
+    ],
+    [
+      "143176526",
+      {"key": "143176526"}
+    ],
+    [
+      "143176527",
+      {"key": "143176527"}
+    ],
+    [
+      "143176528",
+      {"key": "143176528"}
+    ],
+    [
+      "143176529",
+      {"key": "143176529"}
+    ],
+    [
+      "143176530",
+      {"key": "143176530"}
+    ],
+    [
+      "143176531",
+      {"key": "143176531"}
+    ],
+    [
+      "143176532",
+      {"key": "143176532"}
+    ],
+    [
+      "143176533",
+      {"key": "143176533"}
+    ],
+    [
+      "143263885",
+      {"key": "143263885"}
+    ],
+    [
+      "143176535",
+      {"key": "143176535"}
+    ],
+    [
+      "143176536",
+      {"key": "143176536"}
+    ],
+    [
+      "143176537",
+      {"key": "143176537"}
+    ],
+    [
+      "143176538",
+      {"key": "143176538"}
+    ],
+    [
+      "143176539",
+      {"key": "143176539"}
+    ],
+    [
+      "143176540",
+      {"key": "143176540"}
+    ],
+    [
+      "143176541",
+      {"key": "143176541"}
+    ],
+    [
+      "143176542",
+      {"key": "143176542"}
+    ],
+    [
+      "143176543",
+      {"key": "143176543"}
+    ],
+    [
+      "143176544",
+      {"key": "143176544"}
+    ],
+    [
+      "143176545",
+      {"key": "143176545"}
+    ],
+    [
+      "143176546",
+      {"key": "143176546"}
+    ],
+    [
+      "143176547",
+      {"key": "143176547"}
+    ],
+    [
+      "143176548",
+      {"key": "143176548"}
+    ],
+    [
+      "143176549",
+      {"key": "143176549"}
+    ],
+    [
+      "143176550",
+      {"key": "143176550"}
+    ],
+    [
+      "143176551",
+      {"key": "143176551"}
+    ],
+    [
+      "143176552",
+      {"key": "143176552"}
+    ],
+    [
+      "143176553",
+      {"key": "143176553"}
+    ],
+    [
+      "143176554",
+      {"key": "143176554"}
+    ],
+    [
+      "143176555",
+      {"key": "143176555"}
+    ],
+    [
+      "143176556",
+      {"key": "143176556"}
+    ],
+    [
+      "143176557",
+      {"key": "143176557"}
+    ],
+    [
+      "143176558",
+      {"key": "143176558"}
+    ],
+    [
+      "143176559",
+      {"key": "143176559"}
+    ],
+    [
+      "143176560",
+      {"key": "143176560"}
+    ],
+    [
+      "143176561",
+      {"key": "143176561"}
+    ],
+    [
+      "143176562",
+      {"key": "143176562"}
+    ],
+    [
+      "143176563",
+      {"key": "143176563"}
+    ],
+    [
+      "143176564",
+      {"key": "143176564"}
+    ],
+    [
+      "143176565",
+      {"key": "143176565"}
+    ],
+    [
+      "143176566",
+      {"key": "143176566"}
+    ],
+    [
+      "143176567",
+      {"key": "143176567"}
+    ],
+    [
+      "143176568",
+      {"key": "143176568"}
+    ],
+    [
+      "143176569",
+      {"key": "143176569"}
+    ],
+    [
+      "143176570",
+      {"key": "143176570"}
+    ]
+  ],
+  "uri": "/liahona/2020/05/31gong",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Gong enseña cómo Jesucristo es la esencia de la Pascua de Resurrección y de la Restauración de los últimos días.",
+          "title": "Hosanna y aleluya \u2014 Jesucristo viviente: La esencia de la Restauración y de la Pascua de Resurrección"
+        },
+        "pageSocial": {
+          "description": "El élder Gong enseña cómo Jesucristo es la esencia de la Pascua de Resurrección y de la Restauración de los últimos días.",
+          "title": "Hosanna y aleluya \u2014 Jesucristo viviente: La esencia de la Restauración y de la Pascua de Resurrección"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/31gong?lang=spa\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147164051001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147164051001\" data-video-title=\"Hosanna y aleluya &#x2014; Jesucristo viviente: La esencia de la Restauraci&#xF3;n y de la Pascua de Resurrecci&#xF3;n\" data-video-description=\"El &#xE9;lder Gong ense&#xF1;a c&#xF3;mo Jesucristo es la esencia de la Pascua de Resurrecci&#xF3;n y de la Restauraci&#xF3;n de los &#xFA;ltimos d&#xED;as.\" data-video-id=\"6147164051001\" data-ip=\"Download &amp; Streaming\" data-duration=\"896329\" data-assetid=\"51554AFC5DCD1E4292BBFCB2F8F18B183E75E15C\" data-ref-id=\"51554AFC5DCD1E4292BBFCB2F8F18B183E75E15C\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147164051001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3010-gerrit-w-gong-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"115918125\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3010-gerrit-w-gong-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"231836251\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3010-gerrit-w-gong-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"463672502\"><\/video><h1 data-aid=\"143176493\" id=\"title1\">Hosanna y aleluya &#xFEFF;&#x2014; Jesucristo viviente: La esencia de la Restauraci&#xF3;n y de la Pascua de Resurrecci&#xF3;n<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143176494\" id=\"author1\">Por el &#xE9;lder Gerrit&#xA0;W. Gong<\/p>\n<p class=\"author-role\" data-aid=\"143176495\" id=\"author2\">Del Cu&#xF3;rum de los Doce Ap&#xF3;stoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143176496\" id=\"kicker1\">En esta &#xE9;poca de hosanna y aleluya, canten aleluya, &#xA1;porque &#xC9;l reinar&#xE1; para siempre jam&#xE1;s!<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143176497\" id=\"p1\">Queridos hermanos y hermanas: con hosanna y aleluya celebramos a Jesucristo viviente en esta &#xE9;poca de Restauraci&#xF3;n continua y de Pascua de Resurrecci&#xF3;n. Con perfecto amor, nuestro Salvador nos asegura: &#x201C;que en m&#xED; teng&#xE1;is paz. En el mundo tendr&#xE9;is aflicci&#xF3;n. Pero confiad; yo he vencido al mundo&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"143176498\" id=\"p2\">Hace algunos a&#xF1;os, cuando la hermana Gong y yo conocimos a una hermosa familia, su hija peque&#xF1;a, Ivy, t&#xED;midamente sac&#xF3; su estuche de viol&#xED;n; sac&#xF3; el arco del viol&#xED;n, lo tens&#xF3; y le puso resina; luego puso el arco nuevamente en el estuche, hizo una reverencia y se sent&#xF3;. Como principiante, hab&#xED;a compartido todo lo que sab&#xED;a hacer con el viol&#xED;n. Ahora, a&#xF1;os m&#xE1;s tarde, Ivy toca el viol&#xED;n armoniosamente.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/c9/59/c959867cb97259ff07cc1aa66ae9bbeeb0a970f1/girl_violin_musical_instrument.png\" data-img-id=\"2349964\" srcset=\"https://assets.ldscdn.org/d3/58/d3587a084306671a57fd64484c85039619dbe9c6/girl_violin_musical_instrument.png 60w,https://assets.ldscdn.org/67/25/67259fadb5650464adc683a3e82274f3cb1f21d9/girl_violin_musical_instrument.png 100w,https://assets.ldscdn.org/22/96/2296c452d88e53833fdd5c6ab6b7e041cebb2e20/girl_violin_musical_instrument.png 200w,https://assets.ldscdn.org/43/9b/439bec63d5831695e7dceb37c9eb2c409c48cb03/girl_violin_musical_instrument.png 250w,https://assets.ldscdn.org/20/39/2039a6f717be28e3d4ac1189aac1b9990231a413/girl_violin_musical_instrument.png 320w,https://assets.ldscdn.org/c9/59/c959867cb97259ff07cc1aa66ae9bbeeb0a970f1/girl_violin_musical_instrument.png 500w,https://assets.ldscdn.org/8e/ac/8eac4e53643d746258165c823cf4129103b48623/girl_violin_musical_instrument.png 640w\" data-assetid=\"44394b5e86a14a82d6d0d7a9a212c713c449b3cf\" data-missing-asset=\"false\" alt=\"Girl with Violin\">\n<p data-aid=\"143176499\" id=\"p3\">En este periodo terrenal, todos somos un poco como Ivy y su viol&#xED;n. Comenzamos desde el principio y, con pr&#xE1;ctica y perseverancia, progresamos y mejoramos. Con el paso del tiempo, el albedr&#xED;o moral y las experiencias terrenales nos ayudan a llegar a ser m&#xE1;s como nuestro Salvador conforme trabajamos con &#xC9;l en Su vi&#xF1;a<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> y seguimos Su senda de los convenios.<\/p>\n<p data-aid=\"143176500\" id=\"p4\">Los aniversarios, incluso este bicentenario, destacan los patrones de restauraci&#xF3;n<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Al celebrar la restauraci&#xF3;n continua del evangelio de Jesucristo, tambi&#xE9;n nos preparamos para la Pascua de Resurrecci&#xF3;n. En ambas, nos regocijamos por el regreso de Jesucristo. &#xC9;l vive, no solo en aquel entonces, sino ahora; no solo para algunos, sino para todos. &#xC9;l vino y sigue viniendo a sanar a los quebrantados de coraz&#xF3;n, liberar a los cautivos, dar vista a los ciegos y poner en libertad a los quebrantados<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>, Esos somos cada uno de nosotros. Sus promesas de redenci&#xF3;n se cumplen, independientemente de nuestro pasado, nuestro presente o lo que pensemos de nuestro futuro.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/2e/31/2e31749da302b38f736198c7600fd71a0d2829c8/christ_triumphant_entry_anderson.png\" data-img-id=\"2350680\" srcset=\"https://assets.ldscdn.org/3c/09/3c0983b74af04be0b40f14745003fb41300ee1b3/christ_triumphant_entry_anderson.png 60w,https://assets.ldscdn.org/c3/16/c316a63bb48e02f21e543b43250058a4a085433b/christ_triumphant_entry_anderson.png 100w,https://assets.ldscdn.org/73/9d/739d9995b40907ed88dc8ba311c20d25790afbe1/christ_triumphant_entry_anderson.png 200w,https://assets.ldscdn.org/93/e8/93e8ae0da08a1156b33e21b87c3941959d0dbd62/christ_triumphant_entry_anderson.png 250w,https://assets.ldscdn.org/85/96/8596e317b59535b13073e5efa5e3301c4f1bcd80/christ_triumphant_entry_anderson.png 320w,https://assets.ldscdn.org/2e/31/2e31749da302b38f736198c7600fd71a0d2829c8/christ_triumphant_entry_anderson.png 500w,https://assets.ldscdn.org/4b/02/4b02674744d4580023901278765d13daa35ea1d2/christ_triumphant_entry_anderson.png 640w\" data-assetid=\"ae8e34ec5f382cfc3af23e1382ffee62a54acde6\" data-missing-asset=\"false\" alt=\"Christ&apos;s Triumphal Entry Into Jerusalem\">\n<p data-aid=\"143176501\" id=\"p5\">Ma&#xF1;ana es Domingo de Ramos. Tradicionalmente, las palmas son un s&#xED;mbolo sagrado para expresar gozo en nuestro Se&#xF1;or, como en <em>la entrada triunfal de Cristo en Jerusal&#xE9;n<\/em>, &#x201C;mucha gente [&#x2026;] tom[&#xF3;] ramas de palmeras y sali[&#xF3;] a recibirle&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. (Tal vez les interese saber que el original de este cuadro de Harry Anderson se encuentra en la oficina del presidente Russell&#xA0;M. Nelson, justo detr&#xE1;s de su escritorio). En el libro de Apocalipsis, los que alaban a Dios y al Cordero lo hacen &#x201C;vestidos de ropas blancas, y con palmas en las manos&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. En la oraci&#xF3;n dedicatoria del Templo de Kirtland, se mencionan palmas junto con &#x201C;mantos de rectitud&#x201D; y &#x201C;coronas de gloria&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"143176502\" id=\"p6\">Por supuesto, el significado del Domingo de Ramos va m&#xE1;s all&#xE1; de las multitudes que saludaban a Jes&#xFA;s con palmas; el Domingo de Ramos, Jes&#xFA;s entr&#xF3; en Jerusal&#xE9;n, de maneras que los fieles reconocieron como el cumplimiento de las profec&#xED;as. Tal como Zacar&#xED;as<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> y el salmista predijeron prof&#xE9;ticamente, nuestro Se&#xF1;or entr&#xF3; en Jerusal&#xE9;n montado en un pollino mientras las multitudes, entendiendo, aclamaban &#x201C;Hosanna en las alturas&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Hosanna significa &#x201C;s&#xE1;lvanos&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Entonces, as&#xED; como ahora, nos regocijamos: &#x201C;&#xA1;Bendito el que viene en nombre de Jehov&#xE1;&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"143176503\" id=\"p7\">Una semana despu&#xE9;s del Domingo de Ramos es el Domingo de Resurrecci&#xF3;n. El presidente Russell&#xA0;M. Nelson ense&#xF1;a que Jesucristo &#x201C;vino a saldar una deuda que no era Suya porque nosotros ten&#xED;amos una deuda que no pod&#xED;amos saldar&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Ciertamente, por medio de la expiaci&#xF3;n de Cristo todos los hijos de Dios &#x201C;puede[n] salvarse, mediante la obediencia a las leyes y ordenanzas del Evangelio&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. En la Pascua, cantamos aleluya. Aleluya significa &#x201C;alabad a Jehov&#xE1; el Se&#xF1;or&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. La pieza coral &#x201C;Aleluya&#x201D; de <em>El Mes&#xED;as<\/em> de H&#xE4;ndel es una preciada declaraci&#xF3;n de la Pascua de Resurrecci&#xF3;n de que &#xC9;l es &#x201C;Rey de reyes&#x201D; y &#x201C;Se&#xF1;or de se&#xF1;ores&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"143176504\" id=\"p8\">Los acontecimientos sagrados que ocurrieron entre el Domingo de Ramos y el Domingo de Pascua son la historia del hosanna y del aleluya. Hosanna es nuestra s&#xFA;plica a Dios de que nos salve; aleluya expresa nuestra alabanza al Se&#xF1;or por la esperanza de la salvaci&#xF3;n y la exaltaci&#xF3;n. En el hosanna y el aleluya reconocemos a Jesucristo viviente como la esencia de la Pascua de Resurrecci&#xF3;n y de la Restauraci&#xF3;n de los &#xFA;ltimos d&#xED;as.<\/p>\n<p data-aid=\"143176505\" id=\"p9\">La restauraci&#xF3;n de los &#xFA;ltimos d&#xED;as comienza con una teofan&#xED;a: la aparici&#xF3;n literal de Dios el Padre y de Su Hijo Jesucristo al joven profeta Jos&#xE9; Smith. El profeta Jos&#xE9; dijo: &#x201C;Si durante cinco minutos pudieran ver lo que hay en el cielo, aprender&#xED;an m&#xE1;s que si leyesen todo lo que se haya escrito sobre el tema&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Puesto que los cielos est&#xE1;n abiertos de nuevo, conocemos a &#x201C;Dios, el Eterno Padre, y [a] su Hijo Jesucristo, y [&#x2026;] [a]l Esp&#xED;ritu Santo&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>, y creemos en Ellos: la divina Trinidad.<\/p>\n<p data-aid=\"143176506\" id=\"p10\">El Domingo de Pascua de Resurrecci&#xF3;n, el 3 de abril de 1836, en la primera &#xE9;poca de la Restauraci&#xF3;n, Jesucristo viviente apareci&#xF3; despu&#xE9;s de dedicarse el Templo de Kirtland. Quienes lo vieron testificaron de &#xC9;l mediante contrastes complementarios de fuego y agua: &#x201C;Sus ojos eran como llama de <em>fuego<\/em>; el cabello de su cabeza era blanco como la <em>nieve pura<\/em>; su semblante brillaba m&#xE1;s que el <em>resplandor del sol<\/em>; y su voz era como el <em>estruendo de muchas aguas<\/em>, s&#xED;, la voz de Jehov&#xE1;&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"143176507\" id=\"p11\">En esa ocasi&#xF3;n, nuestro Salvador declar&#xF3;: &#x201C;Soy el primero y el &#xFA;ltimo; soy el que vive, soy el que fue muerto; soy vuestro abogado ante el Padre&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Nuevamente, contrastes complementarios: primero y &#xFA;ltimo, vivo y muerto. &#xC9;l es el Alfa y la Omega, el principio y el fin<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>, el autor y consumador de nuestra fe<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"143176508\" id=\"p12\">Tras la aparici&#xF3;n de Jesucristo, Mois&#xE9;s, El&#xED;as y El&#xED;as el Profeta tambi&#xE9;n vinieron. Por mandato divino, esos grandes profetas de anta&#xF1;o restauraron llaves y autoridad del sacerdocio. De esa manera, &#x201C;se entregan [&#x2026;] las llaves de esta dispensaci&#xF3;n&#x201D;<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> dentro de Su Iglesia para bendecir a todos los hijos de Dios.<\/p>\n<p data-aid=\"143176509\" id=\"p13\">La venida de El&#xED;as el Profeta al Templo de Kirtland tambi&#xE9;n cumpli&#xF3; la profec&#xED;a de Malaqu&#xED;as del Antiguo Testamento, de que El&#xED;as el Profeta regresar&#xED;a &#x201C;antes que venga el d&#xED;a de Jehov&#xE1;, grande y terrible&#x201D;<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Al hacerlo, la aparici&#xF3;n de El&#xED;as el Profeta coincidi&#xF3;, aunque no por casualidad, con la &#xE9;poca de la Pascua jud&#xED;a, cuya tradici&#xF3;n espera con reverencia el regreso de El&#xED;as el Profeta.<\/p>\n<p data-aid=\"143176510\" id=\"p14\">Muchas familias jud&#xED;as devotas preparan un lugar para El&#xED;as el Profeta en su mesa pascual. Muchos llenan una copa hasta el borde para invitarlo y recibirlo; y algunos, durante el S&#xE9;der de P&#xE9;saj tradicional, env&#xED;an a un ni&#xF1;o a la puerta, que a veces se deja entreabierta, para ver si El&#xED;as el Profeta est&#xE1; afuera esperando que lo inviten a pasar<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"143176511\" id=\"p15\">En cumplimiento de la profec&#xED;a y como parte de la prometida restauraci&#xF3;n de todas las cosas<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>, El&#xED;as el Profeta s&#xED; vino como se prometi&#xF3;, en el d&#xED;a de Pascua de Resurrecci&#xF3;n y al inicio de la Pascua jud&#xED;a. Trajo la autoridad para sellar a fin de unir a las familias en la tierra y en el cielo. Tal como Moroni ense&#xF1;&#xF3; al profeta Jos&#xE9;, El&#xED;as el Profeta &#x201C;plantar&#xE1; en el coraz&#xF3;n de los hijos las promesas hechas a los padres, y el coraz&#xF3;n de los hijos se volver&#xE1; a sus padres. De no ser as&#xED;&#x201D;, continu&#xF3; Moroni, &#x201C;toda la tierra ser&#xED;a totalmente asolada a [la] venida [del Se&#xF1;or]&#x201D;<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. El esp&#xED;ritu de El&#xED;as, una manifestaci&#xF3;n del Esp&#xED;ritu Santo, nos acerca a nuestras generaciones &#xFEFF;&#x2014;pasadas, presentes y futuras&#xFEFF;&#x2014; en nuestras genealog&#xED;as, historias y servicio en el templo.<\/p>\n<p data-aid=\"143176512\" id=\"p16\">Recordemos brevemente tambi&#xE9;n lo que la Pascua jud&#xED;a representa; esta conmemora la liberaci&#xF3;n de los hijos de Israel de 400 a&#xF1;os de cautiverio. El libro de &#xC9;xodo relata c&#xF3;mo lleg&#xF3; la liberaci&#xF3;n tras plagas de ranas, piojos, moscas, muerte del ganado, sarpullido, &#xFA;lceras, granizo y fuego, langostas y densas tinieblas. La &#xFA;ltima plaga amenazaba con la muerte de los primog&#xE9;nitos de la tierra, pero no en la casa de Israel si es que&#x2026; si es que en esos hogares pon&#xED;an la sangre de un cordero de las primicias y sin mancha en el dintel de la puerta<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"143176513\" id=\"p17\">El &#xE1;ngel de muerte pas&#xF3; de largo las casas marcadas con la sangre simb&#xF3;lica del cordero<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Ese acto de pasar de largo representa que Jesucristo finalmente vence la muerte. En efecto, la sangre expiatoria del Cordero de Dios da a nuestro Buen Pastor poder para recoger a Su pueblo de todo lugar y circunstancia en la seguridad de Su redil, a ambos lados del velo.<\/p>\n<p data-aid=\"143176514\" id=\"p18\">Es significativo que el Libro de Morm&#xF3;n describa &#x201C;el poder y la resurrecci&#xF3;n de Cristo&#x201D;<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> &#xFEFF;&#x2014;la esencia de la Pascua de Resurrecci&#xF3;n&#xFEFF;&#x2014; en t&#xE9;rminos de dos restauraciones.<\/p>\n<p data-aid=\"143176515\" id=\"p19\">Primero, la resurrecci&#xF3;n incluye la restauraci&#xF3;n f&#xED;sica de nuestra &#x201C;propia y perfecta forma&#x201D;; &#x201C;todo miembro y coyuntura ser&#xE1;n restablecidos a su cuerpo; s&#xED;, ni un cabello de la cabeza se perder&#xE1;&#x201D;<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. Esa promesa da esperanza a quienes han perdido extremidades, a los que han perdido la capacidad de ver, o&#xED;r o caminar; o aquellos que cre&#xED;amos que hab&#xED;an sucumbido a enfermedades implacables, o mentales, o alguna otra discapacidad. &#xC9;l nos halla; &#xC9;l nos sana.<\/p>\n<p data-aid=\"143176516\" id=\"p20\">Una segunda promesa de la Pascua de Resurrecci&#xF3;n y de la expiaci&#xF3;n de nuestro Salvador es que &#x201C;todas las cosas ser&#xE1;n restablecidas a su propio orden&#x201D;<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>. Esa restauraci&#xF3;n espiritual refleja nuestras obras y nuestros deseos. Como pan sobre las aguas<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>, restaura &#x201C;lo que es bueno&#x201D;, &#x201C;recto&#x201D;, &#x201C;justo&#x201D; y &#x201C;misericordioso&#x201D;<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>. No es de extra&#xF1;ar que el profeta Alma utilice variaciones de las palabras <em>restaurar, restablecer y restituir<\/em> veintid&#xF3;s veces<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a> al instarnos a &#x201C;trata[r] con justicia, juzga[r] con rectitud, y ha[cer] lo bueno sin cesar&#x201D;<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>.<\/p>\n<p data-aid=\"143176517\" id=\"p21\">Debido a que &#x201C;Dios mismo exp&#xED;a los pecados del mundo&#x201D;<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a>, la expiaci&#xF3;n del Se&#xF1;or puede sanar no solo lo que fue, sino tambi&#xE9;n lo que puede ser. Debido a que &#xC9;l conoce nuestros dolores, aflicciones, enfermedades, nuestras &#x201C;tentaciones de todo tipo&#x201D;<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a>, &#xC9;l puede, con misericordia, socorrernos seg&#xFA;n nuestras enfermedades<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\">38<\/sup><\/a>. Puesto que Dios es &#x201C;un Dios perfecto, justo y misericordioso tambi&#xE9;n&#x201D;, el plan de misericordia puede &#x201C;apaciguar las demandas de la justicia&#x201D;<a class=\"note-ref\" href=\"#note39\"><sup class=\"marker\">39<\/sup><\/a>. Nos arrepentimos y hacemos todo lo que podemos. &#xC9;l nos envuelve eternamente &#x201C;entre los brazos de su amor&#x201D;<a class=\"note-ref\" href=\"#note40\"><sup class=\"marker\">40<\/sup><\/a>.<\/p>\n<p data-aid=\"143176518\" id=\"p22\">Hoy celebramos restauraci&#xF3;n y resurrecci&#xF3;n. Con ustedes, me regocijo en la Restauraci&#xF3;n continua de la plenitud del evangelio de Jesucristo. Tal como comenz&#xF3; en la primavera hace doscientos a&#xF1;os, la luz y la revelaci&#xF3;n siguen manifest&#xE1;ndose por medio del profeta viviente del Se&#xF1;or y de Su Iglesia que lleva Su nombre &#xFEFF;&#x2014;La Iglesia de Jesucristo de los Santos de los &#xDA;ltimos D&#xED;as&#xFEFF;&#x2014; y mediante la revelaci&#xF3;n e inspiraci&#xF3;n personales por el don divino del Esp&#xED;ritu Santo.<\/p>\n<p data-aid=\"143176519\" id=\"p27\">Con ustedes, en esta &#xE9;poca de Pascua de Resurrecci&#xF3;n, testifico de Dios, nuestro Padre Eterno, y de Su Hijo Amado, Jesucristo viviente. Hubo hombres mortales que fueron cruelmente crucificados y despu&#xE9;s resucitados, pero solo Jesucristo viviente en Su perfecta forma resucitada todav&#xED;a tiene las marcas de la crucifixi&#xF3;n en Sus manos, pies y costado. Solo &#xC9;l puede decir: &#x201C;[E]n las palmas de mis manos te tengo grabad[o]&#x201D;<a class=\"note-ref\" href=\"#note41\"><sup class=\"marker\">41<\/sup><\/a>. Solo &#xC9;l puede declarar: &#x201C;Soy el que fue levantado. Soy Jes&#xFA;s que fue crucificado. Soy el Hijo de Dios&#x201D;<a class=\"note-ref\" href=\"#note42\"><sup class=\"marker\">42<\/sup><\/a>.<\/p>\n<p data-aid=\"143176520\" id=\"p24\">Al igual que la peque&#xF1;a Ivy y su viol&#xED;n, nosotros en ciertas formas a&#xFA;n estamos empezando. Es veraz el dicho: &#x201C;Cosas que ojo no vio, ni o&#xED;do oy&#xF3;, ni han subido al coraz&#xF3;n del hombre, son las que Dios ha preparado para aquellos que le aman&#x201D;<a class=\"note-ref\" href=\"#note43\"><sup class=\"marker\">43<\/sup><\/a>. En esta &#xE9;poca, podemos aprender mucho de la bondad de Dios y nuestro potencial divino para que el amor de Dios crezca en nosotros al buscarlo a &#xC9;l y ayudarnos mutuamente. En maneras nuevas y en lugares nuevos, podemos ser y llegar a ser, l&#xED;nea sobre l&#xED;nea, bondad tras bondad, de forma individual y en conjunto.<\/p>\n<p data-aid=\"143176521\" id=\"p25\">Estimados hermanos y hermanas de todo lugar, al reunirnos y aprender juntos, la fe y la bondad de ustedes me llenan con un sentimiento de gratitud y de entusiasmo en cuanto al Evangelio. Su testimonio y su traves&#xED;a en el Evangelio enriquecen mi testimonio y mi traves&#xED;a en el Evangelio. Sus preocupaciones y alegr&#xED;as, su amor por la familia de Dios y la comunidad de santos, y el entendimiento de la verdad y la luz restaurada que viven, aumentan mi plenitud del Evangelio restaurado, cuya esencia es Jesucristo viviente. Juntos confiamos, &#x201C;En sol y sombra, acomp&#xE1;&#xF1;ame&#x201D;<a class=\"note-ref\" href=\"#note44\"><sup class=\"marker\">44<\/sup><\/a>. En uni&#xF3;n sabemos, entre las cargas grandes de pesar, que podemos contar nuestras bendiciones<a class=\"note-ref\" href=\"#note45\"><sup class=\"marker\">45<\/sup><\/a>. En los detalles diarios y en las cosas peque&#xF1;as y sencillas, podemos ver que se realizan grandes cosas en nuestras vidas<a class=\"note-ref\" href=\"#note46\"><sup class=\"marker\">46<\/sup><\/a>.<\/p>\n<p data-aid=\"143176522\" id=\"p26\">&#x201C;Y acontecer&#xE1; que los justos ser&#xE1;n recogidos de entre todas las naciones, y vendr&#xE1;n a Sion entonando canciones de gozo sempiterno&#x201D;<a class=\"note-ref\" href=\"#note47\"><sup class=\"marker\">47<\/sup><\/a>. En esta &#xE9;poca de hosanna y aleluya, canten aleluya, &#xA1;porque &#xC9;l reinar&#xE1; para siempre jam&#xE1;s! &#xA1;Exclamen hosanna a Dios y al Cordero! En el sagrado y santo nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "143176500",
+        "id": "note4",
+        "text": "<p data-aid=\"143176527\" id=\"note4_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.18?lang=spa#p18\">Lucas 4:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/4.18?lang=spa#p18",
+          "text": "Lucas 4:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "143176501",
+        "id": "note5",
+        "text": "<p data-aid=\"143176528\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.12-13?lang=spa#p12\">Juan 12:12&#x2013;13<\/a>; v&#xE9;anse tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.8-9?lang=spa#p8\">Mateo 21:8&#x2013;9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.8-10?lang=spa#p8\">Marcos 11:8&#x2013;10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/12.12-13?lang=spa#p12",
+            "text": "Juan 12:12\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21.8-9?lang=spa#p8",
+            "text": "Mateo 21:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/11.8-10?lang=spa#p8",
+            "text": "Marcos 11:8\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "143176499",
+        "id": "note2",
+        "text": "<p data-aid=\"143176525\" id=\"note2_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5?lang=spa\">Jacob 5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/5?lang=spa",
+          "text": "Jacob 5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "143176500",
+        "id": "note3",
+        "text": "<p data-aid=\"143176526\" id=\"note3_p1\">Tal como se profetiza en las Escrituras, la historia de la humanidad manifiesta per&#xED;odos o ciclos de declive espiritual que llamamos apostas&#xED;a, y periodos de renovada luz que llamamos restauraci&#xF3;n espiritual; v&#xE9;ase, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-thes/2.3?lang=spa#p3\">2&#xA0;Tesalonicenses 2:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-thes/2.3?lang=spa#p3",
+          "text": "2 Tesalonicenses 2:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "143176502",
+        "id": "note8",
+        "text": "<p data-aid=\"143176531\" id=\"note8_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=spa#p9\">Zacar&#xED;as 9:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/zech/9.9?lang=spa#p9",
+          "text": "Zacarías 9:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "143176502",
+        "id": "note9",
+        "text": "<p data-aid=\"143176532\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/21.9?lang=spa#p9",
+          "text": "Mateo 21:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "143176501",
+        "id": "note6",
+        "text": "<p data-aid=\"143176529\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/7.9?lang=spa#p9\">Apocalipsis 7:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rev/7.9?lang=spa#p9",
+          "text": "Apocalipsis 7:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "143176501",
+        "id": "note7",
+        "text": "<p data-aid=\"143176530\" id=\"note7_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.76?lang=spa#p76\">Doctrina y Convenios 109:76<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109.76?lang=spa#p76",
+          "text": "Doctrina y Convenios 109:76",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": null,
+        "pid": "143176515",
+        "id": "note30",
+        "text": "<p data-aid=\"143176553\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.23?lang=spa#p23\">Alma 40:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/40.23?lang=spa#p23",
+          "text": "Alma 40:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "143176505",
+        "id": "note16",
+        "text": "<p data-aid=\"143176539\" id=\"note16_p1\"><cite><span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/teachings-joseph-smith/chapter-36.html?para=reference1#reference1\">Ense&#xF1;anzas de los Presidentes de la Iglesia: Jos&#xE9; Smith<\/span><\/cite>, 2007, p&#xE1;g. 445.<\/p>"
+      },
+      "note38": {
+        "marker": "38.",
+        "context": null,
+        "pid": "143176517",
+        "id": "note38",
+        "text": "<p data-aid=\"143176561\" id=\"note38_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.12?lang=spa#p12\">Alma 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.12?lang=spa#p12",
+          "text": "Alma 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "143176503",
+        "id": "note15",
+        "text": "<p data-aid=\"143176538\" id=\"note15_p1\">George Frideric Handel, <em>Mes&#xED;as<\/em>, ed. T. Tertius Noble (1912), viii; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/17.14?lang=spa#p14\">Apocalipsis 17:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rev/17.14?lang=spa#p14",
+          "text": "Apocalipsis 17:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "context": null,
+        "pid": "143176517",
+        "id": "note37",
+        "text": "<p data-aid=\"143176560\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11?lang=spa#p11\">Alma 7:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.11?lang=spa#p11",
+          "text": "Alma 7:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "143176503",
+        "id": "note14",
+        "text": "<p data-aid=\"143176537\" id=\"note14_p1\">V&#xE9;ase Bible Dictionary, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/hallelujah?lang=spa\">Hallelujah<\/a>&#x201D;.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/hallelujah?lang=spa",
+          "text": "Hallelujah",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "context": null,
+        "pid": "143176517",
+        "id": "note36",
+        "text": "<p data-aid=\"143176559\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.15?lang=spa#p15\">Alma 42:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/42.15?lang=spa#p15",
+          "text": "Alma 42:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "143176503",
+        "id": "note13",
+        "text": "<p data-aid=\"143176536\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.3?lang=spa#p3\">Art&#xED;culos de Fe 1:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.3?lang=spa#p3",
+          "text": "Artículos de Fe 1:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "context": null,
+        "pid": "143176516",
+        "id": "note35",
+        "text": "<p data-aid=\"143176558\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41.14?lang=spa#p14\">Alma 41:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41.14?lang=spa#p14",
+          "text": "Alma 41:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "143176503",
+        "id": "note12",
+        "text": "<p data-aid=\"143176535\" id=\"note12_p1\">Russell&#xA0;M. Nelson, en <em><a href=\"https://www.churchofjesuschrist.org/media-library/video/2017-04-0001-handels-messiah-debtors-prison?lang=eng\">Handel&#x2019;s Messiah: Debtor&#x2019;s Prison<\/a><\/em> (video), ChurchofJesusChrist.org/media-library.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/media-library/video/2017-04-0001-handels-messiah-debtors-prison?lang=eng",
+          "text": "Handel\u2019s Messiah: Debtor\u2019s Prison"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": null,
+        "pid": "143176516",
+        "id": "note34",
+        "text": "<p data-aid=\"143176557\" id=\"note34_p1\">Las palabras <em>restauraci&#xF3;n, restaurada, restablecida, restituida<\/em> u otras variantes de estas aparecen veintid&#xF3;s veces en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.22-24?lang=spa#p22\">Alma 40:22&#x2013;24<\/a> y en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41?lang=spa\">Alma 41<\/a>, haciendo hincapi&#xE9; tanto en la restauraci&#xF3;n f&#xED;sica como en la espiritual.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/40.22-24?lang=spa#p22",
+            "text": "Alma 40:22\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/41?lang=spa",
+            "text": "Alma 41",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "143176502",
+        "id": "note11",
+        "text": "<p data-aid=\"143263885\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/118.26?lang=spa#p26\">Salmo 118:26<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.17?lang=spa#p17\">3&#xA0;Nefi 11:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/118.26?lang=spa#p26",
+            "text": "Salmo 118:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.17?lang=spa#p17",
+            "text": "3 Nefi 11:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": null,
+        "pid": "143176516",
+        "id": "note33",
+        "text": "<p data-aid=\"143176556\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41.13?lang=spa#p13\">Alma 41:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41.13?lang=spa#p13",
+          "text": "Alma 41:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "143176502",
+        "id": "note10",
+        "text": "<p data-aid=\"143176533\" id=\"note10_p1\">V&#xE9;ase Gu&#xED;a para el Estudio de las Escrituras, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/hosanna?lang=spa\">Hosanna<\/a>&#x201D;. Desde la &#xE9;poca del Antiguo Testamento, el agitar ramas de palma acompa&#xF1;aba el canto de &#x201C;Oh Jehov&#xE1;, s&#xE1;lvanos ahora, te ruego&#x201D;. <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/118.25?lang=spa#p25\">Salmos 118:25<\/a> es la expresi&#xF3;n completa de la tradicional s&#xFA;plica mesi&#xE1;nica en forma de quiasmo: &#x201C;Oh Jehov&#xE1;, s&#xE1;lvanos ahora, te ruego; oh Jehov&#xE1;, te ruego que nos hagas prosperar ahora&#x201D;.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bd/hosanna?lang=spa",
+            "text": "Hosanna",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/118.25?lang=spa#p25",
+            "text": "Salmos 118:25",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": null,
+        "pid": "143176516",
+        "id": "note32",
+        "text": "<p data-aid=\"143176555\" id=\"note32_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/eccl/11.1?lang=spa#p1\">Eclesiast&#xE9;s 11:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/eccl/11.1?lang=spa#p1",
+          "text": "Eclesiastés 11:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": null,
+        "pid": "143176516",
+        "id": "note31",
+        "text": "<p data-aid=\"143176554\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41.4?lang=spa#p4\">Alma 41:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41.4?lang=spa#p4",
+          "text": "Alma 41:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "143176507",
+        "id": "note19",
+        "text": "<p data-aid=\"143176542\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.4?lang=spa#p4\">Doctrina y Convenios 110:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.4?lang=spa#p4",
+          "text": "Doctrina y Convenios 110:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "143176506",
+        "id": "note18",
+        "text": "<p data-aid=\"143176541\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.3?lang=spa#p3\">Doctrina y Convenios 110:3<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.3?lang=spa#p3",
+          "text": "Doctrina y Convenios 110:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "143176505",
+        "id": "note17",
+        "text": "<p data-aid=\"143176540\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.1?lang=spa#p1\">Art&#xED;culos de Fe&#xA0;1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.1?lang=spa#p1",
+          "text": "Artículos de Fe 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note39": {
+        "marker": "39.",
+        "context": null,
+        "pid": "143176517",
+        "id": "note39",
+        "text": "<p data-aid=\"143176562\" id=\"note39_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.15?lang=spa#p15\">Alma 42:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/42.15?lang=spa#p15",
+          "text": "Alma 42:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note41": {
+        "marker": "41.",
+        "context": null,
+        "pid": "143176519",
+        "id": "note41",
+        "text": "<p data-aid=\"143176564\" id=\"note41_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.16?lang=spa#p16\">Isa&#xED;as 49:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21.16?lang=spa#p16\">1&#xA0;Nefi 21:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/49.16?lang=spa#p16",
+            "text": "Isaías 49:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/21.16?lang=spa#p16",
+            "text": "1 Nefi 21:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note40": {
+        "marker": "40.",
+        "context": null,
+        "pid": "143176517",
+        "id": "note40",
+        "text": "<p data-aid=\"143176563\" id=\"note40_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1.15?lang=spa#p15\">2&#xA0;Nefi 1:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/1.15?lang=spa#p15",
+          "text": "2 Nefi 1:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": null,
+        "pid": "143176512",
+        "id": "note27",
+        "text": "<p data-aid=\"143176550\" id=\"note27_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/7?lang=spa\">&#xC9;xodo 7&#x2013;12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/7?lang=spa",
+          "text": "Éxodo 7\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": null,
+        "pid": "143176511",
+        "id": "note26",
+        "text": "<p data-aid=\"143176549\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.39?lang=spa#p39\">Jos&#xE9; Smith&#xFEFF;&#x2014;Historia 1:39<\/a>; en a&#xF1;os recientes, muchos han hallado significativo el pronombre posesivo &#x201C;sus&#x201D;.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.39?lang=spa#p39",
+          "text": "José Smith﻿\u2014Historia 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": null,
+        "pid": "143176511",
+        "id": "note25",
+        "text": "<p data-aid=\"143176548\" id=\"note25_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/86.10?lang=spa#p10\">Doctrina y Convenios 86:10<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.19-21?lang=spa#p19\">Hechos 3:19&#x2013;21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/86.10?lang=spa#p10",
+            "text": "Doctrina y Convenios 86:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/3.19-21?lang=spa#p19",
+            "text": "Hechos 3:19\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note47": {
+        "marker": "47.",
+        "context": null,
+        "pid": "143176522",
+        "id": "note47",
+        "text": "<p data-aid=\"143176570\" id=\"note47_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.71?lang=spa#p71\">Doctrina y Convenios 45:71<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.71?lang=spa#p71",
+          "text": "Doctrina y Convenios 45:71",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": null,
+        "pid": "143176510",
+        "id": "note24",
+        "text": "<p data-aid=\"143176547\" id=\"note24_p1\">V&#xE9;ase Stephen&#xA0;D. Ricks, &#x201C;The Appearance of Elijah and Moses in the Kirtland Temple and the Jewish Passover&#x201D;, <cite>BYU Studies<\/cite>, tomo XXIII, nro. 4 (1986), p&#xE1;gs. 483-86, byustudies.byu.edu<\/p>"
+      },
+      "note46": {
+        "marker": "46.",
+        "context": null,
+        "pid": "143176521",
+        "id": "note46",
+        "text": "<p data-aid=\"143176569\" id=\"note46_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.6?lang=spa#p6\">Alma&#xA0;37:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.6?lang=spa#p6",
+          "text": "Alma 37:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "143176509",
+        "id": "note23",
+        "text": "<p data-aid=\"143176546\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/mal/4.5?lang=spa#p5\">Malaqu&#xED;as 4:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/mal/4.5?lang=spa#p5",
+          "text": "Malaquías 4:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note45": {
+        "marker": "45.",
+        "context": null,
+        "pid": "143176521",
+        "id": "note45",
+        "text": "<p data-aid=\"143176568\" id=\"note45_p1\">V&#xE9;ase &#x201C;Cuenta tus bendiciones&#x201D;, <em>Himnos<\/em>, nro. 157.<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "143176508",
+        "id": "note22",
+        "text": "<p data-aid=\"143176545\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.16?lang=spa#p16\">Doctrina y Convenios 110:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.16?lang=spa#p16",
+          "text": "Doctrina y Convenios 110:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note44": {
+        "marker": "44.",
+        "context": null,
+        "pid": "143176521",
+        "id": "note44",
+        "text": "<p data-aid=\"143176567\" id=\"note44_p1\">&#x201C;Acomp&#xE1;&#xF1;ame&#x201D;, <em>Himnos<\/em>, nro.&#xA0;99.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "143176507",
+        "id": "note21",
+        "text": "<p data-aid=\"143176544\" id=\"note21_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12.2?lang=spa#p2\">Hebreos 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/heb/12.2?lang=spa#p2",
+            "text": "Hebreos 12:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6.4?lang=spa#p4",
+            "text": "Moroni 6:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note43": {
+        "marker": "43.",
+        "context": null,
+        "pid": "143176520",
+        "id": "note43",
+        "text": "<p data-aid=\"143176566\" id=\"note43_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/2.9?lang=spa#p9\">1&#xA0;Corintios 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/2.9?lang=spa#p9",
+          "text": "1 Corintios 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "143176507",
+        "id": "note20",
+        "text": "<p data-aid=\"143176543\" id=\"note20_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/1.8?lang=spa#p8\">Apocalipsis 1:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.18?lang=spa#p18\">3&#xA0;Nefi 9:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.1?lang=spa#p1\">Doctrina y Convenios 19:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38.1?lang=spa#p1\">38:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.7?lang=spa#p7\">45:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rev/1.8?lang=spa#p8",
+            "text": "Apocalipsis 1:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/9.18?lang=spa#p18",
+            "text": "3 Nefi 9:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/19.1?lang=spa#p1",
+            "text": "Doctrina y Convenios 19:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/38.1?lang=spa#p1",
+            "text": "38:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45.7?lang=spa#p7",
+            "text": "45:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note42": {
+        "marker": "42.",
+        "context": null,
+        "pid": "143176519",
+        "id": "note42",
+        "text": "<p data-aid=\"143176565\" id=\"note42_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.52?lang=spa#p52\">Doctrina y Convenios 45:52<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.52?lang=spa#p52",
+          "text": "Doctrina y Convenios 45:52",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "143176497",
+        "id": "note1",
+        "text": "<p data-aid=\"143176524\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.33?lang=spa#p33\">Juan 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.33?lang=spa#p33",
+          "text": "Juan 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": null,
+        "pid": "143176514",
+        "id": "note29",
+        "text": "<p data-aid=\"143176552\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41.2?lang=spa#p2\">Alma 41:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41.2?lang=spa#p2",
+          "text": "Alma 41:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": null,
+        "pid": "143176513",
+        "id": "note28",
+        "text": "<p data-aid=\"143176551\" id=\"note28_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12.23?lang=spa#p23\">&#xC9;xodo 12:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/12.23?lang=spa#p23",
+          "text": "Éxodo 12:23",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

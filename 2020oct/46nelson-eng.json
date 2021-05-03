@@ -1,0 +1,666 @@
+{
+  "tableOfContentsUri": "/ensign/2020/11",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2020/11/46nelson",
+      "data-aid": "144619272",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "709723a46b594f68ad8bd215e6364829",
+      "data-aid-version": "3",
+      "data-orig-id": "709723a46b594f68ad8bd215e6364829"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6197373679001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-4060-russell-m-nelson-32k-eng.mp3"
+    }],
+    "title": "Let God Prevail",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "144619272",
+      {"key": "144619272"}
+    ],
+    [
+      "144619279",
+      {"key": "144619279"}
+    ],
+    [
+      "144619281",
+      {"key": "144619281"}
+    ],
+    [
+      "144619287",
+      {"key": "144619287"}
+    ],
+    [
+      "144619292",
+      {"key": "144619292"}
+    ],
+    [
+      "144619297",
+      {"key": "144619297"}
+    ],
+    [
+      "144619302",
+      {"key": "144619302"}
+    ],
+    [
+      "144620308",
+      {"key": "144620308"}
+    ],
+    [
+      "144620312",
+      {"key": "144620312"}
+    ],
+    [
+      "144620316",
+      {"key": "144620316"}
+    ],
+    [
+      "144620321",
+      {"key": "144620321"}
+    ],
+    [
+      "144620325",
+      {"key": "144620325"}
+    ],
+    [
+      "144620329",
+      {"key": "144620329"}
+    ],
+    [
+      "144620333",
+      {"key": "144620333"}
+    ],
+    [
+      "144620337",
+      {"key": "144620337"}
+    ],
+    [
+      "144620341",
+      {"key": "144620341"}
+    ],
+    [
+      "144620345",
+      {"key": "144620345"}
+    ],
+    [
+      "144620349",
+      {"key": "144620349"}
+    ],
+    [
+      "144620354",
+      {"key": "144620354"}
+    ],
+    [
+      "144620358",
+      {"key": "144620358"}
+    ],
+    [
+      "144620362",
+      {"key": "144620362"}
+    ],
+    [
+      "144620368",
+      {"key": "144620368"}
+    ],
+    [
+      "144620373",
+      {"key": "144620373"}
+    ],
+    [
+      "144620376",
+      {"key": "144620376"}
+    ],
+    [
+      "144620379",
+      {"key": "144620379"}
+    ],
+    [
+      "144620383",
+      {"key": "144620383"}
+    ],
+    [
+      "144620388",
+      {"key": "144620388"}
+    ],
+    [
+      "144620389",
+      {"key": "144620389"}
+    ],
+    [
+      "144620393",
+      {"key": "144620393"}
+    ],
+    [
+      "144620396",
+      {"key": "144620396"}
+    ],
+    [
+      "144620398",
+      {"key": "144620398"}
+    ],
+    [
+      "144620401",
+      {"key": "144620401"}
+    ],
+    [
+      "144620404",
+      {"key": "144620404"}
+    ],
+    [
+      "144620406",
+      {"key": "144620406"}
+    ],
+    [
+      "144620409",
+      {"key": "144620409"}
+    ],
+    [
+      "144620413",
+      {"key": "144620413"}
+    ],
+    [
+      "144620416",
+      {"key": "144620416"}
+    ],
+    [
+      "144620419",
+      {"key": "144620419"}
+    ],
+    [
+      "144620421",
+      {"key": "144620421"}
+    ],
+    [
+      "144620424",
+      {"key": "144620424"}
+    ],
+    [
+      "144620428",
+      {"key": "144620428"}
+    ],
+    [
+      "144620433",
+      {"key": "144620433"}
+    ],
+    [
+      "144620437",
+      {"key": "144620437"}
+    ],
+    [
+      "144620441",
+      {"key": "144620441"}
+    ],
+    [
+      "144620445",
+      {"key": "144620445"}
+    ],
+    [
+      "144620449",
+      {"key": "144620449"}
+    ],
+    [
+      "144620453",
+      {"key": "144620453"}
+    ],
+    [
+      "144620456",
+      {"key": "144620456"}
+    ],
+    [
+      "144620460",
+      {"key": "144620460"}
+    ],
+    [
+      "144620466",
+      {"key": "144620466"}
+    ],
+    [
+      "144620472",
+      {"key": "144620472"}
+    ],
+    [
+      "144620478",
+      {"key": "144620478"}
+    ],
+    [
+      "144620484",
+      {"key": "144620484"}
+    ],
+    [
+      "144620490",
+      {"key": "144620490"}
+    ],
+    [
+      "144620496",
+      {"key": "144620496"}
+    ],
+    [
+      "144620503",
+      {"key": "144620503"}
+    ],
+    [
+      "144620509",
+      {"key": "144620509"}
+    ],
+    [
+      "144620515",
+      {"key": "144620515"}
+    ],
+    [
+      "144620521",
+      {"key": "144620521"}
+    ],
+    [
+      "144620526",
+      {"key": "144620526"}
+    ],
+    [
+      "144620531",
+      {"key": "144620531"}
+    ],
+    [
+      "144620536",
+      {"key": "144620536"}
+    ],
+    [
+      "144620542",
+      {"key": "144620542"}
+    ]
+  ],
+  "uri": "/ensign/2020/11/46nelson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "President Nelson describes latter-day covenant Israel as those who let God prevail in their lives. He invites us to make God our life\u2019s most important influence.",
+          "title": "Let God Prevail"
+        },
+        "pageSocial": {
+          "description": "President Nelson describes latter-day covenant Israel as those who let God prevail in their lives. He invites us to make God our life\u2019s most important influence.",
+          "title": "Let God Prevail"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/10/46nelson?lang=eng\">\n\n<header>\n<span class=\"page-break\" data-page=\"92\"><\/span>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6197373679001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6197373679001\" data-video-title=\"Let God Prevail\" data-video-description=\"President Nelson describes latter-day covenant Israel as those who let God prevail in their lives. He invites us to make God our life&#x2019;s most important influence.\" data-video-id=\"6197373679001\" data-ip=\"Download &amp; Streaming\" data-duration=\"1131865\" data-assetid=\"34D52466628D53ED25836A7764A3BAF95B2F257A\" data-ref-id=\"34D52466628D53ED25836A7764A3BAF95B2F257A\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6197373679001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-4060-russell-m-nelson-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"146594503\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-4060-russell-m-nelson-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"293189006\"><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2020-general-conference/2020-10-4060-russell-m-nelson-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"586378013\"><\/video><h1 data-aid=\"144619279\" id=\"title1\">Let God Prevail<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"144619281\" id=\"author1\">By President Russell&#xA0;M. Nelson<\/p>\n<p class=\"author-role\" data-aid=\"144619287\" id=\"author2\">President of The Church of Jesus Christ of Latter-day Saints<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"144619292\" id=\"kicker1\">Are you willing to let God prevail in your life? Are you willing to let God be the most important influence in your life?<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"144619297\" id=\"p1\">My dear brothers and sisters, how grateful I am for the marvelous messages of this conference and for my privilege to speak with you now.<\/p>\n<p data-aid=\"144619302\" id=\"p2\">For the more than 36 years I&#x2019;ve been an Apostle, the doctrine of the gathering of Israel has captured my attention.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> <em>Everything<\/em> about it has intrigued me, including the ministries and names<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> of Abraham, Isaac, and Jacob; their lives and their wives; the covenant God made with them and extended through their lineage;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> the dispersion of the twelve tribes; and the numerous prophecies about the gathering in our day.<\/p>\n<p data-aid=\"144620308\" id=\"p3\">I have studied the gathering, prayed about it, feasted upon every related scripture, and asked the Lord to increase my understanding.<\/p>\n<p data-aid=\"144620312\" id=\"p4\">So imagine my delight when I was led recently to a new insight. With the help of two Hebrew scholars, I learned that one of the Hebraic meanings of the word <em>Israel<\/em> is &#x201C;let God prevail.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Thus the very name of <em>Israel<\/em> refers to a person who is <em>willing<\/em> to let God prevail in his or her life. That concept stirs my soul!<\/p>\n<p data-aid=\"144620316\" id=\"p5\">The word <em>willing<\/em> is crucial to this interpretation of <em>Israel.<\/em><a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> We all have our agency. We can choose to be of Israel, or not. We can choose to let God prevail in our lives, or not. We can choose to let God be the most powerful influence in our lives, or not.<\/p>\n<p data-aid=\"144620321\" id=\"p6\">For a moment, let us recall a crucial turning point in the life of Jacob, the grandson of Abraham. At the place Jacob named <em>Peniel<\/em> (which means &#x201C;the face of God&#x201D;),<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> Jacob wrestled with a serious challenge. His agency was tested. Through this wrestle, Jacob proved what was most important to him. He demonstrated that he was willing to let God prevail in his life. In response, God changed Jacob&#x2019;s name to <em>Israel,<\/em><a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> meaning &#x201C;let God prevail.&#x201D; God then promised Israel that <em>all<\/em> the blessings that had been pronounced upon Abraham&#x2019;s head would also be his.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"144620325\" id=\"p7\">Sadly, Israel&#x2019;s posterity broke their covenants with God. They stoned the prophets and were <em>not<\/em> willing to let God prevail in their lives. Subsequently, God scattered them to the four corners of the earth.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> Mercifully, He later promised to gather them, as reported by Isaiah: &#x201C;For a small moment have I forsaken thee [Israel]; but with great mercies will I gather thee.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"144620329\" id=\"p8\">With the Hebraic definition of <em>Israel<\/em> in mind, we find that the gathering of Israel takes on added meaning. The Lord is gathering those who are willing to let God prevail in their lives. The Lord is gathering those who will choose to let God be the most important influence in their lives.<\/p>\n<p data-aid=\"144620333\" id=\"p9\">For centuries, prophets have foretold this gathering,<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> and it is happening right now! As an essential prelude to the Second Coming of the Lord, it is <em>the most<\/em> important work in the world!<\/p>\n<p data-aid=\"144620337\" id=\"p10\">This premillennial gathering is an individual saga of expanding faith and spiritual courage for millions of people. And as members of The Church of Jesus Christ of Latter-day Saints, or &#x201C;latter-day covenant Israel,&#x201D;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> we have been charged to assist the Lord with this pivotal work.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"144620341\" id=\"p11\">When we speak of gathering Israel on both sides of the veil, we are referring, of course, to missionary, temple, and family history work. We are also referring to building faith and testimony in the hearts of those with whom we live, work, and serve. Anytime we do anything that helps anyone&#xFEFF;&#x2014;on either side of <span class=\"page-break\" data-page=\"93\"><\/span>the veil&#xFEFF;&#x2014;to make and keep their covenants with God, we are helping to gather Israel.<\/p>\n<p data-aid=\"144620345\" id=\"p12\">Not long ago, the wife of one of our grandsons was struggling spiritually. I will call her &#x201C;Jill.&#x201D; Despite fasting, prayer, and priesthood blessings, Jill&#x2019;s father was dying. She was gripped with fear that she would lose both her dad and her testimony.<\/p>\n<p data-aid=\"144620349\" id=\"p13\">Late one evening, my wife, Sister Wendy Nelson, told me of Jill&#x2019;s situation. The next morning Wendy felt impressed to share with Jill that my response to her spiritual wrestle was one word! The word was <em>myopic.<\/em><\/p>\n<p data-aid=\"144620354\" id=\"p14\">Jill later admitted to Wendy that initially she was devastated by my response. She said, &#x201C;I was hoping for Grandfather to promise me a miracle for my dad. I kept wondering why the word <em>myopic<\/em> was the one he felt compelled to say.&#x201D;<\/p>\n<p data-aid=\"144620358\" id=\"p15\">After Jill&#x2019;s father passed on, the word <em>myopic<\/em> kept coming to her mind. She opened her heart to understand even more deeply that <em>myopic<\/em> meant &#x201C;nearsighted.&#x201D; And her thinking began to shift. Jill then said, &#x201C;<em>Myopic<\/em> caused me to stop, think, and heal. That word now fills me with peace. It reminds me to expand my perspective and seek the eternal. It reminds me that there is a divine plan and that my dad still lives and loves and looks out for me. <em>Myopic<\/em> has led me to God.&#x201D;<\/p>\n<p data-aid=\"144620362\" id=\"p16\">I am very proud of our precious granddaughter-in-law. During this heart-wrenching time in her life, dear Jill is learning to embrace God&#x2019;s will for her dad, with an eternal perspective for her own life. By <em>choosing<\/em> to let God prevail, she is finding peace.<\/p>\n<p data-aid=\"144620368\" id=\"p17\">If we will allow it, there are many ways this Hebraic interpretation of <em>Israel<\/em> can help us. Imagine how our prayers for our missionaries&#xFEFF;&#x2014;and for our own efforts to gather Israel&#xFEFF;&#x2014;could change with this concept in mind. We often pray that we and the missionaries will be led to those who are prepared to receive the truths of the restored gospel of Jesus Christ. I wonder, to whom will we be led when we plead to find those who are willing to let God prevail in their lives?<\/p>\n<p data-aid=\"144620373\" id=\"p18\">We may be led to some who have never believed in God or Jesus Christ but who are now yearning to learn about Them and Their plan of happiness. Others may have been &#x201C;born in the covenant&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> but have since <span class=\"page-break\" data-page=\"94\"><\/span>wandered away from the covenant path. They may now be ready to repent, return, and let God prevail. We can assist them by welcoming them with open arms and hearts. And some to whom we may be led may have always felt there was something missing in their lives. They too are longing for the wholeness and joy that come to those who are willing to let God prevail in their lives.<\/p>\n<p data-aid=\"144620376\" id=\"p19\">The gospel net to gather scattered Israel is expansive. There is room for each person who will fully embrace the gospel of Jesus Christ. Each convert becomes one of God&#x2019;s covenant children,<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> whether by birth or by adoption. Each becomes a full heir to all that God has promised the faithful children of Israel!<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"144620379\" id=\"p20\">Each of us has a divine potential because each is a child of God. Each is equal in His eyes. The implications of this truth are profound. Brothers and sisters, please listen carefully to what I am about to say. God does not love one race more than another. His doctrine on this matter is clear. He invites <em>all<\/em> to come unto Him, &#x201C;black and white, bond and free, male and female.&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"144620383\" id=\"p21\">I assure you that your standing before God is not determined by the color of your skin. Favor or disfavor with God is dependent upon your devotion to God and His commandments and not the color of your skin.<\/p>\n<p data-aid=\"144620388\" id=\"p22\">I grieve that our Black brothers and sisters the world over are enduring the pains of racism and prejudice. Today I call upon our members everywhere to lead out in abandoning attitudes and actions of prejudice. I plead with you to promote respect for all of God&#x2019;s children.<\/p>\n<p data-aid=\"144620389\" id=\"p24\">The question for each of us, regardless of race, is the same. Are <em>you<\/em> willing to let God prevail in your life? Are <em>you<\/em> willing to let God be the most important influence in your life? Will you allow His words, His commandments, and His covenants to influence what you do each day? Will you allow His voice to take priority over any other? Are you <em>willing<\/em> to let whatever He needs you to do take precedence over every other ambition? Are you <em>willing<\/em> to have your will swallowed up in His?<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"144620393\" id=\"p25\">Consider how such willingness could bless you. If you are unmarried and seeking an eternal companion, your desire to be &#x201C;of Israel&#x201D; will help you decide whom to date and how.<\/p>\n<p data-aid=\"144620396\" id=\"p26\">If you are married to a companion who has broken his or her covenants, your willingness to let God prevail in your life will allow your covenants with God to remain intact. The Savior will heal your broken heart. The heavens will open as you seek to know how to move forward. You do not need to wander or wonder.<\/p>\n<p data-aid=\"144620398\" id=\"p27\">If you have sincere questions about the gospel or the Church, as you choose to let God prevail, you will be led to find and understand the absolute, eternal truths that will guide your life and help you stay firmly on the covenant path.<\/p>\n<p data-aid=\"144620401\" id=\"p28\">When you are faced with temptation&#xFEFF;&#x2014;even if the temptation comes when you are exhausted or feeling alone or misunderstood&#xFEFF;&#x2014;imagine the courage you can muster as you choose to let God prevail in your life and as you plead with Him to strengthen you.<\/p>\n<p data-aid=\"144620404\" id=\"p29\">When your greatest desire is to let God prevail, to be part of Israel, so many decisions become easier. So many issues become nonissues! You know how best to groom yourself. You know what to watch and read, where to spend your time, and with whom to associate. You know what you want to accomplish. You know the kind of person you really want to become.<\/p>\n<span class=\"page-break\" data-page=\"95\"><\/span>\n<p data-aid=\"144620406\" id=\"p30\">Now, my dear brothers and sisters, it takes both faith and courage to let God prevail. It takes persistent, rigorous spiritual work to repent and to put off the natural man through the Atonement of Jesus Christ.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> It takes consistent, daily effort to develop personal habits to study the gospel, to learn more about Heavenly Father and Jesus Christ, and to seek and respond to personal revelation.<\/p>\n<p data-aid=\"144620409\" id=\"p31\">During these perilous times of which the Apostle Paul prophesied,<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> Satan is no longer even <em>trying<\/em> to hide his attacks on God&#x2019;s plan. Emboldened evil abounds. Therefore, the only way to survive spiritually is to be determined to let God prevail in our lives, to learn to hear His voice, and to use our energy to help gather Israel.<\/p>\n<p data-aid=\"144620413\" id=\"p32\">Now, how does the Lord <em>feel<\/em> about people who will let God prevail? Nephi summed it up well: &#x201C;[The Lord] <em>loveth<\/em> those who will have him to be their God. Behold, he loved our fathers, and he covenanted with them, yea, even Abraham, Isaac, and Jacob; and he remember[s] the covenants which he [has] made.&#x201D;<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"144620416\" id=\"p33\">And what is the Lord willing to <em>do<\/em> for Israel? The Lord has pledged that He will &#x201C;fight [our] battles, and [our] children&#x2019;s battles, and our children&#x2019;s children&#x2019;s [battles] &#x2026; to the third and fourth generation&#x201D;!<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"144620419\" id=\"p34\">As you study your scriptures during the next six months, I encourage you to make a list of all that the Lord has promised He will do for covenant Israel. I think you will be astounded! Ponder these promises. Talk about them with your family and friends. Then live and watch for these promises to be fulfilled in your own life.<\/p>\n<p data-aid=\"144620421\" id=\"p35\">My dear brothers and sisters, as you choose to let God prevail in your lives, you will experience for yourselves that our God is &#x201C;a God of miracles.&#x201D;<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> As a people, we are His covenant children, and we will be called by His name. Of this I testify in the sacred name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "144620312",
+        "id": "note4",
+        "text": "<p data-aid=\"144620441\" id=\"note4_p1\">See Bible Dictionary, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/israel?lang=eng\">Israel<\/a>.&#x201D;<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/israel?lang=eng",
+          "text": "Israel",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "144620316",
+        "id": "note5",
+        "text": "<p data-aid=\"144620445\" id=\"note5_p1\">The word <em>Israel<\/em> appears more than a thousand times in the scriptures. It can apply to Jacob&#x2019;s (Israel&#x2019;s) family of 12 sons, plus daughters (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/35.23-26?lang=eng#p23\">Genesis 35:23&#x2013;26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/46.7?lang=eng#p7\">46:7<\/a>). Today it can apply geographically as a place on planet Earth. But its doctrinal use applies to people who are willing to let God prevail in their lives.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/35.23-26?lang=eng#p23",
+            "text": "Genesis 35:23\u201326",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/46.7?lang=eng#p7",
+            "text": "46:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "144619302",
+        "id": "note2",
+        "text": "<p data-aid=\"144620433\" id=\"note2_p1\">In Hebrew, <em>Abram<\/em> is a noble name meaning &#x201C;exalted father.&#x201D; But when God changed that name to <em>Abraham,<\/em> the name took on even greater significance, meaning &#x201C;father of a multitude.&#x201D; Indeed, Abraham was to be the &#x201C;father of many nations.&#x201D; (See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/17.5?lang=eng#p5\">Genesis 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/neh/9.7?lang=eng#p7\">Nehemiah 9:7<\/a>.)<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/17.5?lang=eng#p5",
+            "text": "Genesis 17:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/neh/9.7?lang=eng#p7",
+            "text": "Nehemiah 9:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "144619302",
+        "id": "note3",
+        "text": "<p data-aid=\"144620437\" id=\"note3_p1\">The Lord God Jehovah made a covenant with Abraham that the Savior of the world would be born through Abraham&#x2019;s seed, certain lands would be inherited, and all nations would be blessed through Abraham&#x2019;s lineage (see Bible Dictionary, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/abraham-covenant-of?lang=eng\">Abraham, covenant of<\/a>&#x201D;).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/abraham-covenant-of?lang=eng",
+          "text": "Abraham, covenant of",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "144620321",
+        "id": "note8",
+        "text": "<p data-aid=\"144620456\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/35.11-12?lang=eng#p11\">Genesis 35:11&#x2013;12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/35.11-12?lang=eng#p11",
+          "text": "Genesis 35:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "144620325",
+        "id": "note9",
+        "text": "<p data-aid=\"144620460\" id=\"note9_p1\">For further study, see Topical Guide, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/tg/israel-scattering-of?lang=eng\">Israel, Scattering of<\/a>.&#x201D;<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/tg/israel-scattering-of?lang=eng",
+          "text": "Israel, Scattering of",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "144620321",
+        "id": "note6",
+        "text": "<p data-aid=\"144620449\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/32.30?lang=eng#p30\">Genesis 32:30<\/a>; also spelled as <em>Penuel<\/em> in <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/32.31?lang=eng#p31\">Genesis 32:31<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/32.30?lang=eng#p30",
+            "text": "Genesis 32:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/32.31?lang=eng#p31",
+            "text": "Genesis 32:31",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "144620321",
+        "id": "note7",
+        "text": "<p data-aid=\"144620453\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/32.28?lang=eng#p28\">Genesis 32:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/32.28?lang=eng#p28",
+          "text": "Genesis 32:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "144620376",
+        "id": "note16",
+        "text": "<p data-aid=\"144620503\" id=\"note16_p1\">Each faithful member may request a patriarchal blessing. Through the inspiration of the Holy Ghost, the patriarch declares that person&#x2019;s lineage in the house of Israel. That declaration is not necessarily a pronouncement of his or her race, nationality, or genetic makeup. Rather, the declared lineage identifies the tribe of Israel through which that individual will receive his or her blessings.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "144620376",
+        "id": "note15",
+        "text": "<p data-aid=\"144620496\" id=\"note15_p1\">Such a promise was taught by God to Abraham: &#x201C;As many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.10?lang=eng#p10\">Abraham 2:10<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.14-17?lang=eng#p14\">Romans 8:14&#x2013;17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/3.26-29?lang=eng#p26\">Galatians 3:26&#x2013;29<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/abr/2.10?lang=eng#p10",
+            "text": "Abraham 2:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/8.14-17?lang=eng#p14",
+            "text": "Romans 8:14\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/gal/3.26-29?lang=eng#p26",
+            "text": "Galatians 3:26\u201329",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "144620373",
+        "id": "note14",
+        "text": "<p data-aid=\"144620490\" id=\"note14_p1\">This phrase refers to the very covenant that God made with Abraham, saying, &#x201C;In thy seed shall all the kindreds of the earth be blessed&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.27?lang=eng#p27\">3&#xA0;Nephi 20:27<\/a>). &#x201C;Born in the covenant&#x201D; means that before a person was born, that person&#x2019;s mother and father were sealed in the temple.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/20.27?lang=eng#p27",
+          "text": "3 Nephi 20:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "144620337",
+        "id": "note13",
+        "text": "<p data-aid=\"144620484\" id=\"note13_p1\">As we participate in the gathering of Israel, the Lord has a wonderful way of describing those being gathered. He refers to us collectively as His &#x201C;peculiar treasure&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/19.5?lang=eng#p5\">Exodus 19:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/135.4?lang=eng#p4\">Psalm 135:4<\/a>), as His &#x201C;jewels&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/mal/3.17?lang=eng#p17\">Malachi 3:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101.3?lang=eng#p3\">Doctrine and Covenants 101:3<\/a>), and as a &#x201C;holy nation&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/19.6?lang=eng#p6\">Exodus 19:6<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/14.2?lang=eng#p2\">Deuteronomy 14:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/26.18?lang=eng#p18\">26:18<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ex/19.5?lang=eng#p5",
+            "text": "Exodus 19:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/135.4?lang=eng#p4",
+            "text": "Psalm 135:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/mal/3.17?lang=eng#p17",
+            "text": "Malachi 3:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/101.3?lang=eng#p3",
+            "text": "Doctrine and Covenants 101:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/19.6?lang=eng#p6",
+            "text": "Exodus 19:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/deut/14.2?lang=eng#p2",
+            "text": "Deuteronomy 14:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/deut/26.18?lang=eng#p18",
+            "text": "26:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "144620337",
+        "id": "note12",
+        "text": "<p data-aid=\"144620478\" id=\"note12_p1\">See <cite>Encyclopedia of Mormonism<\/cite> (1992), &#x201C;Covenant Israel, Latter-Day,&#x201D; 1:330&#x2013;31.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "144620421",
+        "id": "note23",
+        "text": "<p data-aid=\"144620542\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/9.11?lang=eng#p11\">Mormon 9:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/9.11?lang=eng#p11",
+          "text": "Mormon 9:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "144620333",
+        "id": "note11",
+        "text": "<p data-aid=\"144620472\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/11.11-12?lang=eng#p11\">Isaiah 11:11&#x2013;12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/21.11-12?lang=eng#p11\">2&#xA0;Nephi 21:11&#x2013;12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.11?lang=eng#p11\">Mosiah 15:11<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/11.11-12?lang=eng#p11",
+            "text": "Isaiah 11:11\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/21.11-12?lang=eng#p11",
+            "text": "2 Nephi 21:11\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/15.11?lang=eng#p11",
+            "text": "Mosiah 15:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "144620416",
+        "id": "note22",
+        "text": "<p data-aid=\"144620536\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/98.37?lang=eng#p37\">Doctrine and Covenants 98:37<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/31.23?lang=eng#p23\">Psalm 31:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.25?lang=eng#p25\">Isaiah 49:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/105.14?lang=eng#p14\">Doctrine and Covenants 105:14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/98.37?lang=eng#p37",
+            "text": "Doctrine and Covenants 98:37",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/31.23?lang=eng#p23",
+            "text": "Psalm 31:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/49.25?lang=eng#p25",
+            "text": "Isaiah 49:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/105.14?lang=eng#p14",
+            "text": "Doctrine and Covenants 105:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "144620325",
+        "id": "note10",
+        "text": "<p data-aid=\"144620466\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54.7?lang=eng#p7\">Isaiah 54:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/54.7?lang=eng#p7",
+          "text": "Isaiah 54:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "144620413",
+        "id": "note21",
+        "text": "<p data-aid=\"144620531\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/17.40?lang=eng#p40\">1&#xA0;Nephi 17:40<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/17.40?lang=eng#p40",
+          "text": "1 Nephi 17:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "144620409",
+        "id": "note20",
+        "text": "<p data-aid=\"144620526\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3.1-13?lang=eng#p1\">2&#xA0;Timothy 3:1&#x2013;13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-tim/3.1-13?lang=eng#p1",
+          "text": "2 Timothy 3:1\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "144619302",
+        "id": "note1",
+        "text": "<p data-aid=\"144620428\" id=\"note1_p1\">I have spoken of Israel in at least 378 of the more than 800 messages I have delivered during my 36 years as an Apostle.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "144620406",
+        "id": "note19",
+        "text": "<p data-aid=\"144620521\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=eng#p19\">Mosiah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3.19?lang=eng#p19",
+          "text": "Mosiah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "144620389",
+        "id": "note18",
+        "text": "<p data-aid=\"144620515\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7?lang=eng#p7\">Mosiah 15:7<\/a>. Being of Israel is not for the faint of heart. To receive all the blessings that God has in store for Abraham&#x2019;s seed, we can each expect to be given our own unique &#x201C;Abrahamic test.&#x201D; God will test us, as the Prophet Joseph Smith taught, by wrenching our very heartstrings. (See recollection of John Taylor in <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-19?lang=eng&amp;para=14#p14\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> [2007], 231.)<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/15.7?lang=eng#p7",
+            "text": "Mosiah 15:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-19?lang=eng&para=14#p14",
+            "text": "Teachings of Presidents of the Church: Joseph Smith",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "144620379",
+        "id": "note17",
+        "text": "<p data-aid=\"144620509\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2&#xA0;Nephi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.33?lang=eng#p33",
+          "text": "2 Nephi 26:33",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}
