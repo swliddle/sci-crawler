@@ -1,0 +1,30 @@
+flag="H" (headnote)  CSS needs to italicize the text
+flag="E" (endnote)
+    Need to insert padding above the endnote
+
+flag="F" (footnote JST)
+flag="J" (non-footnote JST)
+flag="S" (standard scripture verse)
+
+<br />
+<center>...</center>
+<a href="..." target="...">...</a>
+<a onclick="getScripture(...)" href="javascript:void(0);">...</a>
+<img src="...">
+<i>...</i>
+<big>...</big>
+<small>...</small>
+<table width="100%">...</table>
+<tr>...</tr>
+<td width="50%">...</td>
+<td>...</td>
+<table cellspacing="10" width="100%">...</table>
+<table cellspacing="8" width="100%">...</table>
+<td class="noindent">...</td>
+
+Doctrine and Covenants Introduction:
+<tbody>...</tbody>
+
+Facsimiles:
+<blockquote>...</blockquote>
+<img src="..." alt="..." width="..." height="...">

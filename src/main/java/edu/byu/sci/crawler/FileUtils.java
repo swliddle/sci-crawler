@@ -9,6 +9,9 @@ import java.nio.file.Paths;
 import java.util.stream.Stream;
 
 public class FileUtils {
+    private FileUtils() {
+        // Ignore
+    }
 
     public static String stringFromFile(File file) {
         StringBuilder contentBuilder = new StringBuilder();

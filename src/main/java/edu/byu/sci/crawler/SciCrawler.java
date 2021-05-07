@@ -5,12 +5,17 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Calendar;
 import java.util.Comparator;
+import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -25,6 +30,8 @@ public class SciCrawler {
     private static final String END_CLASS_PARSER = "[^\">]*\"?\\s*";
     private static final String END_TAG_PARSER = "[^>]*>";
 
+    private static final String FOOTNOTES="footnotes";
+
     private static final String HYPHEN = "-";
     private static final String NDASH = "–";
 
@@ -34,7 +41,21 @@ public class SciCrawler {
 
     private static final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
 
+    private static final String A_ACCENT = "(?:a|á|&#x[eE]1;|&#aacute;)";
+    private static final String CAP_E_ACCENT = "(?:E|É|&#x[cC]9;|&#Eacute;)";
+    private static final String E_ACCENT = "(?:e|é|&#x[eE]9;|&#eacute;)";
+    private static final String I_ACCENT = "(?:i|í|&#x[eE][dD];|&#iacute;)";
+    private static final String O_ACCENT = "(?:o|ó|&#x[fF]3;|&#oacute;)";
+    private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
+    private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
+
+    private static final String PATH_SEPARATOR = "/";
+
     // Properties
+    private GregorianCalendar saturdayDate;
+    private GregorianCalendar sundayDate;
+
+    private final Logger logger = Logger.getLogger(SciCrawler.class.getName());
     private final String monthString;
     private final int year;
     private final String conferencePath;
@@ -44,7 +65,9 @@ public class SciCrawler {
 
     private final Books books = new Books();
     private final Speakers speakers = new Speakers();
+    // private final Verses verses = new Verses();
 
+    private final List<String> sessions = new ArrayList<>();
     private final List<String> talkIds = new ArrayList<>();
     private final Map<String, String> talkHrefs = new HashMap<>();
     private final Map<String, String> talkSpeakers = new HashMap<>();
@@ -54,6 +77,8 @@ public class SciCrawler {
     public SciCrawler(int year, int month, String language) {
         this.year = year;
         this.language = language;
+
+        // logger.log(Level.INFO, () -> "Count of verses: " + verses.count());
 
         switch (year) {
             case 1971:
@@ -79,48 +104,43 @@ public class SciCrawler {
                 break;
         }
 
+        computeLikelyConferenceDates(year, month);
+
         String chapter = "([0-9]+)";
         String verses = "([0-9]+((?:[-,])[0-9]+)*)";
-        String space = "(?:\\s| |&#x[aA]0;|&#160;)+";
 
         if (language.equalsIgnoreCase("spa")) {
-            String aAccent = "(?:a|á|&#x[eE]1;|&#aacute;)";
-            String eAccent = "(?:e|é|&#x[eE]9;|&#eacute;)";
-            String EAccent = "(?:E|É|&#x[cC]9;|&#Eacute;)";
-            String iAccent = "(?:i|í|&#x[eE][dD];|&#iacute;)";
-            String oAccent = "(?:o|ó|&#x[fF]3;|&#oacute;)";
-            String uAccent = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
             String bibleBookName
-                    = "(G" + eAccent + "nesis|" + EAccent + "xodo"
-                    + "|Lev" + iAccent + "tico|N" + uAccent + "meros"
-                    + "|Deuteronomio|Josu" + eAccent
+                    = "(G" + E_ACCENT + "nesis|" + CAP_E_ACCENT + "xodo"
+                    + "|Lev" + I_ACCENT + "tico|N" + U_ACCENT + "meros"
+                    + "|Deuteronomio|Josu" + E_ACCENT
                     + "|Jueces|Rut"
-                    + "|(?:1|2)" + space
-                    + "(?:Samuel|Reyes|Cr" + oAccent + "nicas"
+                    + "|(?:[12])" + SPACE
+                    + "(?:Samuel|Reyes|Cr" + O_ACCENT + "nicas"
                     + "|Corintios|Tesalonicenses|Timoteo|Pedro|Juan)"
-                    + "|3" + space + "Juan"
-                    + "|Esdras|Nehem" + iAccent + "as|Ester|Job|Salmos?"
-                    + "|Proverbios|Eclesiast" + eAccent + "s|Cantares"
-                    + "|Isa" + iAccent + "as"
-                    + "|Jerem" + iAccent + "as|Lamentaciones|Ezequiel"
-                    + "|Daniel|Oseas|Joel|Am" + oAccent + "s"
-                    + "|Abd" + iAccent + "as|Jon" + aAccent + "s|Miqueas"
-                    + "|Nah" + uAccent + "m|Habacuc|Sofon" + iAccent + "as"
-                    + "|Hageo|Zacar" + iAccent + "as|Malaqu" + iAccent + "as"
+                    + "|3" + SPACE + "Juan"
+                    + "|Esdras|Nehem" + I_ACCENT + "as|Ester|Job|Salmos?"
+                    + "|Proverbios|Eclesiast" + E_ACCENT + "s|Cantares"
+                    + "|Isa" + I_ACCENT + "as"
+                    + "|Jerem" + I_ACCENT + "as|Lamentaciones|Ezequiel"
+                    + "|Daniel|Oseas|Joel|Am" + O_ACCENT + "s"
+                    + "|Abd" + I_ACCENT + "as|Jon" + A_ACCENT + "s|Miqueas"
+                    + "|Nah" + U_ACCENT + "m|Habacuc|Sofon" + I_ACCENT + "as"
+                    + "|Hageo|Zacar" + I_ACCENT + "as|Malaqu" + I_ACCENT + "as"
                     + "|Mateo|Marcos|Lucas|Juan|Hechos|Romanos"
-                    + "|G" + aAccent + "latas|Efesios|Filipenses|Colosenses"
-                    + "|Tito|Filem" + oAccent + "n|Hebreos|Santiago|Judas"
+                    + "|G" + A_ACCENT + "latas|Efesios|Filipenses|Colosenses"
+                    + "|Tito|Filem" + O_ACCENT + "n|Hebreos|Santiago|Judas"
                     + "|Apocalipsis)";
 
             jstPattern = Pattern.compile(
-                    "Traducci" + oAccent + "n" + space + "de" + space
-                    + "Jos" + eAccent + space + "Smith," + space
+                    "Traducci" + O_ACCENT + "n" + SPACE + "de" + SPACE
+                    + "Jos" + E_ACCENT + SPACE + "Smith," + SPACE
                     + bibleBookName
-                    + space
+                    + SPACE
                     + chapter
                     + ":"
                     + verses,
-                    Pattern.MULTILINE | Pattern.CASE_INSENSITIVE
+                    Pattern.MULTILINE | Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ
             );
             referencePattern = Pattern.compile(
                     "\\/study\\/scriptures\\/"
@@ -143,13 +163,13 @@ public class SciCrawler {
             String bibleBookName
                     = "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua"
                     + "|Judges|Ruth"
-                    + "|(?:1|2)" + space
+                    + "|(?:[12])" + SPACE
                     + "(?:Samuel|Kings|Chronicles|Corinthians"
                     + "|Thessalonians|Timothy|Peter|John)"
-                    + "|3" + space + "John"
+                    + "|3" + SPACE + "John"
                     + "|Ezra|Nehemiah|Esther|Job|Psalms?"
                     + "|Proverbs|Ecclesiastes"
-                    + "|Song" + space + "of" + space + "Solomon|Isaiah"
+                    + "|Song" + SPACE + "of" + SPACE + "Solomon|Isaiah"
                     + "|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos"
                     + "|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai"
                     + "|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans"
@@ -157,9 +177,9 @@ public class SciCrawler {
                     + "|Philememon|Hebrews|James|Jude|Revelation)";
 
             jstPattern = Pattern.compile(
-                    "Joseph" + space + "Smith" + space + "Translation," + space
+                    "Joseph" + SPACE + "Smith" + SPACE + "Translation," + SPACE
                     + bibleBookName
-                    + space
+                    + SPACE
                     + chapter
                     + ":"
                     + verses,
@@ -189,6 +209,7 @@ public class SciCrawler {
         int year = -1;
         int month = -1;
         String language = "";
+        Logger logger = Logger.getLogger(SciCrawler.class.getName());
 
         if (args.length >= 3) {
             try {
@@ -196,15 +217,15 @@ public class SciCrawler {
                 month = Integer.parseInt(args[1]);
                 language = args[2];
             } catch (NumberFormatException e) {
-                System.err.println("'" + year + "' or '" + month + "' is not an integer");
+                logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
             }
         }
 
         if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050
                 || (!language.equals("eng") && !language.equals("spa"))) {
-            System.err.println("Usage: SciCrawler year month language");
-            System.err.println("    where year is 1971 to 2050, month is either 4 or 10,");
-            System.err.println("    and language is either eng or spa");
+            logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
+            logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
+            logger.log(Level.SEVERE, "    and language is either eng or spa");
             System.exit(-1);
         }
 
@@ -213,103 +234,186 @@ public class SciCrawler {
         crawler.getTableOfContents();
         crawler.crawlTalks();
         crawler.checkSpeakers();
-    }
+        crawler.showTables();
 
-    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+        Database database = new Database();
+
+        int maxId = database.getMaxCitationId();
+
+        logger.log(Level.INFO, () -> "maxId = " + maxId);
+
+        // NEEDSWORK: get media URLs
+        // NEEDSWORK: get start and end page numbers
+        // conference:
+        //      ID: 157
+        //      Description: '2020 Semi-Annual General Conference'
+        //      Abbr: '2020 Semi-Annual'
+        //      Year: 2020
+        //      Annual: 'S' (or 'A')
+        //      IssueDate: '2020-11-01')
+        // conf_session:
+        //      ID: 1031
+        //      Description: 'Saturday Morning Session, 3 October 2020'
+        //      Abbr: 'Saturday Morning'
+        //      Date: '2020-10-03'
+        //      Sequence: 1
+        //      ConferenceID: 157
+        // talk:
+        //      TalkID: 8460
+        //      Corpus: 'G'
+        //      TalkURL: 'https://www.churchofjesuschrist.org/study/liahona/2021/05/11nelson?lang=eng'
+        //      Title: 'Moving Forward'
+        //      Date: '2020-10-03'
+        //      SpeakerID: 1188
+        //      ListenURL: 'https://www.churchofjesuschrist.org/study/general-conference/2020/11/11nelson?lang=eng'
+        //      WatchURL: 'https://www.churchofjesuschrist.org/study/general-conference/2020/11/11nelson?lang=eng'
+        //      polymorphic_ctype_id: 31
+        //      talkcol: NULL
+        // INSERT INTO conference_talk VALUES (8460, 1031, 6, 7, 1, 8460);
+        //
+        // citation:
+        // +------------+-------------+------+-----+---------+----------------+
+        // | Field      | Type        | Null | Key | Default | Extra          |
+        // +------------+-------------+------+-----+---------+----------------+
+        // | ID         | int         | NO   | PRI | NULL    | auto_increment |
+        // | TalkID     | int         | NO   | MUL | NULL    |                |
+        // | BookID     | int         | NO   | MUL | NULL    |                |
+        // | Chapter    | smallint    | YES  | MUL | NULL    |                | 
+        // | Verses     | varchar(80) | YES  |     | NULL    |                | 
+        // | Flag       | char(1)     | YES  |     | NULL    |                |
+        // | PageColumn | varchar(10) | NO   |     | NULL    |                | 
+        // | MinVerse   | int         | YES  |     | 0       |                | 
+        // | MaxVerse   | int         | YES  |     | 0       |                |
+        // +------------+-------------+------+-----+---------+----------------+
+        //
+        // scripture:
+        // +---------+----------+------+-----+---------+----------------+
+        // | Field   | Type     | Null | Key | Default | Extra          |
+        // +---------+----------+------+-----+---------+----------------+
+        // | ID      | int      | NO   | PRI | NULL    | auto_increment |
+        // | BookID  | int      | NO   | MUL | NULL    |                |
+        // | Chapter | smallint | NO   | MUL | 0       |                |
+        // | Verse   | smallint | NO   | MUL | 0       |                |
+        // | Flag    | char(1)  | NO   |     |         |                |
+        // | Text    | text     | NO   |     | NULL    |                |
+        // +---------+----------+------+-----+---------+----------------+
+        //
+        // speaker:
+        // +------------+-------------+------+-----+---------+----------------+
+        // | Field      | Type        | Null | Key | Default | Extra          |
+        // +------------+-------------+------+-----+---------+----------------+
+        // | ID         | int         | NO   | PRI | NULL    | auto_increment |
+        // | GivenNames | varchar(80) | NO   |     |         |                |
+        // | LastNames  | varchar(80) | NO   | MUL |         |                |
+        // | Abbr       | varchar(5)  | YES  | MUL | NULL    |                |
+        // | Info       | varchar(10) | YES  |     | NULL    |                |
+        // | NameSort   | varchar(80) | YES  | MUL | NULL    |                |
+        // +------------+-------------+------+-----+---------+----------------+
+        //
+        }
+        
+        private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
         String[] tags = {"scriptures/bd", "scriptures/gs", "scriptures/tg"};
-
+        
         for (String tag : tags) {
             if (href.contains(tag)) {
                 return;
             }
         }
-
+        
         Link link = new Link(talkId, href, text);
-
+        
         link.addParsedToList(links);
-    }
-
-    private void checkSpeakers() {
+        }
+        
+        private void checkSpeakers() {
         talkSpeakers.entrySet().forEach(entry -> {
             JSONObject speaker = speakers.matchingSpeaker(entry.getValue());
-
+        
             if (speaker == null) {
-                System.out.println("New speaker: " + entry.getValue());
+                logger.log(Level.INFO, () -> "New speaker: " + entry.getValue());
                 speakers.addSpeaker(entry.getValue());
             }
         });
-    }
-
-    private void crawlTalks() {
+        }
+        
+        private void computeLikelyConferenceDates(int year, int month) {
+        sundayDate = new GregorianCalendar(year, month - 1, 1);
+        
+        int dayOfWeek = sundayDate.get(Calendar.DAY_OF_WEEK);
+        
+        if (dayOfWeek > Calendar.SUNDAY) {
+            sundayDate = new GregorianCalendar(year, month - 1, Calendar.SATURDAY - dayOfWeek + 2);
+            saturdayDate = new GregorianCalendar(year, month - 1, Calendar.SATURDAY - dayOfWeek + 1);
+        } else {
+            saturdayDate = new GregorianCalendar(year, month - 2, month == 4 ? 31 : 30);
+        }
+        }
+        
+        private void crawlTalks() {
         List<Link> scriptureLinks = new ArrayList<>();
-
-        File languageSubfolder = new File(conferencePath + "/" + language);
-
+        
+        File languageSubfolder = new File(conferencePath + PATH_SEPARATOR + language);
+        
         if (!languageSubfolder.exists()) {
             languageSubfolder.mkdirs();
         }
-
+        
         // For each talkId, get its contents JSON
-        talkIds.forEach((talkId) -> {
-            System.out.println("Get " + talkId);
-
-            File talkFile = new File(conferencePath + "/" + talkId + HYPHEN
+        talkIds.forEach(talkId -> {
+            logger.log(Level.INFO, () -> "Get " + talkId);
+        
+            File talkFile = new File(conferencePath + PATH_SEPARATOR + talkId + HYPHEN
                     + language + ".json");
             JSONObject talkJson;
-
+        
             if (!talkFile.exists()) {
                 // Save talk if we haven't yet crawled it
                 talkJson = new JSONObject(urlContent(talkUrl(talkId, language)));
-
+        
                 FileUtils.writeStringToFile(talkJson.toString(2), talkFile);
             } else {
                 talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
             }
-
+        
             JSONObject talkContent = talkJson.getJSONObject("content");
             String talkBody = talkContent.getString("body");
             extractScriptureLinks(talkBody, talkId, scriptureLinks);
             extractJstLinks(talkBody, talkId, scriptureLinks);
-
-            if (talkContent.has("footnotes")) {
-                JSONObject footnotes = talkContent.getJSONObject("footnotes");
-
+        
+            if (talkContent.has(FOOTNOTES)) {
+                JSONObject footnotes = talkContent.getJSONObject(FOOTNOTES);
+        
                 extractLinksFrom(footnotes, talkId, scriptureLinks);
             }
-
+        
             writeHtmlContent(talkId, talkJson);
         });
-
+        
         for (int i = 0; i < scriptureLinks.size(); i++) {
             Link link = scriptureLinks.get(i);
-
-            System.out.println((i + 1) + "\t" + link.talkId + "\t" + link.href
+            final int index = i + 1;
+        
+            logger.log(Level.INFO, () -> index + "\t" + link.talkId + "\t" + link.href
                     + "\t" + link.text + "\t" + link.book + "\t" + link.chapter
                     + "\t" + link.verses + "\t" + link.isJst);
         }
     }
-
+        
     private String encodeSpecialCharacters(String text) {
-        return text
-                .replace("“", "&#201C;")
-                .replace("”", "&#201D;")
-                .replace("’", "&#2019;")
-                .replace("—", "&#2014;")
-                .replace("…", "&#2026;")
-                .replace(NDASH, "&#2013;");
-//        return text
-//                .replace("“", "&ldquo;")
-//                .replace("”", "&rdquo;")
-//                .replace("’", "&rsquo;")
-//                .replace("—", "&mdash;")
-//                .replace("…", "&hellip;")
-//                .replace(NDASH, "&ndash;");
+    return text
+            .replace("“", "&#201C;")
+            .replace("”", "&#201D;")
+            .replace("’", "&#2019;")
+            .replace("—", "&#2014;")
+            .replace("…", "&#2026;")
+            .replace(NDASH, "&#2013;");
     }
-
+    
     private void extractJstLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = jstPattern.matcher(content);
         Book bookFinder = new Book();
-
+        
         while (matcher.find()) {
             String fullMatch = matcher.group(0);
             String book = matcher.group(1);
@@ -317,7 +421,7 @@ public class SciCrawler {
             String verses = matcher.group(3);
             String bookAbbr = bookFinder.abbreviationForBook(book);
             String volume = bookFinder.volumeForBook(book);
-
+        
             links.add(new Link(
                     talkId, "/study/scriptures/" + volume + "/"
                     + bookAbbr + "/" + chapter + "." + verses + "?lang="
@@ -325,85 +429,86 @@ public class SciCrawler {
                     fullMatch, book, chapter, verses, true));
         }
     }
-
+        
     private String firstVerse(String verses) {
         String[] parts = verses.split("[-,]");
-
+        
         if (parts.length > 0) {
             return parts[0];
         }
-
+        
         return verses;
     }
-
+        
     private String extractMatch(String text, String regex) {
         Matcher matcher = Pattern.compile(regex, Pattern.MULTILINE | Pattern.DOTALL).matcher(text);
-
+        
         if (matcher.find()) {
             return matcher.group(1);
         }
-
+        
         return null;
     }
-
+        
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
         String[] keys = new String[footnotes.keySet().size()];
-
+        
         footnotes.keySet().toArray(keys);
         Arrays.sort(keys, new SortByNote());
-
+        
         for (String key : keys) {
             JSONObject footnote = footnotes.getJSONObject(key);
-
+        
             if (footnote.has("referenceUris")) {
                 JSONArray uris = footnote.getJSONArray("referenceUris");
-
-                uris.forEach((subitem) -> {
+        
+                uris.forEach(subitem -> {
                     JSONObject uri = (JSONObject) subitem;
-
+        
                     if (uri.has("href") && uri.has("type") && uri.has("text")
                             && uri.getString("type").equals("scripture-ref")) {
                         addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"));
                     }
                 });
             }
-
+        
             extractJstLinks(footnote.getString("text"), talkId, links);
         }
     }
-
+    
     private void extractScriptureLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = Pattern.compile("<a\\s+class=\"scripture-ref\"\\s+href=\"([^\"]+)\"[^>]*>([^<]*)<").matcher(content);
-
+        
         while (matcher.find()) {
             addFilteredLink(links, talkId, matcher.group(1), matcher.group(2));
         }
     }
-
+    
     private int filterTalkSubitem(String itemHref, String itemTitle, String itemSpeaker, int sessionNumber, int talkNumber) {
         String itemId = extractMatch(itemHref, "[0-9]+/[0-9]+/(.*)\\?");
-
+        
         if (itemTitle.contains("Auditing Department")
                 || itemTitle.contains("Sustaining of General Authorities")) {
             return talkNumber;
         }
-
+        
         ++talkNumber;
-
+        
         talkIds.add(itemId);
         talkHrefs.put(itemId, itemHref);
         talkTitles.put(itemId, itemTitle);
         talkSpeakers.put(itemId, itemSpeaker);
-
-        System.out.println(itemId
-                + "\t" + talkNumber
+        
+        final int talkNumberToLog = talkNumber;
+        logger.log(Level.INFO, () -> itemId
+                + "\t" + talkNumberToLog
                 + "\t" + sessionNumber
                 + "\t" + encodeSpecialCharacters(itemTitle)
                 + "\t" + itemSpeaker);
-
+        
         return talkNumber;
     }
-
+    
     private void formatFootnotes(StringBuilder talk, JSONObject footnotes) {
         /*
             "note4": {
@@ -515,11 +620,11 @@ public class SciCrawler {
     }
 
     private String magazineForLanguageYear(String language) {
-        if (language.equals("eng") && year <= 2020) {
-            return "ensign";
+        if (year <= 2020) {
+            return language.equals("eng") ? "ensign" : "liahona";
         }
 
-        return "liahona";
+        return "general-conference";
     }
 
     private int parseSessionItems(String sessionItems, int sessionNumber, int talkNumber) {
@@ -572,10 +677,42 @@ public class SciCrawler {
             String sessionItems = matcher.group(2);
 
             if (sessionTitle.contains("Session")) {
+                sessions.add(sessionTitle);
                 ++sessionNumber;
                 talkNumber = parseSessionItems(sessionItems, sessionNumber, talkNumber);
             }
         }
+    }
+
+    private void showTables() {
+        talkIds.forEach(talkId -> {
+            logger.log(Level.INFO, () -> talkId + "|" + talkHrefs.get(talkId) + "|" + talkTitles.get(talkId) + "|"
+                    + talkSpeakers.get(talkId));
+        });
+
+        sessions.forEach(session -> {
+            logger.log(Level.INFO, session);
+        });
+
+        logger.log(Level.INFO, () -> "Saturday: " + year + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
+                + saturdayDate.get(Calendar.DAY_OF_MONTH));
+        logger.log(Level.INFO, () -> "Sunday: " + year + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
+                + sundayDate.get(Calendar.DAY_OF_MONTH));
+
+        // for (int yearValue = 2010; yearValue <= 2022; yearValue++) {
+        //     final int y = yearValue;
+
+        //     computeLikelyConferenceDates(yearValue, 4);
+        //     logger.log(Level.INFO, () -> "Saturday: " + y + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
+        //             + saturdayDate.get(Calendar.DAY_OF_MONTH));
+        //     logger.log(Level.INFO, () -> "Sunday: " + y + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
+        //             + sundayDate.get(Calendar.DAY_OF_MONTH));
+        //     computeLikelyConferenceDates(yearValue, 10);
+        //     logger.log(Level.INFO, () -> "Saturday: " + y + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
+        //             + saturdayDate.get(Calendar.DAY_OF_MONTH));
+        //     logger.log(Level.INFO, () -> "Sunday: " + y + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
+        //             + sundayDate.get(Calendar.DAY_OF_MONTH));
+        // }
     }
 
     private List<String> sortedKeys(JSONObject footnotes) {
@@ -585,14 +722,11 @@ public class SciCrawler {
             keys.add(key);
         }
 
-        keys.sort(new Comparator<String>() {
-            @Override
-            public int compare(String k1, String k2) {
-                int i1 = Integer.parseInt(k1.replaceAll("[^0-9]*", ""));
-                int i2 = Integer.parseInt(k2.replaceAll("[^0-9]*", ""));
+        keys.sort((k1, k2) -> {
+            int i1 = Integer.parseInt(k1.replaceAll("[^0-9]*", ""));
+            int i2 = Integer.parseInt(k2.replaceAll("[^0-9]*", ""));
 
-                return i1 - i2;
-            }
+            return i1 - i2;
         });
 
         return keys;
@@ -624,8 +758,8 @@ public class SciCrawler {
         String talkBody = talkContent.getString("body");
         JSONObject footnotes = null;
 
-        if (talkContent.has("footnotes")) {
-            footnotes = talkContent.getJSONObject("footnotes");
+        if (talkContent.has(FOOTNOTES)) {
+            footnotes = talkContent.getJSONObject(FOOTNOTES);
         }
 
         /*
@@ -647,9 +781,12 @@ public class SciCrawler {
         talk.append("<div class=\"body\">");
         talk.append(talkBody);
 
+        // NEEDSWORK: are there links we need to disable?
+        // NEEDSWORK: rewrite the citation links
+
         if (footnotes != null) {
             formatFootnotes(talk, footnotes);
-//            inlineFootnotes(talk, footnotes);
+            inlineFootnotes(talk, footnotes);
         }
 
         talk.append("</div>");
@@ -664,16 +801,17 @@ public class SciCrawler {
 
     /*
     NEEDSWORK: access database to know citation number?
-
+    
     Source text example:
         <a class="scripture-ref" href="/study/scriptures/nt/matt/20.30-34?lang=eng#p30">Matthew 20:30&#x2013;34</a>
-
+    
     Target replacement example:
         <span class="citation" id="135301">
-        <a href="javascript:void(0)" onclick="sx(this, 135301)">&#xA0;</a>
-        <a href="javascript:void(0)" onclick="gs(135301)">Matthew 20:30–34</a>
+            <a href="javascript:void(0)" onclick="sx(this, 135301)">&#xA0;</a>
+            <a href="javascript:void(0)" onclick="gs(135301)">Matthew 20:30–34</a>
         </span>
      */
+
     private String talkSubitemsFromTableOfContents(String content) {
         // Extract the subitems <ul> from the document
         String contentParser = "<nav" + CLASS_PARSER + "tableOfContents"
@@ -688,11 +826,21 @@ public class SciCrawler {
         );
     }
 
+    private String monthStringForYearMonth(int year, String month) {
+        if (year <= 2020) {
+            return month;
+        }
+
+        return month.equals("11") ? "10" : "04";
+    }
+
     private String talkUrl(String talkId, String language) {
         return URL_BASE + "/study/api/v3/language-pages/type/content?lang="
                 + language + "&uri=%2F"
                 + magazineForLanguageYear(language)
-                + "%2F" + year + "%2F" + monthString + "%2F" + talkId;
+                + "%2F" + year + "%2F"
+                + monthStringForYearMonth(year, monthString)
+                + "%2F" + talkId;
     }
 
     private String urlContent(String url) {
@@ -709,10 +857,15 @@ public class SciCrawler {
             content = new String(httpResponse.getEntity().getContent().readAllBytes(),
                     StandardCharsets.UTF_8);
         } catch (IOException e) {
-            e.printStackTrace(System.err);
+            logger.log(Level.SEVERE, () -> "Unable to retrive URL " + url);
         }
 
         httpGet.releaseConnection();
+        try {
+            httpClient.close();
+        } catch (IOException e) {
+            // Ignore failure
+        }
 
         return content;
     }
@@ -724,20 +877,13 @@ public class SciCrawler {
     private void writeHtmlContent(String talkId, JSONObject talkJson) {
         FileUtils.writeStringToFile(
                 talkHtmlContentForJson(talkJson),
-                new File(conferencePath + "/" + language + "/" + talkId)
+                new File(conferencePath + PATH_SEPARATOR + language + PATH_SEPARATOR + talkId)
         );
     }
 
     private class Book {
-
-        private static final int newTestamentIndex = 39;
-        private static final String space = "(?:\\s| |&#x[aA]0;|&#160;)+";
-        private static final String aAccent = "(?:a|á|&#x[eE]1;|&#aacute;)";
-        private static final String eAccent = "(?:e|é|&#x[eE]9;|&#eacute;)";
-        private static final String EAccent = "(?:E|É|&#x[cC]9;|&#Eacute;)";
-        private static final String iAccent = "(?:i|í|&#x[eE][dD];|&#iacute;)";
-        private static final String oAccent = "(?:o|ó|&#x[fF]3;|&#oacute;)";
-        private static final String uAccent = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
+        private static final String JOHN_JUAN = "(John|Juan)";
+        private static final int NEW_TESTAMENT_INDEX = 39;
         private final List<String> abbreviations = List.of(
                 "gen", "ex", "lev", "num", "deut", "josh", "judg", "ruth",
                 "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra",
@@ -750,70 +896,70 @@ public class SciCrawler {
                 "1-jn", "2-jn", "3-jn", "jude", "rev"
         );
         private final List<String> bookPatterns = List.of(
-                "(Genesis|G" + eAccent + "nesis)",
-                "(Exodus|" + EAccent + "xodo)",
-                "(Leviticus|Lev" + iAccent + "tico)",
-                "(Numbers|N" + uAccent + "meros)",
+                "(Genesis|G" + E_ACCENT + "nesis)",
+                "(Exodus|" + CAP_E_ACCENT + "xodo)",
+                "(Leviticus|Lev" + I_ACCENT + "tico)",
+                "(Numbers|N" + U_ACCENT + "meros)",
                 "(Deuteronomy|Deuteronomio)",
                 "(Joshua|Josu" + "eAccent)",
                 "(Judges|Jueces)",
                 "(Ruth|Rut)",
-                "1" + space + "Samuel",
-                "2" + space + "Samuel",
-                "1" + space + "(Kings|Reyes)",
-                "2" + space + "(Kings|Reyes)",
-                "1" + space + "(Chronicles|Cr" + oAccent + "nicas)",
-                "2" + space + "(Chronicles|Cr" + oAccent + "nicas)",
+                "1" + SPACE + "Samuel",
+                "2" + SPACE + "Samuel",
+                "1" + SPACE + "(Kings|Reyes)",
+                "2" + SPACE + "(Kings|Reyes)",
+                "1" + SPACE + "(Chronicles|Cr" + O_ACCENT + "nicas)",
+                "2" + SPACE + "(Chronicles|Cr" + O_ACCENT + "nicas)",
                 "(Ezra|Esdras)",
-                "(Nehemiah|Nehem" + iAccent + "as)",
+                "(Nehemiah|Nehem" + I_ACCENT + "as)",
                 "(Esther|Ester)",
                 "Job",
                 "(Psalms?|Salmos?)",
                 "(Proverbs|Proverbios)",
-                "(Ecclesiastes|Eclesiast" + eAccent + "s)",
-                "(Song" + space + "of" + space + "Solomon|Cantares)",
-                "(Isaiah|Isa" + iAccent + "as)",
-                "(Jeremiah|Jerem" + iAccent + "as)",
+                "(Ecclesiastes|Eclesiast" + E_ACCENT + "s)",
+                "(Song" + SPACE + "of" + SPACE + "Solomon|Cantares)",
+                "(Isaiah|Isa" + I_ACCENT + "as)",
+                "(Jeremiah|Jerem" + I_ACCENT + "as)",
                 "(Lamentations|Lamentaciones)",
                 "(Ezekiel|Ezequiel)",
                 "Daniel",
                 "(Hosea|Oseas)",
                 "Joel",
-                "(Amos|Am" + oAccent + "s)",
-                "(Obadiah|Abd" + iAccent + "as)",
-                "(Jonah|Jon" + aAccent + "s)",
+                "(Amos|Am" + O_ACCENT + "s)",
+                "(Obadiah|Abd" + I_ACCENT + "as)",
+                "(Jonah|Jon" + A_ACCENT + "s)",
                 "(Micah|Miqueas)",
-                "(Nahum|Nah" + uAccent + "m)",
+                "(Nahum|Nah" + U_ACCENT + "m)",
                 "(Habakkuk|Habacuc)",
-                "(Zephaniah|Sofon" + iAccent + "as)",
+                "(Zephaniah|Sofon" + I_ACCENT + "as)",
                 "(Haggai|Hageo)",
-                "(Zechariah|Zacar" + iAccent + "as)",
-                "(Malachi|Malaqu" + iAccent + "as)",
+                "(Zechariah|Zacar" + I_ACCENT + "as)",
+                "(Malachi|Malaqu" + I_ACCENT + "as)",
                 "(Matthew|Mateo)",
                 "(Mark|Marcos)",
                 "(Luke|Lucas)",
-                "(John|Juan)",
+                JOHN_JUAN,
                 "(Acts|Hechos)",
                 "(Romans|Romanos)",
-                "1" + space + "(Corinthians|Corintios)",
-                "2" + space + "(Corinthians|Corintios)",
-                "(Galatians|G" + aAccent + "latas)",
+                "1" + SPACE + "(Corinthians|Corintios)",
+                "2" + SPACE + "(Corinthians|Corintios)",
+                "(Galatians|G" + A_ACCENT + "latas)",
                 "(Ephesians|Efesios)",
                 "(Philippians|Filipenses)",
                 "(Colossians|Colosenses)",
-                "1" + space + "(Thessalonians|Tesalonicenses)",
-                "2" + space + "(Thessalonians|Tesalonicenses)",
-                "1" + space + "(Timothy|Timoteo)",
-                "2" + space + "(Timothy|Timoteo)",
+                "1" + SPACE + "(Thessalonians|Tesalonicenses)",
+                "2" + SPACE + "(Thessalonians|Tesalonicenses)",
+                "1" + SPACE + "(Timothy|Timoteo)",
+                "2" + SPACE + "(Timothy|Timoteo)",
                 "(Titus|Tito)",
-                "(Philememon|Filem" + oAccent + "n)",
+                "(Philememon|Filem" + O_ACCENT + "n)",
                 "(Hebrews|Hebreos)",
                 "(James|Santiago)",
-                "1" + space + "(Peter|Pedro)",
-                "2" + space + "(Peter|Pedro)",
-                "1" + space + "(John|Juan)",
-                "2" + space + "(John|Juan)",
-                "3" + space + "(John|Juan)",
+                "1" + SPACE + "(Peter|Pedro)",
+                "2" + SPACE + "(Peter|Pedro)",
+                "1" + SPACE + JOHN_JUAN,
+                "2" + SPACE + JOHN_JUAN,
+                "3" + SPACE + JOHN_JUAN,
                 "(Jude|Judas)",
                 "(Revelation|Apocalipsis)"
         );
@@ -839,7 +985,7 @@ public class SciCrawler {
         public String volumeForBook(String book) {
             int index = indexOfBook(book);
 
-            return (index < newTestamentIndex) ? "ot" : "nt";
+            return (index < NEW_TESTAMENT_INDEX) ? "ot" : "nt";
         }
     }
 
@@ -894,13 +1040,13 @@ public class SciCrawler {
                 JSONObject bookObject = bookObjectForThis();
 
                 if (bookObject == null) {
-                    System.out.println(">>>>>>>>>>>>> Unable to find book " + book);
+                    logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> Unable to find book " + book);
                 } else {
                     if (chapter != null) {
                         int maxVerse = books.maxVerseForBookIdChapter(bookObject.getInt("id"), Integer.parseInt(chapter), isJst);
 
                         if (verses != null) {
-                            String[] verseList = verses.split("(,|" + HYPHEN + "|" + NDASH + ")");
+                            String[] verseList = verses.split("([," + HYPHEN + NDASH + "])");
 
                             for (String verse : verseList) {
                                 int verseValue = Integer.parseInt(verse);
@@ -909,7 +1055,8 @@ public class SciCrawler {
                                     // NEEDSWORK: this is a reference to JS—H 1:endnote
                                     // which we should map to verse 1000 for our database
                                 } else if (verseValue > maxVerse) {
-                                    System.out.println(">>>>>>>>>>>>> Verse out of range "
+                                    logger.log(Level.WARNING,
+                                            () -> ">>>>>>>>>>>>> Verse out of range "
                                             + book + " " + chapter + ":" + verses
                                             + " (" + verse + ")");
                                     break;
@@ -924,12 +1071,12 @@ public class SciCrawler {
                         // There is no chapter given; if the book should have
                         // a chapter, this could be a problem.
                         if (bookObject.getInt("numChapters") > 0) {
-                            System.out.println(">>>>>>>>>>>>> Book should have chapter " + book);
+                            logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> Book should have chapter " + book);
                         }
                     }
                 }
             } else {
-                System.out.println(">>>>>>>>>>>>> No match for " + href);
+                logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> No match for " + href);
             }
         }
 
@@ -957,24 +1104,24 @@ public class SciCrawler {
                     .split(String.format(WITH_DELIMITER, "[^0-9]"));
 
             for (int i = 0; i < parts.length; i++) {
-                int chapter = integerValue(parts[i]);
+                int chapterValue = integerValue(parts[i]);
 
-                if (chapter > 0 && i + 2 < parts.length) {
+                if (chapterValue > 0 && i + 2 < parts.length) {
                     // Process a disjunction or a range
                     int endChapter = trailingChapterValue(parts[i], parts[i + 2]);
 
                     if ((parts[i + 1].contains(HYPHEN) || parts[i + 1].contains(NDASH))
                             && endChapter > 0) {
                         // This is a range
-                        for (int chap = chapter; chap <= endChapter; chap++) {
+                        for (int chap = chapterValue; chap <= endChapter; chap++) {
                             if (chap != baseChapter) {
                                 addLinkForReferencedChapter(links, chap);
                             }
                         }
                     } else {
                         // This is a disjunction
-                        if (chapter > baseChapter && chapter > 0) {
-                            addLinkForReferencedChapter(links, chapter);
+                        if (chapterValue > baseChapter && chapterValue > 0) {
+                            addLinkForReferencedChapter(links, chapterValue);
                         }
 
                         if (endChapter > baseChapter && endChapter > 0) {
@@ -983,8 +1130,8 @@ public class SciCrawler {
                     }
 
                     i += 2;
-                } else if (chapter > 0 && chapter > baseChapter) {
-                    addLinkForReferencedChapter(links, chapter);
+                } else if (chapterValue > 0 && chapterValue > baseChapter) {
+                    addLinkForReferencedChapter(links, chapterValue);
                 }
             }
         }
@@ -1030,7 +1177,7 @@ public class SciCrawler {
 
                     return n0 - n1;
                 } catch (NumberFormatException e) {
-                    e.printStackTrace(System.err);
+                    logger.log(Level.WARNING, "Unable to sort items (NumberFormatException)");
                 }
             }
 

@@ -6,8 +6,11 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.stream.Stream;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 public class Speakers {
@@ -21,15 +24,16 @@ public class Speakers {
     private static final String KEY_COLLISION = "collision";
     private static final String[] SUFFIXES = {"Jr.", "Sr.", "I", "II", "III", "IV", "V"};
 
-    private final JSONArray speakers;
+    private final Logger logger = Logger.getLogger(Speakers.class.getName());
+    private final JSONArray speakerRecords;
     private Map<Integer, JSONObject> speakersById = new HashMap<>();
     private Map<String, JSONObject> speakersByAbbr = new HashMap<>();
     private int maxSpeakerId = 0;
 
     public Speakers() {
-        speakers = new JSONArray(FileUtils.stringFromFile(new File(SPEAKERS_FILE)));
+        speakerRecords = new JSONArray(FileUtils.stringFromFile(new File(SPEAKERS_FILE)));
 
-        speakers.forEach((item) -> {
+        speakerRecords.forEach(item -> {
             JSONObject speaker = (JSONObject) item;
             int id = speaker.getInt(KEY_ID);
 
@@ -66,17 +70,17 @@ public class Speakers {
     }
 
     private String abbreviationForParts(String[] parts, int maxIndex) {
-        String abbr = "";
+        StringBuilder abbr = new StringBuilder();
 
         for (String part : parts) {
             if (maxIndex > 0) {
-                abbr += part.substring(0, 1).toUpperCase();
+                abbr.append(part.substring(0, 1).toUpperCase());
             }
 
             maxIndex -= 1;
         }
 
-        return abbr;
+        return abbr.toString();
     }
 
     public JSONObject addSpeaker(String name) {
@@ -101,22 +105,22 @@ public class Speakers {
             speaker.put(KEY_COLLISION, false);
         }
 
-        speakers.put(speaker);
+        speakerRecords.put(speaker);
         speakersById.put(maxSpeakerId, speaker);
         speakersByAbbr.put(speaker.getString(KEY_ABBR), speaker);
 
         try {
             FileWriter file = new FileWriter(SPEAKERS_FILE, false);
 
-            speakers.write(file, 4, 0);
+            speakerRecords.write(file, 4, 0);
             file.close();
-        } catch (IOException ex) {
-            System.err.println("Error: unable to write speakers file");
+        } catch (JSONException|IOException e) {
+            logger.log(Level.SEVERE, "Unable to write JSON file", e);
         }
 
-        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-        System.out.println("Examine new speaker structure: " + dump(speaker));
-        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+        logger.log(Level.WARNING, ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+        logger.log(Level.WARNING, () -> "Examine new speaker structure:" + dump(speaker));
+        logger.log(Level.WARNING, ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 
         return speaker;
     }
@@ -129,7 +133,7 @@ public class Speakers {
     }
 
     public JSONObject exactlyMatchingSpeaker(String name) {
-        for (Iterator<Object> it = speakers.iterator(); it.hasNext();) {
+        for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
             JSONObject speaker = (JSONObject) it.next();
 
             if (speakerFullName(speaker).equalsIgnoreCase(name)) {
@@ -140,34 +144,35 @@ public class Speakers {
         return null;
     }
 
+    private boolean checkMatches(String[] name1Parts, String[] name2Parts) {
+        boolean couldMatch = true;
+
+        for (int i = 0; couldMatch && i < name1Parts.length; i++) {
+            String name1 = name1Parts[i].replace(".", "");
+            String name2 = name2Parts[i].replace(".", "");
+
+            if (!name1.equalsIgnoreCase(name2)) {
+                if ((name1.length() > 1 && name2.length() == 1) || (name2.length() > 1 && name1.length() == 1)) {
+                    if (!name1.substring(0, 1).equalsIgnoreCase(name2.substring(0, 1))) {
+                        couldMatch = false;
+                    }
+                } else {
+                    couldMatch = false;
+                }
+            }
+        }
+
+        return couldMatch;
+    }
+
     public JSONObject initialMatchingSpeaker(String name) {
-        for (Iterator<Object> it = speakers.iterator(); it.hasNext();) {
+        for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
             JSONObject speaker = (JSONObject) it.next();
             String[] name1Parts = speakerFullName(speaker).split(" ");
             String[] name2Parts = StringUtils.decodedEntities(name).split(" ");
 
-            if (name1Parts.length == name2Parts.length) {
-                boolean couldMatch = true;
-
-                for (int i = 0; couldMatch && i < name1Parts.length; i++) {
-                    String name1 = name1Parts[i].replace(".", "");
-                    String name2 = name2Parts[i].replace(".", "");
-
-                    if (!name1.equalsIgnoreCase(name2)) {
-                        if ((name1.length() > 1 && name2.length() == 1)
-                                || (name2.length() > 1 && name1.length() == 1)) {
-                            if (!name1.substring(0, 1).equalsIgnoreCase(name2.substring(0, 1))) {
-                                couldMatch = false;
-                            }
-                        } else {
-                            couldMatch = false;
-                        }
-                    }
-                }
-
-                if (couldMatch) {
-                    return speaker;
-                }
+            if (name1Parts.length == name2Parts.length && checkMatches(name1Parts, name2Parts)) {
+                return speaker;
             }
         }
 
@@ -178,7 +183,7 @@ public class Speakers {
         JSONArray collisions = new JSONArray();
         String newAbbr;
 
-        for (Object item : speakers) {
+        for (Object item : speakerRecords) {
             JSONObject speaker = (JSONObject) item;
 
             if (speaker.getString(KEY_ABBR).equalsIgnoreCase(abbr)) {
@@ -246,8 +251,10 @@ public class Speakers {
             speaker = initialMatchingSpeaker(name);
 
             if (speaker != null) {
-                System.err.println("Matching speaker on initials: <" + name
-                        + "> to <" + speakerFullName(speaker) + ">");
+                String fullName = speakerFullName(speaker);
+
+                logger.log(Level.WARNING, () -> "Matching speaker on initials: <" + name
+                        + "> to <" + fullName + ">");
             }
         }
 
@@ -255,7 +262,7 @@ public class Speakers {
     }
 
     private String[] parseName(String name) {
-        String givenNames = "";
+        StringBuilder givenNames = new StringBuilder();
         String lastNames = "";
         String suffix = "";
 
@@ -278,14 +285,14 @@ public class Speakers {
 
         if (indexOfDeDiDo > 0) {
             // This is the cut point
-            givenNames = name.substring(0, indexOfDeDiDo - 1);
+            givenNames.append(name.substring(0, indexOfDeDiDo - 1));
             lastNames = name.substring(indexOfDeDiDo);
         } else {
             String[] nameParts = name.split(" ");
 
             if (nameParts.length <= 2) {
                 if (nameParts.length > 0) {
-                    givenNames = nameParts[0];
+                    givenNames.append(nameParts[0]);
                 }
 
                 if (nameParts.length > 1) {
@@ -294,17 +301,17 @@ public class Speakers {
             } else {
                 for (int i = 0; i < nameParts.length - 1; i++) {
                     if (i > 0) {
-                        givenNames += " ";
+                        givenNames.append(" ");
                     }
 
-                    givenNames += nameParts[i];
+                    givenNames.append(nameParts[i]);
                 }
 
                 lastNames = nameParts[nameParts.length - 1];
             }
         }
 
-        return new String[]{givenNames, lastNames, suffix};
+        return new String[]{givenNames.toString(), lastNames, suffix};
     }
 
     public JSONObject speakerForAbbreviation(String abbreviation) {
