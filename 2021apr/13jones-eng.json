@@ -1,0 +1,604 @@
+{
+  "tableOfContentsUri": "/liahona/2021/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2021/05/13jones",
+      "data-aid": "146038276",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "a07a2c9594b04c8180eedbfdd8e0e55b",
+      "data-aid-version": "1",
+      "data-orig-id": "a07a2c9594b04c8180eedbfdd8e0e55b"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246437643001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1030-joy-d-jones-32k-eng.mp3"
+    }],
+    "title": "Essential Conversations",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "146038276",
+      {"key": "146038276"}
+    ],
+    [
+      "146038277",
+      {"key": "146038277"}
+    ],
+    [
+      "146038278",
+      {"key": "146038278"}
+    ],
+    [
+      "146038279",
+      {"key": "146038279"}
+    ],
+    [
+      "146038280",
+      {"key": "146038280"}
+    ],
+    [
+      "146038281",
+      {"key": "146038281"}
+    ],
+    [
+      "146038282",
+      {"key": "146038282"}
+    ],
+    [
+      "146038283",
+      {"key": "146038283"}
+    ],
+    [
+      "146038284",
+      {"key": "146038284"}
+    ],
+    [
+      "146038285",
+      {"key": "146038285"}
+    ],
+    [
+      "146038286",
+      {"key": "146038286"}
+    ],
+    [
+      "146038287",
+      {"key": "146038287"}
+    ],
+    [
+      "146038288",
+      {"key": "146038288"}
+    ],
+    [
+      "146038289",
+      {"key": "146038289"}
+    ],
+    [
+      "146038290",
+      {"key": "146038290"}
+    ],
+    [
+      "146038291",
+      {"key": "146038291"}
+    ],
+    [
+      "146038292",
+      {"key": "146038292"}
+    ],
+    [
+      "146038293",
+      {"key": "146038293"}
+    ],
+    [
+      "146038294",
+      {"key": "146038294"}
+    ],
+    [
+      "146038295",
+      {"key": "146038295"}
+    ],
+    [
+      "146038296",
+      {"key": "146038296"}
+    ],
+    [
+      "146038297",
+      {"key": "146038297"}
+    ],
+    [
+      "146038298",
+      {"key": "146038298"}
+    ],
+    [
+      "146038299",
+      {"key": "146038299"}
+    ],
+    [
+      "146038300",
+      {"key": "146038300"}
+    ],
+    [
+      "146038301",
+      {"key": "146038301"}
+    ],
+    [
+      "146038302",
+      {"key": "146038302"}
+    ],
+    [
+      "146038303",
+      {"key": "146038303"}
+    ],
+    [
+      "146038304",
+      {"key": "146038304"}
+    ],
+    [
+      "146038305",
+      {"key": "146038305"}
+    ],
+    [
+      "146038306",
+      {"key": "146038306"}
+    ],
+    [
+      "146038308",
+      {"key": "146038308"}
+    ],
+    [
+      "146038310",
+      {"key": "146038310"}
+    ],
+    [
+      "146038312",
+      {"key": "146038312"}
+    ],
+    [
+      "146038314",
+      {"key": "146038314"}
+    ],
+    [
+      "146038316",
+      {"key": "146038316"}
+    ],
+    [
+      "146038318",
+      {"key": "146038318"}
+    ],
+    [
+      "146038320",
+      {"key": "146038320"}
+    ],
+    [
+      "146038322",
+      {"key": "146038322"}
+    ],
+    [
+      "146038324",
+      {"key": "146038324"}
+    ],
+    [
+      "146038326",
+      {"key": "146038326"}
+    ],
+    [
+      "146038328",
+      {"key": "146038328"}
+    ],
+    [
+      "146038330",
+      {"key": "146038330"}
+    ],
+    [
+      "146038397",
+      {"key": "146038397"}
+    ],
+    [
+      "146038401",
+      {"key": "146038401"}
+    ],
+    [
+      "146038404",
+      {"key": "146038404"}
+    ],
+    [
+      "146038410",
+      {"key": "146038410"}
+    ],
+    [
+      "146038414",
+      {"key": "146038414"}
+    ],
+    [
+      "146038418",
+      {"key": "146038418"}
+    ],
+    [
+      "146038422",
+      {"key": "146038422"}
+    ],
+    [
+      "146038426",
+      {"key": "146038426"}
+    ],
+    [
+      "146038430",
+      {"key": "146038430"}
+    ],
+    [
+      "146038434",
+      {"key": "146038434"}
+    ],
+    [
+      "146038438",
+      {"key": "146038438"}
+    ],
+    [
+      "146038441",
+      {"key": "146038441"}
+    ],
+    [
+      "146038445",
+      {"key": "146038445"}
+    ],
+    [
+      "146038449",
+      {"key": "146038449"}
+    ],
+    [
+      "146038454",
+      {"key": "146038454"}
+    ],
+    [
+      "146038459",
+      {"key": "146038459"}
+    ],
+    [
+      "146038463",
+      {"key": "146038463"}
+    ],
+    [
+      "146039468",
+      {"key": "146039468"}
+    ],
+    [
+      "146039473",
+      {"key": "146039473"}
+    ],
+    [
+      "146039478",
+      {"key": "146039478"}
+    ],
+    [
+      "146039480",
+      {"key": "146039480"}
+    ],
+    [
+      "146039485",
+      {"key": "146039485"}
+    ],
+    [
+      "146039490",
+      {"key": "146039490"}
+    ],
+    [
+      "146039495",
+      {"key": "146039495"}
+    ],
+    [
+      "146039500",
+      {"key": "146039500"}
+    ],
+    [
+      "146039505",
+      {"key": "146039505"}
+    ],
+    [
+      "146039510",
+      {"key": "146039510"}
+    ],
+    [
+      "146039515",
+      {"key": "146039515"}
+    ]
+  ],
+  "uri": "/liahona/2021/05/13jones",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Sister Jones reiterates the importance of teaching the gospel of Jesus Christ to our children.",
+          "title": "Essential Conversations"
+        },
+        "pageSocial": {
+          "description": "Sister Jones reiterates the importance of teaching the gospel of Jesus Christ to our children.",
+          "title": "Essential Conversations"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2021/04/13jones?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6246437643001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246437643001\" data-video-title=\"Joy D. Jones | April 2021\" data-video-description=\"Sister Joy D. Jones speaks at the 191st Annual General Conference of The Church of Jesus Christ of Latter-day Saints on April 3-4, 2021.\" data-video-id=\"6246437643001\" data-ip=\"Download and Streaming\" data-duration=\"684000\" data-assetid=\"F087A3F4C905F53FFF518480540996292EDF23D1\" data-ref-id=\"F087A3F4C905F53FFF518480540996292EDF23D1\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6246437643001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1030-joy-d-jones-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"77554907\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1030-joy-d-jones-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"108089901\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1030-joy-d-jones-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"239065123\"><\/video><h1 data-aid=\"146038277\" id=\"title1\">Essential Conversations<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"146038278\" id=\"author1\">By Joy&nbsp;D. Jones<\/p>\n<p class=\"author-role\" data-aid=\"146038279\" id=\"author2\">Recently Released Primary General President<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"146038280\" id=\"kicker1\">We cannot wait for conversion to simply happen to our children. Accidental conversion is not a principle of the gospel of Jesus Christ.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"146038281\" id=\"p1\">Have you ever wondered why we call Primary \u201cPrimary\u201d? While the name refers to spiritual learning children receive in their earliest years, to me it is also a reminder of a powerful truth. To our Heavenly Father, children have <em>never<\/em> been secondary\u2014they have <em>always <\/em>been \u201cprimary.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"146038282\" id=\"p2\">He trusts us to value, respect, and protect them as children of God. That means we never harm them physically, verbally, or emotionally in any way, even when tensions and pressures run high. Instead we <em>value<\/em> children, and we do all we can to combat the evils of abuse. Their care is primary to us\u2014as it is to Him.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"146038283\" id=\"p3\">One young mother and father sat at their kitchen table reviewing their day. From down the hall, they heard a thud. The mother asked, \u201cWhat was that?\u201d<\/p>\n<p data-aid=\"146038284\" id=\"p4\">Then they heard a soft cry coming from their four-year-old son\u2019s bedroom. They rushed down the hall. There he was, lying on the floor next to his bed. The mother picked up the little boy and asked him what had happened.<\/p>\n<p data-aid=\"146038285\" id=\"p5\">He said, \u201cI fell out of bed.\u201d<\/p>\n<p data-aid=\"146038286\" id=\"p6\">She said, \u201cWhy did you fall out of bed?\u201d<\/p>\n<p data-aid=\"146038287\" id=\"p7\">He shrugged and said, \u201cI don\u2019t know. I guess I just didn\u2019t get far enough in.\u201d<\/p>\n<p data-aid=\"146038288\" id=\"p8\">It is about this \u201cgetting far enough in\u201d that I would like to speak this morning. It is our privilege and responsibility to help children \u201cget far enough in\u201d to the gospel of Jesus Christ. And we cannot begin too soon.<\/p>\n<p data-aid=\"146038289\" id=\"p9\">There is a uniquely special time in children\u2019s lives when they are protected from Satan\u2019s influence. It is a time when they are innocent and sin free.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> It is a sacred time for parent and child. Children are to be taught, by word and example, before and after they have \u201carrived unto the years of accountability before God.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"146038290\" id=\"p10\">President Henry&nbsp;B. Eyring taught: \u201cWe have the greatest opportunity with the young. The best time to teach is early, while children are still immune to the temptations of [the] mortal enemy, and long before the words of truth may be harder for them to hear in the noise of their personal struggles.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> Such teaching will help them realize their divine identity, their purpose, and the rich blessings that await them as they make sacred covenants and receive ordinances along the covenant path.<\/p>\n<p data-aid=\"146038291\" id=\"p11\">We cannot wait for conversion to simply happen to our children. Accidental conversion is <em>not<\/em> a principle of the gospel of Jesus Christ. Becoming like our Savior will not happen randomly. Being intentional in loving, teaching, and testifying can help children begin at a young age to feel the influence of the Holy Ghost. The Holy Ghost is essential to our children\u2019s testimony of and conversion to Jesus Christ; we desire them to \u201calways remember him, that they may have his Spirit to be with them.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/02/69/0269cbcc1a3c12b3f50a47781c6fd085c5bcb21a/congo_studying_study_scriptures_families.png\" data-img-id=\"0571e71f1b96679727a261aef0484077d067f842\" srcset=\"https://assets.ldscdn.org/9c/ea/9ceab1f6a06b93bd019fde51ae0a380555a0facf/congo_studying_study_scriptures_families.png 60w,https://assets.ldscdn.org/6f/07/6f0794300b796ab6bb0d344773dfb31546e25e34/congo_studying_study_scriptures_families.png 100w,https://assets.ldscdn.org/d6/39/d639b9b01220f856173febf60027e195ebb4831b/congo_studying_study_scriptures_families.png 200w,https://assets.ldscdn.org/b5/9e/b59e5f04cfc849ce9b35966595b184ad11777a8c/congo_studying_study_scriptures_families.png 250w,https://assets.ldscdn.org/97/46/9746e6345139ee3071e72a250a37339108678a11/congo_studying_study_scriptures_families.png 320w,https://assets.ldscdn.org/02/69/0269cbcc1a3c12b3f50a47781c6fd085c5bcb21a/congo_studying_study_scriptures_families.png 500w,https://assets.ldscdn.org/ec/32/ec32f458b5be82a8abfc81449bdf653426c3def4/congo_studying_study_scriptures_families.png 640w\" data-assetid=\"0571e71f1b96679727a261aef0484077d067f842\" data-missing-asset=\"false\" alt=\"Democratic Republic of the Congo: Studying\">\n<p data-aid=\"146038292\" id=\"p12\">Consider the value of family conversations about the gospel of Jesus Christ, <em>essential<\/em> conversations, that can invite the Spirit. When we have such conversations with our children, we help them create a foundation, \u201cwhich is a sure foundation, a foundation whereon if [they] build they cannot fall.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> When we strengthen a child, we strengthen the family.<\/p>\n<p data-aid=\"146038293\" id=\"p13\">These vital discussions can lead children to:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"146038294\" id=\"p14\">Understand the doctrine of repentance.<\/p>\n<\/li>\n<li>\n<p data-aid=\"146038295\" id=\"p15\">Have faith in Christ, the Son of the living God.<\/p>\n<\/li>\n<li>\n<p data-aid=\"146038296\" id=\"p16\">Choose baptism and the gift of the Holy Ghost when eight years old.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<\/li>\n<li>\n<p data-aid=\"146038297\" id=\"p17\">And pray and \u201cwalk uprightly before the Lord.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"146038298\" id=\"p18\">The Savior urged, \u201cTherefore I give unto you a commandment, to teach these things <em>freely<\/em> unto your children.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> And what did He want us to teach so freely?<\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"146038299\" id=\"p19\">The Fall of Adam<\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"146038300\" id=\"p20\">The Atonement of Jesus Christ<\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"146038301\" id=\"p21\">The importance of being born again<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<\/li>\n<\/ol>\n<p data-aid=\"146038302\" id=\"p22\">Elder D.&nbsp;Todd Christofferson said, \u201cCertainly the adversary is pleased when parents neglect to teach and train their children to have faith in Christ and be spiritually born again.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"146038303\" id=\"p23\">In contrast, the Savior would have us help children \u201cput [their] trust in that Spirit which leadeth to do good.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> To do so, we can assist children in recognizing when they are feeling the Spirit and in discerning what actions cause the Spirit to leave. Thus they learn to repent and return to the light through the Atonement of Jesus Christ. This helps encourage spiritual resilience.<\/p>\n<p data-aid=\"146038304\" id=\"p24\">We can have fun helping our children build spiritual resilience at any age. It doesn\u2019t have to be complicated or time intensive. Simple, caring conversations can lead children to know not only <em>what<\/em> they believe, but most important, <em>why<\/em> they believe it. Caring conversations, happening naturally and consistently, can lead to better understanding and answers. Let\u2019s not allow the convenience of electronic devices to keep us from teaching and listening to our children and looking into their eyes.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/55/f1/55f1305bc0c45fd9b11333dc6387861ef22d36e0/mother_daughter_outside_smiling.png\" data-img-id=\"d77991bf17961a301ac04bd28bf68b4129b8e4c2\" srcset=\"https://assets.ldscdn.org/53/c8/53c8e0d720a8ed6c04e1d012799236fa250bc79c/mother_daughter_outside_smiling.png 60w,https://assets.ldscdn.org/b9/16/b9165c42ccac823f3eac3f84b0a4701ffd3c3a02/mother_daughter_outside_smiling.png 100w,https://assets.ldscdn.org/c4/55/c455ded100db18968ef4538c09564b5dbef39061/mother_daughter_outside_smiling.png 200w,https://assets.ldscdn.org/7f/9b/7f9b620d2ed311db3be95737c002902ddbc3de33/mother_daughter_outside_smiling.png 250w,https://assets.ldscdn.org/1b/09/1b09003843800c4923455000733221bbde4461b5/mother_daughter_outside_smiling.png 320w,https://assets.ldscdn.org/55/f1/55f1305bc0c45fd9b11333dc6387861ef22d36e0/mother_daughter_outside_smiling.png 500w,https://assets.ldscdn.org/0e/12/0e12785f1a3c2683f9c726f0e3a501472bd95a5a/mother_daughter_outside_smiling.png 640w\" data-assetid=\"d77991bf17961a301ac04bd28bf68b4129b8e4c2\" data-missing-asset=\"false\" alt=\"Family Life\">\n<p data-aid=\"146038305\" id=\"p25\">Additional opportunities for essential conversations can occur through role-playing. Family members can act out situations of being tempted or pressured to make a bad choice. Such an exercise can fortify children to be prepared in a challenging setting. For example, we can act it out and then talk it out as we ask children what they would do:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"146038306\" id=\"p26\">If they are tempted to break the Word of Wisdom.<\/p>\n<\/li>\n<li>\n<p data-aid=\"146038308\" id=\"p27\">If they are exposed to pornography.<\/p>\n<\/li>\n<li>\n<p data-aid=\"146038310\" id=\"p28\">If they are tempted to lie, steal, or cheat.<\/p>\n<\/li>\n<li>\n<p data-aid=\"146038312\" id=\"p29\">If they hear something from a friend or teacher at school that disputes their beliefs or values.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"146038314\" id=\"p30\">As they act it out and then talk it out, rather than being caught unprepared in a hostile peer group setting, children can be armed with \u201cthe shield of faith wherewith [they] shall be able to quench <em>all<\/em> the fiery darts of the wicked.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"146038316\" id=\"p31\">A close personal friend learned this crucial lesson as an 18-year-old. He enlisted in the United States military during the conflict between the United States and Vietnam. He was assigned to basic training in the infantry to become a foot soldier. He explained that the training was grueling. He described his drill instructor as cruel and inhumane.<\/p>\n<p data-aid=\"146038318\" id=\"p32\">One particular day his squad was dressed in full battle gear, hiking in sweltering heat. The drill instructor suddenly shouted orders to drop to the ground and not move. The instructor was watching for even the <em>slightest<\/em> motion. Any movement would result in serious consequences later on. The squad suffered for more than two hours in the heat with growing anger and resentment toward their leader.<\/p>\n<p data-aid=\"146038320\" id=\"p33\">Many months later our friend found himself leading his squad through the jungles of Vietnam. This was real, not just training. Shots began to ring from high in the surrounding trees. The entire squad immediately dropped to the ground.<\/p>\n<p data-aid=\"146038322\" id=\"p34\">What was the enemy looking for? Movement. Any motion at all would draw fire. My friend said that as he lay sweating and motionless on the jungle floor, waiting for dark for several long hours, his thoughts reflected back on basic training. He remembered his intense dislike for his drill instructor. Now he felt intense gratitude\u2014for what he had taught him and how he had prepared him for this critical situation. The drill instructor had wisely equipped our friend and his squad with the ability to know what to do when the battle was raging. He had, in effect, saved our friend\u2019s life.<\/p>\n<p data-aid=\"146038324\" id=\"p35\">How can we do the same for our children spiritually? Long before they enter the battlefield of life, how can we more fully strive to teach, fortify, and prepare them?<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> How can we invite them to \u201cget far enough in\u201d? Wouldn\u2019t we rather have them \u201csweat\u201d in the safe learning environment of the home than <em>bleed on the battlefields of life<\/em>?<\/p>\n<p data-aid=\"146038326\" id=\"p36\">As I look back, there were times when my husband and I felt like drill instructors in our earnestness to help our children live the gospel of Jesus Christ. The prophet Jacob seemed to voice these same feelings when he said: \u201cI am desirous for the welfare of your souls. Yea, mine anxiety is great for you; and ye yourselves know that it ever has been.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"146038328\" id=\"p37\">As children learn and progress, their beliefs will be challenged. But as they are properly equipped, they can grow in faith, courage, and confidence, even in the midst of strong opposition.<\/p>\n<p data-aid=\"146038330\" id=\"p38\">Alma taught us to \u201cprepare the minds of [the] children.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> We are preparing the rising generation to be the future defenders of the faith, to understand \u201cthat [they] are free to act for [themselves]\u2014to choose the way of everlasting death or the way of eternal life.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> Children deserve to understand this great truth: eternity is the wrong thing to be wrong about.<\/p>\n<p data-aid=\"146038397\" id=\"p39\">May our simple yet essential conversations with our children help them to \u201cenjoy the <em>words<\/em> of eternal life\u201d now so that they may enjoy \u201ceternal life in the world to come, even immortal glory.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"146038401\" id=\"p40\">As we nurture and prepare our children, we allow for their agency, we love them with all our heart, we teach them God\u2019s commandments and His gift of repentance, and we never, <em>ever<\/em>, give up on them. After all, isn\u2019t this the Lord\u2019s way with each of us?<\/p>\n<p data-aid=\"146038404\" id=\"p41\">Let us \u201cpress forward with a steadfastness in Christ,\u201d knowing that we can have \u201ca perfect brightness of hope\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> through our loving Savior.<\/p>\n<p data-aid=\"146038410\" id=\"p42\">I testify that He is always the answer. In the sacred name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "146038289",
+        "id": "note4",
+        "text": "<p data-aid=\"146038434\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.71?lang=eng#p71\">Doctrine and Covenants 20:71<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20.71?lang=eng#p71",
+          "text": "Doctrine and Covenants 20:71",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "146038290",
+        "id": "note5",
+        "text": "<p data-aid=\"146038438\" id=\"note5_p1\">Henry&nbsp;B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng&amp;para=24#p24\">The Power of Teaching Doctrine<\/a>,\u201d <cite>Ensign<\/cite>, May 1999, 74;  <cite>Liahona<\/cite>, July 1999, 87.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng&para=24#p24",
+          "text": "The Power of Teaching Doctrine",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "146038282",
+        "id": "note2",
+        "text": "<p data-aid=\"146038422\" id=\"note2_p1\">See Michaelene&nbsp;P. Grassli, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1992/10/behold-your-little-ones?lang=eng&amp;para=13#p13\">Behold Your Little Ones<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1992, 93: \u201cTo me, the word <em>behold<\/em> is significant. It implies more than just \u2018look and see.\u2019 When the Lord instructed the Nephites to <em>behold<\/em> their little ones, I believe he told them to give attention to their children, to contemplate them, to look beyond the present and see their eternal possibilities.\u201d<\/p>\n<p data-aid=\"146038426\" id=\"note2_p2\">See also Russell&nbsp;M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1991/04/listen-to-learn?lang=eng&amp;para=6#p6\">Listen to Learn<\/a>,\u201d <cite>Ensign<\/cite>, May 1991, 22: \u201cTo rule children by force is the technique of Satan, not of the Savior. No, we don\u2019t own our children. Our parental privilege is to love them, to lead them, and to let them go.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/1992/10/behold-your-little-ones?lang=eng&para=13#p13",
+            "text": "Behold Your Little Ones",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/1991/04/listen-to-learn?lang=eng&para=6#p6",
+            "text": "Listen to Learn",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "146038289",
+        "id": "note3",
+        "text": "<p data-aid=\"146038430\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29.46-47?lang=eng#p46\">Doctrine and Covenants 29:46\u201347<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/29.46-47?lang=eng#p46",
+          "text": "Doctrine and Covenants 29:46\u201347",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "146038296",
+        "id": "note8",
+        "text": "<p data-aid=\"146038449\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.25?lang=eng#p25\">Doctrine and Covenants 68:25<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.4?lang=eng#p4\">Articles of Faith 1:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/68.25?lang=eng#p25",
+            "text": "Doctrine and Covenants 68:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/a-of-f/1.4?lang=eng#p4",
+            "text": "Articles of Faith 1:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "146038297",
+        "id": "note9",
+        "text": "<p data-aid=\"146038454\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.28?lang=eng#p28\">Doctrine and Covenants 68:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68.28?lang=eng#p28",
+          "text": "Doctrine and Covenants 68:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "146038291",
+        "id": "note6",
+        "text": "<p data-aid=\"146038441\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.79?lang=eng#p79\">Doctrine and Covenants 20:79<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20.79?lang=eng#p79",
+          "text": "Doctrine and Covenants 20:79",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "146038292",
+        "id": "note7",
+        "text": "<p data-aid=\"146038445\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.12?lang=eng#p12",
+          "text": "Helaman 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "146038326",
+        "id": "note16",
+        "text": "<p data-aid=\"146039495\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/6.3?lang=eng#p3\">2&nbsp;Nephi 6:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/6.3?lang=eng#p3",
+          "text": "2 Nephi 6:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "146038324",
+        "id": "note15",
+        "text": "<p data-aid=\"146039480\" id=\"note15_p1\">See Russell&nbsp;M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=eng&amp;para=10#p10\">Children of the Covenant<\/a>,\u201d <cite>Ensign<\/cite>, May 1995, 32:<\/p>\n<p data-aid=\"146039485\" id=\"note15_p3\">\u201cYears ago as a young medical student I saw many patients afflicted with diseases that are now preventable. Today it is possible to immunize individuals against conditions that once were disabling\u2014even deadly. One medical method by which acquired immunity is conferred is inoculation. The term <em>inoculate<\/em> is fascinating. It comes from two Latin roots: <em>in<\/em>, meaning \u2018within\u2019; and <em>oculus<\/em>, meaning \u2018an eye.\u2019 The verb <em>to inoculate<\/em>, therefore, literally means \u2018to put an eye within\u2019\u2014to monitor against harm.<\/p>\n<p data-aid=\"146039490\" id=\"note15_p2\">\u201cAn affliction like polio can cripple or destroy the body. An affliction like sin can cripple or destroy the spirit. The ravages of polio can now be prevented by immunization, but the ravages of sin require other means of prevention. Doctors cannot immunize against iniquity. Spiritual protection comes only from the Lord\u2014and in his own way. Jesus chooses not to inoculate, but to indoctrinate. His method employs no vaccine; it utilizes the teaching of divine doctrine\u2014a governing \u2018eye within\u2019\u2014to protect the eternal spirits of his children.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1995/04/children-of-the-covenant?lang=eng&para=10#p10",
+          "text": "Children of the Covenant",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "146038314",
+        "id": "note14",
+        "text": "<p data-aid=\"146039478\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27.17?lang=eng#p17\">Doctrine and Covenants 27:17<\/a>; emphasis added; see also Marion&nbsp;G. Romney, \u201cHome Teaching and Family Home Evening,\u201d <cite>Improvement Era<\/cite>, June 1969, 97: \u201cSatan, our enemy, is making an all-out assault upon righteousness. His well-marshaled forces are legion. Our children and youth are the targets of his main thrust. They are everywhere subjected to wicked and vicious propaganda. Every place they turn, they are buffeted with evil, cunningly devised to deceive and to destroy every sacred thing and every righteous principle. \u2026 If our children are to be sufficiently strengthened to stand against this satanic onslaught, they must be taught and trained in the home, as the Lord has directed.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/27.17?lang=eng#p17",
+          "text": "Doctrine and Covenants 27:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "146038303",
+        "id": "note13",
+        "text": "<p data-aid=\"146039473\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.12-13?lang=eng#p12\">Doctrine and Covenants 11:12\u201313<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=eng\">Doctrine and Covenants 93<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/11.12-13?lang=eng#p12",
+            "text": "Doctrine and Covenants 11:12\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93?lang=eng",
+            "text": "Doctrine and Covenants 93",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "146038302",
+        "id": "note12",
+        "text": "<p data-aid=\"146039468\" id=\"note12_p1\">D.&nbsp;Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/why-marriage-why-family?lang=eng&amp;para=22#p22\">Why Marriage, Why Family?<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2015, 52.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/04/why-marriage-why-family?lang=eng&para=22#p22",
+          "text": "Why Marriage, Why Family?",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "146038301",
+        "id": "note11",
+        "text": "<p data-aid=\"146038463\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59?lang=eng#p59\">Moses 6:59<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.29-31?lang=eng#p29\">Doctrine and Covenants 20:29\u201331<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/6.59?lang=eng#p59",
+            "text": "Moses 6:59",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.29-31?lang=eng#p29",
+            "text": "Doctrine and Covenants 20:29\u201331",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "146038298",
+        "id": "note10",
+        "text": "<p data-aid=\"146038459\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.58?lang=eng#p58\">Moses 6:58<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.58?lang=eng#p58",
+          "text": "Moses 6:58",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "146038404",
+        "id": "note20",
+        "text": "<p data-aid=\"146039515\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2&nbsp;Nephi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+          "text": "2 Nephi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "146038281",
+        "id": "note1",
+        "text": "<p data-aid=\"146038418\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.23-24?lang=eng#p23\">3&nbsp;Nephi 17:23\u201324<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17.23-24?lang=eng#p23",
+          "text": "3 Nephi 17:23\u201324",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "146038397",
+        "id": "note19",
+        "text": "<p data-aid=\"146039510\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59?lang=eng#p59\">Moses 6:59<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.59?lang=eng#p59",
+          "text": "Moses 6:59",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "146038330",
+        "id": "note18",
+        "text": "<p data-aid=\"146039505\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10.23?lang=eng#p23\">2&nbsp;Nephi 10:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/10.23?lang=eng#p23",
+          "text": "2 Nephi 10:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "146038330",
+        "id": "note17",
+        "text": "<p data-aid=\"146039500\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/39.16?lang=eng#p16\">Alma 39:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/39.16?lang=eng#p16",
+          "text": "Alma 39:16",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

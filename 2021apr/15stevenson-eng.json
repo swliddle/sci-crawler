@@ -1,0 +1,582 @@
+{
+  "tableOfContentsUri": "/liahona/2021/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2021/05/15stevenson",
+      "data-aid": "146038924",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "198bf2a7d36a4e79944a9cdcdf66ce16",
+      "data-aid-version": "1",
+      "data-orig-id": "198bf2a7d36a4e79944a9cdcdf66ce16"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246440647001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-32k-eng.mp3"
+    }],
+    "title": "Hearts Knit Together",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "146038924",
+      {"key": "146038924"}
+    ],
+    [
+      "146038925",
+      {"key": "146038925"}
+    ],
+    [
+      "146038926",
+      {"key": "146038926"}
+    ],
+    [
+      "146038927",
+      {"key": "146038927"}
+    ],
+    [
+      "146038928",
+      {"key": "146038928"}
+    ],
+    [
+      "146038929",
+      {"key": "146038929"}
+    ],
+    [
+      "146038930",
+      {"key": "146038930"}
+    ],
+    [
+      "146038931",
+      {"key": "146038931"}
+    ],
+    [
+      "146038932",
+      {"key": "146038932"}
+    ],
+    [
+      "146038933",
+      {"key": "146038933"}
+    ],
+    [
+      "146038934",
+      {"key": "146038934"}
+    ],
+    [
+      "146038935",
+      {"key": "146038935"}
+    ],
+    [
+      "146038936",
+      {"key": "146038936"}
+    ],
+    [
+      "146038937",
+      {"key": "146038937"}
+    ],
+    [
+      "146038938",
+      {"key": "146038938"}
+    ],
+    [
+      "146038940",
+      {"key": "146038940"}
+    ],
+    [
+      "146038941",
+      {"key": "146038941"}
+    ],
+    [
+      "146038943",
+      {"key": "146038943"}
+    ],
+    [
+      "146038945",
+      {"key": "146038945"}
+    ],
+    [
+      "146038949",
+      {"key": "146038949"}
+    ],
+    [
+      "146038950",
+      {"key": "146038950"}
+    ],
+    [
+      "146038952",
+      {"key": "146038952"}
+    ],
+    [
+      "146038953",
+      {"key": "146038953"}
+    ],
+    [
+      "146038955",
+      {"key": "146038955"}
+    ],
+    [
+      "146038957",
+      {"key": "146038957"}
+    ],
+    [
+      "146038959",
+      {"key": "146038959"}
+    ],
+    [
+      "146038962",
+      {"key": "146038962"}
+    ],
+    [
+      "146038965",
+      {"key": "146038965"}
+    ],
+    [
+      "146038968",
+      {"key": "146038968"}
+    ],
+    [
+      "146038971",
+      {"key": "146038971"}
+    ],
+    [
+      "146038974",
+      {"key": "146038974"}
+    ],
+    [
+      "146038977",
+      {"key": "146038977"}
+    ],
+    [
+      "146038980",
+      {"key": "146038980"}
+    ],
+    [
+      "146038983",
+      {"key": "146038983"}
+    ],
+    [
+      "146038986",
+      {"key": "146038986"}
+    ],
+    [
+      "146038989",
+      {"key": "146038989"}
+    ],
+    [
+      "146038992",
+      {"key": "146038992"}
+    ],
+    [
+      "146038996",
+      {"key": "146038996"}
+    ],
+    [
+      "146039000",
+      {"key": "146039000"}
+    ],
+    [
+      "146039002",
+      {"key": "146039002"}
+    ],
+    [
+      "146039006",
+      {"key": "146039006"}
+    ],
+    [
+      "146039010",
+      {"key": "146039010"}
+    ],
+    [
+      "146039014",
+      {"key": "146039014"}
+    ],
+    [
+      "146039018",
+      {"key": "146039018"}
+    ],
+    [
+      "146039022",
+      {"key": "146039022"}
+    ],
+    [
+      "146039023",
+      {"key": "146039023"}
+    ],
+    [
+      "146039027",
+      {"key": "146039027"}
+    ],
+    [
+      "146039031",
+      {"key": "146039031"}
+    ],
+    [
+      "146039035",
+      {"key": "146039035"}
+    ],
+    [
+      "146039040",
+      {"key": "146039040"}
+    ],
+    [
+      "146039044",
+      {"key": "146039044"}
+    ],
+    [
+      "146039049",
+      {"key": "146039049"}
+    ],
+    [
+      "146039054",
+      {"key": "146039054"}
+    ],
+    [
+      "146039059",
+      {"key": "146039059"}
+    ],
+    [
+      "146039064",
+      {"key": "146039064"}
+    ],
+    [
+      "146039069",
+      {"key": "146039069"}
+    ],
+    [
+      "146039074",
+      {"key": "146039074"}
+    ],
+    [
+      "146039077",
+      {"key": "146039077"}
+    ],
+    [
+      "146039081",
+      {"key": "146039081"}
+    ],
+    [
+      "146039085",
+      {"key": "146039085"}
+    ],
+    [
+      "146039090",
+      {"key": "146039090"}
+    ],
+    [
+      "146039095",
+      {"key": "146039095"}
+    ],
+    [
+      "146039101",
+      {"key": "146039101"}
+    ],
+    [
+      "146039107",
+      {"key": "146039107"}
+    ],
+    [
+      "146039113",
+      {"key": "146039113"}
+    ],
+    [
+      "146039120",
+      {"key": "146039120"}
+    ],
+    [
+      "146039129",
+      {"key": "146039129"}
+    ],
+    [
+      "146039136",
+      {"key": "146039136"}
+    ],
+    [
+      "146039143",
+      {"key": "146039143"}
+    ],
+    [
+      "146039149",
+      {"key": "146039149"}
+    ],
+    [
+      "146039156",
+      {"key": "146039156"}
+    ],
+    [
+      "146039161",
+      {"key": "146039161"}
+    ],
+    [
+      "146039167",
+      {"key": "146039167"}
+    ],
+    [
+      "146039173",
+      {"key": "146039173"}
+    ],
+    [
+      "146039179",
+      {"key": "146039179"}
+    ],
+    [
+      "146039185",
+      {"key": "146039185"}
+    ],
+    [
+      "146039191",
+      {"key": "146039191"}
+    ],
+    [
+      "146039198",
+      {"key": "146039198"}
+    ],
+    [
+      "146039205",
+      {"key": "146039205"}
+    ],
+    [
+      "146039212",
+      {"key": "146039212"}
+    ],
+    [
+      "146039219",
+      {"key": "146039219"}
+    ],
+    [
+      "146039226",
+      {"key": "146039226"}
+    ]
+  ],
+  "uri": "/liahona/2021/05/15stevenson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Stevenson teaches the importance of kindness, love, and respect, offering specific counsel to children, youth, and adults.",
+          "title": "Hearts Knit Together"
+        },
+        "pageSocial": {
+          "description": "Elder Stevenson teaches the importance of kindness, love, and respect, offering specific counsel to children, youth, and adults.",
+          "title": "Hearts Knit Together"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2021/04/15stevenson?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6246440647001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246440647001\" data-video-title=\"Gary E. Stevenson | April 2021\" data-video-description=\"Elder Gary E. Stevenson speaks at the 191st Annual General Conference of The Church of Jesus Christ of Latter-day Saints on April 3-4, 2021.\" data-video-id=\"6246440647001\" data-ip=\"Download and Streaming\" data-duration=\"910000\" data-assetid=\"9BD031F5CF6574232F992B0881E0075ECE490A3C\" data-ref-id=\"9BD031F5CF6574232F992B0881E0075ECE490A3C\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6246440647001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"103073214\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"145941454\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"330008096\"><\/video><h1 data-aid=\"146038925\" id=\"title1\">Hearts Knit Together<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"146038926\" id=\"author1\">By Elder Gary&nbsp;E. Stevenson<\/p>\n<p class=\"author-role\" data-aid=\"146038927\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"146038928\" id=\"kicker1\">As you extend yourself with kindness, care, and compassion, I promise that you will lift up arms that hang down and will heal hearts.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section>\n<header>\n<h2 data-aid=\"146038929\" id=\"title2\">Introduction<\/h2>\n<\/header>\n<p data-aid=\"146038930\" id=\"p1\">Isn\u2019t it fascinating that significant scientific discoveries are sometimes inspired by events as simple as an apple falling from a tree?<\/p>\n<p data-aid=\"146038931\" id=\"p2\">Today, let me share a discovery that happened because of a sample group of rabbits.<\/p>\n<p data-aid=\"146038932\" id=\"p3\">In the 1970s, researchers set up an experiment to examine the effects of diet on heart health. Over several months, they fed a control group of rabbits a high-fat diet and monitored their blood pressure, heart rate, and cholesterol.<\/p>\n<p data-aid=\"146038933\" id=\"p4\">As expected, many of the rabbits showed a buildup of fatty deposits on the inside of their arteries. Yet this was not all! Researchers had discovered something that made little sense. Although all of the rabbits had a buildup, one group surprisingly had as much as 60 percent less than the others. It appeared as though they were looking at two different groups of rabbits.<\/p>\n<p data-aid=\"146038934\" id=\"p5\">To scientists, results like this can cause lost sleep. How could this be? The rabbits were all the same breed from New Zealand, from a virtually identical gene pool. They each received equal amounts of the same food.<\/p>\n<p data-aid=\"146038935\" id=\"p6\">What could this mean?<\/p>\n<p data-aid=\"146038936\" id=\"p7\">Did the results invalidate the study? Were there flaws in the experiment design?<\/p>\n<p data-aid=\"146038937\" id=\"p8\">The scientists struggled to understand this unexpected outcome!<\/p>\n<p data-aid=\"146038938\" id=\"p9\">Eventually, they turned their attention to the research staff. Was it possible that researchers had done something to influence the results? As they pursued this, they discovered that every rabbit with fewer fatty deposits had been under the care of one researcher. She fed the rabbits the same food as everyone else. But, as one scientist reported, \u201cshe was an unusually kind and caring individual.\u201d When she fed the rabbits, \u201cshe talked to them, cuddled and petted them. \u2026 \u2018She couldn\u2019t help it. It\u2019s just how she was.\u2019\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<img id=\"img5\" src=\"https://assets.ldscdn.org/cb/67/cb679f29a715a81db9f368f95201f4c22cad2db3/woman_looking_bunny_rabbit.png\" data-img-id=\"f5c0c4040f8b0274d70a9f595007749d07c2d69f\" srcset=\"https://assets.ldscdn.org/5d/c5/5dc54866e2db4a0532b3f4f4274e1e9d4d57bc6d/woman_looking_bunny_rabbit.png 60w,https://assets.ldscdn.org/e0/a7/e0a7021ea475e9efd98eea5d2ba45609e6dd8c6b/woman_looking_bunny_rabbit.png 100w,https://assets.ldscdn.org/20/43/2043a0c5602b722d08e54f978d77287700125c66/woman_looking_bunny_rabbit.png 200w,https://assets.ldscdn.org/1a/b0/1ab04a16131afbba24f6b3e2e2de377208baa57f/woman_looking_bunny_rabbit.png 250w,https://assets.ldscdn.org/a0/b5/a0b56cf8f6015db158de5760d41c5d9953ccb543/woman_looking_bunny_rabbit.png 320w,https://assets.ldscdn.org/cb/67/cb679f29a715a81db9f368f95201f4c22cad2db3/woman_looking_bunny_rabbit.png 500w,https://assets.ldscdn.org/e6/3c/e63cfafd75abd5a7cc3043fb7c60157eed513e1d/woman_looking_bunny_rabbit.png 640w\" data-assetid=\"f5c0c4040f8b0274d70a9f595007749d07c2d69f\" data-missing-asset=\"false\" alt=\"Woman Looking at Bunny Rabbit\">\n<p data-aid=\"146038940\" id=\"p10\">She did more than simply give the rabbits food. She gave them love!<\/p>\n<p data-aid=\"146038941\" id=\"p11\">At first glance, it seemed unlikely that this could be the reason for the dramatic difference, but the research team could see no other possibility.<\/p>\n<p data-aid=\"146038943\" id=\"p12\">So they repeated the experiment\u2014this time tightly controlling for every other variable. When they analyzed the results, the same thing happened! The rabbits under the care of the loving researcher had significantly higher health outcomes.<\/p>\n<p data-aid=\"146038945\" id=\"p13\">The scientists published the results of this study in the prestigious journal <cite>Science<\/cite>.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"146038949\" id=\"p14\">Years later the findings of this experiment still seem influential in the medical community. In recent years, Dr. Kelli Harding published a book titled <cite>The Rabbit Effect<\/cite> that takes its name from the experiment. Her conclusion: \u201cTake a rabbit with an unhealthy lifestyle. Talk to it. Hold it. Give it affection. \u2026 The relationship made a difference. \u2026 Ultimately,\u201d she concludes, \u201cwhat affects our health in the most meaningful ways has as much to do with how we treat one another, how we live, and how we think about what it means to be human.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"146038950\" id=\"p16\">In a secular world, bridges connecting science with gospel truths sometimes seem few and far between. Yet as Christians, followers of Jesus Christ, Latter-day Saints, the results of this scientific study may seem more intuitive than astonishing. For me, this lays another brick in the foundation of kindness as a fundamental, healing gospel principle\u2014one that can heal hearts emotionally, spiritually, and, as demonstrated here, even physically.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146038952\" id=\"title3\">Hearts Knit Together<\/h2>\n<\/header>\n<p data-aid=\"146038953\" id=\"p17\">When asked, \u201cMaster, which is the great commandment?\u201d the Savior replied to \u201clove the Lord thy God with all thy heart,\u201d followed by, \u201cThou shalt love thy neighbour as thyself.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> The Savior\u2019s response reinforces our heavenly duty. An ancient prophet commanded \u201cthat there should be no contention one with another, but that [we] should look forward&nbsp;\u2026&nbsp;, having [our] <em>hearts knit together<\/em> in unity and in love one towards another.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> We are further taught that \u201cpower or influence \u2026 ought to be maintained \u2026 by gentleness and meekness, \u2026 by kindness, \u2026 without guile.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"146038955\" id=\"p18\">I believe this principle has a universal application to all Latter-day Saints: adults, youth, and children.<\/p>\n<p data-aid=\"146038957\" id=\"p19\">With that in mind, let me speak directly to you who are Primary-age children for a moment.<\/p>\n<p data-aid=\"146038959\" id=\"p20\">You already understand how important it is to be kind. The chorus of one of your Primary songs, \u201cI\u2019m Trying to Be like Jesus,\u201d teaches:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"146038962\" id=\"p21\">Love one another as Jesus loves you.<\/p>\n<p class=\"line\" data-aid=\"146038965\" id=\"p22\">Try to show kindness in all that you do.<\/p>\n<p class=\"line\" data-aid=\"146038968\" id=\"p23\">Be gentle and loving in deed and in thought,<\/p>\n<p class=\"line\" data-aid=\"146038971\" id=\"p24\">For these are the things Jesus taught.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<\/div>\n<\/div>\n<p data-aid=\"146038974\" id=\"p25\">Even still, you may sometimes have a hard time. Here is a story that might help you about a Primary boy named Minchan Kim from South Korea. His family joined the Church about six years ago.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/b4/22/b42265799ef38abafc034e8d1e1fb10fe7ef2ee7/minchan_kim_dog.png\" data-img-id=\"72edd569b1a3dbafe69785d23ea86d2eea4b45f2\" srcset=\"https://assets.ldscdn.org/6b/37/6b37a1b5cbf7d62fa9d28881d79170fcde7ac6d9/minchan_kim_dog.png 60w,https://assets.ldscdn.org/c5/c6/c5c66b3ca31c7e6ed0f0bcbc24f2ef641d0042c1/minchan_kim_dog.png 100w,https://assets.ldscdn.org/6e/e7/6ee70422e9e6d56a90d06121d97b040b96065ccf/minchan_kim_dog.png 200w,https://assets.ldscdn.org/4a/23/4a23eb1dbb3355ab8fb49ddfb90d5224b02526f5/minchan_kim_dog.png 250w,https://assets.ldscdn.org/07/68/0768756e9f46413c7918b07afd3463a1bdd9bd5c/minchan_kim_dog.png 320w,https://assets.ldscdn.org/b4/22/b42265799ef38abafc034e8d1e1fb10fe7ef2ee7/minchan_kim_dog.png 500w,https://assets.ldscdn.org/e4/2d/e42d720bd4d8f8352b53e9908b02a367f0540184/minchan_kim_dog.png 640w\" data-assetid=\"72edd569b1a3dbafe69785d23ea86d2eea4b45f2\" data-missing-asset=\"false\" alt=\"Minchan Kim with Dog\">\n<p data-aid=\"146038977\" id=\"p26\">\u201cOne day at school, a few of my classmates were making fun of another student by calling him names. It looked like fun, so for a few weeks I joined in with them.<\/p>\n<p data-aid=\"146038980\" id=\"p27\">\u201cSeveral weeks later, the boy told me even though he pretended he didn\u2019t care, he was hurt by our words, and he cried every night. I almost cried when he told me. I felt very sorry and wanted to help him. The next day I went up to him and put my arm around his shoulder and apologized, saying, \u2018I\u2019m really sorry that I made fun of you.\u2019 He nodded at my words, and his eyes filled up with tears.<\/p>\n<p data-aid=\"146038983\" id=\"p28\">\u201cBut the other kids were still making fun of him. Then I remembered what I learned in Primary class: choose the right. So I asked my classmates to stop. Most of them decided not to change, and they were mad at me. But one of the other boys said he was sorry, and the three of us became good friends.<\/p>\n<p data-aid=\"146038986\" id=\"p29\">\u201cEven though a few people still made fun of him, he felt better because he had us.<\/p>\n<p data-aid=\"146038989\" id=\"p30\">\u201cI chose the right by helping a friend in need.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/1d/a5/1da50bf973a0d9f466d14352b164cb8c338dc078/photo_boy_minchan_kim.png\" data-img-id=\"bb72488aa9712c871171ba339aa0d4405c5cd6d4\" srcset=\"https://assets.ldscdn.org/bf/e9/bfe94e2877a25ad1661da024f13cbc9997be1c70/photo_boy_minchan_kim.png 60w,https://assets.ldscdn.org/9a/79/9a79103ffbfdbf4995c9acad92bd0617c745f6aa/photo_boy_minchan_kim.png 100w,https://assets.ldscdn.org/92/9e/929e8a3718190cd5a4390bab7c1b3fadc6a63029/photo_boy_minchan_kim.png 200w,https://assets.ldscdn.org/51/9c/519ca3c884ec5b9f99008fde8b9c5e2b973a6722/photo_boy_minchan_kim.png 250w,https://assets.ldscdn.org/08/a2/08a29114bff216a5c2aa9d4682e38a1e970694d0/photo_boy_minchan_kim.png 320w,https://assets.ldscdn.org/1d/a5/1da50bf973a0d9f466d14352b164cb8c338dc078/photo_boy_minchan_kim.png 500w,https://assets.ldscdn.org/a2/78/a27857a0a91d678f728b31cb7f969137b79b5854/photo_boy_minchan_kim.png 640w\" data-assetid=\"bb72488aa9712c871171ba339aa0d4405c5cd6d4\" data-missing-asset=\"false\" alt=\"Minchan Kim\">\n<p data-aid=\"146038992\" id=\"p31\">Isn\u2019t this a good example for you to try to become like Jesus?<\/p>\n<p data-aid=\"146038996\" id=\"p32\">Now, for young men and young women, as you grow older, making fun of others can evolve very dangerously. Anxiety, depression, and worse are often the companions of bullying. \u201cWhile bullying is not a new concept, social media and technology have brought bullying to a new level. It becomes a more constant, ever-present threat\u2014cyberbullying.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"146039000\" id=\"p33\">Clearly, the adversary is using this to hurt your generation. There is no place for this in your cyberspace, neighborhoods, schools, quorums, or classes. Please do all you can to make these places kinder and safer. If you passively observe or participate in any of this, I know of no better advice than that previously given by Elder Dieter&nbsp;F. Uchtdorf:<\/p>\n<p data-aid=\"146039002\" id=\"p49\">\u201cWhen it comes to hating, gossiping, ignoring, ridiculing, holding grudges, or wanting to cause harm, please apply the following:<\/p>\n<p data-aid=\"146039006\" id=\"p50\">\u201cStop it!\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"146039010\" id=\"p51\">Did you hear that? Stop it! As you extend yourself with kindness, care, and compassion, even digitally, I promise that you will lift up arms that hang down and will heal hearts.<\/p>\n<p data-aid=\"146039014\" id=\"p34\">Having spoken to Primary children and youth, I now direct my remarks to adults of the Church. We have a primary responsibility to set a tone and be role models of kindness, inclusion, and civility\u2014to teach Christlike behavior to the rising generation in what we say and how we act. It is especially important as we observe a marked societal shift toward division in politics, social class, and nearly every other man-made distinction.<\/p>\n<p data-aid=\"146039018\" id=\"p35\">President M.&nbsp;Russell Ballard has also taught that Latter-day Saints must be kind not only to each other but also to everyone around us. He observed: \u201cOccasionally I hear of members offending those of other faiths by overlooking them and leaving them out. This can occur especially in communities where our members are the majority. I have heard about narrow-minded parents who tell children that they cannot play with a particular child in the neighborhood simply because his or her family does not belong to our Church. This kind of behavior is not in keeping with the teachings of the Lord Jesus Christ. I cannot comprehend why any member of our Church would allow these kinds of things to happen. \u2026 I have never heard the members of this Church urged to be anything but loving, kind, tolerant, and benevolent to our friends and neighbors of other faiths.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"146039022\" id=\"p36\">The Lord expects us to teach that inclusion is a positive means toward unity and that exclusion leads to division.<\/p>\n<p data-aid=\"146039023\" id=\"p37\">As followers of Jesus Christ, we are dismayed when we hear of how children of God are mistreated based on their race. We have been heartbroken to hear of recent attacks on people who are Black, Asian, Latino, or of any other group. Prejudice, racial tension, or violence should never have any place in our neighborhoods, communities, or within the Church.<\/p>\n<p data-aid=\"146039027\" id=\"p38\">Let each of us, no matter our age, strive to be our best.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146039031\" id=\"title4\">Love Your Enemy<\/h2>\n<\/header>\n<p data-aid=\"146039035\" id=\"p39\">As you strive to extend yourself in love, respect, and kindness, you will undoubtedly be hurt or negatively affected by the bad choices of others. What do we do then? We follow the Lord\u2019s admonition to \u201clove your enemies \u2026 and pray for them which despitefully use you.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"146039040\" id=\"p40\">We do all we can to overcome the adversity that is placed in our path. We strive to endure to the end, all the time praying that the hand of the Lord will change our circumstances. We offer thanksgiving for those He places in our path to assist us.<\/p>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/b0/c4/b0c47e9479e32d54bec2c2afb983246c343b9788/miracle_quincy_illinois.png\" data-img-id=\"70065b28ed3dda7bd2975b121974509930c24d5d\" srcset=\"https://assets.ldscdn.org/43/ba/43ba53130d8cca8271b305a5973a973e8e3ad57b/miracle_quincy_illinois.png 60w,https://assets.ldscdn.org/12/0a/120a3ba8d08aabc004a999ee41739f34ed603338/miracle_quincy_illinois.png 100w,https://assets.ldscdn.org/3b/cc/3bcc5f26150108fb0bcde3838bb5ac539f08f169/miracle_quincy_illinois.png 200w,https://assets.ldscdn.org/3d/dc/3ddc401663261f23e9fd86a4128801132ca2d207/miracle_quincy_illinois.png 250w,https://assets.ldscdn.org/0c/7b/0c7b382bf1812f59a324f95dca8fbde68acee194/miracle_quincy_illinois.png 320w,https://assets.ldscdn.org/b0/c4/b0c47e9479e32d54bec2c2afb983246c343b9788/miracle_quincy_illinois.png 500w,https://assets.ldscdn.org/00/da/00da43e5a1a5d4c5e84aea5a3c58c5d925cdfe20/miracle_quincy_illinois.png 640w\" data-assetid=\"70065b28ed3dda7bd2975b121974509930c24d5d\" data-missing-asset=\"false\" alt=\"Miracle at Quincy\">\n<p data-aid=\"146039044\" id=\"p41\">I am moved by an example of this from our early Church history. During the winter of 1838, Joseph Smith and other Church leaders were detained in Liberty Jail when the Latter-day Saints were forcibly driven from their homes in the state of Missouri. The Saints were destitute, friendless, and suffering greatly from the cold and lack of resources. The residents of Quincy, Illinois, saw their desperate plight and reached out in compassion and friendship.<\/p>\n<p data-aid=\"146039049\" id=\"p42\">Wandle Mace, a resident of Quincy, later recalled when he first saw the Saints along the Mississippi River in makeshift tents: \u201cSome had sheets stretched, to make a little shelter from the wind, \u2026 the children were shivering around a fire which the wind blew about so it done them very little good. The poor Saints were suffering terribly.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"146039054\" id=\"p52\">Seeing the plight of the Saints, Quincy residents rallied together to provide aid, some even assisting in transporting their new friends across the river. Mace continued: \u201c[They] donated liberally; the merchants vying with each other as to which could be the most liberal \u2026 with \u2026 pork, \u2026 sugar, \u2026 shoes and clothing, everything these poor outcasts so much needed.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> Before long, the refugees outnumbered the Quincy residents, who opened their homes and shared their meager resources at great personal sacrifice.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"146039059\" id=\"p43\">Many Saints survived the harsh winter only because of the compassion and generosity of the residents of Quincy. These earthly angels opened their hearts and homes, bringing lifesaving nourishment, warmth, and\u2014perhaps most importantly\u2014a hand of friendship to the suffering Saints. Although their stay in Quincy was relatively short, the Saints never forgot their debt of gratitude toward their beloved neighbors, and Quincy became known as the \u201ccity of refuge.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"146039064\" id=\"p44\">When adversity and affliction are brought upon us by critical, negative, even mean-spirited acts, we can choose to hope in Christ. This hope comes from His invitation and promise to \u201cbe of good cheer, for I will lead you along\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> and that He will consecrate your afflictions for your gain.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146039069\" id=\"title5\">The Good Shepherd<\/h2>\n<\/header>\n<p data-aid=\"146039074\" id=\"p45\">Let us conclude where we began: a compassionate caregiver, extending herself in kindness with a nurturing spirit, and an unexpected outcome\u2014healing the hearts of animals over whom she had stewardship. Why? Because it was just how she was!<\/p>\n<p data-aid=\"146039077\" id=\"p46\">As we look through a gospel lens, we recognize that we too are under the watchcare of a compassionate caregiver, who extends Himself in kindness and a nurturing spirit. The Good Shepherd knows each one of us by name and has a personal interest in us.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> The Lord Jesus Christ Himself said: \u201cI am the good shepherd, and know my sheep. \u2026 And I [will] lay down my life for the sheep.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<img id=\"img4\" src=\"https://assets.ldscdn.org/54/b8/54b86ddf9dcbf00d34d1933e003084aed791e256/sheep_jesus_parson_parable_christ.png\" data-img-id=\"66a202da458fb874212a40428c313a217b818ad9\" srcset=\"https://assets.ldscdn.org/4a/ab/4aab44da8cb2210292a678833e1d8df090430088/sheep_jesus_parson_parable_christ.png 60w,https://assets.ldscdn.org/5f/0f/5f0fd36385ad08182f20375fba2bb428c2f2adc9/sheep_jesus_parson_parable_christ.png 100w,https://assets.ldscdn.org/e1/06/e106175b3ca4af307fde6e55d3197418a53e4ed0/sheep_jesus_parson_parable_christ.png 200w,https://assets.ldscdn.org/7e/9d/7e9d947cc91e3482e26f9e612ccb50ddf8b9b3b8/sheep_jesus_parson_parable_christ.png 250w,https://assets.ldscdn.org/96/6f/966fd2c38b18779da42ab5b07b6c7fff9c864e29/sheep_jesus_parson_parable_christ.png 320w,https://assets.ldscdn.org/54/b8/54b86ddf9dcbf00d34d1933e003084aed791e256/sheep_jesus_parson_parable_christ.png 500w,https://assets.ldscdn.org/e1/66/e16676578c309e7c2ac7d17766c2dc959fdab2fc/sheep_jesus_parson_parable_christ.png 640w\" data-assetid=\"66a202da458fb874212a40428c313a217b818ad9\" data-missing-asset=\"false\" alt=\"The lost lamb\">\n<p data-aid=\"146039081\" id=\"p47\">On this holy Easter weekend, I find abiding peace in knowing that \u201cthe Lord is my shepherd\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> and that each of us is known by Him and under His kind watchcare. When we confront life\u2019s wind and rainstorms, sickness and injuries, the Lord\u2014our Shepherd, our Caregiver\u2014will nourish us with love and kindness. He will heal our hearts and restore our souls.<\/p>\n<p data-aid=\"146039085\" id=\"p48\">Of this I testify\u2014and of Jesus Christ as our Savior and our Redeemer\u2014in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "146038953",
+        "id": "note4",
+        "text": "<p data-aid=\"146039113\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.36-39?lang=eng#p36\">Matthew 22:36\u201339<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.36-39?lang=eng#p36",
+          "text": "Matthew 22:36\u201339",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "146038953",
+        "id": "note5",
+        "text": "<p data-aid=\"146039120\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=eng#p21\">Mosiah 18:21<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.21?lang=eng#p21",
+          "text": "Mosiah 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "146038945",
+        "id": "note2",
+        "text": "<p data-aid=\"146039101\" id=\"note2_p1\">See Robert&nbsp;M. Nerem, Murina&nbsp;J. Levesque, and J.&nbsp;Frederick Cornhill, \u201cSocial Environment as a Factor in Diet-Induced Atherosclerosis,\u201d <cite>Science<\/cite>, vol.&nbsp;208, no.&nbsp;4451 (June 27, 1980), 1475\u201376.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "146038949",
+        "id": "note3",
+        "text": "<p data-aid=\"146039107\" id=\"note3_p1\">Harding, <cite>The Rabbit Effect<\/cite>, xxiv, xxv.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "146038989",
+        "id": "note8",
+        "text": "<p data-aid=\"146039143\" id=\"note8_p1\">Adapted from Minchan&nbsp;K., \u201c<a class=\"cross-ref\" href=\"/study/friend/2020/01/the-apology?lang=eng\">The Apology<\/a>,\u201d <cite>Friend<\/cite>, Jan. 2020, 35.<\/p>",
+        "referenceUris": [{
+          "href": "/study/friend/2020/01/the-apology?lang=eng",
+          "text": "The Apology",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "146038996",
+        "id": "note9",
+        "text": "<p data-aid=\"146039149\" id=\"note9_p1\">Frances Dalomba, \u201cSocial Media: The Good, the Bad, and the Ugly,\u201d Lifespan, lifespan.org.<\/p>"
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "146038953",
+        "id": "note6",
+        "text": "<p data-aid=\"146039129\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.41-42?lang=eng#p41\">Doctrine and Covenants 121:41\u201342<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.41-42?lang=eng#p41",
+          "text": "Doctrine and Covenants 121:41\u201342",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "146038971",
+        "id": "note7",
+        "text": "<p data-aid=\"146039136\" id=\"note7_p1\">\u201cI\u2019m Trying to Be like Jesus,\u201d <cite>Children\u2019s Songbook<\/cite>, 79.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "146039059",
+        "id": "note16",
+        "text": "<p data-aid=\"146039191\" id=\"note16_p1\">See Susan Easton Black, \u201cQuincy\u2013A City of Refuge,\u201d <cite>Mormon Historical Studies<\/cite>, vol.&nbsp;2, no.&nbsp;1 (Spring 2001), 83\u201394.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "146039054",
+        "id": "note15",
+        "text": "<p data-aid=\"146039185\" id=\"note15_p1\">See Richard&nbsp;E. Bennett, \u201c\u2018Quincy\u2014the Home of Our Adoption\u2019: A Study of the Mormons in Quincy, Illinois, 1838\u201340,\u201d <cite>Mormon Historical Studies<\/cite>, vol.&nbsp;2, no.&nbsp;1 (Spring 2001), 110\u201311.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "146039054",
+        "id": "note14",
+        "text": "<p data-aid=\"146039179\" id=\"note14_p1\">Wandle Mace autobiography, 33; spelling and capitalization standardized.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "146039049",
+        "id": "note13",
+        "text": "<p data-aid=\"146039173\" id=\"note13_p1\">Wandle Mace autobiography, circa 1890, typescript, 32\u201333, Church History Library, Salt Lake City.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "146039035",
+        "id": "note12",
+        "text": "<p data-aid=\"146039167\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.27-28?lang=eng#p27\">Luke 6:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6.27-28?lang=eng#p27",
+          "text": "Luke 6:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "146039018",
+        "id": "note11",
+        "text": "<p data-aid=\"146039161\" id=\"note11_p1\">M.&nbsp;Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/10/doctrine-of-inclusion?lang=eng\">Doctrine of Inclusion<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 2001, 36\u201337; <cite>Liahona<\/cite>, Jan. 2002, 41.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2001/10/doctrine-of-inclusion?lang=eng",
+          "text": "Doctrine of Inclusion",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "146039006",
+        "id": "note10",
+        "text": "<p data-aid=\"146039156\" id=\"note10_p1\">Dieter&nbsp;F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng\">The Merciful Obtain Mercy<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 75.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng",
+          "text": "The Merciful Obtain Mercy",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "146039081",
+        "id": "note21",
+        "text": "<p data-aid=\"146039226\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/23.1?lang=eng#p1\">Psalm 23:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ps/23.1?lang=eng#p1",
+          "text": "Psalm 23:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "146039077",
+        "id": "note20",
+        "text": "<p data-aid=\"146039219\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.14,15?lang=eng#p14\">John 10:14, 15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/10.14,15?lang=eng#p14",
+          "text": "John 10:14, 15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "146038938",
+        "id": "note1",
+        "text": "<p data-aid=\"146039095\" id=\"note1_p1\">See Kelli Harding, <cite>The Rabbit Effect<\/cite> (2019), xxiii\u2013xxiv.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "146039077",
+        "id": "note19",
+        "text": "<p data-aid=\"146039212\" id=\"note19_p1\">See James&nbsp;E. Talmage, <cite>Jesus the Christ<\/cite> (1916), 417.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "146039064",
+        "id": "note18",
+        "text": "<p data-aid=\"146039205\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=eng#p2\">2&nbsp;Nephi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=eng#p2",
+          "text": "2 Nephi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "146039064",
+        "id": "note17",
+        "text": "<p data-aid=\"146039198\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18?lang=eng#p18\">Doctrine and Covenants 78:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/78.18?lang=eng#p18",
+          "text": "Doctrine and Covenants 78:18",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

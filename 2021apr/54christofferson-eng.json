@@ -1,0 +1,808 @@
+{
+  "tableOfContentsUri": "/liahona/2021/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/liahona/2021/05/54christofferson",
+      "data-aid": "146040304",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "37d20c5b3c034f8cb9b6f5f4c3503fa1",
+      "data-aid-version": "2",
+      "data-orig-id": "37d20c5b3c034f8cb9b6f5f4c3503fa1"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246631565001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-5040-d-todd-christofferson-32k-eng.mp3"
+    }],
+    "title": "Why the Covenant Path",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "146040304",
+      {"key": "146040304"}
+    ],
+    [
+      "146040307",
+      {"key": "146040307"}
+    ],
+    [
+      "146040309",
+      {"key": "146040309"}
+    ],
+    [
+      "146040311",
+      {"key": "146040311"}
+    ],
+    [
+      "146040313",
+      {"key": "146040313"}
+    ],
+    [
+      "146040314",
+      {"key": "146040314"}
+    ],
+    [
+      "146040316",
+      {"key": "146040316"}
+    ],
+    [
+      "146040319",
+      {"key": "146040319"}
+    ],
+    [
+      "146040324",
+      {"key": "146040324"}
+    ],
+    [
+      "146040327",
+      {"key": "146040327"}
+    ],
+    [
+      "146040330",
+      {"key": "146040330"}
+    ],
+    [
+      "146040331",
+      {"key": "146040331"}
+    ],
+    [
+      "146040335",
+      {"key": "146040335"}
+    ],
+    [
+      "146040337",
+      {"key": "146040337"}
+    ],
+    [
+      "146040342",
+      {"key": "146040342"}
+    ],
+    [
+      "146040345",
+      {"key": "146040345"}
+    ],
+    [
+      "146040348",
+      {"key": "146040348"}
+    ],
+    [
+      "146040351",
+      {"key": "146040351"}
+    ],
+    [
+      "146040354",
+      {"key": "146040354"}
+    ],
+    [
+      "146040357",
+      {"key": "146040357"}
+    ],
+    [
+      "146040359",
+      {"key": "146040359"}
+    ],
+    [
+      "146040360",
+      {"key": "146040360"}
+    ],
+    [
+      "146040362",
+      {"key": "146040362"}
+    ],
+    [
+      "146040364",
+      {"key": "146040364"}
+    ],
+    [
+      "146040366",
+      {"key": "146040366"}
+    ],
+    [
+      "146040368",
+      {"key": "146040368"}
+    ],
+    [
+      "146040370",
+      {"key": "146040370"}
+    ],
+    [
+      "146040372",
+      {"key": "146040372"}
+    ],
+    [
+      "146040374",
+      {"key": "146040374"}
+    ],
+    [
+      "146040376",
+      {"key": "146040376"}
+    ],
+    [
+      "146040378",
+      {"key": "146040378"}
+    ],
+    [
+      "146040380",
+      {"key": "146040380"}
+    ],
+    [
+      "146040382",
+      {"key": "146040382"}
+    ],
+    [
+      "146040385",
+      {"key": "146040385"}
+    ],
+    [
+      "146040386",
+      {"key": "146040386"}
+    ],
+    [
+      "146040389",
+      {"key": "146040389"}
+    ],
+    [
+      "146040390",
+      {"key": "146040390"}
+    ],
+    [
+      "146040392",
+      {"key": "146040392"}
+    ],
+    [
+      "146040395",
+      {"key": "146040395"}
+    ],
+    [
+      "146040396",
+      {"key": "146040396"}
+    ],
+    [
+      "146040399",
+      {"key": "146040399"}
+    ],
+    [
+      "146040401",
+      {"key": "146040401"}
+    ],
+    [
+      "146040404",
+      {"key": "146040404"}
+    ],
+    [
+      "146040406",
+      {"key": "146040406"}
+    ],
+    [
+      "146040407",
+      {"key": "146040407"}
+    ],
+    [
+      "146040410",
+      {"key": "146040410"}
+    ],
+    [
+      "146040412",
+      {"key": "146040412"}
+    ],
+    [
+      "146040414",
+      {"key": "146040414"}
+    ],
+    [
+      "146040416",
+      {"key": "146040416"}
+    ],
+    [
+      "146040418",
+      {"key": "146040418"}
+    ],
+    [
+      "146040421",
+      {"key": "146040421"}
+    ],
+    [
+      "146040423",
+      {"key": "146040423"}
+    ],
+    [
+      "146040425",
+      {"key": "146040425"}
+    ],
+    [
+      "146040427",
+      {"key": "146040427"}
+    ],
+    [
+      "146040429",
+      {"key": "146040429"}
+    ],
+    [
+      "146040431",
+      {"key": "146040431"}
+    ],
+    [
+      "146040433",
+      {"key": "146040433"}
+    ],
+    [
+      "146040435",
+      {"key": "146040435"}
+    ],
+    [
+      "146040437",
+      {"key": "146040437"}
+    ],
+    [
+      "146040440",
+      {"key": "146040440"}
+    ],
+    [
+      "146040442",
+      {"key": "146040442"}
+    ],
+    [
+      "146040443",
+      {"key": "146040443"}
+    ],
+    [
+      "146040445",
+      {"key": "146040445"}
+    ],
+    [
+      "146040448",
+      {"key": "146040448"}
+    ],
+    [
+      "146040450",
+      {"key": "146040450"}
+    ],
+    [
+      "146040452",
+      {"key": "146040452"}
+    ],
+    [
+      "146040454",
+      {"key": "146040454"}
+    ],
+    [
+      "146040457",
+      {"key": "146040457"}
+    ],
+    [
+      "146040458",
+      {"key": "146040458"}
+    ],
+    [
+      "146040459",
+      {"key": "146040459"}
+    ],
+    [
+      "146040460",
+      {"key": "146040460"}
+    ],
+    [
+      "146040461",
+      {"key": "146040461"}
+    ]
+  ],
+  "uri": "/liahona/2021/05/54christofferson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Christofferson describes five elements of what it means to be on the covenant path and encourages us to heed the prophet\u2019s call to stay on the path.",
+          "title": "Why the Covenant Path"
+        },
+        "pageSocial": {
+          "description": "Elder Christofferson describes five elements of what it means to be on the covenant path and encourages us to heed the prophet\u2019s call to stay on the path.",
+          "title": "Why the Covenant Path"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2021/04/54christofferson?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6246631565001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246631565001\" data-video-title=\"Why the Covenant Path\" data-video-description=\"Elder Christofferson describes five elements of what it means to be on the covenant path and encourages us to heed the prophet\u2019s call to stay on the path.\" data-video-id=\"6246631565001\" data-ip=\"Download and Streaming\" data-duration=\"903000\" data-assetid=\"9B29CBA94EE3B8CE0C6960D7802F0A1A144F8E5A\" data-ref-id=\"9B29CBA94EE3B8CE0C6960D7802F0A1A144F8E5A\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6246631565001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-5040-d-todd-christofferson-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"101943460\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-5040-d-todd-christofferson-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"133196254\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-5040-d-todd-christofferson-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"294951237\"><\/video><h1 data-aid=\"146040307\" id=\"title1\">Why the Covenant Path<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"146040309\" id=\"author1\">By Elder D.&nbsp;Todd Christofferson<\/p>\n<p class=\"author-role\" data-aid=\"146040311\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"146040313\" id=\"kicker1\">The difference of the covenant path is uniquely and eternally significant.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"146040314\" id=\"p1\">Throughout his ministry, President Russell&nbsp;M. Nelson has studied and taught of God\u2019s covenants with His children. He is himself a shining example of one who walks the covenant path. In his first message as President of the Church, President Nelson stated:<\/p>\n<p data-aid=\"146040316\" id=\"p2\">\u201cYour commitment to follow the Savior by making covenants with Him and then keeping these covenants will open the door to every spiritual blessing and privilege available to men, women, and children everywhere.<\/p>\n<p data-aid=\"146040319\" id=\"p3\">\u201c\u2026&nbsp;The ordinances of the temple and the covenants you make there are key to strengthening your life, your marriage and family, and your ability to resist the attacks of the adversary. Your worship in the temple and your service there for your ancestors will bless you with increased personal revelation and peace and will fortify your commitment to stay on the covenant path.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"146040324\" id=\"p4\">What is the covenant path? It is the one path that leads to the celestial kingdom of God. We embark upon the path at the gate of baptism and then \u201cpress forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men [the two great commandments] \u2026 to the end.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> In the course of the covenant path (which, by the way, extends beyond mortality), we receive all the ordinances and covenants pertaining to salvation and exaltation.<\/p>\n<p data-aid=\"146040327\" id=\"p5\">Our overarching covenant commitment is to do God\u2019s will \u201cand to be obedient to his commandments in all things that he shall command us.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Following the principles and commandments of the gospel of Jesus Christ day by day is the happiest and most satisfying course in life. For one thing, a person avoids a great many problems and regrets. Let me use a sports analogy. In tennis, there is something called unforced errors. These are things such as hitting a playable ball into the net or double-faulting when serving. Unforced errors are considered the result of a player\u2019s blunder rather than being caused by the opponent\u2019s skill.<\/p>\n<p data-aid=\"146040330\" id=\"p6\">Too often our problems or challenges are self-inflicted, the result of poor choices, or, we could say, the result of \u201cunforced errors.\u201d When we are diligently pursuing the covenant path, we quite naturally avoid many \u201cunforced errors.\u201d We sidestep the various forms of addiction. We do not fall into the ditch of dishonest conduct. We cross over the abyss of immorality and infidelity. We bypass the people and things that, even if popular, would jeopardize our physical and spiritual well-being. We avoid the choices that harm or disadvantage others and instead acquire the habits of self-discipline and service.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"146040331\" id=\"p7\">Elder J.&nbsp;Golden Kimball is purported to have said, \u201cI may not have [always] walked the straight and narrow, but I [try] to cross it as often as I [can].\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> In a more serious moment, I am sure Brother Kimball would agree that staying on, not just crossing, the covenant path is our greatest hope for avoiding <em>avoidable<\/em> misery on the one hand and successfully dealing with the <em>unavoidable<\/em> woes of life on the other.<\/p>\n<p data-aid=\"146040335\" id=\"p8\">Some might say, \u201cI can make good choices with or without baptism; I don\u2019t need covenants to be an honorable and successful person.\u201d Indeed, there are many who, while not on the covenant path themselves, act in a way that mirrors the choices and contributions of those who are on the path. You might say they reap the blessings of walking a \u201ccovenant-consistent\u201d path. What, then, is the difference of the covenant path?<\/p>\n<p data-aid=\"146040337\" id=\"p9\">Actually, the difference is uniquely and eternally significant. It includes the nature of our obedience, the character of God\u2019s commitment to us, the divine help we receive, the blessings tied to gathering as a covenant people, and most importantly, our eternal inheritance.<\/p>\n<section>\n<header>\n<h2 data-aid=\"146040342\" id=\"title2\">Committed Obedience<\/h2>\n<\/header>\n<p data-aid=\"146040345\" id=\"p10\">First is the nature of our obedience to God. More than simply having good intentions, we solemnly commit to live by every word that proceeds forth from the mouth of God. In this, we follow the example of Jesus Christ, who, by being baptized, \u201cshoweth unto the children of men that, according to the flesh he humbleth himself before the Father, and witnesseth unto the Father that he would be obedient unto him in keeping his commandments.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"146040348\" id=\"p11\">With covenants, we are intent on more than just avoiding mistakes or being prudent in our decisions. We feel accountable to God for our choices and our lives. We take upon us the name of Christ. We are focused on Christ\u2014on being valiant in the testimony of Jesus and on developing the character of Christ.<\/p>\n<p data-aid=\"146040351\" id=\"p12\">With covenants, obedience to gospel principles becomes rooted in our very soul. I am familiar with a couple where, at the time of their marriage, the wife was not active in the Church and the husband had never been a member of the Church. I will refer to them as Mary and John, not their real names. As children began to enter the picture, Mary felt keenly the need to raise them, as the scripture says, \u201cin the nurture and admonition of the Lord.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> John was supportive. Mary made some important sacrifices to be at home to teach the gospel on a consistent basis. She ensured that the family took full advantage of Church worship and activity. Mary and John became exemplary parents, and their children (all energetic boys) grew in faith and devotion to gospel principles and standards.<\/p>\n<p data-aid=\"146040354\" id=\"p13\">John\u2019s parents, the boys\u2019 grandparents, were pleased with the wholesome lives and achievements of their grandsons, but because of some antagonism toward the Church, they wanted to attribute this success exclusively to the parenting skills of John and Mary. John, although not a member of the Church, did not let that assessment go unchallenged. He insisted that they were witnessing the fruits of gospel teachings\u2014what his sons were experiencing in church as well as what was happening at home.<\/p>\n<p data-aid=\"146040357\" id=\"p14\">John himself was being influenced by the Spirit, by the love and example of his wife, and by the urgings of his sons. In due course, he was baptized, much to the joy of ward members and friends.<\/p>\n<p data-aid=\"146040359\" id=\"p15\">While life has not been without challenges for them and their sons, Mary and John wholeheartedly affirm that it is in fact the gospel covenant that is at the root of their blessings. They have seen the Lord\u2019s words to Jeremiah fulfilled in the lives of their children as well as their own: \u201cI will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146040360\" id=\"title3\">Bound to God<\/h2>\n<\/header>\n<p data-aid=\"146040362\" id=\"p16\">A second unique aspect of the covenant path is our relationship with Deity. The covenants God offers to His children do more than guide us. They bind us to Him, and, bound to Him, we can overcome all things.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"146040364\" id=\"p17\">I once read an article by a poorly informed newspaper reporter who explained that the way we perform baptisms for the dead is to immerse rolls of microfilm in water. Then all those whose names appear on the microfilm are considered baptized. That approach would be efficient, but it ignores the infinite worth of each soul and the critical importance of a personal covenant with God.<\/p>\n<p data-aid=\"146040366\" id=\"p18\">\u201c[Jesus] said&nbsp;\u2026&nbsp;: Enter ye in at the strait gate; for strait is the gate, and narrow is the way that leads to life, and few there be that find it.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Figuratively speaking, this gate is so narrow that it allows only one to enter at a time. Each one makes an individual commitment to God and in return receives from Him a personal covenant, by name, that he or she can rely on implicitly in time and eternity. With the ordinances and covenants, \u201cthe power of godliness is manifest\u201d in our lives.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146040368\" id=\"title4\">Divine Help<\/h2>\n<\/header>\n<p data-aid=\"146040370\" id=\"p19\">This leads us to consideration of a third special blessing of the covenant path. God provides an almost incomprehensible gift to help covenant-makers be covenant-keepers: the gift of the Holy Ghost. This gift is the right to the constant companionship, protection, and guidance of the Holy Spirit.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> Also known as the Comforter, the Holy Spirit \u201cfilleth with hope and perfect love.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> He \u201cknoweth all things, and beareth record of the Father and of the Son,\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> whose witnesses we commit to be.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"146040372\" id=\"p20\">On the covenant path we also find the essential blessings of forgiveness and cleansing from sin. This is help that can come only through divine grace, administered by the Holy Ghost. \u201cNow this is the commandment,\u201d says the Lord, \u201cRepent, all ye ends of the earth, and come unto me and be baptized in my name, that ye may be sanctified by the reception of the Holy Ghost, that ye may stand spotless before me at the last day.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146040374\" id=\"title5\">Gather with the Covenant People<\/h2>\n<\/header>\n<p data-aid=\"146040376\" id=\"p21\">Fourth, those pursuing the covenant path also find singular blessings in various divinely appointed gatherings. Prophecies of a literal gathering of the long-dispersed tribes of Israel to the lands of their inheritance are found throughout the scriptures.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> The fulfillment of those prophecies and promises is now underway with the gathering of the covenant people into the Church, the kingdom of God on earth. President Nelson explains, \u201cWhen we speak of the <em>gathering<\/em>, we are simply saying this fundamental truth: every one of our Heavenly Father\u2019s children \u2026 deserves to hear the message of the restored gospel of Jesus Christ.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"146040378\" id=\"p22\">The Lord commands members of The Church of Jesus Christ of Latter-day Saints to \u201carise and shine forth, that thy light may be a standard for the nations; \u2026 that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm, and from wrath when it shall be poured out without mixture upon the whole earth.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"146040380\" id=\"p23\">There is also a weekly gathering of the covenant people to the house of prayer on the Lord\u2019s day, that we may \u201cmore fully keep [ourselves] unspotted from the world.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> It is a gathering to partake of sacramental bread and water in remembrance of the Atonement of Jesus Christ and a time \u201cto fast and to pray, and to speak one with another concerning the welfare of [our] souls.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> As a teenager, I was the only member of the Church in my high school class. I enjoyed the association of many good friends in school, yet I found that I relied heavily on this Sabbath gathering each week to refresh and renew me spiritually, and even physically. How keenly we have felt the loss of this regular covenant gathering during the current pandemic, and how eagerly we anticipate the time when we can come together again as before.<\/p>\n<p data-aid=\"146040382\" id=\"p24\">The covenant people also gather to the temple, the house of the Lord, to obtain the ordinances, blessings, and revelation uniquely available there. The Prophet Joseph Smith taught: \u201cWhat was the object of gathering the \u2026 people of God in any age of the world? \u2026 The main object was to build unto the Lord a house whereby He could reveal unto His people the ordinances of His house and the glories of His kingdom, and teach the people the way of salvation; for there are certain ordinances and principles that, when they are taught and practiced, must be done in a place or house built for that purpose.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146040385\" id=\"title6\">Inherit the Covenant Promises<\/h2>\n<\/header>\n<p data-aid=\"146040386\" id=\"p26\">Finally, it is only in pursuing the covenant path that we inherit the blessings of Abraham, Isaac, and Jacob, the ultimate blessings of salvation and exaltation that only God can give.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"146040389\" id=\"p27\">Scriptural references to the covenant people often mean literal descendants of Abraham or the \u201chouse of Israel.\u201d But the covenant people also include all who receive the gospel of Jesus Christ.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> Paul explained:<\/p>\n<p data-aid=\"146040390\" id=\"p31\">\u201cFor as many of you as have been baptized into Christ have put on Christ.&nbsp;\u2026<\/p>\n<p data-aid=\"146040392\" id=\"p32\">\u201cAnd if ye be Christ\u2019s, then are ye Abraham\u2019s seed, and heirs according to the promise.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"146040395\" id=\"p28\">Those who are loyal to their covenants \u201cshall come forth in the resurrection of the just.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> They are \u201cmade perfect through Jesus the mediator of the new covenant. \u2026 These are they whose bodies are celestial, whose glory is that of the sun, even the glory of God, the highest of all.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> \u201cWherefore, all things are theirs, whether life or death, or things present, or things to come, all are theirs and they are Christ\u2019s, and Christ is God\u2019s.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"146040396\" id=\"p29\">Let us heed the prophet\u2019s call to stay on the covenant path. Nephi saw us and our time and recorded, \u201cI, Nephi, beheld the power of the Lamb of God, that it descended upon the saints of the church of the Lamb, and upon the covenant people of the Lord, who were scattered upon all the face of the earth; and they were armed with righteousness and with the power of God in great glory.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"146040399\" id=\"p30\">With Nephi, \u201cmy soul delighteth in the covenants of the Lord.\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> On this Easter Sunday, I bear testimony of Jesus Christ, whose Resurrection is our hope and the assurance of all that is promised on and at the end of the covenant path. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "146040330",
+        "id": "note4",
+        "text": "<p data-aid=\"146040410\" id=\"note4_p1\">For a scriptural example, see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/1.29-32?lang=eng#p29\">Alma 1:29\u201332<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/1.29-32?lang=eng#p29",
+          "text": "Alma 1:29\u201332",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "146040331",
+        "id": "note5",
+        "text": "<p data-aid=\"146040412\" id=\"note5_p1\">In Eric&nbsp;A. Eliason, <cite>The J.&nbsp;Golden Kimball Stories<\/cite> (2007), 78.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "146040324",
+        "id": "note2",
+        "text": "<p data-aid=\"146040406\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2&nbsp;Nephi 31:20<\/a>. The covenant path was established from the beginning with Adam and Eve (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.50-68?lang=eng#p50\">Moses 6:50\u201368<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+            "text": "2 Nephi 31:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.50-68?lang=eng#p50",
+            "text": "Moses 6:50\u201368",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "146040327",
+        "id": "note3",
+        "text": "<p data-aid=\"146040407\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.5?lang=eng#p5\">Mosiah 5:5<\/a>. As Alma the Elder expressed, \u201cIf this be the desire of your hearts, what have you against being baptized in the name of the Lord, as a witness before him that ye have entered into a covenant with him, that ye will serve him and keep his commandments, that he may pour out his Spirit more abundantly upon you?\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.10?lang=eng#p10\">Mosiah 18:10<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.5?lang=eng#p5",
+            "text": "Mosiah 5:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.10?lang=eng#p10",
+            "text": "Mosiah 18:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "146040359",
+        "id": "note8",
+        "text": "<p data-aid=\"146040418\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.33?lang=eng#p33\">Jeremiah 31:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/jer/31.33?lang=eng#p33",
+          "text": "Jeremiah 31:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "146040362",
+        "id": "note9",
+        "text": "<p data-aid=\"146040421\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.33?lang=eng#p33\">John 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.33?lang=eng#p33",
+          "text": "John 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "146040345",
+        "id": "note6",
+        "text": "<p data-aid=\"146040414\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.6-7?lang=eng#p6\">2&nbsp;Nephi 31:6\u20137<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.6-7?lang=eng#p6",
+          "text": "2 Nephi 31:6\u20137",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "146040351",
+        "id": "note7",
+        "text": "<p data-aid=\"146040416\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/6.4?lang=eng#p4\">Ephesians 6:4<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1.1?lang=eng#p1\">Enos 1:1<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/eph/6.4?lang=eng#p4",
+            "text": "Ephesians 6:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/enos/1.1?lang=eng#p1",
+            "text": "Enos 1:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": null,
+        "pid": "146040399",
+        "id": "note30",
+        "text": "<p data-aid=\"146040461\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/11.5?lang=eng#p5\">2&nbsp;Nephi 11:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/11.5?lang=eng#p5",
+          "text": "2 Nephi 11:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "146040372",
+        "id": "note16",
+        "text": "<p data-aid=\"146040435\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.20?lang=eng#p20\">3&nbsp;Nephi 27:20<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.17?lang=eng#p17\">2&nbsp;Nephi 31:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.20?lang=eng#p20",
+            "text": "3 Nephi 27:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.17?lang=eng#p17",
+            "text": "2 Nephi 31:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "146040370",
+        "id": "note15",
+        "text": "<p data-aid=\"146040433\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=eng#p9\">Mosiah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.9?lang=eng#p9",
+          "text": "Mosiah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "146040370",
+        "id": "note14",
+        "text": "<p data-aid=\"146040431\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42.17?lang=eng#p17\">Doctrine and Covenants 42:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/42.17?lang=eng#p17",
+          "text": "Doctrine and Covenants 42:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "146040370",
+        "id": "note13",
+        "text": "<p data-aid=\"146040429\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/8.26?lang=eng#p26\">Moroni 8:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/8.26?lang=eng#p26",
+          "text": "Moroni 8:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "146040370",
+        "id": "note12",
+        "text": "<p data-aid=\"146040427\" id=\"note12_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/holy-ghost?lang=eng\">Holy Ghost<\/a>.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/holy-ghost?lang=eng",
+          "text": "Holy Ghost",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "146040366",
+        "id": "note11",
+        "text": "<p data-aid=\"146040425\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20?lang=eng#p20\">Doctrine and Covenants 84:20.<\/a><\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.20?lang=eng#p20",
+          "text": "Doctrine and Covenants 84:20.",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "146040366",
+        "id": "note10",
+        "text": "<p data-aid=\"146040423\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.33?lang=eng#p33\">3&nbsp;Nephi 27:33<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.14?lang=eng#p14\">Matthew 7:14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.33?lang=eng#p33",
+            "text": "3 Nephi 27:33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/7.14?lang=eng#p14",
+            "text": "Matthew 7:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "146040378",
+        "id": "note19",
+        "text": "<p data-aid=\"146040442\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115.5-6?lang=eng#p5\">Doctrine and Covenants 115:5\u20136<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/115.5-6?lang=eng#p5",
+          "text": "Doctrine and Covenants 115:5\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "146040376",
+        "id": "note18",
+        "text": "<p data-aid=\"146040440\" id=\"note18_p1\">Russell&nbsp;M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng\">Hope of Israel<\/a>\u201d (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org; see also Russell&nbsp;M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/10/covenants?lang=eng\">Covenants<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2011, 86\u201389.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng",
+            "text": "Hope of Israel",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2011/10/covenants?lang=eng",
+            "text": "Covenants",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "146040376",
+        "id": "note17",
+        "text": "<p data-aid=\"146040437\" id=\"note17_p1\">See, for example, <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/5.26-29?lang=eng#p26\">Isaiah 5:26\u201329<\/a> (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/15.26-28?lang=eng#p26\">2&nbsp;Nephi 15:26\u201328<\/a>); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54.7?lang=eng#p7\">Isaiah 54:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/16.14-16?lang=eng#p14\">Jeremiah 16:14\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.14?lang=eng#p14\">2&nbsp;Nephi 29:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/29.1?lang=eng#p1\">3&nbsp;Nephi 29:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.10?lang=eng#p10\">Articles of Faith 1:10<\/a>. The coming forth of the Book of Mormon is a sign that the Lord has begun to fulfill His covenant with the house of Israel, including \u201ctheir restoration to the lands of their inheritance\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/29.1?lang=eng#p1\">3&nbsp;Nephi 29:1<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.1-7?lang=eng#p1\">3&nbsp;Nephi 21:1\u20137<\/a>). The Book of Mormon is also the instrument used to accomplish that gathering (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/16.4-8?lang=eng#p4\">3&nbsp;Nephi 16:4\u20138<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/5.26-29?lang=eng#p26",
+            "text": "Isaiah 5:26\u201329",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/15.26-28?lang=eng#p26",
+            "text": "2 Nephi 15:26\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/54.7?lang=eng#p7",
+            "text": "Isaiah 54:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/jer/16.14-16?lang=eng#p14",
+            "text": "Jeremiah 16:14\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/29.14?lang=eng#p14",
+            "text": "2 Nephi 29:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/29.1?lang=eng#p1",
+            "text": "3 Nephi 29:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/a-of-f/1.10?lang=eng#p10",
+            "text": "Articles of Faith 1:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/29.1?lang=eng#p1",
+            "text": "3 Nephi 29:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/21.1-7?lang=eng#p1",
+            "text": "3 Nephi 21:1\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/16.4-8?lang=eng#p4",
+            "text": "3 Nephi 16:4\u20138",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": null,
+        "pid": "146040395",
+        "id": "note27",
+        "text": "<p data-aid=\"146040458\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.69-70?lang=eng#p69\">Doctrine and Covenants 76:69\u201370<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.69-70?lang=eng#p69",
+          "text": "Doctrine and Covenants 76:69\u201370",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": null,
+        "pid": "146040395",
+        "id": "note26",
+        "text": "<p data-aid=\"146040457\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.65?lang=eng#p65\">Doctrine and Covenants 76:65<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.65?lang=eng#p65",
+          "text": "Doctrine and Covenants 76:65",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": null,
+        "pid": "146040392",
+        "id": "note25",
+        "text": "<p data-aid=\"146040454\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/3.27,29?lang=eng#p27\">Galatians 3:27, 29<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.10?lang=eng#p10\">Abraham 2:10<\/a>. At the same time, even those who may be the literal descendants or seed of Abraham forfeit their legacy as part of the Lord\u2019s chosen people unless they accept Jesus Christ. \u201cFor it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.20?lang=eng#p20\">3&nbsp;Nephi 21:20<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/30.2?lang=eng#p2\">2&nbsp;Nephi 30:2<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/gal/3.27,29?lang=eng#p27",
+            "text": "Galatians 3:27, 29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2.10?lang=eng#p10",
+            "text": "Abraham 2:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/21.20?lang=eng#p20",
+            "text": "3 Nephi 21:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/30.2?lang=eng#p2",
+            "text": "2 Nephi 30:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": null,
+        "pid": "146040389",
+        "id": "note24",
+        "text": "<p data-aid=\"146040452\" id=\"note24_p1\">The Book of Mormon is sent to the Gentiles, \u201cthat they may repent and come unto me and be baptized in my name and know of the true points of my doctrine, that they may be numbered among my people, O house of Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.6?lang=eng#p6\">3&nbsp;Nephi 21:6<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/21.6?lang=eng#p6",
+          "text": "3 Nephi 21:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": null,
+        "pid": "146040386",
+        "id": "note23",
+        "text": "<p data-aid=\"146040450\" id=\"note23_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/abraham-covenant-of?lang=eng\">Abraham, covenant of<\/a>\u201d; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.11?lang=eng#p11\">Abraham 2:11<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bd/abraham-covenant-of?lang=eng",
+            "text": "Abraham, covenant of",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2.11?lang=eng#p11",
+            "text": "Abraham 2:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": null,
+        "pid": "146040382",
+        "id": "note22",
+        "text": "<p data-aid=\"146040448\" id=\"note22_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-36?lang=eng&amp;para=15#p15\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 416.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-36?lang=eng&para=15#p15",
+          "text": "Teachings of Presidents of the Church: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "146040380",
+        "id": "note21",
+        "text": "<p data-aid=\"146040445\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.5?lang=eng#p5\">Moroni 6:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/6.5?lang=eng#p5",
+          "text": "Moroni 6:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "146040380",
+        "id": "note20",
+        "text": "<p data-aid=\"146040443\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9?lang=eng#p9\">Doctrine and Covenants 59:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59.9?lang=eng#p9",
+          "text": "Doctrine and Covenants 59:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "146040319",
+        "id": "note1",
+        "text": "<p data-aid=\"146040404\" id=\"note1_p1\">Russell&nbsp;M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=eng\">As We Go Forward Together<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Apr. 2018, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2018/04/as-we-go-forward-together?lang=eng",
+          "text": "As We Go Forward Together",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": null,
+        "pid": "146040396",
+        "id": "note29",
+        "text": "<p data-aid=\"146040460\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.14?lang=eng#p14\">1&nbsp;Nephi 14:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/14.14?lang=eng#p14",
+          "text": "1 Nephi 14:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": null,
+        "pid": "146040395",
+        "id": "note28",
+        "text": "<p data-aid=\"146040459\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.59?lang=eng#p59\">Doctrine and Covenants 76:59<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.59?lang=eng#p59",
+          "text": "Doctrine and Covenants 76:59",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

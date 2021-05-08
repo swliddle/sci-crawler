@@ -1,0 +1,163 @@
+{
+  "tableOfContentsUri": "/general-conference/2021/04",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/general-conference/2021/04/27mutombo",
+      "data-aid": "146030455",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "4e5a65e1f5ba4c3fb7609ce8cde71304",
+      "data-aid-version": "3",
+      "data-orig-id": "e1079a29b60f4f8da371ee2e6df5e60c"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246496360001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-2070-thierry-k-mutombo-32k-spa.mp3"
+    }],
+    "title": "Seréis libres",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "146030455",
+      {"key": "146030455"}
+    ],
+    [
+      "146045624",
+      {"key": "146045624"}
+    ],
+    [
+      "146045625",
+      {"key": "146045625"}
+    ],
+    [
+      "146045626",
+      {"key": "146045626"}
+    ],
+    [
+      "146045627",
+      {"key": "146045627"}
+    ],
+    [
+      "146045628",
+      {"key": "146045628"}
+    ],
+    [
+      "146045629",
+      {"key": "146045629"}
+    ],
+    [
+      "146045630",
+      {"key": "146045630"}
+    ],
+    [
+      "146045631",
+      {"key": "146045631"}
+    ],
+    [
+      "146045632",
+      {"key": "146045632"}
+    ],
+    [
+      "146045633",
+      {"key": "146045633"}
+    ],
+    [
+      "146045634",
+      {"key": "146045634"}
+    ],
+    [
+      "146045635",
+      {"key": "146045635"}
+    ],
+    [
+      "146045636",
+      {"key": "146045636"}
+    ],
+    [
+      "146045637",
+      {"key": "146045637"}
+    ],
+    [
+      "146045638",
+      {"key": "146045638"}
+    ],
+    [
+      "146045639",
+      {"key": "146045639"}
+    ],
+    [
+      "146045640",
+      {"key": "146045640"}
+    ],
+    [
+      "146045641",
+      {"key": "146045641"}
+    ],
+    [
+      "146045642",
+      {"key": "146045642"}
+    ],
+    [
+      "146045643",
+      {"key": "146045643"}
+    ],
+    [
+      "146045644",
+      {"key": "146045644"}
+    ],
+    [
+      "146045645",
+      {"key": "146045645"}
+    ],
+    [
+      "146045646",
+      {"key": "146045646"}
+    ],
+    [
+      "146045647",
+      {"key": "146045647"}
+    ],
+    [
+      "146045648",
+      {"key": "146045648"}
+    ],
+    [
+      "146045649",
+      {"key": "146045649"}
+    ],
+    [
+      "146045650",
+      {"key": "146045650"}
+    ]
+  ],
+  "uri": "/general-conference/2021/04/27mutombo",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Mutombo enseña que Jesucristo es la Luz del mundo y que Él puede guiarnos en tiempos oscuros y de dificultades.",
+          "title": "Seréis libres"
+        },
+        "pageSocial": {
+          "description": "El élder Mutombo enseña que Jesucristo es la Luz del mundo y que Él puede guiarnos en tiempos oscuros y de dificultades.",
+          "title": "Seréis libres"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6246496360001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246496360001\" data-video-title=\"Seréis libres\" data-video-description=\"El élder Mutombo enseña que Jesucristo es la Luz del mundo y que Él puede guiarnos en tiempos oscuros y de dificultades.\" data-video-id=\"6246496360001\" data-ip=\"Download and Streaming\" data-duration=\"593000\" data-assetid=\"0A4572329E64BFCC12309B6D9B9C99743C42FEB4\" data-ref-id=\"0A4572329E64BFCC12309B6D9B9C99743C42FEB4\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6246496360001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-2070-thierry-k-mutombo-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"68439030\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-2070-thierry-k-mutombo-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"109865052\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-2070-thierry-k-mutombo-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"263680141\"><\/video><h1 data-aid=\"146045624\" id=\"title1\">Seréis libres<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"146045625\" id=\"author1\">Por el élder Thierry&nbsp;K. Mutombo<\/p>\n<p class=\"author-role\" data-aid=\"146045626\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"146045627\" id=\"kicker1\">Jesucristo es la luz que debemos sostener en alto incluso durante los tiempos oscuros de nuestra vida terrenal.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"146045628\" id=\"p1\">Mis queridos hermanos y hermanas, estoy muy agradecido por el privilegio de dirigirme a ustedes desde África. Es una bendición tener hoy tecnología y utilizarla de la manera más eficaz para llegar a ustedes dondequiera que se encuentren.<\/p>\n<p data-aid=\"146045629\" id=\"p2\">En septiembre de 2019, mientras servíamos como líderes de la Misión Maryland Baltimore, la hermana Mutombo y yo tuvimos el privilegio de visitar algunos sitios históricos de la Iglesia en Palmyra, Nueva York, al tiempo que asistíamos al seminario para líderes de misión. Terminamos nuestra visita en la Arboleda Sagrada. Nuestra intención al visitar la Arboleda Sagrada no era tener una manifestación especial ni una visión; sin embargo, sí sentimos la presencia de Dios en ese sagrado lugar. Nuestro corazón se llenó de gratitud por el profeta José Smith.<\/p>\n<p data-aid=\"146045630\" id=\"p18\">En el camino de vuelta, la hermana Mutombo notó que yo tenía una gran sonrisa mientras conducía, así que preguntó: \u201c¿Cuál es el motivo por el que estás tan feliz?\u201d.<\/p>\n<p data-aid=\"146045631\" id=\"p19\">Le respondí: \u201cMi querida Nathalie, la verdad siempre triunfará sobre el error y la oscuridad no continuará en la tierra debido al evangelio restaurado de Jesucristo\u201d.<\/p>\n<p data-aid=\"146045632\" id=\"p3\">Dios el Padre y Jesucristo visitaron al joven José Smith para sacar a la luz lo que estaba oculto, para que pudiéramos recibir el \u201cconocimiento de las cosas como son, como eran y como han de ser\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.24?lang=spa#p24\">Doctrina y Convenios 93:24<\/a>).<\/p>\n<p data-aid=\"146045633\" id=\"p4\">Después de más de doscientos años, muchos todavía buscan las verdades necesarias para liberarse de algunas de las tradiciones y mentiras que el adversario difunde por todo el mundo. Muchos son \u201ccegados por la sutil astucia de los hombres\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=spa#p12\">Doctrina y Convenios 123:12<\/a>). En su epístola a los efesios, Pablo enseñó: \u201c\u2026&nbsp;Despiértate, tú que duermes, y levántate de entre los muertos, y te alumbrará Cristo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/5.14?lang=spa#p14\">Efesios 5:14<\/a>). El Salvador prometió que Él será la luz para todos aquellos que escuchen Sus palabras (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10.14?lang=spa#p14\">2&nbsp;Nefi 10:14<\/a>).<\/p>\n<p data-aid=\"146045634\" id=\"p5\">Hace treinta y cinco años, mis padres también estaban cegados y buscaban desesperadamente conocer la verdad y les preocupaba saber adónde acudir para hallarla. Mis padres nacieron en una aldea donde las tradiciones estaban arraigadas en la vida de las personas y de las familias. Ambos dejaron su aldea cuando eran jóvenes y fueron a la ciudad en busca de una vida mejor.<\/p>\n<p data-aid=\"146045635\" id=\"p20\">Se casaron y formaron su familia de manera muy modesta. Éramos casi ocho personas en una pequeña casa: mis padres, dos de mis hermanas y yo, y un primo que solía vivir con nosotros. Yo me preguntaba si en verdad éramos una familia, ya que no se nos permitía cenar en la misma mesa con nuestros padres. Cuando papá regresaba del trabajo, tan pronto como entraba en la casa, se nos pedía que fuéramos afuera. Las noches eran muy cortas, ya que no podíamos dormir debido a la falta de armonía y verdadero amor en el matrimonio de nuestros padres. Nuestra casa no solo era pequeña, sino que era un lugar oscuro. Antes de conocer a los misioneros, todos los domingos asistíamos a diferentes iglesias. Era obvio que nuestros padres buscaban algo que el mundo no podía proporcionar.<\/p>\n<p data-aid=\"146045636\" id=\"p6\">Esto continuó así hasta que conocimos al élder y a la hermana Hutchings, el primer matrimonio de misioneros mayores llamado a servir en Zaire (conocida hoy como República Democrática del Congo o Congo-Kinshasa). Cuando comenzamos a reunirnos con esos maravillosos misioneros, que eran como ángeles enviados de Dios, noté que algo comenzó a cambiar en nuestra familia. Después de nuestro bautismo, poco a poco comenzamos a tener de verdad un nuevo estilo de vida gracias al Evangelio restaurado. Las palabras de Cristo comenzaron a ensanchar nuestras almas. Estas comenzaron a iluminar nuestro entendimiento y se volvieron exquisitas para nosotros, ya que las verdades que recibimos eran evidentes y podíamos ver la luz, y esa luz se volvía más brillante cada día.<\/p>\n<p data-aid=\"146045637\" id=\"p21\">Esta comprensión del <em>porqué<\/em> del Evangelio nos estaba ayudando a llegar a ser más semejantes al Salvador. El tamaño de nuestra casa no cambió ni tampoco nuestra condición social. No obstante, fui testigo de un cambio en el corazón de mis padres cuando orábamos todos los días, en la mañana y en la noche. Estudiábamos el Libro de Mormón; llevábamos a cabo la noche de hogar; en verdad nos convertimos en una familia. Todos los domingos nos despertábamos a las seis de la mañana para prepararnos para ir a la capilla y viajábamos durante horas para asistir a las reuniones de la Iglesia, todas las semanas, sin quejarnos. Contemplar eso fue una experiencia maravillosa. Nosotros, quienes habíamos caminado en la oscuridad, desechamos las tinieblas de entre nosotros (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.25?lang=spa#p25\">Doctrina y Convenios 50:25<\/a>) y vimos \u201cgran luz\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/19.2?lang=spa#p2\">2&nbsp;Nefi 19:2<\/a>).<\/p>\n<p data-aid=\"146045638\" id=\"p7\">Recuerdo un día en que yo no quería levantarme temprano para la oración familiar, murmuré a mis hermanas: \u201cDe veras que no hay nada más que podamos hacer en esta casa, solo orar, orar, orar\u201d. Mi papá oyó mi comentario y recuerdo su reacción mientras me enseñaba de manera amorosa, pero firme: \u201cMientras estés en esta casa, orarás, orarás, orarás\u201d.<\/p>\n<p data-aid=\"146045639\" id=\"p8\">Las palabras de mi padre resonaron en mis oídos todos los días. ¿Qué creen que hacemos la hermana Mutombo y yo con nuestros hijos hoy? Oramos, oramos y oramos; ese es nuestro legado.<\/p>\n<p data-aid=\"146045640\" id=\"p9\">El hombre que nació ciego y que fue sanado por Jesucristo, dijo después de haber sido interrogado por sus vecinos y los fariseos:<\/p>\n<p data-aid=\"146045641\" id=\"p10\">\u201cEl hombre que se llama Jesús hizo lodo, y me untó los ojos y me dijo: Ve al Siloé y lávate. Y fui, y me lavé y recibí la vista&nbsp;[\u2026].<\/p>\n<p data-aid=\"146045642\" id=\"p11\">\u201c\u2026&nbsp;una cosa [que] sé, [es] que [fui] ciego, ahora [puedo] ve[r]\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/9.11,25?lang=spa#p11\">Juan 9:11,&nbsp;25<\/a>).<\/p>\n<p data-aid=\"146045643\" id=\"p12\">Nosotros también éramos ciegos y ahora podemos ver. Desde aquel entonces, el Evangelio restaurado ha influido en nuestra familia. El entender el <em>porqué<\/em> del Evangelio ha bendecido a tres generaciones de mi familia y continuará bendiciendo a muchas generaciones por venir.<\/p>\n<p data-aid=\"146045644\" id=\"p13\">Jesucristo es la luz que brilla en las tinieblas. Quienes lo sigan a Él \u201cno andará[n] en tinieblas, sino que tendrá[n] la luz de la vida\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.12?lang=spa#p12\">Juan 8:12<\/a>).<\/p>\n<p data-aid=\"146045645\" id=\"p14\">Durante casi un año, entre 2016 y 2017, la gente de la región de Kasai se enfrentó a una terrible tragedia. Fue un período oscuro para la gente debido a un conflicto entre un grupo tradicional de combatientes y las fuerzas gubernamentales. La violencia se extendió desde las poblaciones de la provincia Kasai-Central hasta la región más extensa de Kasai. Muchas personas huyeron de sus hogares en busca de seguridad y se escondieron en el monte. No tenían comida ni agua, ni nada en realidad, y entre ellos había algunos miembros de La&nbsp;Iglesia de Jesucristo de los Santos de los Últimos Días de la región de Kananga. La milicia mató a algunos miembros de la Iglesia.<\/p>\n<p data-aid=\"146045646\" id=\"p15\">El hermano Honoré Mulumba, del Barrio Nganza, en Kananga, y su familia fueron algunas de las pocas personas que permanecieron escondidas en su casa, sin saber a dónde ir porque todas las calles se transformaron en campos de tiro. Un día, unos milicianos del vecindario se percataron de la presencia del hermano Mulumba y su familia, ya que una noche salieron a buscar algunas verduras en el huerto familiar para comer. Un grupo de los milicianos llegó a la casa de ellos y luego los sacaron a la fuerza y les dijeron que eligieran unirse a las prácticas de la milicia o morir.<\/p>\n<p data-aid=\"146045647\" id=\"p22\">El hermano Mulumba les dijo valientemente: \u201cSoy miembro de La&nbsp;Iglesia de Jesucristo de los Santos de los Últimos Días. Mi familia y yo hemos aceptado a Jesucristo y tenemos fe en Él. Seguiremos siendo fieles a nuestros convenios y aceptaremos morir\u201d.<\/p>\n<p data-aid=\"146045648\" id=\"p23\">Los milicianos les dijeron: \u201cComo han elegido a Jesucristo, los perros devorarán sus cuerpos\u201d y prometieron regresar. No obstante, nunca regresaron y la familia se quedó allí durante dos meses y nunca los volvieron a ver. El hermano Mulumba y su familia mantuvieron encendida la antorcha de su fe; recordaron sus convenios y fueron protegidos.<\/p>\n<p data-aid=\"146045649\" id=\"p16\">Jesucristo es la luz que debemos sostener en alto, incluso durante los tiempos oscuros de nuestra vida terrenal (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.24?lang=spa#p24\">3&nbsp;Nefi 18:24<\/a>). Cuando elegimos seguir a Cristo, elegimos ser cambiados. El hombre o la mujer que cambia por Cristo será guiado por Cristo y preguntaremos, como lo hizo Pablo: \u201c\u2026&nbsp;Señor, ¿qué quieres que yo haga?\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/9.6?lang=spa#p6\">Hechos&nbsp;9:6<\/a>). Seguiremos \u201csus pasos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.21?lang=spa#p21\">1&nbsp;Pedro 2:21<\/a>), \u201c\u2026&nbsp;andar[emos] como él anduvo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/2.6?lang=spa#p6\">1&nbsp;Juan 2:6<\/a>) (véase Ezra Taft Benson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1989/07/born-of-god.html\">Nacidos de Dios<\/span>\u201d, <cite>Liahona<\/cite>, octubre de 1989, pág. 6).<\/p>\n<p data-aid=\"146045650\" id=\"p17\">Testifico de Aquel que murió, que fue sepultado y que resucitó al tercer día y que ascendió al cielo para que ustedes y yo recibamos las bendiciones de la inmortalidad y de la exaltación. Él es \u201cla luz&nbsp;[\u2026], la vida, y la verdad\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/4.12?lang=spa#p12\">Éter 4:12<\/a>). Él es el antídoto y la solución para la confusión del mundo. Él es el modelo de la excelencia para la exaltación; sí, Jesucristo. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>",
+    "footnotes": {}
+  }
+}

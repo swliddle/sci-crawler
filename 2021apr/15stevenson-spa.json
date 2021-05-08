@@ -1,0 +1,577 @@
+{
+  "tableOfContentsUri": "/general-conference/2021/04",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/general-conference/2021/04/15stevenson",
+      "data-aid": "146031379",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetid": "9b20d8a0ca954af5afd420bfa893b715",
+      "data-aid-version": "4",
+      "data-orig-id": "198bf2a7d36a4e79944a9cdcdf66ce16"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246433135001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-32k-spa.mp3"
+    }],
+    "title": "Corazones entrelazados",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "146031379",
+      {"key": "146031379"}
+    ],
+    [
+      "146043394",
+      {"key": "146043394"}
+    ],
+    [
+      "146043396",
+      {"key": "146043396"}
+    ],
+    [
+      "146043398",
+      {"key": "146043398"}
+    ],
+    [
+      "146043399",
+      {"key": "146043399"}
+    ],
+    [
+      "146043401",
+      {"key": "146043401"}
+    ],
+    [
+      "146043403",
+      {"key": "146043403"}
+    ],
+    [
+      "146043405",
+      {"key": "146043405"}
+    ],
+    [
+      "146043406",
+      {"key": "146043406"}
+    ],
+    [
+      "146043408",
+      {"key": "146043408"}
+    ],
+    [
+      "146043410",
+      {"key": "146043410"}
+    ],
+    [
+      "146043412",
+      {"key": "146043412"}
+    ],
+    [
+      "146043414",
+      {"key": "146043414"}
+    ],
+    [
+      "146043415",
+      {"key": "146043415"}
+    ],
+    [
+      "146043417",
+      {"key": "146043417"}
+    ],
+    [
+      "146043418",
+      {"key": "146043418"}
+    ],
+    [
+      "146043420",
+      {"key": "146043420"}
+    ],
+    [
+      "146043423",
+      {"key": "146043423"}
+    ],
+    [
+      "146043424",
+      {"key": "146043424"}
+    ],
+    [
+      "146043427",
+      {"key": "146043427"}
+    ],
+    [
+      "146043428",
+      {"key": "146043428"}
+    ],
+    [
+      "146043430",
+      {"key": "146043430"}
+    ],
+    [
+      "146043432",
+      {"key": "146043432"}
+    ],
+    [
+      "146043434",
+      {"key": "146043434"}
+    ],
+    [
+      "146043436",
+      {"key": "146043436"}
+    ],
+    [
+      "146043439",
+      {"key": "146043439"}
+    ],
+    [
+      "146043442",
+      {"key": "146043442"}
+    ],
+    [
+      "146043443",
+      {"key": "146043443"}
+    ],
+    [
+      "146043445",
+      {"key": "146043445"}
+    ],
+    [
+      "146043447",
+      {"key": "146043447"}
+    ],
+    [
+      "146043449",
+      {"key": "146043449"}
+    ],
+    [
+      "146043451",
+      {"key": "146043451"}
+    ],
+    [
+      "146043453",
+      {"key": "146043453"}
+    ],
+    [
+      "146043455",
+      {"key": "146043455"}
+    ],
+    [
+      "146043457",
+      {"key": "146043457"}
+    ],
+    [
+      "146043459",
+      {"key": "146043459"}
+    ],
+    [
+      "146043461",
+      {"key": "146043461"}
+    ],
+    [
+      "146043463",
+      {"key": "146043463"}
+    ],
+    [
+      "146045465",
+      {"key": "146045465"}
+    ],
+    [
+      "146045467",
+      {"key": "146045467"}
+    ],
+    [
+      "146045469",
+      {"key": "146045469"}
+    ],
+    [
+      "146045471",
+      {"key": "146045471"}
+    ],
+    [
+      "146045474",
+      {"key": "146045474"}
+    ],
+    [
+      "146045476",
+      {"key": "146045476"}
+    ],
+    [
+      "146045477",
+      {"key": "146045477"}
+    ],
+    [
+      "146045479",
+      {"key": "146045479"}
+    ],
+    [
+      "146045481",
+      {"key": "146045481"}
+    ],
+    [
+      "146045483",
+      {"key": "146045483"}
+    ],
+    [
+      "146045485",
+      {"key": "146045485"}
+    ],
+    [
+      "146045487",
+      {"key": "146045487"}
+    ],
+    [
+      "146045489",
+      {"key": "146045489"}
+    ],
+    [
+      "146045491",
+      {"key": "146045491"}
+    ],
+    [
+      "146045494",
+      {"key": "146045494"}
+    ],
+    [
+      "146045496",
+      {"key": "146045496"}
+    ],
+    [
+      "146045498",
+      {"key": "146045498"}
+    ],
+    [
+      "146045500",
+      {"key": "146045500"}
+    ],
+    [
+      "146045501",
+      {"key": "146045501"}
+    ],
+    [
+      "146045502",
+      {"key": "146045502"}
+    ],
+    [
+      "146045503",
+      {"key": "146045503"}
+    ],
+    [
+      "146045504",
+      {"key": "146045504"}
+    ],
+    [
+      "146045505",
+      {"key": "146045505"}
+    ],
+    [
+      "146045506",
+      {"key": "146045506"}
+    ],
+    [
+      "146045507",
+      {"key": "146045507"}
+    ],
+    [
+      "146045508",
+      {"key": "146045508"}
+    ],
+    [
+      "146045509",
+      {"key": "146045509"}
+    ],
+    [
+      "146045510",
+      {"key": "146045510"}
+    ],
+    [
+      "146045511",
+      {"key": "146045511"}
+    ],
+    [
+      "146045512",
+      {"key": "146045512"}
+    ],
+    [
+      "146045513",
+      {"key": "146045513"}
+    ],
+    [
+      "146045514",
+      {"key": "146045514"}
+    ],
+    [
+      "146045515",
+      {"key": "146045515"}
+    ],
+    [
+      "146045516",
+      {"key": "146045516"}
+    ],
+    [
+      "146045517",
+      {"key": "146045517"}
+    ],
+    [
+      "146045518",
+      {"key": "146045518"}
+    ],
+    [
+      "146045519",
+      {"key": "146045519"}
+    ],
+    [
+      "146045520",
+      {"key": "146045520"}
+    ],
+    [
+      "146045521",
+      {"key": "146045521"}
+    ],
+    [
+      "146045522",
+      {"key": "146045522"}
+    ],
+    [
+      "146045523",
+      {"key": "146045523"}
+    ],
+    [
+      "146045524",
+      {"key": "146045524"}
+    ],
+    [
+      "146045525",
+      {"key": "146045525"}
+    ],
+    [
+      "146045526",
+      {"key": "146045526"}
+    ]
+  ],
+  "uri": "/general-conference/2021/04/15stevenson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Stevenson enseña la importancia de la bondad, el amor, el respeto al ofrecer consejo específico a niños, jóvenes y adultos.",
+          "title": "Corazones entrelazados"
+        },
+        "pageSocial": {
+          "description": "El élder Stevenson enseña la importancia de la bondad, el amor, el respeto al ofrecer consejo específico a niños, jóvenes y adultos.",
+          "title": "Corazones entrelazados"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6246433135001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6246433135001\" data-video-title=\"Corazones entrelazados\" data-video-description=\"El élder Stevenson enseña la importancia de la bondad, el amor, el respeto al ofrecer consejo específico a niños, jóvenes y adultos.\" data-video-id=\"6246433135001\" data-ip=\"Download and Streaming\" data-duration=\"910000\" data-assetid=\"A7134BD5DBA14A431164A2F0A4781DF2735876FD\" data-ref-id=\"A7134BD5DBA14A431164A2F0A4781DF2735876FD\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6246433135001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"103073195\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"145941435\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2021-general-conference/2021-04-1050-gary-e-stevenson-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"330008077\"><\/video><h1 data-aid=\"146043394\" id=\"title1\">Corazones entrelazados<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"146043396\" id=\"author1\">Por el élder Gary&nbsp;E. Stevenson<\/p>\n<p class=\"author-role\" data-aid=\"146043398\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"146043399\" id=\"kicker1\">Cuando se muestren amables, cuidadosos y compasivos, les prometo que alzarán los brazos caídos y sanarán los corazones.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section>\n<header>\n<h2 data-aid=\"146043401\" id=\"title2\">Introducción<\/h2>\n<\/header>\n<p data-aid=\"146043403\" id=\"p1\">¿No es fascinante que los descubrimientos científicos importantes se inspiran a veces en hechos tan simples como una manzana que cae de un árbol?<\/p>\n<p data-aid=\"146043405\" id=\"p2\">Permítanme compartir un descubrimiento que se produjo gracias a un grupo de conejos de muestra.<\/p>\n<p data-aid=\"146043406\" id=\"p3\">En la década de los setenta, los investigadores llevaron a cabo un experimento para examinar los efectos de la dieta en la salud del corazón. A lo largo de varios meses, alimentaron a un grupo de conejos de control con una dieta rica en grasas y controlaron su presión arterial, ritmo cardíaco y colesterol.<\/p>\n<p data-aid=\"146043408\" id=\"p4\">Como era de esperar, muchos de los conejos mostraron una acumulación de depósitos de grasa en el interior de las arterias, pero eso no era todo. Los investigadores habían descubierto algo que no tenía mucho sentido. Aunque todos los conejos presentaban una acumulación de grasa, un grupo tenía sorprendentemente hasta un sesenta por ciento menos que los demás. Parecía que estaban examinando dos grupos diferentes de conejos.<\/p>\n<p data-aid=\"146043410\" id=\"p5\">Ese tipo de resultados puede hacer perder el sueño a los científicos. ¿Cómo puede ser esto? Todos los conejos eran de la misma raza, procedentes de Nueva Zelanda, con un acervo génico prácticamente idéntico. Cada uno recibió la misma cantidad de la misma comida.<\/p>\n<p data-aid=\"146043412\" id=\"p6\">¿Qué significaría esto?<\/p>\n<p data-aid=\"146043414\" id=\"p7\">¿Acaso los resultados invalidarían el estudio? ¿Había fallos en el diseño del experimento?<\/p>\n<p data-aid=\"146043415\" id=\"p8\">Los científicos se afanaron por comprender ese resultado inesperado.<\/p>\n<p data-aid=\"146043417\" id=\"p9\">Finalmente, dirigieron su atención hacia el personal de investigación. ¿Sería posible que los investigadores hubieran hecho algo para influir en los resultados? Al investigar esto, descubrieron que todos los conejos con menos depósitos de grasa habían estado bajo el cuidado de una misma investigadora. Ella alimentaba a los conejos con la misma comida que los demás, pero, según informó un científico, \u201cera una persona extraordinariamente amable y compasiva\u201d. Cuando alimentaba a los conejos, \u201cles hablaba, los abrazaba y los acariciaba&nbsp;[\u2026]. \u2018No podía evitarlo. Así era ella\u2019\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<img id=\"img5\" src=\"https://assets.ldscdn.org/cb/67/cb679f29a715a81db9f368f95201f4c22cad2db3/woman_looking_bunny_rabbit.png\" data-img-id=\"f5c0c4040f8b0274d70a9f595007749d07c2d69f\" srcset=\"https://assets.ldscdn.org/5d/c5/5dc54866e2db4a0532b3f4f4274e1e9d4d57bc6d/woman_looking_bunny_rabbit.png 60w,https://assets.ldscdn.org/e0/a7/e0a7021ea475e9efd98eea5d2ba45609e6dd8c6b/woman_looking_bunny_rabbit.png 100w,https://assets.ldscdn.org/20/43/2043a0c5602b722d08e54f978d77287700125c66/woman_looking_bunny_rabbit.png 200w,https://assets.ldscdn.org/1a/b0/1ab04a16131afbba24f6b3e2e2de377208baa57f/woman_looking_bunny_rabbit.png 250w,https://assets.ldscdn.org/a0/b5/a0b56cf8f6015db158de5760d41c5d9953ccb543/woman_looking_bunny_rabbit.png 320w,https://assets.ldscdn.org/cb/67/cb679f29a715a81db9f368f95201f4c22cad2db3/woman_looking_bunny_rabbit.png 500w,https://assets.ldscdn.org/e6/3c/e63cfafd75abd5a7cc3043fb7c60157eed513e1d/woman_looking_bunny_rabbit.png 640w\" data-assetid=\"f5c0c4040f8b0274d70a9f595007749d07c2d69f\" data-missing-asset=\"false\">\n<p data-aid=\"146043418\" id=\"p10\">Hacía algo más que dar comida a los conejos. ¡Les daba amor!<\/p>\n<p data-aid=\"146043420\" id=\"p11\">A primera vista, parecía improbable que esa fuera la razón de la categórica diferencia, pero el equipo de investigación no podía ver otra posibilidad.<\/p>\n<p data-aid=\"146043423\" id=\"p12\">Así fue que repitieron el experimento, esta vez controlando estrictamente todas las demás variables. Cuando analizaron los resultados, ocurrió lo mismo. Los conejos bajo el cuidado de la cariñosa investigadora tuvieron resultados de salud significativamente más altos.<\/p>\n<p data-aid=\"146043424\" id=\"p13\">Los científicos publicaron los resultados de este estudio en la prestigiosa revista <cite>Science<\/cite><a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"146043427\" id=\"p14\">Años más tarde, las conclusiones de este experimento todavía parecen influir en la comunidad médica. En los últimos años, la Dra.&nbsp;Kelli Harding ha publicado un libro titulado <cite>The Rabbit Effect<\/cite> [El efecto conejo] que toma su nombre del experimento. Su conclusión: \u201cTome un conejo con un estilo de vida poco saludable; háblele, abrácelo, dele afecto [\u2026]. El trato marcó la diferencia&nbsp;[\u2026]. Finalmente\u201d, concluye, \u201clo que afecta a nuestra salud de forma más significativa tiene mucho que ver con cómo nos tratamos unos a otros, cómo vivimos y cómo consideramos lo que significa ser humanos\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"146043428\" id=\"p16\">En un mundo secular, los puentes que conectan la ciencia con las verdades del Evangelio a veces parecen escasos y esporádicos. Sin embargo, como cristianos, seguidores de Jesucristo, Santos de los Últimos Días, los resultados de este estudio científico pueden parecer más intuitivos que sorprendentes. Para mí, esto añade otro ladrillo a los cimientos de la bondad como principio fundamental y sanador del Evangelio: un principio que puede sanar los corazones emocional, espiritual y, como se ha demostrado aquí, incluso físicamente.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146043430\" id=\"title3\">Corazones entrelazados<\/h2>\n<\/header>\n<p data-aid=\"146043432\" id=\"p17\">Cuando le preguntaron, \u201cMaestro, ¿cuál es el gran mandamiento&nbsp;[\u2026]?\u201d, el Salvador respondió: \u201cAmarás al Señor tu Dios con todo tu corazón\u201d. Y continuó: \u201cAmarás a tu prójimo como a ti mismo\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. La respuesta del Salvador refuerza nuestro deber celestial. Un antiguo profeta ordenó \u201cque no hubiera contenciones entre uno y otro, sino que fij[ásemos] [nuestra] vista hacia adelante&nbsp;[\u2026] teniendo <em>entrelazados [nuestros] corazones<\/em> con unidad y amor el uno para con el otro\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Asimismo, se nos enseña que el \u201cpoder o influencia&nbsp;[\u2026] se debe mantener por&nbsp;[\u2026] benignidad, mansedumbre,&nbsp;[\u2026] por bondad y&nbsp;[\u2026] sin malicia\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"146043434\" id=\"p18\">Creo que este principio tiene una aplicación universal para todos los Santos de los Últimos Días: adultos, jóvenes y niños.<\/p>\n<p data-aid=\"146043436\" id=\"p19\">Teniendo esto en cuenta, permítanme, por un momento, hablarles directamente a ustedes los que son niños de la Primaria.<\/p>\n<p data-aid=\"146043439\" id=\"p20\">Ya comprenden lo importante que es ser bondadosos. En el estribillo de la canción de la Primaria, \u201cYo trato de ser como Cristo\u201d, se nos enseña:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"146043442\" id=\"p21\">Ama a otros cual Cristo te ama.<\/p>\n<p class=\"line\" data-aid=\"146043443\" id=\"p22\">Sé bondadoso y tierno y fiel.<\/p>\n<p class=\"line\" data-aid=\"146043445\" id=\"p23\">Pues esto es lo que Jesús nos enseña.<\/p>\n<p class=\"line\" data-aid=\"146043447\" id=\"p24\">Yo quiero seguirlo a Él<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"146043449\" id=\"p25\">Aun así, puede que a veces sea difícil. A continuación, una historia que les podría ayudar, es sobre un niño de la Primaria llamado Minchan Kim, de Corea del Sur. Su familia se unió a la Iglesia hace unos seis años.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/b4/22/b42265799ef38abafc034e8d1e1fb10fe7ef2ee7/minchan_kim_dog.png\" data-img-id=\"72edd569b1a3dbafe69785d23ea86d2eea4b45f2\" srcset=\"https://assets.ldscdn.org/6b/37/6b37a1b5cbf7d62fa9d28881d79170fcde7ac6d9/minchan_kim_dog.png 60w,https://assets.ldscdn.org/c5/c6/c5c66b3ca31c7e6ed0f0bcbc24f2ef641d0042c1/minchan_kim_dog.png 100w,https://assets.ldscdn.org/6e/e7/6ee70422e9e6d56a90d06121d97b040b96065ccf/minchan_kim_dog.png 200w,https://assets.ldscdn.org/4a/23/4a23eb1dbb3355ab8fb49ddfb90d5224b02526f5/minchan_kim_dog.png 250w,https://assets.ldscdn.org/07/68/0768756e9f46413c7918b07afd3463a1bdd9bd5c/minchan_kim_dog.png 320w,https://assets.ldscdn.org/b4/22/b42265799ef38abafc034e8d1e1fb10fe7ef2ee7/minchan_kim_dog.png 500w,https://assets.ldscdn.org/e4/2d/e42d720bd4d8f8352b53e9908b02a367f0540184/minchan_kim_dog.png 640w\" data-assetid=\"72edd569b1a3dbafe69785d23ea86d2eea4b45f2\" data-missing-asset=\"false\">\n<p data-aid=\"146043451\" id=\"p26\">\u201cUn día en la escuela, algunos de mis compañeros se estaban burlando de otro alumno e insultándole. Parecía divertido, así que durante unas semanas me uní a ellos.<\/p>\n<p data-aid=\"146043453\" id=\"p27\">\u201cDespués de varias semanas, el niño me dijo que, aunque él actuaba como si no le importara, nuestras palabras lo herían y lloraba cada noche, y yo casi lloré cuando me lo contó. Me dio mucha pena y quise ayudarlo. De modo que al día siguiente me acerqué a él, puse mi brazo sobre sus hombros y le dije: \u2018Siento mucho haberme burlado de ti\u2019. Él asintió al oírme, y se le llenaron los ojos de lágrimas.<\/p>\n<p data-aid=\"146043455\" id=\"p28\">\u201cSin embargo, los otros niños seguían burlándose de él. Entonces recordé lo que había aprendido en mi clase de la Primaria: Hacer lo justo. Por lo tanto, les pedí a mis compañeros que dejaran de burlarse. La mayoría decidió no cambiar y se enojaron conmigo, pero uno de ellos le pidió disculpas y los tres nos hicimos buenos amigos.<\/p>\n<p data-aid=\"146043457\" id=\"p29\">\u201cAlgunas personas todavía se burlan de él, pero se siente mejor porque nos tiene a nosotros.<\/p>\n<p data-aid=\"146043459\" id=\"p30\">\u201cHice lo justo al ayudar a un amigo que lo necesitaba\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/1d/a5/1da50bf973a0d9f466d14352b164cb8c338dc078/photo_boy_minchan_kim.png\" data-img-id=\"bb72488aa9712c871171ba339aa0d4405c5cd6d4\" srcset=\"https://assets.ldscdn.org/bf/e9/bfe94e2877a25ad1661da024f13cbc9997be1c70/photo_boy_minchan_kim.png 60w,https://assets.ldscdn.org/9a/79/9a79103ffbfdbf4995c9acad92bd0617c745f6aa/photo_boy_minchan_kim.png 100w,https://assets.ldscdn.org/92/9e/929e8a3718190cd5a4390bab7c1b3fadc6a63029/photo_boy_minchan_kim.png 200w,https://assets.ldscdn.org/51/9c/519ca3c884ec5b9f99008fde8b9c5e2b973a6722/photo_boy_minchan_kim.png 250w,https://assets.ldscdn.org/08/a2/08a29114bff216a5c2aa9d4682e38a1e970694d0/photo_boy_minchan_kim.png 320w,https://assets.ldscdn.org/1d/a5/1da50bf973a0d9f466d14352b164cb8c338dc078/photo_boy_minchan_kim.png 500w,https://assets.ldscdn.org/a2/78/a27857a0a91d678f728b31cb7f969137b79b5854/photo_boy_minchan_kim.png 640w\" data-assetid=\"bb72488aa9712c871171ba339aa0d4405c5cd6d4\" data-missing-asset=\"false\">\n<p data-aid=\"146043461\" id=\"p31\">¿No es este un buen ejemplo de cómo tratar de ser como Jesús?<\/p>\n<p data-aid=\"146043463\" id=\"p32\">Ahora, para ustedes, hombres y mujeres jóvenes, a medida que uno se hace mayor, burlarse de los demás puede derivar en algo muy peligroso. La ansiedad, la depresión y otras cosas peores suelen acompañar al acoso. \u201cAunque el acoso no es un concepto nuevo, las redes sociales y la tecnología lo han llevado a un nuevo nivel. Se convierte en una amenaza más constante y siempre presente: el ciberacoso\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"146045465\" id=\"p33\">Claramente, el adversario está utilizando esto para perjudicarlos a ustedes, a su generación. No hay lugar para esto en su ciberespacio, vecindarios, escuelas, cuórums o clases. Por favor, hagan todo lo posible para que esos lugares sean más bondadosos y seguros. Si observan o participan pasivamente en algo así, no conozco mejor consejo que el que ofreció anteriormente el élder Dieter&nbsp;F. Uchtdorf:<\/p>\n<p data-aid=\"146045467\" id=\"p49\">\u201cCuando se trate de odiar, chismear, ignorar, ridiculizar, sentir rencor o el deseo de infligir daño, por favor apliquen lo siguiente:<\/p>\n<p data-aid=\"146045469\" id=\"p50\">\u201c¡Dejen de hacerlo!\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"146045471\" id=\"p51\">¿Lo escucharon? ¡Dejen de hacerlo! Cuando se muestren amables, cuidadosos y compasivos, incluso digitalmente, les prometo que alzarán los brazos caídos y sanarán los corazones.<\/p>\n<p data-aid=\"146045474\" id=\"p34\">Después de hablar a los niños de la Primaria y a los jóvenes, ahora quisiera dirigir unas palabras a los adultos de la Iglesia. Tenemos la responsabilidad primordial de marcar la pauta y ser modelos de amabilidad, inclusión y cortesía, de enseñar a la nueva generación una conducta semejante a la de Cristo tanto en lo que decimos como en la forma en que actuamos. Esto es especialmente importante ya que se observa un marcado cambio social hacia la división en la política, las clases sociales y casi cualquier otra distinción establecida por el hombre.<\/p>\n<p data-aid=\"146045476\" id=\"p35\">El presidente M.&nbsp;Russell Ballard también ha enseñado que los Santos de los Últimos Días debemos ser amables no solo entre nosotros, sino también con todos los que nos rodean. Él observó: \u201cEn ocasiones escucho acerca de miembros que ofenden a los de otras religiones al pasarlos por alto y no incluirlos en su círculo de amistades. Eso puede suceder especialmente en comunidades donde nuestros miembros son la mayoría. He escuchado acerca de padres de criterio limitado que dicen a sus hijos que no pueden jugar con cierto niño del vecindario porque su familia no pertenece a nuestra Iglesia. Ese tipo de comportamiento no va de acuerdo con las enseñanzas del Señor Jesucristo. No entiendo por qué un miembro de nuestra Iglesia permitiría que sucediera ese tipo de cosas. No he escuchado que se exhorte a los miembros de esta Iglesia a ser otra cosa que personas amorosas, bondadosas, tolerantes y benevolentes con nuestros amigos y vecinos de otras religiones\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"146045477\" id=\"p36\">El Señor espera que enseñemos que la inclusión es un recurso positivo hacia la unidad y que la exclusión conduce a la división.<\/p>\n<p data-aid=\"146045479\" id=\"p37\">Como seguidores de Jesucristo, nos sentimos consternados cuando escuchamos cómo se maltrata a los hijos de Dios por su raza. Nos sentimos desconsolados al escuchar sobre los recientes ataques a personas de raza negra, asiática, latina o de cualquier otro grupo. Los prejuicios, la tensión racial o la violencia no deberían nunca tener cabida en nuestros vecindarios, comunidades o dentro de la Iglesia.<\/p>\n<p data-aid=\"146045481\" id=\"p38\">Que cada uno de nosotros, sin importar su edad, se esfuerce por ser lo mejor posible.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146045483\" id=\"title4\">Ama a tus enemigos<\/h2>\n<\/header>\n<p data-aid=\"146045485\" id=\"p39\">Conforme se esfuercen por demostrar amor, respeto y bondad, sin duda resultarán heridos o afectados negativamente por las malas decisiones de los demás. ¿Qué hacemos entonces? Seguimos la admonición del Señor: \u201c\u2026&nbsp;Amad a vuestros enemigos&nbsp;[\u2026] y orad por los que os ultrajan\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"146045487\" id=\"p40\">Hacemos todo lo posible por superar la adversidad que se interpone en nuestro camino. Nos esforzamos por perseverar hasta el fin, orando constantemente para que la mano del Señor modifique nuestras circunstancias. Damos gracias por las personas que Él pone en nuestro camino para ayudarnos.<\/p>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/b0/c4/b0c47e9479e32d54bec2c2afb983246c343b9788/miracle_quincy_illinois.png\" data-img-id=\"70065b28ed3dda7bd2975b121974509930c24d5d\" srcset=\"https://assets.ldscdn.org/43/ba/43ba53130d8cca8271b305a5973a973e8e3ad57b/miracle_quincy_illinois.png 60w,https://assets.ldscdn.org/12/0a/120a3ba8d08aabc004a999ee41739f34ed603338/miracle_quincy_illinois.png 100w,https://assets.ldscdn.org/3b/cc/3bcc5f26150108fb0bcde3838bb5ac539f08f169/miracle_quincy_illinois.png 200w,https://assets.ldscdn.org/3d/dc/3ddc401663261f23e9fd86a4128801132ca2d207/miracle_quincy_illinois.png 250w,https://assets.ldscdn.org/0c/7b/0c7b382bf1812f59a324f95dca8fbde68acee194/miracle_quincy_illinois.png 320w,https://assets.ldscdn.org/b0/c4/b0c47e9479e32d54bec2c2afb983246c343b9788/miracle_quincy_illinois.png 500w,https://assets.ldscdn.org/00/da/00da43e5a1a5d4c5e84aea5a3c58c5d925cdfe20/miracle_quincy_illinois.png 640w\" data-assetid=\"70065b28ed3dda7bd2975b121974509930c24d5d\" data-missing-asset=\"false\">\n<p data-aid=\"146045489\" id=\"p41\">Me conmueve un ejemplo sobre esto de los primeros días de la historia de nuestra Iglesia. Durante el invierno de 1838, José Smith y otros líderes de la Iglesia fueron detenidos en la cárcel de Liberty mientras que los Santos de los Últimos Días fueron expulsados de sus hogares en el estado de Misuri. Los santos estaban desamparados, sin amigos y sufriendo mucho por el frío y la falta de recursos. Los residentes de Quincy, Illinois, vieron su desesperada situación y les tendieron una mano con compasión y amistad.<\/p>\n<p data-aid=\"146045491\" id=\"p42\">Wandle Mace, un habitante de Quincy, recordó más tarde el momento en el que vio por primera vez a los santos en tiendas improvisadas a lo largo del río Misisipi : \u201cAlgunos tenían sábanas extendidas para resguardarse del viento&nbsp;[\u2026]; los niños estaban temblando alrededor de un fuego sobre el cual soplaba el viento, así que no les servía de mucho. Los pobres santos padecían terriblemente\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"146045494\" id=\"p52\">Al ver la difícil situación de los santos, los residentes de Quincy se organizaron para prestar ayuda; algunos incluso ayudaron a transportar a sus nuevos amigos al otro lado del río. Mace continuó: \u201c[Ellos] donaron generosamente, los comerciantes competían entre sí para ver cuál de ellos llegaba a ser el más generoso [\u2026] con [\u2026] carne de cerdo,&nbsp;[\u2026] azúcar, botas [\u2026], zapatos y ropa, todo lo que estos pobres desterrados tanto necesitaban\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. En poco tiempo, los refugiados superaban en número a los residentes de Quincy, quienes abrieron sus casas y compartieron sus escasos recursos con gran sacrificio personal<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"146045496\" id=\"p43\">Muchos de los santos sobrevivieron al duro invierno solo gracias a la compasión y generosidad de los residentes de Quincy. Esos ángeles terrenales abrieron sus corazones y sus hogares, proveyendo alimento para salvar vidas, calidez y, tal vez lo más importante, una mano de amistad a los santos que sufrían. Aunque su estancia en Quincy fue relativamente corta, los santos nunca olvidarían su deuda de gratitud con sus queridos vecinos, y Quincy llegó a ser conocida como \u201cla ciudad refugio\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"146045498\" id=\"p44\">Cuando la adversidad y la aflicción nos sobrevienen por actos reprobables, negativos e incluso mezquinos, podemos elegir tener esperanza en Cristo. Esta esperanza proviene de Su invitación: \u201c\u2026&nbsp;sed de buen ánimo, porque yo os guiaré\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> y la promesa de que \u201cÉl consagrará tus aflicciones para tu provecho\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"146045500\" id=\"title5\">El Buen Pastor<\/h2>\n<\/header>\n<p data-aid=\"146045501\" id=\"p45\">Concluyamos ahora donde empezamos: una cuidadora compasiva, que despliega su bondad con un espíritu enriquecedor y un resultado inesperado, sanar los corazones de los animales sobre los que ejercía mayordomía. ¿Por qué? ¡Porque así era ella!<\/p>\n<p data-aid=\"146045502\" id=\"p46\">Cuando miramos a través de la lente del Evangelio, reconocemos que nosotros también nos encontramos bajo el cuidado de un guardián compasivo, que despliega Su bondad con un espíritu enriquecedor. El Buen Pastor nos conoce a cada uno por nuestro nombre y \u201ctiene interés personal en [nosotros]\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. El mismo Señor Jesucristo dijo: \u201cYo soy el buen pastor y conozco mis ovejas\u201d [\u2026]; y [pondré] mi vida por las ovejas\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<img id=\"img4\" src=\"https://assets.ldscdn.org/54/b8/54b86ddf9dcbf00d34d1933e003084aed791e256/sheep_jesus_parson_parable_christ.png\" data-img-id=\"66a202da458fb874212a40428c313a217b818ad9\" srcset=\"https://assets.ldscdn.org/4a/ab/4aab44da8cb2210292a678833e1d8df090430088/sheep_jesus_parson_parable_christ.png 60w,https://assets.ldscdn.org/5f/0f/5f0fd36385ad08182f20375fba2bb428c2f2adc9/sheep_jesus_parson_parable_christ.png 100w,https://assets.ldscdn.org/e1/06/e106175b3ca4af307fde6e55d3197418a53e4ed0/sheep_jesus_parson_parable_christ.png 200w,https://assets.ldscdn.org/7e/9d/7e9d947cc91e3482e26f9e612ccb50ddf8b9b3b8/sheep_jesus_parson_parable_christ.png 250w,https://assets.ldscdn.org/96/6f/966fd2c38b18779da42ab5b07b6c7fff9c864e29/sheep_jesus_parson_parable_christ.png 320w,https://assets.ldscdn.org/54/b8/54b86ddf9dcbf00d34d1933e003084aed791e256/sheep_jesus_parson_parable_christ.png 500w,https://assets.ldscdn.org/e1/66/e16676578c309e7c2ac7d17766c2dc959fdab2fc/sheep_jesus_parson_parable_christ.png 640w\" data-assetid=\"66a202da458fb874212a40428c313a217b818ad9\" data-missing-asset=\"false\">\n<p data-aid=\"146045503\" id=\"p47\">En este santo fin de semana de Pascua de Resurrección, encuentro gran paz al saber que \u201cJehová es mi pastor\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>, que Él nos conoce a cada uno y que estamos bajo Su cuidado. Cuando enfrentemos el viento y las tormentas de la vida, las enfermedades y las heridas, el Señor \u2014nuestro Pastor, nuestro Cuidador\u2014 nos sustentará con amor y bondad. Él sanará nuestros corazones y restaurará nuestras almas.<\/p>\n<p data-aid=\"146045504\" id=\"p48\">De ello testifico \u2014y de Jesucristo como nuestro Salvador y nuestro Redentor\u2014 en el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "146043432",
+        "id": "note4",
+        "text": "<p data-aid=\"146045509\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.36-39?lang=spa#p36\">Mateo 22:36\u201339<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.36-39?lang=spa#p36",
+          "text": "Mateo 22:36\u201339",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "146043432",
+        "id": "note5",
+        "text": "<p data-aid=\"146045510\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=spa#p21\">Mosíah 18:21<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.21?lang=spa#p21",
+          "text": "Mosíah 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "146043424",
+        "id": "note2",
+        "text": "<p data-aid=\"146045507\" id=\"note2_p1\">Véase Robert&nbsp;M. Nerem, Murina&nbsp;J. Levesque y J.&nbsp;Frederick Cornhill, \u201cSocial Environment as a Factor in Diet-Induced Atherosclerosis\u201d, <cite>Science<\/cite>, tomo CCVIII, nro.&nbsp;4451, 27 de junio de 1980, págs.&nbsp;1475\u20131476.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "146043427",
+        "id": "note3",
+        "text": "<p data-aid=\"146045508\" id=\"note3_p1\">Harding, <cite>The Rabbit Effect<\/cite>, págs.&nbsp;xxiv, xxv.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "146043459",
+        "id": "note8",
+        "text": "<p data-aid=\"146045513\" id=\"note8_p1\">Adaptado de Minchan&nbsp;K., \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../friend/2020/01/the-apology.html\">La disculpa<\/span>\u201d, <cite>Liahona,<\/cite> enero de 2020, pág.&nbsp;A10.<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "146043463",
+        "id": "note9",
+        "text": "<p data-aid=\"146045514\" id=\"note9_p1\">Frances Dalomba, \u201cSocial Media: The Good, The Bad, and the Ugly\u201d, Lifespan, lifespan.org.<\/p>"
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "146043432",
+        "id": "note6",
+        "text": "<p data-aid=\"146045511\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.41-42?lang=spa#p41\">Doctrina y Convenios 121:41\u201342<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.41-42?lang=spa#p41",
+          "text": "Doctrina y Convenios 121:41\u201342",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "146043447",
+        "id": "note7",
+        "text": "<p data-aid=\"146045512\" id=\"note7_p1\">\u201cYo trato de ser como Cristo\u201d, <cite>Canciones para los niños<\/cite>, pág.&nbsp;40.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "context": null,
+        "pid": "146045496",
+        "id": "note16",
+        "text": "<p data-aid=\"146045521\" id=\"note16_p1\">Véase Susan Easton Black, \u201cQuincy\u2013A City of Refuge\u201d, <cite>Mormon Historical Studies<\/cite>, tomo&nbsp;II, nro.&nbsp;1, primavera de 2001, págs.&nbsp;83\u201394.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": null,
+        "pid": "146045494",
+        "id": "note15",
+        "text": "<p data-aid=\"146045520\" id=\"note15_p1\">Véase Richard&nbsp;E. Bennett, \u201c\u2018Quincy\u2014The Home of Our Adoption\u2019: A Study of the Mormons in Quincy, Illinois, 1838-40\u201d, <cite>Mormon Historical Studies<\/cite>, tomo&nbsp;II, nro.&nbsp;1, primavera de 2001, págs.&nbsp;110\u2013111.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "context": null,
+        "pid": "146045494",
+        "id": "note14",
+        "text": "<p data-aid=\"146045519\" id=\"note14_p1\">Autobiografía de Wandle Mace, pág. 33; se estandarizaron la ortografía y el uso de las mayúsculas.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": null,
+        "pid": "146045491",
+        "id": "note13",
+        "text": "<p data-aid=\"146045518\" id=\"note13_p1\">Autobiografía de Wandle Mace, circa 1890, copia mecanografiada, págs.&nbsp;32\u201333, Biblioteca de Historia de la Iglesia, Salt Lake City.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "context": null,
+        "pid": "146045485",
+        "id": "note12",
+        "text": "<p data-aid=\"146045517\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.27-28?lang=spa#p27\">Lucas 6:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6.27-28?lang=spa#p27",
+          "text": "Lucas 6:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": null,
+        "pid": "146045476",
+        "id": "note11",
+        "text": "<p data-aid=\"146045516\" id=\"note11_p1\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/10/doctrine-of-inclusion?lang=spa\">Doctrina de la inclusión<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2002, pág.&nbsp;41.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2001/10/doctrine-of-inclusion?lang=spa",
+          "text": "Doctrina de la inclusión",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": null,
+        "pid": "146045469",
+        "id": "note10",
+        "text": "<p data-aid=\"146045515\" id=\"note10_p1\">Dieter&nbsp;F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=spa\">Los misericordiosos alcanzan misericordia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2012, pág.&nbsp;75.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=spa",
+          "text": "Los misericordiosos alcanzan misericordia",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": null,
+        "pid": "146045503",
+        "id": "note21",
+        "text": "<p data-aid=\"146045526\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/23.1?lang=spa#p1\">Salmo 23:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ps/23.1?lang=spa#p1",
+          "text": "Salmo 23:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": null,
+        "pid": "146045502",
+        "id": "note20",
+        "text": "<p data-aid=\"146045525\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.14,15?lang=spa#p14\">Juan 10:14, 15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/10.14,15?lang=spa#p14",
+          "text": "Juan 10:14, 15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "146043417",
+        "id": "note1",
+        "text": "<p data-aid=\"146045506\" id=\"note1_p1\">Véase Kelli Harding, <cite>The Rabbit Effect<\/cite>, 2019, págs. xxiii\u2013xxiv.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": null,
+        "pid": "146045502",
+        "id": "note19",
+        "text": "<p data-aid=\"146045524\" id=\"note19_p1\">Véase James&nbsp;E. Talmage, <cite>Jesús el Cristo<\/cite>, 1975, pág.&nbsp;440.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "context": null,
+        "pid": "146045498",
+        "id": "note18",
+        "text": "<p data-aid=\"146045523\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2&nbsp;Nefi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=spa#p2",
+          "text": "2 Nefi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": null,
+        "pid": "146045498",
+        "id": "note17",
+        "text": "<p data-aid=\"146045522\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18?lang=spa#p18\">Doctrina y Convenios 78:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/78.18?lang=spa#p18",
+          "text": "Doctrina y Convenios 78:18",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}
