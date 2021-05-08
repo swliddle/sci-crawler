@@ -34,6 +34,7 @@ public class SciCrawler {
 
     private static final String HYPHEN = "-";
     private static final String NDASH = "–";
+    private static final String PATH_SEPARATOR = "/";
 
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
     private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
@@ -49,28 +50,34 @@ public class SciCrawler {
     private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
     private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
 
-    private static final String PATH_SEPARATOR = "/";
 
     // Properties
     private GregorianCalendar saturdayDate;
     private GregorianCalendar sundayDate;
 
-    private final Logger logger = Logger.getLogger(SciCrawler.class.getName());
-    private final String monthString;
-    private final int year;
+    private final String annual;
     private final String conferencePath;
+    private final String issueDate;
     private final Pattern jstPattern;
     private final String language;
+    private final Logger logger = Logger.getLogger(SciCrawler.class.getName());
+    private final String monthString;
     private final Pattern referencePattern;
+    private final int year;
 
     private final Books books = new Books();
     private final Speakers speakers = new Speakers();
     // private final Verses verses = new Verses();
 
+    private final Map<String, int[]> pageRanges = new HashMap<>();
     private final List<String> sessions = new ArrayList<>();
     private final List<String> talkIds = new ArrayList<>();
     private final Map<String, String> talkHrefs = new HashMap<>();
+    private final Map<String, Integer> talkSequence = new HashMap<>();
+    private final Map<String, Integer> talkSessionNo = new HashMap<>();
     private final Map<String, String> talkSpeakers = new HashMap<>();
+    private final Map<String, Integer> talkSpeakerIds = new HashMap<>();
+    private final Map<String, String> talkSpeakerInitials = new HashMap<>();
     private final Map<String, String> talkTitles = new HashMap<>();
 
     // Initialization
@@ -103,6 +110,9 @@ public class SciCrawler {
                 conferencePath = year + (month == 4 ? "apr" : "oct");
                 break;
         }
+
+        annual = month < 9 ? "A" : "S";
+        issueDate = year + "-" + monthString + "-01";
 
         computeLikelyConferenceDates(year, month);
 
@@ -232,101 +242,51 @@ public class SciCrawler {
         SciCrawler crawler = new SciCrawler(year, month, language);
 
         crawler.getTableOfContents();
-        crawler.crawlTalks();
+        crawler.readPageRanges();
+        List<Link> scriptureCitations = crawler.crawlTalks();
         crawler.checkSpeakers();
+        crawler.writeCitations(scriptureCitations);
         crawler.showTables();
+        crawler.updateDatabase();
 
-        Database database = new Database();
-
-        int maxId = database.getMaxCitationId();
-
-        logger.log(Level.INFO, () -> "maxId = " + maxId);
-
+        /*
         // NEEDSWORK: get media URLs
-        // NEEDSWORK: get start and end page numbers
-        // conference:
-        //      ID: 157
-        //      Description: '2020 Semi-Annual General Conference'
-        //      Abbr: '2020 Semi-Annual'
-        //      Year: 2020
-        //      Annual: 'S' (or 'A')
-        //      IssueDate: '2020-11-01')
-        // conf_session:
-        //      ID: 1031
-        //      Description: 'Saturday Morning Session, 3 October 2020'
-        //      Abbr: 'Saturday Morning'
-        //      Date: '2020-10-03'
-        //      Sequence: 1
-        //      ConferenceID: 157
-        // talk:
-        //      TalkID: 8460
-        //      Corpus: 'G'
-        //      TalkURL: 'https://www.churchofjesuschrist.org/study/liahona/2021/05/11nelson?lang=eng'
-        //      Title: 'Moving Forward'
-        //      Date: '2020-10-03'
-        //      SpeakerID: 1188
-        //      ListenURL: 'https://www.churchofjesuschrist.org/study/general-conference/2020/11/11nelson?lang=eng'
-        //      WatchURL: 'https://www.churchofjesuschrist.org/study/general-conference/2020/11/11nelson?lang=eng'
-        //      polymorphic_ctype_id: 31
-        //      talkcol: NULL
-        // INSERT INTO conference_talk VALUES (8460, 1031, 6, 7, 1, 8460);
-        //
         // citation:
-        // +------------+-------------+------+-----+---------+----------------+
-        // | Field      | Type        | Null | Key | Default | Extra          |
-        // +------------+-------------+------+-----+---------+----------------+
-        // | ID         | int         | NO   | PRI | NULL    | auto_increment |
-        // | TalkID     | int         | NO   | MUL | NULL    |                |
-        // | BookID     | int         | NO   | MUL | NULL    |                |
-        // | Chapter    | smallint    | YES  | MUL | NULL    |                | 
-        // | Verses     | varchar(80) | YES  |     | NULL    |                | 
-        // | Flag       | char(1)     | YES  |     | NULL    |                |
-        // | PageColumn | varchar(10) | NO   |     | NULL    |                | 
-        // | MinVerse   | int         | YES  |     | 0       |                | 
-        // | MaxVerse   | int         | YES  |     | 0       |                |
-        // +------------+-------------+------+-----+---------+----------------+
-        //
-        // scripture:
-        // +---------+----------+------+-----+---------+----------------+
-        // | Field   | Type     | Null | Key | Default | Extra          |
-        // +---------+----------+------+-----+---------+----------------+
-        // | ID      | int      | NO   | PRI | NULL    | auto_increment |
-        // | BookID  | int      | NO   | MUL | NULL    |                |
-        // | Chapter | smallint | NO   | MUL | 0       |                |
-        // | Verse   | smallint | NO   | MUL | 0       |                |
-        // | Flag    | char(1)  | NO   |     |         |                |
-        // | Text    | text     | NO   |     | NULL    |                |
-        // +---------+----------+------+-----+---------+----------------+
+        //  ID
+        //  TalkID
+        //  BookID
+        //  Chapter
+        //  Verses
+        //  Flag
+        //  PageColumn
+        //  MinVerse
+        //  MaxVerse
         //
         // speaker:
-        // +------------+-------------+------+-----+---------+----------------+
-        // | Field      | Type        | Null | Key | Default | Extra          |
-        // +------------+-------------+------+-----+---------+----------------+
-        // | ID         | int         | NO   | PRI | NULL    | auto_increment |
-        // | GivenNames | varchar(80) | NO   |     |         |                |
-        // | LastNames  | varchar(80) | NO   | MUL |         |                |
-        // | Abbr       | varchar(5)  | YES  | MUL | NULL    |                |
-        // | Info       | varchar(10) | YES  |     | NULL    |                |
-        // | NameSort   | varchar(80) | YES  | MUL | NULL    |                |
-        // +------------+-------------+------+-----+---------+----------------+
-        //
-        }
-        
-        private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+        //  ID
+        //  GivenNames
+        //  LastNames
+        //  Abbr
+        //  Info
+        //  NameSort
+        */
+    }
+
+    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
         String[] tags = {"scriptures/bd", "scriptures/gs", "scriptures/tg"};
-        
+
         for (String tag : tags) {
             if (href.contains(tag)) {
                 return;
             }
         }
-        
+
         Link link = new Link(talkId, href, text);
-        
+
         link.addParsedToList(links);
-        }
-        
-        private void checkSpeakers() {
+    }
+    
+    private void checkSpeakers() {
         talkSpeakers.entrySet().forEach(entry -> {
             JSONObject speaker = speakers.matchingSpeaker(entry.getValue());
         
@@ -335,9 +295,16 @@ public class SciCrawler {
                 speakers.addSpeaker(entry.getValue());
             }
         });
-        }
-        
-        private void computeLikelyConferenceDates(int year, int month) {
+
+        talkSpeakers.keySet().forEach(key -> {
+            JSONObject speaker = speakers.matchingSpeaker(talkSpeakers.get(key));
+
+            talkSpeakerIds.put(key, speaker.getInt("id"));
+            talkSpeakerInitials.put(key, speaker.getString("abbr"));
+        });
+    }
+    
+    private void computeLikelyConferenceDates(int year, int month) {
         sundayDate = new GregorianCalendar(year, month - 1, 1);
         
         int dayOfWeek = sundayDate.get(Calendar.DAY_OF_WEEK);
@@ -348,9 +315,9 @@ public class SciCrawler {
         } else {
             saturdayDate = new GregorianCalendar(year, month - 2, month == 4 ? 31 : 30);
         }
-        }
-        
-        private void crawlTalks() {
+    }
+    
+    private List<Link> crawlTalks() {
         List<Link> scriptureLinks = new ArrayList<>();
         
         File languageSubfolder = new File(conferencePath + PATH_SEPARATOR + language);
@@ -389,25 +356,18 @@ public class SciCrawler {
         
             writeHtmlContent(talkId, talkJson);
         });
-        
-        for (int i = 0; i < scriptureLinks.size(); i++) {
-            Link link = scriptureLinks.get(i);
-            final int index = i + 1;
-        
-            logger.log(Level.INFO, () -> index + "\t" + link.talkId + "\t" + link.href
-                    + "\t" + link.text + "\t" + link.book + "\t" + link.chapter
-                    + "\t" + link.verses + "\t" + link.isJst);
-        }
+
+        return scriptureLinks;
     }
-        
+
     private String encodeSpecialCharacters(String text) {
-    return text
-            .replace("“", "&#201C;")
-            .replace("”", "&#201D;")
-            .replace("’", "&#2019;")
-            .replace("—", "&#2014;")
-            .replace("…", "&#2026;")
-            .replace(NDASH, "&#2013;");
+        return text
+                .replace("“", "&#201C;")
+                .replace("”", "&#201D;")
+                .replace("’", "&#2019;")
+                .replace("—", "&#2014;")
+                .replace("…", "&#2026;")
+                .replace(NDASH, "&#2013;");
     }
     
     private void extractJstLinks(String content, String talkId, List<Link> links) {
@@ -498,6 +458,8 @@ public class SciCrawler {
         talkHrefs.put(itemId, itemHref);
         talkTitles.put(itemId, itemTitle);
         talkSpeakers.put(itemId, itemSpeaker);
+        talkSequence.put(itemId, talkNumber);
+        talkSessionNo.put(itemId, sessionNumber);
         
         final int talkNumberToLog = talkNumber;
         logger.log(Level.INFO, () -> itemId
@@ -627,6 +589,14 @@ public class SciCrawler {
         return "general-conference";
     }
 
+    private String monthStringForYearMonth(int year, String month) {
+        if (year <= 2020) {
+            return month;
+        }
+
+        return month.equals("11") ? "10" : "04";
+    }
+
     private int parseSessionItems(String sessionItems, int sessionNumber, int talkNumber) {
         String itemParser = "<li>\\s*<a" + CLASS_PARSER + "item"
                 + END_CLASS_PARSER
@@ -684,35 +654,41 @@ public class SciCrawler {
         }
     }
 
+    private void readPageRanges() {
+        String maxVerseData = FileUtils.stringFromFile(new File(conferencePath + PATH_SEPARATOR + "pages.txt"));
+        String[] lines = maxVerseData.split("\n");
+
+        for (String line : lines) {
+            String[] columns = line.split("\t");
+
+            if (columns.length == 3) {
+                String talkId = columns[0];
+                int startPage = Integer.parseInt(columns[1]);
+                int endPage = Integer.parseInt(columns[2]);
+                int[] pageRange = new int[] { startPage, endPage };
+
+                pageRanges.put(talkId, pageRange);
+            }
+        }
+    }
+
     private void showTables() {
         talkIds.forEach(talkId -> {
+            int[] pageRange = pageRanges.get(talkId);
+
             logger.log(Level.INFO, () -> talkId + "|" + talkHrefs.get(talkId) + "|" + talkTitles.get(talkId) + "|"
-                    + talkSpeakers.get(talkId));
+                    + talkSpeakers.get(talkId) + "|" + pageRange[0] + "|" + pageRange[1]);
         });
 
-        sessions.forEach(session -> {
-            logger.log(Level.INFO, session);
-        });
+        sessions.forEach(session -> logger.log(Level.INFO, session));
 
         logger.log(Level.INFO, () -> "Saturday: " + year + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
                 + saturdayDate.get(Calendar.DAY_OF_MONTH));
         logger.log(Level.INFO, () -> "Sunday: " + year + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
                 + sundayDate.get(Calendar.DAY_OF_MONTH));
 
-        // for (int yearValue = 2010; yearValue <= 2022; yearValue++) {
-        //     final int y = yearValue;
-
-        //     computeLikelyConferenceDates(yearValue, 4);
-        //     logger.log(Level.INFO, () -> "Saturday: " + y + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
-        //             + saturdayDate.get(Calendar.DAY_OF_MONTH));
-        //     logger.log(Level.INFO, () -> "Sunday: " + y + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
-        //             + sundayDate.get(Calendar.DAY_OF_MONTH));
-        //     computeLikelyConferenceDates(yearValue, 10);
-        //     logger.log(Level.INFO, () -> "Saturday: " + y + "-" + (saturdayDate.get(Calendar.MONTH) + 1) + "-"
-        //             + saturdayDate.get(Calendar.DAY_OF_MONTH));
-        //     logger.log(Level.INFO, () -> "Sunday: " + y + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
-        //             + sundayDate.get(Calendar.DAY_OF_MONTH));
-        // }
+        logger.log(Level.INFO, () -> year + (annual.equals("A") ? " Annual" : "Semi-Annual") + " General Conference"
+                + ", " + issueDate);
     }
 
     private List<String> sortedKeys(JSONObject footnotes) {
@@ -826,14 +802,6 @@ public class SciCrawler {
         );
     }
 
-    private String monthStringForYearMonth(int year, String month) {
-        if (year <= 2020) {
-            return month;
-        }
-
-        return month.equals("11") ? "10" : "04";
-    }
-
     private String talkUrl(String talkId, String language) {
         return URL_BASE + "/study/api/v3/language-pages/type/content?lang="
                 + language + "&uri=%2F"
@@ -841,6 +809,13 @@ public class SciCrawler {
                 + "%2F" + year + "%2F"
                 + monthStringForYearMonth(year, monthString)
                 + "%2F" + talkId;
+    }
+
+    private void updateDatabase() {
+        Database database = new Database();
+
+        database.updateMetaData(false, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
+                talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo);
     }
 
     private String urlContent(String url) {
@@ -872,6 +847,29 @@ public class SciCrawler {
 
     private String urlForConferenceContents() {
         return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=eng";
+    }
+
+    private void writeCitations(List<Link> scriptureLinks) {
+        StringBuilder citations = new StringBuilder();
+
+        for (int i = 0; i < scriptureLinks.size(); i++) {
+            Link link = scriptureLinks.get(i);
+            final int index = i + 1;
+            int ix1 = link.href.indexOf("/", 18);
+            int ix2 = link.href.indexOf("?", ix1);
+
+            citations.append(link.href.substring(ix1 + 1, ix2));
+            citations.append("\t");
+            citations.append(talkSpeakerInitials.get(link.talkId));
+            citations.append("\t");
+            citations.append(pageRanges.get(link.talkId)[1]);
+            citations.append("\n");
+
+            logger.log(Level.INFO, () -> index + "\t" + link.talkId + "\t" + link.href + "\t" + link.text + "\t"
+                    + link.book + "\t" + link.chapter + "\t" + link.verses + "\t" + link.isJst);
+        }
+
+        FileUtils.writeStringToFile(citations.toString(), new File(conferencePath + PATH_SEPARATOR + "citations.txt"));
     }
 
     private void writeHtmlContent(String talkId, JSONObject talkJson) {

@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.stream.Stream;
 
 public class FileUtils {
@@ -20,7 +22,7 @@ public class FileUtils {
                 StandardCharsets.UTF_8)) {
             stream.forEach(s -> contentBuilder.append(s).append("\n"));
         } catch (IOException e) {
-            e.printStackTrace(System.err);
+            Logger.getLogger(FileUtils.class.getName()).log(Level.SEVERE, () -> "Unable to read file: " + e);
         }
 
         return contentBuilder.toString();
@@ -32,7 +34,7 @@ public class FileUtils {
                 stream.write(content.getBytes(StandardCharsets.UTF_8));
             }
         } catch (IOException e) {
-            e.printStackTrace(System.err);
+            Logger.getLogger(FileUtils.class.getName()).log(Level.SEVERE, () -> "Unable to write file: " + e);
         }
     }
 }
