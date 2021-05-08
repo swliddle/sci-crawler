@@ -7,11 +7,11 @@ public class StringUtils {
 
     public static String decodedEntities(String string) {
         return string
-                .replaceAll("&aacute;", "á")
-                .replaceAll("&eacute;", "é")
-                .replaceAll("&iacute;", "í")
-                .replaceAll("&oacute;", "ó")
-                .replaceAll("&uacute;", "ú")
-                .replaceAll("&ntilde;", "ñ");
+                .replace("&aacute;", "á")
+                .replace("&eacute;", "é")
+                .replace("&iacute;", "í")
+                .replace("&oacute;", "ó")
+                .replace("&uacute;", "ú")
+                .replace("&ntilde;", "ñ");
     }
 }

@@ -15,13 +15,14 @@ import org.json.JSONObject;
 
 public class Speakers {
 
+    public static final String KEY_ABBR = "abbr";
+    public static final String KEY_ID = "id";
+    public static final String KEY_GIVENNAMES = "givenNames";
+    public static final String KEY_LASTNAMES = "lastNames";
+    public static final String KEY_SUFFIX = "suffix";
+    public static final String KEY_COLLISION = "collision";
+    
     private static final String SPEAKERS_FILE = "speakers.json";
-    private static final String KEY_ABBR = "abbr";
-    private static final String KEY_ID = "id";
-    private static final String KEY_GIVENNAMES = "givenNames";
-    private static final String KEY_LASTNAMES = "lastNames";
-    private static final String KEY_SUFFIX = "suffix";
-    private static final String KEY_COLLISION = "collision";
     private static final String[] SUFFIXES = {"Jr.", "Sr.", "I", "II", "III", "IV", "V"};
 
     private final Logger logger = Logger.getLogger(Speakers.class.getName());
@@ -125,25 +126,6 @@ public class Speakers {
         return speaker;
     }
 
-    private String dump(JSONObject speaker) {
-        return "speaker {" + speaker.getInt(KEY_ID)
-                + ", " + speaker.getString(KEY_ABBR)
-                + ", " + speakerNameLastFirst(speaker)
-                + " " + speaker.getBoolean(KEY_COLLISION) + "}";
-    }
-
-    public JSONObject exactlyMatchingSpeaker(String name) {
-        for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
-            JSONObject speaker = (JSONObject) it.next();
-
-            if (speakerFullName(speaker).equalsIgnoreCase(name)) {
-                return speaker;
-            }
-        }
-
-        return null;
-    }
-
     private boolean checkMatches(String[] name1Parts, String[] name2Parts) {
         boolean couldMatch = true;
 
@@ -163,6 +145,29 @@ public class Speakers {
         }
 
         return couldMatch;
+    }
+
+    private String dump(JSONObject speaker) {
+        return "speaker {" + speaker.getInt(KEY_ID)
+                + ", " + speaker.getString(KEY_ABBR)
+                + ", " + speakerNameLastFirst(speaker)
+                + " " + speaker.getBoolean(KEY_COLLISION) + "}";
+    }
+
+    public JSONObject exactlyMatchingSpeaker(String name) {
+        for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
+            JSONObject speaker = (JSONObject) it.next();
+
+            if (speakerFullName(speaker).equalsIgnoreCase(name)) {
+                return speaker;
+            }
+        }
+
+        return null;
+    }
+
+    public Map<Integer, JSONObject> getSpeakersById() {
+        return speakersById;
     }
 
     public JSONObject initialMatchingSpeaker(String name) {

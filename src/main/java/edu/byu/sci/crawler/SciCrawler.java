@@ -816,6 +816,7 @@ public class SciCrawler {
 
         database.updateMetaData(false, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
                 talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo);
+        database.updateSpeakers(false, speakers);
     }
 
     private String urlContent(String url) {

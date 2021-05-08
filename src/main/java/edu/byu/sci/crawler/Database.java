@@ -16,6 +16,8 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import org.json.JSONObject;
+
 public class Database {
     private class DatabaseException extends RuntimeException {
         public DatabaseException(String description) {
@@ -26,6 +28,8 @@ public class Database {
     private static final Map<String, String> sConferenceDescription = new HashMap<>();
     private static final Map<String, String> sConferenceAbbreviation = new HashMap<>();
     private static final Map<String, String> sSessionAbbreviation = new HashMap<>();
+
+    private static final String INSERT_INTO = "INSERT INTO ";
 
     private static final int POLYMORPHIC_CTYPE_ID_EN = 31;
     private static final int POLYMORPHIC_CTYPE_ID_ES = 62;
@@ -41,6 +45,7 @@ public class Database {
     private static final String TABLE_CONFERENCE = "conference";
     private static final String TABLE_CONFERENCE_SESSION = "conf_session";
     private static final String TABLE_CONFERENCE_TALK = "conference_talk";
+    private static final String TABLE_SPEAKER = "speaker";
     private static final String TABLE_TALK = "talk";
 
     private Connection conn = null;
@@ -278,7 +283,7 @@ public class Database {
 
                 try {
                     stmt = conn.prepareStatement(
-                            "INSERT INTO " + tableForLanguage(TABLE_CONFERENCE, language)
+                            INSERT_INTO + tableForLanguage(TABLE_CONFERENCE, language)
                                     + " (Description, Abbr, Year, Annual, IssueDate) " + "VALUES (?, ?, ?, ?, ?)",
                             Statement.RETURN_GENERATED_KEYS);
                     stmt.setString(1, description);
@@ -345,7 +350,7 @@ public class Database {
 
                 try {
                     stmt = conn.prepareStatement(
-                            "INSERT INTO " + tableForLanguage(TABLE_CONFERENCE_SESSION, language)
+                            INSERT_INTO + tableForLanguage(TABLE_CONFERENCE_SESSION, language)
                                     + " (Description, Abbr, Date, Sequence, ConferenceID) " + "VALUES (?, ?, ?, ?, ?)",
                             Statement.RETURN_GENERATED_KEYS);
                     stmt.setString(1, description);
@@ -404,6 +409,30 @@ public class Database {
         }
     }
 
+    public void updateSpeakers(boolean writeToDatabase, Speakers speakers) {
+        Statement stmt = null;
+        ResultSet rs = null;
+        Map<Integer, String> databaseSpeakers = new HashMap<>();
+
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery("SELECT ID, Abbr FROM " + TABLE_SPEAKER);
+
+            while (rs.next()) {
+                int speakerId = rs.getInt(1);
+                String speakerAbbr = rs.getString(2);
+
+                databaseSpeakers.put(speakerId, speakerAbbr);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        writeSpeakers(writeToDatabase, speakers, databaseSpeakers);
+    }
+
     private void updateTalks(boolean writeToDatabase, List<String> talkIds, Map<String, String> talkHrefs,
             Map<String, Integer> talkSpeakerIds, Map<String, String> talkTitles, Map<String, int[]> pageRanges,
             Map<String, Integer> talkSequence, Map<String, Integer> talkSessionNo, String language) {
@@ -434,7 +463,7 @@ public class Database {
 
                 try {
                     stmt = conn.prepareStatement(
-                            "INSERT INTO " + tableForLanguage(TABLE_TALK, language)
+                            INSERT_INTO + tableForLanguage(TABLE_TALK, language)
                                     + " (Corpus, TalkURL, Title, Date, SpeakerID, ListenURL, WatchURL, polymorphic_ctype_id) "
                                     + "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
                             Statement.RETURN_GENERATED_KEYS);
@@ -496,5 +525,46 @@ public class Database {
         logger.log(Level.INFO, () -> "Talk: " + id + "; " + href + "; " + title + "; "
                 + date + "; " + speakerId + "; " + sessionId + "; "
                 + pageRange[0] + "-" + pageRange[1] + "; " + sequence);
+    }
+
+    private void writeSpeakers(boolean writeToDatabase, Speakers speakers, Map<Integer, String> databaseSpeakers) {
+        Map<Integer, JSONObject> speakersById = speakers.getSpeakersById();
+
+        speakersById.keySet().forEach(speakerId -> {
+            if (!databaseSpeakers.containsKey(speakerId)) {
+                JSONObject speaker = speakersById.get(speakerId);
+
+                if (writeToDatabase) {
+                    PreparedStatement stmt = null;
+                    ResultSet rs = null;
+
+                    logger.log(Level.INFO, "Inserting a speaker record");
+
+                    try {
+                        stmt = conn.prepareStatement(INSERT_INTO + TABLE_SPEAKER
+                                + " (ID, GivenNames, LastNames, Abbr, Info, NameSort) " + "VALUES (?, ?, ?, ?, ?, ?)");
+                        stmt.setInt(1, speaker.getInt(Speakers.KEY_ID));
+                        stmt.setString(2, speaker.getString(Speakers.KEY_GIVENNAMES));
+                        stmt.setString(3, speaker.getString(Speakers.KEY_LASTNAMES));
+                        stmt.setString(4, speaker.getString(Speakers.KEY_ABBR));
+                        stmt.setString(6, StringUtils.decodedEntities(speaker.getString(Speakers.KEY_LASTNAMES) + ", "
+                                + speaker.getString(Speakers.KEY_GIVENNAMES)));
+
+                        if (speaker.getString(Speakers.KEY_SUFFIX).length() <= 0) {
+                            stmt.setString(5, speaker.getString(Speakers.KEY_SUFFIX));
+                        }
+
+                        stmt.execute();
+                    } catch (SQLException e) {
+                        logError(e);
+                    } finally {
+                        cleanupStatement(stmt, rs);
+                    }
+                } else {
+                    logger.log(Level.INFO, () -> "Need to create speaker record for "
+                            + speaker.getString(Speakers.KEY_LASTNAMES) + ", " + speaker.getString(Speakers.KEY_GIVENNAMES));
+                }
+            }
+        });
     }
 }
