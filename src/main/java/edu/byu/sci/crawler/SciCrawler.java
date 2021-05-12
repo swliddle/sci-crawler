@@ -6,7 +6,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
-import java.util.Comparator;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.List;
@@ -26,21 +25,26 @@ import org.json.JSONObject;
 public class SciCrawler {
 
     // Constants
+    public static final String HYPHEN = "-";
+    public static final String NDASH = "–";
+    public static final String PATH_SEPARATOR = "/";
+    public static final String URL_SCRIPTURE_PATH = "/study/scriptures/";
+
     private static final String CLASS_PARSER = "\\s+class=\"?";
     private static final String END_CLASS_PARSER = "[^\">]*\"?\\s*";
     private static final String END_TAG_PARSER = "[^>]*>";
+    private static final String FOOTNOTES = "footnotes";
 
-    private static final String FOOTNOTES="footnotes";
-
-    private static final String HYPHEN = "-";
-    private static final String NDASH = "–";
-    private static final String PATH_SEPARATOR = "/";
+    private static final int SCRIPTURE_REFERENCE_HREF = 1;
+    // private static final int SCRIPTURE_REFERENCE_BOOK = 2;
+    // private static final int SCRIPTURE_REFERENCE_CHAPTER = 3;
+    // private static final int SCRIPTURE_REFERENCE_VERSES = 4;
+    // private static final int SCRIPTURE_REFERENCE_TARGET = 5;
+    private static final int SCRIPTURE_REFERENCE_TEXT = 6;
 
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
     private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
     private static final String URL_LIAHONA = URL_BASE + "/study/liahona";
-
-    private static final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
 
     private static final String A_ACCENT = "(?:a|á|&#x[eE]1;|&#aacute;)";
     private static final String CAP_E_ACCENT = "(?:E|É|&#x[cC]9;|&#Eacute;)";
@@ -50,22 +54,23 @@ public class SciCrawler {
     private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
     private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
 
-
     // Properties
+    private static final Logger logger = Logger.getLogger(SciCrawler.class.getName());
+
     private GregorianCalendar saturdayDate;
     private GregorianCalendar sundayDate;
+    private int maxCitationId;
 
     private final String annual;
-    private final String conferencePath;
     private final String issueDate;
     private final Pattern jstPattern;
     private final String language;
-    private final Logger logger = Logger.getLogger(SciCrawler.class.getName());
     private final String monthString;
+    private final Paths paths;
     private final Pattern referencePattern;
+    private final Pattern scriptureReferencePattern;
     private final int year;
 
-    private final Books books = new Books();
     private final Speakers speakers = new Speakers();
     // private final Verses verses = new Verses();
 
@@ -84,6 +89,7 @@ public class SciCrawler {
     public SciCrawler(int year, int month, String language) {
         this.year = year;
         this.language = language;
+        String conferencePath;
 
         // logger.log(Level.INFO, () -> "Count of verses: " + verses.count());
 
@@ -115,6 +121,8 @@ public class SciCrawler {
         issueDate = year + "-" + monthString + "-01";
 
         computeLikelyConferenceDates(year, month);
+
+        paths = new Paths(conferencePath, language);
 
         String chapter = "([0-9]+)";
         String verses = "([0-9]+((?:[-,])[0-9]+)*)";
@@ -152,67 +160,39 @@ public class SciCrawler {
                     + verses,
                     Pattern.MULTILINE | Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ
             );
-            referencePattern = Pattern.compile(
-                    "\\/study\\/scriptures\\/"
-                    + "(?:ot|nt|bofm|dc-testament|pgp|jst)\\/"
-                    + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
-                    + "|2-sam|1-kgs|2-kgs|1-chr|2-chr|ezra|neh|esth|job|ps"
-                    + "|prov|eccl|song|isa|jer|lam|ezek|dan|hosea|joel|amos"
-                    + "|obad|jonah|micah|nahum|hab|zeph|hag|zech|mal|matt"
-                    + "|mark|luke|john|acts|rom|1-cor|2-cor|gal|eph|philip"
-                    + "|col|1-thes|2-thes|1-tim|2-tim|titus|philem|heb|james"
-                    + "|1-pet|2-pet|1-jn|2-jn|3-jn|jude|rev|bofm-title"
-                    + "|introduction|three|eight|1-ne|2-ne|jacob|enos|jarom"
-                    + "|omni|w-of-m|mosiah|alma|hel|3-ne|4-ne|morm|ether"
-                    + "|moro|dc|od|moses|abr|js-m|js-h|fac-1|fac-2|fac-3|a-of-f))"
-                    + "(?:(?:\\/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
-                    + "|study_intro[0-9])?)?"
-                    + "[?]lang=" + language + "(#p[A-Za-z0-9_-]+)?"
-            );
         } else {
-            String bibleBookName
-                    = "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua"
-                    + "|Judges|Ruth"
-                    + "|(?:[12])" + SPACE
-                    + "(?:Samuel|Kings|Chronicles|Corinthians"
-                    + "|Thessalonians|Timothy|Peter|John)"
-                    + "|3" + SPACE + "John"
-                    + "|Ezra|Nehemiah|Esther|Job|Psalms?"
-                    + "|Proverbs|Ecclesiastes"
-                    + "|Song" + SPACE + "of" + SPACE + "Solomon|Isaiah"
-                    + "|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos"
+            String bibleBookName = "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua" + "|Judges|Ruth" + "|(?:[12])"
+                    + SPACE + "(?:Samuel|Kings|Chronicles|Corinthians" + "|Thessalonians|Timothy|Peter|John)" + "|3"
+                    + SPACE + "John" + "|Ezra|Nehemiah|Esther|Job|Psalms?" + "|Proverbs|Ecclesiastes" + "|Song" + SPACE
+                    + "of" + SPACE + "Solomon|Isaiah" + "|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos"
                     + "|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai"
                     + "|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans"
                     + "|Galatians|Ephesians|Philippians|Colossians|Titus"
                     + "|Philememon|Hebrews|James|Jude|Revelation)";
 
-            jstPattern = Pattern.compile(
-                    "Joseph" + SPACE + "Smith" + SPACE + "Translation," + SPACE
-                    + bibleBookName
-                    + SPACE
-                    + chapter
-                    + ":"
-                    + verses,
-                    Pattern.MULTILINE | Pattern.CASE_INSENSITIVE
-            );
-            referencePattern = Pattern.compile(
-                    "\\/study\\/scriptures\\/"
-                    + "(?:ot|nt|bofm|dc-testament|pgp|jst)\\/"
-                    + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
-                    + "|2-sam|1-kgs|2-kgs|1-chr|2-chr|ezra|neh|esth|job|ps"
-                    + "|prov|eccl|song|isa|jer|lam|ezek|dan|hosea|joel|amos"
-                    + "|obad|jonah|micah|nahum|hab|zeph|hag|zech|mal|matt"
-                    + "|mark|luke|john|acts|rom|1-cor|2-cor|gal|eph|philip"
-                    + "|col|1-thes|2-thes|1-tim|2-tim|titus|philem|heb|james"
-                    + "|1-pet|2-pet|1-jn|2-jn|3-jn|jude|rev|bofm-title"
-                    + "|introduction|three|eight|1-ne|2-ne|jacob|enos|jarom"
-                    + "|omni|w-of-m|mosiah|alma|hel|3-ne|4-ne|morm|ether"
-                    + "|moro|dc|od|moses|abr|js-m|js-h|fac-1|fac-2|fac-3|a-of-f))"
-                    + "(?:(?:\\/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
-                    + "|study_intro[0-9])?)?"
-                    + "[?]lang=" + language + "(#p[A-Za-z0-9_-]+)?"
-            );
+            jstPattern = Pattern.compile("Joseph" + SPACE + "Smith" + SPACE + "Translation," + SPACE + bibleBookName
+                    + SPACE + chapter + ":" + verses, Pattern.MULTILINE | Pattern.CASE_INSENSITIVE);
         }
+
+        String hrefPattern = URL_SCRIPTURE_PATH
+                + "(?:ot|nt|bofm|dc-testament|pgp|jst)/"
+                + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
+                + "|2-sam|1-kgs|2-kgs|1-chr|2-chr|ezra|neh|esth|job|ps"
+                + "|prov|eccl|song|isa|jer|lam|ezek|dan|hosea|joel|amos"
+                + "|obad|jonah|micah|nahum|hab|zeph|hag|zech|mal|matt"
+                + "|mark|luke|john|acts|rom|1-cor|2-cor|gal|eph|philip"
+                + "|col|1-thes|2-thes|1-tim|2-tim|titus|philem|heb|james"
+                + "|1-pet|2-pet|1-jn|2-jn|3-jn|jude|rev|bofm-title"
+                + "|introduction|three|eight|1-ne|2-ne|jacob|enos|jarom"
+                + "|omni|w-of-m|mosiah|alma|hel|3-ne|4-ne|morm|ether"
+                + "|moro|dc|od|moses|abr|js-m|js-h|fac-1|fac-2|fac-3|a-of-f))"
+                + "(?:(?:/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
+                + "|study_intro[0-9])?)?" + "[?]lang=" + language
+                + "(#p[A-Za-z0-9_-]+)?";
+
+        referencePattern = Pattern.compile(hrefPattern);
+        scriptureReferencePattern = Pattern
+                .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>([^<]*)</a>");
     }
 
     public static void main(String[] args) {
@@ -245,34 +225,30 @@ public class SciCrawler {
         crawler.readPageRanges();
         List<Link> scriptureCitations = crawler.crawlTalks();
         crawler.checkSpeakers();
-        crawler.writeCitations(scriptureCitations);
+        crawler.writeCitationsToFile(scriptureCitations);
         crawler.showTables();
-        crawler.updateDatabase();
+        crawler.processUpdatedCitations(scriptureCitations);
+
+        Database database = crawler.updateDatabase();
+        crawler.rewriteUrls(scriptureCitations, database);
 
         /*
         // NEEDSWORK: get media URLs
         // citation:
-        //  ID
-        //  TalkID
-        //  BookID
-        //  Chapter
-        //  Verses
-        //  Flag
-        //  PageColumn
-        //  MinVerse
-        //  MaxVerse
-        //
-        // speaker:
-        //  ID
-        //  GivenNames
-        //  LastNames
-        //  Abbr
-        //  Info
-        //  NameSort
+        //  ID TalkID BookID Chapter Verses Flag PageColumn MinVerse MaxVerse
         */
     }
 
-    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+    /*
+     * 1. Crawl talks.
+     * 2. Extract citations.
+     * 3. Manually verify/edit citations.
+     * 4. Edit JSON to add new citations.
+     * 5. Read update list and generate rewritten content.
+     * 6. Update database (if flag set to write).
+     */
+
+     private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
         String[] tags = {"scriptures/bd", "scriptures/gs", "scriptures/tg"};
 
         for (String tag : tags) {
@@ -283,7 +259,7 @@ public class SciCrawler {
 
         Link link = new Link(talkId, href, text);
 
-        link.addParsedToList(links);
+        link.addParsedToList(links, referencePattern);
     }
     
     private void checkSpeakers() {
@@ -303,7 +279,31 @@ public class SciCrawler {
             talkSpeakerInitials.put(key, speaker.getString("abbr"));
         });
     }
-    
+
+    private String citationLink(LinkEntry entry, int citationId) {
+        return "<span class=\"citation\" id=\"" + citationId + "\"><a href=\"javascript:void(0)\" onclick=\"sx(this, "
+                + citationId + ")\">&nbsp;</a><a href=\"javascript:void(0)\" onclick=\"gs(" + citationId + ")\">"
+                + entry.text + "</a></span>";
+    }
+
+    private void collectMatch(List<LinkEntry> entries, String content, Pattern pattern, boolean isFootnote,
+            String footnoteKey) {
+        Matcher matcher = pattern.matcher(content);
+
+        while (matcher.find()) {
+            LinkEntry entry = new LinkEntry();
+
+            entry.startIndex = matcher.start();
+            entry.endIndex = matcher.end();
+            entry.href = matcher.group(SCRIPTURE_REFERENCE_HREF);
+            entry.text = matcher.group(SCRIPTURE_REFERENCE_TEXT);
+            entry.isFootnote = isFootnote;
+            entry.footnoteKey = footnoteKey;
+
+            entries.add(entry);
+        }
+    }
+
     private void computeLikelyConferenceDates(int year, int month) {
         sundayDate = new GregorianCalendar(year, month - 1, 1);
         
@@ -320,7 +320,7 @@ public class SciCrawler {
     private List<Link> crawlTalks() {
         List<Link> scriptureLinks = new ArrayList<>();
         
-        File languageSubfolder = new File(conferencePath + PATH_SEPARATOR + language);
+        File languageSubfolder = paths.languageDirectoryFile();
         
         if (!languageSubfolder.exists()) {
             languageSubfolder.mkdirs();
@@ -330,8 +330,7 @@ public class SciCrawler {
         talkIds.forEach(talkId -> {
             logger.log(Level.INFO, () -> "Get " + talkId);
         
-            File talkFile = new File(conferencePath + PATH_SEPARATOR + talkId + HYPHEN
-                    + language + ".json");
+            File talkFile = paths.jsonTalkFile(talkId);
             JSONObject talkJson;
         
             if (!talkFile.exists()) {
@@ -372,32 +371,21 @@ public class SciCrawler {
     
     private void extractJstLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = jstPattern.matcher(content);
-        Book bookFinder = new Book();
         
         while (matcher.find()) {
             String fullMatch = matcher.group(0);
             String book = matcher.group(1);
             String chapter = matcher.group(2);
             String verses = matcher.group(3);
-            String bookAbbr = bookFinder.abbreviationForBook(book);
-            String volume = bookFinder.volumeForBook(book);
+            String bookAbbr = BookFinder.sInstance.abbreviationForBook(book);
+            String volume = BookFinder.sInstance.volumeForBook(book);
         
             links.add(new Link(
-                    talkId, "/study/scriptures/" + volume + "/"
-                    + bookAbbr + "/" + chapter + "." + verses + "?lang="
-                    + language + "#p" + firstVerse(verses),
+                    talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
+                    + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + "?lang="
+                    + language + "#p" + Link.firstVerse(verses),
                     fullMatch, book, chapter, verses, true));
         }
-    }
-        
-    private String firstVerse(String verses) {
-        String[] parts = verses.split("[-,]");
-        
-        if (parts.length > 0) {
-            return parts[0];
-        }
-        
-        return verses;
     }
         
     private String extractMatch(String text, String regex) {
@@ -409,7 +397,7 @@ public class SciCrawler {
         
         return null;
     }
-        
+
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
         String[] keys = new String[footnotes.keySet().size()];
         
@@ -435,12 +423,12 @@ public class SciCrawler {
             extractJstLinks(footnote.getString("text"), talkId, links);
         }
     }
-    
+
     private void extractScriptureLinks(String content, String talkId, List<Link> links) {
-        Matcher matcher = Pattern.compile("<a\\s+class=\"scripture-ref\"\\s+href=\"([^\"]+)\"[^>]*>([^<]*)<").matcher(content);
+        Matcher matcher = scriptureReferencePattern.matcher(content);
         
         while (matcher.find()) {
-            addFilteredLink(links, talkId, matcher.group(1), matcher.group(2));
+            addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF), matcher.group(SCRIPTURE_REFERENCE_TEXT));
         }
     }
     
@@ -598,16 +586,11 @@ public class SciCrawler {
     }
 
     private int parseSessionItems(String sessionItems, int sessionNumber, int talkNumber) {
-        String itemParser = "<li>\\s*<a" + CLASS_PARSER + "item"
-                + END_CLASS_PARSER
-                + "href=\"([^\"]+)\""
-                + END_TAG_PARSER
-                + "\\s*<div" + CLASS_PARSER + "itemTitle" + END_CLASS_PARSER + END_TAG_PARSER
+        String itemParser = "<li>\\s*<a" + CLASS_PARSER + "item" + END_CLASS_PARSER + "href=\"([^\"]+)\""
+                + END_TAG_PARSER + "\\s*<div" + CLASS_PARSER + "itemTitle" + END_CLASS_PARSER + END_TAG_PARSER
                 + "(?:<span\\s+class=activeMarker[^>]*>\\s*<\\/span>)?"
-                + "\\s*<p>\\s*<span>\\s*([^<]*)\\s*<\\/span>\\s*<\\/p>\\s*"
-                + "<p" + CLASS_PARSER + "subtitle" + END_CLASS_PARSER + END_TAG_PARSER
-                + "\\s*([^<]*)\\s*<\\/p>"
-                + "\\s*<\\/div>\\s*<\\/a>\\s*<\\/li>";
+                + "\\s*<p>\\s*<span>\\s*([^<]*)\\s*<\\/span>\\s*<\\/p>\\s*" + "<p" + CLASS_PARSER + "subtitle"
+                + END_CLASS_PARSER + END_TAG_PARSER + "\\s*([^<]*)\\s*<\\/p>" + "\\s*<\\/div>\\s*<\\/a>\\s*<\\/li>";
 
         Matcher itemMatcher = Pattern.compile(itemParser).matcher(sessionItems);
 
@@ -627,19 +610,12 @@ public class SciCrawler {
     private void parseTalkSubitems(String subitems) {
         int sessionNumber = 0;
         int talkNumber = 0;
-        String subitemParser = "<li>\\s*<(?:a|span)" + CLASS_PARSER + "sectionTitle"
-                + END_CLASS_PARSER + END_TAG_PARSER
-                + "\\s*<div" + CLASS_PARSER + "itemTitle"
-                + END_CLASS_PARSER + END_TAG_PARSER
+        String subitemParser = "<li>\\s*<(?:a|span)" + CLASS_PARSER + "sectionTitle" + END_CLASS_PARSER + END_TAG_PARSER
+                + "\\s*<div" + CLASS_PARSER + "itemTitle" + END_CLASS_PARSER + END_TAG_PARSER
                 + "(?:<span\\s+class=activeMarker[^>]*>\\s*<\\/span>)?"
-                + "\\s*<p>\\s*<span>\\s*(.*?)\\s*<\\/span>\\s*<\\/p>\\s*"
-                + "\\s*<\\/div>\\s*<\\/(?:a|span)>\\s*"
-                + "(?:"
-                + "\\s*<ul" + CLASS_PARSER + "subItems" + END_CLASS_PARSER
-                + END_TAG_PARSER
-                + "\\s*(.*?)"
-                + "\\s*<\\/ul>"
-                + ")?\\s*<\\/li>";
+                + "\\s*<p>\\s*<span>\\s*(.*?)\\s*<\\/span>\\s*<\\/p>\\s*" + "\\s*<\\/div>\\s*<\\/(?:a|span)>\\s*"
+                + "(?:" + "\\s*<ul" + CLASS_PARSER + "subItems" + END_CLASS_PARSER + END_TAG_PARSER + "\\s*(.*?)"
+                + "\\s*<\\/ul>" + ")?\\s*<\\/li>";
         Matcher matcher = Pattern.compile(subitemParser, Pattern.DOTALL).matcher(subitems);
 
         while (matcher.find()) {
@@ -654,8 +630,62 @@ public class SciCrawler {
         }
     }
 
+    private void processUpdatedCitations(List<Link> citations) {
+        File citationsFile = paths.updatedCitationsFile();
+
+        if (citationsFile.exists()) {
+            String[] lines = Arrays.stream(FileUtils.stringFromFile(citationsFile).split("\n"))
+                    .filter(line -> !line.trim().startsWith("#")).toArray(String[]::new);
+
+            for (int i = 0; i < lines.length; i++) {
+                String[] fields = lines[i].split("\t");
+                Link link = citations.get(i);
+
+                if (fields[0].equalsIgnoreCase("DELETE")) {
+                    if (fields.length != 5 || !link.href.contains(fields[1])) {
+                        final int line = i + 1;
+                        logger.log(Level.SEVERE, () -> "Incorrect DELETE line at line " + line);
+                        return;
+                    }
+
+                    link.isDeleted = true;
+                } else if (fields[0].equalsIgnoreCase("ADD")) {
+                    if (fields.length != 6) {
+                        final int line = i + 1;
+                        logger.log(Level.SEVERE, () -> "Incorrect ADD line format at line " + line);
+                        return;
+                    }
+
+                    // Expect format ADD href initials page talkId text
+                    citations.add(i, new Link(fields[1], fields[3], fields[4], fields[5], language, referencePattern));
+                    logger.log(Level.INFO, () -> "Ensure you have edited talk " + fields[4] + " to insert link");
+                } else {
+                    if (fields.length != 4 || !link.href.contains(fields[0])) {
+                        final int line = i + 1;
+                        logger.log(Level.SEVERE, () -> "Incorrect line format at line " + line);
+                        return;
+                    }
+
+                    if (!link.href.contains(fields[0])) {
+                        final int line = i + 1;
+                        logger.log(Level.SEVERE, () -> "Misaligned input citation at line " + line);
+                        return;
+                    }
+
+                    link.page = Utils.integerValue(fields[2]);
+                }
+            }
+
+            if (lines.length != citations.size()) {
+                logger.log(Level.SEVERE, "Unexpected size for updated citations file");
+            }
+        } else {
+            logger.log(Level.INFO, () -> "Need updated citations file (" + paths.updatedCitationsFile() + ")");
+        }
+    }
+
     private void readPageRanges() {
-        String maxVerseData = FileUtils.stringFromFile(new File(conferencePath + PATH_SEPARATOR + "pages.txt"));
+        String maxVerseData = FileUtils.stringFromFile(paths.pagesFile());
         String[] lines = maxVerseData.split("\n");
 
         for (String line : lines) {
@@ -670,6 +700,98 @@ public class SciCrawler {
                 pageRanges.put(talkId, pageRange);
             }
         }
+    }
+
+    private void rewriteUrls(List<Link> citations, Database database) {
+        if (database != null) {
+            maxCitationId = database.getMaxCitationId() + 1;
+        } else {
+            maxCitationId = 100000;
+        }
+
+        File rewrittenDirFile = paths.rewrittenDirectoryFile();
+
+        if (!rewrittenDirFile.exists()) {
+            rewrittenDirFile.mkdirs();
+        }
+
+        for (String talkId : talkIds) {
+            File rewrittenTalkFile = paths.rewrittenTalkFile(talkId);
+            File talkFile = paths.jsonTalkFile(talkId);
+            JSONObject talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
+            Link[] talkCitations = citations.stream().filter(citation -> citation.talkId.equals(talkId))
+                    .toArray(Link[]::new);
+
+            FileUtils.writeStringToFile(talkHtmlContentForJson(talkId, talkJson, true, talkCitations),
+                    rewrittenTalkFile);
+        }
+    }
+
+    private String rewriteUrlsForTalkId(String talkId, StringBuilder body, JSONObject footnotes, Link[] citations) {
+        List<LinkEntry> entries = new ArrayList<>();
+        int citationCount = 0;
+
+        collectMatch(entries, body.toString(), scriptureReferencePattern, false, null);
+
+        if (footnotes != null) {
+            for (String key : sortedKeys(footnotes)) {
+                JSONObject footnote = footnotes.getJSONObject(key);
+
+                collectMatch(entries, footnote.getString("text"), scriptureReferencePattern, true, key);
+            }
+        }
+
+        if (entries.size() != citations.length) {
+            for (int i = 0; i < entries.size() && i < citations.length; i++) {
+                LinkEntry entry = entries.get(i);
+                Link link = citations[i];
+
+                if (!entry.href.equalsIgnoreCase(link.href)) {
+                    final int index = i;
+
+                    logger.log(Level.SEVERE, () -> "First mismatch at position " + index + " for " + entry.href);
+                    break;
+                }
+            }
+
+            logger.log(Level.SEVERE, () -> "Hyperlink list size doesn't match citations list size");
+            logger.log(Level.SEVERE, () -> "Correct this mismatch in " + talkId + " before proceeding");
+            System.exit(-1);
+        } else {
+            for (int i = entries.size() - 1; i >= 0; i--) {
+                LinkEntry entry = entries.get(i);
+                Link citation = citations[i];
+
+                if (entry.isFootnote && footnotes != null) {
+                    JSONObject footnote = footnotes.getJSONObject(entry.footnoteKey);
+                    StringBuilder footnoteText = new StringBuilder(footnote.getString("text"));
+
+                    footnote.put("text",
+                            footnoteText
+                                    .replace(entry.startIndex, entry.endIndex,
+                                            citation.isDeleted ? "" : citationLink(entry, maxCitationId + i))
+                                    .toString());
+                } else {
+                    body.replace(entry.startIndex, entry.endIndex,
+                            citation.isDeleted ? "" : citationLink(entry, maxCitationId + i));
+                }
+
+                if (!citation.isDeleted) {
+                    citationCount += 1;
+                }
+            }
+
+            maxCitationId += citationCount;
+        }
+
+        // NEEDSWORK: video and audio URLs are in the JSON source
+        // NEEDSWORK: footnotes from JSON are not substituted
+
+        if (footnotes != null) {
+            inlineFootnotes(body, footnotes);
+        }
+
+        return body.toString();
     }
 
     private void showTables() {
@@ -689,9 +811,9 @@ public class SciCrawler {
 
         logger.log(Level.INFO, () -> year + (annual.equals("A") ? " Annual" : "Semi-Annual") + " General Conference"
                 + ", " + issueDate);
-    }
+        }
 
-    private List<String> sortedKeys(JSONObject footnotes) {
+        private List<String> sortedKeys(JSONObject footnotes) {
         List<String> keys = new ArrayList<>(footnotes.keySet().size());
 
         for (String key : footnotes.keySet()) {
@@ -701,43 +823,43 @@ public class SciCrawler {
         keys.sort((k1, k2) -> {
             int i1 = Integer.parseInt(k1.replaceAll("[^0-9]*", ""));
             int i2 = Integer.parseInt(k2.replaceAll("[^0-9]*", ""));
-
+        
             return i1 - i2;
         });
-
+        
         return keys;
     }
-
+    
     private String tableOfContentsHtml() {
-        File conferenceDirectoryFile = new File(conferencePath);
-        File cachedContentFile = new File(conferencePath + "/contents.html");
+        File conferenceDirectoryFile = paths.conferenceDirectoryFile();
+        File cachedContentFile = paths.cachedContentFile();
         String content;
-
+        
         if (!conferenceDirectoryFile.exists()) {
             conferenceDirectoryFile.mkdir();
         }
-
+        
         if (cachedContentFile.exists()) {
             content = FileUtils.stringFromFile(cachedContentFile);
         } else {
             content = urlContent(urlForConferenceContents());
             FileUtils.writeStringToFile(content, cachedContentFile);
         }
-
+        
         return content;
     }
-
-    private String talkHtmlContentForJson(JSONObject talkJson) {
+    
+    private String talkHtmlContentForJson(String talkId, JSONObject talkJson, boolean inlineFootnotes, Link[] citationsToRewrite) {
         StringBuilder talk = new StringBuilder();
-
+        
         JSONObject talkContent = talkJson.getJSONObject("content");
         String talkBody = talkContent.getString("body");
         JSONObject footnotes = null;
-
+        
         if (talkContent.has(FOOTNOTES)) {
             footnotes = talkContent.getJSONObject(FOOTNOTES);
         }
-
+        
         /*
          * 1. Remove link and video tags
          * 2. Format footnote markers, incoming form:
@@ -757,36 +879,18 @@ public class SciCrawler {
         talk.append("<div class=\"body\">");
         talk.append(talkBody);
 
-        // NEEDSWORK: are there links we need to disable?
-        // NEEDSWORK: rewrite the citation links
-
         if (footnotes != null) {
+            if (inlineFootnotes) {
+                rewriteUrlsForTalkId(talkId, talk, footnotes, citationsToRewrite);
+            }
+
             formatFootnotes(talk, footnotes);
-            inlineFootnotes(talk, footnotes);
         }
 
         talk.append("</div>");
 
-        return encodeSpecialCharacters(
-                talk.toString()
-        //                        .replaceAll("><", ">\n<")
-        //                        .replaceAll("> ", ">\n")
-        //                        .replaceAll("\n\n", "\n")
-        );
+        return encodeSpecialCharacters(talk.toString());
     }
-
-    /*
-    NEEDSWORK: access database to know citation number?
-    
-    Source text example:
-        <a class="scripture-ref" href="/study/scriptures/nt/matt/20.30-34?lang=eng#p30">Matthew 20:30&#x2013;34</a>
-    
-    Target replacement example:
-        <span class="citation" id="135301">
-            <a href="javascript:void(0)" onclick="sx(this, 135301)">&#xA0;</a>
-            <a href="javascript:void(0)" onclick="gs(135301)">Matthew 20:30–34</a>
-        </span>
-     */
 
     private String talkSubitemsFromTableOfContents(String content) {
         // Extract the subitems <ul> from the document
@@ -811,12 +915,14 @@ public class SciCrawler {
                 + "%2F" + talkId;
     }
 
-    private void updateDatabase() {
+    private Database updateDatabase() {
         Database database = new Database();
 
         database.updateMetaData(false, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
                 talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo);
         database.updateSpeakers(false, speakers);
+
+        return database;
     }
 
     private String urlContent(String url) {
@@ -850,7 +956,7 @@ public class SciCrawler {
         return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=eng";
     }
 
-    private void writeCitations(List<Link> scriptureLinks) {
+    private void writeCitationsToFile(List<Link> scriptureLinks) {
         StringBuilder citations = new StringBuilder();
 
         for (int i = 0; i < scriptureLinks.size(); i++) {
@@ -859,328 +965,33 @@ public class SciCrawler {
             int ix1 = link.href.indexOf("/", 18);
             int ix2 = link.href.indexOf("?", ix1);
 
+            logger.log(Level.INFO, () -> "link href " + link.href);
             citations.append(link.href.substring(ix1 + 1, ix2));
             citations.append("\t");
             citations.append(talkSpeakerInitials.get(link.talkId));
             citations.append("\t");
             citations.append(pageRanges.get(link.talkId)[1]);
+            citations.append("\t");
+            citations.append(link.talkId);
             citations.append("\n");
 
             logger.log(Level.INFO, () -> index + "\t" + link.talkId + "\t" + link.href + "\t" + link.text + "\t"
                     + link.book + "\t" + link.chapter + "\t" + link.verses + "\t" + link.isJst);
         }
 
-        FileUtils.writeStringToFile(citations.toString(), new File(conferencePath + PATH_SEPARATOR + "citations.txt"));
+        FileUtils.writeStringToFile(citations.toString(), paths.citationsFile());
     }
 
     private void writeHtmlContent(String talkId, JSONObject talkJson) {
-        FileUtils.writeStringToFile(
-                talkHtmlContentForJson(talkJson),
-                new File(conferencePath + PATH_SEPARATOR + language + PATH_SEPARATOR + talkId)
-        );
+        FileUtils.writeStringToFile(talkHtmlContentForJson(talkId, talkJson, false, null), paths.talkFile(talkId));
     }
 
-    private class Book {
-        private static final String JOHN_JUAN = "(John|Juan)";
-        private static final int NEW_TESTAMENT_INDEX = 39;
-        private final List<String> abbreviations = List.of(
-                "gen", "ex", "lev", "num", "deut", "josh", "judg", "ruth",
-                "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra",
-                "neh", "esth", "job", "ps", "prov", "eccl", "song", "isa",
-                "jer", "lam", "ezek", "dan", "hosea", "joel", "amos", "obad",
-                "jonah", "micah", "nahum", "hab", "zeph", "hag", "zech", "mal",
-                "matt", "mark", "luke", "john", "acts", "rom", "1-cor", "2-cor",
-                "gal", "eph", "philip", "col", "1-thes", "2-thes", "1-tim",
-                "2-tim", "titus", "philem", "heb", "james", "1-pet", "2-pet",
-                "1-jn", "2-jn", "3-jn", "jude", "rev"
-        );
-        private final List<String> bookPatterns = List.of(
-                "(Genesis|G" + E_ACCENT + "nesis)",
-                "(Exodus|" + CAP_E_ACCENT + "xodo)",
-                "(Leviticus|Lev" + I_ACCENT + "tico)",
-                "(Numbers|N" + U_ACCENT + "meros)",
-                "(Deuteronomy|Deuteronomio)",
-                "(Joshua|Josu" + "eAccent)",
-                "(Judges|Jueces)",
-                "(Ruth|Rut)",
-                "1" + SPACE + "Samuel",
-                "2" + SPACE + "Samuel",
-                "1" + SPACE + "(Kings|Reyes)",
-                "2" + SPACE + "(Kings|Reyes)",
-                "1" + SPACE + "(Chronicles|Cr" + O_ACCENT + "nicas)",
-                "2" + SPACE + "(Chronicles|Cr" + O_ACCENT + "nicas)",
-                "(Ezra|Esdras)",
-                "(Nehemiah|Nehem" + I_ACCENT + "as)",
-                "(Esther|Ester)",
-                "Job",
-                "(Psalms?|Salmos?)",
-                "(Proverbs|Proverbios)",
-                "(Ecclesiastes|Eclesiast" + E_ACCENT + "s)",
-                "(Song" + SPACE + "of" + SPACE + "Solomon|Cantares)",
-                "(Isaiah|Isa" + I_ACCENT + "as)",
-                "(Jeremiah|Jerem" + I_ACCENT + "as)",
-                "(Lamentations|Lamentaciones)",
-                "(Ezekiel|Ezequiel)",
-                "Daniel",
-                "(Hosea|Oseas)",
-                "Joel",
-                "(Amos|Am" + O_ACCENT + "s)",
-                "(Obadiah|Abd" + I_ACCENT + "as)",
-                "(Jonah|Jon" + A_ACCENT + "s)",
-                "(Micah|Miqueas)",
-                "(Nahum|Nah" + U_ACCENT + "m)",
-                "(Habakkuk|Habacuc)",
-                "(Zephaniah|Sofon" + I_ACCENT + "as)",
-                "(Haggai|Hageo)",
-                "(Zechariah|Zacar" + I_ACCENT + "as)",
-                "(Malachi|Malaqu" + I_ACCENT + "as)",
-                "(Matthew|Mateo)",
-                "(Mark|Marcos)",
-                "(Luke|Lucas)",
-                JOHN_JUAN,
-                "(Acts|Hechos)",
-                "(Romans|Romanos)",
-                "1" + SPACE + "(Corinthians|Corintios)",
-                "2" + SPACE + "(Corinthians|Corintios)",
-                "(Galatians|G" + A_ACCENT + "latas)",
-                "(Ephesians|Efesios)",
-                "(Philippians|Filipenses)",
-                "(Colossians|Colosenses)",
-                "1" + SPACE + "(Thessalonians|Tesalonicenses)",
-                "2" + SPACE + "(Thessalonians|Tesalonicenses)",
-                "1" + SPACE + "(Timothy|Timoteo)",
-                "2" + SPACE + "(Timothy|Timoteo)",
-                "(Titus|Tito)",
-                "(Philememon|Filem" + O_ACCENT + "n)",
-                "(Hebrews|Hebreos)",
-                "(James|Santiago)",
-                "1" + SPACE + "(Peter|Pedro)",
-                "2" + SPACE + "(Peter|Pedro)",
-                "1" + SPACE + JOHN_JUAN,
-                "2" + SPACE + JOHN_JUAN,
-                "3" + SPACE + JOHN_JUAN,
-                "(Jude|Judas)",
-                "(Revelation|Apocalipsis)"
-        );
-
-        public String abbreviationForBook(String book) {
-            int index = indexOfBook(book);
-
-            return abbreviations.get(index);
-        }
-
-        public int indexOfBook(String book) {
-            for (int i = 0; i < bookPatterns.size(); i++) {
-                Matcher matcher = Pattern.compile(bookPatterns.get(i)).matcher(book);
-
-                if (matcher.matches()) {
-                    return i;
-                }
-            }
-
-            return -1;
-        }
-
-        public String volumeForBook(String book) {
-            int index = indexOfBook(book);
-
-            return (index < NEW_TESTAMENT_INDEX) ? "ot" : "nt";
-        }
-    }
-
-    private class Link {
-
-        String talkId;
+    private class LinkEntry {
+        int startIndex;
+        int endIndex;
         String href;
         String text;
-        String book;
-        String chapter;
-        String verses;
-        boolean isJst;
-
-        Link(String talkId, String href, String text) {
-            this.talkId = talkId;
-            this.href = href;
-            this.text = text;
-        }
-
-        Link(String talkId, String href, String text, String book,
-                String chapter, String verses, boolean isJst) {
-            this.talkId = talkId;
-            this.href = href;
-            this.text = text;
-            this.book = book;
-            this.chapter = chapter;
-            this.verses = verses;
-            this.isJst = isJst;
-        }
-
-        Link(Link source) {
-            this.talkId = source.talkId;
-            this.href = source.href;
-            this.text = source.text;
-            this.book = source.book;
-            this.chapter = source.chapter;
-            this.verses = source.verses;
-            this.isJst = source.isJst;
-        }
-
-        public void addParsedToList(List<Link> links) {
-            links.add(this);
-
-            Matcher matcher = referencePattern.matcher(href);
-
-            if (matcher.find()) {
-                book = matcher.group(1);
-                chapter = matcher.group(2);
-                verses = matcher.group(3);
-                isJst = book.startsWith("jst-");
-
-                JSONObject bookObject = bookObjectForThis();
-
-                if (bookObject == null) {
-                    logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> Unable to find book " + book);
-                } else {
-                    if (chapter != null) {
-                        int maxVerse = books.maxVerseForBookIdChapter(bookObject.getInt("id"), Integer.parseInt(chapter), isJst);
-
-                        if (verses != null) {
-                            String[] verseList = verses.split("([," + HYPHEN + NDASH + "])");
-
-                            for (String verse : verseList) {
-                                int verseValue = Integer.parseInt(verse);
-
-                                if (book.equals("js-h") && verseValue >= 76 && verseValue <= 82) {
-                                    // NEEDSWORK: this is a reference to JS—H 1:endnote
-                                    // which we should map to verse 1000 for our database
-                                } else if (verseValue > maxVerse) {
-                                    logger.log(Level.WARNING,
-                                            () -> ">>>>>>>>>>>>> Verse out of range "
-                                            + book + " " + chapter + ":" + verses
-                                            + " (" + verse + ")");
-                                    break;
-                                }
-                            }
-                        } else {
-                            verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
-
-                            addLinksForReferencedChaptersOtherThanChapter(links, integerValue(chapter));
-                        }
-                    } else {
-                        // There is no chapter given; if the book should have
-                        // a chapter, this could be a problem.
-                        if (bookObject.getInt("numChapters") > 0) {
-                            logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> Book should have chapter " + book);
-                        }
-                    }
-                }
-            } else {
-                logger.log(Level.WARNING, () -> ">>>>>>>>>>>>> No match for " + href);
-            }
-        }
-
-        private void addLinkForReferencedChapter(List<Link> links, int chapter) {
-            Link link = new Link(this);
-
-            link.href = link.href.replace("/" + link.chapter, "/" + chapter);
-
-            JSONObject bookObject = bookObjectForThis();
-            int maxVerse = books.maxVerseForBookIdChapter(bookObject.getInt("id"), chapter, isJst);
-
-            link.chapter = "" + chapter;
-            link.verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
-            links.add(link);
-        }
-
-        private void addLinksForReferencedChaptersOtherThanChapter(List<Link> links, int baseChapter) {
-            int chapterIndex = text.indexOf(baseChapter + "");
-
-            if (chapterIndex < 0) {
-                chapterIndex = 0;
-            }
-
-            String[] parts = text.substring(chapterIndex)
-                    .split(String.format(WITH_DELIMITER, "[^0-9]"));
-
-            for (int i = 0; i < parts.length; i++) {
-                int chapterValue = integerValue(parts[i]);
-
-                if (chapterValue > 0 && i + 2 < parts.length) {
-                    // Process a disjunction or a range
-                    int endChapter = trailingChapterValue(parts[i], parts[i + 2]);
-
-                    if ((parts[i + 1].contains(HYPHEN) || parts[i + 1].contains(NDASH))
-                            && endChapter > 0) {
-                        // This is a range
-                        for (int chap = chapterValue; chap <= endChapter; chap++) {
-                            if (chap != baseChapter) {
-                                addLinkForReferencedChapter(links, chap);
-                            }
-                        }
-                    } else {
-                        // This is a disjunction
-                        if (chapterValue > baseChapter && chapterValue > 0) {
-                            addLinkForReferencedChapter(links, chapterValue);
-                        }
-
-                        if (endChapter > baseChapter && endChapter > 0) {
-                            addLinkForReferencedChapter(links, endChapter);
-                        }
-                    }
-
-                    i += 2;
-                } else if (chapterValue > 0 && chapterValue > baseChapter) {
-                    addLinkForReferencedChapter(links, chapterValue);
-                }
-            }
-        }
-
-        private JSONObject bookObjectForThis() {
-            String bookKey = book;
-
-            if (book.startsWith("jst-")) {
-                bookKey = book.substring(4);
-            }
-
-            return books.bookForAbbreviation(bookKey);
-        }
-
-        private int integerValue(String text) {
-            try {
-                return Integer.parseInt(text);
-            } catch (NumberFormatException e) {
-                return 0;
-            }
-        }
-
-        private int trailingChapterValue(String chapter1, String chapter2) {
-            String finalChapter = chapter2;
-
-            if (chapter2.length() < chapter1.length()) {
-                finalChapter = chapter1.substring(0, chapter1.length() - chapter2.length())
-                        + chapter2;
-            }
-
-            return integerValue(finalChapter);
-        }
-    }
-
-    private class SortByNote implements Comparator<String> {
-
-        @Override
-        public int compare(String arg0, String arg1) {
-            if (arg0 != null && arg1 != null && arg0.length() > 4 && arg1.length() > 4) {
-                try {
-                    int n0 = Integer.parseInt(arg0.substring(4));
-                    int n1 = Integer.parseInt(arg1.substring(4));
-
-                    return n0 - n1;
-                } catch (NumberFormatException e) {
-                    logger.log(Level.WARNING, "Unable to sort items (NumberFormatException)");
-                }
-            }
-
-            return (arg0 != null && arg1 != null) ? arg0.compareTo(arg1) : 0;
-        }
+        boolean isFootnote = false;
+        String footnoteKey;
     }
 }

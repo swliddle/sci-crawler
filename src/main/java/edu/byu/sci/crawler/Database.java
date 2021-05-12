@@ -220,6 +220,10 @@ public class Database {
         return talkId;
     }
 
+    public int getMaxCitationId() {
+        return getMaxId(TABLE_CITATION);
+    }
+
     private int getMaxId(String tableName) {
         Statement stmt = null;
         ResultSet rs = null;
