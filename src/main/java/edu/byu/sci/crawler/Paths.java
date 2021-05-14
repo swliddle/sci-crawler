@@ -3,7 +3,8 @@ package edu.byu.sci.crawler;
 import java.io.File;
 
 public class Paths {
-    private static final String CACHED_CONTENT_FILE = "contents.html";
+    private static final String CACHED_CONTENT_FILE_PREFIX = "contents-";
+    private static final String CACHED_CONTENT_FILE_SUFFIX = ".html";
     private static final String CITATIONS_FILE = "citations.txt";
     private static final String HYPHEN = "-";
     private static final String JSON_EXTENSION = ".json";
@@ -20,8 +21,9 @@ public class Paths {
         this.language = language;
     }
 
-    public File cachedContentFile() {
-        return new File(conferencePath + PATH_SEPARATOR + CACHED_CONTENT_FILE);
+    public File cachedContentFile(String language) {
+        return new File(
+                conferencePath + PATH_SEPARATOR + CACHED_CONTENT_FILE_PREFIX + language + CACHED_CONTENT_FILE_SUFFIX);
     }
 
     public File citationsFile() {

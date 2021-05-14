@@ -34,6 +34,7 @@ public class Database {
     private static final String REPLACE_INTO = "REPLACE INTO ";
 
     private static final String MEDIA_URL_PREFIX = "https://media2.ldscdn.org/assets/";
+    private static final String TALK_URL_PREFIX = "https://www.churchofjesuschrist.org";
 
     private static final int POLYMORPHIC_CTYPE_ID_EN = 31;
     private static final int POLYMORPHIC_CTYPE_ID_ES = 62;
@@ -288,6 +289,14 @@ public class Database {
         }
 
         return existingTalkId;
+    }
+
+    private String fullTalkUrl(String url) {
+        if (!url.startsWith("http")) {
+            return TALK_URL_PREFIX + url;
+        }
+
+        return url;
     }
 
     public int getMaxCitationId() {
@@ -736,26 +745,19 @@ public class Database {
                     stmt = conn.prepareStatement(
                             INSERT_INTO + tableForLanguage(TABLE_TALK, language)
                                     + " (ID, Corpus, URL, Title, Date, SpeakerID, ListenURL, WatchURL, polymorphic_ctype_id) "
-                                    + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                            Statement.RETURN_GENERATED_KEYS);
-                    stmt.setInt(1, maxTalkId + 1);
+                                    + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
+                    talkId = maxTalkId + 1;
+                    stmt.setInt(1, talkId);
                     stmt.setString(2, "G");
-                    stmt.setString(3, href);
+                    stmt.setString(3, fullTalkUrl(href));
                     stmt.setString(4, title);
                     stmt.setString(5, date);
                     stmt.setInt(6, speakerId);
-                    stmt.setString(7, mediaUrl);
-                    stmt.setString(8, mediaUrl);
+                    stmt.setString(7, fullTalkUrl(mediaUrl));
+                    stmt.setString(8, fullTalkUrl(mediaUrl));
                     stmt.setInt(9, language.equals("spa") ? POLYMORPHIC_CTYPE_ID_ES : POLYMORPHIC_CTYPE_ID_EN);
 
                     stmt.execute();
-                    rs = stmt.getGeneratedKeys();
-
-                    if (rs.next()) {
-                        talkId = rs.getInt(1);
-                    } else {
-                        throw new DatabaseException("Unable to retrieve generated talk ID");
-                    }
                 } catch (SQLException e) {
                     logError(e);
                 } finally {

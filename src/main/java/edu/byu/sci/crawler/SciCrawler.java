@@ -24,28 +24,36 @@ import org.json.JSONObject;
 
 public class SciCrawler {
 
+    /*
+     * NEEDSWORK:
+     * - speaker info needs updating for Jr./Sr. etc. -- update database?
+     * - need to rewrite visible text of chapter links we've expanded (with verse range for chapter)
+     * - pre-existing citation check is not working -- spa re-adds same citations as eng
+     */
+
     // Constants
     public static final String HYPHEN = "-";
     public static final String NDASH = "–";
     public static final String PATH_SEPARATOR = "/";
     public static final String URL_SCRIPTURE_PATH = "/study/scriptures/";
-
+    
     private static final String CLASS_PARSER = "\\s+class=\"?";
     private static final String END_CLASS_PARSER = "[^\">]*\"?\\s*";
     private static final String END_TAG_PARSER = "[^>]*>";
     private static final String FOOTNOTES = "footnotes";
-
+    
     private static final int SCRIPTURE_REFERENCE_HREF = 1;
     // private static final int SCRIPTURE_REFERENCE_BOOK = 2;
     // private static final int SCRIPTURE_REFERENCE_CHAPTER = 3;
     // private static final int SCRIPTURE_REFERENCE_VERSES = 4;
     // private static final int SCRIPTURE_REFERENCE_TARGET = 5;
     private static final int SCRIPTURE_REFERENCE_TEXT = 6;
-
+    
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
     private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
+    private static final String URL_GENERAL_CONFERENCE = URL_BASE + "/study/general-conference";
     private static final String URL_LIAHONA = URL_BASE + "/study/liahona";
-
+    
     private static final String A_ACCENT = "(?:a|á|&#x[eE]1;|&#aacute;)";
     private static final String CAP_E_ACCENT = "(?:E|É|&#x[cC]9;|&#Eacute;)";
     private static final String E_ACCENT = "(?:e|é|&#x[eE]9;|&#eacute;)";
@@ -53,14 +61,14 @@ public class SciCrawler {
     private static final String O_ACCENT = "(?:o|ó|&#x[fF]3;|&#oacute;)";
     private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
     private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
-
+    
     // Properties
     private static final Logger logger = Logger.getLogger(SciCrawler.class.getName());
-
+    
     private GregorianCalendar saturdayDate;
     private GregorianCalendar sundayDate;
     private int maxCitationId;
-
+    
     private final String annual;
     private final String issueDate;
     private final Pattern jstPattern;
@@ -69,11 +77,12 @@ public class SciCrawler {
     private final Paths paths;
     private final Pattern referencePattern;
     private final Pattern scriptureReferencePattern;
+    private final String sessionKey;
     private final int year;
-
+    
     private final Speakers speakers = new Speakers();
     // private final Verses verses = new Verses();
-
+    
     private final Map<String, int[]> pageRanges = new HashMap<>();
     private final List<String> sessions = new ArrayList<>();
     private final List<String> talkIds = new ArrayList<>();
@@ -88,15 +97,15 @@ public class SciCrawler {
     private final Map<String, String[]> talkVideoUrls = new HashMap<>();
     private final Map<String, String> talkContents = new HashMap<>();
     private final Map<String, String> talkRewrittenContents = new HashMap<>();
-
+    
     // Initialization
     public SciCrawler(int year, int month, String language) {
         this.year = year;
         this.language = language;
         String conferencePath;
-
+    
         // logger.log(Level.INFO, () -> "Count of verses: " + verses.count());
-
+    
         switch (year) {
             case 1971:
                 // Published in June and December
@@ -120,17 +129,17 @@ public class SciCrawler {
                 conferencePath = year + (month == 4 ? "apr" : "oct");
                 break;
         }
-
+    
         annual = month < 9 ? "A" : "S";
         issueDate = year + "-" + monthString + "-01";
-
+    
         computeLikelyConferenceDates(year, month);
-
+    
         paths = new Paths(conferencePath, language);
-
+    
         String chapter = "([0-9]+)";
         String verses = "([0-9]+((?:[-,])[0-9]+)*)";
-
+    
         if (language.equalsIgnoreCase("spa")) {
             String bibleBookName
                     = "(G" + E_ACCENT + "nesis|" + CAP_E_ACCENT + "xodo"
@@ -153,7 +162,7 @@ public class SciCrawler {
                     + "|G" + A_ACCENT + "latas|Efesios|Filipenses|Colosenses"
                     + "|Tito|Filem" + O_ACCENT + "n|Hebreos|Santiago|Judas"
                     + "|Apocalipsis)";
-
+    
             jstPattern = Pattern.compile(
                     "Traducci" + O_ACCENT + "n" + SPACE + "de" + SPACE
                     + "Jos" + E_ACCENT + SPACE + "Smith," + SPACE
@@ -164,6 +173,8 @@ public class SciCrawler {
                     + verses,
                     Pattern.MULTILINE | Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ
             );
+
+            sessionKey = "Sesión";
         } else {
             String bibleBookName = "(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua" + "|Judges|Ruth" + "|(?:[12])"
                     + SPACE + "(?:Samuel|Kings|Chronicles|Corinthians" + "|Thessalonians|Timothy|Peter|John)" + "|3"
@@ -173,11 +184,13 @@ public class SciCrawler {
                     + "|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans"
                     + "|Galatians|Ephesians|Philippians|Colossians|Titus"
                     + "|Philememon|Hebrews|James|Jude|Revelation)";
-
+    
             jstPattern = Pattern.compile("Joseph" + SPACE + "Smith" + SPACE + "Translation," + SPACE + bibleBookName
                     + SPACE + chapter + ":" + verses, Pattern.MULTILINE | Pattern.CASE_INSENSITIVE);
-        }
 
+            sessionKey = "Session";
+        }
+    
         String hrefPattern = URL_SCRIPTURE_PATH
                 + "(?:ot|nt|bofm|dc-testament|pgp|jst)/"
                 + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
@@ -193,12 +206,12 @@ public class SciCrawler {
                 + "(?:(?:/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
                 + "|study_intro[0-9])?)?" + "[?]lang=" + language
                 + "(#p[A-Za-z0-9_-]+)?";
-
+    
         referencePattern = Pattern.compile(hrefPattern);
         scriptureReferencePattern = Pattern
                 .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>([^<]*)</a>");
     }
-
+    
     public static void main(String[] args) {
         int year = -1;
         int month = -1;
@@ -207,10 +220,10 @@ public class SciCrawler {
         boolean writeToDatabase = false;
         boolean writeContentToFiles = false;
         boolean invalidCommandLine = false;
-
+    
         if (args.length >= 3) {
             int requiredArgCount = 0;
-
+    
             for (int i = 0; i < args.length; i++) {
                 if (args[i].startsWith("--")) {
                     switch (args[i]) {
@@ -244,7 +257,7 @@ public class SciCrawler {
                                 invalidCommandLine = true;
                                 break;
                         }
-
+    
                         requiredArgCount += 1;
                     } catch (NumberFormatException e) {
                         logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
@@ -252,7 +265,7 @@ public class SciCrawler {
                 }
             }
         }
-
+    
         if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050
                 || (!language.equals("eng") && !language.equals("spa")) || invalidCommandLine) {
             logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
@@ -260,9 +273,9 @@ public class SciCrawler {
             logger.log(Level.SEVERE, "    and language is either eng or spa");
             System.exit(-1);
         }
-
+    
         SciCrawler crawler = new SciCrawler(year, month, language);
-
+    
         crawler.getTableOfContents();
         crawler.readPageRanges();
         List<Link> scriptureCitations = crawler.crawlTalks(writeContentToFiles);
@@ -270,12 +283,12 @@ public class SciCrawler {
         crawler.writeCitationsToFile(scriptureCitations);
         crawler.showTables();
         crawler.processUpdatedCitations(scriptureCitations);
-
+    
         Database database = crawler.updateDatabase(writeToDatabase, scriptureCitations);
         crawler.rewriteUrls(writeContentToFiles, scriptureCitations, database);
         crawler.updateTalkContents(writeToDatabase, database);
     }
-
+    
     /*
      * 1. Crawl talks.
      * 2. Extract citations.
@@ -524,7 +537,9 @@ public class SciCrawler {
         String itemId = extractMatch(itemHref, "[0-9]+/[0-9]+/(.*)\\?");
         
         if (itemTitle.contains("Auditing Department")
-                || itemTitle.contains("Sustaining of General Authorities")) {
+                || itemTitle.contains("Sustaining of General Authorities")
+                || itemTitle.contains("Departamento de Auditorías")
+                || itemTitle.contains("Sostenimiento de las Autoridades Generales")) {
             return talkNumber;
         }
         
@@ -680,7 +695,7 @@ public class SciCrawler {
                 + "\\s*<p>\\s*<span>\\s*([^<]*)\\s*<\\/span>\\s*<\\/p>\\s*" + "<p" + CLASS_PARSER + "subtitle"
                 + END_CLASS_PARSER + END_TAG_PARSER + "\\s*([^<]*)\\s*<\\/p>" + "\\s*<\\/div>\\s*<\\/a>\\s*<\\/li>";
 
-        Matcher itemMatcher = Pattern.compile(itemParser).matcher(sessionItems);
+        Matcher itemMatcher = Pattern.compile(itemParser).matcher(sessionItems.replace("\u00A0", " "));
 
         while (itemMatcher.find()) {
             talkNumber = filterTalkSubitem(
@@ -710,7 +725,7 @@ public class SciCrawler {
             String sessionTitle = matcher.group(1).trim();
             String sessionItems = matcher.group(2);
 
-            if (sessionTitle.contains("Session")) {
+            if (sessionTitle.contains(sessionKey)) {
                 sessions.add(sessionTitle);
                 ++sessionNumber;
                 talkNumber = parseSessionItems(sessionItems, sessionNumber, talkNumber);
@@ -928,7 +943,7 @@ public class SciCrawler {
     
     private String tableOfContentsHtml() {
         File conferenceDirectoryFile = paths.conferenceDirectoryFile();
-        File cachedContentFile = paths.cachedContentFile();
+        File cachedContentFile = paths.cachedContentFile(language);
         String content;
         
         if (!conferenceDirectoryFile.exists()) {
@@ -1056,7 +1071,19 @@ public class SciCrawler {
     }
 
     private String urlForConferenceContents() {
-        return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=eng";
+        if (language.equals("spa")) {
+            String urlMonth;
+
+            if (monthString.equals("05")) {
+                urlMonth = "04";
+            } else {
+                urlMonth = "10";
+            }
+
+            return URL_GENERAL_CONFERENCE + "/" + year + "/" + urlMonth + "?lang=" + language;
+        }
+
+        return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=" + language;
     }
 
     private void writeCitationsToFile(List<Link> scriptureLinks) {
