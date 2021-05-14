@@ -543,12 +543,19 @@
         "context": null,
         "pid": "146039163",
         "id": "note19",
-        "text": "<p data-aid=\"146039328\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.10-11?lang=eng#p10\">John 8:10\u201311<\/a>; the Joseph Smith Translation of verse 11 includes, \u201cAnd the woman glorified God from that hour, and believed on his name,\u201d suggesting that the Savior\u2019s lack of condemnation and His commandment to \u201csin no more\u201d impacted the rest of the woman\u2019s life.<\/p>",
-        "referenceUris": [{
-          "href": "/study/scriptures/nt/john/8.10-11?lang=eng#p10",
-          "text": "John 8:10\u201311",
-          "type": "scripture-ref"
-        }]
+        "text": "<p data-aid=\"146039328\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.10-11?lang=eng#p10\">John 8:10\u201311<\/a>; the <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jst-john/8.11?lang=eng#p11\">Joseph Smith Translation of verse 11</a> includes, \u201cAnd the woman glorified God from that hour, and believed on his name,\u201d suggesting that the Savior\u2019s lack of condemnation and His commandment to \u201csin no more\u201d impacted the rest of the woman\u2019s life.<\/p>",
+        "referenceUris": [
+            {
+              "href": "/study/scriptures/nt/john/8.10-11?lang=eng#p10",
+              "text": "John 8:10\u201311",
+              "type": "scripture-ref"
+            },
+            {
+              "href": "/study/scriptures/nt/jst-john/8.11?lang=eng#p11",
+              "text": "Joseph Smith Translation of verse 11",
+              "type": "scripture-ref"
+            }
+        ]
       },
       "note18": {
         "marker": "18.",

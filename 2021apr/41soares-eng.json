@@ -356,11 +356,16 @@
         "context": null,
         "pid": "146039238",
         "id": "note3",
-        "text": "<p data-aid=\"146039330\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12?lang=eng\">Exodus 12\u201313<\/a>, particularly <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12.21,43?lang=eng#p21\">Exodus 12:21, 43<\/a>.<\/p>",
+        "text": "<p data-aid=\"146039330\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12?lang=eng\">Exodus 12<\/a> and <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/13?lang=eng\">Exodus 13<\/a>, particularly <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12.21,43?lang=eng#p21\">Exodus 12:21, 43<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/ex/12?lang=eng",
-            "text": "Exodus 12\u201313",
+            "text": "Exodus 12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/13?lang=eng",
+            "text": "Exodus 13",
             "type": "scripture-ref"
           },
           {

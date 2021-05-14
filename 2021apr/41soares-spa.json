@@ -356,11 +356,16 @@
         "context": null,
         "pid": "146044966",
         "id": "note3",
-        "text": "<p data-aid=\"146044986\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12?lang=spa\">Éxodo 12\u201313<\/a>, en particular <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12.21,43?lang=spa#p21\">Éxodo 12:21, 43<\/a>.<\/p>",
+        "text": "<p data-aid=\"146044986\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12?lang=spa\">Éxodo 12<\/a> y <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/13?lang=spa\">Éxodo 13<\/a>, en particular <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/12.21,43?lang=spa#p21\">Éxodo 12:21, 43<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/ex/12?lang=spa",
-            "text": "Éxodo 12\u201313",
+            "text": "Éxodo 12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/13?lang=spa",
+            "text": "Éxodo 13",
             "type": "scripture-ref"
           },
           {
