@@ -86,6 +86,8 @@ public class SciCrawler {
     private final Map<String, String> talkTitles = new HashMap<>();
     private final Map<String, String> talkAudioUrls = new HashMap<>();
     private final Map<String, String[]> talkVideoUrls = new HashMap<>();
+    private final Map<String, String> talkContents = new HashMap<>();
+    private final Map<String, String> talkRewrittenContents = new HashMap<>();
 
     // Initialization
     public SciCrawler(int year, int month, String language) {
@@ -202,19 +204,57 @@ public class SciCrawler {
         int month = -1;
         String language = "";
         Logger logger = Logger.getLogger(SciCrawler.class.getName());
+        boolean writeToDatabase = false;
+        boolean writeContentToFiles = false;
+        boolean invalidCommandLine = false;
 
         if (args.length >= 3) {
-            try {
-                year = Integer.parseInt(args[0]);
-                month = Integer.parseInt(args[1]);
-                language = args[2];
-            } catch (NumberFormatException e) {
-                logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
+            int requiredArgCount = 0;
+
+            for (int i = 0; i < args.length; i++) {
+                if (args[i].startsWith("--")) {
+                    switch (args[i]) {
+                        case "--writeToDatabase":
+                            writeToDatabase = true;
+                            break;
+                        case "--writeContentToFiles":
+                            writeContentToFiles = true;
+                            break;
+                        default:
+                            String badParameter = args[i];
+                            logger.log(Level.WARNING, () -> "Unknown command-line parameter: " + badParameter);
+                            invalidCommandLine = true;
+                            break;
+                    }
+                } else {
+                    try {
+                        switch (requiredArgCount) {
+                            case 0:
+                                year = Integer.parseInt(args[i]);
+                                break;
+                            case 1:
+                                month = Integer.parseInt(args[i]);
+                                break;
+                            case 2:
+                                language = args[i];
+                                break;
+                            default:
+                                String badParameter = args[i];
+                                logger.log(Level.WARNING, () -> "Too many command-line parameters: " + badParameter);
+                                invalidCommandLine = true;
+                                break;
+                        }
+
+                        requiredArgCount += 1;
+                    } catch (NumberFormatException e) {
+                        logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
+                    }
+                }
             }
         }
 
         if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050
-                || (!language.equals("eng") && !language.equals("spa"))) {
+                || (!language.equals("eng") && !language.equals("spa")) || invalidCommandLine) {
             logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
             logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
             logger.log(Level.SEVERE, "    and language is either eng or spa");
@@ -225,14 +265,15 @@ public class SciCrawler {
 
         crawler.getTableOfContents();
         crawler.readPageRanges();
-        List<Link> scriptureCitations = crawler.crawlTalks();
+        List<Link> scriptureCitations = crawler.crawlTalks(writeContentToFiles);
         crawler.checkSpeakers();
         crawler.writeCitationsToFile(scriptureCitations);
         crawler.showTables();
         crawler.processUpdatedCitations(scriptureCitations);
 
-        Database database = crawler.updateDatabase(scriptureCitations);
-        crawler.rewriteUrls(scriptureCitations, database);
+        Database database = crawler.updateDatabase(writeToDatabase, scriptureCitations);
+        crawler.rewriteUrls(writeContentToFiles, scriptureCitations, database);
+        crawler.updateTalkContents(writeToDatabase, database);
     }
 
     /*
@@ -313,7 +354,7 @@ public class SciCrawler {
         }
     }
     
-    private List<Link> crawlTalks() {
+    private List<Link> crawlTalks(boolean writeContentToFiles) {
         List<Link> scriptureLinks = new ArrayList<>();
         
         File languageSubfolder = paths.languageDirectoryFile();
@@ -332,7 +373,6 @@ public class SciCrawler {
             if (!talkFile.exists()) {
                 // Save talk if we haven't yet crawled it
                 talkJson = new JSONObject(urlContent(talkUrl(talkId, language)));
-        
                 FileUtils.writeStringToFile(talkJson.toString(2), talkFile);
             } else {
                 talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
@@ -349,7 +389,7 @@ public class SciCrawler {
                 extractLinksFrom(footnotes, talkId, scriptureLinks);
             }
         
-            writeHtmlContent(talkId, talkJson);
+            writeHtmlContent(writeContentToFiles, talkId, talkJson);
             extractAudioUrl(talkId, talkJson);
             extractVideoUrls(talkId, talkBody);
         });
@@ -757,7 +797,7 @@ public class SciCrawler {
         }
     }
 
-    private void rewriteUrls(List<Link> citations, Database database) {
+    private void rewriteUrls(boolean writeContentToFiles, List<Link> citations, Database database) {
         if (database != null) {
             maxCitationId = database.getMaxCitationId() + 1;
         } else {
@@ -776,9 +816,13 @@ public class SciCrawler {
             JSONObject talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
             Link[] talkCitations = citations.stream().filter(citation -> citation.talkId.equals(talkId))
                     .toArray(Link[]::new);
+            String content = talkHtmlContentForJson(talkId, talkJson, true, talkCitations);
 
-            FileUtils.writeStringToFile(talkHtmlContentForJson(talkId, talkJson, true, talkCitations),
-                    rewrittenTalkFile);
+            talkRewrittenContents.put(talkId, content);
+
+            if (writeContentToFiles) {
+                FileUtils.writeStringToFile(content, rewrittenTalkFile);
+            }
         }
     }
 
@@ -967,16 +1011,20 @@ public class SciCrawler {
                 + "%2F" + talkId;
     }
 
-    private Database updateDatabase(List<Link> citations) {
+    private Database updateDatabase(boolean writeToDatabase, List<Link> citations) {
         Database database = new Database();
 
-        database.updateMetaData(false, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
+        database.updateSpeakers(writeToDatabase, speakers);
+        database.updateMetaData(writeToDatabase, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
                 talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo, talkAudioUrls,
                 talkVideoUrls);
-        database.updateSpeakers(false, speakers);
-        database.updateCitations(false, citations, talkIds, year, annual, language);
+        database.updateCitations(writeToDatabase, citations, talkIds, year, annual, language);
 
         return database;
+    }
+
+    private void updateTalkContents(boolean writeToDatabase, Database database) {
+        database.updateTalkContents(writeToDatabase, talkRewrittenContents, language);
     }
 
     private String urlContent(String url) {
@@ -1037,8 +1085,14 @@ public class SciCrawler {
         FileUtils.writeStringToFile(citations.toString(), paths.citationsFile());
     }
 
-    private void writeHtmlContent(String talkId, JSONObject talkJson) {
-        FileUtils.writeStringToFile(talkHtmlContentForJson(talkId, talkJson, false, null), paths.talkFile(talkId));
+    private void writeHtmlContent(boolean writeContentToFiles, String talkId, JSONObject talkJson) {
+        String content = talkHtmlContentForJson(talkId, talkJson, false, null);
+
+        talkContents.put(talkId, content);
+
+        if (writeContentToFiles) {
+            FileUtils.writeStringToFile(content, paths.talkFile(talkId));
+        }
     }
 
     private class LinkEntry {

@@ -33,6 +33,8 @@ public class Database {
     private static final String INSERT_INTO = "INSERT INTO ";
     private static final String REPLACE_INTO = "REPLACE INTO ";
 
+    private static final String MEDIA_URL_PREFIX = "https://media2.ldscdn.org/assets/";
+
     private static final int POLYMORPHIC_CTYPE_ID_EN = 31;
     private static final int POLYMORPHIC_CTYPE_ID_ES = 62;
 
@@ -56,10 +58,11 @@ public class Database {
     private Logger logger = Logger.getLogger(Database.class.getName());
     private Map<Integer, Integer> sessionIds = new HashMap<>();
     private Map<Integer, String> sessionDates = new HashMap<>();
+    private Map<String, Integer> talkIdsForKeys = new HashMap<>();
     
     Database() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost/sci2p?" + "user=sci2puser&password=sci44access");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
         } catch (SQLException e) {
             logError(e);
         }
@@ -374,20 +377,29 @@ public class Database {
             stmt = conn.createStatement();
             // citation:
             // ID TalkID BookID Chapter Verses Flag PageColumn MinVerse MaxVerse
-            rs = stmt.executeQuery("SELECT t.ID, cs.Sequence, ct.Sequence, s.LastNames FROM talk t "
-                    + "JOIN conference_talk ct JOIN speaker s JOIN conf_session cs JOIN conference c "
-                    + "WHERE t.ID=ct.TalkID AND t.SpeakerID=s.ID AND ct.SessionID=cs.ID AND "
+            rs = stmt.executeQuery("SELECT t.ID, t.URL FROM talk t "
+                    + "JOIN conference_talk ct JOIN conf_session cs JOIN conference c "
+                    + "WHERE t.ID=ct.TalkID AND ct.SessionID=cs.ID AND "
                     + "cs.ConferenceID=c.ID AND c.year=" + year + " AND c.Annual='" + annual + "'");
 
             while (rs.next()) {
                 int talkId = rs.getInt(1);
-                String sessionSequence = rs.getString(2);
-                String talkSequence = rs.getString(3);
-                String lastName = rs.getString(4).split("\\s+")[0].toLowerCase();
+                String talkKey = rs.getString(2);
+                int index = talkKey.indexOf("?");
 
-                // NEEDSWORK: double-check talkId strings
-                talkIds.put(sessionSequence + talkSequence + lastName, talkId);
-                logger.log(Level.INFO, () -> "Talk ID map: " + sessionSequence + talkSequence + lastName + " -> " + talkId);
+                if (index >= 0) {
+                    talkKey = talkKey.substring(0, index);
+                }
+
+                index = talkKey.lastIndexOf("/");
+
+                if (index >= 0 && index + 1 < talkKey.length()) {
+                    talkKey = talkKey.substring(index + 1);
+                }
+
+                talkIds.put(talkKey, talkId);
+                String key = talkKey;
+                logger.log(Level.INFO, () -> "Talk ID map: " + key + " -> " + talkId);
             }
         } catch (SQLException e) {
             logError(e);
@@ -396,6 +408,14 @@ public class Database {
         }
 
         return talkIds;
+    }
+
+    private String trimMediaUrl(String url) {
+        if (url.startsWith(MEDIA_URL_PREFIX)) {
+            return url.substring(MEDIA_URL_PREFIX.length());
+        }
+
+        return url;
     }
 
     /*
@@ -419,8 +439,18 @@ public class Database {
 
         // Cases: no citations, some citations
         for (String talkId : talkIds) {
-            updateCitationsForTalk(writeToDatabase, talkId, talkIdsMap.get(talkId),
-                citations.stream().filter(citation -> citation.talkId.equals(talkId)).toArray(Link[]::new));
+            Link[] talkCitations = citations.stream().filter(citation -> citation.talkId.equals(talkId))
+                    .toArray(Link[]::new);
+
+            if (talkIdsMap.get(talkId) == null) {
+                logger.log(Level.SEVERE, () -> "Null map for " + talkId);
+
+                talkIdsMap.forEach((key, value) -> {
+                    logger.log(Level.SEVERE, () -> key + ": " + value);
+                });
+            }
+
+            updateCitationsForTalk(writeToDatabase, talkId, talkIdsMap.get(talkId), talkCitations);
         }
     }
 
@@ -464,9 +494,7 @@ public class Database {
             }
         }
 
-        citationsToWrite.forEach(citation -> {
-            logCitation(citation);
-        });
+        citationsToWrite.forEach(this::logCitation);
 
         if (writeToDatabase) {
             try {
@@ -641,6 +669,37 @@ public class Database {
         writeSpeakers(writeToDatabase, speakers, databaseSpeakers);
     }
 
+    public void updateTalkContents(boolean writeToDatabase, Map<String, String> talkContents, String language) {
+        talkContents.forEach((talkId, contents) -> {
+            logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());
+
+            if (writeToDatabase) {
+                PreparedStatement stmt = null;
+                ResultSet rs = null;
+                
+                try {
+                    Integer talkIdValue = talkIdsForKeys.get(talkId);
+
+                    if (talkIdValue == null) {
+                        logger.log(Level.SEVERE, () -> "Unable to write contents for talk " + talkId);
+                        logger.log(Level.SEVERE, () -> "Unknown TalkID value");
+                        System.exit(-1);
+                    } else {
+                        stmt = conn.prepareStatement(INSERT_INTO + tableForLanguage(TABLE_TALK_BODY, language)
+                                + " (TalkID, Text) VALUES (?, ?)");
+                        stmt.setInt(1, talkIdValue);
+                        stmt.setString(2, contents);
+                        stmt.execute();
+                    }
+                } catch (SQLException e) {
+                    logError(e);
+                } finally {
+                    cleanupStatement(stmt, rs);
+                }
+            }
+        });
+    }
+
     private void updateTalks(boolean writeToDatabase, List<String> talkIds, Map<String, String> talkHrefs,
             Map<String, Integer> talkSpeakerIds, Map<String, String> talkTitles, Map<String, int[]> pageRanges,
             Map<String, Integer> talkSequence, Map<String, Integer> talkSessionNo, Map<String, String> talkAudioUrls,
@@ -655,24 +714,18 @@ public class Database {
             talkCount += 1;
             String[] urls = urlsForTalk(talkId, talkAudioUrls, talkVideoUrls);
             updateTalk(writeToDatabase, talkHrefs.get(talkId), talkSpeakerIds.get(talkId), talkTitles.get(talkId),
-                    pageRanges.get(talkId), sessionId, sessionDate, talkSequence.get(talkId), urls, language, talkCount);
+                    pageRanges.get(talkId), sessionId, sessionDate, talkSequence.get(talkId), urls, language, talkCount,
+                    talkId);
         }
-
-        /*
-         * talkbody:
-         * TalkID, Text, ProcessedText, RawText, TagVector
-         *
-         * talk_stream:
-         * TalkID, AudioUrl, VideoLowUrl, VideoMedUrl, VideoHighUrl
-         */
     }
 
     private void updateTalk(boolean writeToDatabase, String href, int speakerId, String title, int[] pageRange,
-            int sessionId, String date, int sequence, String[] mediaUrls, String language, int talkCount) {
+            int sessionId, String date, int sequence, String[] mediaUrls, String language, int talkCount, String talkKey) {
 
         PreparedStatement stmt = null;
         ResultSet rs = null;
         int talkId = existingTalkId(title, date, sequence, language);
+        int maxTalkId = getMaxTalkId(tableForLanguage(TABLE_TALK, language));
 
         if (writeToDatabase) {
             if (talkId < 0) {
@@ -682,17 +735,18 @@ public class Database {
                 try {
                     stmt = conn.prepareStatement(
                             INSERT_INTO + tableForLanguage(TABLE_TALK, language)
-                                    + " (Corpus, TalkURL, Title, Date, SpeakerID, ListenURL, WatchURL, polymorphic_ctype_id) "
-                                    + "VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+                                    + " (ID, Corpus, URL, Title, Date, SpeakerID, ListenURL, WatchURL, polymorphic_ctype_id) "
+                                    + "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
                             Statement.RETURN_GENERATED_KEYS);
-                    stmt.setString(1, "G");
-                    stmt.setString(2, href);
-                    stmt.setString(3, title);
-                    stmt.setString(4, date);
-                    stmt.setInt(5, speakerId);
-                    stmt.setString(6, mediaUrl);
+                    stmt.setInt(1, maxTalkId + 1);
+                    stmt.setString(2, "G");
+                    stmt.setString(3, href);
+                    stmt.setString(4, title);
+                    stmt.setString(5, date);
+                    stmt.setInt(6, speakerId);
                     stmt.setString(7, mediaUrl);
-                    stmt.setInt(8, language.equals("spa") ? POLYMORPHIC_CTYPE_ID_ES : POLYMORPHIC_CTYPE_ID_EN);
+                    stmt.setString(8, mediaUrl);
+                    stmt.setInt(9, language.equals("spa") ? POLYMORPHIC_CTYPE_ID_ES : POLYMORPHIC_CTYPE_ID_EN);
 
                     stmt.execute();
                     rs = stmt.getGeneratedKeys();
@@ -764,6 +818,7 @@ public class Database {
 
         final int id = talkId;
 
+        talkIdsForKeys.put(talkKey, talkId);
         logger.log(Level.INFO, () -> "Talk: " + id + "; " + href + "; " + title + "; "
                 + date + "; " + speakerId + "; " + sessionId + "; "
                 + pageRange[0] + "-" + pageRange[1] + "; " + sequence);
@@ -780,6 +835,7 @@ public class Database {
 
         if (audioUrl != null) {
             haveUrl = true;
+            audioUrl = trimMediaUrl(audioUrl);
         } else {
             audioUrl = "";
         }
@@ -787,13 +843,13 @@ public class Database {
         if (videoUrls != null && videoUrls.length > 0) {
             for (String url : videoUrls) {
                 if (url.contains("360p")) {
-                    lowVideoUrl = url;
+                    lowVideoUrl = trimMediaUrl(url);
                     haveUrl = true;
                 } else if (url.contains("720p")) {
-                    mediumVideoUrl = url;
+                    mediumVideoUrl = trimMediaUrl(url);
                     haveUrl = true;
                 } else if (url.contains("1080p")) {
-                    highVideoUrl = url;
+                    highVideoUrl = trimMediaUrl(url);
                     haveUrl = true;
                 }
             }
@@ -812,10 +868,14 @@ public class Database {
                 + "VALUES (?, ?, ?, ?, ?, ?, ?, 0, 0)");) {
             for (Link citation : citationLinks) {
                 logger.log(Level.INFO, () -> "Inserting a citation record " + citation.citationId);
+                logger.log(Level.INFO,
+                        () -> citation.citationId + " " + talkIdsForKeys.get(citation.talkId) + " "
+                                + BookFinder.sInstance.bookIdForBook(citation.book) + "/" + citation.chapter + "."
+                                + citation.verses + " p. " + citation.page);
 
                 stmt.setInt(1, citation.citationId);
-                stmt.setString(2, citation.talkId);
-                stmt.setString(3, citation.book);
+                stmt.setInt(2, talkIdsForKeys.get(citation.talkId));
+                stmt.setInt(3, BookFinder.sInstance.bookIdForBook(citation.book));
                 stmt.setString(4, citation.chapter);
                 stmt.setString(5, citation.verses);
                 stmt.setString(6, citation.isJst ? "J" : "");

@@ -1,6 +1,8 @@
 package edu.byu.sci.crawler;
 
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -53,8 +55,8 @@ public class BookFinder {
             "1" + SPACE + JOHN_JUAN, "2" + SPACE + JOHN_JUAN, "3" + SPACE + JOHN_JUAN, "(Jude|Judas)",
             "(Revelation|Apocalipsis)",
             // NEEDSWORK: decide if we'll need to parse these...
-            "bofm-title", "introduction", "three", "eight", "1-ne", "2-ne", "jacob", "enos", "jarom", "omni", "w-of-m",
-            "mosiah", "alma", "hel", "3-ne", "4-ne", "morm", "ether", "moro", "introduction", "dc", "od", "moses",
+            "bofm-title", "(bofm-intro|introduction)", "three", "eight", "1-ne", "2-ne", "jacob", "enos", "jarom", "omni", "w-of-m",
+            "mosiah", "alma", "hel", "3-ne", "4-ne", "morm", "ether", "moro", "(dc-intro|introduction)", "dc", "od", "moses",
             "abr", "js-m", "js-h", "a-of-f");
 
     public static final BookFinder sInstance = new BookFinder();
@@ -69,11 +71,34 @@ public class BookFinder {
         return abbreviations.get(index);
     }
 
+    public int bookIdForBook(String book) {
+        int index = indexOfBook(book.startsWith("jst-") ? book.substring(4) : book);
+
+        if (index < 0) {
+            Logger.getLogger(BookFinder.class.getName()).log(Level.WARNING,
+                    () -> "Unable to find index of book '" + book + "'");
+        }
+
+        if (index >= PEARL_OF_GREAT_PRICE_INDEX) {
+            return index + 400 - PEARL_OF_GREAT_PRICE_INDEX + 1;
+        } else if (index >= DOCTRINE_AND_COVENANTS_INDEX) {
+            return index + 300 - DOCTRINE_AND_COVENANTS_INDEX + 1;
+        } else if (index >= BOOK_OF_MORMON_INDEX) {
+            return index + 200 - BOOK_OF_MORMON_INDEX + 1;
+        } else {
+            return index + 100 + 1;
+        }
+    }
+
     public int indexOfBook(String book) {
         for (int i = 0; i < bookPatterns.size(); i++) {
-            Matcher matcher = Pattern.compile(bookPatterns.get(i)).matcher(book);
+            Matcher matcher = Pattern.compile(bookPatterns.get(i), Pattern.CASE_INSENSITIVE).matcher(book);
 
             if (matcher.matches()) {
+                return i;
+            }
+
+            if (book.equalsIgnoreCase(abbreviations.get(i))) {
                 return i;
             }
         }
