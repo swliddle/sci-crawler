@@ -7,7 +7,6 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.http.impl.cookie.PublicSuffixListParser;
 import org.json.JSONObject;
 
 public class Link {
@@ -105,7 +104,7 @@ public class Link {
                     if (verses != null) {
                         String[] verseList = verses.split("([," + SciCrawler.HYPHEN + SciCrawler.NDASH + "])");
 
-                        correctVersesIfNeeded(verses, book, chapter);
+                        correctVersesIfNeeded(verses, chapter);
 
                         for (String verse : verseList) {
                             int verseValue = Integer.parseInt(verse);
@@ -213,7 +212,7 @@ public class Link {
         return books.bookForAbbreviation(bookKey);
     }
 
-    private void correctVersesIfNeeded(String verses, String book, String chapter) {
+    private void correctVersesIfNeeded(String verses, String chapter) {
         if (!verses.contains(",")) {
             return;
         }
