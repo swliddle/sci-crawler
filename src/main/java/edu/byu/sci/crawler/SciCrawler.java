@@ -84,6 +84,8 @@ public class SciCrawler {
     private final Map<String, Integer> talkSpeakerIds = new HashMap<>();
     private final Map<String, String> talkSpeakerInitials = new HashMap<>();
     private final Map<String, String> talkTitles = new HashMap<>();
+    private final Map<String, String> talkAudioUrls = new HashMap<>();
+    private final Map<String, String[]> talkVideoUrls = new HashMap<>();
 
     // Initialization
     public SciCrawler(int year, int month, String language) {
@@ -229,14 +231,8 @@ public class SciCrawler {
         crawler.showTables();
         crawler.processUpdatedCitations(scriptureCitations);
 
-        Database database = crawler.updateDatabase();
+        Database database = crawler.updateDatabase(scriptureCitations);
         crawler.rewriteUrls(scriptureCitations, database);
-
-        /*
-        // NEEDSWORK: get media URLs
-        // citation:
-        //  ID TalkID BookID Chapter Verses Flag PageColumn MinVerse MaxVerse
-        */
     }
 
     /*
@@ -354,6 +350,8 @@ public class SciCrawler {
             }
         
             writeHtmlContent(talkId, talkJson);
+            extractAudioUrl(talkId, talkJson);
+            extractVideoUrls(talkId, talkBody);
         });
 
         return scriptureLinks;
@@ -369,6 +367,26 @@ public class SciCrawler {
                 .replace(NDASH, "&#2013;");
     }
     
+    private void extractAudioUrl(String talkId, JSONObject talkJson) {
+        JSONObject meta = talkJson.getJSONObject("meta");
+
+        if (meta != null) {
+            JSONArray audio = meta.getJSONArray("audio");
+
+            if (audio != null && !audio.isEmpty()) {
+                JSONObject audioObject = (JSONObject) audio.get(0);
+
+                if (audioObject != null) {
+                    String mediaUrl = audioObject.getString("mediaUrl");
+
+                    if (mediaUrl != null) {
+                        talkAudioUrls.put(talkId, mediaUrl);
+                    }
+                }
+            }
+        }
+    }
+
     private void extractJstLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = jstPattern.matcher(content);
         
@@ -386,16 +404,6 @@ public class SciCrawler {
                     + language + "#p" + Link.firstVerse(verses),
                     fullMatch, book, chapter, verses, true));
         }
-    }
-        
-    private String extractMatch(String text, String regex) {
-        Matcher matcher = Pattern.compile(regex, Pattern.MULTILINE | Pattern.DOTALL).matcher(text);
-        
-        if (matcher.find()) {
-            return matcher.group(1);
-        }
-        
-        return null;
     }
 
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
@@ -419,9 +427,19 @@ public class SciCrawler {
                     }
                 });
             }
-        
+
             extractJstLinks(footnote.getString("text"), talkId, links);
         }
+    }
+
+    private String extractMatch(String text, String regex) {
+        Matcher matcher = Pattern.compile(regex, Pattern.MULTILINE | Pattern.DOTALL).matcher(text);
+
+        if (matcher.find()) {
+            return matcher.group(1);
+        }
+
+        return null;
     }
 
     private void extractScriptureLinks(String content, String talkId, List<Link> links) {
@@ -432,6 +450,36 @@ public class SciCrawler {
         }
     }
     
+    private void extractVideoUrls(String talkId, String content) {
+        List<String> urls = new ArrayList<>();
+        int index1 = content.indexOf("<video");
+
+        if (index1 < 0) {
+            return;
+        }
+
+        int index2 = content.indexOf("</video>", index1);
+
+        if (index2 < 0) {
+            return;
+        }
+
+        Matcher matcher = Pattern.compile("<source\\s+src=\"([^\"]*)\"\\s+type=\"([^\"]*)\"")
+                .matcher(content.substring(index1, index2));
+
+        while (matcher.find()) {
+            String type = matcher.group(2);
+
+            if (type.equals("video/mp4")) {
+                urls.add(matcher.group(1));
+            }
+        }
+
+        if (!urls.isEmpty()) {
+            talkVideoUrls.put(talkId, urls.toArray(String[]::new));
+        }
+    }
+
     private int filterTalkSubitem(String itemHref, String itemTitle, String itemSpeaker, int sessionNumber, int talkNumber) {
         String itemId = extractMatch(itemHref, "[0-9]+/[0-9]+/(.*)\\?");
         
@@ -645,6 +693,7 @@ public class SciCrawler {
                     if (fields.length != 5 || !link.href.contains(fields[1])) {
                         final int line = i + 1;
                         logger.log(Level.SEVERE, () -> "Incorrect DELETE line at line " + line);
+                        System.exit(-1);
                         return;
                     }
 
@@ -653,6 +702,7 @@ public class SciCrawler {
                     if (fields.length != 6) {
                         final int line = i + 1;
                         logger.log(Level.SEVERE, () -> "Incorrect ADD line format at line " + line);
+                        System.exit(-1);
                         return;
                     }
 
@@ -662,13 +712,17 @@ public class SciCrawler {
                 } else {
                     if (fields.length != 4 || !link.href.contains(fields[0])) {
                         final int line = i + 1;
+                        final String lineText = lines[i];
                         logger.log(Level.SEVERE, () -> "Incorrect line format at line " + line);
+                        logger.log(Level.SEVERE, () -> "Line: [" + lineText + "]");
+                        System.exit(-1);
                         return;
                     }
 
                     if (!link.href.contains(fields[0])) {
                         final int line = i + 1;
                         logger.log(Level.SEVERE, () -> "Misaligned input citation at line " + line);
+                        System.exit(-1);
                         return;
                     }
 
@@ -678,6 +732,7 @@ public class SciCrawler {
 
             if (lines.length != citations.size()) {
                 logger.log(Level.SEVERE, "Unexpected size for updated citations file");
+                System.exit(-1);
             }
         } else {
             logger.log(Level.INFO, () -> "Need updated citations file (" + paths.updatedCitationsFile() + ")");
@@ -783,9 +838,6 @@ public class SciCrawler {
 
             maxCitationId += citationCount;
         }
-
-        // NEEDSWORK: video and audio URLs are in the JSON source
-        // NEEDSWORK: footnotes from JSON are not substituted
 
         if (footnotes != null) {
             inlineFootnotes(body, footnotes);
@@ -915,12 +967,14 @@ public class SciCrawler {
                 + "%2F" + talkId;
     }
 
-    private Database updateDatabase() {
+    private Database updateDatabase(List<Link> citations) {
         Database database = new Database();
 
         database.updateMetaData(false, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
-                talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo);
+                talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo, talkAudioUrls,
+                talkVideoUrls);
         database.updateSpeakers(false, speakers);
+        database.updateCitations(false, citations, talkIds, year, annual, language);
 
         return database;
     }
@@ -940,6 +994,7 @@ public class SciCrawler {
                     StandardCharsets.UTF_8);
         } catch (IOException e) {
             logger.log(Level.SEVERE, () -> "Unable to retrive URL " + url);
+            System.exit(-1);
         }
 
         httpGet.releaseConnection();

@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.List;
@@ -30,6 +31,7 @@ public class Database {
     private static final Map<String, String> sSessionAbbreviation = new HashMap<>();
 
     private static final String INSERT_INTO = "INSERT INTO ";
+    private static final String REPLACE_INTO = "REPLACE INTO ";
 
     private static final int POLYMORPHIC_CTYPE_ID_EN = 31;
     private static final int POLYMORPHIC_CTYPE_ID_ES = 62;
@@ -47,7 +49,9 @@ public class Database {
     private static final String TABLE_CONFERENCE_TALK = "conference_talk";
     private static final String TABLE_SPEAKER = "speaker";
     private static final String TABLE_TALK = "talk";
-
+    private static final String TABLE_TALK_BODY = "talkbody";
+    private static final String TABLE_TALK_STREAM = "talk_stream";
+ 
     private Connection conn = null;
     private Logger logger = Logger.getLogger(Database.class.getName());
     private Map<Integer, Integer> sessionIds = new HashMap<>();
@@ -103,6 +107,14 @@ public class Database {
         return session;
     }
 
+    private int addCitation(Link citation, List<Link> citations, int maxCitationId) {
+        maxCitationId += 1;
+        citation.citationId = maxCitationId;
+        citations.add(citation);
+
+        return maxCitationId;
+    }
+
     private GregorianCalendar chooseSessionDate(String session, String language, GregorianCalendar saturdayDate,
             GregorianCalendar sundayDate) {
 
@@ -117,6 +129,39 @@ public class Database {
         }
 
         return saturdayDate;
+    }
+
+    private List<Link> citationsForTalk(int talkId) {
+        Statement stmt = null;
+        ResultSet rs = null;
+        List<Link> citations = new ArrayList<>();
+
+        try {
+            stmt = conn.createStatement();
+            // citation:
+            // ID TalkID BookID Chapter Verses Flag PageColumn MinVerse MaxVerse
+            rs = stmt.executeQuery("SELECT * FROM citation WHERE TalkID=" + talkId + " ORDER BY ID");
+
+            while (rs.next()) {
+                Link link = new Link(null, null, null);
+
+                link.citationId = rs.getInt(1);
+                link.talkId = rs.getString(2);
+                link.book = rs.getString(3);
+                link.chapter = rs.getString(4);
+                link.verses = rs.getString(5);
+                link.isJst = "FJ".contains(rs.getString(6));
+                link.page = Utils.integerValue(rs.getString(7));
+
+                citations.add(link);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return citations;
     }
 
     private void cleanupStatement(Statement stmt, ResultSet rs) {
@@ -220,6 +265,28 @@ public class Database {
         return talkId;
     }
 
+    private int existingTalkStreamId(int talkId, String language) {
+        Statement stmt = null;
+        ResultSet rs = null;
+        int existingTalkId = -1;
+
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery(
+                    "SELECT TalkID FROM " + tableForLanguage(TABLE_TALK_STREAM, language) + " WHERE TalkID=" + talkId);
+
+            if (rs.next()) {
+                existingTalkId = rs.getInt(1);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return existingTalkId;
+    }
+
     public int getMaxCitationId() {
         return getMaxId(TABLE_CITATION);
     }
@@ -264,14 +331,150 @@ public class Database {
         return maxId;
     }
 
+    private int indexOfMatch(List<Link> citations, Link citation) {
+        for (int i = 0; i < citations.size(); i++) {
+            Link candidate = citations.get(i);
+
+            if (linksMatch(citation, candidate)) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+
+    private boolean linksMatch(Link link1, Link link2) {
+        return link1.talkId.equals(link2.talkId) && link1.book.equals(link2.book) && link1.chapter.equals(link2.chapter)
+                && link1.verses.equals(link2.verses) && link1.page == link2.page && link1.isJst == link2.isJst;
+    }
+
+    private void logCitation(Link citation) {
+        logger.log(Level.INFO,
+                () -> "Need to write citation: " + citation.citationId + " " + citation.talkId + " " + citation.book
+                        + " " + citation.chapter + " " + citation.verses + " " + citation.isJst + " " + citation.page);
+    }
+
     private void logError(SQLException e) {
         logger.log(Level.SEVERE, () -> "SQLException: " + e.getMessage());
         logger.log(Level.SEVERE, () -> "SQLState: " + e.getSQLState());
         logger.log(Level.SEVERE, () -> "VendorError: " + e.getErrorCode());
+        System.exit(-1);
     }    
 
     private String tableForLanguage(String table, String language) {
         return language.equals("spa") ? table + "_es" : table;
+    }
+
+    private Map<String, Integer> talksForConference(int year, String annual) {
+        Statement stmt = null;
+        ResultSet rs = null;
+        Map<String, Integer> talkIds = new HashMap<>();
+
+        try {
+            stmt = conn.createStatement();
+            // citation:
+            // ID TalkID BookID Chapter Verses Flag PageColumn MinVerse MaxVerse
+            rs = stmt.executeQuery("SELECT t.ID, cs.Sequence, ct.Sequence, s.LastNames FROM talk t "
+                    + "JOIN conference_talk ct JOIN speaker s JOIN conf_session cs JOIN conference c "
+                    + "WHERE t.ID=ct.TalkID AND t.SpeakerID=s.ID AND ct.SessionID=cs.ID AND "
+                    + "cs.ConferenceID=c.ID AND c.year=" + year + " AND c.Annual='" + annual + "'");
+
+            while (rs.next()) {
+                int talkId = rs.getInt(1);
+                String sessionSequence = rs.getString(2);
+                String talkSequence = rs.getString(3);
+                String lastName = rs.getString(4).split("\\s+")[0].toLowerCase();
+
+                // NEEDSWORK: double-check talkId strings
+                talkIds.put(sessionSequence + talkSequence + lastName, talkId);
+                logger.log(Level.INFO, () -> "Talk ID map: " + sessionSequence + talkSequence + lastName + " -> " + talkId);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return talkIds;
+    }
+
+    /*
+     * Strategy is to start by querying the talks for this conference.
+     * Create a map from talkId (e.g. 11nelson) to TalkID (e.g. 8057).
+     * Then create a map from talkId to set of citations for that talk.
+     * Without talks already in the database, we can't add citations.
+     */
+    public void updateCitations(boolean writeToDatabase, List<Link> citations, List<String> talkIds, int year,
+            String annual, String language) {
+        Map<String, Integer> talkIdsMap = talksForConference(year, annual);
+
+        if (talkIdsMap.isEmpty()) {
+            int maxTalkId = getMaxTalkId(tableForLanguage(TABLE_TALK, language));
+
+            for (String talkId : talkIds) {
+                maxTalkId += 1;
+                talkIdsMap.put(talkId, maxTalkId);
+            }
+        }
+
+        // Cases: no citations, some citations
+        for (String talkId : talkIds) {
+            updateCitationsForTalk(writeToDatabase, talkId, talkIdsMap.get(talkId),
+                citations.stream().filter(citation -> citation.talkId.equals(talkId)).toArray(Link[]::new));
+        }
+    }
+
+    private void updateCitationsForTalk(boolean writeToDatabase, String talkId, int talkIdValue,
+            Link[] citations) {
+        if (citations.length <= 0) {
+            // By definition there is nothing to do
+            return;
+        }
+
+        int maxCitationId = getMaxId(TABLE_CITATION);
+        List<Link> talkCitations = citationsForTalk(talkIdValue);
+        List<Link> citationsToWrite = new ArrayList<>();
+
+        if (talkCitations.isEmpty()) {
+            // There are no citations in the database
+            for (Link citation : citations) {
+                maxCitationId = addCitation(citation, citationsToWrite, maxCitationId);
+            }
+        } else {
+            // We need to compare to see if we have the same citations...
+            for (Link citation : citations) {
+                // Can we find this citation in the database list?
+                int index = indexOfMatch(talkCitations, citation);
+
+                if (index >= 0) {
+                    logger.log(Level.INFO, () -> "Already have citation record for " + citation.citationId);
+                    talkCitations.remove(index);
+                } else {
+                    logger.log(Level.INFO, () -> "Need to create citation record for " + citation.citationId);
+                    maxCitationId = addCitation(citation, citationsToWrite, maxCitationId);
+                }
+            }
+
+            if (citationsToWrite.isEmpty()) {
+                logger.log(Level.INFO, () -> "There are no citations to write for talk " + talkId);
+            }
+
+            if (!talkCitations.isEmpty()) {
+                logger.log(Level.WARNING, () -> "There are citations in database not in list for talk " + talkId);
+            }
+        }
+
+        citationsToWrite.forEach(citation -> {
+            logCitation(citation);
+        });
+
+        if (writeToDatabase) {
+            try {
+                writeCitationsToDatabase(citationsToWrite);
+            } catch (SQLException e) {
+                logError(e);
+            }
+        }
     }
 
     private int updateConference(boolean writeToDatabase, String description, String abbr, int year, String annual,
@@ -332,13 +535,14 @@ public class Database {
             List<String> sessions, GregorianCalendar saturdayDate, GregorianCalendar sundayDate,        
             List<String> talkIds, Map<String, String> talkHrefs, Map<String, Integer> talkSpeakerIds,
             Map<String, String> talkTitles, Map<String, int[]> pageRanges, Map<String, Integer> talkSequence,
-            Map<String, Integer> talkSessionNo) {
+            Map<String, Integer> talkSessionNo, Map<String, String> talkAudioUrls,
+            Map<String, String[]> talkVideoUrls) {
  
         int conferenceId = updateConference(writeToDatabase, conferenceDescription(year, language, annual),
                 conferenceAbbreviation(year, language, annual), year, annual, issueDate, language);
         updateSessions(writeToDatabase, sessions, language, saturdayDate, sundayDate, conferenceId);
         updateTalks(writeToDatabase, talkIds, talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence,
-                talkSessionNo, language);
+                talkSessionNo, talkAudioUrls, talkVideoUrls, language);
     }
 
     private int updateSession(boolean writeToDatabase, String description, String abbreviation,
@@ -439,7 +643,8 @@ public class Database {
 
     private void updateTalks(boolean writeToDatabase, List<String> talkIds, Map<String, String> talkHrefs,
             Map<String, Integer> talkSpeakerIds, Map<String, String> talkTitles, Map<String, int[]> pageRanges,
-            Map<String, Integer> talkSequence, Map<String, Integer> talkSessionNo, String language) {
+            Map<String, Integer> talkSequence, Map<String, Integer> talkSessionNo, Map<String, String> talkAudioUrls,
+            Map<String, String[]> talkVideoUrls, String language) {
 
         int talkCount = 0;
 
@@ -448,13 +653,22 @@ public class Database {
             String sessionDate = sessionDates.get(talkSessionNo.get(talkId));
 
             talkCount += 1;
+            String[] urls = urlsForTalk(talkId, talkAudioUrls, talkVideoUrls);
             updateTalk(writeToDatabase, talkHrefs.get(talkId), talkSpeakerIds.get(talkId), talkTitles.get(talkId),
-                    pageRanges.get(talkId), sessionId, sessionDate, talkSequence.get(talkId), language, talkCount);
+                    pageRanges.get(talkId), sessionId, sessionDate, talkSequence.get(talkId), urls, language, talkCount);
         }
+
+        /*
+         * talkbody:
+         * TalkID, Text, ProcessedText, RawText, TagVector
+         *
+         * talk_stream:
+         * TalkID, AudioUrl, VideoLowUrl, VideoMedUrl, VideoHighUrl
+         */
     }
 
-    private void updateTalk(boolean writeToDatabase, String href, int speakerId, String title,
-            int[] pageRange, int sessionId, String date, int sequence, String language, int talkCount) {
+    private void updateTalk(boolean writeToDatabase, String href, int speakerId, String title, int[] pageRange,
+            int sessionId, String date, int sequence, String[] mediaUrls, String language, int talkCount) {
 
         PreparedStatement stmt = null;
         ResultSet rs = null;
@@ -496,7 +710,7 @@ public class Database {
 
                 try {
                     rs = null;
-                    stmt = conn.prepareStatement("REPLACE INTO " + TABLE_CONFERENCE_TALK
+                    stmt = conn.prepareStatement(REPLACE_INTO + TABLE_CONFERENCE_TALK
                             + " (TalkID, SessionID, StartPageNum, EndPageNum, Sequence, talk_ptr_id) "
                             + "VALUES (?, ?, ?, ?, ?, ?)");
                     stmt.setInt(1, talkId);
@@ -512,6 +726,25 @@ public class Database {
                 } finally {
                     cleanupStatement(stmt, rs);
                 }
+
+                if (mediaUrls.length == 4) {
+                    try {
+                        rs = null;
+                        stmt = conn.prepareStatement(REPLACE_INTO + tableForLanguage(TABLE_TALK_STREAM, language)
+                                + " (TalkID, AudioUrl, VideoLowUrl, VideoMedUrl, VideoHighUrl) VALUES (?, ?, ?, ?, ?)");
+                        stmt.setInt(1, talkId);
+
+                        for (int i = 0; i < mediaUrls.length; i++) {
+                            stmt.setString(i + 2, mediaUrls[i]);
+                        }
+
+                        stmt.execute();
+                    } catch (SQLException e) {
+                        logError(e);
+                    } finally {
+                        cleanupStatement(stmt, rs);
+                    }
+                }
             } else {
                 logger.log(Level.INFO, "Skip insert: it appears there is already a talk record");
             }
@@ -519,8 +752,13 @@ public class Database {
             if (talkId < 0) {
                 talkId = getMaxTalkId(tableForLanguage(TABLE_TALK, language)) + talkCount;
                 logger.log(Level.INFO, "Need to insert talk record");
+                logger.log(Level.INFO, "Need to insert talk stream record");
             } else {
                 logger.log(Level.INFO, "It appears there is already a talk record");
+
+                if (existingTalkStreamId(talkId, language) > 0) {
+                    logger.log(Level.INFO, "It appears there is already a talk stream record");
+                }
             }
         }
 
@@ -529,6 +767,65 @@ public class Database {
         logger.log(Level.INFO, () -> "Talk: " + id + "; " + href + "; " + title + "; "
                 + date + "; " + speakerId + "; " + sessionId + "; "
                 + pageRange[0] + "-" + pageRange[1] + "; " + sequence);
+    }
+
+    private String[] urlsForTalk(String talkId, Map<String, String> talkAudioUrls,
+            Map<String, String[]> talkVideoUrls) {
+        String audioUrl = talkAudioUrls.get(talkId);
+        String lowVideoUrl = "";
+        String mediumVideoUrl = "";
+        String highVideoUrl = "";
+        String[] videoUrls = talkVideoUrls.get(talkId);
+        boolean haveUrl = false;
+
+        if (audioUrl != null) {
+            haveUrl = true;
+        } else {
+            audioUrl = "";
+        }
+
+        if (videoUrls != null && videoUrls.length > 0) {
+            for (String url : videoUrls) {
+                if (url.contains("360p")) {
+                    lowVideoUrl = url;
+                    haveUrl = true;
+                } else if (url.contains("720p")) {
+                    mediumVideoUrl = url;
+                    haveUrl = true;
+                } else if (url.contains("1080p")) {
+                    highVideoUrl = url;
+                    haveUrl = true;
+                }
+            }
+        }
+
+        if (haveUrl) {
+            return new String[] { audioUrl, lowVideoUrl, mediumVideoUrl, highVideoUrl };
+        }
+
+        return new String[] {};
+    }
+
+    private void writeCitationsToDatabase(List<Link> citationLinks) throws SQLException {
+        try (PreparedStatement stmt = conn.prepareStatement(INSERT_INTO + TABLE_CITATION
+                + " (ID, TalkID, BookID, Chapter, Verses, Flag, PageColumn, MinVerse, MaxVerse) "
+                + "VALUES (?, ?, ?, ?, ?, ?, ?, 0, 0)");) {
+            for (Link citation : citationLinks) {
+                logger.log(Level.INFO, () -> "Inserting a citation record " + citation.citationId);
+
+                stmt.setInt(1, citation.citationId);
+                stmt.setString(2, citation.talkId);
+                stmt.setString(3, citation.book);
+                stmt.setString(4, citation.chapter);
+                stmt.setString(5, citation.verses);
+                stmt.setString(6, citation.isJst ? "J" : "");
+                stmt.setInt(7, citation.page);
+
+                stmt.addBatch();
+            }
+
+            stmt.executeBatch();
+        }
     }
 
     private void writeSpeakers(boolean writeToDatabase, Speakers speakers, Map<Integer, String> databaseSpeakers) {
@@ -546,7 +843,7 @@ public class Database {
 
                     try {
                         stmt = conn.prepareStatement(INSERT_INTO + TABLE_SPEAKER
-                                + " (ID, GivenNames, LastNames, Abbr, Info, NameSort) " + "VALUES (?, ?, ?, ?, ?, ?)");
+                                + " (ID, GivenNames, LastNames, Abbr, Info, NameSort) VALUES (?, ?, ?, ?, ?, ?)");
                         stmt.setInt(1, speaker.getInt(Speakers.KEY_ID));
                         stmt.setString(2, speaker.getString(Speakers.KEY_GIVENNAMES));
                         stmt.setString(3, speaker.getString(Speakers.KEY_LASTNAMES));

@@ -7,6 +7,7 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.apache.http.impl.cookie.PublicSuffixListParser;
 import org.json.JSONObject;
 
 public class Link {
@@ -15,6 +16,7 @@ public class Link {
     private static final Logger logger = Logger.getLogger(Link.class.getName());
     private static final Books books = new Books();
 
+    int citationId;
     String talkId;
     String href;
     String text;
@@ -50,6 +52,7 @@ public class Link {
                     + language + "#p" + Link.firstVerse(verses);
         } else {
             logger.log(Level.SEVERE, () -> "Ill-formed href: " + href);
+            System.exit(-1);
             this.href = href;
         }
 
@@ -102,6 +105,8 @@ public class Link {
                     if (verses != null) {
                         String[] verseList = verses.split("([," + SciCrawler.HYPHEN + SciCrawler.NDASH + "])");
 
+                        correctVersesIfNeeded(verses, book, chapter);
+
                         for (String verse : verseList) {
                             int verseValue = Integer.parseInt(verse);
 
@@ -115,9 +120,12 @@ public class Link {
                             }
                         }
                     } else {
-                        verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
-
                         addLinksForReferencedChaptersOtherThanChapter(links, Utils.integerValue(chapter));
+                        this.verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
+
+                        if (!href.contains(".")) {
+                            href = href.replace("?", "." + this.verses + "?");
+                        }
                     }
                 } else {
                     // There is no chapter given; if the book should have
@@ -143,6 +151,11 @@ public class Link {
 
         link.chapter = "" + chapter;
         link.verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
+
+        if (!link.href.contains(".")) {
+            link.href += "." + link.verses;
+        }
+
         links.add(link);
     }
 
@@ -198,6 +211,50 @@ public class Link {
         }
 
         return books.bookForAbbreviation(bookKey);
+    }
+
+    private void correctVersesIfNeeded(String verses, String book, String chapter) {
+        if (!verses.contains(",")) {
+            return;
+        }
+
+        StringBuilder canonicalVerses = new StringBuilder();
+        String[] components = verses.split(",");
+        int previousValue = -1;
+        boolean needsComma = false;
+
+        for (String component : components) {
+            if (component.contains(SciCrawler.HYPHEN) || component.contains(SciCrawler.NDASH)) {
+                if (needsComma) {
+                    canonicalVerses.append(",");
+                }
+
+                previousValue = -1;
+                canonicalVerses.append(component);
+            } else {
+                int verseValue = Utils.integerValue(component);
+
+                if (verseValue == previousValue + 1) {
+                    canonicalVerses.append(SciCrawler.HYPHEN);
+                    previousValue = -1;
+                } else {
+                    if (needsComma) {
+                        canonicalVerses.append(",");
+                    }
+
+                    previousValue = verseValue;
+                }
+
+                canonicalVerses.append(component);
+            }
+
+            needsComma = true;
+        }
+
+        if (!verses.equals(canonicalVerses.toString())) {
+            this.verses = canonicalVerses.toString();
+            this.href = this.href.replace(chapter + "." + verses, chapter + "." + this.verses);
+        }
     }
 
     public static String firstVerse(String verses) {

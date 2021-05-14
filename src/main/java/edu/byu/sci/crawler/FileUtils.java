@@ -23,6 +23,7 @@ public class FileUtils {
             stream.forEach(s -> contentBuilder.append(s).append("\n"));
         } catch (IOException e) {
             Logger.getLogger(FileUtils.class.getName()).log(Level.SEVERE, () -> "Unable to read file: " + e);
+            System.exit(-1);
         }
 
         return contentBuilder.toString();
@@ -35,6 +36,7 @@ public class FileUtils {
             }
         } catch (IOException e) {
             Logger.getLogger(FileUtils.class.getName()).log(Level.SEVERE, () -> "Unable to write file: " + e);
+            System.exit(-1);
         }
     }
 }

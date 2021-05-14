@@ -117,6 +117,7 @@ public class Speakers {
             file.close();
         } catch (JSONException|IOException e) {
             logger.log(Level.SEVERE, "Unable to write JSON file", e);
+            System.exit(-1);
         }
 
         logger.log(Level.WARNING, ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
