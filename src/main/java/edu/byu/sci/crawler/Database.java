@@ -154,7 +154,7 @@ public class Database {
                 link.book = rs.getString(3);
                 link.chapter = rs.getString(4);
                 link.verses = rs.getString(5);
-                link.isJst = "FJ".contains(rs.getString(6));
+                link.isJst = "J".equals(rs.getString(6));
                 link.page = Utils.integerValue(rs.getString(7));
 
                 citations.add(link);
@@ -356,8 +356,12 @@ public class Database {
     }
 
     private boolean linksMatch(Link link1, Link link2) {
-        return link1.talkId.equals(link2.talkId) && link1.book.equals(link2.book) && link1.chapter.equals(link2.chapter)
-                && link1.verses.equals(link2.verses) && link1.page == link2.page && link1.isJst == link2.isJst;
+        String candidateTalkId = "" + talkIdsForKeys.get(link1.talkId);
+        String candidateBookId = "" + BookFinder.sInstance.bookIdForBook(link1.book);
+
+        return link2.talkId.equals(candidateTalkId) && link2.book.equals(candidateBookId)
+                && link2.chapter.equals(link1.chapter) && link2.verses.equals(link1.verses) && link2.page == link1.page
+                && link2.isJst == link1.isJst;
     }
 
     private void logCitation(Link citation) {

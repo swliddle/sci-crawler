@@ -28,7 +28,6 @@ public class SciCrawler {
      * NEEDSWORK:
      * - speaker info needs updating for Jr./Sr. etc. -- update database?
      * - need to rewrite visible text of chapter links we've expanded (with verse range for chapter)
-     * - pre-existing citation check is not working -- spa re-adds same citations as eng
      */
 
     // Constants
@@ -53,6 +52,7 @@ public class SciCrawler {
     private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
     private static final String URL_GENERAL_CONFERENCE = URL_BASE + "/study/general-conference";
     private static final String URL_LIAHONA = URL_BASE + "/study/liahona";
+    private static final String URL_LANG = "?lang=";
     
     private static final String A_ACCENT = "(?:a|á|&#x[eE]1;|&#aacute;)";
     private static final String CAP_E_ACCENT = "(?:E|É|&#x[cC]9;|&#Eacute;)";
@@ -453,7 +453,7 @@ public class SciCrawler {
         
             links.add(new Link(
                     talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
-                    + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + "?lang="
+                    + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
                     + language + "#p" + Link.firstVerse(verses),
                     fullMatch, book, chapter, verses, true));
         }
@@ -1080,10 +1080,10 @@ public class SciCrawler {
                 urlMonth = "10";
             }
 
-            return URL_GENERAL_CONFERENCE + "/" + year + "/" + urlMonth + "?lang=" + language;
+            return URL_GENERAL_CONFERENCE + "/" + year + "/" + urlMonth + URL_LANG + language;
         }
 
-        return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + "?lang=" + language;
+        return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + URL_LANG + language;
     }
 
     private void writeCitationsToFile(List<Link> scriptureLinks) {
