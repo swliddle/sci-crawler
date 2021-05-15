@@ -30,6 +30,8 @@ public class Database {
     private static final Map<String, String> sConferenceAbbreviation = new HashMap<>();
     private static final Map<String, String> sSessionAbbreviation = new HashMap<>();
 
+    private static final String FIELD_VERSES = "Verses";
+
     private static final String INSERT_INTO = "INSERT INTO ";
     private static final String REPLACE_INTO = "REPLACE INTO ";
 
@@ -47,6 +49,7 @@ public class Database {
             "del sábado por la tarde", "del sábado por la noche" };
 
     private static final String TABLE_CITATION = "citation";
+    private static final String TABLE_CITATION_VERSE = "citation_verse";
     private static final String TABLE_CONFERENCE = "conference";
     private static final String TABLE_CONFERENCE_SESSION = "conf_session";
     private static final String TABLE_CONFERENCE_TALK = "conference_talk";
@@ -63,7 +66,8 @@ public class Database {
     
     Database() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost/sci2p?user=sci2puser&password=sci44access");
+            // conn = DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
         } catch (SQLException e) {
             logError(e);
         }
@@ -119,6 +123,68 @@ public class Database {
         return maxCitationId;
     }
 
+    public void calculateVerseSets() {
+        logger.log(Level.INFO, "Calculate verse sets");
+        int max = 0;
+        int min = 0;
+        boolean first;
+        Statement stmt = null;
+        ResultSet rs = null;
+
+        try {
+            stmt = conn.createStatement();
+            String sql = "SELECT ID, Verses FROM " + TABLE_CITATION + " WHERE MinVerse=0 OR MaxVerse=0";
+            String updateSql = REPLACE_INTO + TABLE_CITATION_VERSE + " (CitationID, Verse) VALUES (";
+
+            stmt.execute(sql);
+            rs = stmt.getResultSet();
+
+            while (rs.next()) {
+                String versesField = rs.getString(FIELD_VERSES);
+
+                max = 0;
+                first = true;
+
+                if (versesField == null || versesField.trim().equals("") || versesField.equalsIgnoreCase("headnote")) {
+                    // Skip citations that have no verses.
+                    continue;
+                }
+
+                String[] verseRanges = rs.getString(FIELD_VERSES).split(",");
+
+                for (String range : verseRanges) {
+                    String[] verses = range.split("-");
+                    int verse1 = Integer.parseInt(verses[0]);
+                    int verse2 = verse1;
+
+                    if (first) {
+                        min = verse1;
+                        first = false;
+                    }
+
+                    if (verses.length == 2) {
+                        verse2 = Integer.parseInt(verses[1]);
+                    }
+
+                    for (int i = verse1; i <= verse2; i++) {
+                        if (i > max) {
+                            max = i;
+                        }
+
+                        executeSql(updateSql + rs.getString("ID") + ", " + i + ")");
+                    }
+                }
+
+                executeVerseUpdate("MinVerse", min, rs.getString("ID"));
+                executeVerseUpdate("MaxVerse", max, rs.getString("ID"));
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+    }
+
     private GregorianCalendar chooseSessionDate(String session, String language, GregorianCalendar saturdayDate,
             GregorianCalendar sundayDate) {
 
@@ -168,7 +234,7 @@ public class Database {
         return citations;
     }
 
-    private void cleanupStatement(Statement stmt, ResultSet rs) {
+    public void cleanupStatement(Statement stmt, ResultSet rs) {
         if (rs != null) {
             try {
                 rs.close();
@@ -194,11 +260,47 @@ public class Database {
         return year + sConferenceDescription.get(annual + "-" + language);
     }
 
+    private void createTalkbody2Tables() {
+        String prefix = "CREATE TABLE IF NOT EXISTS `";
+        String suffix = "` (`TalkID` int(11) NOT NULL, `Text` mediumtext, "
+                + "`ProcessedText` mediumtext, `RawText` mediumtext, `TagVector` mediumblob, "
+                + "PRIMARY KEY (`TalkID`)) ENGINE=MyISAM DEFAULT CHARSET=utf8";
+
+        executeSql(prefix + "talkbody2" + suffix);
+        executeSql(prefix + "talkbody2_es" + suffix);
+    }
+
     private String descriptionForSession(String session, GregorianCalendar date, String language) {
         DateFormat dateFormat = new SimpleDateFormat("d MMM yyyy",
                 language.equals("spa") ? new Locale("es") : Locale.US);
 
         return session + ", " + dateFormat.format(date.getTime());
+    }
+
+    private void executeSql(String sql) {
+        Statement stmt = null;
+
+        try {
+            stmt = conn.createStatement();
+            stmt.execute(sql);
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, null);
+        }
+    }
+
+    private void executeVerseUpdate(String field, int value, String id) {
+        Statement stmt = null;
+
+        try {
+            stmt = conn.createStatement();
+            stmt.executeUpdate("UPDATE " + TABLE_CITATION + " SET " + field + "=" + value + " WHERE ID='" + id + "'");
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, null);
+        }
     }
 
     private int existingConferenceId(int year, String annual, String issueDate, String language) {
@@ -299,6 +401,10 @@ public class Database {
         return url;
     }
 
+    public Connection getConnection() {
+        return conn;
+    }
+
     public int getMaxCitationId() {
         return getMaxId(TABLE_CITATION);
     }
@@ -370,12 +476,39 @@ public class Database {
                         + " " + citation.chapter + " " + citation.verses + " " + citation.isJst + " " + citation.page);
     }
 
-    private void logError(SQLException e) {
+    public void logError(SQLException e) {
         logger.log(Level.SEVERE, () -> "SQLException: " + e.getMessage());
         logger.log(Level.SEVERE, () -> "SQLState: " + e.getSQLState());
         logger.log(Level.SEVERE, () -> "VendorError: " + e.getErrorCode());
         System.exit(-1);
     }    
+
+    /**
+     * Execute an SQL query statement and iterate over the corresponding
+     * {@code ResultSet}, calling the {@code QueryResponder} for each result record.
+     *
+     * @param sql Query to execute.
+     * @param qr  Callback object for processing each record in the
+     *            {@code ResultSet}.
+     */
+    public void query(String sql, QueryResponder qr) {
+        Statement stmt = null;
+        ResultSet rs = null;
+
+        logger.log(Level.INFO, () -> "query " + sql);
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery(sql);
+
+            while (rs.next()) {
+                qr.processResult(rs);
+            }
+        } catch (SQLException se) {
+            logger.log(Level.SEVERE, () -> "Unable to process query (" + sql + "):\r\n" + se);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+    }
 
     private String tableForLanguage(String table, String language) {
         return language.equals("spa") ? table + "_es" : table;
@@ -458,13 +591,13 @@ public class Database {
             if (talkIdsMap.get(talkId) == null) {
                 logger.log(Level.SEVERE, () -> "Null map for " + talkId);
 
-                talkIdsMap.forEach((key, value) -> {
-                    logger.log(Level.SEVERE, () -> key + ": " + value);
-                });
+                talkIdsMap.forEach((key, value) -> logger.log(Level.SEVERE, () -> key + ": " + value));
             }
 
             updateCitationsForTalk(writeToDatabase, talkId, talkIdsMap.get(talkId), talkCitations);
         }
+
+        calculateVerseSets();
     }
 
     private void updateCitationsForTalk(boolean writeToDatabase, String talkId, int talkIdValue,
@@ -579,6 +712,7 @@ public class Database {
             Map<String, Integer> talkSessionNo, Map<String, String> talkAudioUrls,
             Map<String, String[]> talkVideoUrls) {
  
+        createTalkbody2Tables();
         int conferenceId = updateConference(writeToDatabase, conferenceDescription(year, language, annual),
                 conferenceAbbreviation(year, language, annual), year, annual, issueDate, language);
         updateSessions(writeToDatabase, sessions, language, saturdayDate, sundayDate, conferenceId);
@@ -711,6 +845,10 @@ public class Database {
                 }
             }
         });
+
+        TalkBody talkBody = new TalkBody(this);
+
+        talkBody.processTalksToRawStringsAndTagVectors(tableForLanguage(TABLE_TALK_BODY, language));
     }
 
     private void updateTalks(boolean writeToDatabase, List<String> talkIds, Map<String, String> talkHrefs,
