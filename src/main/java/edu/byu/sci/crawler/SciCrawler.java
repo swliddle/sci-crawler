@@ -22,6 +22,15 @@ import org.apache.http.impl.client.HttpClients;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import edu.byu.sci.database.Database;
+import edu.byu.sci.model.BookFinder;
+import edu.byu.sci.model.Link;
+import edu.byu.sci.model.SortByNote;
+import edu.byu.sci.model.Speakers;
+import edu.byu.sci.util.FileUtils;
+import edu.byu.sci.util.StringUtils;
+import edu.byu.sci.util.Utils;
+
 public class SciCrawler {
 
     /*
@@ -410,16 +419,6 @@ public class SciCrawler {
         return scriptureLinks;
     }
 
-    private String encodeSpecialCharacters(String text) {
-        return text
-                .replace("“", "&#201C;")
-                .replace("”", "&#201D;")
-                .replace("’", "&#2019;")
-                .replace("—", "&#2014;")
-                .replace("…", "&#2026;")
-                .replace(NDASH, "&#2013;");
-    }
-    
     private void extractAudioUrl(String talkId, JSONObject talkJson) {
         JSONObject meta = talkJson.getJSONObject("meta");
 
@@ -556,7 +555,7 @@ public class SciCrawler {
         logger.log(Level.INFO, () -> itemId
                 + "\t" + talkNumberToLog
                 + "\t" + sessionNumber
-                + "\t" + encodeSpecialCharacters(itemTitle)
+                + "\t" + StringUtils.encodeSpecialCharacters(itemTitle)
                 + "\t" + itemSpeaker);
         
         return talkNumber;
@@ -1000,7 +999,17 @@ public class SciCrawler {
 
         talk.append("</div>");
 
-        return encodeSpecialCharacters(talk.toString());
+        return StringUtils.encodeSpecialCharacters(deactivateHyperlinks(talk));
+    }
+
+    private String deactivateHyperlinks(StringBuilder builder) {
+        Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>([^<]*)</a>").matcher(builder);
+
+        if (matcher.find()) {
+            return matcher.replaceAll(match -> match.group(1));
+        }
+
+        return builder.toString();
     }
 
     private String talkSubitemsFromTableOfContents(String content) {

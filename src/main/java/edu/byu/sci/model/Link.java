@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,30 +9,33 @@ import java.util.regex.Pattern;
 
 import org.json.JSONObject;
 
+import edu.byu.sci.crawler.SciCrawler;
+import edu.byu.sci.util.Utils;
+
 public class Link {
     private static final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
 
     private static final Logger logger = Logger.getLogger(Link.class.getName());
     private static final Books books = new Books();
 
-    int citationId;
-    String talkId;
-    String href;
-    String text;
-    String book;
-    String chapter;
-    String verses;
-    int page;
-    boolean isJst;
-    boolean isDeleted = false;
+    public int citationId;
+    public String talkId;
+    public String href;
+    public String text;
+    public String book;
+    public String chapter;
+    public String verses;
+    public int page;
+    public boolean isJst;
+    public boolean isDeleted = false;
 
-    Link(String talkId, String href, String text) {
+    public Link(String talkId, String href, String text) {
         this.talkId = talkId;
         this.href = href;
         this.text = text;
     }
 
-    Link(String href, String page, String talkId, String text, String language, Pattern referencePattern) {
+    public Link(String href, String page, String talkId, String text, String language, Pattern referencePattern) {
         this.page = Utils.integerValue(page);
         this.talkId = talkId;
         this.text = text;
@@ -60,7 +63,7 @@ public class Link {
         addParsedToList(parsedLinks, referencePattern);
     }
 
-    Link(String talkId, String href, String text, String book, String chapter, String verses, boolean isJst) {
+    public Link(String talkId, String href, String text, String book, String chapter, String verses, boolean isJst) {
         this.talkId = talkId;
         this.href = href;
         this.text = text;
@@ -70,7 +73,7 @@ public class Link {
         this.isJst = isJst;
     }
 
-    Link(Link source) {
+    public Link(Link source) {
         this.talkId = source.talkId;
         this.href = source.href;
         this.text = source.text;

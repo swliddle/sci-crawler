@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.database;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

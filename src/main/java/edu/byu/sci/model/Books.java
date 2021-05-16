@@ -1,10 +1,12 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.model;
 
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+import edu.byu.sci.util.FileUtils;
 
 public class Books {
 
@@ -38,9 +40,6 @@ public class Books {
             }
         }
 
-        if (abbreviation.equals("dc-intro")) {
-            
-        }
         return null;
     }
 

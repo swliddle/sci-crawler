@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.util;
 
 public class Utils {
     private Utils() {

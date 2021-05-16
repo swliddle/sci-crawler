@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -18,6 +18,12 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.json.JSONObject;
+
+import edu.byu.sci.model.BookFinder;
+import edu.byu.sci.model.Link;
+import edu.byu.sci.model.Speakers;
+import edu.byu.sci.util.StringUtils;
+import edu.byu.sci.util.Utils;
 
 public class Database {
     private class DatabaseException extends RuntimeException {
@@ -64,7 +70,7 @@ public class Database {
     private Map<Integer, String> sessionDates = new HashMap<>();
     private Map<String, Integer> talkIdsForKeys = new HashMap<>();
     
-    Database() {
+    public Database() {
         try {
             conn = DriverManager.getConnection("jdbc:mysql://localhost/sci2p?user=sci2puser&password=sci44access");
             // conn = DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
@@ -832,10 +838,17 @@ public class Database {
                         logger.log(Level.SEVERE, () -> "Unknown TalkID value");
                         System.exit(-1);
                     } else {
-                        stmt = conn.prepareStatement(INSERT_INTO + tableForLanguage(TABLE_TALK_BODY, language)
-                                + " (TalkID, Text) VALUES (?, ?)");
+                        String talkText = StringUtils.allDecodedEntities(contents);
+                        TalkBody talkBody = new TalkBody(talkText);
+
+                        stmt = conn.prepareStatement(REPLACE_INTO + tableForLanguage(TABLE_TALK_BODY, language)
+                                + " (TalkID, Text, ProcessedText, RawText, TagVector) VALUES (?, ?, ?, ?, ?)");
                         stmt.setInt(1, talkIdValue);
-                        stmt.setString(2, contents);
+                        stmt.setString(2, talkText);
+                        stmt.setString(3, talkBody.getProcessedText());
+                        stmt.setString(4, talkBody.getRawText());
+                        stmt.setBlob(5, talkBody.getTagVectorBlob());
+
                         stmt.execute();
                     }
                 } catch (SQLException e) {
@@ -845,10 +858,6 @@ public class Database {
                 }
             }
         });
-
-        TalkBody talkBody = new TalkBody(this);
-
-        talkBody.processTalksToRawStringsAndTagVectors(tableForLanguage(TABLE_TALK_BODY, language));
     }
 
     private void updateTalks(boolean writeToDatabase, List<String> talkIds, Map<String, String> talkHrefs,

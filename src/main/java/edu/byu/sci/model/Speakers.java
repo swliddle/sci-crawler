@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.model;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -12,6 +12,9 @@ import java.util.stream.Stream;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import edu.byu.sci.util.FileUtils;
+import edu.byu.sci.util.StringUtils;
 
 public class Speakers {
 

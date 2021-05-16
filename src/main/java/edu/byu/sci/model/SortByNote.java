@@ -1,4 +1,4 @@
-package edu.byu.sci.crawler;
+package edu.byu.sci.model;
 
 import java.util.Comparator;
 import java.util.logging.Level;
