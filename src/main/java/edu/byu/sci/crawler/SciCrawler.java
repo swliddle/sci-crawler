@@ -825,6 +825,7 @@ public class SciCrawler {
         }
 
         for (String talkId : talkIds) {
+            logger.log(Level.INFO, () -> "Rewriting URLs for " + talkId);
             File rewrittenTalkFile = paths.rewrittenTalkFile(talkId);
             File talkFile = paths.jsonTalkFile(talkId);
             JSONObject talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
@@ -874,6 +875,11 @@ public class SciCrawler {
             for (int i = entries.size() - 1; i >= 0; i--) {
                 LinkEntry entry = entries.get(i);
                 Link citation = citations[i];
+                int citationId = citation.citationId;
+
+                if (citationId <= 0) {
+                    citationId = maxCitationId + i;
+                }
 
                 if (entry.isFootnote && footnotes != null) {
                     JSONObject footnote = footnotes.getJSONObject(entry.footnoteKey);
@@ -882,11 +888,11 @@ public class SciCrawler {
                     footnote.put("text",
                             footnoteText
                                     .replace(entry.startIndex, entry.endIndex,
-                                            citation.isDeleted ? "" : citationLink(entry, maxCitationId + i))
+                                            citation.isDeleted ? "" : citationLink(entry, citationId))
                                     .toString());
                 } else {
                     body.replace(entry.startIndex, entry.endIndex,
-                            citation.isDeleted ? "" : citationLink(entry, maxCitationId + i));
+                            citation.isDeleted ? "" : citationLink(entry, citationId));
                 }
 
                 if (!citation.isDeleted) {

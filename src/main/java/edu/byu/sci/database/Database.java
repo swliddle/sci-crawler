@@ -630,6 +630,7 @@ public class Database {
 
                 if (index >= 0) {
                     logger.log(Level.INFO, () -> "Already have citation record for " + citation.citationId);
+                    citation.citationId = talkCitations.get(index).citationId;
                     talkCitations.remove(index);
                 } else {
                     logger.log(Level.INFO, () -> "Need to create citation record for " + citation.citationId);
@@ -1016,6 +1017,10 @@ public class Database {
     }
 
     private void writeCitationsToDatabase(List<Link> citationLinks) throws SQLException {
+        if (citationLinks.size() <= 0) {
+            return;
+        }
+
         try (PreparedStatement stmt = conn.prepareStatement(INSERT_INTO + TABLE_CITATION
                 + " (ID, TalkID, BookID, Chapter, Verses, Flag, PageColumn, MinVerse, MaxVerse) "
                 + "VALUES (?, ?, ?, ?, ?, ?, ?, 0, 0)");) {
