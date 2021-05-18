@@ -421,6 +421,31 @@ public class SciCrawler {
         return scriptureLinks;
     }
 
+    private String deactivateHyperlinks(StringBuilder builder) {
+        Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>(.*?)</a>").matcher(builder);
+        StringBuilder crossRefFiltered = new StringBuilder();
+
+        if (matcher.find()) {
+            crossRefFiltered.append(matcher.replaceAll(match -> match.group(1)));
+        } else {
+            crossRefFiltered = builder;
+        }
+
+        matcher = Pattern.compile("<a[^>]*scriptures/(?:bd|gs|tg)[^>]*>(.*?)</a>").matcher(crossRefFiltered);
+
+        if (matcher.find()) {
+            crossRefFiltered = new StringBuilder(matcher.replaceAll(match -> match.group(1)));
+        }
+
+        matcher = Pattern.compile("<a[^>]*href=\"http[^>]*>(.*?)</a>").matcher(crossRefFiltered);
+
+        if (matcher.find()) {
+            return matcher.replaceAll(match -> match.group(1));
+        }
+
+        return crossRefFiltered.toString();
+    }
+
     private void extractAudioUrl(String talkId, JSONObject talkJson) {
         JSONObject meta = talkJson.getJSONObject("meta");
 
@@ -973,25 +998,6 @@ public class SciCrawler {
         talk.append("</div>");
 
         return StringUtils.encodeSpecialCharacters(deactivateHyperlinks(talk));
-    }
-
-    private String deactivateHyperlinks(StringBuilder builder) {
-        Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>(.*?)</a>").matcher(builder);
-        StringBuilder crossRefFiltered = new StringBuilder();
-
-        if (matcher.find()) {
-            crossRefFiltered.append(matcher.replaceAll(match -> match.group(1)));
-        } else {
-            crossRefFiltered = builder;
-        }
-
-        matcher = Pattern.compile("<a[^>]*scriptures/(?:bd|gs|tg)[^>]*>(.*?)</a>").matcher(crossRefFiltered);
-
-        if (matcher.find()) {
-            return matcher.replaceAll(match -> match.group(1));
-        }
-
-        return crossRefFiltered.toString();
     }
 
     private String talkSubitemsFromTableOfContents(String content) {
