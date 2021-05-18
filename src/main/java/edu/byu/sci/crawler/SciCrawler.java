@@ -35,8 +35,9 @@ public class SciCrawler {
 
     /*
      * NEEDSWORK:
-     * - speaker info needs updating for Jr./Sr. etc. -- update database?
-     * - need to rewrite visible text of chapter links we've expanded (with verse range for chapter)
+     * - Speaker info needs updating for Jr./Sr. etc. -- update database?
+     * - Need to rewrite visible text of chapter links we've expanded (with verse range for chapter).
+     * - Footnotes not getting inlined after 12 or 15 or so.
      */
 
     // Constants
@@ -1009,7 +1010,7 @@ public class SciCrawler {
     }
 
     private String deactivateHyperlinks(StringBuilder builder) {
-        Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>([^<]*)</a>").matcher(builder);
+        Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>(.*?)</a>").matcher(builder);
 
         if (matcher.find()) {
             return matcher.replaceAll(match -> match.group(1));
