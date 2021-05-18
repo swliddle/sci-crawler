@@ -23,6 +23,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import edu.byu.sci.database.Database;
+import edu.byu.sci.database.SearchTerm;
 import edu.byu.sci.model.BookFinder;
 import edu.byu.sci.model.Link;
 import edu.byu.sci.model.SortByNote;
@@ -581,7 +582,9 @@ public class SciCrawler {
          */
 
         talk.append("\n<footer class=\"notes\">\n");
-        talk.append("<p class=\"title\" id=\"note_title1\">Notes</p>\n");
+        talk.append("<p class=\"title\" id=\"note_title1\">");
+        talk.append(language.equals("spa") ? "Notas" : "Notes");
+        talk.append("</p>\n");
         talk.append("<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n");
 
         for (String key : sortedKeys(footnotes)) {
@@ -607,54 +610,14 @@ public class SciCrawler {
     }
 
     private String inlinedFootnote(String noteKey, JSONObject footnotes) {
-        /*
-            Original marker markup:
-                <a class="note-ref" href="#note1">
-                    <sup class="marker">1</sup>
-                </a>
-
-            Inlined footnote markup:
-                <sup class="noteMarker">
-                    <a href="#note1">1</a>
-                    <span class="footnote">[...]</span>
-                </sup>
-
-            Footnote markup:
-                <li data-marker="1." id="note1">
-                    <p data-aid="141535577" id="note1_p1">...</p>
-                </li>
-
-            JSON format:
-                "note1": {
-                  "marker": "1.",
-                  "context": null,
-                  "pid": "141535487",
-                  "id": "note1",
-                  "text": "<p data-aid=\"141535577\" id=\"note1_p1\">...<\/p>",
-                  "referenceUris": [
-                    {
-                      "href": "/study/scriptures/nt/matt/20.30-34?lang=eng#p30",
-                      "text": "Matthew 20:30\u201334",
-                      "type": "scripture-ref"
-                    },
-                    {
-                      "href": "/study/scriptures/nt/mark/10.46-52?lang=eng#p46",
-                      "text": "Mark 10:46\u201352",
-                      "type": "scripture-ref"
-                    }
-                  ]
-                }
-         */
-
         JSONObject footnote = footnotes.getJSONObject("note" + noteKey);
         String footnoteText = footnote.getString("text")
                 .replaceFirst("^<p[^>]*>", "")
                 .replaceFirst("<\\/p>$", "");
+        boolean textIsLong = visibleLength(footnoteText) > 40;
 
-        return "<sup class=\"noteMarker\">"
-                + "<a href=\"#note" + noteKey + "\">" + noteKey + "</a>"
-                + "<span class=\"footnote\">[" + footnoteText + "]</span>"
-                + "</sup>";
+        return "<sup class=\"noteMarker\"><a href=\"#note" + noteKey + "\">" + noteKey + "</a><span class=\"footnote"
+                + (textIsLong ? " long" : "") + "\">[" + footnoteText + "]</span></sup>";
     }
 
     private void inlineFootnotes(StringBuilder talk, JSONObject footnotes) {
@@ -662,14 +625,24 @@ public class SciCrawler {
                 + "\\s*<sup\\s*class=\"marker\">\\s*([0-9]+)\\s*</sup>"
                 + "\\s*</a>";
         Matcher markerMatcher = Pattern.compile(markerParser).matcher(talk);
+        List<FootnoteMatch> matches = new ArrayList<>();
 
         while (markerMatcher.find()) {
-            talk.replace(
-                    markerMatcher.start(),
-                    markerMatcher.end(),
-                    inlinedFootnote(markerMatcher.group(1), footnotes)
-            );
+            matches.add(new FootnoteMatch(markerMatcher));
         }
+
+        for (int i = matches.size() - 1; i >= 0; i--) {
+            FootnoteMatch match = matches.get(i);
+            talk.replace(match.start, match.end, inlinedFootnote(match.matchText, footnotes));
+        }
+
+        // while (markerMatcher.find()) {
+        //     talk.replace(
+        //             markerMatcher.start(),
+        //             markerMatcher.end(),
+        //             inlinedFootnote(markerMatcher.group(1), footnotes)
+        //     );
+        // }
     }
 
     private String magazineForLanguageYear(String language) {
@@ -928,9 +901,9 @@ public class SciCrawler {
 
         logger.log(Level.INFO, () -> year + (annual.equals("A") ? " Annual" : "Semi-Annual") + " General Conference"
                 + ", " + issueDate);
-        }
+    }
 
-        private List<String> sortedKeys(JSONObject footnotes) {
+    private List<String> sortedKeys(JSONObject footnotes) {
         List<String> keys = new ArrayList<>(footnotes.keySet().size());
 
         for (String key : footnotes.keySet()) {
@@ -976,22 +949,13 @@ public class SciCrawler {
         if (talkContent.has(FOOTNOTES)) {
             footnotes = talkContent.getJSONObject(FOOTNOTES);
         }
-        
-        /*
-         * 1. Remove link and video tags
-         * 2. Format footnote markers, incoming form:
-         *        <a class="note-ref" href="#note1"><sup class="marker">1</sup></a>
-         *    convert to:
-         *        <sup class="noteMarker"><a href="#note1">1</a><span class="footnote">[...]</span></span>
-         *    where:
-         *        the "..." is the properly marked-up inlined footnote text
-         * 3. Append list of footnotes (if any)
-         * 4. Wrap all in <div class="body">...</div>
-         */
+
         talkBody = talkBody
                 .replaceAll("<link[^>]*>", "")
                 .replaceAll("<video[^>]*>.*<\\/video>", "")
                 .replaceAll("<img[^>]*>", "");
+        talkBody = Pattern.compile("<figure\\s*class=\"[^\"]*no-print.*?</figure>", Pattern.DOTALL + Pattern.MULTILINE)
+                .matcher(talkBody).replaceAll("");
 
         talk.append("<div class=\"body\">");
         talk.append(talkBody);
@@ -1001,7 +965,9 @@ public class SciCrawler {
                 rewriteUrlsForTalkId(talkId, talk, footnotes, citationsToRewrite);
             }
 
-            formatFootnotes(talk, footnotes);
+            if (!footnotes.keySet().isEmpty()) {
+                formatFootnotes(talk, footnotes);
+            }
         }
 
         talk.append("</div>");
@@ -1011,12 +977,21 @@ public class SciCrawler {
 
     private String deactivateHyperlinks(StringBuilder builder) {
         Matcher matcher = Pattern.compile("<a\\s+class=\"cross-ref\"[^>]*>(.*?)</a>").matcher(builder);
+        StringBuilder crossRefFiltered = new StringBuilder();
+
+        if (matcher.find()) {
+            crossRefFiltered.append(matcher.replaceAll(match -> match.group(1)));
+        } else {
+            crossRefFiltered = builder;
+        }
+
+        matcher = Pattern.compile("<a[^>]*scriptures/(?:bd|gs|tg)[^>]*>(.*?)</a>").matcher(crossRefFiltered);
 
         if (matcher.find()) {
             return matcher.replaceAll(match -> match.group(1));
         }
 
-        return builder.toString();
+        return crossRefFiltered.toString();
     }
 
     private String talkSubitemsFromTableOfContents(String content) {
@@ -1102,6 +1077,16 @@ public class SciCrawler {
         return ((year < 2021) ? URL_ENSIGN : URL_LIAHONA) + "/" + year + "/" + monthString + URL_LANG + language;
     }
 
+    private int visibleLength(String html) {
+        StringBuilder visibleText = new StringBuilder(html);
+
+        SearchTerm.replaceAll("<[^>]+>", visibleText);
+        SearchTerm.replaceAll("&nbsp;", visibleText);
+        String reducedText = visibleText.toString().trim().replaceAll("\\s\\s+", " ");
+
+        return reducedText.length();
+    }
+
     private void writeCitationsToFile(List<Link> scriptureLinks) {
         StringBuilder citations = new StringBuilder();
 
@@ -1135,6 +1120,18 @@ public class SciCrawler {
 
         if (writeContentToFiles) {
             FileUtils.writeStringToFile(content, paths.talkFile(talkId));
+        }
+    }
+
+    private class FootnoteMatch {
+        int start;
+        int end;
+        String matchText;
+
+        FootnoteMatch(Matcher matcher) {
+            start = matcher.start();
+            end = matcher.end();
+            matchText = matcher.group(1);
         }
     }
 

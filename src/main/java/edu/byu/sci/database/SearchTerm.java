@@ -336,7 +336,7 @@ public class SearchTerm {
         }
     }
 
-    private static void replaceAll(String regularExpression, StringBuilder string) {
+    public static void replaceAll(String regularExpression, StringBuilder string) {
         if (string == null || regularExpression == null) {
             return;
         }
