@@ -28,7 +28,7 @@ public class BookFinder {
             "eph", "philip", "col", "1-thes", "2-thes", "1-tim", "2-tim", "titus", "philem", "heb", "james", "1-pet",
             "2-pet", "1-jn", "2-jn", "3-jn", "jude", "rev", "bofm-title", "bofm-intro", "three", "eight", "1-ne",
             "2-ne", "jacob", "enos", "jarom", "omni", "w-of-m", "mosiah", "alma", "hel", "3-ne", "4-ne", "morm",
-            "ether", "moro", "dc-intro", "dc", "od", "moses", "abr", "js-m", "js-h", "a-of-f"
+            "ether", "moro", "dc-intro", "dc", "od", "moses", "abr", "fac", "js-m", "js-h", "a-of-f"
 
     );
 
@@ -57,7 +57,7 @@ public class BookFinder {
             // NEEDSWORK: decide if we'll need to parse these...
             "bofm-title", "(bofm-intro|introduction)", "three", "eight", "1-ne", "2-ne", "jacob", "enos", "jarom", "omni", "w-of-m",
             "mosiah", "alma", "hel", "3-ne", "4-ne", "morm", "ether", "moro", "(dc-intro|introduction)", "dc", "od", "moses",
-            "abr", "js-m", "js-h", "a-of-f");
+            "abr", "fac", "js-m", "js-h", "a-of-f");
 
     public static final BookFinder sInstance = new BookFinder();
 
