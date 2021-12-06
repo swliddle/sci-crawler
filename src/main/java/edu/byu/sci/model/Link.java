@@ -259,6 +259,12 @@ public class Link {
         }
     }
 
+    public boolean isEqualTo(Link link) {
+        return isDeleted == link.isDeleted && isJst == link.isJst && page == link.page && verses.equals(link.verses)
+                && chapter.equals(link.chapter) && book.equals(link.book) && text.equals(link.text)
+                && href.equals(link.href) && talkId.equals(link.talkId);
+    }
+
     public static String firstVerse(String verses) {
         String[] parts = verses.split("[-,]");
 
