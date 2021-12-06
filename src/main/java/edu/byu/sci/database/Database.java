@@ -1017,7 +1017,7 @@ public class Database {
     }
 
     private void writeCitationsToDatabase(List<Link> citationLinks) throws SQLException {
-        if (citationLinks.size() <= 0) {
+        if (citationLinks.isEmpty()) {
             return;
         }
 
