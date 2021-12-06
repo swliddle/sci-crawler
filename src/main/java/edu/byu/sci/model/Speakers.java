@@ -95,6 +95,8 @@ public class Speakers {
 
         String[] nameParts = parseName(name);
 
+        combineSuffixWithSurnames(nameParts);
+
         speaker.put(KEY_GIVENNAMES, nameParts[0]);
         speaker.put(KEY_LASTNAMES, nameParts[1]);
         speaker.put(KEY_SUFFIX, nameParts[2]);
@@ -149,6 +151,20 @@ public class Speakers {
         }
 
         return couldMatch;
+    }
+
+    private void combineSuffixWithSurnames(String[] nameParts) {
+        String surnames = nameParts[1];
+        String suffix = nameParts[2];
+
+        if (!suffix.isEmpty()) {
+            if (suffix.contains(".")) {
+                surnames += ",";
+            }
+
+            nameParts[1] = surnames + " " + suffix;
+            nameParts[2] = "";
+        }
     }
 
     private String dump(JSONObject speaker) {
@@ -264,10 +280,31 @@ public class Speakers {
 
                 logger.log(Level.WARNING, () -> "Matching speaker on initials: <" + name
                         + "> to <" + fullName + ">");
+            } else {
+                speaker = nonSuffixMatchingSpeaker(name);
+
+                if (speaker != null) {
+                    String fullName = speakerFullName(speaker);
+
+                    logger.log(Level.WARNING,
+                            () -> "Matching speaker without suffix: <" + name
+                            + "> to <" + fullName + ">");
+                }
+            }
+        }
+        return speaker;
+    }
+
+    public JSONObject nonSuffixMatchingSpeaker(String name) {
+        for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
+            JSONObject speaker = (JSONObject) it.next();
+
+            if (speakerFullNameLessSuffix(speaker).equalsIgnoreCase(name)) {
+                return speaker;
             }
         }
 
-        return speaker;
+        return null;
     }
 
     private String[] parseName(String name) {
@@ -276,25 +313,25 @@ public class Speakers {
         String suffix = "";
 
         for (String suffixCandidate : SUFFIXES) {
-            if (name.endsWith(" " + suffix) || name.endsWith(", " + suffix)) {
+            if (name.endsWith(" " + suffixCandidate) || name.endsWith(", " + suffixCandidate)) {
                 suffix = suffixCandidate;
                 name = name.replaceAll("[,]? " + suffix, "");
             }
         }
 
-        int indexOfDeDiDo = name.toLowerCase().indexOf("de");
+        int indexOfDeDiDo = name.toLowerCase().indexOf(" de ");
 
         if (indexOfDeDiDo < 0) {
-            indexOfDeDiDo = name.toLowerCase().indexOf("di");
+            indexOfDeDiDo = name.toLowerCase().indexOf(" di ");
         }
 
         if (indexOfDeDiDo < 0) {
-            indexOfDeDiDo = name.toLowerCase().indexOf("do");
+            indexOfDeDiDo = name.toLowerCase().indexOf(" do ");
         }
 
         if (indexOfDeDiDo > 0) {
             // This is the cut point
-            givenNames.append(name.substring(0, indexOfDeDiDo - 1));
+            givenNames.append(name.substring(0, indexOfDeDiDo));
             lastNames = name.substring(indexOfDeDiDo);
         } else {
             String[] nameParts = name.split(" ");
@@ -343,6 +380,18 @@ public class Speakers {
                 + " " + speaker.getString(KEY_LASTNAMES)
                 + suffix
         );
+    }
+
+    public static String speakerFullNameLessSuffix(JSONObject speaker) {
+        String lastNames = speaker.getString(KEY_LASTNAMES);
+
+        for (String suffix : SUFFIXES) {
+            if (lastNames.endsWith(" " + suffix) || lastNames.endsWith(", " + suffix)) {
+                lastNames = lastNames.replaceAll("[,]? " + suffix, "");
+            }
+        }
+
+        return StringUtils.decodedEntities(speaker.getString(KEY_GIVENNAMES) + " " + lastNames);
     }
 
     public static boolean speakerHasCollision(JSONObject speaker) {
