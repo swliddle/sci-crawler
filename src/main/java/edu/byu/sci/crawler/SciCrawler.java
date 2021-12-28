@@ -220,7 +220,7 @@ public class SciCrawler {
     
         referencePattern = Pattern.compile(hrefPattern);
         scriptureReferencePattern = Pattern
-                .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>([^<]*)</a>");
+                .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>(.*?)</a>");
     }
     
     public static void main(String[] args) {
@@ -322,7 +322,23 @@ public class SciCrawler {
 
         link.addParsedToList(links, referencePattern);
     }
-    
+
+    private void addNonduplicateEntries(List<LinkEntry> newLinks, List<LinkEntry> existingLinks) {
+        newLinks.forEach(link -> {
+            if (!containsLinkEntry(existingLinks, link)) {
+                existingLinks.add(link);
+            }
+        });
+    }
+
+    private void addNonduplicateLinks(List<Link> newLinks, List<Link> existingLinks) {
+        newLinks.forEach(link -> {
+            if (!containsLink(existingLinks, link)) {
+                existingLinks.add(link);
+            }
+        });
+    }
+
     private void checkSpeakers() {
         talkSpeakers.entrySet().forEach(entry -> {
             JSONObject speaker = speakers.matchingSpeaker(entry.getValue());
@@ -347,8 +363,8 @@ public class SciCrawler {
                 + entry.text + "</a></span>";
     }
 
-    private void collectMatch(List<LinkEntry> entries, String content, Pattern pattern, boolean isFootnote,
-            String footnoteKey) {
+    private int collectMatch(List<LinkEntry> entries, String content, Pattern pattern, boolean isFootnote,
+            String footnoteKey, int sequence) {
         Matcher matcher = pattern.matcher(content);
 
         while (matcher.find()) {
@@ -360,9 +376,14 @@ public class SciCrawler {
             entry.text = matcher.group(SCRIPTURE_REFERENCE_TEXT);
             entry.isFootnote = isFootnote;
             entry.footnoteKey = footnoteKey;
+            entry.sequence = sequence;
+
+            sequence += 1;
 
             entries.add(entry);
         }
+
+        return sequence;
     }
 
     private void computeLikelyConferenceDates(int year, int month) {
@@ -377,23 +398,48 @@ public class SciCrawler {
             saturdayDate = new GregorianCalendar(year, month - 2, month == 4 ? 31 : 30);
         }
     }
-    
+
+    private boolean containsLinkEntry(List<LinkEntry> links, LinkEntry link) {
+        for (LinkEntry l : links) {
+            if (link.isEqualTo(l)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private boolean containsLink(List<Link> links, Link link) {
+        for (Link l : links) {
+            // if (link.talkId.equals("41uchtdorf") && l.talkId.equals(link.talkId)) {
+            //     logger.log(Level.INFO, () -> "41uchtdorf: " + link.href);
+            //     logger.log(Level.INFO, () -> "hrefs " + (link.href.equals(l.href) ? "match" : "don't match"));
+            //     logger.log(Level.INFO, () -> "texts " + (link.text.equals(l.text) ? "match" : "don't match"));
+            // }
+            if (link.isEqualTo(l)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
     private List<Link> crawlTalks(boolean writeContentToFiles) {
         List<Link> scriptureLinks = new ArrayList<>();
-        
+
         File languageSubfolder = paths.languageDirectoryFile();
-        
+
         if (!languageSubfolder.exists()) {
             languageSubfolder.mkdirs();
         }
-        
+
         // For each talkId, get its contents JSON
         talkIds.forEach(talkId -> {
             logger.log(Level.INFO, () -> "Get " + talkId);
-        
+
             File talkFile = paths.jsonTalkFile(talkId);
             JSONObject talkJson;
-        
+
             if (!talkFile.exists()) {
                 // Save talk if we haven't yet crawled it
                 talkJson = new JSONObject(urlContent(talkUrl(talkId, language)));
@@ -401,18 +447,22 @@ public class SciCrawler {
             } else {
                 talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
             }
-        
+
             JSONObject talkContent = talkJson.getJSONObject("content");
             String talkBody = talkContent.getString("body");
             extractScriptureLinks(talkBody, talkId, scriptureLinks);
-            extractJstLinks(talkBody, talkId, scriptureLinks);
-        
+
+            String nonLinkedText = talkBody.replaceAll("<a[^>]*>.*?</a>", "");
+            extractJstLinks(nonLinkedText, talkId, scriptureLinks);
+
             if (talkContent.has(FOOTNOTES)) {
                 JSONObject footnotes = talkContent.getJSONObject(FOOTNOTES);
-        
-                extractLinksFrom(footnotes, talkId, scriptureLinks);
+                List<Link> footnoteLinks = new ArrayList<>();
+
+                extractLinksFrom(footnotes, talkId, footnoteLinks);
+                addNonduplicateLinks(footnoteLinks, scriptureLinks);
             }
-        
+
             writeHtmlContent(writeContentToFiles, talkId, talkJson);
             extractAudioUrl(talkId, talkJson);
             extractVideoUrls(talkId, talkBody);
@@ -446,6 +496,15 @@ public class SciCrawler {
         return crossRefFiltered.toString();
     }
 
+    private String editedSpeaker(String speaker) {
+        if ((speaker.endsWith(" Jr.") || speaker.endsWith(" Sr.")) && !speaker.contains(", ")) {
+            return speaker.substring(0, speaker.length() - 4) + ","
+                    + speaker.substring(speaker.length() - 4);
+        }
+
+        return speaker;
+    }
+
     private void extractAudioUrl(String talkId, JSONObject talkJson) {
         JSONObject meta = talkJson.getJSONObject("meta");
 
@@ -477,11 +536,15 @@ public class SciCrawler {
             String bookAbbr = BookFinder.sInstance.abbreviationForBook(book);
             String volume = BookFinder.sInstance.volumeForBook(book);
         
+            if (!bookAbbr.startsWith("jst-")) {
+                bookAbbr = "jst-" + bookAbbr;
+            }
+
             links.add(new Link(
                     talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
                     + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
                     + language + "#p" + Link.firstVerse(verses),
-                    fullMatch, book, chapter, verses, true));
+                    fullMatch, bookAbbr, chapter, verses, true));
         }
     }
 
@@ -507,7 +570,13 @@ public class SciCrawler {
                 });
             }
 
-            extractJstLinks(footnote.getString("text"), talkId, links);
+            List<Link> jstLinks = new ArrayList<>();
+
+            extractJstLinks(footnote.getString("text"), talkId, jstLinks);
+
+            if (!jstLinks.isEmpty()) {
+                addNonduplicateLinks(jstLinks, links);
+            }
         }
     }
 
@@ -570,11 +639,11 @@ public class SciCrawler {
         }
         
         ++talkNumber;
-        
+
         talkIds.add(itemId);
         talkHrefs.put(itemId, itemHref);
         talkTitles.put(itemId, itemTitle);
-        talkSpeakers.put(itemId, itemSpeaker);
+        talkSpeakers.put(itemId, editedSpeaker(itemSpeaker));
         talkSequence.put(itemId, talkNumber);
         talkSessionNo.put(itemId, sessionNumber);
         
@@ -768,6 +837,7 @@ public class SciCrawler {
                         final String lineText = lines[i];
                         logger.log(Level.SEVERE, () -> "Incorrect line format at line " + line);
                         logger.log(Level.SEVERE, () -> "Line: [" + lineText + "]");
+                        logger.log(Level.SEVERE, () -> "Link is " + link.text + ", " + link.href);
                         System.exit(-1);
                         return;
                     }
@@ -843,14 +913,21 @@ public class SciCrawler {
     private String rewriteUrlsForTalkId(String talkId, StringBuilder body, JSONObject footnotes, Link[] citations) {
         List<LinkEntry> entries = new ArrayList<>();
         int citationCount = 0;
+        int sequence = 0;
 
-        collectMatch(entries, body.toString(), scriptureReferencePattern, false, null);
+        String talkBody = Pattern.compile("<footer\\s*class=\"notes\">.*?</footer>",
+                Pattern.DOTALL + Pattern.MULTILINE)
+                .matcher(body).replaceFirst("");
+
+        collectMatch(entries, talkBody, scriptureReferencePattern, false, null, 0);
 
         if (footnotes != null) {
             for (String key : sortedKeys(footnotes)) {
                 JSONObject footnote = footnotes.getJSONObject(key);
+                List<LinkEntry> footnoteEntries = new ArrayList<>();
 
-                collectMatch(entries, footnote.getString("text"), scriptureReferencePattern, true, key);
+                sequence = collectMatch(footnoteEntries, footnote.getString("text"), scriptureReferencePattern, true, key, sequence);
+                addNonduplicateEntries(footnoteEntries, entries);
             }
         }
 
@@ -979,6 +1056,8 @@ public class SciCrawler {
                 .replaceAll("<link[^>]*>", "")
                 .replaceAll("<video[^>]*>.*<\\/video>", "")
                 .replaceAll("<img[^>]*>", "");
+        talkBody = Pattern.compile("<footer\\s*class=\"notes\">.*?</footer>", Pattern.DOTALL + Pattern.MULTILINE)
+                .matcher(talkBody).replaceFirst("");
         talkBody = Pattern.compile("<figure\\s*class=\"[^\"]*no-print.*?</figure>", Pattern.DOTALL + Pattern.MULTILINE)
                 .matcher(talkBody).replaceAll("");
 
@@ -990,7 +1069,7 @@ public class SciCrawler {
                 rewriteUrlsForTalkId(talkId, talk, footnotes, citationsToRewrite);
             }
 
-            if (!footnotes.keySet().isEmpty()) {
+            if (!footnotes.keySet().isEmpty() && talkBody.indexOf("<footer") < 0) {
                 formatFootnotes(talk, footnotes);
             }
         }
@@ -1144,9 +1223,16 @@ public class SciCrawler {
     private class LinkEntry {
         int startIndex;
         int endIndex;
+        int sequence;
         String href;
         String text;
         boolean isFootnote = false;
         String footnoteKey;
+
+        boolean isEqualTo(LinkEntry l) {
+            return href.equals(l.href)
+                    && text.equals(l.text)
+                    && sequence == l.sequence;
+        }
     }
 }
