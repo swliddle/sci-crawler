@@ -632,7 +632,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Christoffel",
         "lastNames": "Golden, Jr.",
         "id": 1107,
@@ -4694,5 +4694,109 @@
         "id": 1560,
         "suffix": "",
         "abbr": "ARW"
+    },
+    {
+        "collision": false,
+        "givenNames": "Sean",
+        "lastNames": "Douglas",
+        "id": 1561,
+        "suffix": "",
+        "abbr": "SD"
+    },
+    {
+        "collision": false,
+        "givenNames": "Alvin F.",
+        "lastNames": "Meredith III",
+        "id": 1562,
+        "suffix": "",
+        "abbr": "AFM"
+    },
+    {
+        "collision": false,
+        "givenNames": "Bradley R.",
+        "lastNames": "Wilcox",
+        "id": 1563,
+        "suffix": "",
+        "abbr": "BRW"
+    },
+    {
+        "collision": false,
+        "givenNames": "Michael A.",
+        "lastNames": "Dunn",
+        "id": 1564,
+        "suffix": "",
+        "abbr": "MAD"
+    },
+    {
+        "collision": false,
+        "givenNames": "Clark G.",
+        "lastNames": "Gilbert",
+        "id": 1565,
+        "suffix": "",
+        "abbr": "CGG"
+    },
+    {
+        "collision": false,
+        "givenNames": "Susan H.",
+        "lastNames": "Porter",
+        "id": 1566,
+        "suffix": "",
+        "abbr": "SHP"
+    },
+    {
+        "collision": false,
+        "givenNames": "Camille N.",
+        "lastNames": "Johnson",
+        "id": 1567,
+        "suffix": "",
+        "abbr": "CNJ"
+    },
+    {
+        "collision": false,
+        "givenNames": "Moisés",
+        "lastNames": "Villanueva",
+        "id": 1568,
+        "suffix": "",
+        "abbr": "MV"
+    },
+    {
+        "collision": false,
+        "givenNames": "Ciro",
+        "lastNames": "Schmeil",
+        "id": 1569,
+        "suffix": "",
+        "abbr": "CS"
+    },
+    {
+        "collision": true,
+        "givenNames": "Carlos G.",
+        "lastNames": "Revillo, Jr.",
+        "id": 1570,
+        "suffix": "",
+        "abbr": "CGR"
+    },
+    {
+        "collision": false,
+        "givenNames": "Patricio M.",
+        "lastNames": "Giuffra",
+        "id": 1571,
+        "suffix": "",
+        "abbr": "PMG"
+    },
+    {
+        "collision": false,
+        "givenNames": "Vaiangina",
+        "lastNames": "Sikahema",
+        "id": 1572,
+        "suffix": "",
+        "abbr": "VS"
+    },
+    {
+        "collision": false,
+        "givenNames": "Alfred",
+        "lastNames": "Kyungu",
+        "id": 1573,
+        "suffix": "",
+        "abbr": "AK"
     }
 ]

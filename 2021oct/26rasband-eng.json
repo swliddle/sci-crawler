@@ -1,0 +1,666 @@
+{
+  "tableOfContentsUri": "/general-conference/2021/10",
+  "meta": {
+    "canonicalUrl": "/general-conference/2021/10/26rasband?lang=eng",
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:noNamespaceSchemaLocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/general-conference/2021/10/26rasband",
+      "data-aid": "147979481",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetId": "50dcf8903d44457096c98d3f6db3f0f6",
+      "data-aid-version": "2",
+      "data-orig-id": "50dcf8903d44457096c98d3f6db3f0f6"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275297327001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-2060-ronald-a-rasband-32k-eng.mp3"
+    }],
+    "title": "The Things of My Soul",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "147979481",
+      {"key": "147979481"}
+    ],
+    [
+      "147979485",
+      {"key": "147979485"}
+    ],
+    [
+      "147979489",
+      {"key": "147979489"}
+    ],
+    [
+      "147979493",
+      {"key": "147979493"}
+    ],
+    [
+      "147979497",
+      {"key": "147979497"}
+    ],
+    [
+      "147979501",
+      {"key": "147979501"}
+    ],
+    [
+      "147979505",
+      {"key": "147979505"}
+    ],
+    [
+      "147979509",
+      {"key": "147979509"}
+    ],
+    [
+      "147979513",
+      {"key": "147979513"}
+    ],
+    [
+      "147979518",
+      {"key": "147979518"}
+    ],
+    [
+      "147979523",
+      {"key": "147979523"}
+    ],
+    [
+      "147979524",
+      {"key": "147979524"}
+    ],
+    [
+      "147979529",
+      {"key": "147979529"}
+    ],
+    [
+      "147979534",
+      {"key": "147979534"}
+    ],
+    [
+      "147979539",
+      {"key": "147979539"}
+    ],
+    [
+      "147979544",
+      {"key": "147979544"}
+    ],
+    [
+      "147979548",
+      {"key": "147979548"}
+    ],
+    [
+      "147979552",
+      {"key": "147979552"}
+    ],
+    [
+      "147979556",
+      {"key": "147979556"}
+    ],
+    [
+      "147979559",
+      {"key": "147979559"}
+    ],
+    [
+      "147979564",
+      {"key": "147979564"}
+    ],
+    [
+      "147979569",
+      {"key": "147979569"}
+    ],
+    [
+      "147979574",
+      {"key": "147979574"}
+    ],
+    [
+      "147979579",
+      {"key": "147979579"}
+    ],
+    [
+      "147979584",
+      {"key": "147979584"}
+    ],
+    [
+      "147979589",
+      {"key": "147979589"}
+    ],
+    [
+      "147979595",
+      {"key": "147979595"}
+    ],
+    [
+      "147979600",
+      {"key": "147979600"}
+    ],
+    [
+      "147979606",
+      {"key": "147979606"}
+    ],
+    [
+      "147979611",
+      {"key": "147979611"}
+    ],
+    [
+      "147979616",
+      {"key": "147979616"}
+    ],
+    [
+      "147979622",
+      {"key": "147979622"}
+    ],
+    [
+      "147979627",
+      {"key": "147979627"}
+    ],
+    [
+      "147979632",
+      {"key": "147979632"}
+    ],
+    [
+      "147979636",
+      {"key": "147979636"}
+    ],
+    [
+      "147979640",
+      {"key": "147979640"}
+    ],
+    [
+      "147979644",
+      {"key": "147979644"}
+    ],
+    [
+      "147979648",
+      {"key": "147979648"}
+    ],
+    [
+      "147979650",
+      {"key": "147979650"}
+    ],
+    [
+      "147979653",
+      {"key": "147979653"}
+    ],
+    [
+      "147979656",
+      {"key": "147979656"}
+    ],
+    [
+      "147979659",
+      {"key": "147979659"}
+    ],
+    [
+      "147979662",
+      {"key": "147979662"}
+    ],
+    [
+      "147979665",
+      {"key": "147979665"}
+    ],
+    [
+      "147979668",
+      {"key": "147979668"}
+    ],
+    [
+      "147979671",
+      {"key": "147979671"}
+    ],
+    [
+      "147979673",
+      {"key": "147979673"}
+    ],
+    [
+      "147979675",
+      {"key": "147979675"}
+    ],
+    [
+      "147979677",
+      {"key": "147979677"}
+    ],
+    [
+      "147979679",
+      {"key": "147979679"}
+    ],
+    [
+      "147979681",
+      {"key": "147979681"}
+    ],
+    [
+      "147979683",
+      {"key": "147979683"}
+    ],
+    [
+      "147979685",
+      {"key": "147979685"}
+    ],
+    [
+      "147979688",
+      {"key": "147979688"}
+    ],
+    [
+      "147979690",
+      {"key": "147979690"}
+    ],
+    [
+      "147979692",
+      {"key": "147979692"}
+    ],
+    [
+      "147979694",
+      {"key": "147979694"}
+    ],
+    [
+      "147979695",
+      {"key": "147979695"}
+    ],
+    [
+      "147979698",
+      {"key": "147979698"}
+    ],
+    [
+      "147979700",
+      {"key": "147979700"}
+    ],
+    [
+      "147979702",
+      {"key": "147979702"}
+    ],
+    [
+      "147979704",
+      {"key": "147979704"}
+    ],
+    [
+      "147979706",
+      {"key": "147979706"}
+    ],
+    [
+      "147979708",
+      {"key": "147979708"}
+    ],
+    [
+      "147979710",
+      {"key": "147979710"}
+    ],
+    [
+      "147979712",
+      {"key": "147979712"}
+    ],
+    [
+      "147979714",
+      {"key": "147979714"}
+    ],
+    [
+      "147979717",
+      {"key": "147979717"}
+    ],
+    [
+      "147979718",
+      {"key": "147979718"}
+    ],
+    [
+      "147979721",
+      {"key": "147979721"}
+    ],
+    [
+      "147979723",
+      {"key": "147979723"}
+    ],
+    [
+      "147979725",
+      {"key": "147979725"}
+    ],
+    [
+      "147979727",
+      {"key": "147979727"}
+    ],
+    [
+      "147979729",
+      {"key": "147979729"}
+    ],
+    [
+      "147979731",
+      {"key": "147979731"}
+    ],
+    [
+      "147979733",
+      {"key": "147979733"}
+    ],
+    [
+      "147979736",
+      {"key": "147979736"}
+    ]
+  ],
+  "uri": "/general-conference/2021/10/26rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Rasband shares seven \u201cthings of his soul\u201d\u2014precious principles that give purpose to his life as a disciple of Jesus Christ.",
+          "title": "The Things of My Soul"
+        },
+        "pageSocial": {
+          "description": "Elder Rasband shares seven \u201cthings of his soul\u201d\u2014precious principles that give purpose to his life as a disciple of Jesus Christ.",
+          "title": "The Things of My Soul"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6275297327001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275297327001\" data-video-title=\"Ronald A. Rasband\" data-video-description=\"Elder Ronald A. Rasband speaks at the 191st Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints on October 2-3, 2021.\" data-video-id=\"6275297327001\" data-ip=\"Download &amp; Streaming\" data-duration=\"784000\" data-assetId=\"4DF228B3BC8701E3AD3AFB7D487347C6872662E7\" data-ref-id=\"4DF228B3BC8701E3AD3AFB7D487347C6872662E7\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6275297327001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275297327001/640/360/994000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"97762059\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275297327001/1280/720/2126000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"208786623\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-2060-ronald-a-rasband-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"259087790\"/><\/video><h1 data-aid=\"147979485\" id=\"title1\">The Things of My Soul<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"147979489\" id=\"author1\">By Elder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"147979493\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"147979497\" id=\"kicker1\">What things do you ponder? What things really matter to you? What are the things of your soul?<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"147979501\" id=\"p1\">My brothers and sisters, as I stand in our beloved Conference Center once again, I am reminded of the words of the Apostle Peter: \u201cLord, it is good for us to be here.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"147979505\" id=\"p2\">My thoughts today are centered on the words of the prophet Nephi, who kept the record of his people following Father Lehi\u2019s death. Nephi wrote, \u201cAnd upon these I write the things of my soul.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"147979509\" id=\"p3\">I used to pass over this verse, thinking the word <em>things<\/em> was not very elegant or spiritual, not grand enough to pair with \u201cmy soul.\u201d Yet I have learned that the word <em>things<\/em> is used in the scriptures 2,354 times.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> For example, in Moses: \u201cI am the Beginning and the End, the Almighty God; by mine Only Begotten I created these <em>things<\/em>.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> And Nephi\u2019s words: \u201cBehold, my soul delighteth in the <em>things<\/em> of the Lord; and my heart pondereth continually upon the <em>things<\/em> which I have seen and heard.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"147979513\" id=\"p5\">Nephi\u2019s words raise the questions \u201cWhat things do you ponder?\u201d \u201cWhat things really matter to you?\u201d \u201cWhat are the things of your soul?\u201d<\/p>\n<p data-aid=\"147979518\" id=\"p6\">The things of our souls are often clarified and deepened by asking questions.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/75/ab/75ab90ac76f8cfdd961d52040d11414d00acc210/mission_conference_ronald_a_rasband.png\" data-img-id=\"5d75983122f911ecbc5aeeeeac1e477bee2f4d44\" srcset=\"https://assets.ldscdn.org/55/6d/556d39d823ae41bc6654239411321ee07c4671a2/mission_conference_ronald_a_rasband.png 60w,https://assets.ldscdn.org/66/14/6614e1492bb1892723c36a1dadc967f689af34af/mission_conference_ronald_a_rasband.png 100w,https://assets.ldscdn.org/bd/d8/bdd8fc724d5deb804f48995a3cc1105bcc129734/mission_conference_ronald_a_rasband.png 200w,https://assets.ldscdn.org/e4/5c/e45c0475ad7f0ce60edfbaacf4410e39c460b4f8/mission_conference_ronald_a_rasband.png 250w,https://assets.ldscdn.org/43/16/4316b911b906c60f179d5d29eee97179185fc11a/mission_conference_ronald_a_rasband.png 320w,https://assets.ldscdn.org/75/ab/75ab90ac76f8cfdd961d52040d11414d00acc210/mission_conference_ronald_a_rasband.png 500w,https://assets.ldscdn.org/99/5c/995c30f1b20d6da1dbea59f8385c7637139ea70a/mission_conference_ronald_a_rasband.png 640w\" data-assetId=\"5d75983122f911ecbc5aeeeeac1e477bee2f4d44\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Mission Conference with Elder Ronald A. Rasband\"/>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/a0/e4/a0e40cc1cbb14bc80ecdea69908e62b4b4b9f56e/mission_conference_ronald_a_rasband.png\" data-img-id=\"587cb4f622f911ec8887eeeeac1e5b9a0810ce87\" srcset=\"https://assets.ldscdn.org/8f/e4/8fe4a0de4746868c199fe1dd4ce9aeafb0b0d820/mission_conference_ronald_a_rasband.png 60w,https://assets.ldscdn.org/fa/09/fa09c1e6c28bc542c86019d2f569e4eb6d14153c/mission_conference_ronald_a_rasband.png 100w,https://assets.ldscdn.org/f8/51/f8510ae56256421dda2ef3fed5b4de17acb22b33/mission_conference_ronald_a_rasband.png 200w,https://assets.ldscdn.org/2c/c7/2cc72dec657236cbd6e980b4ce30a699a990d767/mission_conference_ronald_a_rasband.png 250w,https://assets.ldscdn.org/6b/22/6b229d64219051acd41ad0570bbdc99e69533056/mission_conference_ronald_a_rasband.png 320w,https://assets.ldscdn.org/a0/e4/a0e40cc1cbb14bc80ecdea69908e62b4b4b9f56e/mission_conference_ronald_a_rasband.png 500w,https://assets.ldscdn.org/d6/c5/d6c5a6ef63dd68132b290be97dee59e886ddecab/mission_conference_ronald_a_rasband.png 640w\" data-assetId=\"587cb4f622f911ec8887eeeeac1e5b9a0810ce87\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Mission Conference with Elder Ronald A. Rasband\"/>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/7a/0b/7a0b9b61d31a88937ca3dc949179afe9c2df2ad4/rasband_asia_pacific_fireside.png\" data-img-id=\"5997e8b122f911ecbc34eeeeac1e09a5b8185927\" srcset=\"https://assets.ldscdn.org/11/28/1128061c55db4de2e710440f5d0df350523d3ac5/rasband_asia_pacific_fireside.png 60w,https://assets.ldscdn.org/06/1a/061acf1f8cb8e767b4c427e579685afa3dee012d/rasband_asia_pacific_fireside.png 100w,https://assets.ldscdn.org/3a/d8/3ad817da050d976eab0c7e1c287ae888e64a7f20/rasband_asia_pacific_fireside.png 200w,https://assets.ldscdn.org/14/5c/145c4e185651244790b3230c69b0e754ab288c6f/rasband_asia_pacific_fireside.png 250w,https://assets.ldscdn.org/32/0a/320ad85460ae8dd2c6385a10a3ec00196f2473ac/rasband_asia_pacific_fireside.png 320w,https://assets.ldscdn.org/7a/0b/7a0b9b61d31a88937ca3dc949179afe9c2df2ad4/rasband_asia_pacific_fireside.png 500w,https://assets.ldscdn.org/4e/ca/4eca9213df337604161e0c62ff4d3218d7b018d7/rasband_asia_pacific_fireside.png 640w\" data-assetId=\"5997e8b122f911ecbc34eeeeac1e09a5b8185927\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Asia Pacific Young Adult Face to Face\"/>\n<p data-aid=\"147979523\" id=\"p7\">During the pandemic I have met with youth from all over the world in many devotionals, large and small, through broadcasts and social media, and we have discussed their questions.<\/p>\n<p data-aid=\"147979524\" id=\"p8\">Fourteen-year-old Joseph Smith had a question deep in his soul, and he took it to the Lord. President Russell M. Nelson has emphasized: \u201cTake your questions to the Lord and to other faithful sources. Study with the desire to <em>believe<\/em> rather than with the hope that you can find a flaw in the fabric of a prophet\u2019s life or a discrepancy in the scriptures. Stop increasing your doubts by rehearsing them with \u2026 doubters. Allow the Lord to lead you on your journey of spiritual discovery.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"147979529\" id=\"p9\">Youth often ask me what I believe and why I believe.<\/p>\n<p data-aid=\"147979534\" id=\"p10\">I remember visiting virtually with one young woman in her home. I asked if it was the first time an Apostle had been in her home. She quickly smiled and responded, \u201cYes.\u201d Her question for me was good: \u201cWhat are the most important <em>things<\/em> I should know?\u201d<\/p>\n<p data-aid=\"147979539\" id=\"p11\">I answered with the things of my soul, the things that prepare me to hear promptings, that lift my sights beyond the ways of the world, that give purpose to my work in the gospel and to my very life.<\/p>\n<p data-aid=\"147979544\" id=\"p12\">May I share with you some of the things of my soul? These things apply to all who seek to be true disciples of Jesus Christ. Ten would be a good, round number. Today I am giving you seven with the hope that you will complete eight, nine, and ten from your own experiences.<\/p>\n<p data-aid=\"147979548\" id=\"p13\">First, love God the Father and Jesus Christ, our Savior.<\/p>\n<p data-aid=\"147979552\" id=\"p14\">Jesus decreed the first great commandment: \u201cThou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"147979556\" id=\"p15\">President Nelson declared his devotion to God, our Eternal Father, and to His Son, Jesus Christ, when he was called to lead the Lord\u2019s Church, saying, \u201cI know Them, love Them, and pledge to serve Them\u2014and you\u2014with every remaining breath of my life.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"147979559\" id=\"p16\">So first, love the Father and the Son.<\/p>\n<p data-aid=\"147979564\" id=\"p17\">Second, \u201cLove thy neighbour.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"147979569\" id=\"p18\">That is not just a good idea; it\u2019s the second great commandment. Your neighbors are your spouse and family, ward members, work colleagues, roommates, those not of our faith, those needing a helping hand, and, frankly, everyone. The essence of \u201clove thy neighbour\u201d is voiced in the hymn \u201cLove One Another.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"147979574\" id=\"p19\">President Nelson reminds us, \u201cWhen we love <em>God<\/em> with all our hearts, He turns our hearts to the well-being of <em>others<\/em>.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"147979579\" id=\"p20\">Third, love yourself.<\/p>\n<p data-aid=\"147979584\" id=\"p21\">This is where many struggle. Isn\u2019t it curious that loving ourselves seems to come less easily than loving others? Yet the Lord has said, \u201cLove thy neighbour as thyself.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> He values the divinity within us, and so must we. When we are heavy laden with mistakes, heartaches, feelings of inadequacy, disappointment, anger, or sin, the power of the Savior\u2019s Atonement is, by divine design, one of the things that lifts the soul.<\/p>\n<p data-aid=\"147979589\" id=\"p22\">Fourth, keep the commandments.<\/p>\n<p data-aid=\"147979595\" id=\"p23\">The Lord has made it clear: \u201cIf ye love me, keep my commandments.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Strive each day to be and do a little better and to press forward in righteousness.<\/p>\n<p data-aid=\"147979600\" id=\"p24\">Fifth, always be worthy to attend the temple.<\/p>\n<p data-aid=\"147979606\" id=\"p25\">I call it being recommended to the Lord. Whether you have access to a temple or not, being worthy of a current temple recommend keeps you firmly focused on the things that matter, the covenant path.<\/p>\n<p data-aid=\"147979611\" id=\"p26\">Sixth, be joyful and cheerful.<\/p>\n<p data-aid=\"147979616\" id=\"p27\">\u201cBe of good cheer, and do not fear,\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> the Lord has said. Why? How, when challenges face us at every turn? Because of the promise made by Jesus Christ: \u201cI the Lord am with you, and will stand by you.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"147979622\" id=\"p28\">President Nelson describes the restored gospel as \u201ca message of <em>joy<\/em>!\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> And he explains, \u201cThe joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"147979627\" id=\"p29\">Seventh, follow God\u2019s living prophet.<\/p>\n<p data-aid=\"147979632\" id=\"p30\">This may be seventh on my list of things, but it is at the top of my mind in terms of its importance today.<\/p>\n<p data-aid=\"147979636\" id=\"p31\">We have a prophet of God on the earth today! Never discount what that means for you. Remember the young woman I mentioned at the beginning. She wanted to know what things matter most. \u201cFollow the living prophet,\u201d I said then and I emphasize again today.<\/p>\n<p data-aid=\"147979640\" id=\"p32\">We are distinguished as a Church to be led by prophets, seers, and revelators called of God for this time. I promise that as you listen and follow their counsel, you will never be led astray. Never!<\/p>\n<p data-aid=\"147979644\" id=\"p33\">We live in a time when we are \u201ctossed to and fro,\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> when spirituality, decency, integrity, and respect are under attack. We have to make choices. We have the voice of the Lord through His prophet to calm our fears and lift our sights, for when President Nelson speaks, he speaks for the Lord.<\/p>\n<p data-aid=\"147979648\" id=\"p34\">We are blessed with scriptures and teachings that remind us, \u201cMy thoughts are not your thoughts, neither are your ways my ways, saith the Lord.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"147979650\" id=\"p35\">So it was with Naaman, a great military leader in Syria, yet a leper, who was told that the prophet Elisha could heal him. Elisha sent his messenger to tell Naaman to wash in the River Jordan seven times and he would be clean. Naaman scoffed. Certainly there was a mightier river than the Jordan, and why send a servant when he expected Elisha, the prophet, to personally heal him? Naaman walked away but eventually was persuaded by his servants: \u201cIf the prophet had bid thee do some great thing, wouldest thou not have done it?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> Naaman finally dipped seven times in the Jordan and was healed.<\/p>\n<p data-aid=\"147979653\" id=\"p43\">The account of Naaman reminds us of the risk of picking and choosing the parts of prophetic counsel that fit our thinking, our expectations, or today\u2019s norms. Our prophet continually points us to our own River Jordans to be healed.<\/p>\n<p data-aid=\"147979656\" id=\"p36\">The most important words we can hear, ponder, and follow are those revealed through our living prophet. I bear witness that I have sat in counsel with President Nelson to discuss weighty matters of the Church and of the world, and I have seen revelation flow through him. He knows the Lord, he knows His ways, and he desires that all of God\u2019s children will hear Him, the Lord Jesus Christ.<\/p>\n<p data-aid=\"147979659\" id=\"p37\">For many years we heard from the prophet twice a year at general conference. But with the complex issues of our day, President Nelson is speaking much more often in forums,<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> social media,<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> devotionals,<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> and even press briefings.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> I have observed him preparing and presenting profound revelatory messages that have encouraged more gratitude, promoted greater inclusion of all our brothers and sisters on earth, and increased peace, hope, joy, health, and healing in our individual lives.<\/p>\n<p data-aid=\"147979662\" id=\"p38\">President Nelson is a gifted communicator, but more important, he is a prophet of God. That is staggering when you think about it, but it is critical to realize that his clear direction will shield us all from the deceit, craftiness, and secular ways gaining momentum in the world today.<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"147979665\" id=\"p39\">The prophetic mantle is all about revelation. \u201cThe Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World,\u201d given in the April 2020 general conference, emphasizes that the Lord is directing this work. In this proclamation, the First Presidency and Quorum of the Twelve Apostles state: \u201cWe gladly declare that the promised Restoration goes forward through continuing revelation. The earth will never again be the same, as God will \u2018gather together in one all things in Christ\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>).\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"147979668\" id=\"p40\">\u201cAll things in Christ\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> and \u201cthe things of my soul\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a> are what this Church, this gospel, and this people are all about.<\/p>\n<p data-aid=\"147979671\" id=\"p41\">I close with an invitation for each of you to consider the seven \u201cthings of my soul\u201d I have shared today: love God the Father and Jesus Christ, our Savior; love your neighbor; love yourself; keep the commandments; always be worthy of a temple recommend; be joyful and cheerful; and follow God\u2019s living prophet. I invite you to identify your own eight, nine, and ten. Consider ways you might share your heartfelt \u201cthings\u201d with others and encourage them to pray, ponder, and seek the Lord\u2019s guidance.<\/p>\n<p data-aid=\"147979673\" id=\"p42\">The things of my soul are as precious to me as yours are to you. These things strengthen our service in the Church and in all areas of life. They commit us to Jesus Christ, they remind us of our covenants, and they help us feel secure in the arms of the Lord. I testify that He desires that our souls \u201cshall never hunger nor thirst, but shall be filled\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> with His love as we seek to become His true disciples, to be one with Him as He is with the Father. In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"147979675\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"147979677\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.4?lang=eng#p4\">Matthew 17:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"147979679\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.15?lang=eng#p15\">2 Nephi 4:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"147979681\" id=\"note3_p1\">See Scripture Citation Index, scriptures.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"147979683\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.1?lang=eng#p1\">Moses 2:1<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"147979685\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.16?lang=eng#p16\">2 Nephi 4:16<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"147979688\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=eng\">Christ Is Risen; Faith in Him Will Move Mountains<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 103.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"147979690\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37?lang=eng#p37\">Matthew 22:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"147979692\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=eng\">As We Go Forward Together<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Apr. 2018, 7.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"147979694\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=eng#p39\">Matthew 22:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"147979695\" id=\"note10_p1\">\u201cLove One Another,\u201d <cite>Hymns<\/cite>, no. 308.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"147979698\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/46nelson?lang=eng\">The Second Great Commandment<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 97.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"147979700\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=eng#p39\">Matthew 22:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"147979702\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.15?lang=eng#p15\">John 14:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"147979704\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"147979706\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"147979708\" id=\"note16_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 7.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"147979710\" id=\"note17_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2016, 82.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"147979712\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.14?lang=eng#p14\">Ephesians 4:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"147979714\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55.8?lang=eng#p8\">Isaiah 55:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"147979717\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.13?lang=eng#p13\">2 Kings 5:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"147979718\" id=\"note21_p1\">For example, see <a href=\"https://www.churchofjesuschrist.org/broadcasts/face-to-face/friend-to-friend\">Friend to Friend Broadcast for Children: 2021<\/a> (Feb. 20, 2021), broadcasts.ChurchofJesusChrist.org, part 3, from time code 9:57 to 13:16.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"147979721\" id=\"note22_p1\">For examples, see Russell M. Nelson, Facebook, July 23, 2021, facebook.com/russell.m.nelson; \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2020-11-1100-president-russell-m-nelson-on-the-healing-power-of-gratitude\">President Russell M. Nelson on the Healing Power of Gratitude<\/a>\u201d (video), ChurchofJesusChrist.org; Russell M. Nelson, Twitter, May 6, 2021, twitter.com/NelsonRussellM.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"147979723\" id=\"note23_p1\">For example, see Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/love-laws-god/\">The Love and Laws of God<\/a>\u201d (Brigham Young University devotional, Sept. 17, 2019), speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"147979725\" id=\"note24_p1\">For example, see \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/first-presidency-naacp-shared-vision\">First Presidency and NAACP Leaders Announce a Shared Vision to \u2018Learn from and Serve One Another\u2019<\/a>\u201d (news release, June 14, 2021), newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"147979727\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.11-14?lang=eng#p11\">Ephesians 4:11\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"147979729\" id=\"note26_p1\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"147979731\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"147979733\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.15?lang=eng#p15\">2 Nephi 4:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"147979736\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.8?lang=eng#p8\">3 Nephi 20:8<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "147979509",
+        "id": "note4",
+        "text": "<p data-aid=\"147979683\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.1?lang=eng#p1\">Moses 2:1<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/2.1?lang=eng#p1",
+          "text": "Moses 2:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "147979509",
+        "id": "note5",
+        "text": "<p data-aid=\"147979685\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.16?lang=eng#p16\">2 Nephi 4:16<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4.16?lang=eng#p16",
+          "text": "2 Nephi 4:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "147979505",
+        "id": "note2",
+        "text": "<p data-aid=\"147979679\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.15?lang=eng#p15\">2 Nephi 4:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4.15?lang=eng#p15",
+          "text": "2 Nephi 4:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "147979509",
+        "id": "note3",
+        "text": "<p data-aid=\"147979681\" id=\"note3_p1\">See Scripture Citation Index, scriptures.byu.edu.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "147979556",
+        "id": "note8",
+        "text": "<p data-aid=\"147979692\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=eng\">As We Go Forward Together<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Apr. 2018, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2018/04/as-we-go-forward-together?lang=eng",
+          "text": "As We Go Forward Together",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "147979564",
+        "id": "note9",
+        "text": "<p data-aid=\"147979694\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=eng#p39\">Matthew 22:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.39?lang=eng#p39",
+          "text": "Matthew 22:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "147979524",
+        "id": "note6",
+        "text": "<p data-aid=\"147979688\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=eng\">Christ Is Risen; Faith in Him Will Move Mountains<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 103.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/49nelson?lang=eng",
+          "text": "Christ Is Risen; Faith in Him Will Move Mountains",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "147979552",
+        "id": "note7",
+        "text": "<p data-aid=\"147979690\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37?lang=eng#p37\">Matthew 22:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.37?lang=eng#p37",
+          "text": "Matthew 22:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "147979622",
+        "id": "note16",
+        "text": "<p data-aid=\"147979708\" id=\"note16_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/11nelson?lang=eng",
+          "text": "Welcome Message",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "147979616",
+        "id": "note15",
+        "text": "<p data-aid=\"147979706\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68.6?lang=eng#p6",
+          "text": "Doctrine and Covenants 68:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "147979616",
+        "id": "note14",
+        "text": "<p data-aid=\"147979704\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68.6?lang=eng#p6",
+          "text": "Doctrine and Covenants 68:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "147979595",
+        "id": "note13",
+        "text": "<p data-aid=\"147979702\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.15?lang=eng#p15\">John 14:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.15?lang=eng#p15",
+          "text": "John 14:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "147979584",
+        "id": "note12",
+        "text": "<p data-aid=\"147979700\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=eng#p39\">Matthew 22:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.39?lang=eng#p39",
+          "text": "Matthew 22:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "147979574",
+        "id": "note11",
+        "text": "<p data-aid=\"147979698\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/46nelson?lang=eng\">The Second Great Commandment<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/46nelson?lang=eng",
+          "text": "The Second Great Commandment",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "147979569",
+        "id": "note10",
+        "text": "<p data-aid=\"147979695\" id=\"note10_p1\">\u201cLove One Another,\u201d <cite>Hymns<\/cite>, no. 308.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "147979648",
+        "id": "note19",
+        "text": "<p data-aid=\"147979714\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55.8?lang=eng#p8\">Isaiah 55:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/55.8?lang=eng#p8",
+          "text": "Isaiah 55:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "147979644",
+        "id": "note18",
+        "text": "<p data-aid=\"147979712\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.14?lang=eng#p14\">Ephesians 4:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.14?lang=eng#p14",
+          "text": "Ephesians 4:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "147979622",
+        "id": "note17",
+        "text": "<p data-aid=\"147979710\" id=\"note17_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2016, 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng",
+          "text": "Joy and Spiritual Survival",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "147979668",
+        "id": "note27",
+        "text": "<p data-aid=\"147979731\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/1.10?lang=eng#p10",
+          "text": "Ephesians 1:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "147979665",
+        "id": "note26",
+        "text": "<p data-aid=\"147979729\" id=\"note26_p1\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1",
+          "text": "The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "147979662",
+        "id": "note25",
+        "text": "<p data-aid=\"147979727\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.11-14?lang=eng#p11\">Ephesians 4:11\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.11-14?lang=eng#p11",
+          "text": "Ephesians 4:11\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "147979659",
+        "id": "note24",
+        "text": "<p data-aid=\"147979725\" id=\"note24_p1\">For example, see \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/first-presidency-naacp-shared-vision\">First Presidency and NAACP Leaders Announce a Shared Vision to \u2018Learn from and Serve One Another\u2019<\/a>\u201d (news release, June 14, 2021), newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/first-presidency-naacp-shared-vision",
+          "text": "First Presidency and NAACP Leaders Announce a Shared Vision to \u2018Learn from and Serve One Another\u2019"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "147979659",
+        "id": "note23",
+        "text": "<p data-aid=\"147979723\" id=\"note23_p1\">For example, see Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/love-laws-god/\">The Love and Laws of God<\/a>\u201d (Brigham Young University devotional, Sept. 17, 2019), speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/russell-m-nelson/love-laws-god/",
+          "text": "The Love and Laws of God"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "147979659",
+        "id": "note22",
+        "text": "<p data-aid=\"147979721\" id=\"note22_p1\">For examples, see Russell M. Nelson, Facebook, July 23, 2021, facebook.com/russell.m.nelson; \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2020-11-1100-president-russell-m-nelson-on-the-healing-power-of-gratitude\">President Russell M. Nelson on the Healing Power of Gratitude<\/a>\u201d (video), ChurchofJesusChrist.org; Russell M. Nelson, Twitter, May 6, 2021, twitter.com/NelsonRussellM.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/media/video/2020-11-1100-president-russell-m-nelson-on-the-healing-power-of-gratitude",
+          "text": "President Russell M. Nelson on the Healing Power of Gratitude"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "147979659",
+        "id": "note21",
+        "text": "<p data-aid=\"147979718\" id=\"note21_p1\">For example, see <a href=\"https://www.churchofjesuschrist.org/broadcasts/face-to-face/friend-to-friend\">Friend to Friend Broadcast for Children: 2021<\/a> (Feb. 20, 2021), broadcasts.ChurchofJesusChrist.org, part 3, from time code 9:57 to 13:16.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/broadcasts/face-to-face/friend-to-friend",
+          "text": "Friend to Friend Broadcast for Children: 2021"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "147979650",
+        "id": "note20",
+        "text": "<p data-aid=\"147979717\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.13?lang=eng#p13\">2 Kings 5:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/5.13?lang=eng#p13",
+          "text": "2 Kings 5:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "147979501",
+        "id": "note1",
+        "text": "<p data-aid=\"147979677\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.4?lang=eng#p4\">Matthew 17:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/17.4?lang=eng#p4",
+          "text": "Matthew 17:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "147979673",
+        "id": "note29",
+        "text": "<p data-aid=\"147979736\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.8?lang=eng#p8\">3 Nephi 20:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/20.8?lang=eng#p8",
+          "text": "3 Nephi 20:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "147979668",
+        "id": "note28",
+        "text": "<p data-aid=\"147979733\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.15?lang=eng#p15\">2 Nephi 4:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4.15?lang=eng#p15",
+          "text": "2 Nephi 4:15",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

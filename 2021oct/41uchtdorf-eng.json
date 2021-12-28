@@ -1,0 +1,625 @@
+{
+  "tableOfContentsUri": "/general-conference/2021/10",
+  "meta": {
+    "canonicalUrl": "/general-conference/2021/10/41uchtdorf?lang=eng",
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:noNamespaceSchemaLocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/general-conference/2021/10/41uchtdorf",
+      "data-aid": "147979102",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetId": "b35a7a9e794c423b917be522175fa41c",
+      "data-aid-version": "2",
+      "data-orig-id": "b35a7a9e794c423b917be522175fa41c"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275371484001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-4010-dieter-f-uchtdorf-32k-eng.mp3"
+    }],
+    "title": "Daily Restoration",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "147979102",
+      {"key": "147979102"}
+    ],
+    [
+      "147979103",
+      {"key": "147979103"}
+    ],
+    [
+      "147979104",
+      {"key": "147979104"}
+    ],
+    [
+      "147979105",
+      {"key": "147979105"}
+    ],
+    [
+      "147979106",
+      {"key": "147979106"}
+    ],
+    [
+      "147979107",
+      {"key": "147979107"}
+    ],
+    [
+      "147979108",
+      {"key": "147979108"}
+    ],
+    [
+      "147979109",
+      {"key": "147979109"}
+    ],
+    [
+      "147979110",
+      {"key": "147979110"}
+    ],
+    [
+      "147979111",
+      {"key": "147979111"}
+    ],
+    [
+      "147979112",
+      {"key": "147979112"}
+    ],
+    [
+      "147979113",
+      {"key": "147979113"}
+    ],
+    [
+      "147979114",
+      {"key": "147979114"}
+    ],
+    [
+      "147979115",
+      {"key": "147979115"}
+    ],
+    [
+      "147979116",
+      {"key": "147979116"}
+    ],
+    [
+      "147979117",
+      {"key": "147979117"}
+    ],
+    [
+      "147979119",
+      {"key": "147979119"}
+    ],
+    [
+      "147979121",
+      {"key": "147979121"}
+    ],
+    [
+      "147979123",
+      {"key": "147979123"}
+    ],
+    [
+      "147979126",
+      {"key": "147979126"}
+    ],
+    [
+      "147979129",
+      {"key": "147979129"}
+    ],
+    [
+      "147979133",
+      {"key": "147979133"}
+    ],
+    [
+      "147979137",
+      {"key": "147979137"}
+    ],
+    [
+      "147979141",
+      {"key": "147979141"}
+    ],
+    [
+      "147979145",
+      {"key": "147979145"}
+    ],
+    [
+      "147979149",
+      {"key": "147979149"}
+    ],
+    [
+      "147979153",
+      {"key": "147979153"}
+    ],
+    [
+      "147979157",
+      {"key": "147979157"}
+    ],
+    [
+      "147979161",
+      {"key": "147979161"}
+    ],
+    [
+      "147979165",
+      {"key": "147979165"}
+    ],
+    [
+      "147979169",
+      {"key": "147979169"}
+    ],
+    [
+      "147979174",
+      {"key": "147979174"}
+    ],
+    [
+      "147979178",
+      {"key": "147979178"}
+    ],
+    [
+      "147979183",
+      {"key": "147979183"}
+    ],
+    [
+      "147979188",
+      {"key": "147979188"}
+    ],
+    [
+      "147979193",
+      {"key": "147979193"}
+    ],
+    [
+      "147979199",
+      {"key": "147979199"}
+    ],
+    [
+      "147979204",
+      {"key": "147979204"}
+    ],
+    [
+      "147979209",
+      {"key": "147979209"}
+    ],
+    [
+      "147979214",
+      {"key": "147979214"}
+    ],
+    [
+      "147979219",
+      {"key": "147979219"}
+    ],
+    [
+      "147979225",
+      {"key": "147979225"}
+    ],
+    [
+      "147979231",
+      {"key": "147979231"}
+    ],
+    [
+      "147979238",
+      {"key": "147979238"}
+    ],
+    [
+      "147979244",
+      {"key": "147979244"}
+    ],
+    [
+      "147979250",
+      {"key": "147979250"}
+    ],
+    [
+      "147979257",
+      {"key": "147979257"}
+    ],
+    [
+      "147979264",
+      {"key": "147979264"}
+    ],
+    [
+      "147979271",
+      {"key": "147979271"}
+    ],
+    [
+      "147979278",
+      {"key": "147979278"}
+    ],
+    [
+      "147979285",
+      {"key": "147979285"}
+    ],
+    [
+      "147979292",
+      {"key": "147979292"}
+    ],
+    [
+      "147979299",
+      {"key": "147979299"}
+    ],
+    [
+      "147979306",
+      {"key": "147979306"}
+    ],
+    [
+      "147979313",
+      {"key": "147979313"}
+    ],
+    [
+      "147979320",
+      {"key": "147979320"}
+    ],
+    [
+      "147979327",
+      {"key": "147979327"}
+    ],
+    [
+      "147979334",
+      {"key": "147979334"}
+    ],
+    [
+      "147979341",
+      {"key": "147979341"}
+    ],
+    [
+      "147979348",
+      {"key": "147979348"}
+    ],
+    [
+      "147979355",
+      {"key": "147979355"}
+    ],
+    [
+      "147979361",
+      {"key": "147979361"}
+    ],
+    [
+      "147979370",
+      {"key": "147979370"}
+    ],
+    [
+      "147979374",
+      {"key": "147979374"}
+    ],
+    [
+      "147979378",
+      {"key": "147979378"}
+    ],
+    [
+      "147979388",
+      {"key": "147979388"}
+    ],
+    [
+      "147979394",
+      {"key": "147979394"}
+    ],
+    [
+      "147979400",
+      {"key": "147979400"}
+    ],
+    [
+      "147979411",
+      {"key": "147979411"}
+    ],
+    [
+      "147979417",
+      {"key": "147979417"}
+    ],
+    [
+      "147979425",
+      {"key": "147979425"}
+    ],
+    [
+      "147979429",
+      {"key": "147979429"}
+    ],
+    [
+      "147979433",
+      {"key": "147979433"}
+    ],
+    [
+      "147979440",
+      {"key": "147979440"}
+    ],
+    [
+      "147979441",
+      {"key": "147979441"}
+    ],
+    [
+      "147979446",
+      {"key": "147979446"}
+    ],
+    [
+      "147979451",
+      {"key": "147979451"}
+    ],
+    [
+      "147979455",
+      {"key": "147979455"}
+    ]
+  ],
+  "uri": "/general-conference/2021/10/41uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Uchtdorf teaches that we all drift spiritually at times but that we can get back on course by daily following the spiritual landmarks God has provided.",
+          "title": "Daily Restoration"
+        },
+        "pageSocial": {
+          "description": "Elder Uchtdorf teaches that we all drift spiritually at times but that we can get back on course by daily following the spiritual landmarks God has provided.",
+          "title": "Daily Restoration"
+        }
+      }
+    },
+    "associated": {"p8": [{
+      "imgId": "9425477f253b11ec81b6eeeeac1e0e28e4f12ec9",
+      "src": "https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png",
+      "alt": "Germany: Map of Bienwald Forest",
+      "missingAsset": "false",
+      "aspectRatio": "1.5533980582524272",
+      "pid": "147979115",
+      "srcset": "https://assets.ldscdn.org/6a/b9/6ab94121f4645ec842cf4da11a8e619079c46911/bienwald_forest_germany_map.png 60w,https://assets.ldscdn.org/a5/d8/a5d802693ce7b726b1765ad9105277baeaaaefb2/bienwald_forest_germany_map.png 100w,https://assets.ldscdn.org/fe/ba/feba7969619bb1aa13a591ef7e340f09fa8df316/bienwald_forest_germany_map.png 200w,https://assets.ldscdn.org/8a/95/8a954c27024a403475caeea7b194a003c89cb1ad/bienwald_forest_germany_map.png 250w,https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png 320w,https://assets.ldscdn.org/26/9b/269bfd0618772bee43381a266e0fa89f84e60e0d/bienwald_forest_germany_map.png 500w,https://assets.ldscdn.org/14/a8/14a8aaec4cb494a23e067c226bdc702202c36f97/bienwald_forest_germany_map.png 640w",
+      "title": "Germany: Map of Bienwald Forest",
+      "type": "image",
+      "attribs": {
+        "data-height": "206",
+        "sizes": "250px",
+        "src": "https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png",
+        "data-missing-asset": "false",
+        "data-width": "320",
+        "alt": "Germany: Map of Bienwald Forest",
+        "data-aspect-ratio": "1.5533980582524272",
+        "data-img-id": "9425477f253b11ec81b6eeeeac1e0e28e4f12ec9",
+        "id": "img1",
+        "srcset": "https://assets.ldscdn.org/6a/b9/6ab94121f4645ec842cf4da11a8e619079c46911/bienwald_forest_germany_map.png 60w,https://assets.ldscdn.org/a5/d8/a5d802693ce7b726b1765ad9105277baeaaaefb2/bienwald_forest_germany_map.png 100w,https://assets.ldscdn.org/fe/ba/feba7969619bb1aa13a591ef7e340f09fa8df316/bienwald_forest_germany_map.png 200w,https://assets.ldscdn.org/8a/95/8a954c27024a403475caeea7b194a003c89cb1ad/bienwald_forest_germany_map.png 250w,https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png 320w,https://assets.ldscdn.org/26/9b/269bfd0618772bee43381a266e0fa89f84e60e0d/bienwald_forest_germany_map.png 500w,https://assets.ldscdn.org/14/a8/14a8aaec4cb494a23e067c226bdc702202c36f97/bienwald_forest_germany_map.png 640w",
+        "data-assetId": "9425477f253b11ec81b6eeeeac1e0e28e4f12ec9"
+      },
+      "sizes": "250px",
+      "assetId": "9425477f253b11ec81b6eeeeac1e0e28e4f12ec9",
+      "marker": "",
+      "width": "320",
+      "html": {"__html": "<img id=\"img1\" src=\"https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png\" data-img-id=\"9425477f253b11ec81b6eeeeac1e0e28e4f12ec9\" srcset=\"https://assets.ldscdn.org/6a/b9/6ab94121f4645ec842cf4da11a8e619079c46911/bienwald_forest_germany_map.png 60w,https://assets.ldscdn.org/a5/d8/a5d802693ce7b726b1765ad9105277baeaaaefb2/bienwald_forest_germany_map.png 100w,https://assets.ldscdn.org/fe/ba/feba7969619bb1aa13a591ef7e340f09fa8df316/bienwald_forest_germany_map.png 200w,https://assets.ldscdn.org/8a/95/8a954c27024a403475caeea7b194a003c89cb1ad/bienwald_forest_germany_map.png 250w,https://assets.ldscdn.org/1b/6c/1b6c5daf15ffc7a584706dce1a536b889558208b/bienwald_forest_germany_map.png 320w,https://assets.ldscdn.org/26/9b/269bfd0618772bee43381a266e0fa89f84e60e0d/bienwald_forest_germany_map.png 500w,https://assets.ldscdn.org/14/a8/14a8aaec4cb494a23e067c226bdc702202c36f97/bienwald_forest_germany_map.png 640w\" data-assetId=\"9425477f253b11ec81b6eeeeac1e0e28e4f12ec9\" data-missing-asset=\"false\" data-width=\"320\" data-height=\"206\" data-aspect-ratio=\"1.5533980582524272\" alt=\"Germany: Map of Bienwald Forest\" sizes=\"250px\"/>"},
+      "id": "img1",
+      "key": "p8",
+      "height": "206"
+    }]},
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6275371484001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275371484001\" data-video-title=\"Dieter F. Uchtdorf\" data-video-description=\"Elder Dieter F. Uchtdorf speaks at the 191st Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints on October 2-3, 2021.\" data-video-id=\"6275371484001\" data-ip=\"Download &amp; Streaming\" data-duration=\"823000\" data-assetId=\"0E88E5FD8CB2C30E3FF89EFB449579F477CC23C8\" data-ref-id=\"0E88E5FD8CB2C30E3FF89EFB449579F477CC23C8\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6275371484001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275371484001/640/360/992000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"102431312\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275371484001/1280/720/2122000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"218848307\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-4010-dieter-f-uchtdorf-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"271102183\"/><\/video><h1 data-aid=\"147979103\" id=\"title1\">Daily Restoration<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"147979104\" id=\"author1\">By Elder Dieter F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"147979105\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"147979106\" id=\"kicker1\">We need an ongoing, daily infusion of heavenly light. We need \u201ctimes of refreshing.\u201d Times of personal restoration.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"147979107\" id=\"p1\">We gather this beautiful Sabbath morning to speak of Christ, rejoice in His gospel, and support and sustain one another as we walk in \u201cthe way\u201d of our Savior.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"147979108\" id=\"p2\">As members of The Church of Jesus Christ of Latter-day Saints, we assemble for this purpose every Sabbath day throughout the year. If you are not a member of the Church, we welcome you most warmly and thank you for joining with us to worship the Savior and learn of Him. Like you, we are striving\u2014though imperfectly\u2014to become better friends, neighbors, and human beings,<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> and we seek to do this by following our Exemplar, Jesus Christ.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/5f/00/5f00dc91b1cf97ef576b7dff7c15e46aefe816ba/christ_art_hofmann.png\" data-img-id=\"6161515522f911ecbc5aeeeeac1e477bc2c93501\" srcset=\"https://assets.ldscdn.org/e0/a3/e0a3de42ca6e801e280231d5b469aef56d788385/christ_art_hofmann.png 60w,https://assets.ldscdn.org/76/ab/76abe8a48a41e5738c6a1b7b3855d6e99e878517/christ_art_hofmann.png 100w,https://assets.ldscdn.org/f9/ed/f9ed30fe8214e31b5cbbfdc21768a7cf712e23f7/christ_art_hofmann.png 200w,https://assets.ldscdn.org/f6/79/f679181263767e2bf31fbe05ee8ba408be58c175/christ_art_hofmann.png 250w,https://assets.ldscdn.org/f1/6f/f16f3b611e47e0ef51cb8bea09f74ba3dc54d33e/christ_art_hofmann.png 320w,https://assets.ldscdn.org/5f/00/5f00dc91b1cf97ef576b7dff7c15e46aefe816ba/christ_art_hofmann.png 500w,https://assets.ldscdn.org/65/47/65471596ac0c5ff73926c4bd55c957d81bfa2378/christ_art_hofmann.png 640w\" data-assetId=\"6161515522f911ecbc5aeeeeac1e477bc2c93501\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Christ's image\"/>\n<p data-aid=\"147979109\" id=\"p3\">We hope you can feel the sincerity of our testimony. Jesus Christ lives! He is the Son of the living God, and He directs prophets on the earth in our day. We invite all to come, hear the word of God, and partake of His goodness! I bear my personal witness that God is among us and that He will surely draw near to all who draw near to Him.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"147979110\" id=\"p4\">We consider it an honor to walk with you in the Master\u2019s strait and narrow path of discipleship.<\/p>\n<section>\n<header>\n<h2 data-aid=\"147979111\" id=\"title2\">The Art of Walking in a Straight Line<\/h2>\n<\/header>\n<p data-aid=\"147979112\" id=\"p5\">There is an oft-repeated theory that people who are lost walk in circles. Not long ago, scientists at the Max Planck Institute for Biological Cybernetics tested that theory. They took participants to a thick forest and gave them simple instructions: \u201cWalk in a straight line.\u201d There were no visible landmarks. The test subjects had to rely solely on their sense of direction.<\/p>\n<p data-aid=\"147979113\" id=\"p6\">How do you think they did?<\/p>\n<p data-aid=\"147979114\" id=\"p7\">The scientists concluded, \u201cPeople really [do] walk in circles when they do not have reliable cues to their walking direction.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> When questioned afterwards, some participants self-confidently claimed that they had not deviated in the slightest. Despite their high confidence, GPS data showed that they walked in loops as tight as 20 meters in diameter.<\/p>\n<p data-aid=\"147979115\" id=\"p8\">Why do we do have such a hard time walking in a straight line? Some researchers hypothesize that small, seemingly insignificant deviations in terrain make the difference. Others have pointed to the fact that we all have one leg that is slightly stronger than the other. \u201cMore likely,\u201d however, we struggle to walk straight ahead \u201c[because] of increasing uncertainty about where straight ahead is.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"147979116\" id=\"p9\">Whatever the cause, it is human nature: without reliable landmarks, we drift off course.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"147979117\" id=\"title3\">Straying from the Path<\/h2>\n<\/header>\n<p data-aid=\"147979119\" id=\"p10\">Isn\u2019t it interesting how small, seemingly insignificant factors can make a major difference in our lives?<\/p>\n<p data-aid=\"147979121\" id=\"p11\">I know this from personal experience as a pilot. Every time I started the approach to an airport, I knew that much of my remaining work would consist of making constant minor course corrections to safely direct the aircraft to our desired landing runway.<\/p>\n<p data-aid=\"147979123\" id=\"p12\">You might have a similar experience when driving a vehicle. Wind, road irregularities, imperfect wheel alignment, inattentiveness\u2014not to mention the actions of other drivers\u2014all can push you off your intended path. Fail to pay attention to these factors and you may end up having a bad day.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/7b/31/7b313c7c1801b24d64551ef25e365c0fbc82e6a3/car_pool_insurance_water.png\" data-img-id=\"5f4c53ec22f911ec9f65eeeeac1ecd5ad00dfcb1\" srcset=\"https://assets.ldscdn.org/a2/41/a2415bce3f9822bd5c6196a4b546fc06df31b9ce/car_pool_insurance_water.png 60w,https://assets.ldscdn.org/90/a3/90a3af4b0296a9b7b28d1d7b31ce9ab3b0cef500/car_pool_insurance_water.png 100w,https://assets.ldscdn.org/bb/cb/bbcb1b3e234cf8314bb286f3df573a20d38c4b6a/car_pool_insurance_water.png 200w,https://assets.ldscdn.org/da/db/dadb482526513dcb1d1de6e3274872e1b4c3358c/car_pool_insurance_water.png 250w,https://assets.ldscdn.org/cc/02/cc029f6659c6c7542fe92af440ea5e8ea2d8aa80/car_pool_insurance_water.png 320w,https://assets.ldscdn.org/7b/31/7b313c7c1801b24d64551ef25e365c0fbc82e6a3/car_pool_insurance_water.png 500w,https://assets.ldscdn.org/7d/7b/7d7bf05fd0f1a0d7a80c44e8856ecf47ddb14c8a/car_pool_insurance_water.png 640w\" data-assetId=\"5f4c53ec22f911ec9f65eeeeac1ecd5ad00dfcb1\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Car/Pool\"/>\n<p data-aid=\"147979126\" id=\"p13\">This applies to us physically.<\/p>\n<p data-aid=\"147979129\" id=\"p14\">It also applies to us spiritually.<\/p>\n<p data-aid=\"147979133\" id=\"p15\">Most of the changes in our spiritual lives\u2014both positive and negative\u2014happen gradually, a step at a time. Like the participants in the Max Planck study, we may not realize when we veer off course. We may even have high confidence that we are walking a straight line. But the fact is that without the help of landmarks to guide us, we inevitably deviate off course and end up in places we never thought we would be.<\/p>\n<p data-aid=\"147979137\" id=\"p16\">This is true for individuals. It is also true for societies and nations. The scriptures are filled with examples.<\/p>\n<p data-aid=\"147979141\" id=\"p17\">The book of Judges records that after Joshua died, \u201cthere arose another generation \u2026 which knew not the Lord, nor yet the works which he had done for Israel.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"147979145\" id=\"p18\">Despite the astonishing heavenly interventions, visitations, rescues, and miraculous victories the children of Israel witnessed during the lifetimes of Moses and Joshua, within a generation the people had abandoned the Way and began walking according to their own desires. And, of course, it did not take long before they paid the price for that behavior.<\/p>\n<p data-aid=\"147979149\" id=\"p19\">Sometimes this falling away takes generations. Sometimes it happens in a matter of years or even months.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> But we are all susceptible. No matter how strong our spiritual experiences have been in the past, as human beings we tend to wander. That has been the pattern from the days of Adam until now.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"147979153\" id=\"title4\">Here\u2019s the Good News<\/h2>\n<\/header>\n<p data-aid=\"147979157\" id=\"p20\">But all is not lost. Unlike the wandering test subjects, we have reliable, visible landmarks that we can use to evaluate our course.<\/p>\n<p data-aid=\"147979161\" id=\"p21\">And what are these landmarks?<\/p>\n<p data-aid=\"147979165\" id=\"p22\">Surely they include daily prayer and pondering the scriptures and using inspired tools like <cite>Come, Follow Me<\/cite>. Each day, we can approach the throne of God in humility and honesty. We can ponder our actions and review the moments of our day\u2014considering our will and desires in light of His. If we have drifted, we plead with God to restore us, and we commit to do better.<\/p>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/6a/6d/6a6d822595ea0327075ede73ce61eb0efda38e5f/he_leadeth_me_yongsung.png\" data-img-id=\"55bf69a722f911ecb34aeeeeac1e8d8a372992ba\" srcset=\"https://assets.ldscdn.org/58/c6/58c673a5d55c1d0cb259d9172e31733c01d3bac0/he_leadeth_me_yongsung.png 60w,https://assets.ldscdn.org/32/aa/32aaaf4fc026d470cac5a029c89a381b411bb9e5/he_leadeth_me_yongsung.png 100w,https://assets.ldscdn.org/53/ae/53ae73462b28bc5b04017449708ec72e4a8bebd8/he_leadeth_me_yongsung.png 200w,https://assets.ldscdn.org/ed/5a/ed5a15fb35e6938d8ee550a8b33fb1776ecc9bac/he_leadeth_me_yongsung.png 250w,https://assets.ldscdn.org/00/2f/002f89d5745890e3f3564f75bf7d70ed472a6d0d/he_leadeth_me_yongsung.png 320w,https://assets.ldscdn.org/6a/6d/6a6d822595ea0327075ede73ce61eb0efda38e5f/he_leadeth_me_yongsung.png 500w,https://assets.ldscdn.org/43/5d/435d9cf120767b9967a8786b82544c453219e4cc/he_leadeth_me_yongsung.png 640w\" data-assetId=\"55bf69a722f911ecb34aeeeeac1e8d8a372992ba\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"He Leadeth Me\"/>\n<p data-aid=\"147979169\" id=\"p23\">This time of introspection is an opportunity for recalibration. It is a garden of reflection where we can walk with the Lord and be instructed, edified, and purified by the written and Spirit-revealed word of our Heavenly Father. It is a sacred time when we remember our solemn covenants to follow the gentle Christ, when we assess our progress and align ourselves with the spiritual landmarks God has provided for His children.<\/p>\n<p data-aid=\"147979174\" id=\"p24\">Think of it as your personal, <em>daily restoration<\/em>. On our journey as pilgrims on the path of glory, we know how easy it is to fall away. But just as minor deviations can draw us out of the Savior\u2019s Way, so too can small and simple acts of realignment assuredly lead us back. When darkness creeps into our lives, as it often does, our daily restoration opens our hearts to heavenly light, which illuminates our souls, chasing away shadows, fears, and doubts.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"147979178\" id=\"title5\">Small Rudders, Large Ships<\/h2>\n<\/header>\n<p data-aid=\"147979183\" id=\"p25\">If we seek it, surely \u201cGod shall give unto [us] knowledge by his Holy Spirit, yea, by the unspeakable gift of the Holy Ghost.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> As often as we ask, He will teach us the Way and help us follow it.<\/p>\n<p data-aid=\"147979188\" id=\"p26\">This, of course, takes a steady effort on our part. We cannot be content with spiritual experiences of the past. We need a steady flow.<\/p>\n<p data-aid=\"147979193\" id=\"p27\">We can\u2019t rely on others\u2019 testimonies forever. We must build our own.<\/p>\n<p data-aid=\"147979199\" id=\"p28\">We need an ongoing, daily infusion of heavenly light.<\/p>\n<p data-aid=\"147979204\" id=\"p29\">We need \u201ctimes of refreshing.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Times of personal restoration.<\/p>\n<p data-aid=\"147979209\" id=\"p30\">\u201cRolling waters\u201d cannot long \u201cremain impure.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> To keep our thoughts and actions pure, we have to keep rolling!<\/p>\n<p data-aid=\"147979214\" id=\"p31\">After all, the Restoration of the gospel and the Church is not something that happened once and is over. It is an <em>ongoing process<\/em>\u2014one day at a time, one heart at a time.<\/p>\n<p data-aid=\"147979219\" id=\"p32\">As our days go, so go our lives. One author put it this way: \u201cA day is like a whole life. You start out doing one thing, but end up doing something else, plan to run an errand, but never get there. \u2026 And at the end of your life, your whole existence has that same haphazard quality, too. Your whole life has the same shape as a single day.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"147979225\" id=\"p33\">Do you want to change the shape of your life?<\/p>\n<p data-aid=\"147979231\" id=\"p34\">Change the shape of your day.<\/p>\n<p data-aid=\"147979238\" id=\"p35\">Do you want to change your day?<\/p>\n<p data-aid=\"147979244\" id=\"p36\">Change this hour.<\/p>\n<p data-aid=\"147979250\" id=\"p37\">Change what you think, feel, and do at this very moment.<\/p>\n<p data-aid=\"147979257\" id=\"p38\">A small rudder can steer a large ship.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"147979264\" id=\"p39\">Small bricks can become magnificent mansions.<\/p>\n<p data-aid=\"147979271\" id=\"p40\">Small seeds can become towering sequoias.<\/p>\n<p data-aid=\"147979278\" id=\"p41\">Minutes and hours well spent are the building blocks of a life well lived. They can inspire goodness, lift us from the captivity of imperfections, and lead us upward to the redemptive path of forgiveness and sanctification.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"147979285\" id=\"title6\">The God of New Beginnings<\/h2>\n<\/header>\n<p data-aid=\"147979292\" id=\"p42\">With you, I lift my heart in gratitude for the magnificent gift of new opportunity, new life, new hope.<\/p>\n<p data-aid=\"147979299\" id=\"p43\">We lift our voices in praise of our bountiful and forgiving God. For surely He is a God of new beginnings. The sublime end of all His labor is to help us, His children, succeed in our quest for immortality and eternal life.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"147979306\" id=\"p44\">We can become new creatures in Christ, for God has promised, \u201cAs often as my people repent will I forgive them their trespasses against me\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> and \u201cremember them no more.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"147979313\" id=\"p45\">My beloved brothers and sisters, dear friends, we all drift from time to time.<\/p>\n<p data-aid=\"147979320\" id=\"p46\">But we can get back on course. We can navigate our way through the darkness and trials of this life and find our way back to our loving Heavenly Father if we seek and accept the spiritual landmarks He has provided, embrace personal revelation, and strive for <em>daily restoration<\/em>. This is how we become true disciples of our beloved Savior, Jesus Christ.<\/p>\n<p data-aid=\"147979327\" id=\"p47\">As we do so, God will smile upon us. \u201cThe Lord shall \u2026 bless thee in the land which the Lord thy God giveth thee. The Lord shall establish thee an holy people unto himself.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"147979334\" id=\"p48\">That we will seek daily restoration and continually strive to walk in the Way of Jesus Christ is my prayer. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"147979341\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"147979348\" id=\"note1_p1\">Jesus taught, \u201cI am the way, the truth, and the life\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=eng#p6\">John 14:6<\/a>). The <cite>NIV First-Century Study Bible<\/cite> contains this explanation: \u201cThe image of a path or way in the Hebrew Bible often stood for keeping the commandments or teachings of God [see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/1.1?lang=eng#p1\">Psalm 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/16.11?lang=eng#p11\">16:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/86.11?lang=eng#p11\">86:11<\/a>]. This was a common ancient metaphor for active participation in a set of beliefs, teachings or practices. The Dead Sea Scrolls community called themselves followers of \u2018the way,\u2019 by which they meant they were followers of their own interpretation of the path that pleased God. Paul and the first Christians also called themselves \u2018follower[s] of the Way\u2019 [see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14?lang=eng#p14\">Acts 24:14<\/a>]\u201d (in \u201cWhat the Bible Says about the Way, the Truth, and the Life,\u201d Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life).<\/p>\n<p data-aid=\"147979355\" id=\"note1_p2\">In 1873, an ancient book titled the <cite>Didache<\/cite> was discovered in the library of the patriarch of Jerusalem at Constantinople. Many scholars believe it was written and used in the late first century (AD 80\u2013100). The <cite>Didache<\/cite> begins with these words: \u201cTwo ways there are, one of life and one of death, but there is a great difference between the two ways. The way of life, then, is this: First, thou shalt love the God who made thee; secondly, thy neighbor as thyself\u201d (<cite>Teaching of the Twelve Apostles<\/cite>, trans. Roswell D. Hitchcock and Francis Brown [1884], 3).<\/p>\n<p data-aid=\"147979361\" id=\"note1_p3\">Other sources, such as <cite>The Expositor\u2019s Bible Commentary<\/cite>, point out that \u201cduring the early existence of the church, those who accepted Jesus\u2019 messiahship and claimed him as their Lord called themselves those of \u2018the Way\u2019 [see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/19.9,23?lang=eng#p9\">Acts 19:9, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/22.4?lang=eng#p4\">22:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14,22?lang=eng#p14\">24:14, 22<\/a>]\u201d (ed. Frank E. Gaebelein and others [1981], 9:370).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"147979370\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"147979374\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63?lang=eng#p63\">Doctrine and Covenants 88:63<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"147979378\" id=\"note4_p1\">\u201cWalking in Circles,\u201d Aug. 20, 2009, Max-Planck-Gesellschaft, mpg.de.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"147979388\" id=\"note5_p1\">\u201cWalking in Circles,\u201d mpg.de. This image shows the GPS tracking of four participants in the study. Three of them walked on a cloudy day. One of them (SM) started walking while the sun was covered by clouds, but after 15 minutes the clouds dissipated, and the participant could see glimpses of sun. Notice how, once the sun was visible, the walker was much more successful in walking a straight line.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"147979394\" id=\"note6_p1\">For one tragic example of how a course error of a mere two degrees caused a passenger jet to crash into Mount Erebus in Antarctica, killing 257 people, see Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=eng\">A Matter of a Few Degrees<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2008, 57\u201360.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"147979400\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/judg/2.10?lang=eng#p10\">Judges 2:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"147979411\" id=\"note8_p1\">After Christ\u2019s visit to the Americas, the people truly repented of their sins, were baptized, and received the Holy Ghost. Where they were once a contentious and prideful people, now \u201cthere were no contentions and disputations among them, and every man did deal justly one with another\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.2?lang=eng#p2\">4 Nephi 1:2<\/a>). This period of righteousness lasted some two centuries before pride began to cause people to turn from the Way. However, spiritual drift can also happen much more quickly. As an example, decades earlier, in the 50th year of the reign of the judges in the Book of Mormon, there was \u201ccontinual peace and great joy\u201d among the people. But because of pride that entered the hearts of Church members, after a short period of four years \u201cthere were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.32-37?lang=eng#p32\">Helaman 3:32\u201337</a> and <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4.1?lang=eng#p1\">4:1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"147979417\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.26?lang=eng#p26\">Doctrine and Covenants 121:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"147979425\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.19?lang=eng#p19\">Acts 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"147979429\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.33?lang=eng#p33\">Doctrine and Covenants 121:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"147979433\" id=\"note12_p1\">Michael Crichton, <cite>Jurassic Park<\/cite> (2015), 190.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"147979440\" id=\"note13_p1\">\u201cTake ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/3.4?lang=eng#p4\">James 3:4</a>, New International Version).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"147979441\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"147979446\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=eng#p30\">Mosiah 26:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"147979451\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.42?lang=eng#p42\">Doctrine and Covenants 58:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"147979455\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.8-9?lang=eng#p8\">Deuteronomy 28:8\u20139<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-7?lang=eng#p1\">verses 1\u20137<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "147979114",
+        "id": "note4",
+        "text": "<p data-aid=\"147979378\" id=\"note4_p1\">\u201cWalking in Circles,\u201d Aug. 20, 2009, Max-Planck-Gesellschaft, mpg.de.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "147979115",
+        "id": "note5",
+        "text": "<p data-aid=\"147979388\" id=\"note5_p1\">\u201cWalking in Circles,\u201d mpg.de. This image shows the GPS tracking of four participants in the study. Three of them walked on a cloudy day. One of them (SM) started walking while the sun was covered by clouds, but after 15 minutes the clouds dissipated, and the participant could see glimpses of sun. Notice how, once the sun was visible, the walker was much more successful in walking a straight line.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "147979108",
+        "id": "note2",
+        "text": "<p data-aid=\"147979370\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.17?lang=eng#p17",
+          "text": "Mosiah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "147979109",
+        "id": "note3",
+        "text": "<p data-aid=\"147979374\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63?lang=eng#p63\">Doctrine and Covenants 88:63<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.63?lang=eng#p63",
+          "text": "Doctrine and Covenants 88:63",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "147979149",
+        "id": "note8",
+        "text": "<p data-aid=\"147979411\" id=\"note8_p1\">After Christ\u2019s visit to the Americas, the people truly repented of their sins, were baptized, and received the Holy Ghost. Where they were once a contentious and prideful people, now \u201cthere were no contentions and disputations among them, and every man did deal justly one with another\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.2?lang=eng#p2\">4 Nephi 1:2<\/a>). This period of righteousness lasted some two centuries before pride began to cause people to turn from the Way. However, spiritual drift can also happen much more quickly. As an example, decades earlier, in the 50th year of the reign of the judges in the Book of Mormon, there was \u201ccontinual peace and great joy\u201d among the people. But because of pride that entered the hearts of Church members, after a short period of four years \u201cthere were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.32-37?lang=eng#p32\">Helaman 3:32\u201337</a> and <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4.1?lang=eng#p1\">4:1<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/4-ne/1.2?lang=eng#p2",
+            "text": "4 Nephi 1:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3.32-37?lang=eng#p32",
+            "text": "Helaman 3:32\u201337",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/4.1?lang=eng#p1",
+            "text": "4:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "147979183",
+        "id": "note9",
+        "text": "<p data-aid=\"147979417\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.26?lang=eng#p26\">Doctrine and Covenants 121:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.26?lang=eng#p26",
+          "text": "Doctrine and Covenants 121:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "147979123",
+        "id": "note6",
+        "text": "<p data-aid=\"147979394\" id=\"note6_p1\">For one tragic example of how a course error of a mere two degrees caused a passenger jet to crash into Mount Erebus in Antarctica, killing 257 people, see Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=eng\">A Matter of a Few Degrees<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2008, 57\u201360.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=eng",
+          "text": "A Matter of a Few Degrees",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "147979141",
+        "id": "note7",
+        "text": "<p data-aid=\"147979400\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/judg/2.10?lang=eng#p10\">Judges 2:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/judg/2.10?lang=eng#p10",
+          "text": "Judges 2:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "147979306",
+        "id": "note16",
+        "text": "<p data-aid=\"147979451\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.42?lang=eng#p42\">Doctrine and Covenants 58:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/58.42?lang=eng#p42",
+          "text": "Doctrine and Covenants 58:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "147979306",
+        "id": "note15",
+        "text": "<p data-aid=\"147979446\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=eng#p30\">Mosiah 26:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/26.30?lang=eng#p30",
+          "text": "Mosiah 26:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "147979299",
+        "id": "note14",
+        "text": "<p data-aid=\"147979441\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.39?lang=eng#p39",
+          "text": "Moses 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "147979257",
+        "id": "note13",
+        "text": "<p data-aid=\"147979440\" id=\"note13_p1\">\u201cTake ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/3.4?lang=eng#p4\">James 3:4<\/a>, New International Version).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/james/3.4?lang=eng#p4",
+          "text": "James 3:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "147979219",
+        "id": "note12",
+        "text": "<p data-aid=\"147979433\" id=\"note12_p1\">Michael Crichton, <cite>Jurassic Park<\/cite> (2015), 190.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "147979209",
+        "id": "note11",
+        "text": "<p data-aid=\"147979429\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.33?lang=eng#p33\">Doctrine and Covenants 121:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.33?lang=eng#p33",
+          "text": "Doctrine and Covenants 121:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "147979204",
+        "id": "note10",
+        "text": "<p data-aid=\"147979425\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.19?lang=eng#p19\">Acts 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/3.19?lang=eng#p19",
+          "text": "Acts 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "147979107",
+        "id": "note1",
+        "text": "<p data-aid=\"147979348\" id=\"note1_p1\">Jesus taught, \u201cI am the way, the truth, and the life\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=eng#p6\">John 14:6<\/a>). The <cite>NIV First-Century Study Bible<\/cite> contains this explanation: \u201cThe image of a path or way in the Hebrew Bible often stood for keeping the commandments or teachings of God [see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/1.1?lang=eng#p1\">Psalm 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/16.11?lang=eng#p11\">16:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/86.11?lang=eng#p11\">86:11<\/a>]. This was a common ancient metaphor for active participation in a set of beliefs, teachings or practices. The Dead Sea Scrolls community called themselves followers of \u2018the way,\u2019 by which they meant they were followers of their own interpretation of the path that pleased God. Paul and the first Christians also called themselves \u2018follower[s] of the Way\u2019 [see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14?lang=eng#p14\">Acts 24:14<\/a>]\u201d (in \u201cWhat the Bible Says about the Way, the Truth, and the Life,\u201d Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life).<\/p>\n<p data-aid=\"147979355\" id=\"note1_p2\">In 1873, an ancient book titled the <cite>Didache<\/cite> was discovered in the library of the patriarch of Jerusalem at Constantinople. Many scholars believe it was written and used in the late first century (AD 80\u2013100). The <cite>Didache<\/cite> begins with these words: \u201cTwo ways there are, one of life and one of death, but there is a great difference between the two ways. The way of life, then, is this: First, thou shalt love the God who made thee; secondly, thy neighbor as thyself\u201d (<cite>Teaching of the Twelve Apostles<\/cite>, trans. Roswell D. Hitchcock and Francis Brown [1884], 3).<\/p>\n<p data-aid=\"147979361\" id=\"note1_p3\">Other sources, such as <cite>The Expositor\u2019s Bible Commentary<\/cite>, point out that \u201cduring the early existence of the church, those who accepted Jesus\u2019 messiahship and claimed him as their Lord called themselves those of \u2018the Way\u2019 [see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/19.9,23?lang=eng#p9\">Acts 19:9, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/22.4?lang=eng#p4\">22:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14,22?lang=eng#p14\">24:14, 22<\/a>]\u201d (ed. Frank E. Gaebelein and others [1981], 9:370).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/14.6?lang=eng#p6",
+            "text": "John 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/1.1?lang=eng#p1",
+            "text": "Psalm 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/16.11?lang=eng#p11",
+            "text": "16:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/86.11?lang=eng#p11",
+            "text": "86:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/24.14?lang=eng#p14",
+            "text": "Acts 24:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/19.9,23?lang=eng#p9",
+            "text": "Acts 19:9, 23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/22.4?lang=eng#p4",
+            "text": "22:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/24.14,22?lang=eng#p14",
+            "text": "24:14, 22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "147979327",
+        "id": "note17",
+        "text": "<p data-aid=\"147979455\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.8-9?lang=eng#p8\">Deuteronomy 28:8\u20139<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-7?lang=eng#p1\">verses 1\u20137<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/deut/28.8-9?lang=eng#p8",
+            "text": "Deuteronomy 28:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/deut/28.1-7?lang=eng#p1",
+            "text": "verses 1\u20137",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

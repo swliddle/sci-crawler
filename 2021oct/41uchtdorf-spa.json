@@ -1,0 +1,593 @@
+{
+  "tableOfContentsUri": "/general-conference/2021/10",
+  "meta": {
+    "canonicalUrl": "/general-conference/2021/10/41uchtdorf?lang=spa",
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:noNamespaceSchemaLocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/general-conference/2021/10/41uchtdorf",
+      "data-aid": "147976381",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-assetId": "2a5b18a0d88e4b53839d4b5603e84e18",
+      "data-aid-version": "4",
+      "data-orig-id": "b35a7a9e794c423b917be522175fa41c"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275372421001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-4010-dieter-f-uchtdorf-32k-spa.mp3"
+    }],
+    "title": "La restauración diaria",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "147976381",
+      {"key": "147976381"}
+    ],
+    [
+      "148006386",
+      {"key": "148006386"}
+    ],
+    [
+      "148006391",
+      {"key": "148006391"}
+    ],
+    [
+      "148006396",
+      {"key": "148006396"}
+    ],
+    [
+      "148006400",
+      {"key": "148006400"}
+    ],
+    [
+      "148006405",
+      {"key": "148006405"}
+    ],
+    [
+      "148006407",
+      {"key": "148006407"}
+    ],
+    [
+      "148006413",
+      {"key": "148006413"}
+    ],
+    [
+      "148006415",
+      {"key": "148006415"}
+    ],
+    [
+      "148006422",
+      {"key": "148006422"}
+    ],
+    [
+      "148006425",
+      {"key": "148006425"}
+    ],
+    [
+      "148006427",
+      {"key": "148006427"}
+    ],
+    [
+      "148006431",
+      {"key": "148006431"}
+    ],
+    [
+      "148006436",
+      {"key": "148006436"}
+    ],
+    [
+      "148006441",
+      {"key": "148006441"}
+    ],
+    [
+      "148006443",
+      {"key": "148006443"}
+    ],
+    [
+      "148006451",
+      {"key": "148006451"}
+    ],
+    [
+      "148006460",
+      {"key": "148006460"}
+    ],
+    [
+      "148006464",
+      {"key": "148006464"}
+    ],
+    [
+      "148007469",
+      {"key": "148007469"}
+    ],
+    [
+      "148007475",
+      {"key": "148007475"}
+    ],
+    [
+      "148007481",
+      {"key": "148007481"}
+    ],
+    [
+      "148007484",
+      {"key": "148007484"}
+    ],
+    [
+      "148007488",
+      {"key": "148007488"}
+    ],
+    [
+      "148007493",
+      {"key": "148007493"}
+    ],
+    [
+      "148007496",
+      {"key": "148007496"}
+    ],
+    [
+      "148007497",
+      {"key": "148007497"}
+    ],
+    [
+      "148007499",
+      {"key": "148007499"}
+    ],
+    [
+      "148007503",
+      {"key": "148007503"}
+    ],
+    [
+      "148007507",
+      {"key": "148007507"}
+    ],
+    [
+      "148007509",
+      {"key": "148007509"}
+    ],
+    [
+      "148007512",
+      {"key": "148007512"}
+    ],
+    [
+      "148007515",
+      {"key": "148007515"}
+    ],
+    [
+      "148007518",
+      {"key": "148007518"}
+    ],
+    [
+      "148007522",
+      {"key": "148007522"}
+    ],
+    [
+      "148007523",
+      {"key": "148007523"}
+    ],
+    [
+      "148007526",
+      {"key": "148007526"}
+    ],
+    [
+      "148007529",
+      {"key": "148007529"}
+    ],
+    [
+      "148007532",
+      {"key": "148007532"}
+    ],
+    [
+      "148007535",
+      {"key": "148007535"}
+    ],
+    [
+      "148007538",
+      {"key": "148007538"}
+    ],
+    [
+      "148007540",
+      {"key": "148007540"}
+    ],
+    [
+      "148007542",
+      {"key": "148007542"}
+    ],
+    [
+      "148007543",
+      {"key": "148007543"}
+    ],
+    [
+      "148007546",
+      {"key": "148007546"}
+    ],
+    [
+      "148007547",
+      {"key": "148007547"}
+    ],
+    [
+      "148007549",
+      {"key": "148007549"}
+    ],
+    [
+      "148007551",
+      {"key": "148007551"}
+    ],
+    [
+      "148007554",
+      {"key": "148007554"}
+    ],
+    [
+      "148007556",
+      {"key": "148007556"}
+    ],
+    [
+      "148007558",
+      {"key": "148007558"}
+    ],
+    [
+      "148007560",
+      {"key": "148007560"}
+    ],
+    [
+      "148007562",
+      {"key": "148007562"}
+    ],
+    [
+      "148007563",
+      {"key": "148007563"}
+    ],
+    [
+      "148007565",
+      {"key": "148007565"}
+    ],
+    [
+      "148007567",
+      {"key": "148007567"}
+    ],
+    [
+      "148007569",
+      {"key": "148007569"}
+    ],
+    [
+      "148007571",
+      {"key": "148007571"}
+    ],
+    [
+      "148007572",
+      {"key": "148007572"}
+    ],
+    [
+      "148007574",
+      {"key": "148007574"}
+    ],
+    [
+      "148007577",
+      {"key": "148007577"}
+    ],
+    [
+      "148007579",
+      {"key": "148007579"}
+    ],
+    [
+      "148007581",
+      {"key": "148007581"}
+    ],
+    [
+      "148007583",
+      {"key": "148007583"}
+    ],
+    [
+      "148007584",
+      {"key": "148007584"}
+    ],
+    [
+      "148007586",
+      {"key": "148007586"}
+    ],
+    [
+      "148007588",
+      {"key": "148007588"}
+    ],
+    [
+      "148007590",
+      {"key": "148007590"}
+    ],
+    [
+      "148007593",
+      {"key": "148007593"}
+    ],
+    [
+      "148007595",
+      {"key": "148007595"}
+    ],
+    [
+      "148007597",
+      {"key": "148007597"}
+    ],
+    [
+      "148007599",
+      {"key": "148007599"}
+    ],
+    [
+      "148007601",
+      {"key": "148007601"}
+    ],
+    [
+      "148007603",
+      {"key": "148007603"}
+    ],
+    [
+      "148007605",
+      {"key": "148007605"}
+    ],
+    [
+      "148007606",
+      {"key": "148007606"}
+    ],
+    [
+      "148007608",
+      {"key": "148007608"}
+    ],
+    [
+      "148007611",
+      {"key": "148007611"}
+    ]
+  ],
+  "uri": "/general-conference/2021/10/41uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Uchtdorf enseña que a veces todos nos desviamos espiritualmente, pero que podemos volver al rumbo al seguir diariamente los puntos de referencia que Dios ha proporcionado.",
+          "title": "La restauración diaria"
+        },
+        "pageSocial": {
+          "description": "El élder Uchtdorf enseña que a veces todos nos desviamos espiritualmente, pero que podemos volver al rumbo al seguir diariamente los puntos de referencia que Dios ha proporcionado.",
+          "title": "La restauración diaria"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6275372421001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6275372421001\" data-video-title=\"Dieter F. Uchtdorf\" data-video-description=\"El élder Dieter F. Uchtdorf habla en la Conferencia General Semestral Núm. 191 de La Iglesia de Jesucristo de los Santos de los Últimos Días, los días 2 y 3 de octubre de 2021.\" data-video-id=\"6275372421001\" data-ip=\"Download &amp; Streaming\" data-duration=\"823000\" data-assetId=\"3D1E5CF5B3C22B1BF8D902FC47351CEEF912B25E\" data-ref-id=\"3D1E5CF5B3C22B1BF8D902FC47351CEEF912B25E\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6275372421001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275372421001/640/360/992000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"102486549\"/><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6275372421001/1280/720/2122000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"218921054\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2021-general-conference/2021-10-4010-dieter-f-uchtdorf-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"271187199\"/><\/video><h1 data-aid=\"148006386\" id=\"title1\">La restauración diaria<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"148006391\" id=\"author1\">Por el élder Dieter F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"148006396\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"148006400\" id=\"kicker1\">Necesitamos una infusión continua y diaria de luz celestial. Necesitamos \u201ctiempos de refrigerio\u201d, tiempos de restauración personal.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"148006405\" id=\"p1\">Nos reunimos esta hermosa mañana de domingo para hablar de Cristo, regocijarnos en Su evangelio y apoyarnos y sostenernos unos a otros al andar en \u201cel camino\u201d de nuestro Salvador<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"148006407\" id=\"p2\">Como miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, nos reunimos para este propósito cada día de reposo a lo largo del año. Si no son miembros de la Iglesia, les damos una cálida bienvenida y les agradecemos que se unan a nosotros para adorar al Salvador y aprender de Él. Al igual que ustedes, nos esforzamos \u2014aunque imperfectamente\u2014 por llegar a ser mejores amigos, vecinos y seres humanos<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, y procuramos hacerlo al seguir a nuestro Ejemplo, Jesucristo.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/5f/00/5f00dc91b1cf97ef576b7dff7c15e46aefe816ba/christ_art_hofmann.png\" data-img-id=\"6161515522f911ecbc5aeeeeac1e477bc2c93501\" srcset=\"https://assets.ldscdn.org/e0/a3/e0a3de42ca6e801e280231d5b469aef56d788385/christ_art_hofmann.png 60w,https://assets.ldscdn.org/76/ab/76abe8a48a41e5738c6a1b7b3855d6e99e878517/christ_art_hofmann.png 100w,https://assets.ldscdn.org/f9/ed/f9ed30fe8214e31b5cbbfdc21768a7cf712e23f7/christ_art_hofmann.png 200w,https://assets.ldscdn.org/f6/79/f679181263767e2bf31fbe05ee8ba408be58c175/christ_art_hofmann.png 250w,https://assets.ldscdn.org/f1/6f/f16f3b611e47e0ef51cb8bea09f74ba3dc54d33e/christ_art_hofmann.png 320w,https://assets.ldscdn.org/5f/00/5f00dc91b1cf97ef576b7dff7c15e46aefe816ba/christ_art_hofmann.png 500w,https://assets.ldscdn.org/65/47/65471596ac0c5ff73926c4bd55c957d81bfa2378/christ_art_hofmann.png 640w\" data-assetId=\"6161515522f911ecbc5aeeeeac1e477bc2c93501\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"148006413\" id=\"p3\">Esperamos que puedan sentir la sinceridad de nuestro testimonio. ¡Jesucristo vive! Él es el Hijo del Dios viviente y dirige profetas sobre la tierra en nuestros días. ¡Invitamos a todos a venir, a escuchar la palabra de Dios y a participar de Su bondad! Doy mi testimonio personal de que Dios está entre nosotros y que ciertamente se acercará a todos los que se acerquen a Él<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"148006415\" id=\"p4\">Consideramos que es un honor caminar con ustedes por el estrecho y angosto camino del discipulado del Maestro.<\/p>\n<section>\n<header>\n<h2 data-aid=\"148006422\" id=\"title2\">El arte de caminar en línea recta<\/h2>\n<\/header>\n<p data-aid=\"148006425\" id=\"p5\">Hay una teoría muy repetida que indica que las personas que están perdidas caminan en círculos. No hace mucho, los científicos del Instituto Max Planck de Cibernética Biológica pusieron a prueba esa teoría. Ellos llevaron participantes a un bosque espeso y les dieron instrucciones sencillas: \u201cCaminen en línea recta\u201d. No había puntos de referencia visibles. Las personas del estudio tenían que depender únicamente de su sentido de orientación.<\/p>\n<p data-aid=\"148006427\" id=\"p6\">¿Cómo creen que les fue?<\/p>\n<p data-aid=\"148006431\" id=\"p7\">Los científicos concluyeron: \u201cLas personas realmente caminan en círculos cuando no tienen pistas fiables sobre la dirección de su marcha\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Cuando se les interrogó después, algunos participantes afirmaron con seguridad que no se habían desviado en lo más mínimo. A pesar de su gran confianza, los datos de GPS mostraron que caminaron en círculos, incluso con diámetros de apenas 20 metros.<\/p>\n<p data-aid=\"148006436\" id=\"p8\">¿Por qué nos cuesta tanto caminar en línea recta? Algunos investigadores plantean la hipótesis de que las pequeñas y aparentemente insignificantes desviaciones en el terreno marcan la diferencia. Otros han señalado el hecho de que todos tenemos una pierna ligeramente más fuerte que la otra. Sin embargo, \u201clo más probable\u201d es que nos cueste caminar en línea recta \u201c[debido a] la creciente incertidumbre sobre dónde está la línea recta\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"148006441\" id=\"p9\">Sea cual sea la causa, es la naturaleza humana: sin puntos de referencia fiables, nos desviamos del curso.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"148006443\" id=\"title3\">Alejarse del camino<\/h2>\n<\/header>\n<p data-aid=\"148006451\" id=\"p10\">¿No es interesante cómo pequeños factores, aparentemente insignificantes, pueden marcar una gran diferencia en nuestra vida?<\/p>\n<p data-aid=\"148006460\" id=\"p11\">Lo sé por experiencia personal como piloto. Cada vez que iniciaba la aproximación a un aeropuerto, sabía que gran parte del trabajo que me quedaba consistiría en hacer constantes correcciones menores del rumbo para dirigir el avión a salvo a la pista de aterrizaje deseada.<\/p>\n<p data-aid=\"148006464\" id=\"p12\">Tal vez ustedes hayan tenido una experiencia similar al conducir un vehículo. El viento, las irregularidades en la carretera, la alineación imperfecta de las ruedas, la falta de atención, sin mencionar las acciones de otros conductores, pueden alejarlos del camino previsto. Si no prestan atención a esos factores, puede que terminen teniendo un mal día<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/7b/31/7b313c7c1801b24d64551ef25e365c0fbc82e6a3/car_pool_insurance_water.png\" data-img-id=\"5f4c53ec22f911ec9f65eeeeac1ecd5ad00dfcb1\" srcset=\"https://assets.ldscdn.org/a2/41/a2415bce3f9822bd5c6196a4b546fc06df31b9ce/car_pool_insurance_water.png 60w,https://assets.ldscdn.org/90/a3/90a3af4b0296a9b7b28d1d7b31ce9ab3b0cef500/car_pool_insurance_water.png 100w,https://assets.ldscdn.org/bb/cb/bbcb1b3e234cf8314bb286f3df573a20d38c4b6a/car_pool_insurance_water.png 200w,https://assets.ldscdn.org/da/db/dadb482526513dcb1d1de6e3274872e1b4c3358c/car_pool_insurance_water.png 250w,https://assets.ldscdn.org/cc/02/cc029f6659c6c7542fe92af440ea5e8ea2d8aa80/car_pool_insurance_water.png 320w,https://assets.ldscdn.org/7b/31/7b313c7c1801b24d64551ef25e365c0fbc82e6a3/car_pool_insurance_water.png 500w,https://assets.ldscdn.org/7d/7b/7d7bf05fd0f1a0d7a80c44e8856ecf47ddb14c8a/car_pool_insurance_water.png 640w\" data-assetId=\"5f4c53ec22f911ec9f65eeeeac1ecd5ad00dfcb1\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"148007469\" id=\"p13\">Esto se aplica a nosotros físicamente.<\/p>\n<p data-aid=\"148007475\" id=\"p14\">También se aplica a nosotros espiritualmente.<\/p>\n<p data-aid=\"148007481\" id=\"p15\">La mayoría de los cambios en nuestra vida espiritual, tanto positivos como negativos, ocurren gradualmente, paso a paso. Al igual que los participantes en el estudio del Max Planck, tal vez no nos demos cuenta cuando nos desviamos del camino. Incluso podemos tener gran confianza en que estamos caminando en línea recta. Pero el hecho es que, sin la ayuda de puntos de referencia que nos guíen, inevitablemente nos desviamos del rumbo y terminamos en lugares en los que nunca pensamos que acabaríamos.<\/p>\n<p data-aid=\"148007484\" id=\"p16\">Esto se aplica a todas las personas y también a las sociedades y a las naciones. Las Escrituras están llenas de ejemplos.<\/p>\n<p data-aid=\"148007488\" id=\"p17\">En el libro de Jueces se registra que después de la muerte de Josué \u201cse levantó [\u2026] otra generación que no conocía a Jehová ni la obra que él había hecho por Israel\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"148007493\" id=\"p18\">A pesar de las asombrosas intervenciones celestiales, visitas, rescates y victorias milagrosas que presenciaron los hijos de Israel durante la vida de Moisés y Josué, en menos de una generación el pueblo había abandonado el camino y comenzado a deambular según sus propios deseos. Y, por supuesto, no pasó mucho tiempo antes de que pagaran el precio por ese comportamiento.<\/p>\n<p data-aid=\"148007496\" id=\"p19\">En ocasiones, esta apostasía requiere generaciones. A veces sucede en cuestión de años o incluso meses<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Pero todos somos susceptibles; no importa cuán fuertes hayan sido nuestras experiencias espirituales en el pasado, como seres humanos tenemos la tendencia a deambular. Esa ha sido la constante desde los días de Adán hasta ahora.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"148007497\" id=\"title4\">Estas son las buenas nuevas<\/h2>\n<\/header>\n<p data-aid=\"148007499\" id=\"p20\">Sin embargo, no todo está perdido; a diferencia de las personas errantes del estudio, nosotros tenemos puntos de referencia confiables y visibles que podemos utilizar para evaluar nuestro recorrido.<\/p>\n<p data-aid=\"148007503\" id=\"p21\">¿Y cuáles son esos puntos de referencia?<\/p>\n<p data-aid=\"148007507\" id=\"p22\">Sin duda incluyen la oración diaria, meditar en las Escrituras y el uso de herramientas inspiradas como <cite>Ven, sígueme<\/cite>. Cada día podemos acercarnos al trono de Dios con humildad y sinceridad. Podemos reflexionar sobre nuestras acciones y repasar los momentos de nuestro día, considerando nuestra voluntad y deseos a la luz de los Suyos. Si nos hemos desviado, suplicamos a Dios que nos restaure y nos comprometemos a hacerlo mejor.<\/p>\n<img id=\"img3\" src=\"https://assets.ldscdn.org/6a/6d/6a6d822595ea0327075ede73ce61eb0efda38e5f/he_leadeth_me_yongsung.png\" data-img-id=\"55bf69a722f911ecb34aeeeeac1e8d8a372992ba\" srcset=\"https://assets.ldscdn.org/58/c6/58c673a5d55c1d0cb259d9172e31733c01d3bac0/he_leadeth_me_yongsung.png 60w,https://assets.ldscdn.org/32/aa/32aaaf4fc026d470cac5a029c89a381b411bb9e5/he_leadeth_me_yongsung.png 100w,https://assets.ldscdn.org/53/ae/53ae73462b28bc5b04017449708ec72e4a8bebd8/he_leadeth_me_yongsung.png 200w,https://assets.ldscdn.org/ed/5a/ed5a15fb35e6938d8ee550a8b33fb1776ecc9bac/he_leadeth_me_yongsung.png 250w,https://assets.ldscdn.org/00/2f/002f89d5745890e3f3564f75bf7d70ed472a6d0d/he_leadeth_me_yongsung.png 320w,https://assets.ldscdn.org/6a/6d/6a6d822595ea0327075ede73ce61eb0efda38e5f/he_leadeth_me_yongsung.png 500w,https://assets.ldscdn.org/43/5d/435d9cf120767b9967a8786b82544c453219e4cc/he_leadeth_me_yongsung.png 640w\" data-assetId=\"55bf69a722f911ecb34aeeeeac1e8d8a372992ba\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"148007509\" id=\"p23\">Este momento de introspección es una oportunidad para la recalibración. Es una época de reflexión donde podemos caminar con el Señor y ser instruidos, edificados y purificados por la palabra escrita y revelada por el Espíritu que fue dada por nuestro Padre Celestial. Es un momento sagrado en el que recordamos nuestros convenios solemnes de seguir al bondadoso Cristo, cuando evaluamos nuestro progreso y nos alineamos con los puntos de referencia espirituales que Dios ha proporcionado para Sus hijos.<\/p>\n<p data-aid=\"148007512\" id=\"p24\">Piensen en ello como su <em>restauración diaria<\/em> y personal. En nuestro trayecto como peregrinos por el sendero de la gloria, sabemos lo fácil que es desviarse; pero, así como las pequeñas desviaciones pueden alejarnos del camino del Salvador, también los pequeños y sencillos actos de reajuste pueden sin duda llevarnos de regreso. Cuando las tinieblas se cuelan en nuestra vida, como a menudo sucede, nuestra restauración diaria nos abre el corazón a la luz celestial, la cual nos ilumina el alma, dispersando sombras, temores y dudas.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"148007515\" id=\"title5\">Timones pequeños, barcos grandes<\/h2>\n<\/header>\n<p data-aid=\"148007518\" id=\"p25\">Si lo buscamos, verdaderamente \u201cDios [n]os dará conocimiento por medio de su Santo Espíritu, sí, por el inefable don del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Siempre que se lo pidamos, Él nos enseñará el camino y nos ayudará a seguirlo.<\/p>\n<p data-aid=\"148007522\" id=\"p26\">Esto, por supuesto, requiere un esfuerzo constante de nuestra parte. No podemos conformarnos con las experiencias espirituales del pasado; necesitamos un flujo constante.<\/p>\n<p data-aid=\"148007523\" id=\"p27\">No podemos apoyarnos en el testimonio de los demás para siempre; debemos edificar el nuestro.<\/p>\n<p data-aid=\"148007526\" id=\"p28\">Necesitamos una infusión continua y diaria de luz celestial.<\/p>\n<p data-aid=\"148007529\" id=\"p29\">Necesitamos \u201ctiempos de refrigerio\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>, tiempos de restauración personal.<\/p>\n<p data-aid=\"148007532\" id=\"p30\">Las \u201caguas que corren\u201d no pueden \u201cpermanecer impuras\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Para mantener puros nuestros pensamientos y acciones, ¡tenemos que seguir cambiando y mejorando!<\/p>\n<p data-aid=\"148007535\" id=\"p31\">Al fin y al cabo, la restauración del Evangelio y de la Iglesia no es algo que sucedió una vez y se acabó. Es un <em>proceso continuo<\/em>, un día a la vez, un corazón a la vez.<\/p>\n<p data-aid=\"148007538\" id=\"p32\">Conforme avanzan nuestros días, también lo hace nuestra vida. Un autor lo dijo así: \u201cUn día es como toda una vida. Empiezas haciendo una cosa, pero terminas haciendo otra, planeas hacer una diligencia, pero nunca llegas a donde pensabas ir [\u2026]. Y al final de tu vida, toda tu existencia también tiene esa misma característica aleatoria. Toda tu vida tiene la misma forma que un solo día\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"148007540\" id=\"p33\">¿Quieren cambiar la forma de su vida?<\/p>\n<p data-aid=\"148007542\" id=\"p34\">Cambien la forma de su día.<\/p>\n<p data-aid=\"148007543\" id=\"p35\">¿Quieren cambiar su día?<\/p>\n<p data-aid=\"148007546\" id=\"p36\">Cambien esta hora.<\/p>\n<p data-aid=\"148007547\" id=\"p37\">Cambien lo que piensan, sienten y hacen en este preciso momento.<\/p>\n<p data-aid=\"148007549\" id=\"p38\">Un timón pequeño puede dirigir un barco grande<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"148007551\" id=\"p39\">Unos ladrillos pequeños pueden convertirse en magníficas mansiones.<\/p>\n<p data-aid=\"148007554\" id=\"p40\">Unas semillas pequeñas pueden llegar a ser secuoyas imponentes.<\/p>\n<p data-aid=\"148007556\" id=\"p41\">Los minutos y las horas bien empleados son los elementos fundamentales de una vida bien vivida. Pueden inspirar bondad, elevarnos del cautiverio de las imperfecciones y conducirnos hacia arriba, a la senda redentora del perdón y la santificación.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"148007558\" id=\"title6\">El Dios de los nuevos comienzos<\/h2>\n<\/header>\n<p data-aid=\"148007560\" id=\"p42\">Con ustedes, elevo mi corazón en gratitud por el magnífico don de una nueva oportunidad, una nueva vida, una nueva esperanza.<\/p>\n<p data-aid=\"148007562\" id=\"p43\">Elevamos nuestra voz en alabanza a nuestro Dios generoso y clemente; porque ciertamente, Él es un Dios de nuevos comienzos. El sublime fin de toda Su obra es ayudarnos a nosotros, Sus hijos, a tener éxito en nuestra búsqueda de la inmortalidad y la vida eterna<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"148007563\" id=\"p44\">Podemos llegar a ser nuevas criaturas en Cristo, porque Dios ha prometido: \u201c\u2026 cuantas veces mi pueblo se arrepienta, le perdonaré sus transgresiones contra mí\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> y \u201cno l[a]s recuerdo más\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"148007565\" id=\"p45\">Mis amados hermanos y hermanas, queridos amigos, todos nos desviamos de cuando en cuando.<\/p>\n<p data-aid=\"148007567\" id=\"p46\">Sin embargo, podemos volver al rumbo. Podemos navegar entre las tinieblas y las pruebas de esta vida y encontrar el camino de regreso a nuestro amoroso Padre Celestial si buscamos y aceptamos los puntos de referencia espirituales que Él ha proporcionado, acogemos la revelación personal y nos esforzamos por la <em>restauración diaria<\/em>. Así es como nos convertimos en verdaderos discípulos de nuestro amado Salvador, Jesucristo.<\/p>\n<p data-aid=\"148007569\" id=\"p47\">Al hacerlo, Dios nos sonreirá. El Señor \u201c[los] bendecirá en la tierra que Jehová [s]u Dios [les] da. [Los] establecerá Jehová como su pueblo santo\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"148007571\" id=\"p48\">Que procuremos la restauración diaria y nos esforcemos continuamente por andar en el camino de Jesucristo es mi oración. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"148007572\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"148007574\" id=\"note1_p1\">Jesús enseñó: \u201cYo soy el camino, y la verdad y la vida\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>). <cite>The NIV First-Century Study Bible<\/cite> contiene esta explicación: \u201cLa imagen de un camino o senda en la Biblia hebrea a menudo representaba guardar los mandamientos o enseñanzas de Dios [véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/1.1?lang=spa#p1\">Salmo 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/16.11?lang=spa#p11\">16:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/86.11?lang=spa#p11\">86:11<\/a>]. Esta era una metáfora antigua común de la participación activa en un conjunto de creencias, enseñanzas o prácticas. La comunidad de los Manuscritos del Mar Muerto se llamaba a sí misma seguidores del \u2018camino\u2019, con lo que querían decir que eran seguidores de su propia interpretación del camino que agradaba a Dios. Pablo y los primeros cristianos también se llamaron \u2018seguidores del camino\u2019 [véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14?lang=spa#p14\">Hechos 24:14<\/a>]\u201d (en \u201cWhat the Bible Says about the Way, the Truth, and the Life\u201d, Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life).<\/p>\n<p data-aid=\"148007577\" id=\"note1_p2\">En 1873, se descubrió un libro antiguo titulado la <cite>Didaché<\/cite> en la biblioteca del patriarca de Jerusalén en Constantinopla. Muchos eruditos creen que se escribió y se utilizó a finales del siglo I (80\u2013100 d. C.). La <cite>Didaché<\/cite> comienza con estas palabras: \u201cDos caminos hay, uno de la vida y otro de la muerte; pero grande es la diferencia que hay entre estos caminos. Ahora bien, el camino de la vida es este: en primer lugar, amarás a Dios, que te ha creado; en segundo lugar, a tu prójimo como a ti mismo\u201d (<cite>Enseñanzas de los Doce Apóstoles<\/cite>, Documentación, Documentos de información, Escritos de los Primeros Cristianos/La Didaché (o Didajé) \u2013 \u201cEnseñanzas de los Doce Apóstoles\u201d, siglo I).<\/p>\n<p data-aid=\"148007579\" id=\"note1_p3\">Otras fuentes, tales como <cite>The Expositor\u2019s Bible Commentary<\/cite>, señalan que \u201cdurante los primeros años de existencia de la Iglesia, aquellos que aceptaron el mesianismo de Jesús y lo reclamaron como su Señor se llamaban a sí mismos los del \u2018camino\u2019 [véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/19.9,23?lang=spa#p9\">Hechos 19:9, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/22.4?lang=spa#p4\">22:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14,22?lang=spa#p14\">24:14, 22<\/a>]\u201d (ed. Frank E. Gaebelein y otros, 1981, tomo IX, pág. 370).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"148007581\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=spa#p17\">Mosíah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"148007583\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63?lang=spa#p63\">Doctrina y Convenios 88:63<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"148007584\" id=\"note4_p1\">\u201cWalking in Circles\u201d, Max-Planck-Gesellschaft, 20 de agosto de 2009, mpg.de.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"148007586\" id=\"note5_p1\">\u201cWalking in Circles\u201d, mpg.de. Esta imagen muestra el seguimiento por GPS de cuatro participantes en el estudio. Tres de ellos caminaron en un día nublado. Uno de ellos (SM) comenzó a caminar mientras el sol estaba cubierto de nubes, pero después de 15 minutos las nubes se disiparon y el participante pudo ver destellos de sol. Observen cómo, una vez que el sol fue visible, el caminante tuvo mucho más éxito al andar en línea recta.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"148007588\" id=\"note6_p1\">Para ver un trágico ejemplo de cómo un error de rumbo de apenas dos grados hizo que un avión de pasajeros chocara contra el monte Erebus en la Antártida, provocando la muerte de 257 personas, véase Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=spa\">Cuestión de solo unos cuantos grados<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, págs. 57\u201360.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"148007590\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/judg/2.10?lang=spa#p10\">Jueces 2:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"148007593\" id=\"note8_p1\">Después de la visita de Cristo a las Américas, las personas se arrepintieron verdaderamente de sus pecados, se bautizaron y recibieron el Espíritu Santo. Donde antes eran un pueblo contencioso y orgulloso, ahora \u201cno había contenciones ni disputas entre ellos, y obraban rectamente unos con otros\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.2?lang=spa#p2\">4 Nefi 1:2<\/a>). Ese período de rectitud duró unos dos siglos antes de que el orgullo comenzara a hacer que las personas se apartaran del camino. Sin embargo, la deriva espiritual también puede suceder mucho más rápido. Como ejemplo, décadas antes, en el año cincuenta del gobierno de los jueces en el Libro de Mormón, hubo \u201ccontinua paz y gran gozo\u201d entre el pueblo; pero debido al orgullo que entró en el corazón de los miembros de la Iglesia, después de un corto período de cuatro años \u201chubo muchas disensiones en la iglesia, y también hubo una contienda entre el pueblo, al grado de que se derramó mucha sangre\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.32-37?lang=spa#p32\">Helamán 3:32\u201337</a> y <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4.1?lang=spa#p1\">4:1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"148007595\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.26?lang=spa#p26\">Doctrina y Convenios 121:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"148007597\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.19?lang=spa#p19\">Hechos 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"148007599\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.33?lang=spa#p33\">Doctrina y Convenios 121:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"148007601\" id=\"note12_p1\">Michael Crichton, <cite>Parque Jurásico<\/cite>, 2015, capítulo 34.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"148007603\" id=\"note13_p1\">\u201cMirad también las naves; aunque tan grandes, y llevadas por impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/3.4?lang=spa#p4\">Santiago 3:4<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"148007605\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=spa#p39\">Moisés 1:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"148007606\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=spa#p30\">Mosíah 26:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"148007608\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.42?lang=spa#p42\">Doctrina y Convenios 58:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"148007611\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.8-9?lang=spa#p8\">Deuteronomio 28:8\u20139<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-7?lang=spa#p1\">versículos 1\u20137<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "148006431",
+        "id": "note4",
+        "text": "<p data-aid=\"148007584\" id=\"note4_p1\">\u201cWalking in Circles\u201d, Max-Planck-Gesellschaft, 20 de agosto de 2009, mpg.de.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "148006436",
+        "id": "note5",
+        "text": "<p data-aid=\"148007586\" id=\"note5_p1\">\u201cWalking in Circles\u201d, mpg.de. Esta imagen muestra el seguimiento por GPS de cuatro participantes en el estudio. Tres de ellos caminaron en un día nublado. Uno de ellos (SM) comenzó a caminar mientras el sol estaba cubierto de nubes, pero después de 15 minutos las nubes se disiparon y el participante pudo ver destellos de sol. Observen cómo, una vez que el sol fue visible, el caminante tuvo mucho más éxito al andar en línea recta.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "148006407",
+        "id": "note2",
+        "text": "<p data-aid=\"148007581\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=spa#p17\">Mosíah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.17?lang=spa#p17",
+          "text": "Mosíah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "148006413",
+        "id": "note3",
+        "text": "<p data-aid=\"148007583\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63?lang=spa#p63\">Doctrina y Convenios 88:63<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.63?lang=spa#p63",
+          "text": "Doctrina y Convenios 88:63",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "148007496",
+        "id": "note8",
+        "text": "<p data-aid=\"148007593\" id=\"note8_p1\">Después de la visita de Cristo a las Américas, las personas se arrepintieron verdaderamente de sus pecados, se bautizaron y recibieron el Espíritu Santo. Donde antes eran un pueblo contencioso y orgulloso, ahora \u201cno había contenciones ni disputas entre ellos, y obraban rectamente unos con otros\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.2?lang=spa#p2\">4 Nefi 1:2<\/a>). Ese período de rectitud duró unos dos siglos antes de que el orgullo comenzara a hacer que las personas se apartaran del camino. Sin embargo, la deriva espiritual también puede suceder mucho más rápido. Como ejemplo, décadas antes, en el año cincuenta del gobierno de los jueces en el Libro de Mormón, hubo \u201ccontinua paz y gran gozo\u201d entre el pueblo; pero debido al orgullo que entró en el corazón de los miembros de la Iglesia, después de un corto período de cuatro años \u201chubo muchas disensiones en la iglesia, y también hubo una contienda entre el pueblo, al grado de que se derramó mucha sangre\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.32-37?lang=spa#p32\">Helamán 3:32\u201337</a> y <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4.1?lang=spa#p1\">4:1<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/4-ne/1.2?lang=spa#p2",
+            "text": "4 Nefi 1:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3.32-37?lang=spa#p32",
+            "text": "Helamán 3:32\u201337",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/4.1?lang=spa#p1",
+            "text": "4:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "148007518",
+        "id": "note9",
+        "text": "<p data-aid=\"148007595\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.26?lang=spa#p26\">Doctrina y Convenios 121:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.26?lang=spa#p26",
+          "text": "Doctrina y Convenios 121:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "148006464",
+        "id": "note6",
+        "text": "<p data-aid=\"148007588\" id=\"note6_p1\">Para ver un trágico ejemplo de cómo un error de rumbo de apenas dos grados hizo que un avión de pasajeros chocara contra el monte Erebus en la Antártida, provocando la muerte de 257 personas, véase Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=spa\">Cuestión de solo unos cuantos grados<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, págs. 57\u201360.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2008/04/a-matter-of-a-few-degrees?lang=spa",
+          "text": "Cuestión de solo unos cuantos grados",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "148007488",
+        "id": "note7",
+        "text": "<p data-aid=\"148007590\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/judg/2.10?lang=spa#p10\">Jueces 2:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/judg/2.10?lang=spa#p10",
+          "text": "Jueces 2:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "148007563",
+        "id": "note16",
+        "text": "<p data-aid=\"148007608\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.42?lang=spa#p42\">Doctrina y Convenios 58:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/58.42?lang=spa#p42",
+          "text": "Doctrina y Convenios 58:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "148007563",
+        "id": "note15",
+        "text": "<p data-aid=\"148007606\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=spa#p30\">Mosíah 26:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/26.30?lang=spa#p30",
+          "text": "Mosíah 26:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "148007562",
+        "id": "note14",
+        "text": "<p data-aid=\"148007605\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=spa#p39\">Moisés 1:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.39?lang=spa#p39",
+          "text": "Moisés 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "148007549",
+        "id": "note13",
+        "text": "<p data-aid=\"148007603\" id=\"note13_p1\">\u201cMirad también las naves; aunque tan grandes, y llevadas por impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/3.4?lang=spa#p4\">Santiago 3:4<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/james/3.4?lang=spa#p4",
+          "text": "Santiago 3:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "148007538",
+        "id": "note12",
+        "text": "<p data-aid=\"148007601\" id=\"note12_p1\">Michael Crichton, <cite>Parque Jurásico<\/cite>, 2015, capítulo 34.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "148007532",
+        "id": "note11",
+        "text": "<p data-aid=\"148007599\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.33?lang=spa#p33\">Doctrina y Convenios 121:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.33?lang=spa#p33",
+          "text": "Doctrina y Convenios 121:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "148007529",
+        "id": "note10",
+        "text": "<p data-aid=\"148007597\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.19?lang=spa#p19\">Hechos 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/3.19?lang=spa#p19",
+          "text": "Hechos 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "148006405",
+        "id": "note1",
+        "text": "<p data-aid=\"148007574\" id=\"note1_p1\">Jesús enseñó: \u201cYo soy el camino, y la verdad y la vida\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>). <cite>The NIV First-Century Study Bible<\/cite> contiene esta explicación: \u201cLa imagen de un camino o senda en la Biblia hebrea a menudo representaba guardar los mandamientos o enseñanzas de Dios [véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/1.1?lang=spa#p1\">Salmo 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/16.11?lang=spa#p11\">16:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/86.11?lang=spa#p11\">86:11<\/a>]. Esta era una metáfora antigua común de la participación activa en un conjunto de creencias, enseñanzas o prácticas. La comunidad de los Manuscritos del Mar Muerto se llamaba a sí misma seguidores del \u2018camino\u2019, con lo que querían decir que eran seguidores de su propia interpretación del camino que agradaba a Dios. Pablo y los primeros cristianos también se llamaron \u2018seguidores del camino\u2019 [véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14?lang=spa#p14\">Hechos 24:14<\/a>]\u201d (en \u201cWhat the Bible Says about the Way, the Truth, and the Life\u201d, Bible Gateway, biblegateway.com/topics/the-way-the-truth-and-the-life).<\/p>\n<p data-aid=\"148007577\" id=\"note1_p2\">En 1873, se descubrió un libro antiguo titulado la <cite>Didaché<\/cite> en la biblioteca del patriarca de Jerusalén en Constantinopla. Muchos eruditos creen que se escribió y se utilizó a finales del siglo I (80\u2013100 d. C.). La <cite>Didaché<\/cite> comienza con estas palabras: \u201cDos caminos hay, uno de la vida y otro de la muerte; pero grande es la diferencia que hay entre estos caminos. Ahora bien, el camino de la vida es este: en primer lugar, amarás a Dios, que te ha creado; en segundo lugar, a tu prójimo como a ti mismo\u201d (<cite>Enseñanzas de los Doce Apóstoles<\/cite>, Documentación, Documentos de información, Escritos de los Primeros Cristianos/La Didaché (o Didajé) \u2013 \u201cEnseñanzas de los Doce Apóstoles\u201d, siglo I).<\/p>\n<p data-aid=\"148007579\" id=\"note1_p3\">Otras fuentes, tales como <cite>The Expositor\u2019s Bible Commentary<\/cite>, señalan que \u201cdurante los primeros años de existencia de la Iglesia, aquellos que aceptaron el mesianismo de Jesús y lo reclamaron como su Señor se llamaban a sí mismos los del \u2018camino\u2019 [véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/19.9,23?lang=spa#p9\">Hechos 19:9, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/22.4?lang=spa#p4\">22:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/24.14,22?lang=spa#p14\">24:14, 22<\/a>]\u201d (ed. Frank E. Gaebelein y otros, 1981, tomo IX, pág. 370).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/14.6?lang=spa#p6",
+            "text": "Juan 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/1.1?lang=spa#p1",
+            "text": "Salmo 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/16.11?lang=spa#p11",
+            "text": "16:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/86.11?lang=spa#p11",
+            "text": "86:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/24.14?lang=spa#p14",
+            "text": "Hechos 24:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/19.9,23?lang=spa#p9",
+            "text": "Hechos 19:9, 23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/22.4?lang=spa#p4",
+            "text": "22:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/24.14,22?lang=spa#p14",
+            "text": "24:14, 22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "148007569",
+        "id": "note17",
+        "text": "<p data-aid=\"148007611\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.8-9?lang=spa#p8\">Deuteronomio 28:8\u20139<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-7?lang=spa#p1\">versículos 1\u20137<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/deut/28.8-9?lang=spa#p8",
+            "text": "Deuteronomio 28:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/deut/28.1-7?lang=spa#p1",
+            "text": "versículos 1\u20137",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}
