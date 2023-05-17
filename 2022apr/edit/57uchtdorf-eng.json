@@ -397,7 +397,7 @@
         "marker": "6.",
         "pid": "149808092",
         "id": "note6",
-        "text": "<p data-aid=\"149808189\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/13.32-33?lang=eng#p32\">3 Nephi 13:32\u201333<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.32-33?lang=eng#p32\">Matthew 6:32\u201333<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jst-matt/6.38?lang=eng#p38\">Joseph Smith Translation, Matthew 6:38<\/a> provides additional insight: \u201cSeek not the things of this world but seek ye first to build up the kingdom of God, and to establish his righteousness\u201d (in Matthew 6:33, footnote <em>a<\/em>).<\/p>",
+        "text": "<p data-aid=\"149808189\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/13.32-33?lang=eng#p32\">3 Nephi 13:32\u201333<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.32-33?lang=eng#p32\">Matthew 6:32\u201333<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/6.38?lang=eng#p38\">Joseph Smith Translation, Matthew 6:38<\/a> provides additional insight: \u201cSeek not the things of this world but seek ye first to build up the kingdom of God, and to establish his righteousness\u201d (in Matthew 6:33, footnote <em>a<\/em>).<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/3-ne/13.32-33?lang=eng#p32",
@@ -410,7 +410,7 @@
             "type": "scripture-ref"
           },
           {
-            "href": "/study/scriptures/nt/jst-matt/6.38?lang=eng#p38",
+            "href": "/study/scriptures/jst/jst-matt/6.38?lang=eng#p38",
             "text": "Joseph Smith Translation, Matthew 6:38",
             "type": "scripture-ref"
           }

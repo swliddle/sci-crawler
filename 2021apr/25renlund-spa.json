@@ -543,7 +543,7 @@
         "context": null,
         "pid": "146066495",
         "id": "note19",
-        "text": "<p data-aid=\"146066552\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.10-11?lang=spa#p10\">Juan 8:10\u201311<\/a>; la <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jst-john/8.11?lang=spa#p11\">Traducción de José Smith del versículo 11</a> incluye además: \u201cY la mujer glorificó a Dios desde aquella hora, y creyó en su nombre\u201d, lo que sugiere que el hecho de que el Salvador no la hubiese condenado y Su mandamiento de \u201cno pe[car] más\u201d influyeron por el resto de la vida de la mujer.<\/p>",
+        "text": "<p data-aid=\"146066552\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.10-11?lang=spa#p10\">Juan 8:10\u201311<\/a>; la <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-john/8.11?lang=spa#p11\">Traducción de José Smith del versículo 11</a> incluye además: \u201cY la mujer glorificó a Dios desde aquella hora, y creyó en su nombre\u201d, lo que sugiere que el hecho de que el Salvador no la hubiese condenado y Su mandamiento de \u201cno pe[car] más\u201d influyeron por el resto de la vida de la mujer.<\/p>",
         "referenceUris": [
             {
               "href": "/study/scriptures/nt/john/8.10-11?lang=spa#p10",
@@ -551,7 +551,7 @@
               "type": "scripture-ref"
             },
             {
-              "href": "/study/scriptures/nt/jst-john/8.11?lang=spa#p11",
+              "href": "/study/scriptures/jst/jst-john/8.11?lang=spa#p11",
               "text": "Traducción de José Smith del versículo 11",
               "type": "scripture-ref"
             }

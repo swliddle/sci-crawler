@@ -317,7 +317,7 @@ public class SciCrawler {
      * 6. Update database (if flag set to write).
      */
 
-    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+    private void addFilteredLink(List<Link> links, String talkId, String href, String text, String footnoteKey) {
         String[] tags = { "scriptures/bd", "scriptures/gs", "scriptures/tg" };
 
         for (String tag : tags) {
@@ -326,7 +326,7 @@ public class SciCrawler {
             }
         }
 
-        Link link = new Link(talkId, href, text);
+        Link link = new Link(talkId, href, text, footnoteKey);
 
         link.addParsedToList(links, referencePattern);
     }
@@ -463,7 +463,7 @@ public class SciCrawler {
             extractScriptureLinks(talkBody, talkId, scriptureLinks);
 
             String nonLinkedText = talkBody.replaceAll("<a[^>]*>.*?</a>", "");
-            extractJstLinks(nonLinkedText, talkId, scriptureLinks);
+            extractJstLinks(nonLinkedText, talkId, "body", scriptureLinks);
 
             if (talkContent.has(FOOTNOTES)) {
                 JSONObject footnotes = talkContent.getJSONObject(FOOTNOTES);
@@ -545,7 +545,7 @@ public class SciCrawler {
         }
     }
 
-    private void extractJstLinks(String content, String talkId, List<Link> links) {
+    private void extractJstLinks(String content, String talkId, String footnoteKey, List<Link> links) {
         Matcher matcher = jstPattern.matcher(content);
 
         while (matcher.find()) {
@@ -564,9 +564,11 @@ public class SciCrawler {
                     talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
                             + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
                             + language + "#p" + Link.firstVerse(verses),
-                    fullMatch, bookAbbr, chapter, verses, true));
+                    fullMatch, bookAbbr, chapter, verses, true, footnoteKey));
         }
     }
+
+    private int footnoteIndex = 0;
 
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
         String[] keys = new String[footnotes.keySet().size()];
@@ -583,16 +585,19 @@ public class SciCrawler {
                 uris.forEach(subitem -> {
                     JSONObject uri = (JSONObject) subitem;
 
+                    footnoteIndex += 1;
+
                     if (uri.has("href") && uri.has("type") && uri.has("text")
                             && uri.getString("type").equals("scripture-ref")) {
-                        addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"));
+                        addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"),
+                                key + "-" + footnoteIndex);
                     }
                 });
             }
 
             List<Link> jstLinks = new ArrayList<>();
 
-            extractJstLinks(footnote.getString("text"), talkId, jstLinks);
+            extractJstLinks(footnote.getString("text"), talkId, key, jstLinks);
 
             if (!jstLinks.isEmpty()) {
                 addNonduplicateLinks(jstLinks, links);
@@ -615,7 +620,7 @@ public class SciCrawler {
 
         while (matcher.find()) {
             addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF),
-                    matcher.group(SCRIPTURE_REFERENCE_TEXT));
+                    matcher.group(SCRIPTURE_REFERENCE_TEXT), "body");
         }
     }
 

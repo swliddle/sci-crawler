@@ -28,11 +28,13 @@ public class Link {
     public int page;
     public boolean isJst;
     public boolean isDeleted = false;
+    public String footnoteKey = "";
 
-    public Link(String talkId, String href, String text) {
+    public Link(String talkId, String href, String text, String footnoteKey) {
         this.talkId = talkId;
         this.href = href;
         this.text = text;
+        this.footnoteKey = footnoteKey;
     }
 
     public Link(String href, String page, String talkId, String text, String language, Pattern referencePattern) {
@@ -63,7 +65,8 @@ public class Link {
         addParsedToList(parsedLinks, referencePattern);
     }
 
-    public Link(String talkId, String href, String text, String book, String chapter, String verses, boolean isJst) {
+    public Link(String talkId, String href, String text, String book, String chapter, String verses, boolean isJst,
+            String footnoteKey) {
         this.talkId = talkId;
         this.href = href;
         this.text = text;
@@ -71,6 +74,7 @@ public class Link {
         this.chapter = chapter;
         this.verses = verses;
         this.isJst = isJst;
+        this.footnoteKey = footnoteKey;
     }
 
     public Link(Link source) {
@@ -82,6 +86,7 @@ public class Link {
         this.verses = source.verses;
         this.isJst = source.isJst;
         this.page = source.page;
+        this.footnoteKey = source.footnoteKey;
     }
 
     public void addParsedToList(List<Link> links, Pattern referencePattern) {
@@ -289,7 +294,9 @@ public class Link {
                     && book.equals(link.book)
                     && textIsSimilar(text, link.text)
                     && href.equals(link.href)
-                    && talkId.equals(link.talkId);
+                    && talkId.equals(link.talkId)
+                    && (footnoteKey.equals(link.footnoteKey) || footnoteKey.equals("body")
+                            || link.footnoteKey.equals("body"));
         }
 
         return isDeleted == link.isDeleted
@@ -300,7 +307,9 @@ public class Link {
                 && book.equals(link.book)
                 && textIsSimilar(text, link.text)
                 && textIsSimilar(href, link.href)
-                && talkId.equals(link.talkId);
+                && talkId.equals(link.talkId)
+                && (footnoteKey.equals(link.footnoteKey) || footnoteKey.equals("body")
+                        || link.footnoteKey.equals("body"));
     }
 
     public static String firstVerse(String verses) {

@@ -222,7 +222,7 @@ public class Database {
             rs = stmt.executeQuery("SELECT * FROM citation WHERE TalkID=" + talkId + " ORDER BY ID");
 
             while (rs.next()) {
-                Link link = new Link(null, null, null);
+                Link link = new Link(null, null, null, "");
 
                 link.citationId = rs.getInt(1);
                 link.talkId = rs.getString(2);

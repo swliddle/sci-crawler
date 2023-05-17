@@ -15,6 +15,7 @@ alma/36.17-20	DFU	11	12uchtdorf
 2-cor/5.17	DFU	11	12uchtdorf
 dc/50.24	DFU	11	12uchtdorf
 1-jn/3.2	DFU	11	12uchtdorf
+morm/7.7	DFU	11	12uchtdorf
 john/10.16	DFU	11	12uchtdorf
 dc/59.5	DFU	11	12uchtdorf
 dc/88.62-63	DFU	11	12uchtdorf
@@ -38,6 +39,7 @@ dc/88.63	DFU	11	12uchtdorf
 prov/3.5	DFU	11	12uchtdorf
 3-ne/9.20	DFU	11	12uchtdorf
 dc/20.37	DFU	11	12uchtdorf
+dc/88.63	DFU	11	12uchtdorf
 3-ne/17.23-24	JDJ	15	13jones
 dc/29.46-47	JDJ	15	13jones
 dc/20.71	JDJ	15	13jones
@@ -55,6 +57,7 @@ dc/27.17	JDJ	15	13jones
 2-ne/6.3	JDJ	15	13jones
 alma/39.16	JDJ	15	13jones
 2-ne/10.23	JDJ	15	13jones
+moses/6.59	JDJ	15	13jones
 2-ne/31.20	JDJ	15	13jones
 4-ne/1.2	JEN	19	14newman
 1-ne/11.8-36	JEN	19	14newman
@@ -117,6 +120,7 @@ dc/121.46	JRH	38	23holland
 alma/5.26	JRH	38	23holland
 isa/53.4	JRH	38	23holland
 isa/53.7	JRH	38	23holland
+john/14.27	JRH	38	23holland
 acts/3.1-7	JTB	41	24becerra
 acts/3.7	JTB	41	24becerra
 1-ne/4.6	JTB	41	24becerra
@@ -191,11 +195,13 @@ heb/11.13	MRB	56	28ballard
 2-ne/26.33	MRB	56	28ballard
 alma/32.21	MRB	56	28ballard
 ether/12.6	MRB	56	28ballard
+a-of-f/1.3	MRB	56	28ballard
 isa/64.4	MRB	56	28ballard
 dc/133.45	MRB	56	28ballard
 mosiah/26.30	MRB	56	28ballard
 alma/7.11-13	MRB	56	28ballard
 dc/88.6	MRB	56	28ballard
+john/16.33	MRB	56	28ballard
 dc/19.3	MRB	56	28ballard
 moro/7.27-28	MRB	56	28ballard
 dc/88.107	MRB	56	28ballard
@@ -213,6 +219,7 @@ job/38.4-7	ASC	64	32corbitt
 3-ne/27.14	ASC	64	32corbitt
 dc/138.55-56	ASC	64	32corbitt
 alma/13.2-4	ASC	64	32corbitt
+rev/12.11	ASC	64	32corbitt
 a-of-f/1.5	ASC	64	32corbitt
 1-ne/5.5	ASC	64	32corbitt
 mosiah/3.11-13	ASC	64	32corbitt
@@ -227,6 +234,7 @@ moses/7.47	ASC	64	32corbitt
 ether/3.6-9,11-13	ASC	64	32corbitt
 john/1.1	ASC	64	32corbitt
 john/14.6,17	ASC	64	32corbitt
+rev/12.11	ASC	64	32corbitt
 ether/3.6-9	ASC	64	32corbitt
 alma/36.24-26	ASC	64	32corbitt
 ps/34.8	ASC	64	32corbitt
@@ -235,6 +243,7 @@ mosiah/4.11	ASC	64	32corbitt
 jarom/1.11	ASC	64	32corbitt
 mosiah/16.6	ASC	64	32corbitt
 alma/5.15	ASC	64	32corbitt
+alma/5.15-17	ASC	64	32corbitt
 alma/5.15-17	ASC	64	32corbitt
 dc/58.28	ASC	64	32corbitt
 2-ne/26.8-9	ASC	64	32corbitt
@@ -278,6 +287,7 @@ john/4.20-23	RMN	80	36nelson
 alma/32.9-16	RMN	80	36nelson
 alma/50.4	RMN	80	36nelson
 dc/121.37	RMN	80	36nelson
+dc/87.8	RMN	80	36nelson
 john/17.15-16	RMN	80	36nelson
 mark/12.30-31	RMN	80	36nelson
 dc/58.27-28	RMN	80	36nelson
@@ -343,6 +353,7 @@ mosiah/5.1-2	US	84	41soares
 mosiah/26.29	US	84	41soares
 3-ne/9.20,22	US	84	41soares
 moro/6.8	US	84	41soares
+mosiah/2.41	US	84	41soares
 dc/66.12	US	84	41soares
 dc/75.5	US	84	41soares
 dc/93.1	US	84	41soares
@@ -351,6 +362,7 @@ heb/4.15	US	84	41soares
 alma/7.11-13	US	84	41soares
 dc/62.1	US	84	41soares
 isa/53.3-5	US	84	41soares
+alma/7.11-13	US	84	41soares
 dc/88.6	US	84	41soares
 matt/11.28-30	US	84	41soares
 2-ne/25.23	US	84	41soares
@@ -405,6 +417,7 @@ philip/3.8	ED	91	44dube
 matt/16.25	ED	91	44dube
 3-ne/27.13	ED	91	44dube
 alma/7.11-12	ED	91	44dube
+philip/3.14	ED	91	44dube
 heb/12.1-2	ED	91	44dube
 hel/5.6-12	JAT	94	45teixeira
 dc/19.38	JAT	94	45teixeira
@@ -431,19 +444,19 @@ hel/5.12	CHW	98	47wong
 dc/10.69	CHW	98	47wong
 dc/21.5-6	CHW	98	47wong
 moro/7.41	CHW	98	47wong
-luke/24.5-6	MJT	101	48teh
-matt/22.42	MJT	101	48teh
-john/17.3	MJT	101	48teh
-john/14.6	MJT	101	48teh
-john/8.12	MJT	101	48teh
-alma/32.27	MJT	101	48teh
-alma/5.45-46	MJT	101	48teh
-moses/1.39	MJT	101	48teh
-1-jn/2.1	MJT	101	48teh
-heb/5.8-9	MJT	101	48teh
-alma/7.11-13	MJT	101	48teh
-2-ne/31.3	MJT	101	48teh
-ether/12.41	MJT	101	48teh
+luke/24.5-6	MjT	101	48teh
+matt/22.42	MjT	101	48teh
+john/17.3	MjT	101	48teh
+john/14.6	MjT	101	48teh
+john/8.12	MjT	101	48teh
+alma/32.27	MjT	101	48teh
+alma/5.45-46	MjT	101	48teh
+moses/1.39	MjT	101	48teh
+1-jn/2.1	MjT	101	48teh
+heb/5.8-9	MjT	101	48teh
+alma/7.11-13	MjT	101	48teh
+2-ne/31.3	MjT	101	48teh
+ether/12.41	MjT	101	48teh
 mosiah/2.41	RMN	104	49nelson
 heb/11.6	RMN	104	49nelson
 matt/11.28-30	RMN	104	49nelson
@@ -550,6 +563,7 @@ jer/16.14-16	DTC	119	54christofferson
 2-ne/29.14	DTC	119	54christofferson
 3-ne/29.1	DTC	119	54christofferson
 a-of-f/1.10	DTC	119	54christofferson
+3-ne/29.1	DTC	119	54christofferson
 3-ne/21.1-7	DTC	119	54christofferson
 3-ne/16.4-8	DTC	119	54christofferson
 dc/115.5-6	DTC	119	54christofferson
