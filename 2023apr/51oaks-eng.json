@@ -1,0 +1,887 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/51oaks?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "82e6d0304cbe46d0a07b2c0556b6410a",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/51oaks",
+      "data-aid": "154444526",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "82e6d0304cbe46d0a07b2c0556b6410a"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/c7/b8/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "The Teachings of Jesus Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444526",
+      {"key": "154444526"}
+    ],
+    [
+      "154444534",
+      {"key": "154444534"}
+    ],
+    [
+      "154444540",
+      {"key": "154444540"}
+    ],
+    [
+      "154444544",
+      {"key": "154444544"}
+    ],
+    [
+      "154444550",
+      {"key": "154444550"}
+    ],
+    [
+      "154444556",
+      {"key": "154444556"}
+    ],
+    [
+      "154444564",
+      {"key": "154444564"}
+    ],
+    [
+      "154444570",
+      {"key": "154444570"}
+    ],
+    [
+      "154444574",
+      {"key": "154444574"}
+    ],
+    [
+      "154444581",
+      {"key": "154444581"}
+    ],
+    [
+      "154444585",
+      {"key": "154444585"}
+    ],
+    [
+      "154444591",
+      {"key": "154444591"}
+    ],
+    [
+      "154444595",
+      {"key": "154444595"}
+    ],
+    [
+      "154444600",
+      {"key": "154444600"}
+    ],
+    [
+      "154444605",
+      {"key": "154444605"}
+    ],
+    [
+      "154444611",
+      {"key": "154444611"}
+    ],
+    [
+      "154444616",
+      {"key": "154444616"}
+    ],
+    [
+      "154444620",
+      {"key": "154444620"}
+    ],
+    [
+      "154444625",
+      {"key": "154444625"}
+    ],
+    [
+      "154444629",
+      {"key": "154444629"}
+    ],
+    [
+      "154444632",
+      {"key": "154444632"}
+    ],
+    [
+      "154444636",
+      {"key": "154444636"}
+    ],
+    [
+      "154444641",
+      {"key": "154444641"}
+    ],
+    [
+      "154444645",
+      {"key": "154444645"}
+    ],
+    [
+      "154444649",
+      {"key": "154444649"}
+    ],
+    [
+      "154444651",
+      {"key": "154444651"}
+    ],
+    [
+      "154444658",
+      {"key": "154444658"}
+    ],
+    [
+      "154444662",
+      {"key": "154444662"}
+    ],
+    [
+      "154444666",
+      {"key": "154444666"}
+    ],
+    [
+      "154444671",
+      {"key": "154444671"}
+    ],
+    [
+      "154444674",
+      {"key": "154444674"}
+    ],
+    [
+      "154444679",
+      {"key": "154444679"}
+    ],
+    [
+      "154444682",
+      {"key": "154444682"}
+    ],
+    [
+      "154444687",
+      {"key": "154444687"}
+    ],
+    [
+      "154444691",
+      {"key": "154444691"}
+    ],
+    [
+      "154444695",
+      {"key": "154444695"}
+    ],
+    [
+      "154444700",
+      {"key": "154444700"}
+    ],
+    [
+      "154444703",
+      {"key": "154444703"}
+    ],
+    [
+      "154444706",
+      {"key": "154444706"}
+    ],
+    [
+      "154444709",
+      {"key": "154444709"}
+    ],
+    [
+      "154444711",
+      {"key": "154444711"}
+    ],
+    [
+      "154444714",
+      {"key": "154444714"}
+    ],
+    [
+      "154444717",
+      {"key": "154444717"}
+    ],
+    [
+      "154444720",
+      {"key": "154444720"}
+    ],
+    [
+      "154444723",
+      {"key": "154444723"}
+    ],
+    [
+      "154444727",
+      {"key": "154444727"}
+    ],
+    [
+      "154444729",
+      {"key": "154444729"}
+    ],
+    [
+      "154444731",
+      {"key": "154444731"}
+    ],
+    [
+      "154444733",
+      {"key": "154444733"}
+    ],
+    [
+      "154444735",
+      {"key": "154444735"}
+    ],
+    [
+      "154444738",
+      {"key": "154444738"}
+    ],
+    [
+      "154444739",
+      {"key": "154444739"}
+    ],
+    [
+      "154444741",
+      {"key": "154444741"}
+    ],
+    [
+      "154444743",
+      {"key": "154444743"}
+    ],
+    [
+      "154444745",
+      {"key": "154444745"}
+    ],
+    [
+      "154444747",
+      {"key": "154444747"}
+    ],
+    [
+      "154444748",
+      {"key": "154444748"}
+    ],
+    [
+      "154444749",
+      {"key": "154444749"}
+    ],
+    [
+      "154444750",
+      {"key": "154444750"}
+    ],
+    [
+      "154444751",
+      {"key": "154444751"}
+    ],
+    [
+      "154444752",
+      {"key": "154444752"}
+    ],
+    [
+      "154444753",
+      {"key": "154444753"}
+    ],
+    [
+      "154444755",
+      {"key": "154444755"}
+    ],
+    [
+      "154444756",
+      {"key": "154444756"}
+    ],
+    [
+      "154444759",
+      {"key": "154444759"}
+    ],
+    [
+      "154444761",
+      {"key": "154444761"}
+    ],
+    [
+      "154444763",
+      {"key": "154444763"}
+    ],
+    [
+      "154444765",
+      {"key": "154444765"}
+    ],
+    [
+      "154444767",
+      {"key": "154444767"}
+    ],
+    [
+      "154444769",
+      {"key": "154444769"}
+    ],
+    [
+      "154444771",
+      {"key": "154444771"}
+    ],
+    [
+      "154444773",
+      {"key": "154444773"}
+    ],
+    [
+      "154444775",
+      {"key": "154444775"}
+    ],
+    [
+      "154444777",
+      {"key": "154444777"}
+    ],
+    [
+      "154444779",
+      {"key": "154444779"}
+    ],
+    [
+      "154444782",
+      {"key": "154444782"}
+    ],
+    [
+      "154444784",
+      {"key": "154444784"}
+    ],
+    [
+      "154444786",
+      {"key": "154444786"}
+    ],
+    [
+      "154444788",
+      {"key": "154444788"}
+    ],
+    [
+      "154444790",
+      {"key": "154444790"}
+    ],
+    [
+      "154444793",
+      {"key": "154444793"}
+    ],
+    [
+      "154444797",
+      {"key": "154444797"}
+    ],
+    [
+      "154444800",
+      {"key": "154444800"}
+    ],
+    [
+      "154444805",
+      {"key": "154444805"}
+    ],
+    [
+      "154444809",
+      {"key": "154444809"}
+    ],
+    [
+      "154444813",
+      {"key": "154444813"}
+    ],
+    [
+      "154444817",
+      {"key": "154444817"}
+    ],
+    [
+      "154444821",
+      {"key": "154444821"}
+    ],
+    [
+      "154444824",
+      {"key": "154444824"}
+    ],
+    [
+      "154444827",
+      {"key": "154444827"}
+    ],
+    [
+      "154444833",
+      {"key": "154444833"}
+    ],
+    [
+      "154444838",
+      {"key": "154444838"}
+    ],
+    [
+      "154444842",
+      {"key": "154444842"}
+    ],
+    [
+      "154444846",
+      {"key": "154444846"}
+    ],
+    [
+      "154444850",
+      {"key": "154444850"}
+    ],
+    [
+      "154444854",
+      {"key": "154444854"}
+    ],
+    [
+      "154444858",
+      {"key": "154444858"}
+    ],
+    [
+      "154444862",
+      {"key": "154444862"}
+    ],
+    [
+      "154444866",
+      {"key": "154444866"}
+    ],
+    [
+      "154444870",
+      {"key": "154444870"}
+    ],
+    [
+      "154444873",
+      {"key": "154444873"}
+    ],
+    [
+      "154444876",
+      {"key": "154444876"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/51oaks",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "President Oaks shares scriptures that record the words of Jesus Christ.",
+          "title": "The Teachings of Jesus Christ"
+        },
+        "pageSocial": {
+          "description": "President Oaks shares scriptures that record the words of Jesus Christ.",
+          "title": "The Teachings of Jesus Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/c7/b8/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a.jpeg\" data-video-title=\"The Teachings of Jesus Christ\" data-video-description=\"President Oaks shares scriptures that record the words of Jesus Christ.\" data-video-id=\"6323847256112\" data-ip=\"Download and Streaming                            \" data-duration=\"846781\" data-assetId=\"65b8a13bd19e11edb6deeeeeac1eaa590aee9ccb\" data-ref-id=\"4AA2BBD08D193C277BAAFAF8ED8E03706D205502\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323847256112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"282872269\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"78411041\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"204096331\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"282872269\"/><\/video><h1 data-aid=\"154444534\" id=\"title1\">The Teachings of Jesus Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444540\" id=\"author1\">By President Dallin H. Oaks<\/p>\n<p class=\"author-role\" data-aid=\"154444544\" id=\"author2\">First Counselor in the First Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154444550\" id=\"kicker1\">We are given the scriptures to direct our lives. My message today consists of a selection of the words of our Savior\u2014what He said.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154444556\" id=\"p1\">We believe in Christ. As members of The Church of Jesus Christ of Latter-day Saints, we worship Him and follow His teachings in the scriptures.<\/p>\n<p data-aid=\"154444564\" id=\"p2\">Before the Fall, our Heavenly Father spoke directly to Adam and Eve. Thereafter, the Father introduced His Only Begotten Son, Jesus Christ, as our Savior and Redeemer and gave us the command to \u201chear Him.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> From this direction we conclude that the scriptural records of words spoken by \u201cGod\u201d or the \u201cLord\u201d are almost always the words of Jehovah, our risen Lord, Jesus Christ.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"154444570\" id=\"p3\">We are given the scriptures to direct our lives. As the prophet Nephi taught us, we should \u201cfeast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Most of the scriptures reporting Jesus\u2019s mortal ministries are descriptions of what He <em>did<\/em>. My message today consists of a selection of the words of our Savior\u2014what He <em>said<\/em>. These are words recorded in the New Testament (including the inspired additions of Joseph Smith) and in the Book of Mormon. Most of these selections are in the sequence in which our Savior spoke them.<\/p>\n<p data-aid=\"154444574\" id=\"p4\">\u201cVerily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"154444581\" id=\"p5\">\u201cBlessed are \u2026 they [which] do hunger and thirst after righteousness, for they shall be filled <em>with the Holy Ghost<\/em>.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"154444585\" id=\"p6\">\u201cBlessed are the peacemakers: for they shall be called the children of God.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"154444591\" id=\"p7\">\u201cYe have heard that it was said by them of old time, Thou shalt not commit adultery:<\/p>\n<p data-aid=\"154444595\" id=\"p8\">\u201cBut I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"154444600\" id=\"p9\">\u201cYe have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.<\/p>\n<p data-aid=\"154444605\" id=\"p10\">\u201cBut I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;<\/p>\n<p data-aid=\"154444611\" id=\"p11\">\u201cThat ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"154444616\" id=\"p12\">\u201cIf ye forgive men their trespasses, your heavenly Father will also forgive you:<\/p>\n<p data-aid=\"154444620\" id=\"p13\">\u201cBut if ye forgive not men their trespasses, neither will your Father forgive your trespasses.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"154444625\" id=\"p14\">\u201cIf ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"154444629\" id=\"p15\">\u201cWherefore, seek not the things of this world but seek ye first to build up the kingdom of God, and to establish his righteousness, and all these things shall be added unto you.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"154444632\" id=\"p16\">\u201cTherefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"154444636\" id=\"p17\">\u201cBeware of false prophets, which come to you in sheep\u2019s clothing, but inwardly they are ravening wolves.<\/p>\n<p data-aid=\"154444641\" id=\"p18\">\u201cYe shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?<\/p>\n<p data-aid=\"154444645\" id=\"p19\">\u201cEven so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"154444649\" id=\"p20\">\u201cNot every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"154444651\" id=\"p21\">\u201cCome unto me, all ye that labour and are heavy laden, and I will give you rest.<\/p>\n<p data-aid=\"154444658\" id=\"p22\">\u201cTake my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.<\/p>\n<p data-aid=\"154444662\" id=\"p23\">\u201cFor my yoke is easy, and my burden is light.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"154444666\" id=\"p24\">\u201cIf any man will come after me, let him deny himself, and take up his cross and follow me.<\/p>\n<p data-aid=\"154444671\" id=\"p25\">\u201cAnd now for a man to take up his cross, is to deny himself all ungodliness, and every worldly lust, and keep my commandments.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"154444674\" id=\"p26\">\u201cTherefore, forsake the world, and save your souls; for what is a man profited, if he shall gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"154444679\" id=\"p27\">\u201cIf any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"154444682\" id=\"p28\">\u201cAnd I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.<\/p>\n<p data-aid=\"154444687\" id=\"p29\">\u201cFor every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"154444691\" id=\"p30\">\u201cOther sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"154444695\" id=\"p31\">\u201cJesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:<\/p>\n<p data-aid=\"154444700\" id=\"p32\">\u201cAnd whosoever liveth and believeth in me shall never die.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"154444703\" id=\"p33\">\u201c[The great commandment in the law is this:] Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.<\/p>\n<p data-aid=\"154444706\" id=\"p34\">\u201cThis is the first and great commandment.<\/p>\n<p data-aid=\"154444709\" id=\"p35\">\u201cAnd the second is like unto it, Thou shalt love thy neighbour as thyself.<\/p>\n<p data-aid=\"154444711\" id=\"p36\">\u201cOn these two commandments hang all the law and the prophets.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"154444714\" id=\"p37\">\u201cHe that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"154444717\" id=\"p38\">\u201cPeace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"154444720\" id=\"p39\">\u201cThis is my commandment, That ye love one another, as I have loved you.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"154444723\" id=\"p41\">\u201cBehold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"154444727\" id=\"p42\">\u201cGo ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:<\/p>\n<p data-aid=\"154444729\" id=\"p43\">\u201cTeaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"154444731\" id=\"p44\">After His ministry in the Holy Land, Jesus Christ appeared to the righteous on the American continent. These are some of the words He spoke there:<\/p>\n<p data-aid=\"154444733\" id=\"p45\">\u201cBehold, I am Jesus Christ the Son of God. I created the heavens and the earth, and all things that in them are. I was with the Father from the beginning. I am in the Father, and the Father in me; and in me hath the Father glorified his name.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"154444735\" id=\"p46\">\u201cI am the light and the life of the world. I am Alpha and Omega, the beginning and the end.<\/p>\n<p data-aid=\"154444738\" id=\"p47\">\u201cAnd ye shall offer up unto me no more the shedding of blood; yea, your sacrifices and your burnt offerings shall be done away, for I will accept none of your sacrifices and your burnt offerings.<\/p>\n<p data-aid=\"154444739\" id=\"p48\">\u201cAnd ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit, him will I baptize with fire and with the Holy Ghost. \u2026<\/p>\n<p data-aid=\"154444741\" id=\"p49\">\u201cBehold, I have come unto the world to bring redemption unto the world, to save the world from sin.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"154444743\" id=\"p50\">\u201cAnd again I say unto you, ye must repent, and be baptized in my name, and become as a little child, or ye can in nowise inherit the kingdom of God.\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a><\/p>\n<p data-aid=\"154444745\" id=\"p51\">\u201cTherefore I would that ye should be <em>perfect<\/em> even as I, or your Father who is in heaven is perfect.\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a><\/p>\n<p data-aid=\"154444747\" id=\"p52\">\u201cVerily, verily, I say unto you, ye must watch and <em>pray<\/em> always, lest ye be tempted by the devil, and ye be led away captive by him.\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a><\/p>\n<p data-aid=\"154444748\" id=\"p53\">\u201cTherefore ye must always pray unto the Father in my name.\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a><\/p>\n<p data-aid=\"154444749\" id=\"p54\">\u201cTherefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name.\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a><\/p>\n<p data-aid=\"154444750\" id=\"p55\">\u201cBehold I have given unto you my gospel, and this is the gospel which I have given unto you\u2014that I came into the world to do the will of my Father, because my Father sent me.<\/p>\n<p data-aid=\"154444751\" id=\"p56\">\u201cAnd my Father sent me that I might be lifted up upon the cross; and after that I had been lifted up upon the cross, that I might draw all men unto me \u2026 to be judged of their works, whether they be good or whether they be evil.\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a><\/p>\n<p data-aid=\"154444752\" id=\"p57\">\u201cNow this is the commandment: Repent, all ye ends of the earth, and come unto me and be baptized in my name, that ye may be sanctified by the reception of the Holy Ghost, that ye may stand spotless before me at the last day.\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a><\/p>\n<p data-aid=\"154444753\" id=\"p58\">We believe in Christ. I conclude with what He said about how we should know and follow His teachings:<\/p>\n<p data-aid=\"154444755\" id=\"p59\">\u201cBut the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.\u201d<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a><\/p>\n<p data-aid=\"154444756\" id=\"p60\">I affirm the truth of these teachings in the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154444759\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154444761\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/3.46?lang=eng#p46\">Joseph Smith Translation, Matthew 3:46<\/a> (in the Bible appendix); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=eng#p5\">Matthew 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=eng#p7\">Mark 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=eng#p7\">3 Nephi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154444763\" id=\"note2_p1\">See \u201cThe Father and the Son: A Doctrinal Exposition by the First Presidency and the Twelve,\u201d <cite>Improvement Era<\/cite>, Aug. 1916, 934, 939.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154444765\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154444767\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.5?lang=eng#p5\">John 3:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154444769\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.6?lang=eng#p6\">3 Nephi 12:6<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154444771\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=eng#p9\">Matthew 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154444773\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.27-28?lang=eng#p27\">Matthew 5:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154444775\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.43-45?lang=eng#p43\">Matthew 5:43\u201345<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154444777\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.14-15?lang=eng#p14\">Matthew 6:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154444779\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.19?lang=eng#p19\">John 15:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154444782\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/6.38?lang=eng#p38\">Joseph Smith Translation, Matthew 6:38<\/a> (in the Bible appendix).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154444784\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.12?lang=eng#p12\">Matthew 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154444786\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.15-17?lang=eng#p15\">Matthew 7:15\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154444788\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.21?lang=eng#p21\">Matthew 7:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154444790\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154444793\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.25-26?lang=eng#p25\">Joseph Smith Translation, Matthew 16:25\u201326<\/a> (in the Bible appendix).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154444797\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.29?lang=eng#p29\">Joseph Smith Translation, Matthew 16:29<\/a> (in the Bible appendix).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154444800\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=eng#p17\">John 7:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154444805\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=eng#p9\">Luke 11:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154444809\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.16?lang=eng#p16\">John 10:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154444813\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.25-26?lang=eng#p25\">John 11:25\u201326<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154444817\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-40?lang=eng#p37\">Matthew 22:37\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154444821\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=eng#p21\">John 14:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154444824\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=eng#p27\">John 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154444827\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=eng#p12\">John 15:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154444833\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.39?lang=eng#p39\">Luke 24:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154444838\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=eng#p19\">Matthew 28:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154444842\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.15?lang=eng#p15\">3 Nephi 9:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154444846\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.18-21?lang=eng#p18\">3 Nephi 9:18\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154444850\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.38?lang=eng#p38\">3 Nephi 11:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154444854\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.48?lang=eng#p48\">3 Nephi 12:48<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154444858\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.15?lang=eng#p15\">3 Nephi 18:15<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"154444862\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.19?lang=eng#p19\">3 Nephi 18:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"154444866\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.7?lang=eng#p7\">3 Nephi 27:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"154444870\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-14?lang=eng#p13\">3 Nephi 27:13\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"154444873\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.20?lang=eng#p20\">3 Nephi 27:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"154444876\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.26?lang=eng#p26\">John 14:26<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154444574",
+        "id": "note4",
+        "text": "<p data-aid=\"154444767\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.5?lang=eng#p5\">John 3:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3.5?lang=eng#p5",
+          "text": "John 3:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154444581",
+        "id": "note5",
+        "text": "<p data-aid=\"154444769\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.6?lang=eng#p6\">3 Nephi 12:6<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/12.6?lang=eng#p6",
+          "text": "3 Nephi 12:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154444564",
+        "id": "note2",
+        "text": "<p data-aid=\"154444763\" id=\"note2_p1\">See \u201cThe Father and the Son: A Doctrinal Exposition by the First Presidency and the Twelve,\u201d <cite>Improvement Era<\/cite>, Aug. 1916, 934, 939.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154444570",
+        "id": "note3",
+        "text": "<p data-aid=\"154444765\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.3?lang=eng#p3",
+          "text": "2 Nephi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154444611",
+        "id": "note8",
+        "text": "<p data-aid=\"154444775\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.43-45?lang=eng#p43\">Matthew 5:43\u201345<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.43-45?lang=eng#p43",
+          "text": "Matthew 5:43\u201345",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154444620",
+        "id": "note9",
+        "text": "<p data-aid=\"154444777\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.14-15?lang=eng#p14\">Matthew 6:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.14-15?lang=eng#p14",
+          "text": "Matthew 6:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154444585",
+        "id": "note6",
+        "text": "<p data-aid=\"154444771\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=eng#p9\">Matthew 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.9?lang=eng#p9",
+          "text": "Matthew 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154444595",
+        "id": "note7",
+        "text": "<p data-aid=\"154444773\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.27-28?lang=eng#p27\">Matthew 5:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.27-28?lang=eng#p27",
+          "text": "Matthew 5:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154444743",
+        "id": "note30",
+        "text": "<p data-aid=\"154444850\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.38?lang=eng#p38\">3 Nephi 11:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.38?lang=eng#p38",
+          "text": "3 Nephi 11:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154444671",
+        "id": "note16",
+        "text": "<p data-aid=\"154444793\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.25-26?lang=eng#p25\">Joseph Smith Translation, Matthew 16:25\u201326<\/a> (in the Bible appendix).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/16.25-26?lang=eng#p25",
+          "text": "Joseph Smith Translation, Matthew 16:25\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154444662",
+        "id": "note15",
+        "text": "<p data-aid=\"154444790\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
+          "text": "Matthew 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "154444755",
+        "id": "note37",
+        "text": "<p data-aid=\"154444876\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.26?lang=eng#p26\">John 14:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.26?lang=eng#p26",
+          "text": "John 14:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154444649",
+        "id": "note14",
+        "text": "<p data-aid=\"154444788\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.21?lang=eng#p21\">Matthew 7:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.21?lang=eng#p21",
+          "text": "Matthew 7:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "154444752",
+        "id": "note36",
+        "text": "<p data-aid=\"154444873\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.20?lang=eng#p20\">3 Nephi 27:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.20?lang=eng#p20",
+          "text": "3 Nephi 27:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154444645",
+        "id": "note13",
+        "text": "<p data-aid=\"154444786\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.15-17?lang=eng#p15\">Matthew 7:15\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.15-17?lang=eng#p15",
+          "text": "Matthew 7:15\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "154444751",
+        "id": "note35",
+        "text": "<p data-aid=\"154444870\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-14?lang=eng#p13\">3 Nephi 27:13\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.13-14?lang=eng#p13",
+          "text": "3 Nephi 27:13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154444632",
+        "id": "note12",
+        "text": "<p data-aid=\"154444784\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.12?lang=eng#p12\">Matthew 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.12?lang=eng#p12",
+          "text": "Matthew 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "154444749",
+        "id": "note34",
+        "text": "<p data-aid=\"154444866\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.7?lang=eng#p7\">3 Nephi 27:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.7?lang=eng#p7",
+          "text": "3 Nephi 27:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154444629",
+        "id": "note11",
+        "text": "<p data-aid=\"154444782\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/6.38?lang=eng#p38\">Joseph Smith Translation, Matthew 6:38<\/a> (in the Bible appendix).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/6.38?lang=eng#p38",
+          "text": "Joseph Smith Translation, Matthew 6:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "154444748",
+        "id": "note33",
+        "text": "<p data-aid=\"154444862\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.19?lang=eng#p19\">3 Nephi 18:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.19?lang=eng#p19",
+          "text": "3 Nephi 18:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154444625",
+        "id": "note10",
+        "text": "<p data-aid=\"154444779\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.19?lang=eng#p19\">John 15:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.19?lang=eng#p19",
+          "text": "John 15:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154444747",
+        "id": "note32",
+        "text": "<p data-aid=\"154444858\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.15?lang=eng#p15\">3 Nephi 18:15<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.15?lang=eng#p15",
+          "text": "3 Nephi 18:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154444745",
+        "id": "note31",
+        "text": "<p data-aid=\"154444854\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.48?lang=eng#p48\">3 Nephi 12:48<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/12.48?lang=eng#p48",
+          "text": "3 Nephi 12:48",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154444687",
+        "id": "note19",
+        "text": "<p data-aid=\"154444805\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=eng#p9\">Luke 11:9\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/11.9-10?lang=eng#p9",
+          "text": "Luke 11:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154444679",
+        "id": "note18",
+        "text": "<p data-aid=\"154444800\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=eng#p17\">John 7:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/7.17?lang=eng#p17",
+          "text": "John 7:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154444674",
+        "id": "note17",
+        "text": "<p data-aid=\"154444797\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.29?lang=eng#p29\">Joseph Smith Translation, Matthew 16:29<\/a> (in the Bible appendix).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/16.29?lang=eng#p29",
+          "text": "Joseph Smith Translation, Matthew 16:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154444729",
+        "id": "note27",
+        "text": "<p data-aid=\"154444838\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=eng#p19\">Matthew 28:19\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/28.19-20?lang=eng#p19",
+          "text": "Matthew 28:19\u201320",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154444723",
+        "id": "note26",
+        "text": "<p data-aid=\"154444833\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.39?lang=eng#p39\">Luke 24:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/24.39?lang=eng#p39",
+          "text": "Luke 24:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154444720",
+        "id": "note25",
+        "text": "<p data-aid=\"154444827\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=eng#p12\">John 15:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.12?lang=eng#p12",
+          "text": "John 15:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154444717",
+        "id": "note24",
+        "text": "<p data-aid=\"154444824\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=eng#p27\">John 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.27?lang=eng#p27",
+          "text": "John 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154444714",
+        "id": "note23",
+        "text": "<p data-aid=\"154444821\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=eng#p21\">John 14:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.21?lang=eng#p21",
+          "text": "John 14:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154444711",
+        "id": "note22",
+        "text": "<p data-aid=\"154444817\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-40?lang=eng#p37\">Matthew 22:37\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.37-40?lang=eng#p37",
+          "text": "Matthew 22:37\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154444700",
+        "id": "note21",
+        "text": "<p data-aid=\"154444813\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.25-26?lang=eng#p25\">John 11:25\u201326<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.25-26?lang=eng#p25",
+          "text": "John 11:25\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154444691",
+        "id": "note20",
+        "text": "<p data-aid=\"154444809\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.16?lang=eng#p16\">John 10:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/10.16?lang=eng#p16",
+          "text": "John 10:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154444564",
+        "id": "note1",
+        "text": "<p data-aid=\"154444761\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/3.46?lang=eng#p46\">Joseph Smith Translation, Matthew 3:46<\/a> (in the Bible appendix); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=eng#p5\">Matthew 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=eng#p7\">Mark 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=eng#p7\">3 Nephi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-matt/3.46?lang=eng#p46",
+            "text": "Joseph Smith Translation, Matthew 3:46",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/17.5?lang=eng#p5",
+            "text": "Matthew 17:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/9.7?lang=eng#p7",
+            "text": "Mark 9:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.7?lang=eng#p7",
+            "text": "3 Nephi 11:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
+            "text": "Joseph Smith\u2014History 1:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154444741",
+        "id": "note29",
+        "text": "<p data-aid=\"154444846\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.18-21?lang=eng#p18\">3 Nephi 9:18\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9.18-21?lang=eng#p18",
+          "text": "3 Nephi 9:18\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154444733",
+        "id": "note28",
+        "text": "<p data-aid=\"154444842\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.15?lang=eng#p15\">3 Nephi 9:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9.15?lang=eng#p15",
+          "text": "3 Nephi 9:15",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

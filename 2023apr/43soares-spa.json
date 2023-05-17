@@ -1,0 +1,665 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/43soares?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "34083e9373ae45deadf722e6dc0592e6",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/43soares",
+      "data-aid": "154439072",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "b9481a7014cf4276aeea987fcbb199d5"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/56/2a/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Seguidores del Príncipe de Paz",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154439072",
+      {"key": "154439072"}
+    ],
+    [
+      "154480347",
+      {"key": "154480347"}
+    ],
+    [
+      "154480349",
+      {"key": "154480349"}
+    ],
+    [
+      "154480351",
+      {"key": "154480351"}
+    ],
+    [
+      "154480353",
+      {"key": "154480353"}
+    ],
+    [
+      "154480355",
+      {"key": "154480355"}
+    ],
+    [
+      "154480357",
+      {"key": "154480357"}
+    ],
+    [
+      "154480359",
+      {"key": "154480359"}
+    ],
+    [
+      "154480361",
+      {"key": "154480361"}
+    ],
+    [
+      "154480363",
+      {"key": "154480363"}
+    ],
+    [
+      "154480365",
+      {"key": "154480365"}
+    ],
+    [
+      "154480367",
+      {"key": "154480367"}
+    ],
+    [
+      "154480369",
+      {"key": "154480369"}
+    ],
+    [
+      "154480371",
+      {"key": "154480371"}
+    ],
+    [
+      "154480373",
+      {"key": "154480373"}
+    ],
+    [
+      "154480375",
+      {"key": "154480375"}
+    ],
+    [
+      "154480377",
+      {"key": "154480377"}
+    ],
+    [
+      "154480379",
+      {"key": "154480379"}
+    ],
+    [
+      "154480381",
+      {"key": "154480381"}
+    ],
+    [
+      "154480383",
+      {"key": "154480383"}
+    ],
+    [
+      "154480385",
+      {"key": "154480385"}
+    ],
+    [
+      "154480388",
+      {"key": "154480388"}
+    ],
+    [
+      "154480390",
+      {"key": "154480390"}
+    ],
+    [
+      "154480393",
+      {"key": "154480393"}
+    ],
+    [
+      "154480395",
+      {"key": "154480395"}
+    ],
+    [
+      "154480397",
+      {"key": "154480397"}
+    ],
+    [
+      "154480399",
+      {"key": "154480399"}
+    ],
+    [
+      "154480400",
+      {"key": "154480400"}
+    ],
+    [
+      "154480403",
+      {"key": "154480403"}
+    ],
+    [
+      "154480404",
+      {"key": "154480404"}
+    ],
+    [
+      "154480406",
+      {"key": "154480406"}
+    ],
+    [
+      "154480408",
+      {"key": "154480408"}
+    ],
+    [
+      "154480410",
+      {"key": "154480410"}
+    ],
+    [
+      "154480412",
+      {"key": "154480412"}
+    ],
+    [
+      "154480414",
+      {"key": "154480414"}
+    ],
+    [
+      "154480416",
+      {"key": "154480416"}
+    ],
+    [
+      "154480418",
+      {"key": "154480418"}
+    ],
+    [
+      "154480420",
+      {"key": "154480420"}
+    ],
+    [
+      "154480422",
+      {"key": "154480422"}
+    ],
+    [
+      "154480424",
+      {"key": "154480424"}
+    ],
+    [
+      "154480426",
+      {"key": "154480426"}
+    ],
+    [
+      "154480428",
+      {"key": "154480428"}
+    ],
+    [
+      "154480430",
+      {"key": "154480430"}
+    ],
+    [
+      "154480433",
+      {"key": "154480433"}
+    ],
+    [
+      "154480435",
+      {"key": "154480435"}
+    ],
+    [
+      "154480437",
+      {"key": "154480437"}
+    ],
+    [
+      "154480439",
+      {"key": "154480439"}
+    ],
+    [
+      "154480441",
+      {"key": "154480441"}
+    ],
+    [
+      "154480444",
+      {"key": "154480444"}
+    ],
+    [
+      "154480446",
+      {"key": "154480446"}
+    ],
+    [
+      "154480448",
+      {"key": "154480448"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/43soares",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Soares enseña sobre los atributos semejantes a los de Cristo que nos ayudan a promover la paz y llegar a ser verdaderos seguidores de Jesucristo.",
+          "title": "Seguidores del Príncipe de Paz"
+        },
+        "pageSocial": {
+          "description": "El élder Soares enseña sobre los atributos semejantes a los de Cristo que nos ayudan a promover la paz y llegar a ser verdaderos seguidores de Jesucristo.",
+          "title": "Seguidores del Príncipe de Paz"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/56/2a/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6.jpeg\" data-video-title=\"Seguidores del Príncipe de Paz\" data-video-description=\"El élder Soares enseña sobre los atributos semejantes a los de Cristo lo cuales nos ayudan a promover paz y llegar a ser verdaderos seguidores de Jesucristo.\" data-video-id=\"6323845428112\" data-ip=\"Download and Streaming                            \" data-duration=\"815449\" data-assetId=\"de959829d1a811edb7feeeeeac1eee9ea7121667\" data-ref-id=\"6D50BFB7080CFAF7F7E86918857EA7AA86C4368C\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323845428112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273276778\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"75726815\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"196478633\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273276778\"/><\/video><h1 data-aid=\"154480347\" id=\"title1\">Seguidores del Príncipe de Paz<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154480349\" id=\"author1\">Por el élder Ulisses Soares<\/p>\n<p class=\"author-role\" data-aid=\"154480351\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154480353\" id=\"kicker1\">Al esforzarnos por desarrollar atributos como los del Salvador, podemos convertirnos en instrumentos de Su paz en el mundo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154480355\" id=\"p1\">En cumplimiento de la profecía que se le dio a Zacarías<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, Jesús entró de manera triunfante en la Ciudad Santa montado sobre un asno, que en la literatura se consideraba como un \u201cantiguo símbolo de realeza judía\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, como correspondía de hecho al Rey de Reyes y Príncipe de Paz<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Lo rodeó una multitud de discípulos llenos de júbilo que tendían mantos, hojas de palma y otras ramas a lo largo del camino por donde pasaba Jesús. Ellos adoraban a Dios, diciendo a gran voz: ¡Bendito el Rey que viene en el nombre del Señor; paz en el cielo y gloria en las alturas!\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Y de nuevo: \u201c¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Hosanna en las alturas!\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Este majestuoso acontecimiento, que celebramos este día y que se conoce como Domingo de Ramos, fue un gozoso preludio de los sucesos atroces que ocurrirían durante aquella fatídica semana y que culminarían con el sacrificio abnegado del Salvador y el magnífico milagro de la tumba vacía.<\/p>\n<p data-aid=\"154480357\" id=\"p2\">Como seguidores Suyos, somos un pueblo adquirido por Él, llamado a anunciar Sus virtudes<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> y promover la paz que tan generosamente ofreció por medio de Sí mismo y de Su sacrificio expiatorio. Esta paz es un don prometido a todos los que vuelvan su corazón al Salvador y vivan con rectitud; tal paz nos brinda la fortaleza para disfrutar de la vida terrenal y nos permite soportar las dolorosas pruebas de nuestro trayecto.<\/p>\n<p data-aid=\"154480359\" id=\"p3\">En 1847, el Señor les dio instrucciones específicas a los pioneros santos que necesitaban paz para mantener la calma y permanecer unidos mientras enfrentaban dificultades inesperadas en su viaje hacia el oeste. Entre otras instrucciones, el Señor les dijo a los santos: \u201cCesad de contender unos con otros; cesad de hablar mal el uno contra el otro\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. En las Escrituras se afirma que, a los que realizan obras justas y se esfuerzan por caminar en la mansedumbre del Espíritu del Señor, se les promete la paz que necesitan para sobrevivir en los días de conmoción en los que vivimos en la actualidad<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"154480361\" id=\"p4\">Como discípulos del Príncipe de Paz, se nos ha instruido que vivamos \u201cteniendo entrelazados [los] corazones con unidad y amor el uno para con el otro\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Nuestro amado profeta, el presidente Russell M. Nelson, declaró hace poco: \u201cLa contención contraviene todo lo que el Salvador defendió y enseñó\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Nuestro profeta también imploró que hiciéramos todo lo posible por poner fin a los conflictos personales que actualmente se desatan en nuestro corazón y en nuestra vida<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"154480363\" id=\"p5\">Consideremos estos principios teniendo en cuenta el amor puro que Cristo nos profesa que nosotros, como seguidores Suyos, tratamos de tener los unos por los otros. En las Escrituras se define este tipo de amor como la caridad<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Cuando pensamos en la caridad, solemos pensar en actos generosos y donaciones para aliviar el sufrimiento de quienes atraviesan dificultades físicas, materiales o emocionales. Sin embargo, la caridad no solo está relacionada con algo que donamos a alguien, sino que es un atributo del Salvador y puede llegar a formar parte de nuestra personalidad. Por ello, no es de extrañar que el Señor nos mandara vestirnos \u201ccon el vínculo de la caridad, que es el vínculo de la perfección y de la paz\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Sin caridad, no somos nada<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> y no podemos heredar el lugar que el Señor nos ha preparado en las mansiones de nuestro Padre Celestial<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"154480365\" id=\"p6\">Jesús ejemplificó a la perfección lo que significa poseer este vínculo de la perfección y de la paz, en particular cuando afrontó los angustiosos acontecimientos que precedieron a Su martirio. Piensen por un instante en lo que Jesús habrá sentido al lavarles humildemente los pies a Sus discípulos, sabiendo que uno de ellos lo traicionaría esa misma noche<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\"><\/sup>16<\/a>; o cuando Jesús, horas más tarde y lleno de misericordia, sanó la oreja de uno de los hombres que habían acompañado a Judas, el traidor, para arrestarlo<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>; o cuando el Salvador, de pie frente a Pilato, fue acusado injustamente por los sumos sacerdotes y los ancianos, y no pronunció ni una sola palabra contra los falsos cargos que se le imputaban, dejando asombrado al gobernador romano<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"154480367\" id=\"p18\">Por medio de estos tres trágicos incidentes, el Salvador, a pesar de estar abrumado por una tristeza y estrés extremos, nos enseñó con Su ejemplo que \u201c[l]a caridad es sufrida, es benigna; [\u2026] no tiene envidia, [\u2026] no se jacta, no se envanece; no se comporta indebidamente, no busca lo suyo, no se irrita [y] no piensa el mal\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"154480369\" id=\"p7\">Otro aspecto importante para destacar, y que tiene implicaciones directas en nuestro discipulado y en cómo promovemos la paz del Salvador, es la forma en que nos tratamos unos a otros. Durante el ministerio terrenal del Salvador, Sus enseñanzas se centraron \u2014no exclusiva, pero sí particularmente\u2014 en las virtudes del amor, la caridad, la paciencia, la humildad y la compasión: atributos fundamentales de quienes desean acercarse más a Él y promover Su paz. Tales atributos son dones de Dios, y a medida que nos esforcemos por desarrollarlos, empezaremos a ver las diferencias y debilidades de nuestro prójimo con más empatía, sensibilidad, respeto y tolerancia. Uno de los signos más evidentes de que nos estamos acercando más al Salvador y de que estamos llegando a ser más semejantes a Él es la manera amorosa, paciente y amable con la que tratamos a nuestros semejantes, sean cuales sean las circunstancias.<\/p>\n<p data-aid=\"154480371\" id=\"p8\">A menudo vemos a personas que profieren comentarios negativos e incluso despectivos sobre las aparentes características, debilidades y opiniones de los demás, sobre todo cuando dichas características y opiniones difieren o contradicen su forma de actuar y pensar. Es muy común ver a estas personas transmitir esos comentarios a los demás, quienes repiten lo que han oído sin conocer realmente todas las circunstancias de una situación. Por desgracia, las redes sociales fomentan este tipo de comportamiento en nombre de las verdades relativas y la transparencia. Sin control, la conversación digital suele llevar a la gente a enzarzarse en ataques personales y disputas acaloradas, creando decepciones, hiriendo corazones y extendiendo una ardiente hostilidad.<\/p>\n<p data-aid=\"154480373\" id=\"p9\">Nefi profetizó que, en los últimos días, el enemigo enfurecería a la gente y la agitaría a la ira contra lo que es bueno<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. En las Escrituras se enseña que \u201ctodo aquello que invita e induce a hacer lo bueno, y a amar a Dios y a servirle, es inspirado por Dios\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Por otro lado, \u201clo que es malo viene del diablo; porque el diablo es enemigo de Dios, y lucha contra él continuamente, e invita e induce a pecar y a hacer lo que es malo sin cesar\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"154480375\" id=\"p10\">Al reflexionar sobre esta enseñanza profética, no es de sorprender que una de las tácticas del adversario sea suscitar enemistad y odio en los corazones de los hijos de Dios; y se regocija cuando ve a la gente criticándose, ridiculizándose y calumniándose entre sí. Este comportamiento puede destruir el carácter, la reputación y la autoestima de una persona, sobre todo cuando a la persona se la juzga injustamente. Es esencial señalar que cuando permitimos este tipo de actitud en nuestra vida, damos cabida en el corazón para que el enemigo plante la semilla de la discordia entre nosotros, corriendo el riesgo de caer en su trampa voraz.<\/p>\n<p data-aid=\"154480377\" id=\"p16\">Si no tenemos cuidado con nuestros pensamientos, palabras y acciones, podemos terminar siendo atrapados en esta astuta trampa del enemigo, destruyendo nuestras relaciones con quienes nos rodean y con nuestros seres queridos.<\/p>\n<p data-aid=\"154480379\" id=\"p17\">Hermanos y hermanas, como el pueblo adquirido del Señor, llamados para promover la paz, no podemos darnos el lujo de permitir que estas artimañas del maligno tengan lugar en nuestros corazones. No podemos llevar dentro de nosotros una carga tan corrosiva que destruya sentimientos, relaciones e incluso vidas. El Evangelio representa las buenas nuevas de gran gozo.<\/p>\n<p data-aid=\"154480381\" id=\"p11\">Por supuesto, ninguno de nosotros es perfecto, y ciertamente hay momentos en los que nos seduce este tipo de comportamiento, pero con Su amor perfecto y omnisciencia en cuanto a nuestras tendencias humanas, el Salvador siempre trata de advertirnos de tales peligros. Él nos enseñó: \u201cPorque con el juicio con que juzgáis seréis juzgados, y con la medida con que medís, se os volverá a medir\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"154480383\" id=\"p12\">Mis queridos hermanos y hermanas, al esforzarnos por desarrollar atributos como los del Salvador, podemos convertirnos en instrumentos de Su paz en el mundo, según el modelo que Él mismo estableció. Los invito a considerar las formas en que podemos transformarnos en personas que edifican y apoyan, personas que tienen un corazón comprensivo e indulgente, que buscan lo mejor en los demás, recordando siempre que \u201c[s]i hay algo virtuoso, o bello, o de buena reputación, o digno de alabanza, a esto aspiramos\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"154480385\" id=\"p13\">Les prometo que, a medida que procuremos y desarrollemos estos atributos, seremos cada vez más amables y más sensibles a las necesidades de nuestros semejantes<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> y experimentaremos gozo, paz y crecimiento espiritual<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Sin duda, el Señor reconocerá nuestros esfuerzos y nos concederá los dones que necesitamos para ser más tolerantes y pacientes con las diferencias, debilidades e imperfecciones de los demás. Asimismo, seremos más capaces de resistir el impulso de sentirnos ofendidos o de ofender a quienes nos hagan daño. Nuestro deseo de perdonar, como lo hizo el Salvador, de perdonar a quienes nos maltraten o hablen mal de nosotros seguramente aumentará y llegará a formar parte de nuestro carácter.<\/p>\n<p data-aid=\"154480388\" id=\"p14\">Ruego que hoy, este Domingo de Ramos, tendamos nuestros mantos de amor y las hojas de palma de la caridad, siguiendo los pasos del Príncipe de la Paz, mientras nos preparamos para celebrar el próximo domingo el milagro de la tumba vacía. Como hermanos y hermanas en Cristo, proclamemos con gozo: \u201c¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Hosanna en las alturas!\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"154480390\" id=\"p15\">Testifico que Jesucristo vive y que Su amor perfecto, expresado mediante Su sacrificio expiatorio, se extiende a todos los que deseen caminar con Él y disfrutar de Su paz en este mundo y en el venidero. Digo estas cosas en el santo nombre del Salvador y Redentor, Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154480393\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154480395\" id=\"note1_p3\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=spa#p9\">Zacarías 9:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154480397\" id=\"note2_p1\">En James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=22#p22\">Jesús el Cristo<\/a><\/cite>, 1975, pág. 544.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154480399\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-ps/24.9?lang=spa#p9\">Traducción de José Smith, Salmo 24:9<\/a> (en el Apéndice de la Biblia); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9.6?lang=spa#p6\">Isaías 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/6.15?lang=spa#p15\">1 Timoteo 6:15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/17.14?lang=spa#p14\">Apocalipsis 17:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.16?lang=spa#p16\">19:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/19.6?lang=spa#p6\">2 Nefi 19:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154480400\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19.38?lang=spa#p38\">Lucas 19:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154480403\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.8-10?lang=spa#p8\">Marcos 11:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.12-14?lang=spa#p12\">Juan 12:12\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154480404\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.9?lang=spa#p9\">1 Pedro 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154480406\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.23?lang=spa#p23\">Doctrina y Convenios 136:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154480408\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.7?lang=spa#p7\">Filipenses 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29?lang=spa#p29\">3 Nefi 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.23?lang=spa#p23\">59:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154480410\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=spa#p21\">Mosíah 18:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154480412\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=spa&amp;para=3#p3\">Predicar el Evangelio de paz<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 6.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154480414\" id=\"note11_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97, 100.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154480416\" id=\"note12_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=spa#p30\">2 Nefi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.7-9?lang=spa#p7\">33:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.33-34?lang=spa#p33\">Éter 12:33\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.47?lang=spa#p47\">Moroni 7:47<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154480418\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.125?lang=spa#p125\">Doctrina y Convenios 88:125<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154480420\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=spa#p30\">2 Nefi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.44-47?lang=spa#p44\">Moroni 7:44\u201347<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154480422\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.34?lang=spa#p34\">Éter 12:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.20-21?lang=spa#p20\">Moroni 10:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154480424\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.14-18?lang=spa#p14\">Juan 13:14\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154480426\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.50-51?lang=spa#p50\">Lucas 22:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.10-12?lang=spa#p10\">Juan 18:10\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154480428\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27.12-14?lang=spa#p12\">Mateo 27:12\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154480430\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.4-5?lang=spa#p4\">1 Corintios 13:4\u20135<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.45-47?lang=spa#p45\">Moroni 7:45\u201347<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154480433\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.20?lang=spa#p20\">2 Nefi 28:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154480435\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.13?lang=spa#p13\">Moroni 7:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154480437\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.12?lang=spa#p12\">Moroni 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154480439\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.2?lang=spa#p2\">Mateo 7:2<\/a>; véase también Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/tg/judge?lang=spa\">Juicio, juzgar<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154480441\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.13?lang=spa#p13\">Artículos de Fe 1:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154480444\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=spa#p17\">Mosíah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154480446\" id=\"note26_p1\">Véase \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa\">¿Cómo desarrollo atributos semejantes a los de Cristo?<\/a>\u201d, <cite>Predicad Mi Evangelio: Una guía para el servicio misional<\/cite>, 2019, págs. 115\u2013126.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154480448\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154480355",
+        "id": "note4",
+        "text": "<p data-aid=\"154480400\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19.38?lang=spa#p38\">Lucas 19:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/19.38?lang=spa#p38",
+          "text": "Lucas 19:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154480355",
+        "id": "note5",
+        "text": "<p data-aid=\"154480403\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.8-10?lang=spa#p8\">Marcos 11:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.12-14?lang=spa#p12\">Juan 12:12\u201314<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/21.9?lang=spa#p9",
+            "text": "Mateo 21:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/11.8-10?lang=spa#p8",
+            "text": "Marcos 11:8\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/12.12-14?lang=spa#p12",
+            "text": "Juan 12:12\u201314",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154480355",
+        "id": "note2",
+        "text": "<p data-aid=\"154480397\" id=\"note2_p1\">En James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=22#p22\">Jesús el Cristo<\/a><\/cite>, 1975, pág. 544.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=22#p22",
+          "text": "Jesús el Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154480355",
+        "id": "note3",
+        "text": "<p data-aid=\"154480399\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-ps/24.9?lang=spa#p9\">Traducción de José Smith, Salmo 24:9<\/a> (en el Apéndice de la Biblia); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9.6?lang=spa#p6\">Isaías 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/6.15?lang=spa#p15\">1 Timoteo 6:15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/17.14?lang=spa#p14\">Apocalipsis 17:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.16?lang=spa#p16\">19:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/19.6?lang=spa#p6\">2 Nefi 19:6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-ps/24.9?lang=spa#p9",
+            "text": "Traducción de José Smith, Salmo 24:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/9.6?lang=spa#p6",
+            "text": "Isaías 9:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-tim/6.15?lang=spa#p15",
+            "text": "1 Timoteo 6:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/17.14?lang=spa#p14",
+            "text": "Apocalipsis 17:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/19.16?lang=spa#p16",
+            "text": "19:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/19.6?lang=spa#p6",
+            "text": "2 Nefi 19:6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154480359",
+        "id": "note8",
+        "text": "<p data-aid=\"154480408\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.7?lang=spa#p7\">Filipenses 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29?lang=spa#p29\">3 Nefi 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.23?lang=spa#p23\">59:23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/philip/4.7?lang=spa#p7",
+            "text": "Filipenses 4:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.29?lang=spa#p29",
+            "text": "3 Nefi 11:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/19.23?lang=spa#p23",
+            "text": "Doctrina y Convenios 19:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59.23?lang=spa#p23",
+            "text": "59:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154480361",
+        "id": "note9",
+        "text": "<p data-aid=\"154480410\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=spa#p21\">Mosíah 18:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.21?lang=spa#p21",
+          "text": "Mosíah 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154480357",
+        "id": "note6",
+        "text": "<p data-aid=\"154480404\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.9?lang=spa#p9\">1 Pedro 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2.9?lang=spa#p9",
+          "text": "1 Pedro 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154480359",
+        "id": "note7",
+        "text": "<p data-aid=\"154480406\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.23?lang=spa#p23\">Doctrina y Convenios 136:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/136.23?lang=spa#p23",
+          "text": "Doctrina y Convenios 136:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "16",
+        "pid": "154480365",
+        "id": "note16",
+        "text": "<p data-aid=\"154480424\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.14-18?lang=spa#p14\">Juan 13:14\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13.14-18?lang=spa#p14",
+          "text": "Juan 13:14\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154480363",
+        "id": "note15",
+        "text": "<p data-aid=\"154480422\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.34?lang=spa#p34\">Éter 12:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.20-21?lang=spa#p20\">Moroni 10:20\u201321<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/12.34?lang=spa#p34",
+            "text": "Éter 12:34",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.20-21?lang=spa#p20",
+            "text": "Moroni 10:20\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154480363",
+        "id": "note14",
+        "text": "<p data-aid=\"154480420\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=spa#p30\">2 Nefi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.44-47?lang=spa#p44\">Moroni 7:44\u201347<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26.30?lang=spa#p30",
+            "text": "2 Nefi 26:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.44-47?lang=spa#p44",
+            "text": "Moroni 7:44\u201347",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154480363",
+        "id": "note13",
+        "text": "<p data-aid=\"154480418\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.125?lang=spa#p125\">Doctrina y Convenios 88:125<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.125?lang=spa#p125",
+          "text": "Doctrina y Convenios 88:125",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154480363",
+        "id": "note12",
+        "text": "<p data-aid=\"154480416\" id=\"note12_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=spa#p30\">2 Nefi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.7-9?lang=spa#p7\">33:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.33-34?lang=spa#p33\">Éter 12:33\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.47?lang=spa#p47\">Moroni 7:47<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26.30?lang=spa#p30",
+            "text": "2 Nefi 26:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/33.7-9?lang=spa#p7",
+            "text": "33:7\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12.33-34?lang=spa#p33",
+            "text": "Éter 12:33\u201334",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.47?lang=spa#p47",
+            "text": "Moroni 7:47",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154480361",
+        "id": "note11",
+        "text": "<p data-aid=\"154480414\" id=\"note11_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97, 100.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=spa",
+          "text": "El poder del ímpetu espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154480361",
+        "id": "note10",
+        "text": "<p data-aid=\"154480412\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=spa&amp;para=3#p3\">Predicar el Evangelio de paz<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/11nelson?lang=spa&amp;para=3#p3",
+          "text": "Predicar el Evangelio de paz",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154480367",
+        "id": "note19",
+        "text": "<p data-aid=\"154480430\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.4-5?lang=spa#p4\">1 Corintios 13:4\u20135<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.45-47?lang=spa#p45\">Moroni 7:45\u201347<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/13.4-5?lang=spa#p4",
+            "text": "1 Corintios 13:4\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.45-47?lang=spa#p45",
+            "text": "Moroni 7:45\u201347",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154480365",
+        "id": "note18",
+        "text": "<p data-aid=\"154480428\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27.12-14?lang=spa#p12\">Mateo 27:12\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/27.12-14?lang=spa#p12",
+          "text": "Mateo 27:12\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154480365",
+        "id": "note17",
+        "text": "<p data-aid=\"154480426\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.50-51?lang=spa#p50\">Lucas 22:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.10-12?lang=spa#p10\">Juan 18:10\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/22.50-51?lang=spa#p50",
+            "text": "Lucas 22:50\u201351",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/18.10-12?lang=spa#p10",
+            "text": "Juan 18:10\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154480388",
+        "id": "note27",
+        "text": "<p data-aid=\"154480448\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/21.9?lang=spa#p9",
+          "text": "Mateo 21:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154480385",
+        "id": "note26",
+        "text": "<p data-aid=\"154480446\" id=\"note26_p1\">Véase \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa\">¿Cómo desarrollo atributos semejantes a los de Cristo?<\/a>\u201d, <cite>Predicad Mi Evangelio: Una guía para el servicio misional<\/cite>, 2019, págs. 115\u2013126.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa",
+          "text": "¿Cómo desarrollo atributos semejantes a los de Cristo?",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154480385",
+        "id": "note25",
+        "text": "<p data-aid=\"154480444\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=spa#p17\">Mosíah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.17?lang=spa#p17",
+          "text": "Mosíah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154480383",
+        "id": "note24",
+        "text": "<p data-aid=\"154480441\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.13?lang=spa#p13\">Artículos de Fe 1:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.13?lang=spa#p13",
+          "text": "Artículos de Fe 1:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154480381",
+        "id": "note23",
+        "text": "<p data-aid=\"154480439\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.2?lang=spa#p2\">Mateo 7:2<\/a>; véase también Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/tg/judge?lang=spa\">Juicio, juzgar<\/a>\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/7.2?lang=spa#p2",
+            "text": "Mateo 7:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/tg/judge?lang=spa",
+            "text": "Juicio, juzgar",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154480373",
+        "id": "note22",
+        "text": "<p data-aid=\"154480437\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.12?lang=spa#p12\">Moroni 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.12?lang=spa#p12",
+          "text": "Moroni 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154480373",
+        "id": "note21",
+        "text": "<p data-aid=\"154480435\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.13?lang=spa#p13\">Moroni 7:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.13?lang=spa#p13",
+          "text": "Moroni 7:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154480373",
+        "id": "note20",
+        "text": "<p data-aid=\"154480433\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.20?lang=spa#p20\">2 Nefi 28:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/28.20?lang=spa#p20",
+          "text": "2 Nefi 28:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154480355",
+        "id": "note1",
+        "text": "<p data-aid=\"154480395\" id=\"note1_p3\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=spa#p9\">Zacarías 9:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/zech/9.9?lang=spa#p9",
+          "text": "Zacarías 9:9",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

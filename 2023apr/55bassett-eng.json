@@ -1,0 +1,682 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/55bassett?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "da957c1fc4604b05a211b4fc2005d763",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/55bassett",
+      "data-aid": "154444754",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "da957c1fc4604b05a211b4fc2005d763"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/65/3f/653f4ee6eb47b213ed05fb54f5f89c424fd45906/653f4ee6eb47b213ed05fb54f5f89c424fd45906.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5050-w-mark-bassett-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "After the Fourth Day",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444754",
+      {"key": "154444754"}
+    ],
+    [
+      "154444757",
+      {"key": "154444757"}
+    ],
+    [
+      "154444758",
+      {"key": "154444758"}
+    ],
+    [
+      "154444760",
+      {"key": "154444760"}
+    ],
+    [
+      "154444762",
+      {"key": "154444762"}
+    ],
+    [
+      "154444764",
+      {"key": "154444764"}
+    ],
+    [
+      "154444766",
+      {"key": "154444766"}
+    ],
+    [
+      "154444768",
+      {"key": "154444768"}
+    ],
+    [
+      "154444770",
+      {"key": "154444770"}
+    ],
+    [
+      "154444772",
+      {"key": "154444772"}
+    ],
+    [
+      "154444774",
+      {"key": "154444774"}
+    ],
+    [
+      "154444776",
+      {"key": "154444776"}
+    ],
+    [
+      "154444778",
+      {"key": "154444778"}
+    ],
+    [
+      "154444780",
+      {"key": "154444780"}
+    ],
+    [
+      "154444781",
+      {"key": "154444781"}
+    ],
+    [
+      "154444783",
+      {"key": "154444783"}
+    ],
+    [
+      "154444785",
+      {"key": "154444785"}
+    ],
+    [
+      "154444787",
+      {"key": "154444787"}
+    ],
+    [
+      "154444789",
+      {"key": "154444789"}
+    ],
+    [
+      "154444792",
+      {"key": "154444792"}
+    ],
+    [
+      "154444795",
+      {"key": "154444795"}
+    ],
+    [
+      "154444798",
+      {"key": "154444798"}
+    ],
+    [
+      "154444802",
+      {"key": "154444802"}
+    ],
+    [
+      "154444806",
+      {"key": "154444806"}
+    ],
+    [
+      "154444810",
+      {"key": "154444810"}
+    ],
+    [
+      "154444814",
+      {"key": "154444814"}
+    ],
+    [
+      "154444818",
+      {"key": "154444818"}
+    ],
+    [
+      "154444822",
+      {"key": "154444822"}
+    ],
+    [
+      "154444826",
+      {"key": "154444826"}
+    ],
+    [
+      "154444830",
+      {"key": "154444830"}
+    ],
+    [
+      "154444831",
+      {"key": "154444831"}
+    ],
+    [
+      "154444835",
+      {"key": "154444835"}
+    ],
+    [
+      "154444839",
+      {"key": "154444839"}
+    ],
+    [
+      "154444843",
+      {"key": "154444843"}
+    ],
+    [
+      "154444849",
+      {"key": "154444849"}
+    ],
+    [
+      "154444853",
+      {"key": "154444853"}
+    ],
+    [
+      "154444857",
+      {"key": "154444857"}
+    ],
+    [
+      "154444861",
+      {"key": "154444861"}
+    ],
+    [
+      "154444865",
+      {"key": "154444865"}
+    ],
+    [
+      "154444869",
+      {"key": "154444869"}
+    ],
+    [
+      "154444872",
+      {"key": "154444872"}
+    ],
+    [
+      "154444878",
+      {"key": "154444878"}
+    ],
+    [
+      "154444881",
+      {"key": "154444881"}
+    ],
+    [
+      "154444884",
+      {"key": "154444884"}
+    ],
+    [
+      "154444887",
+      {"key": "154444887"}
+    ],
+    [
+      "154444891",
+      {"key": "154444891"}
+    ],
+    [
+      "154444894",
+      {"key": "154444894"}
+    ],
+    [
+      "154444898",
+      {"key": "154444898"}
+    ],
+    [
+      "154444901",
+      {"key": "154444901"}
+    ],
+    [
+      "154444903",
+      {"key": "154444903"}
+    ],
+    [
+      "154444906",
+      {"key": "154444906"}
+    ],
+    [
+      "154444908",
+      {"key": "154444908"}
+    ],
+    [
+      "154444912",
+      {"key": "154444912"}
+    ],
+    [
+      "154444916",
+      {"key": "154444916"}
+    ],
+    [
+      "154444918",
+      {"key": "154444918"}
+    ],
+    [
+      "154444921",
+      {"key": "154444921"}
+    ],
+    [
+      "154444924",
+      {"key": "154444924"}
+    ],
+    [
+      "154444927",
+      {"key": "154444927"}
+    ],
+    [
+      "154444930",
+      {"key": "154444930"}
+    ],
+    [
+      "154444933",
+      {"key": "154444933"}
+    ],
+    [
+      "154444936",
+      {"key": "154444936"}
+    ],
+    [
+      "154444940",
+      {"key": "154444940"}
+    ],
+    [
+      "154444942",
+      {"key": "154444942"}
+    ],
+    [
+      "154444945",
+      {"key": "154444945"}
+    ],
+    [
+      "154444948",
+      {"key": "154444948"}
+    ],
+    [
+      "154444951",
+      {"key": "154444951"}
+    ],
+    [
+      "154444955",
+      {"key": "154444955"}
+    ],
+    [
+      "154444958",
+      {"key": "154444958"}
+    ],
+    [
+      "154444961",
+      {"key": "154444961"}
+    ],
+    [
+      "154444964",
+      {"key": "154444964"}
+    ],
+    [
+      "154444965",
+      {"key": "154444965"}
+    ],
+    [
+      "154444970",
+      {"key": "154444970"}
+    ],
+    [
+      "154444971",
+      {"key": "154444971"}
+    ],
+    [
+      "154444975",
+      {"key": "154444975"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/55bassett",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Bassett teaches that as we keep the commandments and do all that we can do, Jesus Christ will work miracles in our lives.",
+          "title": "After the Fourth Day"
+        },
+        "pageSocial": {
+          "description": "Elder Bassett teaches that as we keep the commandments and do all that we can do, Jesus Christ will work miracles in our lives.",
+          "title": "After the Fourth Day"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/65/3f/653f4ee6eb47b213ed05fb54f5f89c424fd45906/653f4ee6eb47b213ed05fb54f5f89c424fd45906.jpeg\" data-video-title=\"After the Fourth Day\" data-video-description=\"Elder Bassett teaches that as we keep the commandments and do all that we can do, Jesus Christ will work miracles in our lives.\" data-video-id=\"6323846890112\" data-ip=\"Download and Streaming                            \" data-duration=\"643244\" data-assetId=\"ec9a4bf3d1a411ed9082eeeeac1eb64909d83598\" data-ref-id=\"5601907252AA147B166425834F9B46D0877512DC\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323846890112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"214043136\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5050-w-mark-bassett-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"59286634\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5050-w-mark-bassett-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"154578299\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5050-w-mark-bassett-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"214043136\"/><\/video><h1 data-aid=\"154444757\" id=\"title1\">After the Fourth Day<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444758\" id=\"author1\">By Elder W. Mark Bassett<\/p>\n<p class=\"author-role\" data-aid=\"154444760\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154444762\" id=\"kicker1\">As we move forward with faith in Jesus Christ, the fourth day will always come. He will always come to our aid.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154444764\" id=\"p1\">As we have been reminded this morning, today is Palm Sunday, marking the Savior\u2019s triumphal entry into Jerusalem and the beginning of that holy week preceding His great Atonement, which would include His suffering, Crucifixion, and Resurrection.<\/p>\n<p data-aid=\"154444766\" id=\"p2\">Not long before His prophesied entry into the city, Jesus Christ was fully engaged in His ministry when He received word from His dear friends Mary and Martha that their brother Lazarus was sick.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"154444768\" id=\"p3\">Although Lazarus\u2019s illness was serious, the Lord \u201cabode two days still in the same place where he was. Then after that saith he to his disciples, Let us go into Judea again.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Before beginning the journey to His friends\u2019 home in Bethany, \u201csaid Jesus unto [His disciples] plainly, Lazarus is dead.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"154444770\" id=\"p4\">When Jesus came into Bethany and met first Martha and then Mary, perhaps out of frustration for His late arrival, they each greeted Him saying, \u201cLord, if thou hadst been here, my brother had not died.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Martha further exclaimed, \u201cBy this time he stinketh: for he hath been dead four days.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"154444772\" id=\"p5\">These four days were significant to Mary and Martha. According to some rabbinic schools of thought, it was believed that the spirit of someone who died would remain with the body for three days, offering hope that life was still possible. However, by the fourth day that hope was lost, perhaps because the body would begin to decay and \u201cstinketh.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"154444774\" id=\"p6\">Mary and Martha were in a state of despair. \u201cWhen Jesus therefore saw [Mary] weeping, \u2026 he groaned in the spirit, and was troubled,<\/p>\n<p data-aid=\"154444776\" id=\"p7\">\u201cAnd said, Where have ye laid him? They said unto him, Lord, come and see.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"154444778\" id=\"p10\">It is at this moment that we see one of the great miracles during the Savior\u2019s mortal ministry. First the Lord said, \u201cTake ye away the stone.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> Then, after thanking His Father, \u201che cried with a loud voice, Lazarus, come forth.<\/p>\n<p data-aid=\"154444780\" id=\"p11\">\u201cAnd he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"154444781\" id=\"p12\">Like Mary and Martha, we have the opportunity to experience all of mortality, even sorrow<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> and weakness.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Each of us will experience the heartache that accompanies the loss of someone we love. Our mortal journey might include personal illness or the debilitating illness of a loved one; depression, anxiety, or other mental health challenges; financial hardship; betrayal; sin. And sometimes these are accompanied by feelings of hopelessness. I am no different. Like you, I have experienced a myriad of challenges that are expected in this life. I am drawn to this account about the Savior and what it teaches me about our relationship with Him.<\/p>\n<p data-aid=\"154444783\" id=\"p13\">During our greatest worries, we, like Mary and Martha, seek the Savior or ask the Father for His divine intervention. The story of Lazarus teaches us principles that can be applied to our own lives as we face our individual challenges.<\/p>\n<p data-aid=\"154444785\" id=\"p14\">When the Savior arrived in Bethany, all had lost hope that Lazarus could be saved\u2014it had been four days, and he was gone. Sometimes during our own challenges, we might feel like Christ is too late, and our hope and faith might even feel challenged. My witness and testimony are that as we move forward with faith in Jesus Christ, the fourth day will always come. He will always come to our aid or to raise our hopes back to life. He has promised:<\/p>\n<p data-aid=\"154444787\" id=\"p32\">\u201cLet not your heart be troubled.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"154444789\" id=\"p33\">\u201cI will not leave you comfortless: I will come to you.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"154444792\" id=\"p34\">Sometimes it may seem like He doesn\u2019t come to us until the figurative fourth day, after all hope seems lost. But why so late? President Thomas S. Monson taught, \u201cOur Heavenly Father, who gives us so much to delight in, also knows that we learn and grow and become stronger as we face and survive the trials through which we must pass.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"154444795\" id=\"p15\">Even the Prophet Joseph Smith faced an enormous fourth-day experience. Remember his pleading? \u201cO God, where art thou? And where is the pavilion that covereth thy hiding place?\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> As we trust in Him, we can expect a like answer: \u201cMy son [or daughter], peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"154444798\" id=\"p16\">Another message we can learn from the story of Lazarus is what our own role might be in the divine intervention we seek. When Jesus approached the tomb, He <em>first<\/em> said to those who were there, \u201cTake ye away the stone.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> With the power that the Savior had, could not <em>He<\/em> have miraculously moved the stone without effort? This would have been impressive to see and an unforgettable experience, yet He said to the others, \u201cTake ye away the stone.\u201d<\/p>\n<p data-aid=\"154444802\" id=\"p35\"><em>Second<\/em>, the Lord \u201ccried with a loud voice, Lazarus, come forth.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> Wouldn\u2019t it have been more impressive if the Lord had Himself miraculously placed Lazarus at the opening so he would be immediately visible to the crowd when the stone was removed?<\/p>\n<p data-aid=\"154444806\" id=\"p36\"><em>Third<\/em>, when Lazarus did come forth, he was \u201cbound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> I\u2019m sure the Lord was capable of having Lazarus standing at the opening, already clean and approachable, with his graveclothes nicely folded.<\/p>\n<p data-aid=\"154444810\" id=\"p17\">What is the point of highlighting these aspects? Each of these three things had something in common\u2014none required the use of Christ\u2019s divine power. That which His disciples could do, He instructed <em>them<\/em> to do. The disciples were certainly capable of moving the stone themselves; Lazarus, after being raised, had the capacity to stand and present himself at the opening of the cave; and those who loved Lazarus could absolutely help him remove the graveclothes.<\/p>\n<p data-aid=\"154444814\" id=\"p18\">However, it was only the Christ who had the power and authority to raise Lazarus from the dead. My impression is that the Savior expects us to do all we can do, and He will do what <em>only He<\/em> can do.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"154444818\" id=\"p19\">We know that \u201cfaith [in the Lord Jesus Christ] is a principle of action\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> and \u201cmiracles do not produce faith, but strong faith is developed by obedience to the gospel of Jesus Christ. In other words, faith comes by righteousness.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> As we strive to act righteously by making and keeping sacred covenants and applying the doctrine of Christ in our lives, our faith will not only be sufficient to carry us to the fourth day, but with the Lord\u2019s help we will also be capable of moving stones that are in our path, arising from despair, and loosening ourselves of all that binds us. While the Lord expects us to \u201cdo all things that lie in our power,\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> remember that He will provide needed help in all these things as we trust in Him.<\/p>\n<p data-aid=\"154444822\" id=\"p20\">How can we move stones and build upon His rock?<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> We can abide by the <strong>counsel<\/strong> of prophets.<\/p>\n<p data-aid=\"154444826\" id=\"p21\">For example, last October, President Russell M. Nelson pleaded with us to take charge of our own testimonies of the Savior and His gospel, to work for them and nurture them, to feed them truth, and to avoid polluting them with false philosophies of unbelievers. He promised each of us, \u201cAs you make the continual strengthening of your testimony of Jesus Christ your highest priority, watch for miracles to happen in your life.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"154444830\" id=\"p22\"><em>We can do this!<\/em><\/p>\n<p data-aid=\"154444831\" id=\"p23\">How can we figuratively arise and come forth? We can joyfully repent and choose to obey <strong>commandments<\/strong>. The Lord said, \u201cHe that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> We can strive to repent daily and joyfully move forward with a willing heart full of love for the Lord.<\/p>\n<p data-aid=\"154444835\" id=\"p24\"><em>We can do this!<\/em><\/p>\n<p data-aid=\"154444839\" id=\"p25\">How can we, with the Lord\u2019s help, loose ourselves of all that binds us? We can intentionally bind ourselves first and foremost to our Heavenly Father and His Son, Jesus Christ, through <strong>covenants<\/strong>. Elder D. Todd Christofferson taught: \u201cWhat is the source of [our] moral and spiritual power, and how do we obtain it? The source is God. Our access to that power is through our covenants with Him. \u2026 In these divine agreements, God binds Himself to sustain, sanctify, and exalt us in return for our commitment to serve Him and keep His commandments.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> We can make and keep sacred covenants.<\/p>\n<p data-aid=\"154444843\" id=\"p26\"><em>We can do this!<\/em><\/p>\n<p data-aid=\"154444849\" id=\"p27\">\u201cTake ye away the stone.\u201d \u201cCome forth.\u201d \u201cLoose him, and let him go.\u201d<\/p>\n<p data-aid=\"154444853\" id=\"p28\">Counsels, commandments, and covenants. <em>We can do this!<\/em><\/p>\n<p data-aid=\"154444857\" id=\"p29\">Elder Jeffrey R. Holland promised, \u201cSome blessings come soon, some come late, and some don\u2019t come until heaven; but for those who embrace the gospel of Jesus Christ, <em>they come<\/em>.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"154444861\" id=\"p30\">And finally, \u201cWherefore, be of good cheer, and do not fear, for I the Lord am with you, and will stand by you.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"154444865\" id=\"p31\">This is my witness and testimony, in the sacred name of Him who will always come, even Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154444869\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154444872\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.3?lang=eng#p3\">John 11:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154444878\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.6-7?lang=eng#p6\">John 11:6\u20137<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154444881\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.14?lang=eng#p14\">John 11:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154444884\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.21,32?lang=eng#p21\">John 11:21, 32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154444887\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154444891\" id=\"note6_p1\">\u201cThe soul, according to Jewish belief, lingered in the vicinity of the body three days after death. According to Jewish conviction, consequently, a resuscitation of one who had died was impossible on the fourth day, since the soul would not enter again into the body that had altered its position. It was all the more impressive for the witnesses of the miracle that Jesus raised Lazarus on the fourth day. The fourth day thus has a special meaning here and is taken over deliberately by the narrator for use in connection with the greatest of all possible resurrection miracles\u201d (Ernst Haenchen, <cite>John 2: A Commentary on the Gospel of John, Chapters 7\u201321<\/cite>, ed. Robert W. Funk and Ulrich Busse, trans. Robert W. Funk [1984], 60\u201361).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154444894\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.33-34?lang=eng#p33\">John 11:33\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154444898\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154444901\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.43-44?lang=eng#p43\">John 11:43\u201344<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154444903\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4.22-25?lang=eng#p22\">Moses 4:22\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154444906\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=eng#p27\">Ether 12:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154444908\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.1?lang=eng#p1\">John 14:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154444912\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.18?lang=eng#p18\">John 14:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154444916\" id=\"note14_p1\">Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23\">I Will Not Fail Thee, nor Forsake Thee<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2013, 87. President Monson further explained: \u201cWe know that there are times when we will experience heartbreaking sorrow, when we will grieve, and when we may be tested to our limits. However, such difficulties allow us to change for the better, to rebuild our lives in the way our Heavenly Father teaches us, and to become something different from what we were\u2014better than we were, more understanding than we were, more empathetic than we were, with stronger testimonies than we had before\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23\">I Will Not Fail Thee, Nor Forsake Thee<\/a>,\u201d 87). See also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.119?lang=eng#p119\">Doctrine and Covenants 84:119<\/a>: \u201cFor I, the Lord, have put forth my hand to exert the powers of heaven; ye cannot see it now, yet a little while and ye shall see it, and know that I am, and that I will come.\u201d<\/p>\n<p data-aid=\"154444918\" id=\"note14_p2\">See also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.21-24?lang=eng#p21\">Mosiah 23:21\u201324<\/a>:<\/p>\n<p data-aid=\"154444921\" id=\"note14_p3\">\u201cNevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.<\/p>\n<p data-aid=\"154444924\" id=\"note14_p4\">\u201cNevertheless\u2014whosoever putteth his trust in him the same shall be lifted up at the last day. Yea, and thus it was with this people.<\/p>\n<p data-aid=\"154444927\" id=\"note14_p5\">\u201cFor behold, I will show unto you that they were brought into bondage, and none could deliver them but the Lord their God, yea, even the God of Abraham and Isaac and of Jacob.<\/p>\n<p data-aid=\"154444930\" id=\"note14_p6\">\u201cAnd it came to pass that he did deliver them, and he did show forth his mighty power unto them, and great were their rejoicings.\u201d<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154444933\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.1?lang=eng#p1\">Doctrine and Covenants 121:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154444936\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.7?lang=eng#p7\">Doctrine and Covenants 121:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154444940\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154444942\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.43?lang=eng#p43\">John 11:43<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154444945\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.44?lang=eng#p44\">John 11:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154444948\" id=\"note20_p1\">President Russell M. Nelson remarked: \u201cOften, my counselors and I have watched through tear-brimmed eyes as He has interceded in extremely challenging circumstances after we had done our best and could do no more. We do indeed stand all amazed\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng&amp;para=4#p4\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 6).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154444951\" id=\"note21_p1\">Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/faith?lang=eng\">Faith<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154444955\" id=\"note22_p1\">Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/faith?lang=eng\">Faith<\/a>,\u201d scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154444958\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.17?lang=eng#p17\">Doctrine and Covenants 123:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154444961\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32-39?lang=eng#p32\">3 Nephi 11:32\u201339<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154444964\" id=\"note25_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=30#p30\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 97.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154444965\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=eng#p21\">John 14:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154444970\" id=\"note27_p1\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2009/04/the-power-of-covenants?lang=eng&amp;para=12#p12\">The Power of Covenants<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2009, 20.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154444971\" id=\"note28_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng&amp;para=26#p26\">An High Priest of Good Things to Come<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1999, 38; <cite>Liahona<\/cite>, Jan. 2000, 45.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154444975\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154444770",
+        "id": "note4",
+        "text": "<p data-aid=\"154444884\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.21,32?lang=eng#p21\">John 11:21, 32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.21,32?lang=eng#p21",
+          "text": "John 11:21, 32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154444770",
+        "id": "note5",
+        "text": "<p data-aid=\"154444887\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.39?lang=eng#p39",
+          "text": "John 11:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154444768",
+        "id": "note2",
+        "text": "<p data-aid=\"154444878\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.6-7?lang=eng#p6\">John 11:6\u20137<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.6-7?lang=eng#p6",
+          "text": "John 11:6\u20137",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154444768",
+        "id": "note3",
+        "text": "<p data-aid=\"154444881\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.14?lang=eng#p14\">John 11:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.14?lang=eng#p14",
+          "text": "John 11:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154444778",
+        "id": "note8",
+        "text": "<p data-aid=\"154444898\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.39?lang=eng#p39",
+          "text": "John 11:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154444780",
+        "id": "note9",
+        "text": "<p data-aid=\"154444901\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.43-44?lang=eng#p43\">John 11:43\u201344<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.43-44?lang=eng#p43",
+          "text": "John 11:43\u201344",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154444772",
+        "id": "note6",
+        "text": "<p data-aid=\"154444891\" id=\"note6_p1\">\u201cThe soul, according to Jewish belief, lingered in the vicinity of the body three days after death. According to Jewish conviction, consequently, a resuscitation of one who had died was impossible on the fourth day, since the soul would not enter again into the body that had altered its position. It was all the more impressive for the witnesses of the miracle that Jesus raised Lazarus on the fourth day. The fourth day thus has a special meaning here and is taken over deliberately by the narrator for use in connection with the greatest of all possible resurrection miracles\u201d (Ernst Haenchen, <cite>John 2: A Commentary on the Gospel of John, Chapters 7\u201321<\/cite>, ed. Robert W. Funk and Ulrich Busse, trans. Robert W. Funk [1984], 60\u201361).<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154444776",
+        "id": "note7",
+        "text": "<p data-aid=\"154444894\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.33-34?lang=eng#p33\">John 11:33\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.33-34?lang=eng#p33",
+          "text": "John 11:33\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154444795",
+        "id": "note16",
+        "text": "<p data-aid=\"154444936\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.7?lang=eng#p7\">Doctrine and Covenants 121:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.7?lang=eng#p7",
+          "text": "Doctrine and Covenants 121:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154444795",
+        "id": "note15",
+        "text": "<p data-aid=\"154444933\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.1?lang=eng#p1\">Doctrine and Covenants 121:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.1?lang=eng#p1",
+          "text": "Doctrine and Covenants 121:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154444792",
+        "id": "note14",
+        "text": "<p data-aid=\"154444916\" id=\"note14_p1\">Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23\">I Will Not Fail Thee, nor Forsake Thee<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2013, 87. President Monson further explained: \u201cWe know that there are times when we will experience heartbreaking sorrow, when we will grieve, and when we may be tested to our limits. However, such difficulties allow us to change for the better, to rebuild our lives in the way our Heavenly Father teaches us, and to become something different from what we were\u2014better than we were, more understanding than we were, more empathetic than we were, with stronger testimonies than we had before\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23\">I Will Not Fail Thee, Nor Forsake Thee<\/a>,\u201d 87). See also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.119?lang=eng#p119\">Doctrine and Covenants 84:119<\/a>: \u201cFor I, the Lord, have put forth my hand to exert the powers of heaven; ye cannot see it now, yet a little while and ye shall see it, and know that I am, and that I will come.\u201d<\/p>\n<p data-aid=\"154444918\" id=\"note14_p2\">See also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.21-24?lang=eng#p21\">Mosiah 23:21\u201324<\/a>:<\/p>\n<p data-aid=\"154444921\" id=\"note14_p3\">\u201cNevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.<\/p>\n<p data-aid=\"154444924\" id=\"note14_p4\">\u201cNevertheless\u2014whosoever putteth his trust in him the same shall be lifted up at the last day. Yea, and thus it was with this people.<\/p>\n<p data-aid=\"154444927\" id=\"note14_p5\">\u201cFor behold, I will show unto you that they were brought into bondage, and none could deliver them but the Lord their God, yea, even the God of Abraham and Isaac and of Jacob.<\/p>\n<p data-aid=\"154444930\" id=\"note14_p6\">\u201cAnd it came to pass that he did deliver them, and he did show forth his mighty power unto them, and great were their rejoicings.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23",
+            "text": "I Will Not Fail Thee, nor Forsake Thee",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;para=23#p23",
+            "text": "I Will Not Fail Thee, Nor Forsake Thee",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.119?lang=eng#p119",
+            "text": "Doctrine and Covenants 84:119",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/23.21-24?lang=eng#p21",
+            "text": "Mosiah 23:21\u201324",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154444789",
+        "id": "note13",
+        "text": "<p data-aid=\"154444912\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.18?lang=eng#p18\">John 14:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.18?lang=eng#p18",
+          "text": "John 14:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154444787",
+        "id": "note12",
+        "text": "<p data-aid=\"154444908\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.1?lang=eng#p1\">John 14:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.1?lang=eng#p1",
+          "text": "John 14:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154444781",
+        "id": "note11",
+        "text": "<p data-aid=\"154444906\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=eng#p27\">Ether 12:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12.27?lang=eng#p27",
+          "text": "Ether 12:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154444781",
+        "id": "note10",
+        "text": "<p data-aid=\"154444903\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4.22-25?lang=eng#p22\">Moses 4:22\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/4.22-25?lang=eng#p22",
+          "text": "Moses 4:22\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154444806",
+        "id": "note19",
+        "text": "<p data-aid=\"154444945\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.44?lang=eng#p44\">John 11:44<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.44?lang=eng#p44",
+          "text": "John 11:44",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154444802",
+        "id": "note18",
+        "text": "<p data-aid=\"154444942\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.43?lang=eng#p43\">John 11:43<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.43?lang=eng#p43",
+          "text": "John 11:43",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154444798",
+        "id": "note17",
+        "text": "<p data-aid=\"154444940\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.39?lang=eng#p39\">John 11:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.39?lang=eng#p39",
+          "text": "John 11:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154444839",
+        "id": "note27",
+        "text": "<p data-aid=\"154444970\" id=\"note27_p1\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2009/04/the-power-of-covenants?lang=eng&amp;para=12#p12\">The Power of Covenants<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2009, 20.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2009/04/the-power-of-covenants?lang=eng&amp;para=12#p12",
+          "text": "The Power of Covenants",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154444831",
+        "id": "note26",
+        "text": "<p data-aid=\"154444965\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=eng#p21\">John 14:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.21?lang=eng#p21",
+          "text": "John 14:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154444826",
+        "id": "note25",
+        "text": "<p data-aid=\"154444964\" id=\"note25_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=30#p30\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;para=30#p30",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154444822",
+        "id": "note24",
+        "text": "<p data-aid=\"154444961\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32-39?lang=eng#p32\">3 Nephi 11:32\u201339<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.32-39?lang=eng#p32",
+          "text": "3 Nephi 11:32\u201339",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154444818",
+        "id": "note23",
+        "text": "<p data-aid=\"154444958\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.17?lang=eng#p17\">Doctrine and Covenants 123:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/123.17?lang=eng#p17",
+          "text": "Doctrine and Covenants 123:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154444818",
+        "id": "note22",
+        "text": "<p data-aid=\"154444955\" id=\"note22_p1\">Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/faith?lang=eng\">Faith<\/a>,\u201d scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/faith?lang=eng",
+          "text": "Faith",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154444818",
+        "id": "note21",
+        "text": "<p data-aid=\"154444951\" id=\"note21_p1\">Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/faith?lang=eng\">Faith<\/a>.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/faith?lang=eng",
+          "text": "Faith",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154444814",
+        "id": "note20",
+        "text": "<p data-aid=\"154444948\" id=\"note20_p1\">President Russell M. Nelson remarked: \u201cOften, my counselors and I have watched through tear-brimmed eyes as He has interceded in extremely challenging circumstances after we had done our best and could do no more. We do indeed stand all amazed\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng&amp;para=4#p4\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 6).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/11nelson?lang=eng&amp;para=4#p4",
+          "text": "Welcome Message",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154444766",
+        "id": "note1",
+        "text": "<p data-aid=\"154444872\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.3?lang=eng#p3\">John 11:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.3?lang=eng#p3",
+          "text": "John 11:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154444861",
+        "id": "note29",
+        "text": "<p data-aid=\"154444975\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68.6?lang=eng#p6\">Doctrine and Covenants 68:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68.6?lang=eng#p6",
+          "text": "Doctrine and Covenants 68:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154444857",
+        "id": "note28",
+        "text": "<p data-aid=\"154444971\" id=\"note28_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng&amp;para=26#p26\">An High Priest of Good Things to Come<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1999, 38; <cite>Liahona<\/cite>, Jan. 2000, 45.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng&amp;para=26#p26",
+          "text": "An High Priest of Good Things to Come",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

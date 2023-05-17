@@ -1,0 +1,778 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/15andersen?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "92ae3fb362fb449694173d242e9a88a5",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/15andersen",
+      "data-aid": "149807196",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "92ae3fb362fb449694173d242e9a88a5"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/3d/66/3d662f4982c6a118b8c47e09e0d32ad978b8719a/3d662f4982c6a118b8c47e09e0d32ad978b8719a.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1050-neil-l-andersen-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Following Jesus: Being a Peacemaker",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149807196",
+      {"key": "149807196"}
+    ],
+    [
+      "149807199",
+      {"key": "149807199"}
+    ],
+    [
+      "149807201",
+      {"key": "149807201"}
+    ],
+    [
+      "149807203",
+      {"key": "149807203"}
+    ],
+    [
+      "149807205",
+      {"key": "149807205"}
+    ],
+    [
+      "149807207",
+      {"key": "149807207"}
+    ],
+    [
+      "149807208",
+      {"key": "149807208"}
+    ],
+    [
+      "149807212",
+      {"key": "149807212"}
+    ],
+    [
+      "149807214",
+      {"key": "149807214"}
+    ],
+    [
+      "149807217",
+      {"key": "149807217"}
+    ],
+    [
+      "149807219",
+      {"key": "149807219"}
+    ],
+    [
+      "149807222",
+      {"key": "149807222"}
+    ],
+    [
+      "149807225",
+      {"key": "149807225"}
+    ],
+    [
+      "149807227",
+      {"key": "149807227"}
+    ],
+    [
+      "149807230",
+      {"key": "149807230"}
+    ],
+    [
+      "149807233",
+      {"key": "149807233"}
+    ],
+    [
+      "149807236",
+      {"key": "149807236"}
+    ],
+    [
+      "149807239",
+      {"key": "149807239"}
+    ],
+    [
+      "149807242",
+      {"key": "149807242"}
+    ],
+    [
+      "149807245",
+      {"key": "149807245"}
+    ],
+    [
+      "149807248",
+      {"key": "149807248"}
+    ],
+    [
+      "149807250",
+      {"key": "149807250"}
+    ],
+    [
+      "149807253",
+      {"key": "149807253"}
+    ],
+    [
+      "149807255",
+      {"key": "149807255"}
+    ],
+    [
+      "149807258",
+      {"key": "149807258"}
+    ],
+    [
+      "149807261",
+      {"key": "149807261"}
+    ],
+    [
+      "149807265",
+      {"key": "149807265"}
+    ],
+    [
+      "149807269",
+      {"key": "149807269"}
+    ],
+    [
+      "149807273",
+      {"key": "149807273"}
+    ],
+    [
+      "149807277",
+      {"key": "149807277"}
+    ],
+    [
+      "149807279",
+      {"key": "149807279"}
+    ],
+    [
+      "149807283",
+      {"key": "149807283"}
+    ],
+    [
+      "149807287",
+      {"key": "149807287"}
+    ],
+    [
+      "149807291",
+      {"key": "149807291"}
+    ],
+    [
+      "149807295",
+      {"key": "149807295"}
+    ],
+    [
+      "149807299",
+      {"key": "149807299"}
+    ],
+    [
+      "149807303",
+      {"key": "149807303"}
+    ],
+    [
+      "149807307",
+      {"key": "149807307"}
+    ],
+    [
+      "149807308",
+      {"key": "149807308"}
+    ],
+    [
+      "149807310",
+      {"key": "149807310"}
+    ],
+    [
+      "149807315",
+      {"key": "149807315"}
+    ],
+    [
+      "149807319",
+      {"key": "149807319"}
+    ],
+    [
+      "149807325",
+      {"key": "149807325"}
+    ],
+    [
+      "149807329",
+      {"key": "149807329"}
+    ],
+    [
+      "149807331",
+      {"key": "149807331"}
+    ],
+    [
+      "149807337",
+      {"key": "149807337"}
+    ],
+    [
+      "149807339",
+      {"key": "149807339"}
+    ],
+    [
+      "149807344",
+      {"key": "149807344"}
+    ],
+    [
+      "149807349",
+      {"key": "149807349"}
+    ],
+    [
+      "149807354",
+      {"key": "149807354"}
+    ],
+    [
+      "149807357",
+      {"key": "149807357"}
+    ],
+    [
+      "149807362",
+      {"key": "149807362"}
+    ],
+    [
+      "149807365",
+      {"key": "149807365"}
+    ],
+    [
+      "149807370",
+      {"key": "149807370"}
+    ],
+    [
+      "149807372",
+      {"key": "149807372"}
+    ],
+    [
+      "149807377",
+      {"key": "149807377"}
+    ],
+    [
+      "149807382",
+      {"key": "149807382"}
+    ],
+    [
+      "149807387",
+      {"key": "149807387"}
+    ],
+    [
+      "149807392",
+      {"key": "149807392"}
+    ],
+    [
+      "149807398",
+      {"key": "149807398"}
+    ],
+    [
+      "149807404",
+      {"key": "149807404"}
+    ],
+    [
+      "149807410",
+      {"key": "149807410"}
+    ],
+    [
+      "149807416",
+      {"key": "149807416"}
+    ],
+    [
+      "149807423",
+      {"key": "149807423"}
+    ],
+    [
+      "149807429",
+      {"key": "149807429"}
+    ],
+    [
+      "149807435",
+      {"key": "149807435"}
+    ],
+    [
+      "149807441",
+      {"key": "149807441"}
+    ],
+    [
+      "149807447",
+      {"key": "149807447"}
+    ],
+    [
+      "149807453",
+      {"key": "149807453"}
+    ],
+    [
+      "149807458",
+      {"key": "149807458"}
+    ],
+    [
+      "149807464",
+      {"key": "149807464"}
+    ],
+    [
+      "149807470",
+      {"key": "149807470"}
+    ],
+    [
+      "149807475",
+      {"key": "149807475"}
+    ],
+    [
+      "149807482",
+      {"key": "149807482"}
+    ],
+    [
+      "149807483",
+      {"key": "149807483"}
+    ],
+    [
+      "149807490",
+      {"key": "149807490"}
+    ],
+    [
+      "149807497",
+      {"key": "149807497"}
+    ],
+    [
+      "149807503",
+      {"key": "149807503"}
+    ],
+    [
+      "149807509",
+      {"key": "149807509"}
+    ],
+    [
+      "149807516",
+      {"key": "149807516"}
+    ],
+    [
+      "149807522",
+      {"key": "149807522"}
+    ],
+    [
+      "149807529",
+      {"key": "149807529"}
+    ],
+    [
+      "149807537",
+      {"key": "149807537"}
+    ],
+    [
+      "149807546",
+      {"key": "149807546"}
+    ],
+    [
+      "149807555",
+      {"key": "149807555"}
+    ],
+    [
+      "149807564",
+      {"key": "149807564"}
+    ],
+    [
+      "149807573",
+      {"key": "149807573"}
+    ],
+    [
+      "149807582",
+      {"key": "149807582"}
+    ],
+    [
+      "149807591",
+      {"key": "149807591"}
+    ],
+    [
+      "149807599",
+      {"key": "149807599"}
+    ],
+    [
+      "149807607",
+      {"key": "149807607"}
+    ],
+    [
+      "149807616",
+      {"key": "149807616"}
+    ],
+    [
+      "149807625",
+      {"key": "149807625"}
+    ],
+    [
+      "149807634",
+      {"key": "149807634"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/15andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Andersen explains how we can overcome contention with faith in Jesus Christ.",
+          "title": "Following Jesus: Being a Peacemaker"
+        },
+        "pageSocial": {
+          "description": "Elder Andersen explains how we can overcome contention with faith in Jesus Christ.",
+          "title": "Following Jesus: Being a Peacemaker"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/3d/66/3d662f4982c6a118b8c47e09e0d32ad978b8719a/3d662f4982c6a118b8c47e09e0d32ad978b8719a.image/jpeg\" data-video-title=\"Following Jesus: Being a Peacemaker\" data-video-description=\"Elder Andersen explains how we can overcome contention with faith in Jesus Christ.\" data-video-id=\"6302699635001\" data-ip=\"Download and Streaming                            \" data-duration=\"815883\" data-assetId=\"f0116924b2aa11ec8275eeeeac1ee811e0f8d3d5\" data-ref-id=\"296BE98FD940FA0EB7F824EFDA470CFE3443CF9C\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302699635001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1050-neil-l-andersen-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"75281735\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1050-neil-l-andersen-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"195682982\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1050-neil-l-andersen-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"268364327\"/><\/video><h1 data-aid=\"149807199\" id=\"title1\">Following Jesus: Being a Peacemaker<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149807201\" id=\"author1\">By Elder Neil L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"149807203\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149807205\" id=\"kicker1\">Peacemakers are not passive; they are persuasive in the Savior\u2019s way.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149807207\" id=\"p1\">My dear brothers and sisters, as we experience sobering days of commotion, contention, and, for many, deep suffering, our hearts are filled with overwhelming gratitude for our Savior and the eternal blessings of the restored gospel of Jesus Christ. We love Him and we trust Him, and we pray that we will forever follow Him.<\/p>\n<section>\n<header>\n<h2 data-aid=\"149807208\" id=\"title2\">The Challenge of Social Media<\/h2>\n<\/header>\n<p data-aid=\"149807212\" id=\"p2\">The powerful impact of the internet is a blessing and a challenge, unique to our time.<\/p>\n<p data-aid=\"149807214\" id=\"p3\">In a world of social media and information superhighways, one person\u2019s voice can be multiplied exponentially. That voice, whether true or false, whether fair or prejudicial, whether kind or cruel, moves instantly across the world.<\/p>\n<p data-aid=\"149807217\" id=\"p4\">Social media posts of thoughtfulness and goodness are often quietly under the radar, while words of contempt and anger are frequently thundering in our ears, whether with political philosophy, people in the news, or opinions on the pandemic. No one or no subject, including the Savior and His restored gospel, is immune from this social phenomenon of polarized voices.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807219\" id=\"title3\">Becoming a Peacemaker<\/h2>\n<\/header>\n<p data-aid=\"149807222\" id=\"p5\">The Sermon on the Mount is a message for all but was specifically given to the Savior\u2019s disciples, those who had chosen to follow Him.<\/p>\n<p data-aid=\"149807225\" id=\"p6\">The Lord taught how to live, then and now, in a contemptuous world. \u201cBlessed are the peacemakers,\u201d He declared, \u201cfor they shall be called the children of God.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"149807227\" id=\"p7\">By the shield of our faith in Jesus Christ, we become peacemakers, quenching\u2014meaning to calm, cool, or extinguish\u2014all the fiery darts of the adversary.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"149807230\" id=\"p8\">As we do our part, His promise is that we will be called the \u201cchildren of God.\u201d Every person on earth is the \u201coffspring\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> of God, but to be called the \u201cchildren of God\u201d means much, much more. As we come unto Jesus Christ and make covenants with Him, we become \u201chis seed\u201d and \u201cheirs of the kingdom,\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> \u201cchildren of Christ, his sons, and his daughters.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"149807233\" id=\"p9\">How does a peacemaker calm and cool the fiery darts? Certainly not by shrinking before those who disparage us. Rather, we remain confident in our faith, sharing our beliefs with conviction but always void of anger or malice.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"149807236\" id=\"p10\">Recently, after seeing a strongly worded opinion piece that was critical of the Church, Reverend Amos C. Brown, a national civil rights leader and pastor of the Third Baptist Church in San Francisco, responded:<\/p>\n<p data-aid=\"149807239\" id=\"p44\">\u201cI respect the experience and perspective of the individual who wrote those words. Granted, I don\u2019t see what he sees.\u201d<\/p>\n<p data-aid=\"149807242\" id=\"p45\">\u201cI count it one of my life\u2019s greatest joys to know these leaders [of the Church], including President Russell M. Nelson. They are, in my estimation, the embodiment of the best leadership our country has to offer.\u201d<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/a6/f9/a6f9e5714f178d63f93a20c625cbb612cd405e4b/first_presidency_naacp_collaboration_2021.png\" data-img-id=\"3fff67b5b12211ecb1fbeeeeac1e5f11473b8a72\" srcset=\"https://assets.ldscdn.org/6a/d8/6ad8ae3690e42f89b3c61b686aac3ffb30dfba31/first_presidency_naacp_collaboration_2021.png 60w,https://assets.ldscdn.org/c1/10/c1101ebeabaf9b04c589b0388dfdb2ed0dfcf03d/first_presidency_naacp_collaboration_2021.png 100w,https://assets.ldscdn.org/dd/6f/dd6f8a7fea13243d07f4033cfba586138b7fc1c2/first_presidency_naacp_collaboration_2021.png 200w,https://assets.ldscdn.org/41/cf/41cf4d5e2c0637e1fcf3bb14e54f34528bc3cc0f/first_presidency_naacp_collaboration_2021.png 250w,https://assets.ldscdn.org/80/3a/803af0f2e0f5b5212a2fc7458cdd2c1a9b2584ce/first_presidency_naacp_collaboration_2021.png 320w,https://assets.ldscdn.org/a6/f9/a6f9e5714f178d63f93a20c625cbb612cd405e4b/first_presidency_naacp_collaboration_2021.png 500w,https://assets.ldscdn.org/ca/9b/ca9b2249227ad6f04d45f4c09d64319eeb9bb387/first_presidency_naacp_collaboration_2021.png 640w\" data-assetId=\"3fff67b5b12211ecb1fbeeeeac1e5f11473b8a72\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"First Presidency and NAACP Leaders Announce a Shared Vision to \u201cLearn from and Serve One Another\u201d\"/>\n<p data-aid=\"149807245\" id=\"p46\">He then added: \u201cWe can gripe about the way things were. We can refuse to acknowledge all the good going on now. \u2026 But these approaches will not heal our national divisions. \u2026 As Jesus taught, we don\u2019t eradicate evil with more evil. We love generously and live mercifully, even toward those we think to be our enemies.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"149807248\" id=\"p11\">Reverend Brown is a peacemaker. He calmly and respectfully cooled the fiery darts. Peacemakers are not passive; they are persuasive in the Savior\u2019s way.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"149807250\" id=\"p12\">What gives us the inner strength to cool, calm, and quench the fiery darts aimed toward the truths we love? The strength comes from our faith in Jesus Christ and our faith in His words.<\/p>\n<p data-aid=\"149807253\" id=\"p13\">\u201cBlessed are ye, when men shall revile you, \u2026 and shall say all manner of evil against you falsely, for my sake.<\/p>\n<p data-aid=\"149807255\" id=\"p39\">\u201c\u2026 For great is your reward in heaven: for so persecuted they the prophets which were before you.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807258\" id=\"title4\">The Importance of Agency<\/h2>\n<\/header>\n<p data-aid=\"149807261\" id=\"p14\">Two important principles guide our desire to be peacemakers.<\/p>\n<p data-aid=\"149807265\" id=\"p15\">First, our Heavenly Father has given each individual his or her moral agency, with the ability to choose one\u2019s own path.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> This agency is one of the greatest gifts of God.<\/p>\n<p data-aid=\"149807269\" id=\"p16\">Second, with this agency, our Heavenly Father allowed for \u201copposition in all things.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> We \u201ctaste the bitter, that [we] may know to prize the good.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> Opposition should not surprise us. We learn to distinguish good from evil.<\/p>\n<p data-aid=\"149807273\" id=\"p17\">We rejoice in the blessing of agency, understanding that there will be many who do not believe what we believe. In fact, few in the latter days will choose to make their faith in Jesus Christ central to all they think and do.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"149807277\" id=\"p18\">Because of social media platforms, one voice of disbelief can appear to be a multitude of negative voices,<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> but even if it is a multitude of voices, we choose the path of peacemakers.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807279\" id=\"title5\">The Lord\u2019s Leaders<\/h2>\n<\/header>\n<p data-aid=\"149807283\" id=\"p19\">Some view the First Presidency and the Quorum of the Twelve as having worldly motives, like political, business, and cultural leaders.<\/p>\n<p data-aid=\"149807287\" id=\"p20\">However, we come very differently to our responsibilities. We are not elected or selected from applications. Without any specific professional preparation, we are called and ordained to bear testimony of the name of Jesus Christ throughout the world until our final breath. We endeavor to bless the sick, the lonely, the downhearted, and the poor and to strengthen the kingdom of God. We seek to know the Lord\u2019s will and to proclaim it, especially to those who seek eternal life.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"149807291\" id=\"p21\">Although our humble desire is for the Savior\u2019s teachings to be honored by all, the words of the Lord through His prophets are often contrary to the thinking and trends of the world. It has always been so.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"149807295\" id=\"p22\">The Savior said to His Apostles:<\/p>\n<p data-aid=\"149807299\" id=\"p40\">\u201cIf the world [hates] you, ye know that it hated me before it hated you. \u2026<\/p>\n<p data-aid=\"149807303\" id=\"p41\">\u201c\u2026 All these things will they do \u2026 because <em>they know not him<\/em> that sent me.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807307\" id=\"title6\">Caring for All<\/h2>\n<\/header>\n<p data-aid=\"149807308\" id=\"p23\">We genuinely love and care for all our neighbors, whether or not they believe as we do. Jesus taught us in the parable of the Good Samaritan that those of different beliefs should sincerely reach out to help anyone in need, being peacemakers, pursuing good and noble causes.<\/p>\n<p data-aid=\"149807310\" id=\"p24\">In February, a headline in the <em>Arizona Republic<\/em> stated, \u201cBipartisan bill supported by Latter-day Saints would protect gay and transgender Arizonans.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"149807315\" id=\"p25\">We, as Latter-day Saints, are \u201cpleased to be part of a coalition of faith, business, LGBTQ people and community leaders who have worked together in a spirit of trust and mutual respect.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"149807319\" id=\"p26\">President Russell M. Nelson once thoughtfully asked, \u201cCannot boundary lines exist without becoming battle lines?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"149807325\" id=\"p27\">We endeavor to be \u201cpeaceable followers of Christ.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807329\" id=\"title7\">The Times Not to Respond<\/h2>\n<\/header>\n<p data-aid=\"149807331\" id=\"p28\">Some of the attacks upon the Savior were so malicious that He said nothing. \u201cAnd the chief priests and scribes \u2026 vehemently accused him \u2026 and mocked him,\u201d but Jesus \u201canswered [them] nothing.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> There are times when being a peacemaker means that we resist the impulse to respond and instead, with dignity, remain quiet.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"149807337\" id=\"p29\">It is heartbreaking for all of us when harsh or dismissive words about the Savior, His followers, and His Church are spoken or published by those who once stood with us, took the sacrament with us, and testified with us of the divine mission of Jesus Christ.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"149807339\" id=\"p30\">This also happened during the Savior\u2019s ministry.<\/p>\n<p data-aid=\"149807344\" id=\"p31\">Some of the disciples of Jesus who were with Him during His most majestic miracles determined to \u201c[walk] no more with him.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> Sadly, not all will remain firm in their love for the Savior and their determination to keep His commandments.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"149807349\" id=\"p32\">Jesus taught us to withdraw from the circle of anger and contention. In one example, after the Pharisees confronted Jesus and counseled how they might destroy Him, the scriptures say that Jesus withdrew Himself from them,<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> and miracles occurred as \u201cgreat multitudes followed him, and he healed them all.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807354\" id=\"title8\">Blessing the Lives of Others<\/h2>\n<\/header>\n<p data-aid=\"149807357\" id=\"p33\">We too can move away from contention and bless the lives of others<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> while not isolating ourselves in our own corner.<\/p>\n<p data-aid=\"149807362\" id=\"p34\">In Mbuji-Mayi, Democratic Republic of the Congo, initially some were critical of the Church, not understanding our beliefs or knowing our members.<\/p>\n<p data-aid=\"149807365\" id=\"p35\">Some time ago, Kathy and I attended a very special Church service in Mbuji-Mayi. The children were dressed immaculately, with bright eyes and big smiles. I had hoped to speak to them about their education but learned that many were not attending school. Our leaders, with very nominal humanitarian funds, found a way to help.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> Now, more than 400 students\u2014girls and boys, members as well as those not of our faith\u2014are welcomed and taught by 16 teachers who are members of the Church of Jesus Christ.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/2f/93/2f93debec4ba336c98fbcd8a3dc0933c6ae31be6/kalanga_muya.png\" data-img-id=\"07fd1e3db52c11ecb41eeeeeac1ea9363470c54b\" srcset=\"https://assets.ldscdn.org/e9/24/e924ee0b35e2ccaf4c033aa11aa85f1d8b5c16ae/kalanga_muya.png 60w,https://assets.ldscdn.org/fd/28/fd2806fc5dd252851dd293e1abd9ecbcaf053621/kalanga_muya.png 100w,https://assets.ldscdn.org/53/50/5350e0421307cfa15190e73c8d85434705fa8b60/kalanga_muya.png 200w,https://assets.ldscdn.org/81/92/81929aabf1602c0e1325281a15119294bdf59650/kalanga_muya.png 250w,https://assets.ldscdn.org/dd/97/dd9751fd28cf8225bda634b3f27e3582ce4d5213/kalanga_muya.png 320w,https://assets.ldscdn.org/2f/93/2f93debec4ba336c98fbcd8a3dc0933c6ae31be6/kalanga_muya.png 500w,https://assets.ldscdn.org/84/c2/84c25f9acfe54941a92af882593cab352894c4b5/kalanga_muya.png 640w\" data-assetId=\"07fd1e3db52c11ecb41eeeeeac1ea9363470c54b\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Kalanga Muya\"/>\n<p data-aid=\"149807370\" id=\"p36\">Fourteen-year-old Kalanga Muya said, \u201c[Having little money,] I spent four years without attending school. \u2026 I am so grateful for what the Church has done. \u2026 I can now read, write, and speak French.\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> Speaking of this initiative, the mayor of Mbuji-Mayi said, \u201cI am inspired by The Church of Jesus Christ of Latter-day Saints because while [other] churches are being divided each one in his corner \u2026 [you are working] with [others] to help the community in need.\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149807372\" id=\"title9\">Love One Another<\/h2>\n<\/header>\n<p data-aid=\"149807377\" id=\"p37\">Each time I read <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=eng\">John chapter 13<\/a>, I am reminded of the Savior\u2019s perfect example as a peacemaker. Jesus lovingly washed the feet of the Apostles. Then, we read, \u201che was troubled in spirit\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a> as He thought about one He loved preparing to betray Him. I have tried to imagine the thoughts and feelings of the Savior as Judas left. Interestingly, at that sobering moment, Jesus spoke no more about His \u201ctroubling\u201d feelings or about betrayal. Rather, He spoke to His Apostles about love, His words cascading through the centuries:<\/p>\n<p data-aid=\"149807382\" id=\"p42\">\u201cA new commandment I give unto you, That ye love one another; as I have loved you. \u2026<\/p>\n<p data-aid=\"149807387\" id=\"p43\">\u201cBy this shall all men know that ye are my disciples, if ye have love one to another.\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a><\/p>\n<p data-aid=\"149807392\" id=\"p38\">May we love Him and love one another. May we be peacemakers, that we may be called the \u201cchildren of God,\u201d I pray in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149807398\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149807404\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=eng#p9\">Matthew 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149807410\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/6.16?lang=eng#p16\">Ephesians 6:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/3.8?lang=eng#p8\">Doctrine and Covenants 3:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149807416\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.28?lang=eng#p28\">Acts 17:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149807423\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.11?lang=eng#p11\">Mosiah 15:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149807429\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">Mosiah 5:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149807435\" id=\"note6_p1\">President Dallin H. Oaks said: \u201cFollowers of Christ should be examples of civility. We should love all people, be good listeners, and show concern for their sincere beliefs. Though we may disagree, we should not be disagreeable. Our stands and communications on controversial topics should not be contentious\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng\">Loving Others and Living with Differences<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 27).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149807441\" id=\"note7_p1\">\u201cAmos C. Brown: Follow the LDS Church\u2019s Example to Heal Divisions and Move Forward,\u201d <cite>Salt Lake Tribune<\/cite>, Jan. 20, 2022, sltrib.com.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149807447\" id=\"note8_p1\">Elder Dale G. Renlund said, \u201cWhen love of Christ envelops our lives, we approach disagreements with meekness, patience, and kindness\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/43renlund?lang=eng\">The Peace of Christ Abolishes Enmity<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 84).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149807453\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.11-12?lang=eng#p11\">Matthew 5:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149807458\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10.23?lang=eng#p23\">2 Nephi 10:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149807464\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.11?lang=eng#p11\">2 Nephi 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149807470\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.55?lang=eng#p55\">Moses 6:55<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149807475\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.12?lang=eng#p12\">1 Nephi 14:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149807482\" id=\"note14_p1\">Recent data shows that as many as 3 out of 5 people share a headline for a story they have not even read (see Caitlin Dewey, \u201c6 in 10 of You Will Share This Link without Reading It, a New, Depressing Study Says,\u201d <cite>Washington Post<\/cite>, June 16, 2015, washingtonpost.com; Maksym Gabielkov and others, \u201cSocial Clicks: What and Who Gets Read on Twitter?\u201d [paper presented at the 2016 ACM Sigmetrics International Conference on Measurement and Modeling of Computer Science, June 14, 2016], dl.acm.org).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149807483\" id=\"note15_p1\">Don\u2019t be surprised if at times your personal views are not initially in harmony with the teachings of the Lord\u2019s prophet. These are moments of learning, of humility, when we go to our knees in prayer. We walk forward in faith, trusting in God, knowing that with time we will receive more spiritual clarity from our Heavenly Father.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149807490\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14-16?lang=eng#p14\">Doctrine and Covenants 1:14\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149807497\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.18,21?lang=eng#p18\">John 15:18, 21<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149807503\" id=\"note18_p1\">\u201cBipartisan Bill Supported by Latter-day Saints Would Protect Gay and Transgender Arizonans,\u201d <cite>Arizona Republic<\/cite>, Feb. 7, 2022, azcentral.com.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149807509\" id=\"note19_p1\">\u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/statement-nondiscrimination-bill-arizona\">Why the Church of Jesus Christ Supports a New Bipartisan Religious Freedom and Non-discrimination Bill in Arizona<\/a>,\u201d Feb. 7, 2022, newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149807516\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1994/04/teach-us-tolerance-and-love?lang=eng\">Teach Us Tolerance and Love<\/a>,\u201d <cite>Ensign<\/cite>, May 1994, 69.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149807522\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=eng#p3\">Moroni 7:3<\/a>. President Gordon B. Hinckley said: \u201cWe must not only be tolerant, but we must cultivate a spirit of affirmative gratitude for those who do not see things quite as we see them. We do not in any way have to compromise our theology, our convictions, our knowledge of eternal truth as it has been revealed by the God of Heaven. We can offer our own witness of the truth, quietly, sincerely, honestly, but never in a manner that will give offense to others. \u2026 We must learn to accord appreciation and respect for others who are as sincere in their beliefs and practices as are we\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/gordon-b-hinckley/experience/\">Out of Your Experience Here<\/a>\u201d [Brigham Young University devotional, Oct. 16, 1990], 6, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149807529\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.9-11?lang=eng#p9\">Luke 23:9\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149807537\" id=\"note23_p1\">Elder Dieter F. Uchtdorf said: \u201cAs followers of Jesus Christ, we follow [His] example. We do not shame or attack others. We seek to love God and serve our neighbors. We seek to joyfully keep God\u2019s commandments and live by gospel principles\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/dieter-f-uchtdorf/five-messages-that-all-of-gods-children-need-to-hear/\">Five Messages That All of God\u2019s Children Need to Hear<\/a>\u201d [Brigham Young University Education Week devotional, Aug. 17, 2021], 5, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149807546\" id=\"note24_p1\">Elder Neal A. Maxwell said: \u201cChurch members will live in this wheat-and-tares situation until the Millennium. Some real tares even masquerade as wheat, including the few eager individuals who lecture the rest of us about Church doctrines in which they no longer believe. They criticize the use of Church resources to which they no longer contribute. They condescendingly seek to counsel the Brethren whom they no longer sustain. Confrontive, except of themselves, of course, they leave the Church, but they cannot leave the Church alone\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/04/becometh-as-a-child?lang=eng\">Becometh As a Child<\/a>,\u201d <cite>Ensign<\/cite>, May 1996, 68).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149807555\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.66?lang=eng#p66\">John 6:66<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149807564\" id=\"note26_p1\">\u201cThe pleasures of sin [are only] for a season\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11.24-26?lang=eng#p24\">Hebrews 11:24\u201326<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149807573\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/12.1-15?lang=eng#p1\">Matthew 12:1\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149807582\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/12.15?lang=eng#p15\">Matthew 12:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"149807591\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29-30?lang=eng#p29\">3 Nephi 11:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"149807599\" id=\"note30_p1\">With the help of the Don Bosco Foundation, the school program received valuable expertise in teaching and materials.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"149807607\" id=\"note31_p1\">Muleka, a parent, said: \u201cI love this program because it has provided my daughter \u2026 the chance to \u2026 learn to read and write and hope for a better future. I could not send her to school because I am just selling corn flour in the market earning \u2026 enough only for food. I greatly thank the Church for this.\u201d Sister Monique, a teacher, said: \u201cThis program came as a great blessing for these children. In my class \u2026 most of them are orphans. They are loving it, regularly attending classes and doing their homework\u201d (comments and photos supplied by Elder Joseph W. Sitati, Feb. 24, 2022).<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"149807616\" id=\"note32_p1\">Mayor Louis d\u2019Or Ntumba Tshiapota, remarks in a public meeting concerning the Mbuji-Mayi literacy project initiated by The Church of Jesus Christ of Latter-day Saints, Oct. 10, 2021.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"149807625\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.21?lang=eng#p21\">John 13:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"149807634\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.34-35?lang=eng#p34\">John 13:34\u201335<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149807230",
+        "id": "note4",
+        "text": "<p data-aid=\"149807423\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.11?lang=eng#p11\">Mosiah 15:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15.11?lang=eng#p11",
+          "text": "Mosiah 15:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149807230",
+        "id": "note5",
+        "text": "<p data-aid=\"149807429\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">Mosiah 5:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5.7?lang=eng#p7",
+          "text": "Mosiah 5:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149807227",
+        "id": "note2",
+        "text": "<p data-aid=\"149807410\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/6.16?lang=eng#p16\">Ephesians 6:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/3.8?lang=eng#p8\">Doctrine and Covenants 3:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/eph/6.16?lang=eng#p16",
+            "text": "Ephesians 6:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/3.8?lang=eng#p8",
+            "text": "Doctrine and Covenants 3:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149807230",
+        "id": "note3",
+        "text": "<p data-aid=\"149807416\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.28?lang=eng#p28\">Acts 17:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/17.28?lang=eng#p28",
+          "text": "Acts 17:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149807248",
+        "id": "note8",
+        "text": "<p data-aid=\"149807447\" id=\"note8_p1\">Elder Dale G. Renlund said, \u201cWhen love of Christ envelops our lives, we approach disagreements with meekness, patience, and kindness\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/43renlund?lang=eng\">The Peace of Christ Abolishes Enmity<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 84).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/43renlund?lang=eng",
+          "text": "The Peace of Christ Abolishes Enmity",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149807255",
+        "id": "note9",
+        "text": "<p data-aid=\"149807453\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.11-12?lang=eng#p11\">Matthew 5:11\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.11-12?lang=eng#p11",
+          "text": "Matthew 5:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149807233",
+        "id": "note6",
+        "text": "<p data-aid=\"149807435\" id=\"note6_p1\">President Dallin H. Oaks said: \u201cFollowers of Christ should be examples of civility. We should love all people, be good listeners, and show concern for their sincere beliefs. Though we may disagree, we should not be disagreeable. Our stands and communications on controversial topics should not be contentious\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng\">Loving Others and Living with Differences<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 27).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng",
+          "text": "Loving Others and Living with Differences",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149807245",
+        "id": "note7",
+        "text": "<p data-aid=\"149807441\" id=\"note7_p1\">\u201cAmos C. Brown: Follow the LDS Church\u2019s Example to Heal Divisions and Move Forward,\u201d <cite>Salt Lake Tribune<\/cite>, Jan. 20, 2022, sltrib.com.<\/p>"
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "149807365",
+        "id": "note30",
+        "text": "<p data-aid=\"149807599\" id=\"note30_p1\">With the help of the Don Bosco Foundation, the school program received valuable expertise in teaching and materials.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149807291",
+        "id": "note16",
+        "text": "<p data-aid=\"149807490\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14-16?lang=eng#p14\">Doctrine and Covenants 1:14\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.14-16?lang=eng#p14",
+          "text": "Doctrine and Covenants 1:14\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149807287",
+        "id": "note15",
+        "text": "<p data-aid=\"149807483\" id=\"note15_p1\">Don\u2019t be surprised if at times your personal views are not initially in harmony with the teachings of the Lord\u2019s prophet. These are moments of learning, of humility, when we go to our knees in prayer. We walk forward in faith, trusting in God, knowing that with time we will receive more spiritual clarity from our Heavenly Father.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149807277",
+        "id": "note14",
+        "text": "<p data-aid=\"149807482\" id=\"note14_p1\">Recent data shows that as many as 3 out of 5 people share a headline for a story they have not even read (see Caitlin Dewey, \u201c6 in 10 of You Will Share This Link without Reading It, a New, Depressing Study Says,\u201d <cite>Washington Post<\/cite>, June 16, 2015, washingtonpost.com; Maksym Gabielkov and others, \u201cSocial Clicks: What and Who Gets Read on Twitter?\u201d [paper presented at the 2016 ACM Sigmetrics International Conference on Measurement and Modeling of Computer Science, June 14, 2016], dl.acm.org).<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149807273",
+        "id": "note13",
+        "text": "<p data-aid=\"149807475\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.12?lang=eng#p12\">1 Nephi 14:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/14.12?lang=eng#p12",
+          "text": "1 Nephi 14:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149807269",
+        "id": "note12",
+        "text": "<p data-aid=\"149807470\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.55?lang=eng#p55\">Moses 6:55<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.55?lang=eng#p55",
+          "text": "Moses 6:55",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "149807387",
+        "id": "note34",
+        "text": "<p data-aid=\"149807634\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.34-35?lang=eng#p34\">John 13:34\u201335<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13.34-35?lang=eng#p34",
+          "text": "John 13:34\u201335",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149807269",
+        "id": "note11",
+        "text": "<p data-aid=\"149807464\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.11?lang=eng#p11\">2 Nephi 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.11?lang=eng#p11",
+          "text": "2 Nephi 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "149807377",
+        "id": "note33",
+        "text": "<p data-aid=\"149807625\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.21?lang=eng#p21\">John 13:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13.21?lang=eng#p21",
+          "text": "John 13:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149807265",
+        "id": "note10",
+        "text": "<p data-aid=\"149807458\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10.23?lang=eng#p23\">2 Nephi 10:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/10.23?lang=eng#p23",
+          "text": "2 Nephi 10:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "149807370",
+        "id": "note32",
+        "text": "<p data-aid=\"149807616\" id=\"note32_p1\">Mayor Louis d\u2019Or Ntumba Tshiapota, remarks in a public meeting concerning the Mbuji-Mayi literacy project initiated by The Church of Jesus Christ of Latter-day Saints, Oct. 10, 2021.<\/p>"
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "149807370",
+        "id": "note31",
+        "text": "<p data-aid=\"149807607\" id=\"note31_p1\">Muleka, a parent, said: \u201cI love this program because it has provided my daughter \u2026 the chance to \u2026 learn to read and write and hope for a better future. I could not send her to school because I am just selling corn flour in the market earning \u2026 enough only for food. I greatly thank the Church for this.\u201d Sister Monique, a teacher, said: \u201cThis program came as a great blessing for these children. In my class \u2026 most of them are orphans. They are loving it, regularly attending classes and doing their homework\u201d (comments and photos supplied by Elder Joseph W. Sitati, Feb. 24, 2022).<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149807315",
+        "id": "note19",
+        "text": "<p data-aid=\"149807509\" id=\"note19_p1\">\u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/statement-nondiscrimination-bill-arizona\">Why the Church of Jesus Christ Supports a New Bipartisan Religious Freedom and Non-discrimination Bill in Arizona<\/a>,\u201d Feb. 7, 2022, newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/statement-nondiscrimination-bill-arizona",
+          "text": "Why the Church of Jesus Christ Supports a New Bipartisan Religious Freedom and Non-discrimination Bill in Arizona"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149807310",
+        "id": "note18",
+        "text": "<p data-aid=\"149807503\" id=\"note18_p1\">\u201cBipartisan Bill Supported by Latter-day Saints Would Protect Gay and Transgender Arizonans,\u201d <cite>Arizona Republic<\/cite>, Feb. 7, 2022, azcentral.com.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149807303",
+        "id": "note17",
+        "text": "<p data-aid=\"149807497\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.18,21?lang=eng#p18\">John 15:18, 21<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.18,21?lang=eng#p18",
+          "text": "John 15:18, 21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149807349",
+        "id": "note27",
+        "text": "<p data-aid=\"149807573\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/12.1-15?lang=eng#p1\">Matthew 12:1\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/12.1-15?lang=eng#p1",
+          "text": "Matthew 12:1\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149807344",
+        "id": "note26",
+        "text": "<p data-aid=\"149807564\" id=\"note26_p1\">\u201cThe pleasures of sin [are only] for a season\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11.24-26?lang=eng#p24\">Hebrews 11:24\u201326<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/11.24-26?lang=eng#p24",
+          "text": "Hebrews 11:24\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149807344",
+        "id": "note25",
+        "text": "<p data-aid=\"149807555\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.66?lang=eng#p66\">John 6:66<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/6.66?lang=eng#p66",
+          "text": "John 6:66",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149807337",
+        "id": "note24",
+        "text": "<p data-aid=\"149807546\" id=\"note24_p1\">Elder Neal A. Maxwell said: \u201cChurch members will live in this wheat-and-tares situation until the Millennium. Some real tares even masquerade as wheat, including the few eager individuals who lecture the rest of us about Church doctrines in which they no longer believe. They criticize the use of Church resources to which they no longer contribute. They condescendingly seek to counsel the Brethren whom they no longer sustain. Confrontive, except of themselves, of course, they leave the Church, but they cannot leave the Church alone\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/04/becometh-as-a-child?lang=eng\">Becometh As a Child<\/a>,\u201d <cite>Ensign<\/cite>, May 1996, 68).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1996/04/becometh-as-a-child?lang=eng",
+          "text": "Becometh As a Child",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149807331",
+        "id": "note23",
+        "text": "<p data-aid=\"149807537\" id=\"note23_p1\">Elder Dieter F. Uchtdorf said: \u201cAs followers of Jesus Christ, we follow [His] example. We do not shame or attack others. We seek to love God and serve our neighbors. We seek to joyfully keep God\u2019s commandments and live by gospel principles\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/dieter-f-uchtdorf/five-messages-that-all-of-gods-children-need-to-hear/\">Five Messages That All of God\u2019s Children Need to Hear<\/a>\u201d [Brigham Young University Education Week devotional, Aug. 17, 2021], 5, speeches.byu.edu).<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/dieter-f-uchtdorf/five-messages-that-all-of-gods-children-need-to-hear/",
+          "text": "Five Messages That All of God\u2019s Children Need to Hear"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149807331",
+        "id": "note22",
+        "text": "<p data-aid=\"149807529\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.9-11?lang=eng#p9\">Luke 23:9\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/23.9-11?lang=eng#p9",
+          "text": "Luke 23:9\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149807325",
+        "id": "note21",
+        "text": "<p data-aid=\"149807522\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=eng#p3\">Moroni 7:3<\/a>. President Gordon B. Hinckley said: \u201cWe must not only be tolerant, but we must cultivate a spirit of affirmative gratitude for those who do not see things quite as we see them. We do not in any way have to compromise our theology, our convictions, our knowledge of eternal truth as it has been revealed by the God of Heaven. We can offer our own witness of the truth, quietly, sincerely, honestly, but never in a manner that will give offense to others. \u2026 We must learn to accord appreciation and respect for others who are as sincere in their beliefs and practices as are we\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/gordon-b-hinckley/experience/\">Out of Your Experience Here<\/a>\u201d [Brigham Young University devotional, Oct. 16, 1990], 6, speeches.byu.edu).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7.3?lang=eng#p3",
+            "text": "Moroni 7:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/gordon-b-hinckley/experience/",
+            "text": "Out of Your Experience Here"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149807319",
+        "id": "note20",
+        "text": "<p data-aid=\"149807516\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1994/04/teach-us-tolerance-and-love?lang=eng\">Teach Us Tolerance and Love<\/a>,\u201d <cite>Ensign<\/cite>, May 1994, 69.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1994/04/teach-us-tolerance-and-love?lang=eng",
+          "text": "Teach Us Tolerance and Love",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149807225",
+        "id": "note1",
+        "text": "<p data-aid=\"149807404\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=eng#p9\">Matthew 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.9?lang=eng#p9",
+          "text": "Matthew 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "149807357",
+        "id": "note29",
+        "text": "<p data-aid=\"149807591\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29-30?lang=eng#p29\">3 Nephi 11:29\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.29-30?lang=eng#p29",
+          "text": "3 Nephi 11:29\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149807349",
+        "id": "note28",
+        "text": "<p data-aid=\"149807582\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/12.15?lang=eng#p15\">Matthew 12:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/12.15?lang=eng#p15",
+          "text": "Matthew 12:15",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/17kacher?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "4c226ad25e5a4e04b16cc2f8eb41464e",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/17kacher",
+      "data-aid": "149747191",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "b88ee6a157594ebc8c687e25255028d6"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/94/72/9472fbf5c23656bbfac01fa9e7f78e8e99f723e9/9472fbf5c23656bbfac01fa9e7f78e8e99f723e9.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1070-larry-s-kacher-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "La escalera de la fe",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149747191",
+      {"key": "149747191"}
+    ],
+    [
+      "149827863",
+      {"key": "149827863"}
+    ],
+    [
+      "149827864",
+      {"key": "149827864"}
+    ],
+    [
+      "149827865",
+      {"key": "149827865"}
+    ],
+    [
+      "149827866",
+      {"key": "149827866"}
+    ],
+    [
+      "149827867",
+      {"key": "149827867"}
+    ],
+    [
+      "149827868",
+      {"key": "149827868"}
+    ],
+    [
+      "149827869",
+      {"key": "149827869"}
+    ],
+    [
+      "149827870",
+      {"key": "149827870"}
+    ],
+    [
+      "149827871",
+      {"key": "149827871"}
+    ],
+    [
+      "149827872",
+      {"key": "149827872"}
+    ],
+    [
+      "149827873",
+      {"key": "149827873"}
+    ],
+    [
+      "149827874",
+      {"key": "149827874"}
+    ],
+    [
+      "149827875",
+      {"key": "149827875"}
+    ],
+    [
+      "149827876",
+      {"key": "149827876"}
+    ],
+    [
+      "149827877",
+      {"key": "149827877"}
+    ],
+    [
+      "149827878",
+      {"key": "149827878"}
+    ],
+    [
+      "149827879",
+      {"key": "149827879"}
+    ],
+    [
+      "149827880",
+      {"key": "149827880"}
+    ],
+    [
+      "149827881",
+      {"key": "149827881"}
+    ],
+    [
+      "149827882",
+      {"key": "149827882"}
+    ],
+    [
+      "149827883",
+      {"key": "149827883"}
+    ],
+    [
+      "149827884",
+      {"key": "149827884"}
+    ],
+    [
+      "149827885",
+      {"key": "149827885"}
+    ],
+    [
+      "149827886",
+      {"key": "149827886"}
+    ],
+    [
+      "149827887",
+      {"key": "149827887"}
+    ],
+    [
+      "149827888",
+      {"key": "149827888"}
+    ],
+    [
+      "149827889",
+      {"key": "149827889"}
+    ],
+    [
+      "149827890",
+      {"key": "149827890"}
+    ],
+    [
+      "149827891",
+      {"key": "149827891"}
+    ],
+    [
+      "149827892",
+      {"key": "149827892"}
+    ],
+    [
+      "149827893",
+      {"key": "149827893"}
+    ],
+    [
+      "149827894",
+      {"key": "149827894"}
+    ],
+    [
+      "149827895",
+      {"key": "149827895"}
+    ],
+    [
+      "149827896",
+      {"key": "149827896"}
+    ],
+    [
+      "149827897",
+      {"key": "149827897"}
+    ],
+    [
+      "149827898",
+      {"key": "149827898"}
+    ],
+    [
+      "149827899",
+      {"key": "149827899"}
+    ],
+    [
+      "149827900",
+      {"key": "149827900"}
+    ],
+    [
+      "149827901",
+      {"key": "149827901"}
+    ],
+    [
+      "149827902",
+      {"key": "149827902"}
+    ],
+    [
+      "149827903",
+      {"key": "149827903"}
+    ],
+    [
+      "149827905",
+      {"key": "149827905"}
+    ],
+    [
+      "149827907",
+      {"key": "149827907"}
+    ],
+    [
+      "149827910",
+      {"key": "149827910"}
+    ],
+    [
+      "149827912",
+      {"key": "149827912"}
+    ],
+    [
+      "149827913",
+      {"key": "149827913"}
+    ],
+    [
+      "149827916",
+      {"key": "149827916"}
+    ],
+    [
+      "149827917",
+      {"key": "149827917"}
+    ],
+    [
+      "149827920",
+      {"key": "149827920"}
+    ],
+    [
+      "149827922",
+      {"key": "149827922"}
+    ],
+    [
+      "149827924",
+      {"key": "149827924"}
+    ],
+    [
+      "149827926",
+      {"key": "149827926"}
+    ],
+    [
+      "149827927",
+      {"key": "149827927"}
+    ],
+    [
+      "149827930",
+      {"key": "149827930"}
+    ],
+    [
+      "149827931",
+      {"key": "149827931"}
+    ],
+    [
+      "149827932",
+      {"key": "149827932"}
+    ],
+    [
+      "149827934",
+      {"key": "149827934"}
+    ],
+    [
+      "149827937",
+      {"key": "149827937"}
+    ],
+    [
+      "149827939",
+      {"key": "149827939"}
+    ],
+    [
+      "149827941",
+      {"key": "149827941"}
+    ],
+    [
+      "149827942",
+      {"key": "149827942"}
+    ],
+    [
+      "149827944",
+      {"key": "149827944"}
+    ],
+    [
+      "149827948",
+      {"key": "149827948"}
+    ],
+    [
+      "149827951",
+      {"key": "149827951"}
+    ],
+    [
+      "149827952",
+      {"key": "149827952"}
+    ],
+    [
+      "149827955",
+      {"key": "149827955"}
+    ],
+    [
+      "149827958",
+      {"key": "149827958"}
+    ],
+    [
+      "149827961",
+      {"key": "149827961"}
+    ],
+    [
+      "149827963",
+      {"key": "149827963"}
+    ],
+    [
+      "149827966",
+      {"key": "149827966"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/17kacher",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Kacher enseña que nuestra fe en Jesucristo puede desbloquear los poderes del cielo y fortalecernos al enfrentar los desafíos de la vida.",
+          "title": "La escalera de la fe"
+        },
+        "pageSocial": {
+          "description": "El élder Kacher enseña que nuestra fe en Jesucristo puede desbloquear los poderes del cielo y fortalecernos al enfrentar los desafíos de la vida.",
+          "title": "La escalera de la fe"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/94/72/9472fbf5c23656bbfac01fa9e7f78e8e99f723e9/9472fbf5c23656bbfac01fa9e7f78e8e99f723e9.image/jpeg\" data-video-title=\"La escalera de la fe\" data-video-description=\"El élder Kacher enseña que nuestra fe en Jesucristo puede desbloquear los poderes del cielo y fortalecernos al enfrentar los desafíos de la vida.\" data-video-id=\"6302704518001\" data-ip=\"Download and Streaming                            \" data-duration=\"620588\" data-assetId=\"36df2416b2b911ecb90eeeeeac1e701117bda933\" data-ref-id=\"8B10AE5239619C583D489FD4CD482D0C7FA66C0C\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302704518001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1070-larry-s-kacher-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57761015\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1070-larry-s-kacher-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"148763124\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1070-larry-s-kacher-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"205153142\"/><\/video><h1 data-aid=\"149827863\" id=\"title1\">La escalera de la fe<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149827864\" id=\"author1\">Por el élder Larry S. Kacher<\/p>\n<p class=\"author-role\" data-aid=\"149827865\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149827866\" id=\"kicker1\">La incredulidad bloquea nuestra capacidad de ver milagros, mientras que la mentalidad de fe en el Salvador desbloquea los poderes del cielo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149827867\" id=\"p1\">¿Cómo se verá afectada nuestra fe en Jesucristo por los desafíos de la vida? ¿Y qué efecto tendrá nuestra fe en el gozo y la paz que experimentemos en esta vida?<\/p>\n<p data-aid=\"149827868\" id=\"p2\">Era el año 1977; sonó el teléfono y el mensaje nos partió el corazón. Carolyn y Doug Tebbs estaban en proceso de mudarse a su nuevo hogar después de terminar sus estudios de posgrado. El cuórum de élderes había llegado para cargar el camión de la mudanza. Doug, asegurándose de que el camino estaba despejado antes de retroceder, echó un último vistazo. Lo que no pudo ver fue a su pequeña hija, Jennie, lanzarse detrás del camión en el momento menos oportuno. En un instante, su querida Jennie se había ido.<\/p>\n<p data-aid=\"149827869\" id=\"p3\">¿Qué sucedería después? El dolor tan profundo que sentían y la inconcebible sensación de pérdida, ¿crearían un abismo irreconciliable entre Carolyn y Doug, o unirían de alguna manera sus corazones y fortalecerían su fe en el plan del Padre Celestial?<\/p>\n<p data-aid=\"149827870\" id=\"p4\">El trayecto a través de sus aflicciones ha sido largo y doloroso, pero de algún lugar surgieron las reservas espirituales para no perder la esperanza, sino \u201cpersevera[r] en [s]u camino\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. De alguna manera, esta increíble pareja se hizo aún más semejante a Cristo: más comprometida, más compasiva. Creían que, en su momento, Dios consagraría sus aflicciones para su provecho<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"149827871\" id=\"p5\">Aunque el dolor y la pérdida no se desvanecerían por completo, Carolyn y Doug se han sentido reconfortados por la seguridad de que, al permanecer firmemente en la senda de los convenios, su amada Jennie sería suya para siempre<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"149827872\" id=\"p6\">Su ejemplo ha fortalecido mi fe en el plan del Señor. Nosotros no vemos todas las cosas; Él, sí. El Señor le dijo a José Smith en la cárcel de Liberty: \u201c\u2026 [T]odas estas cosas te servirán de experiencia, y serán para tu bien. El Hijo del Hombre ha descendido debajo de todo ello. ¿Eres tú mayor que él?\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"149827873\" id=\"p7\">Cuando aceptamos la voluntad del Señor, Él nos enseña a andar con Él<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Cuando era un joven misionero que prestaba servicio en Tahití, se me pidió que bendijera a un bebé enfermo. Colocamos las manos sobre su cabeza y lo bendijimos para que mejorara. Su salud comenzó a mejorar, pero luego volvió a enfermar. Lo bendijimos por segunda vez, pero obtuvimos el mismo resultado. Llegó una tercera solicitud. Suplicamos al Señor que se hiciera Su voluntad. Poco después, aquel pequeño espíritu regresó a su hogar celestial.<\/p>\n<p data-aid=\"149827874\" id=\"p8\">Sin embargo, nos sentimos en paz. Nosotros queríamos que el bebé viviera, pero el Señor tenía otros planes. Aceptar Su voluntad, en lugar de la nuestra, es la clave para hallar gozo a pesar de las circunstancias.<\/p>\n<p data-aid=\"149827875\" id=\"p9\">La fe sencilla que tenemos en Jesucristo cuando comenzamos a aprender sobre Él puede permanecer en nuestro corazón a medida que enfrentamos los desafíos de la vida. Nuestra fe en Él puede guiarnos, y lo hará, a través de las complejidades de la vida. De hecho, encontraremos que hay simplicidad al otro lado de las complejidades de la vida<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> cuando permanecemos \u201cfirme[s] en Cristo, teniendo un fulgor perfecto de esperanza\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"149827876\" id=\"p10\">Parte del propósito de la vida es permitir que esas posibles piedras de tropiezo se conviertan en peldaños mientras subimos por lo que yo llamo la \u201cescalera de la fe\u201d; una escalera, porque sugiere que la fe no es estática, se puede subir o bajar según las decisiones que tomemos.<\/p>\n<p data-aid=\"149827877\" id=\"p11\">Mientras nos esforzamos por edificar la fe en el Salvador, es posible que no comprendamos plenamente el amor de Dios por nosotros y obedezcamos Sus leyes por un sentido de obligación. La culpa puede incluso convertirse en nuestro principal motivador, en lugar del amor. Es posible que aún no se haya experimentado una verdadera conexión con Él.<\/p>\n<p data-aid=\"149827878\" id=\"p12\">Al procurar aumentar nuestra fe, puede que estemos confundidos por lo que Santiago enseñó; él nos recordó que \u201cla fe sin obras es muerta\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Podemos tropezar si pensamos que todo depende de nosotros. Una dependencia excesiva de nosotros mismos puede entorpecer nuestra capacidad para acceder a los poderes del cielo.<\/p>\n<p data-aid=\"149827879\" id=\"p13\">Sin embargo, a medida que avanzamos hacia la verdadera fe en Jesucristo, nuestra mentalidad comienza a cambiar. Reconocemos que la obediencia y la fe en el Salvador nos hacen merecedores de tener siempre Su Espíritu con nosotros<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. La obediencia deja de ser una molestia y se convierte en una búsqueda<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Reconocemos que la obediencia a los mandamientos de Dios nos permite ganarnos Su confianza. Con Su confianza viene mayor luz; esa luz guía nuestro trayecto y nos permite ver más claramente la senda que debemos tomar.<\/p>\n<p data-aid=\"149827880\" id=\"p14\">Sin embargo, hay algo más. A medida que aumenta nuestra fe en el Salvador, observamos un cambio sutil que incluye una comprensión divina de nuestra relación con Dios, un movimiento constante que se aleja del \u201c¿Qué quiero yo?\u201d y se acerca al \u201c¿Qué quiere Dios?\u201d. Tal como el Salvador, deseamos actuar de manera que \u201cno sea como yo quiero, sino como tú\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Deseamos hacer la obra de Dios y ser un instrumento en Sus manos<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"149827881\" id=\"p15\">Nuestro progreso es un progreso eterno. El presidente Russell M. Nelson ha enseñado que hay mucho más que el Padre Celestial quiere que sepamos<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. A medida que progresamos, comprendemos mejor lo que el Señor enseñó a José Smith: \u201cPorque si guardáis mis mandamientos, recibiréis de su plenitud y seréis glorificados en mí [\u2026]; por lo tanto, os digo, recibiréis gracia sobre gracia\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. <\/p>\n<p data-aid=\"149827882\" id=\"p16\">Cuán alto ascendamos por la escalera de la fe es decisión nuestra. El élder Neil L. Andersen explicó que la \u201cfe de ustedes no aumentará por casualidad, sino por elección\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Podemos elegir tomar las decisiones necesarias para aumentar nuestra fe en el Salvador.<\/p>\n<p data-aid=\"149827883\" id=\"p17\">Consideren el impacto de las decisiones tomadas cuando Lamán y Lemuel descendían por la escalera de la fe mientras Nefi escalaba más alto. ¿Existe una representación más clara que la diferencia entre la respuesta de Nefi de \u201cIré y haré\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> y la de Lamán y Lemuel, quienes luego de ver a un ángel respondieron: \u201c¿Cómo es posible que el Señor nos libre?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"149827884\" id=\"p18\">La incredulidad bloquea nuestra capacidad de ver milagros, mientras que la mentalidad de fe en el Salvador desbloquea los poderes del cielo.<\/p>\n<p data-aid=\"149827885\" id=\"p19\">Aun cuando nuestra fe sea débil, la mano del Señor siempre estará extendida<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Hace años, recibí la asignación de reorganizar una estaca en Nigeria. En el último momento, hubo un cambio de fecha. Había un hombre en la estaca que había decidido ausentarse de la ciudad durante la primera fecha de la conferencia; no quería arriesgarse a ser llamado como presidente de estaca.<\/p>\n<p data-aid=\"149827886\" id=\"p20\">Mientras estaba fuera, tuvo un terrible accidente pero salió ileso. Esto lo llevó a considerar por qué se le había perdonado la vida. Reconsideró la decisión que había tomado; se arrepintió y asistió humildemente en la nueva fecha de la conferencia; y sí, fue llamado a ser el nuevo presidente de estaca.<\/p>\n<p data-aid=\"149827887\" id=\"p21\">El élder Neal A. Maxwell enseñó: \u201c\u2026 [S]olo si conformamos nuestra voluntad a la de Dios encontraremos una felicidad plena; cualquier otra cosa dará como resultado \u2018la menor porción\u2019\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"149827888\" id=\"p22\">Después de hacer \u201ccuanta cosa esté en a nuestro alcance\u201d, entonces es el momento de \u201cpermanecer tranquilos [\u2026] para ver la salvación de Dios\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Esto lo vi mientras servía como hermano ministrante a la familia McCormick. Casados desde hacía 21 años, Mary Kay servía fielmente en sus llamamientos; Ken no era miembro de la Iglesia y no tenía interés en serlo, pero por amor a su esposa, decidió asistir a la Iglesia con ella.<\/p>\n<p data-aid=\"149827889\" id=\"p23\">Un domingo sentí la impresión de compartir mi testimonio con Ken. Le pregunté si podía hacerlo. Su respuesta fue sencilla y clara: \u201cNo, gracias\u201d.<\/p>\n<p data-aid=\"149827890\" id=\"p24\">Me sentí desconcertado; había sentido una impresión y había tratado de seguirla. Era tentador decidir que ya había hecho mi parte, pero después de orar y reflexionar pude ver que, aunque mis intenciones eran correctas, había confiado demasiado en mí mismo y muy poco en el Señor.<\/p>\n<p data-aid=\"149827891\" id=\"p25\">Más tarde volví, pero con una mentalidad diferente. Iría simplemente como un instrumento en las manos del Señor, sin otro deseo que el de seguir al Espíritu. Junto con mi fiel compañero, Gerald Cardon, entramos en la casa de los McCormick.<\/p>\n<p data-aid=\"149827892\" id=\"p26\">Poco después, me sentí impulsado a invitar a Gerald a cantar \u201cYo sé que vive mi Señor\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Me miró extrañado, pero teniendo fe en mi fe, lo hizo. Un hermoso espíritu llenó la sala. Recibimos la impresión de invitar a Mary Kay y a Kristin, su hija, a compartir sus testimonios. Conforme lo hacían, el Espíritu se hacía más fuerte. De hecho, después del testimonio de Kristin, las lágrimas rodaban por las mejillas de Ken<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"149827893\" id=\"p27\">Dios había tomado el mando. No solo se conmovieron los corazones, sino que cambiaron para siempre. Veintiún años de incredulidad quedaron desvanecidos por el poder del Espíritu Santo. Una semana más tarde, Ken se bautizó. Un año después, Ken y Mary Kay se sellaron en la Casa del Señor por el tiempo y por toda la eternidad.<\/p>\n<p data-aid=\"149827894\" id=\"p28\">Juntos habíamos experimentado lo que significaba sustituir nuestra voluntad por la del Señor, y nuestra fe en Él aumentó.<\/p>\n<p data-aid=\"149827895\" id=\"p29\">Mientras ustedes se esfuerzan por subir por la escalera de la fe, consideren algunas preguntas hechas por los profetas de Dios:<\/p>\n<p data-aid=\"149827896\" id=\"p30\">¿Estoy despojado del orgullo?<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"149827897\" id=\"p31\">¿Doy cabida en mi corazón a la palabra de Dios?<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"149827898\" id=\"p32\">¿Permito que mis aflicciones sean consagradas para mi provecho?<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"149827899\" id=\"p33\">¿Estoy dispuesto a dejar que mi voluntad sea absorbida en la voluntad del Padre?<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<p data-aid=\"149827900\" id=\"p34\">Si he sentido el deseo de cantar la canción del amor que redime, ¿puedo sentirlo ahora?<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"149827901\" id=\"p35\">¿Dejo que Dios prevalezca en mi vida?<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"149827902\" id=\"p36\">Si consideran que su camino actual está en conflicto con su fe en el Salvador, entonces, por favor, busquen su camino de regreso a Él. Su exaltación y la de su posteridad, dependen de ello.<\/p>\n<p data-aid=\"149827903\" id=\"p37\">Ruego que podamos plantar las semillas de la fe en lo más profundo de nuestro corazón. Que nutramos esas semillas mientras nos unimos al Salvador al honrar los convenios que hemos hecho con Él. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149827905\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149827907\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149827910\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149827912\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11-12?lang=spa#p11\">Alma 7:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149827913\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.7-8?lang=spa#p7\">Doctrina y Convenios 122:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149827916\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=spa#p34\">Moisés 6:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149827917\" id=\"note6_p1\">Véase Bruce C. y Marie K. Hafen, \u201c<a href=\"https://speeches.byuh.edu/devotional/faith-is-not-blind\">Faith is not blind<\/a>\u201d (devocional de la Universidad Brigham Young\u2013Hawái, 24 de enero de 2017), speeches.byuh.edu.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149827920\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149827922\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/2.20?lang=spa#p20\">Santiago 2:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149827924\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/4.3?lang=spa#p3\">Moroni 4:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149827926\" id=\"note10_p1\">Véase Mary Ellen Smoot, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/we-are-instruments-in-the-hands-of-god?lang=spa&amp;para=18#p18\">Somos instrumentos en las manos de Dios<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, pág. 105.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149827927\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.39?lang=spa#p39\">Mateo 26:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149827930\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/29.9?lang=spa#p9\">Alma 29:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149827931\" id=\"note13_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=33#p33\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 95.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149827932\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.20?lang=spa#p20\">Doctrina y Convenios 93:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149827934\" id=\"note15_p1\">Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa&amp;para=5#p5\">La fe no es una casualidad, sino una elección<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, pág. 65)<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149827937\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=spa#p7\">1 Nefi 3:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149827939\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.31?lang=spa#p31\">1 Nefi 3:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149827941\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.14?lang=spa#p14\">3 Nefi 9:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149827942\" id=\"note19_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa&amp;para=16#p16\">\u2026 absorbida en la voluntad del Padre<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 26.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149827944\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.17?lang=spa#p17\">Doctrina y Convenios 123:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149827948\" id=\"note21_p1\">\u201cYo sé que vive mi Señor\u201d, <em>Himnos<\/em>, nro. 73.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149827951\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.9?lang=spa#p9\">Moroni 6:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149827952\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.28?lang=spa#p28\">Alma 5:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149827955\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.27-28?lang=spa#p27\">Alma 32:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149827958\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149827961\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7?lang=spa#p7\">Mosíah 15:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149827963\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149827966\" id=\"note28_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa&amp;para=24#p24\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149827872",
+        "id": "note4",
+        "text": "<p data-aid=\"149827913\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.7-8?lang=spa#p7\">Doctrina y Convenios 122:7\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.7-8?lang=spa#p7",
+          "text": "Doctrina y Convenios 122:7\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149827873",
+        "id": "note5",
+        "text": "<p data-aid=\"149827916\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=spa#p34\">Moisés 6:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.34?lang=spa#p34",
+          "text": "Moisés 6:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149827870",
+        "id": "note2",
+        "text": "<p data-aid=\"149827910\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=spa#p2",
+          "text": "2 Nefi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149827871",
+        "id": "note3",
+        "text": "<p data-aid=\"149827912\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11-12?lang=spa#p11\">Alma 7:11\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.11-12?lang=spa#p11",
+          "text": "Alma 7:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149827878",
+        "id": "note8",
+        "text": "<p data-aid=\"149827922\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/2.20?lang=spa#p20\">Santiago 2:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/james/2.20?lang=spa#p20",
+          "text": "Santiago 2:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149827879",
+        "id": "note9",
+        "text": "<p data-aid=\"149827924\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/4.3?lang=spa#p3\">Moroni 4:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/4.3?lang=spa#p3",
+          "text": "Moroni 4:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149827875",
+        "id": "note6",
+        "text": "<p data-aid=\"149827917\" id=\"note6_p1\">Véase Bruce C. y Marie K. Hafen, \u201c<a href=\"https://speeches.byuh.edu/devotional/faith-is-not-blind\">Faith is not blind<\/a>\u201d (devocional de la Universidad Brigham Young\u2013Hawái, 24 de enero de 2017), speeches.byuh.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byuh.edu/devotional/faith-is-not-blind",
+          "text": "Faith is not blind"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149827875",
+        "id": "note7",
+        "text": "<p data-aid=\"149827920\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=spa#p20",
+          "text": "2 Nefi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149827883",
+        "id": "note16",
+        "text": "<p data-aid=\"149827937\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=spa#p7\">1 Nefi 3:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/3.7?lang=spa#p7",
+          "text": "1 Nefi 3:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149827882",
+        "id": "note15",
+        "text": "<p data-aid=\"149827934\" id=\"note15_p1\">Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa&amp;para=5#p5\">La fe no es una casualidad, sino una elección<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, pág. 65)<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa&amp;para=5#p5",
+          "text": "La fe no es una casualidad, sino una elección",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149827881",
+        "id": "note14",
+        "text": "<p data-aid=\"149827932\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.20?lang=spa#p20\">Doctrina y Convenios 93:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/93.20?lang=spa#p20",
+          "text": "Doctrina y Convenios 93:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149827881",
+        "id": "note13",
+        "text": "<p data-aid=\"149827931\" id=\"note13_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=33#p33\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 95.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=33#p33",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149827880",
+        "id": "note12",
+        "text": "<p data-aid=\"149827930\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/29.9?lang=spa#p9\">Alma 29:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/29.9?lang=spa#p9",
+          "text": "Alma 29:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149827880",
+        "id": "note11",
+        "text": "<p data-aid=\"149827927\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.39?lang=spa#p39\">Mateo 26:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/26.39?lang=spa#p39",
+          "text": "Mateo 26:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149827879",
+        "id": "note10",
+        "text": "<p data-aid=\"149827926\" id=\"note10_p1\">Véase Mary Ellen Smoot, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/we-are-instruments-in-the-hands-of-god?lang=spa&amp;para=18#p18\">Somos instrumentos en las manos de Dios<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, pág. 105.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2000/10/we-are-instruments-in-the-hands-of-god?lang=spa&amp;para=18#p18",
+          "text": "Somos instrumentos en las manos de Dios",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149827887",
+        "id": "note19",
+        "text": "<p data-aid=\"149827942\" id=\"note19_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa&amp;para=16#p16\">\u2026 absorbida en la voluntad del Padre<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 26.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1995/10/swallowed-up-in-the-will-of-the-father?lang=spa&amp;para=16#p16",
+          "text": "\u2026 absorbida en la voluntad del Padre",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149827885",
+        "id": "note18",
+        "text": "<p data-aid=\"149827941\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.14?lang=spa#p14\">3 Nefi 9:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9.14?lang=spa#p14",
+          "text": "3 Nefi 9:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149827883",
+        "id": "note17",
+        "text": "<p data-aid=\"149827939\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.31?lang=spa#p31\">1 Nefi 3:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/3.31?lang=spa#p31",
+          "text": "1 Nefi 3:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149827900",
+        "id": "note27",
+        "text": "<p data-aid=\"149827963\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.26?lang=spa#p26",
+          "text": "Alma 5:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149827899",
+        "id": "note26",
+        "text": "<p data-aid=\"149827961\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7?lang=spa#p7\">Mosíah 15:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15.7?lang=spa#p7",
+          "text": "Mosíah 15:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149827898",
+        "id": "note25",
+        "text": "<p data-aid=\"149827958\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=spa#p2",
+          "text": "2 Nefi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149827897",
+        "id": "note24",
+        "text": "<p data-aid=\"149827955\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.27-28?lang=spa#p27\">Alma 32:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32.27-28?lang=spa#p27",
+          "text": "Alma 32:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149827896",
+        "id": "note23",
+        "text": "<p data-aid=\"149827952\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.28?lang=spa#p28\">Alma 5:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.28?lang=spa#p28",
+          "text": "Alma 5:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149827892",
+        "id": "note22",
+        "text": "<p data-aid=\"149827951\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.9?lang=spa#p9\">Moroni 6:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/6.9?lang=spa#p9",
+          "text": "Moroni 6:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149827892",
+        "id": "note21",
+        "text": "<p data-aid=\"149827948\" id=\"note21_p1\">\u201cYo sé que vive mi Señor\u201d, <em>Himnos<\/em>, nro. 73.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149827888",
+        "id": "note20",
+        "text": "<p data-aid=\"149827944\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.17?lang=spa#p17\">Doctrina y Convenios 123:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/123.17?lang=spa#p17",
+          "text": "Doctrina y Convenios 123:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149827870",
+        "id": "note1",
+        "text": "<p data-aid=\"149827907\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.9?lang=spa#p9",
+          "text": "Doctrina y Convenios 122:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149827901",
+        "id": "note28",
+        "text": "<p data-aid=\"149827966\" id=\"note28_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa&amp;para=24#p24\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=spa&amp;para=24#p24",
+          "text": "Que Dios prevalezca",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

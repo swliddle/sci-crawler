@@ -1,0 +1,800 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/27schmutz?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "e2dc4862dd26490f9f05fff84b2b28ba",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/27schmutz",
+      "data-aid": "154444215",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "e2dc4862dd26490f9f05fff84b2b28ba"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/a4/f1/a4f18518dc0effcbab686bcef17761a2b11bef05/a4f18518dc0effcbab686bcef17761a2b11bef05.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Trusting the Doctrine of Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444215",
+      {"key": "154444215"}
+    ],
+    [
+      "154444222",
+      {"key": "154444222"}
+    ],
+    [
+      "154444226",
+      {"key": "154444226"}
+    ],
+    [
+      "154444230",
+      {"key": "154444230"}
+    ],
+    [
+      "154444236",
+      {"key": "154444236"}
+    ],
+    [
+      "154444241",
+      {"key": "154444241"}
+    ],
+    [
+      "154444245",
+      {"key": "154444245"}
+    ],
+    [
+      "154444250",
+      {"key": "154444250"}
+    ],
+    [
+      "154444256",
+      {"key": "154444256"}
+    ],
+    [
+      "154444260",
+      {"key": "154444260"}
+    ],
+    [
+      "154444266",
+      {"key": "154444266"}
+    ],
+    [
+      "154444271",
+      {"key": "154444271"}
+    ],
+    [
+      "154444275",
+      {"key": "154444275"}
+    ],
+    [
+      "154444281",
+      {"key": "154444281"}
+    ],
+    [
+      "154444283",
+      {"key": "154444283"}
+    ],
+    [
+      "154444288",
+      {"key": "154444288"}
+    ],
+    [
+      "154444292",
+      {"key": "154444292"}
+    ],
+    [
+      "154444296",
+      {"key": "154444296"}
+    ],
+    [
+      "154444301",
+      {"key": "154444301"}
+    ],
+    [
+      "154444306",
+      {"key": "154444306"}
+    ],
+    [
+      "154444313",
+      {"key": "154444313"}
+    ],
+    [
+      "154444314",
+      {"key": "154444314"}
+    ],
+    [
+      "154444322",
+      {"key": "154444322"}
+    ],
+    [
+      "154444327",
+      {"key": "154444327"}
+    ],
+    [
+      "154444332",
+      {"key": "154444332"}
+    ],
+    [
+      "154444337",
+      {"key": "154444337"}
+    ],
+    [
+      "154444341",
+      {"key": "154444341"}
+    ],
+    [
+      "154444347",
+      {"key": "154444347"}
+    ],
+    [
+      "154444353",
+      {"key": "154444353"}
+    ],
+    [
+      "154444358",
+      {"key": "154444358"}
+    ],
+    [
+      "154444364",
+      {"key": "154444364"}
+    ],
+    [
+      "154444370",
+      {"key": "154444370"}
+    ],
+    [
+      "154444375",
+      {"key": "154444375"}
+    ],
+    [
+      "154444381",
+      {"key": "154444381"}
+    ],
+    [
+      "154444386",
+      {"key": "154444386"}
+    ],
+    [
+      "154444391",
+      {"key": "154444391"}
+    ],
+    [
+      "154444399",
+      {"key": "154444399"}
+    ],
+    [
+      "154444403",
+      {"key": "154444403"}
+    ],
+    [
+      "154444408",
+      {"key": "154444408"}
+    ],
+    [
+      "154444413",
+      {"key": "154444413"}
+    ],
+    [
+      "154444418",
+      {"key": "154444418"}
+    ],
+    [
+      "154444423",
+      {"key": "154444423"}
+    ],
+    [
+      "154444428",
+      {"key": "154444428"}
+    ],
+    [
+      "154444432",
+      {"key": "154444432"}
+    ],
+    [
+      "154444436",
+      {"key": "154444436"}
+    ],
+    [
+      "154444441",
+      {"key": "154444441"}
+    ],
+    [
+      "154444446",
+      {"key": "154444446"}
+    ],
+    [
+      "154444451",
+      {"key": "154444451"}
+    ],
+    [
+      "154444460",
+      {"key": "154444460"}
+    ],
+    [
+      "154444466",
+      {"key": "154444466"}
+    ],
+    [
+      "154444472",
+      {"key": "154444472"}
+    ],
+    [
+      "154444477",
+      {"key": "154444477"}
+    ],
+    [
+      "154444482",
+      {"key": "154444482"}
+    ],
+    [
+      "154444488",
+      {"key": "154444488"}
+    ],
+    [
+      "154444492",
+      {"key": "154444492"}
+    ],
+    [
+      "154444499",
+      {"key": "154444499"}
+    ],
+    [
+      "154444506",
+      {"key": "154444506"}
+    ],
+    [
+      "154444513",
+      {"key": "154444513"}
+    ],
+    [
+      "154444518",
+      {"key": "154444518"}
+    ],
+    [
+      "154444522",
+      {"key": "154444522"}
+    ],
+    [
+      "154444529",
+      {"key": "154444529"}
+    ],
+    [
+      "154444535",
+      {"key": "154444535"}
+    ],
+    [
+      "154444543",
+      {"key": "154444543"}
+    ],
+    [
+      "154444548",
+      {"key": "154444548"}
+    ],
+    [
+      "154444555",
+      {"key": "154444555"}
+    ],
+    [
+      "154444561",
+      {"key": "154444561"}
+    ],
+    [
+      "154444566",
+      {"key": "154444566"}
+    ],
+    [
+      "154444571",
+      {"key": "154444571"}
+    ],
+    [
+      "154444577",
+      {"key": "154444577"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/27schmutz",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Schmutz teaches about the blessings that come when we trust the doctrine of Christ.",
+          "title": "Trusting the Doctrine of Christ"
+        },
+        "pageSocial": {
+          "description": "Elder Schmutz teaches about the blessings that come when we trust the doctrine of Christ.",
+          "title": "Trusting the Doctrine of Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/a4/f1/a4f18518dc0effcbab686bcef17761a2b11bef05/a4f18518dc0effcbab686bcef17761a2b11bef05.jpeg\" data-video-title=\"Trusting the Doctrine of Christ\" data-video-description=\"Elder Schmutz teaches about the blessings that come when we trust the doctrine of Christ.\" data-video-id=\"6323800269112\" data-ip=\"Download and Streaming                            \" data-duration=\"630498\" data-assetId=\"ec51bbffd0de11ed9968eeeeac1e38f15faf5367\" data-ref-id=\"DB1F78C49DF6C98CBE78FF971FB76E0B971AC85B\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323800269112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211451692\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"58560690\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"151773402\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211451692\"/><\/video><h1 data-aid=\"154444222\" id=\"title1\">Trusting the Doctrine of Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444226\" id=\"author1\">By Elder Evan A. Schmutz<\/p>\n<p class=\"author-role\" data-aid=\"154444230\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154444236\" id=\"kicker1\">When we have built our houses on the foundation of a covenantal relationship with Christ, we are trusting the doctrine of Christ.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154444241\" id=\"p1\">In my mind\u2019s eye, I see the aging prophet Nephi at his desk, the plates of gold spread before him, his stylus in hand.<\/p>\n<p data-aid=\"154444245\" id=\"p2\">Nephi was in the process of finishing his last engraving on the record. He wrote, \u201cAnd now, my beloved brethren, I make an end of my sayings.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> But soon after, the Spirit urged Nephi to return to his record and write a concluding message. Under the powerful influence of the Holy Ghost, that great prophet took his stylus again in hand and wrote, \u201cWherefore, the things \u2026 I have written sufficeth me, save it be a few words \u2026 I <em>must<\/em> speak concerning the doctrine of Christ.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"154444250\" id=\"p3\">How eternally grateful we are for those \u201cfew words\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> and for the Spirit compelling Nephi to write them. Nephi\u2019s treatise on the doctrine of Christ is a treasure to those who feast upon it. It contains a vision of the Savior\u2019s baptism<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> and the voice of the Son inviting all to follow Him<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> and \u201cdo the things which [we] have seen [Him] do.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> It contains Nephi\u2019s witness that those who, with faith in Christ, sincerely repent of their sins and follow the Savior into the waters of baptism will \u201creceive the Holy Ghost; yea, then cometh the baptism of fire and of the Holy Ghost.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> We also hear the voice of the Father bearing record: \u201cYea, the words of my Beloved are true and faithful. He that endureth to the end, the same shall be saved.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"154444256\" id=\"p4\">President Russell M. Nelson emphasized the singular importance of the doctrine of Christ during remarks to newly called mission leaders: \u201cMore than anything else, we want our missionaries \u2026 to have the doctrine of Christ engraved in their hearts\u2014rooted \u2026 in the marrow of their bones.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"154444260\" id=\"p5\"><cite>Preach My Gospel<\/cite> summarizes five important elements of the doctrine of Christ. It says, \u201c[We] invite others to come unto Christ by helping them receive the restored gospel through faith in Jesus Christ and His Atonement, repentance, baptism, receiving the gift of the Holy Ghost, and enduring to the end.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"154444266\" id=\"p6\">But the importance of the doctrine of Christ is not just for missionaries! And it is much more profound than a mere summary repetition of its five key elements. It encompasses the law of the gospel. It is the great plan for eternal life.<\/p>\n<p data-aid=\"154444271\" id=\"p7\">Brothers and sisters, if we are to accept President Nelson\u2019s invitation to have the doctrine of Christ rooted in the marrow of <em>our<\/em> bones, we must deepen our conversion to the Lord by study, prayer, faithful living, and continual repentance. We must invite the Holy Ghost to engrave the doctrine of Christ in the \u201cfleshy tables of [our] heart[s]\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> as deeply and as permanently as it was engraved by Nephi upon the plates of gold.<\/p>\n<p data-aid=\"154444275\" id=\"p8\">Last October, President Nelson asked, \u201cWhat does it mean to overcome the world?\u201d Among other things, he said, \u201cIt means <em>trusting<\/em> the doctrine of Christ more than the philosophies of men.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"154444281\" id=\"p9\">The word <i>trust<\/i> is defined as an \u201cassured reliance on the character, ability, strength, or truth of someone or something.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> That someone is Jesus Christ, and that something is His doctrine.<\/p>\n<p data-aid=\"154444283\" id=\"p10\">So how would intentionally <em>trusting<\/em> the doctrine of Christ change the way we live our lives?<\/p>\n<p data-aid=\"154444288\" id=\"p11\">If we <em>trust<\/em> the doctrine of Christ, we will trust Christ enough to live by His every word.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> We will make a lifelong study of Jesus Christ,<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> His ministry, His teachings, and His infinite Atonement, including His glorious Resurrection. We will study His promises and the conditions upon which those promises are given.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> As we study, we will be filled with greater love for the Lord.<\/p>\n<p data-aid=\"154444292\" id=\"p12\">If we <em>trust<\/em> the doctrine of Christ, we will approach our Heavenly Father every day in humble, secret prayer, where we can express gratitude for the gift of His Son and for all of our blessings.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> We can pray for the revelatory companionship of the Holy Ghost,<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> pray to align our will with His,<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> pray to reflect upon our covenants and renew our commitment to keep them.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> We can pray to sustain and express love for our prophets, seers, and revelators;<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> pray for the cleansing power of forgiveness;<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> and pray for the strength to resist temptation.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> I invite you to make prayer a priority in your life, seeking each day to improve your communication with God.<\/p>\n<p data-aid=\"154444296\" id=\"p13\">If we <em>trust<\/em> the doctrine of Christ, we will set aside the shiny things of the world so that we can focus on the Redeemer of the world.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> We will limit or eliminate time spent on social media; digital games; wasteful, excessive, or inappropriate entertainment; the allure of this world\u2019s treasures and vanities; and any other activities that give place to the false traditions and misguided philosophies of men. It is only in Christ we find truth and lasting fulfillment.<\/p>\n<p data-aid=\"154444301\" id=\"p16\">Sincere repentance<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> will become a joyful<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> part of our lives\u2014both to be forgiven for sin and to be changed in the image of Christ.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> Repentance with faith in Christ gives us access to the Atonement of Christ. President Dallin H. Oaks has taught that when the Savior forgives, He \u201cdoes more than cleanse [us] from sin. He also gives [us] new strength.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a> Each one of us needs this strength to keep the commandments of God and to fulfill the eternal purpose of our lives.<\/p>\n<p data-aid=\"154444306\" id=\"p17\">In Jesus and in His doctrine, we find strength. He said, \u201cVerily, verily, I say unto you, that <em>this is my doctrine<\/em>, and whoso buildeth upon <em>this<\/em> buildeth upon my rock, and the gates of hell shall not prevail against them.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"154444313\" id=\"p18\">We see this promise fulfilled in the lives of faithful people. It was a little over a year ago that I was privileged to meet Travis and Kacie. They were married civilly in 2007. At the time, Travis was not a member of the Church. Kacie, though raised in an active Latter-day Saint home, had drifted from her faith in her teens and had strayed from her foundation.<\/p>\n<p data-aid=\"154444314\" id=\"p19\">In 2018, Travis met the missionaries, and he was baptized in 2019. Travis became a missionary to Kacie, who also experienced a life-changing conversion. They were sealed in the temple in September 2020. About two years after his baptism, Travis was called to serve in the bishopric.<\/p>\n<p data-aid=\"154444322\" id=\"p20\">Travis has a rare disease that continuously forms clusters of tumors in his internal organs. He has undergone many surgeries to remove the recurring tumors, but the disease is incurable. Several years ago, Travis was given fewer than 10 years to live.<\/p>\n<p data-aid=\"154444327\" id=\"p21\">Kacie has <i>retinitis pigmentosa<\/i>, a rare genetic disease that causes irreversible narrowing of the field of vision until complete blindness sets in.<\/p>\n<p data-aid=\"154444332\" id=\"p22\">Kacie spoke to me of her future. She anticipated the time, not far distant, when she would be widowed, blind, without financial support, and left alone to raise four growing children. I asked Kacie how she could handle such a bleak future. She smiled peacefully and said, \u201cI have never been happier or more hopeful in my life. We hold to the promises we received in the temple.\u201d<\/p>\n<p data-aid=\"154444337\" id=\"p23\">Travis is now the bishop. Two months ago he had another major surgery. But he is optimistic and peaceful. Kacie\u2019s vision has worsened. She now has a guide dog and is unable to drive. But she is content, raising her children and serving as a counselor in the Young Women presidency.<\/p>\n<p data-aid=\"154444341\" id=\"p24\">Travis and Kacie are building their house on the rock. Travis and Kacie trust the doctrine of Christ and the promise that God \u201cshall consecrate [their] afflictions for [their] gain.\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> In God\u2019s perfect plan, suffering with faith in Christ is linked to our becoming perfected in Christ.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> Like the wise man in the parable who built his house upon a rock,<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a> when the rain descends and the floods come and the winds blow and beat upon the house Travis and Kacie are building, it will fall not, for it will be founded upon a rock.<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a><\/p>\n<p data-aid=\"154444347\" id=\"p25\">Jesus did not speak of the <em>possibility<\/em> of rain and flood and wind in our lives; He spoke of the <em>certainty<\/em> that storms will arise. The variable in this parable is not whether storms will come but how we have responded to His loving invitation to both hear and do what He has taught.<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a> There is no other way to survive.<\/p>\n<p data-aid=\"154444353\" id=\"p26\">When we have built our houses on the foundation of a covenantal relationship with Christ, we are <em>trusting<\/em> the doctrine of Christ, and as we come unto Him, we have His promise of eternal life. People who trust the doctrine of Christ press forward with steadfastness in Christ and endure to the end. There is no other way to be saved in the kingdom of heaven.<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a><\/p>\n<p data-aid=\"154444358\" id=\"p27\">I bear my personal witness of the living, resurrected reality of Jesus Christ. I testify that God our Father so loved the world He sent His Son to redeem us from sin<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a> and heal us from sorrow.<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a> I testify that He has called a prophet of God in our time, even President Russell M. Nelson, through whom He speaks and guides us.<\/p>\n<p data-aid=\"154444364\" id=\"p28\">With all my heart, I invite you to trust the doctrine of Christ and build your lives upon the rock of the Redeemer. He will never fail you. In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154444370\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154444375\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/30.18?lang=eng#p18\">2 Nephi 30:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154444381\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2?lang=eng#p2\">2 Nephi 31:2<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154444386\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng\">2 Nephi 31\u201332<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154444391\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7-8?lang=eng#p7\">2 Nephi 31:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154444399\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=eng#p10\">2 Nephi 31:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154444403\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.12?lang=eng#p12\">2 Nephi 31:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154444408\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.13?lang=eng#p13\">2 Nephi 31:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154444413\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.15?lang=eng#p15\">2 Nephi 31:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154444418\" id=\"note9_p1\">In Marianne Holman Prescott, \u201c<a href=\"https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord\">Elder Russell M. Nelson: \u2018Epistles of the Lord,\u2019<\/a>\u201d <cite>Church News<\/cite>, July 1, 2015, <span class=\"language\" lang=\"eng\">thechurchnews.com<\/span>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154444423\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=eng&amp;para=figure2#figure2\">Preach My Gospel: A Guide to Missionary Service<\/a><\/cite> (2018), 1. The \u201cmissionary purpose\u201d reflects the five elements of the doctrine of Christ. The teaching of <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng\">2 Nephi 31\u201332<\/a> includes several other important elements that are part of the doctrine of Christ, such as holding fast to the word of Christ (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-20?lang=eng#p19\">2 Nephi 31:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">32:3<\/a>); keeping commandments (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7,10,18?lang=eng#p7\">2 Nephi 31:7, 10, 18<\/a>); prayer (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.8-9?lang=eng#p8\">2 Nephi 32:8\u20139<\/a>); and at its very core, the doctrine that Christ\u2019s atoning sacrifice is the only way whereby we can be saved (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.21?lang=eng#p21\">2 Nephi 31:21<\/a>). Elements of the doctrine of Christ are found throughout the scriptures, although the most thorough discussions of the doctrine are found in <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.5-21?lang=eng#p5\">2 Nephi 31:5\u201321<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-39?lang=eng#p31\">3 Nephi 11:31\u201339<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-21?lang=eng#p13\">3 Nephi 27:13\u201321<\/a>, and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59-62?lang=eng#p59\">Moses 6:59\u201362<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154444428\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154444432\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=18%2C21#p18\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154444436\" id=\"note13_p1\"><cite>Merriam-Webster.com Dictionary<\/cite>, \u201c<a href=\"https://www.merriam-webster.com/dictionary/trust\">trust<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154444441\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.44?lang=eng#p44\">Doctrine and Covenants 84:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154444446\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29?lang=eng#p29\">Matthew 11:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154444451\" id=\"note16_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=5-6#p5\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 39: \u201cWe begin by learning about Him. \u2026 The more we know about the Savior\u2019s ministry and mission\u2014the more we understand His doctrine and what He did for us. \u2026 I [invite you] to let the scriptural citations about Jesus Christ in the Topical Guide become [your] personal core curriculum.\u201d<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154444460\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.6-13?lang=eng#p6\">Matthew 6:6\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154444466\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.9?lang=eng#p9\">3 Nephi 19:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154444472\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=eng#p35\">2 Nephi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.24?lang=eng#p24\">3 Nephi 19:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=eng#p30\">Doctrine and Covenants 46:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154444477\" id=\"note20_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;para=28#p28\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 95: \u201cI invite you to set a regular time to rehearse in your mind the covenants you have made.\u201d<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154444482\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.22?lang=eng#p22\">Doctrine and Covenants 107:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154444488\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=eng#p10\">Mosiah 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154444492\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.13?lang=eng#p13\">Matthew 6:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154444499\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.19-21,33?lang=eng#p19\">Matthew 6:19\u201321, 33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154444506\" id=\"note25_p1\">King Benjamin described sincere repentance: \u201cAnd again, believe that ye must repent of your sins and forsake them, and humble yourselves before God; and ask in sincerity of heart that he would forgive you; and now, if you believe all these things see that ye do them\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=eng#p10\">Mosiah 4:10<\/a>).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154444513\" id=\"note26_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng&amp;para=21-22#p21\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 98\u201399: \u201cStart today to experience the joy of putting off the natural man. The Savior loves us always but <em>especially<\/em> when we repent. \u2026 Experience the joy and relief of repenting.\u201d<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154444518\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14-15?lang=eng#p14\">Alma 5:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154444522\" id=\"note28_p1\">Dallin H. Oaks, \u201cOur Message for Missionaries\u201d (worldwide missionary broadcast, Jan. 20, 2016); see also Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/ensign/1992/07/sin-and-suffering?lang=eng&amp;para=55#p55\">Sin and Suffering<\/a>,\u201d <cite>Ensign<\/cite>, July 1992, 73.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154444529\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.39?lang=eng#p39\">3 Nephi 11:39<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154444535\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=eng#p2\">2 Nephi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154444543\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.8-9?lang=eng#p8\">Hebrews 5:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154444548\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-27?lang=eng#p24\">3 Nephi 14:24\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"154444555\" id=\"note33_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-25?lang=eng#p24\">3 Nephi 14:24\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"154444561\" id=\"note34_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24?lang=eng#p24\">3 Nephi 14:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"154444566\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20-21?lang=eng#p20\">2 Nephi 31:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"154444571\" id=\"note36_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16-17?lang=eng#p16\">John 3:16\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"154444577\" id=\"note37_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.20?lang=eng#p20\">John 16:20<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154444250",
+        "id": "note4",
+        "text": "<p data-aid=\"154444391\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7-8?lang=eng#p7\">2 Nephi 31:7\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.7-8?lang=eng#p7",
+          "text": "2 Nephi 31:7\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154444250",
+        "id": "note5",
+        "text": "<p data-aid=\"154444399\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=eng#p10\">2 Nephi 31:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.10?lang=eng#p10",
+          "text": "2 Nephi 31:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154444245",
+        "id": "note2",
+        "text": "<p data-aid=\"154444381\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2?lang=eng#p2\">2 Nephi 31:2<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.2?lang=eng#p2",
+          "text": "2 Nephi 31:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154444250",
+        "id": "note3",
+        "text": "<p data-aid=\"154444386\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng\">2 Nephi 31\u201332<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=eng",
+          "text": "2 Nephi 31\u201332",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154444250",
+        "id": "note8",
+        "text": "<p data-aid=\"154444413\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.15?lang=eng#p15\">2 Nephi 31:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.15?lang=eng#p15",
+          "text": "2 Nephi 31:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154444256",
+        "id": "note9",
+        "text": "<p data-aid=\"154444418\" id=\"note9_p1\">In Marianne Holman Prescott, \u201c<a href=\"https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord\">Elder Russell M. Nelson: \u2018Epistles of the Lord,\u2019<\/a>\u201d <cite>Church News<\/cite>, July 1, 2015, <span class=\"language\" lang=\"eng\">thechurchnews.com<\/span>.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord",
+          "text": "Elder Russell M. Nelson: \u2018Epistles of the Lord,\u2019"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154444250",
+        "id": "note6",
+        "text": "<p data-aid=\"154444403\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.12?lang=eng#p12\">2 Nephi 31:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.12?lang=eng#p12",
+          "text": "2 Nephi 31:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154444250",
+        "id": "note7",
+        "text": "<p data-aid=\"154444408\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.13?lang=eng#p13\">2 Nephi 31:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.13?lang=eng#p13",
+          "text": "2 Nephi 31:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154444341",
+        "id": "note30",
+        "text": "<p data-aid=\"154444535\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=eng#p2\">2 Nephi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=eng#p2",
+          "text": "2 Nephi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154444288",
+        "id": "note16",
+        "text": "<p data-aid=\"154444451\" id=\"note16_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=5-6#p5\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 39: \u201cWe begin by learning about Him. \u2026 The more we know about the Savior\u2019s ministry and mission\u2014the more we understand His doctrine and what He did for us. \u2026 I [invite you] to let the scriptural citations about Jesus Christ in the Topical Guide become [your] personal core curriculum.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=5-6#p5",
+          "text": "Drawing the Power of Jesus Christ into Our Lives",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154444288",
+        "id": "note15",
+        "text": "<p data-aid=\"154444446\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29?lang=eng#p29\">Matthew 11:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.29?lang=eng#p29",
+          "text": "Matthew 11:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "154444358",
+        "id": "note37",
+        "text": "<p data-aid=\"154444577\" id=\"note37_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.20?lang=eng#p20\">John 16:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.20?lang=eng#p20",
+          "text": "John 16:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154444288",
+        "id": "note14",
+        "text": "<p data-aid=\"154444441\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.44?lang=eng#p44\">Doctrine and Covenants 84:44<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.44?lang=eng#p44",
+          "text": "Doctrine and Covenants 84:44",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "154444358",
+        "id": "note36",
+        "text": "<p data-aid=\"154444571\" id=\"note36_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16-17?lang=eng#p16\">John 3:16\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3.16-17?lang=eng#p16",
+          "text": "John 3:16\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154444281",
+        "id": "note13",
+        "text": "<p data-aid=\"154444436\" id=\"note13_p1\"><cite>Merriam-Webster.com Dictionary<\/cite>, \u201c<a href=\"https://www.merriam-webster.com/dictionary/trust\">trust<\/a>.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "https://www.merriam-webster.com/dictionary/trust",
+          "text": "trust"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "154444353",
+        "id": "note35",
+        "text": "<p data-aid=\"154444566\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20-21?lang=eng#p20\">2 Nephi 31:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20-21?lang=eng#p20",
+          "text": "2 Nephi 31:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154444275",
+        "id": "note12",
+        "text": "<p data-aid=\"154444432\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=18%2C21#p18\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;para=18%2C21#p18",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "154444347",
+        "id": "note34",
+        "text": "<p data-aid=\"154444561\" id=\"note34_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24?lang=eng#p24\">3 Nephi 14:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24?lang=eng#p24",
+          "text": "3 Nephi 14:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154444271",
+        "id": "note11",
+        "text": "<p data-aid=\"154444428\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/3.3?lang=eng#p3",
+          "text": "2 Corinthians 3:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "154444341",
+        "id": "note33",
+        "text": "<p data-aid=\"154444555\" id=\"note33_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-25?lang=eng#p24\">3 Nephi 14:24\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24-25?lang=eng#p24",
+          "text": "3 Nephi 14:24\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154444260",
+        "id": "note10",
+        "text": "<p data-aid=\"154444423\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=eng&amp;para=figure2#figure2\">Preach My Gospel: A Guide to Missionary Service<\/a><\/cite> (2018), 1. The \u201cmissionary purpose\u201d reflects the five elements of the doctrine of Christ. The teaching of <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng\">2 Nephi 31\u201332<\/a> includes several other important elements that are part of the doctrine of Christ, such as holding fast to the word of Christ (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-20?lang=eng#p19\">2 Nephi 31:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">32:3<\/a>); keeping commandments (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7,10,18?lang=eng#p7\">2 Nephi 31:7, 10, 18<\/a>); prayer (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.8-9?lang=eng#p8\">2 Nephi 32:8\u20139<\/a>); and at its very core, the doctrine that Christ\u2019s atoning sacrifice is the only way whereby we can be saved (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.21?lang=eng#p21\">2 Nephi 31:21<\/a>). Elements of the doctrine of Christ are found throughout the scriptures, although the most thorough discussions of the doctrine are found in <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.5-21?lang=eng#p5\">2 Nephi 31:5\u201321<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-39?lang=eng#p31\">3 Nephi 11:31\u201339<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-21?lang=eng#p13\">3 Nephi 27:13\u201321<\/a>, and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59-62?lang=eng#p59\">Moses 6:59\u201362<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=eng&amp;para=figure2#figure2",
+            "text": "Preach My Gospel: A Guide to Missionary Service",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=eng",
+            "text": "2 Nephi 31\u201332",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.19-20?lang=eng#p19",
+            "text": "2 Nephi 31:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.3?lang=eng#p3",
+            "text": "32:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.7,10,18?lang=eng#p7",
+            "text": "2 Nephi 31:7, 10, 18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.8-9?lang=eng#p8",
+            "text": "2 Nephi 32:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.21?lang=eng#p21",
+            "text": "2 Nephi 31:21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.5-21?lang=eng#p5",
+            "text": "2 Nephi 31:5\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.31-39?lang=eng#p31",
+            "text": "3 Nephi 11:31\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.13-21?lang=eng#p13",
+            "text": "3 Nephi 27:13\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.59-62?lang=eng#p59",
+            "text": "Moses 6:59\u201362",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154444341",
+        "id": "note32",
+        "text": "<p data-aid=\"154444548\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-27?lang=eng#p24\">3 Nephi 14:24\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24-27?lang=eng#p24",
+          "text": "3 Nephi 14:24\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154444341",
+        "id": "note31",
+        "text": "<p data-aid=\"154444543\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.8-9?lang=eng#p8\">Hebrews 5:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/5.8-9?lang=eng#p8",
+          "text": "Hebrews 5:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154444292",
+        "id": "note19",
+        "text": "<p data-aid=\"154444472\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=eng#p35\">2 Nephi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.24?lang=eng#p24\">3 Nephi 19:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=eng#p30\">Doctrine and Covenants 46:30<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/4.35?lang=eng#p35",
+            "text": "2 Nephi 4:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/19.24?lang=eng#p24",
+            "text": "3 Nephi 19:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/46.30?lang=eng#p30",
+            "text": "Doctrine and Covenants 46:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154444292",
+        "id": "note18",
+        "text": "<p data-aid=\"154444466\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.9?lang=eng#p9\">3 Nephi 19:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/19.9?lang=eng#p9",
+          "text": "3 Nephi 19:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154444292",
+        "id": "note17",
+        "text": "<p data-aid=\"154444460\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.6-13?lang=eng#p6\">Matthew 6:6\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.6-13?lang=eng#p6",
+          "text": "Matthew 6:6\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154444301",
+        "id": "note27",
+        "text": "<p data-aid=\"154444518\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14-15?lang=eng#p14\">Alma 5:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.14-15?lang=eng#p14",
+          "text": "Alma 5:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154444301",
+        "id": "note26",
+        "text": "<p data-aid=\"154444513\" id=\"note26_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng&amp;para=21-22#p21\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 98\u201399: \u201cStart today to experience the joy of putting off the natural man. The Savior loves us always but <em>especially<\/em> when we repent. \u2026 Experience the joy and relief of repenting.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=eng&amp;para=21-22#p21",
+          "text": "The Power of Spiritual Momentum",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154444301",
+        "id": "note25",
+        "text": "<p data-aid=\"154444506\" id=\"note25_p1\">King Benjamin described sincere repentance: \u201cAnd again, believe that ye must repent of your sins and forsake them, and humble yourselves before God; and ask in sincerity of heart that he would forgive you; and now, if you believe all these things see that ye do them\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=eng#p10\">Mosiah 4:10<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4.10?lang=eng#p10",
+          "text": "Mosiah 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154444296",
+        "id": "note24",
+        "text": "<p data-aid=\"154444499\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.19-21,33?lang=eng#p19\">Matthew 6:19\u201321, 33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.19-21,33?lang=eng#p19",
+          "text": "Matthew 6:19\u201321, 33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154444292",
+        "id": "note23",
+        "text": "<p data-aid=\"154444492\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.13?lang=eng#p13\">Matthew 6:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.13?lang=eng#p13",
+          "text": "Matthew 6:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154444292",
+        "id": "note22",
+        "text": "<p data-aid=\"154444488\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=eng#p10\">Mosiah 4:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4.10?lang=eng#p10",
+          "text": "Mosiah 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154444292",
+        "id": "note21",
+        "text": "<p data-aid=\"154444482\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.22?lang=eng#p22\">Doctrine and Covenants 107:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/107.22?lang=eng#p22",
+          "text": "Doctrine and Covenants 107:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154444292",
+        "id": "note20",
+        "text": "<p data-aid=\"154444477\" id=\"note20_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;para=28#p28\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 95: \u201cI invite you to set a regular time to rehearse in your mind the covenants you have made.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=eng&amp;para=28#p28",
+          "text": "The Temple and Your Spiritual Foundation",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154444245",
+        "id": "note1",
+        "text": "<p data-aid=\"154444375\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/30.18?lang=eng#p18\">2 Nephi 30:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/30.18?lang=eng#p18",
+          "text": "2 Nephi 30:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154444306",
+        "id": "note29",
+        "text": "<p data-aid=\"154444529\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.39?lang=eng#p39\">3 Nephi 11:39<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.39?lang=eng#p39",
+          "text": "3 Nephi 11:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154444301",
+        "id": "note28",
+        "text": "<p data-aid=\"154444522\" id=\"note28_p1\">Dallin H. Oaks, \u201cOur Message for Missionaries\u201d (worldwide missionary broadcast, Jan. 20, 2016); see also Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/ensign/1992/07/sin-and-suffering?lang=eng&amp;para=55#p55\">Sin and Suffering<\/a>,\u201d <cite>Ensign<\/cite>, July 1992, 73.<\/p>",
+        "referenceUris": [{
+          "href": "/study/ensign/1992/07/sin-and-suffering?lang=eng&amp;para=55#p55",
+          "text": "Sin and Suffering",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

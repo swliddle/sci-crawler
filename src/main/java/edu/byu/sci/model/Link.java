@@ -155,13 +155,18 @@ public class Link {
         link.verses = maxVerse > 1 ? ("1-" + maxVerse) : "1";
 
         if (!link.href.contains(".")) {
-            link.href += "." + link.verses;
+            if (link.href.contains("?")) {
+                link.href = link.href.replace("?", "." + link.verses + "?");
+            } else {
+                link.href += "." + link.verses;
+            }
         }
 
         links.add(link);
     }
 
-    // NEEDSWORK: it would be sweet to automate this processing so we rewrite the talk to include
+    // NEEDSWORK: it would be sweet to automate this processing so we rewrite the
+    // talk to include
     // the additional hyperlinks implied by the disjunctions and/or ranges we find
     private void addLinksForReferencedChaptersOtherThanChapter(List<Link> links, int baseChapter) {
         int chapterIndex = text.indexOf(baseChapter + "");
@@ -259,14 +264,47 @@ public class Link {
         }
     }
 
+    private String textTransform(String str) {
+        return str
+                .replace("\u00A0", " ")
+                .replace("\u2013", "-")
+                .replace("–", "-")
+                .replace("—", "-");
+    }
+
+    private boolean textIsSimilar(String text1, String text2) {
+        if (text1 == null || text2 == null) {
+            return text1 == null && text2 == null;
+        }
+
+        return textTransform(text1).equals(textTransform(text2));
+    }
+
     public boolean isEqualTo(Link link) {
-        return isDeleted == link.isDeleted && isJst == link.isJst && page == link.page && verses.equals(link.verses)
-                && chapter.equals(link.chapter) && book.equals(link.book) && text.equals(link.text)
-                && href.equals(link.href) && talkId.equals(link.talkId);
+        if (verses == null || chapter == null) {
+            // Compare on the non-chapter/verse elements
+            return isDeleted == link.isDeleted
+                    && isJst == link.isJst
+                    && page == link.page
+                    && book.equals(link.book)
+                    && textIsSimilar(text, link.text)
+                    && href.equals(link.href)
+                    && talkId.equals(link.talkId);
+        }
+
+        return isDeleted == link.isDeleted
+                && isJst == link.isJst
+                && page == link.page
+                && textIsSimilar(verses, link.verses)
+                && chapter.equals(link.chapter)
+                && book.equals(link.book)
+                && textIsSimilar(text, link.text)
+                && textIsSimilar(href, link.href)
+                && talkId.equals(link.talkId);
     }
 
     public static String firstVerse(String verses) {
-        String[] parts = verses.split("[-,]");
+        String[] parts = verses.split("[-–—,]");
 
         if (parts.length > 0) {
             return parts[0];

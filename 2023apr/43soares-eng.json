@@ -1,0 +1,664 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/43soares?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "b9481a7014cf4276aeea987fcbb199d5",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/43soares",
+      "data-aid": "154444075",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "b9481a7014cf4276aeea987fcbb199d5"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/56/2a/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Followers of the Prince of Peace",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444075",
+      {"key": "154444075"}
+    ],
+    [
+      "154444081",
+      {"key": "154444081"}
+    ],
+    [
+      "154444088",
+      {"key": "154444088"}
+    ],
+    [
+      "154444095",
+      {"key": "154444095"}
+    ],
+    [
+      "154445102",
+      {"key": "154445102"}
+    ],
+    [
+      "154445109",
+      {"key": "154445109"}
+    ],
+    [
+      "154445116",
+      {"key": "154445116"}
+    ],
+    [
+      "154445125",
+      {"key": "154445125"}
+    ],
+    [
+      "154445134",
+      {"key": "154445134"}
+    ],
+    [
+      "154445143",
+      {"key": "154445143"}
+    ],
+    [
+      "154445151",
+      {"key": "154445151"}
+    ],
+    [
+      "154445158",
+      {"key": "154445158"}
+    ],
+    [
+      "154445166",
+      {"key": "154445166"}
+    ],
+    [
+      "154445176",
+      {"key": "154445176"}
+    ],
+    [
+      "154445186",
+      {"key": "154445186"}
+    ],
+    [
+      "154445196",
+      {"key": "154445196"}
+    ],
+    [
+      "154445206",
+      {"key": "154445206"}
+    ],
+    [
+      "154445216",
+      {"key": "154445216"}
+    ],
+    [
+      "154445227",
+      {"key": "154445227"}
+    ],
+    [
+      "154445238",
+      {"key": "154445238"}
+    ],
+    [
+      "154445248",
+      {"key": "154445248"}
+    ],
+    [
+      "154445259",
+      {"key": "154445259"}
+    ],
+    [
+      "154445267",
+      {"key": "154445267"}
+    ],
+    [
+      "154445279",
+      {"key": "154445279"}
+    ],
+    [
+      "154445287",
+      {"key": "154445287"}
+    ],
+    [
+      "154445296",
+      {"key": "154445296"}
+    ],
+    [
+      "154445307",
+      {"key": "154445307"}
+    ],
+    [
+      "154445319",
+      {"key": "154445319"}
+    ],
+    [
+      "154445329",
+      {"key": "154445329"}
+    ],
+    [
+      "154445341",
+      {"key": "154445341"}
+    ],
+    [
+      "154445352",
+      {"key": "154445352"}
+    ],
+    [
+      "154445364",
+      {"key": "154445364"}
+    ],
+    [
+      "154445375",
+      {"key": "154445375"}
+    ],
+    [
+      "154445386",
+      {"key": "154445386"}
+    ],
+    [
+      "154445397",
+      {"key": "154445397"}
+    ],
+    [
+      "154445408",
+      {"key": "154445408"}
+    ],
+    [
+      "154445419",
+      {"key": "154445419"}
+    ],
+    [
+      "154445431",
+      {"key": "154445431"}
+    ],
+    [
+      "154445442",
+      {"key": "154445442"}
+    ],
+    [
+      "154445452",
+      {"key": "154445452"}
+    ],
+    [
+      "154445462",
+      {"key": "154445462"}
+    ],
+    [
+      "154445472",
+      {"key": "154445472"}
+    ],
+    [
+      "154445482",
+      {"key": "154445482"}
+    ],
+    [
+      "154445493",
+      {"key": "154445493"}
+    ],
+    [
+      "154445505",
+      {"key": "154445505"}
+    ],
+    [
+      "154445515",
+      {"key": "154445515"}
+    ],
+    [
+      "154445524",
+      {"key": "154445524"}
+    ],
+    [
+      "154445533",
+      {"key": "154445533"}
+    ],
+    [
+      "154445540",
+      {"key": "154445540"}
+    ],
+    [
+      "154445548",
+      {"key": "154445548"}
+    ],
+    [
+      "154445556",
+      {"key": "154445556"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/43soares",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Soares teaches about Christlike attributes that help us promote peace and become true followers of Jesus Christ.",
+          "title": "Followers of the Prince of Peace"
+        },
+        "pageSocial": {
+          "description": "Elder Soares teaches about Christlike attributes that help us promote peace and become true followers of Jesus Christ.",
+          "title": "Followers of the Prince of Peace"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/56/2a/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6/562a31f54cc9c457be4bc7a43159ab5f82fa7ff6.jpeg\" data-video-title=\"Followers of the Prince of Peace\" data-video-description=\"Elder Soares teaches about Christlike attributes that help us promote peace and become true followers of Jesus Christ.\" data-video-id=\"6323839020112\" data-ip=\"Download and Streaming                            \" data-duration=\"815449\" data-assetId=\"3fd3a7e4d18311ed9cd2eeeeac1e8cef7ea2460b\" data-ref-id=\"C14515884D9ED5D361226D77C42A323D04AF4774\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323839020112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273287708\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"75737745\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"196489563\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4030-ulisses-soares-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273287708\"/><\/video><h1 data-aid=\"154444081\" id=\"title1\">Followers of the Prince of Peace<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444088\" id=\"author1\">By Elder Ulisses Soares<\/p>\n<p class=\"author-role\" data-aid=\"154444095\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154445102\" id=\"kicker1\">As we strive to develop attributes like the Savior\u2019s, we can become instruments of His peace in the world.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154445109\" id=\"p1\">In fulfillment of the prophecy given to Zechariah,<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> Jesus triumphantly entered the Holy City riding upon a donkey, which was considered in literature an \u201cancient symbol of Jewish royalty,\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> as indeed befitted the King of kings and Prince of Peace.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> He was surrounded by a multitude of jubilant disciples who spread out their garments, palm leaves, and other foliage along the path where Jesus passed. They praised God, saying with a loud voice, \u201cBlessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> And again, \u201cHosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> This majestic event, which we celebrate on this day known as Palm Sunday, was a joyful prelude to the excruciating events that would occur during that fateful week culminating in the Savior\u2019s selfless sacrifice and the magnificent miracle of the empty tomb.<\/p>\n<p data-aid=\"154445116\" id=\"p2\">As His followers, we are His peculiar people, called to proclaim His virtues,<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> promoters of the peace so generously offered through Him and His atoning sacrifice. This peace is a gift promised to all who turn their hearts to the Savior and live righteously; such peace gives us the strength to enjoy mortal life and enables us to endure the painful trials of our journey.<\/p>\n<p data-aid=\"154445125\" id=\"p3\">In 1847, the Lord gave specific instructions to the pioneer Saints, who needed peace to remain calm and united as they faced unexpected difficulties on their westward journey. Among other things, the Lord instructed the Saints to \u201ccease to contend one with another; cease to speak evil one of another.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> The scriptures affirm that those who practice works of righteousness and strive to walk in the meekness of the Spirit of the Lord are promised the peace they need to survive the days of commotion in which we live today.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"154445134\" id=\"p4\">As disciples of the Prince of Peace, we have been instructed to live with \u201chearts knit together in unity and in love one towards another.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> Our beloved prophet, President Russell M. Nelson, recently stated, \u201cContention violates everything the Savior stood for and taught.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Our prophet also implored that we do all we can to end personal conflicts that are currently raging in our hearts and in our lives.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"154445143\" id=\"p5\">Let us consider these principles in view of Christ\u2019s pure love for us that we, as His followers, seek to have for one another. The scriptures define this kind of love as charity.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> When we think of charity, our minds usually turn to generous acts and donations to relieve the suffering of those who are experiencing physical, material, or emotional difficulties. Still, charity is not only related to something we donate to someone, but it\u2019s an attribute of the Savior and can become part of our character. It is not surprising that the Lord instructed us to clothe ourselves \u201cwith the bond of charity, \u2026 which is the bond of perfectness and peace.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Without charity, we are nothing<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> and we cannot inherit the place the Lord has prepared for us in the mansions of our Heavenly Father.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"154445151\" id=\"p6\">Jesus perfectly exemplified what it means to own this bond of perfection and peace, especially when facing the agonizing events that preceded His martyrdom. Think for a moment about what Jesus must have felt as He humbly washed His disciples\u2019 feet, knowing that one of them would betray Him that very night.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Or when Jesus, hours later, mercifully healed the ear of one of the men who had accompanied Judas, His betrayer, to arrest Him.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> Or even when the Savior, standing in front of Pilate, was unfairly accused by the chief priests and elders, and not a word He uttered against the false charges against Him, and He left the Roman governor marveling.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"154445158\" id=\"p18\">Through these three tragic incidents, the Savior, despite being burdened with excessive sadness and stress, taught us by His example that \u201ccharity suffereth long, and is kind; \u2026 envieth not; \u2026 vaunteth not itself, is not puffed up, doth not behave itself unseemly, seeketh not her own, is not easily provoked, [and] thinketh no evil.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"154445166\" id=\"p7\">Another important aspect to emphasize, and one that has direct implications on our discipleship and how we promote the peace of the Savior, is the manner in which we treat each other. During His earthly ministry, the Savior\u2019s teachings focused\u2014not only, but particularly\u2014on the virtues of love, charity, patience, humility, and compassion\u2014fundamental attributes to those who want to become closer to Him and promote His peace. Such attributes are gifts from God, and as we strive to develop them, we will begin to see our neighbor\u2019s differences and weaknesses with more empathy, sensitivity, respect, and tolerance. One of the most evident signs that we are drawing closer to the Savior and becoming more like Him is the loving, patient, and kind way with which we treat our fellow beings, whatever the circumstances.<\/p>\n<p data-aid=\"154445176\" id=\"p8\">We often see people who engage in negative and even derogatory comments about the perceived characteristics, weaknesses, and opinions of others, mainly when such characteristics and opinions differ or contradict how they act and think. It is very common to see these people passing on such comments to others, who repeat what they heard without truly knowing all the circumstances surrounding a situation. Unfortunately, social media encourages this kind of behavior in the name of relative truths and transparency. Without restraint, digital conversation often leads people to personal attacks and heated disputes, creating disappointments, wounding hearts, and spreading flaming hostility.<\/p>\n<p data-aid=\"154445186\" id=\"p9\">Nephi prophesied that in the latter days, the enemy would rage and stir up people to anger against what is good.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> The scriptures teach that \u201cevery thing which inviteth and enticeth to do good, and to love God, and to serve him, is inspired of God.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> On the other hand, \u201cthat which is evil cometh of the devil; for the devil is an enemy unto God, and fighteth against him continually, and inviteth and enticeth to sin, and to do that which is evil continually.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"154445196\" id=\"p10\">Considering this prophetic teaching, it is not surprising that one of the adversary\u2019s tactics is to stir up enmity and hate in the hearts of God\u2019s children. He rejoices when he sees people criticizing, ridiculing, and slandering one another. This behavior can destroy a person\u2019s character, reputation, and self-esteem, particularly when the person is judged unfairly. It is critical to point out that when we allow this type of attitude in our lives, we make room in our hearts for the enemy to plant the seed of discord among us, risking falling into his voracious trap.<\/p>\n<p data-aid=\"154445206\" id=\"p16\">If we are not careful with our thoughts, words, and actions, we may end up being entangled by the cunning tricks of the enemy, destroying our relationships with the people around us and our loved ones.<\/p>\n<p data-aid=\"154445216\" id=\"p17\">Brothers and sisters, as the Lord\u2019s peculiar people and promoters of His peace, we cannot afford to allow these tricks of the evil one to take place in our hearts. We cannot carry such a corrosive burden that destroys feelings, relationships, and even lives. The gospel represents good tidings of great joy.<\/p>\n<p data-aid=\"154445227\" id=\"p11\">Of course, none of us is perfect, and certainly there are times when we are beguiled into this type of behavior. In His perfect love and omniscient knowledge of our human tendencies, the Savior always tries to warn us of such dangers. He taught us, \u201cFor with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"154445238\" id=\"p12\">My dear brothers and sisters, as we strive to develop attributes like the Savior\u2019s, we can become instruments of His peace in the world according to the pattern that He Himself established. I invite you to consider ways we can transform ourselves into uplifting and supportive people, people who have an understanding and forgiving heart, people who look for the best in others, always remembering that \u201cif there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"154445248\" id=\"p13\">I promise you that as we pursue and develop these attributes, we will become more and more cordial and sensitive to the needs of our fellow beings<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> and will experience joy, peace, and spiritual growth.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> Undoubtedly, the Lord will recognize our efforts and give us the gifts we need to be more tolerant and patient with one another\u2019s differences, weaknesses, and imperfections. Furthermore, we will be better able to resist the urge to take offense or offend those who hurt us. Our desire to forgive, as the Savior did, those who mistreat us or speak evil about us will surely increase and will become part of our character.<\/p>\n<p data-aid=\"154445259\" id=\"p14\">May we today, on this Palm Sunday, spread out our robes of love and palm leaves of charity, walking in the footsteps of the Prince of Peace as we prepare to celebrate, this coming Sunday, the miracle of the empty tomb. As brothers and sisters in Christ, let us joyfully proclaim, \u201cHosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"154445267\" id=\"p15\">I testify that Jesus Christ lives and that His perfect love, expressed through His atoning sacrifice, is extended to all who desire to walk with Him and enjoy His peace in this world and in the world to come. I say these things in the holy name of the Savior and Redeemer, Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154445279\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154445287\" id=\"note1_p3\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=eng#p9\">Zechariah 9:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154445296\" id=\"note2_p1\">In James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=eng&amp;para=22#p22\">Jesus the Christ<\/a><\/cite> (1916), 517.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154445307\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-ps/24.9?lang=eng#p9\">Joseph Smith Translation, Psalm 24:9<\/a> (in the Bible appendix); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9.6?lang=eng#p6\">Isaiah 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/6.15?lang=eng#p15\">1 Timothy 6:15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/17.14?lang=eng#p14\">Revelation 17:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.16?lang=eng#p16\">19:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/19.6?lang=eng#p6\">2 Nephi 19:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154445319\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19.38?lang=eng#p38\">Luke 19:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154445329\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=eng#p9\">Matthew 21:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.8-10?lang=eng#p8\">Mark 11:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.12-14?lang=eng#p12\">John 12:12\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154445341\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.9?lang=eng#p9\">1 Peter 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154445352\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.23?lang=eng#p23\">Doctrine and Covenants 136:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154445364\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.7?lang=eng#p7\">Philippians 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29?lang=eng#p29\">3 Nephi 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=eng#p23\">Doctrine and Covenants 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.23?lang=eng#p23\">59:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154445375\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=eng#p21\">Mosiah 18:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154445386\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=eng&amp;para=3#p3\">Preaching the Gospel of Peace<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 6.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154445397\" id=\"note11_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 97, 100.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154445408\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=eng#p30\">2 Nephi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.7-9?lang=eng#p7\">33:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.33-34?lang=eng#p33\">Ether 12:33\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.47?lang=eng#p47\">Moroni 7:47<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154445419\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.125?lang=eng#p125\">Doctrine and Covenants 88:125<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154445431\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=eng#p30\">2 Nephi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.44-47?lang=eng#p44\">Moroni 7:44\u201347<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154445442\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.34?lang=eng#p34\">Ether 12:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.20-21?lang=eng#p20\">Moroni 10:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154445452\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.14-18?lang=eng#p14\">John 13:14\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154445462\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.50-51?lang=eng#p50\">Luke 22:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.10-12?lang=eng#p10\">John 18:10\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154445472\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27.12-14?lang=eng#p12\">Matthew 27:12\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154445482\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.4-5?lang=eng#p4\">1 Corinthians 13:4\u20135<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.45-47?lang=eng#p45\">Moroni 7:45\u201347<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154445493\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.20?lang=eng#p20\">2 Nephi 28:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154445505\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.13?lang=eng#p13\">Moroni 7:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154445515\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.12?lang=eng#p12\">Moroni 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154445524\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.2?lang=eng#p2\">Matthew 7:2<\/a>; see also Topical Guide, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/tg/judge?lang=eng\">Judge<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154445533\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13\">Articles of Faith 1:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154445540\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154445548\" id=\"note26_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng\">How Do I Develop Christlike Attributes?<\/a>,\u201d <cite>Preach My Gospel: A Guide to Missionary Service<\/cite> (2019), 121\u201332.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154445556\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=eng#p9\">Matthew 21:9<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154445109",
+        "id": "note4",
+        "text": "<p data-aid=\"154445319\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19.38?lang=eng#p38\">Luke 19:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/19.38?lang=eng#p38",
+          "text": "Luke 19:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154445109",
+        "id": "note5",
+        "text": "<p data-aid=\"154445329\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=eng#p9\">Matthew 21:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.8-10?lang=eng#p8\">Mark 11:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.12-14?lang=eng#p12\">John 12:12\u201314<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/21.9?lang=eng#p9",
+            "text": "Matthew 21:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/11.8-10?lang=eng#p8",
+            "text": "Mark 11:8\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/12.12-14?lang=eng#p12",
+            "text": "John 12:12\u201314",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154445109",
+        "id": "note2",
+        "text": "<p data-aid=\"154445296\" id=\"note2_p1\">In James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=eng&amp;para=22#p22\">Jesus the Christ<\/a><\/cite> (1916), 517.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-29?lang=eng&amp;para=22#p22",
+          "text": "Jesus the Christ",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154445109",
+        "id": "note3",
+        "text": "<p data-aid=\"154445307\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-ps/24.9?lang=eng#p9\">Joseph Smith Translation, Psalm 24:9<\/a> (in the Bible appendix); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9.6?lang=eng#p6\">Isaiah 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/6.15?lang=eng#p15\">1 Timothy 6:15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/17.14?lang=eng#p14\">Revelation 17:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.16?lang=eng#p16\">19:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/19.6?lang=eng#p6\">2 Nephi 19:6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-ps/24.9?lang=eng#p9",
+            "text": "Joseph Smith Translation, Psalm 24:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/9.6?lang=eng#p6",
+            "text": "Isaiah 9:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-tim/6.15?lang=eng#p15",
+            "text": "1 Timothy 6:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/17.14?lang=eng#p14",
+            "text": "Revelation 17:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/19.16?lang=eng#p16",
+            "text": "19:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/19.6?lang=eng#p6",
+            "text": "2 Nephi 19:6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154445125",
+        "id": "note8",
+        "text": "<p data-aid=\"154445364\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.7?lang=eng#p7\">Philippians 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.29?lang=eng#p29\">3 Nephi 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=eng#p23\">Doctrine and Covenants 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.23?lang=eng#p23\">59:23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/philip/4.7?lang=eng#p7",
+            "text": "Philippians 4:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.29?lang=eng#p29",
+            "text": "3 Nephi 11:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/19.23?lang=eng#p23",
+            "text": "Doctrine and Covenants 19:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59.23?lang=eng#p23",
+            "text": "59:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154445134",
+        "id": "note9",
+        "text": "<p data-aid=\"154445375\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=eng#p21\">Mosiah 18:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.21?lang=eng#p21",
+          "text": "Mosiah 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154445116",
+        "id": "note6",
+        "text": "<p data-aid=\"154445341\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.9?lang=eng#p9\">1 Peter 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2.9?lang=eng#p9",
+          "text": "1 Peter 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154445125",
+        "id": "note7",
+        "text": "<p data-aid=\"154445352\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.23?lang=eng#p23\">Doctrine and Covenants 136:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/136.23?lang=eng#p23",
+          "text": "Doctrine and Covenants 136:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154445151",
+        "id": "note16",
+        "text": "<p data-aid=\"154445452\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.14-18?lang=eng#p14\">John 13:14\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13.14-18?lang=eng#p14",
+          "text": "John 13:14\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154445143",
+        "id": "note15",
+        "text": "<p data-aid=\"154445442\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.34?lang=eng#p34\">Ether 12:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.20-21?lang=eng#p20\">Moroni 10:20\u201321<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/12.34?lang=eng#p34",
+            "text": "Ether 12:34",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.20-21?lang=eng#p20",
+            "text": "Moroni 10:20\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154445143",
+        "id": "note14",
+        "text": "<p data-aid=\"154445431\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=eng#p30\">2 Nephi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.44-47?lang=eng#p44\">Moroni 7:44\u201347<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26.30?lang=eng#p30",
+            "text": "2 Nephi 26:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.44-47?lang=eng#p44",
+            "text": "Moroni 7:44\u201347",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154445143",
+        "id": "note13",
+        "text": "<p data-aid=\"154445419\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.125?lang=eng#p125\">Doctrine and Covenants 88:125<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.125?lang=eng#p125",
+          "text": "Doctrine and Covenants 88:125",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154445143",
+        "id": "note12",
+        "text": "<p data-aid=\"154445408\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.30?lang=eng#p30\">2 Nephi 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.7-9?lang=eng#p7\">33:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.33-34?lang=eng#p33\">Ether 12:33\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.47?lang=eng#p47\">Moroni 7:47<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26.30?lang=eng#p30",
+            "text": "2 Nephi 26:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/33.7-9?lang=eng#p7",
+            "text": "33:7\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12.33-34?lang=eng#p33",
+            "text": "Ether 12:33\u201334",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.47?lang=eng#p47",
+            "text": "Moroni 7:47",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154445134",
+        "id": "note11",
+        "text": "<p data-aid=\"154445397\" id=\"note11_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 97, 100.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=eng",
+          "text": "The Power of Spiritual Momentum",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154445134",
+        "id": "note10",
+        "text": "<p data-aid=\"154445386\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=eng&amp;para=3#p3\">Preaching the Gospel of Peace<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/11nelson?lang=eng&amp;para=3#p3",
+          "text": "Preaching the Gospel of Peace",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154445158",
+        "id": "note19",
+        "text": "<p data-aid=\"154445482\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.4-5?lang=eng#p4\">1 Corinthians 13:4\u20135<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.45-47?lang=eng#p45\">Moroni 7:45\u201347<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/13.4-5?lang=eng#p4",
+            "text": "1 Corinthians 13:4\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.45-47?lang=eng#p45",
+            "text": "Moroni 7:45\u201347",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154445151",
+        "id": "note18",
+        "text": "<p data-aid=\"154445472\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27.12-14?lang=eng#p12\">Matthew 27:12\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/27.12-14?lang=eng#p12",
+          "text": "Matthew 27:12\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154445151",
+        "id": "note17",
+        "text": "<p data-aid=\"154445462\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.50-51?lang=eng#p50\">Luke 22:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.10-12?lang=eng#p10\">John 18:10\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/22.50-51?lang=eng#p50",
+            "text": "Luke 22:50\u201351",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/18.10-12?lang=eng#p10",
+            "text": "John 18:10\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154445259",
+        "id": "note27",
+        "text": "<p data-aid=\"154445556\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=eng#p9\">Matthew 21:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/21.9?lang=eng#p9",
+          "text": "Matthew 21:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154445248",
+        "id": "note26",
+        "text": "<p data-aid=\"154445548\" id=\"note26_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng\">How Do I Develop Christlike Attributes?<\/a>,\u201d <cite>Preach My Gospel: A Guide to Missionary Service<\/cite> (2019), 121\u201332.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng",
+          "text": "How Do I Develop Christlike Attributes?",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154445248",
+        "id": "note25",
+        "text": "<p data-aid=\"154445540\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.17?lang=eng#p17",
+          "text": "Mosiah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154445238",
+        "id": "note24",
+        "text": "<p data-aid=\"154445533\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13\">Articles of Faith 1:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.13?lang=eng#p13",
+          "text": "Articles of Faith 1:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154445227",
+        "id": "note23",
+        "text": "<p data-aid=\"154445524\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.2?lang=eng#p2\">Matthew 7:2<\/a>; see also Topical Guide, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/tg/judge?lang=eng\">Judge<\/a>.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/7.2?lang=eng#p2",
+            "text": "Matthew 7:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/tg/judge?lang=eng",
+            "text": "Judge",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154445186",
+        "id": "note22",
+        "text": "<p data-aid=\"154445515\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.12?lang=eng#p12\">Moroni 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.12?lang=eng#p12",
+          "text": "Moroni 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154445186",
+        "id": "note21",
+        "text": "<p data-aid=\"154445505\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.13?lang=eng#p13\">Moroni 7:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.13?lang=eng#p13",
+          "text": "Moroni 7:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154445186",
+        "id": "note20",
+        "text": "<p data-aid=\"154445493\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.20?lang=eng#p20\">2 Nephi 28:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/28.20?lang=eng#p20",
+          "text": "2 Nephi 28:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154445109",
+        "id": "note1",
+        "text": "<p data-aid=\"154445287\" id=\"note1_p3\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=eng#p9\">Zechariah 9:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/zech/9.9?lang=eng#p9",
+          "text": "Zechariah 9:9",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/15cook?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "3ef1a574da684174929bf4942509f3dc",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/15cook",
+      "data-aid": "154443653",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "3ef1a574da684174929bf4942509f3dc"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/37/02/370250ef18a1ecc0a04c20ed21f71c487b1b7ae0/370250ef18a1ecc0a04c20ed21f71c487b1b7ae0.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-1050-quentin-l-cook-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Safely Gathered Home",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154443653",
+      {"key": "154443653"}
+    ],
+    [
+      "154443662",
+      {"key": "154443662"}
+    ],
+    [
+      "154443667",
+      {"key": "154443667"}
+    ],
+    [
+      "154443672",
+      {"key": "154443672"}
+    ],
+    [
+      "154443678",
+      {"key": "154443678"}
+    ],
+    [
+      "154443683",
+      {"key": "154443683"}
+    ],
+    [
+      "154443688",
+      {"key": "154443688"}
+    ],
+    [
+      "154443694",
+      {"key": "154443694"}
+    ],
+    [
+      "154443698",
+      {"key": "154443698"}
+    ],
+    [
+      "154443704",
+      {"key": "154443704"}
+    ],
+    [
+      "154443709",
+      {"key": "154443709"}
+    ],
+    [
+      "154443715",
+      {"key": "154443715"}
+    ],
+    [
+      "154443720",
+      {"key": "154443720"}
+    ],
+    [
+      "154443725",
+      {"key": "154443725"}
+    ],
+    [
+      "154443730",
+      {"key": "154443730"}
+    ],
+    [
+      "154443735",
+      {"key": "154443735"}
+    ],
+    [
+      "154443740",
+      {"key": "154443740"}
+    ],
+    [
+      "154443745",
+      {"key": "154443745"}
+    ],
+    [
+      "154443750",
+      {"key": "154443750"}
+    ],
+    [
+      "154443756",
+      {"key": "154443756"}
+    ],
+    [
+      "154443761",
+      {"key": "154443761"}
+    ],
+    [
+      "154443766",
+      {"key": "154443766"}
+    ],
+    [
+      "154443772",
+      {"key": "154443772"}
+    ],
+    [
+      "154443778",
+      {"key": "154443778"}
+    ],
+    [
+      "154443784",
+      {"key": "154443784"}
+    ],
+    [
+      "154443790",
+      {"key": "154443790"}
+    ],
+    [
+      "154443794",
+      {"key": "154443794"}
+    ],
+    [
+      "154443799",
+      {"key": "154443799"}
+    ],
+    [
+      "154443804",
+      {"key": "154443804"}
+    ],
+    [
+      "154443809",
+      {"key": "154443809"}
+    ],
+    [
+      "154443815",
+      {"key": "154443815"}
+    ],
+    [
+      "154443821",
+      {"key": "154443821"}
+    ],
+    [
+      "154443827",
+      {"key": "154443827"}
+    ],
+    [
+      "154443833",
+      {"key": "154443833"}
+    ],
+    [
+      "154443839",
+      {"key": "154443839"}
+    ],
+    [
+      "154443845",
+      {"key": "154443845"}
+    ],
+    [
+      "154443851",
+      {"key": "154443851"}
+    ],
+    [
+      "154443857",
+      {"key": "154443857"}
+    ],
+    [
+      "154443863",
+      {"key": "154443863"}
+    ],
+    [
+      "154443869",
+      {"key": "154443869"}
+    ],
+    [
+      "154443872",
+      {"key": "154443872"}
+    ],
+    [
+      "154443877",
+      {"key": "154443877"}
+    ],
+    [
+      "154443882",
+      {"key": "154443882"}
+    ],
+    [
+      "154443887",
+      {"key": "154443887"}
+    ],
+    [
+      "154443892",
+      {"key": "154443892"}
+    ],
+    [
+      "154443897",
+      {"key": "154443897"}
+    ],
+    [
+      "154443902",
+      {"key": "154443902"}
+    ],
+    [
+      "154443907",
+      {"key": "154443907"}
+    ],
+    [
+      "154443912",
+      {"key": "154443912"}
+    ],
+    [
+      "154443917",
+      {"key": "154443917"}
+    ],
+    [
+      "154443920",
+      {"key": "154443920"}
+    ],
+    [
+      "154443924",
+      {"key": "154443924"}
+    ],
+    [
+      "154443928",
+      {"key": "154443928"}
+    ],
+    [
+      "154443933",
+      {"key": "154443933"}
+    ],
+    [
+      "154443935",
+      {"key": "154443935"}
+    ],
+    [
+      "154443939",
+      {"key": "154443939"}
+    ],
+    [
+      "154443944",
+      {"key": "154443944"}
+    ],
+    [
+      "154443948",
+      {"key": "154443948"}
+    ],
+    [
+      "154443955",
+      {"key": "154443955"}
+    ],
+    [
+      "154443960",
+      {"key": "154443960"}
+    ],
+    [
+      "154443965",
+      {"key": "154443965"}
+    ],
+    [
+      "154443970",
+      {"key": "154443970"}
+    ],
+    [
+      "154443975",
+      {"key": "154443975"}
+    ],
+    [
+      "154443980",
+      {"key": "154443980"}
+    ],
+    [
+      "154443985",
+      {"key": "154443985"}
+    ],
+    [
+      "154443990",
+      {"key": "154443990"}
+    ],
+    [
+      "154443994",
+      {"key": "154443994"}
+    ],
+    [
+      "154443998",
+      {"key": "154443998"}
+    ],
+    [
+      "154444002",
+      {"key": "154444002"}
+    ],
+    [
+      "154444006",
+      {"key": "154444006"}
+    ],
+    [
+      "154444010",
+      {"key": "154444010"}
+    ],
+    [
+      "154444014",
+      {"key": "154444014"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/15cook",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Cook teaches that the Lord expects those who have received His gospel to urgently strive to be an example that will help others come to God.",
+          "title": "Safely Gathered Home"
+        },
+        "pageSocial": {
+          "description": "Elder Cook teaches that the Lord expects those who have received His gospel to urgently strive to be an example that will help others come to God.",
+          "title": "Safely Gathered Home"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/37/02/370250ef18a1ecc0a04c20ed21f71c487b1b7ae0/370250ef18a1ecc0a04c20ed21f71c487b1b7ae0.jpeg\" data-video-title=\"Safely Gathered Home\" data-video-description=\"Elder Cook teaches that the Lord expects those who have received His gospel to urgently strive to be an example that will help others come to God.\" data-video-id=\"6323795650112\" data-ip=\"Download and Streaming                            \" data-duration=\"888089\" data-assetId=\"5aa5a3edd0bb11ed87d2eeeeac1eaa5bb40968df\" data-ref-id=\"70CD72EB1D4F47C0EA4D178A50BD903EC536AA5E\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323795650112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"296213622\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-1050-quentin-l-cook-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"82080063\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-1050-quentin-l-cook-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"213957572\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-1050-quentin-l-cook-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"296213622\"/><\/video><h1 data-aid=\"154443662\" id=\"title1\">Safely Gathered Home<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154443667\" id=\"author1\">By Elder Quentin L. Cook<\/p>\n<p class=\"author-role\" data-aid=\"154443672\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154443678\" id=\"kicker1\">We are in a unique position to gather Israel on both sides of the veil as never before under the Father\u2019s plan.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154443683\" id=\"p1\">President Russell M. Nelson, our beloved prophet, has profoundly emphasized that our unique responsibility is to help gather scattered Israel and prepare the world for the Second Coming of Jesus Christ.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> The Father of our spirits desires His children to be <em>safely gathered home<\/em>.<\/p>\n<p data-aid=\"154443688\" id=\"p2\">Our Heavenly Father\u2019s plan for safely gathering His children to our heavenly home is not based on worldly success, economic status, education, race, or gender. Father\u2019s plan is based on righteousness, keeping His commandments, and receiving sacred ordinances and honoring the covenants we make.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"154443694\" id=\"p3\">The divinely inspired doctrine that we are all brothers and sisters and \u201call are alike unto God\u201d underlies this great work of gathering. This doctrine accords with those who deeply desire for people of diverse economic and racial status to experience better lives. We applaud and join in such efforts. Moreover, we desire for all of God\u2019s children to come unto Him and receive the eternal blessings He offers through His gospel.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> In the Lord\u2019s preface to the Doctrine and Covenants, He declares, \u201cHearken ye people from afar; and ye that are upon the islands of the sea, listen together.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"154443698\" id=\"p4\">I love that the very first verse in the Doctrine and Covenants includes the people who are on \u201cthe islands of the sea.\u201d I have had three specific calls to serve and live on the islands of the sea. I first served as a young missionary to the British Isles, second as a new General Authority in the Philippine Islands, and then as Area President in the Pacific Islands, which includes many Polynesian islands.<\/p>\n<p data-aid=\"154443704\" id=\"p5\">All three of these areas have successfully gathered believers to the restored gospel of Jesus Christ. Missionaries first arrived in the British Isles in 1837. This was one year after Joseph Smith\u2019s dedication of the Kirtland Temple, where Moses committed \u201cthe keys of the gathering of Israel from the four parts of the earth, and the leading of the ten tribes from the land of the north.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> The early success in the British Isles is legendary. By 1851, over half the members of the Church were baptized converts living in the British Isles.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"154443709\" id=\"p6\">In 1961, Elder Gordon B. Hinckley visited and initiated full-time missionary efforts in the Philippine Islands. At that time there was only one Filipino Melchizedek Priesthood holder. Amazingly, there are over 850,000 members of the Church today in the Philippine Islands. I admire the Filipino people; they have a deep and abiding love for the Savior.<\/p>\n<p data-aid=\"154443715\" id=\"p7\">Perhaps less well known is the ongoing missionary effort to the Polynesian Islands. It commenced in 1844 when Addison Pratt arrived in what is now French Polynesia.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> Many Polynesians already believed in eternal families and accepted Jesus Christ as their Savior. Today almost 25 percent of Polynesians, in the Polynesian Islands, are members of the Church.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"154443720\" id=\"p8\">I once listened to a 17-year-old girl on a distant Tahitian island who was a seventh-generation member. She paid tribute to her ancestors who had been converted in 1845 on Tubuai, two years before early Church members arrived in the Salt Lake Valley.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"154443725\" id=\"p9\">Our doctrine is clear that there will be a time and a season for all people to receive and to respond to the gospel message. These examples are just a part of a much larger picture. President Nelson has continuously emphasized that the gathering of Israel is \u201c<em>the greatest<\/em> challenge, \u2026 cause, and \u2026 work on earth today.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"154443730\" id=\"p10\">Until the Restoration of the Church of Jesus Christ, including the coming forth of the Book of Mormon and the revelation and priesthood keys given to the Prophet Joseph Smith, understanding of the gathering of Israel was fragmentary and limited.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"154443735\" id=\"p11\">The distinctive name \u201cIsrael\u201d was the title conferred upon Jacob.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> It came to represent the posterity of Abraham through Isaac and Jacob. The original promise and covenant to Father Abraham is set forth in <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.9-10?lang=eng#p9\">Abraham 2:9\u201310<\/a>, which reads in part:<\/p>\n<p data-aid=\"154443740\" id=\"p12\">\u201cAnd I will make of thee a great nation, \u2026<\/p>\n<p data-aid=\"154443745\" id=\"p13\">\u201cAnd I will bless [all nations] through thy name; for as many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father.\u201d<\/p>\n<p data-aid=\"154443750\" id=\"p14\">During the Council in Heaven in the premortal existence, the plan of salvation was discussed and <em>sustained<\/em>. It included certain laws and ordinances of the priesthood instituted before the foundation of the world and predicated upon the gathering.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> It also included the overriding principle of agency.<\/p>\n<p data-aid=\"154443756\" id=\"p15\">After several centuries as a powerful people, including the reigns of Saul, David, and Solomon, Israel was divided. The tribe of Judah and part of the tribe of Benjamin became the kingdom of Judah. The remainder, identified as the ten tribes, became the kingdom of Israel.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> After 200 years of separate existence, the first scattering of Israel occurred in 721 BC when the ten tribes of Israel were carried away captive by the Assyrian king.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> They later went to the north countries.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"154443761\" id=\"p16\">In 600 BC at the commencement of the Book of Mormon, Father Lehi led a colony of Israelites to the Americas. Lehi understood the scattering of Israel of which he was a part. He is quoted by Nephi as saying that the house of Israel \u201cshould be compared like unto an olive tree, whose branches should be broken off and should be scattered upon all the face of the earth.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"154443766\" id=\"p17\">In the so-called New World, the history of the Nephites and Lamanites as set forth in the Book of Mormon ends in approximately AD 400. Descendants of Father Lehi are spread throughout the Americas.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"154443772\" id=\"p18\">This is clearly described by Mormon in <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/5.20?lang=eng#p20\">3 Nephi 5:20<\/a>, which reads: \u201cI am Mormon, and a pure descendant of Lehi. I have reason to bless my God and my Savior Jesus Christ, that he brought our fathers out of the land of Jerusalem.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> <\/p>\n<p data-aid=\"154443778\" id=\"p19\">Clearly the high point in Israel\u2019s chronological history is the birth, message, ministry, and mission of our Lord and Savior, Jesus Christ.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"154443784\" id=\"p20\">After the Savior\u2019s eternity-shaping death and Resurrection, a second well-known scattering of Judah occurred between AD 70 and AD 135 when, due to Roman oppression and persecution, the Jews dispersed throughout the then-known world.<\/p>\n<p data-aid=\"154443790\" id=\"p21\">President Nelson has taught, \u201cThe Book of Mormon came forth as a sign that the Lord had commenced to gather [the] children of the covenant.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> Thus, the Book of Mormon, translated by the Prophet Joseph Smith through the gift and power of God, is directed to Lehi\u2019s descendants, scattered Israel, and Gentiles who are adopted into the tribes of Israel. The chapter heading to <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/22?lang=eng\">1 Nephi 22<\/a> reads in part, \u201cIsrael will be scattered upon all the face of the earth\u2014The Gentiles will nurse and nourish Israel with the gospel in the last days.\u201d The <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">Book of Mormon title page<\/a> reads that one of the book\u2019s purposes is for \u201cthe convincing of the Jew and Gentile that Jesus is the Christ.\u201d With the Restoration and Book of Mormon, the concept of gathering Israel has greatly expanded.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"154443794\" id=\"p22\">Those who accept the gospel of Jesus Christ, regardless of lineage, become part of gathered Israel.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> With that gathering and the numerous temples built and announced, we are in a unique position to gather Israel on both sides of the veil as never before under the Father\u2019s plan.<\/p>\n<p data-aid=\"154443799\" id=\"p23\">President Spencer W. Kimball, speaking of the literal gathering of Israel, stated: \u201cNow, the gathering of Israel consists of joining the true church and \u2026 coming to a knowledge of the true God. \u2026 Any person, therefore, who has accepted the restored gospel, and who now seeks to worship the Lord in his own tongue and with the Saints in the nations where he lives, has complied with the law of the gathering of Israel and is heir to all of the blessings promised the Saints in these last days.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"154443804\" id=\"p34\">\u201cThe gathering of Israel now involves conversion.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"154443809\" id=\"p25\">As viewed through a clear lens, members of The Church of Jesus Christ of Latter-day Saints have the great privilege of loving, sharing, inviting, and helping gather Israel to receive the fulness of the Lord\u2019s covenant blessings. This includes Africans and Europeans, South and North Americans, Asians, Australians, and those upon the isles of the sea. \u201cFor verily the voice of the Lord is unto all men.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> \u201cThis gathering shall continue until the righteous are assembled in the congregations of the Saints in the nations of the world.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"154443815\" id=\"p26\">No one has addressed the gathering more directly than President Russell M. Nelson: \u201c<em>Anytime<\/em> you do <em>anything<\/em> that helps <em>anyone<\/em>﻿\u2014on either side of the veil﻿\u2014take a step toward making covenants with God and receiving their essential baptismal and temple ordinances, you are helping to gather Israel. It is as simple as that.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"154443821\" id=\"p27\">Where is the Church today? In the 62 years since I commenced serving a mission in 1960, the number of full-time missionaries serving under a call from the prophet has increased from 7,683 to 62,544. The number of missions has increased from 58 to 411. The number of members has increased from approximately 1,700,000 to approximately 17,000,000.<\/p>\n<p data-aid=\"154443827\" id=\"p28\">The COVID-19 pandemic temporarily impacted some of our opportunities to share the gospel. It also provided experience using new technology, which will greatly enhance the gathering. We are grateful that members and missionaries are now expanding efforts to gather scattered Israel. Growth continues everywhere, especially South America and Africa. We also appreciate that so many across the world have responded to President Nelson\u2019s powerful invitation for increased missionary service. Nevertheless, our commitment to love, share, and invite can be greatly expanded.<\/p>\n<p data-aid=\"154443833\" id=\"p29\">An essential part of this missionary effort is for individual members to become beacon-light examples<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> wherever we live.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> We cannot be in camouflage. Our Christlike example of kindness, righteousness, happiness, and sincere love for all peoples can create not only a guiding beacon light for them but also an understanding that there is a safe harbor in the ordinances of salvation and exaltation of the restored gospel of Jesus Christ.<\/p>\n<p data-aid=\"154443839\" id=\"p30\">Please understand that there are remarkable blessings in sharing the gospel of Jesus Christ. The scriptures speak of joy and peace, forgiveness of sins, protection from temptations, and sustaining power from God.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> Looking beyond this mortal life, we will be prepared to share the gospel with those \u201cin darkness and under the bondage of sin in the great world of the spirits of the dead.\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a><\/p>\n<p data-aid=\"154443845\" id=\"p31\">My specific prayer today is for every child, young man, young woman, family, quorum, Relief Society, and class to review how we individually and collectively accept dramatic counsel to help gather Israel that has been issued by the Lord and our beloved prophet.<\/p>\n<p data-aid=\"154443851\" id=\"p32\">We respect agency. In this secular world, many will not respond and participate in the gathering of Israel. But many will, and the Lord expects those who have received His gospel to urgently strive to be a beacon-light example that will help others come to God. This allows our brothers and sisters across the earth to enjoy the supernal blessings and ordinances of the restored gospel of Jesus Christ and be <em>safely gathered home.<\/em><\/p>\n<p data-aid=\"154443857\" id=\"p33\">I bear my sure and certain apostolic witness of the divinity of Jesus Christ and our Father in Heaven\u2019s plan for us in the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154443863\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154443869\" id=\"note1_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 7.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154443872\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.37?lang=eng#p37\">Doctrine and Covenants 20:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154443877\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154443882\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.1?lang=eng#p1\">Doctrine and Covenants 1:1<\/a>. In <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.4?lang=eng#p4\">Doctrine and Covenants 1:4<\/a>, the Lord continues, \u201cAnd the voice of warning shall be unto all people, by the mouths of my disciples, whom I have chosen in these last days.\u201d<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154443887\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.11?lang=eng#p11\">Doctrine and Covenants 110:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154443892\" id=\"note6_p1\">In 1851, there were 52,165 total members of the Church. According to Church records and the \u201cReligious Census of 1851\u201d in England and Wales, there were over 28,000 members in those locations (see Robert L. Lively Jr., \u201cSome Sociological Reflections on the Nineteenth-Century British Mission,\u201d in <cite>Mormons in Early Victorian Britain<\/cite>, ed. Richard L. Jensen and Malcolm R. Thorp [1989], 19\u201320).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154443897\" id=\"note7_p1\">See <cite>Saints: The Story of the Church of Jesus Christ in the Latter Days<\/cite>, vol. 1, <cite>The Standard of Truth<\/cite>, 1815\u20131846 (2018), <a class=\"cross-ref\" href=\"/study/history/saints-v1/41-god-must-be-the-judge?lang=eng&amp;para=1#p1\">494\u201395<\/a>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/42-round-up-your-shoulders?lang=eng&amp;para=20#p20\">514\u201315<\/a>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19\">573<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154443902\" id=\"note8_p1\">Tonga: 45 percent; Samoa: 31 percent; American Samoa: 22.5 percent; and French Polynesia: 7 percent.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154443907\" id=\"note9_p1\">See <cite>Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19\">573\u201374<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154443912\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng\">Hope of Israel<\/a>\u201d (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154443917\" id=\"note11_p1\">This unique and powerful doctrine is contained in the Book of Mormon and succinctly in the <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.10?lang=eng#p10\">tenth article of faith<\/a>, which begins, \u201cWe believe in the literal gathering of Israel and in the restoration of the Ten Tribes\u201d (see James E. Talmage, <cite>The Articles of Faith<\/cite>, 12th ed. [1924], 314\u201344).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154443920\" id=\"note12_p1\">As recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/32.28?lang=eng#p28\">Genesis 32:28<\/a>, the scriptural account reads, \u201cThy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men.\u201d<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154443924\" id=\"note13_p1\">See Joseph Smith, in \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/217\">History, 1838\u20131856, volume D-1<\/a>,\u201d 1572, josephsmithpapers.org; see also Joseph Smith, \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-wilford-woodruff/1\">Discourse, 11 June 1843\u2013A, as Reported by Wilford Woodruff<\/a>,\u201d [42\u201343], josephsmithpapers.org; Joseph Smith, \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-willard-richards/2\">Discourse, 11 June 1843\u2013A, as Reported by Willard Richards<\/a>,\u201d [241], josephsmithpapers.org.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154443928\" id=\"note14_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/israel-kingdom-of?lang=eng\">Israel, Kingdom of<\/a>\u201d; James E. Talmage, <cite>The Articles of Faith<\/cite>, 315. Rehoboam and his subjects were known as the kingdom of Judah and were located in the southern part of modern Israel.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154443933\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/17.23?lang=eng#p23\">2 Kings 17:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154443935\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.26?lang=eng#p26\">Doctrine and Covenants 133:26<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.11?lang=eng#p11\">Doctrine and Covenants 110:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154443939\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.12?lang=eng#p12\">1 Nephi 10:12<\/a>. Ammon later said, \u201cBlessed is the name of my God, who has been mindful of this people, who are a branch of the tree of Israel, and has been lost from its body in a strange land\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.36?lang=eng#p36\">Alma 26:36<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154443944\" id=\"note18_p1\">President Spencer W. Kimball, speaking of Lamanite Israel, taught that Zion is all the Americas. He said, \u201cWe are in Israel and are being gathered\u201d (<cite>The Teachings of Spencer W. Kimball<\/cite>, ed. Edward L. Kimball [1982], 439).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154443948\" id=\"note19_p1\">When Father Lehi was instructed to take his family and depart into the wilderness, at least part of the reason was that Jerusalem would be destroyed (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=eng\">1 Nephi 2<\/a>). The destruction of Solomon\u2019s Temple, the downfall of Jerusalem, and the captivity of the tribe of Judah occurred in about 586 BC. <\/p>\n<p data-aid=\"154443955\" id=\"note19_p2\">\u201cIsrael was conquered in about 720 B.C.E., and its 10 tribes driven into exile. \u2026 [In Jerusalem,] Solomon\u2019s Temple sustained several attacks by foreign powers before finally, in 586 B.C.E., being totally destroyed by the army of Nebuchadnezzar, the Babylonian king\u201d (David B. Green, \u201cThe History of the Jewish Temple in Jerusalem,\u201d <cite>Haaretz<\/cite>, Aug. 11, 2014, haaretz.com/jewish/.premium-history-of-the-temple-in-jerusalem-1.5256337). See also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/25.8-9?lang=eng#p8\">2 Kings 25:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154443960\" id=\"note20_p1\">See Tad R. Callister, <cite>The Infinite Atonement<\/cite> (2000).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154443965\" id=\"note21_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=eng\">Children of the Covenant<\/a>,\u201d <cite>Ensign<\/cite>, May 1995, 33; see also \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/10/covenants?lang=eng\">Covenants<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2011, 88.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154443970\" id=\"note22_p1\">See Russell M. Nelson, in R. Scott Lloyd, \u201cSeminar for New Mission Presidents: \u2018Swift Messengers\u2019 to Scattered Israel,\u201d <cite>Church News<\/cite>, July 13, 2013, thechurchnews.com. President Nelson has stated that the gathering \u201cis not a matter of physical location; it is a matter of individual commitment. People can be \u2018brought to the knowledge of the Lord\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.13?lang=eng#p13\">3 Nephi 20:13<\/a>] without leaving their homelands\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/the-gathering-of-scattered-israel?lang=eng\">The Gathering of Scattered Israel<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2006, 81). See also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.1-7?lang=eng#p1\">3 Nephi 21:1\u20137<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154443975\" id=\"note23_p1\">Our doctrine is clear; the Lord scattered the tribes of Israel because of their rebellion and their unrighteousness. However, the Lord also utilized the scattering of His chosen people among the nations of the world to bless those nations. (See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/israel?lang=eng\">Israel\u2014The Scattering of Israel<\/a>,\u201d scriptures.ChurchofJesusChrist.org.)<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154443980\" id=\"note24_p1\">Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 439.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154443985\" id=\"note25_p1\">Summary heading in Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 438. See also <cite>\u201cAll Are Alike unto God,\u201d<\/cite> ed. E. Dale LeBaron (1990), a collection of 23 conversion stories by Black African Latter-day Saints. Sister Julia N. Mavimbela said that before she joined the Church and came to the word <i>Israel<\/i>, she would \u201cthrow the book aside and say, \u2018It is for the whites. It is not for us. We are not chosen.\u2019 Today I know I belong to a royal family, if I live righteously. I am an Israelite, and when I was doing my ordinances in the temple, I captured the feeling that we are all on earth as one family\u201d (in <cite>\u201cAll Are Alike unto God,\u201d<\/cite> 151).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154443990\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.2?lang=eng#p2\">Doctrine and Covenants 1:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154443994\" id=\"note27_p1\">Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 438.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154443998\" id=\"note28_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng\">Hope of Israel<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154444002\" id=\"note29_p1\">The Apostle Paul told his young friend Timothy to \u201cbe \u2026 an example of the believers\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/4.12?lang=eng#p12\">1 Timothy 4:12<\/a>).<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154444006\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.24?lang=eng#p24\">3 Nephi 18:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154444010\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8-13?lang=eng#p8\">Mosiah 18:8\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.25?lang=eng#p25\">3 Nephi 18:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.10-16?lang=eng#p10\">Doctrine and Covenants 18:10\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/31.5?lang=eng#p5\">31:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/62.3?lang=eng#p3\">62:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154444014\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.57?lang=eng#p57\">Doctrine and Covenants 138:57<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154443694",
+        "id": "note4",
+        "text": "<p data-aid=\"154443882\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.1?lang=eng#p1\">Doctrine and Covenants 1:1<\/a>. In <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.4?lang=eng#p4\">Doctrine and Covenants 1:4<\/a>, the Lord continues, \u201cAnd the voice of warning shall be unto all people, by the mouths of my disciples, whom I have chosen in these last days.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/1.1?lang=eng#p1",
+            "text": "Doctrine and Covenants 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/1.4?lang=eng#p4",
+            "text": "Doctrine and Covenants 1:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154443704",
+        "id": "note5",
+        "text": "<p data-aid=\"154443887\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.11?lang=eng#p11\">Doctrine and Covenants 110:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.11?lang=eng#p11",
+          "text": "Doctrine and Covenants 110:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154443688",
+        "id": "note2",
+        "text": "<p data-aid=\"154443872\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.37?lang=eng#p37\">Doctrine and Covenants 20:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20.37?lang=eng#p37",
+          "text": "Doctrine and Covenants 20:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154443694",
+        "id": "note3",
+        "text": "<p data-aid=\"154443877\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.33?lang=eng#p33",
+          "text": "2 Nephi 26:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154443715",
+        "id": "note8",
+        "text": "<p data-aid=\"154443902\" id=\"note8_p1\">Tonga: 45 percent; Samoa: 31 percent; American Samoa: 22.5 percent; and French Polynesia: 7 percent.<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154443720",
+        "id": "note9",
+        "text": "<p data-aid=\"154443907\" id=\"note9_p1\">See <cite>Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19\">573\u201374<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19",
+          "text": "573\u201374",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154443704",
+        "id": "note6",
+        "text": "<p data-aid=\"154443892\" id=\"note6_p1\">In 1851, there were 52,165 total members of the Church. According to Church records and the \u201cReligious Census of 1851\u201d in England and Wales, there were over 28,000 members in those locations (see Robert L. Lively Jr., \u201cSome Sociological Reflections on the Nineteenth-Century British Mission,\u201d in <cite>Mormons in Early Victorian Britain<\/cite>, ed. Richard L. Jensen and Malcolm R. Thorp [1989], 19\u201320).<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154443715",
+        "id": "note7",
+        "text": "<p data-aid=\"154443897\" id=\"note7_p1\">See <cite>Saints: The Story of the Church of Jesus Christ in the Latter Days<\/cite>, vol. 1, <cite>The Standard of Truth<\/cite>, 1815\u20131846 (2018), <a class=\"cross-ref\" href=\"/study/history/saints-v1/41-god-must-be-the-judge?lang=eng&amp;para=1#p1\">494\u201395<\/a>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/42-round-up-your-shoulders?lang=eng&amp;para=20#p20\">514\u201315<\/a>, <a class=\"cross-ref\" href=\"/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19\">573<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/history/saints-v1/41-god-must-be-the-judge?lang=eng&amp;para=1#p1",
+            "text": "494\u201395",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/history/saints-v1/42-round-up-your-shoulders?lang=eng&amp;para=20#p20",
+            "text": "514\u201315",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/history/saints-v1/46-endowed-with-power?lang=eng&amp;para=19#p19",
+            "text": "573",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154443833",
+        "id": "note30",
+        "text": "<p data-aid=\"154444006\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.24?lang=eng#p24\">3 Nephi 18:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.24?lang=eng#p24",
+          "text": "3 Nephi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154443756",
+        "id": "note16",
+        "text": "<p data-aid=\"154443935\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.26?lang=eng#p26\">Doctrine and Covenants 133:26<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.11?lang=eng#p11\">Doctrine and Covenants 110:11<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/133.26?lang=eng#p26",
+            "text": "Doctrine and Covenants 133:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/110.11?lang=eng#p11",
+            "text": "Doctrine and Covenants 110:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154443756",
+        "id": "note15",
+        "text": "<p data-aid=\"154443933\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/17.23?lang=eng#p23\">2 Kings 17:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/17.23?lang=eng#p23",
+          "text": "2 Kings 17:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154443756",
+        "id": "note14",
+        "text": "<p data-aid=\"154443928\" id=\"note14_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/israel-kingdom-of?lang=eng\">Israel, Kingdom of<\/a>\u201d; James E. Talmage, <cite>The Articles of Faith<\/cite>, 315. Rehoboam and his subjects were known as the kingdom of Judah and were located in the southern part of modern Israel.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/israel-kingdom-of?lang=eng",
+          "text": "Israel, Kingdom of",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154443750",
+        "id": "note13",
+        "text": "<p data-aid=\"154443924\" id=\"note13_p1\">See Joseph Smith, in \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/217\">History, 1838\u20131856, volume D-1<\/a>,\u201d 1572, josephsmithpapers.org; see also Joseph Smith, \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-wilford-woodruff/1\">Discourse, 11 June 1843\u2013A, as Reported by Wilford Woodruff<\/a>,\u201d [42\u201343], josephsmithpapers.org; Joseph Smith, \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-willard-richards/2\">Discourse, 11 June 1843\u2013A, as Reported by Willard Richards<\/a>,\u201d [241], josephsmithpapers.org.<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/217",
+            "text": "History, 1838\u20131856, volume D-1"
+          },
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-wilford-woodruff/1",
+            "text": "Discourse, 11 June 1843\u2013A, as Reported by Wilford Woodruff"
+          },
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/discourse-11-june-1843-a-as-reported-by-willard-richards/2",
+            "text": "Discourse, 11 June 1843\u2013A, as Reported by Willard Richards"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154443735",
+        "id": "note12",
+        "text": "<p data-aid=\"154443920\" id=\"note12_p1\">As recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/32.28?lang=eng#p28\">Genesis 32:28<\/a>, the scriptural account reads, \u201cThy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/32.28?lang=eng#p28",
+          "text": "Genesis 32:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154443730",
+        "id": "note11",
+        "text": "<p data-aid=\"154443917\" id=\"note11_p1\">This unique and powerful doctrine is contained in the Book of Mormon and succinctly in the <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.10?lang=eng#p10\">tenth article of faith<\/a>, which begins, \u201cWe believe in the literal gathering of Israel and in the restoration of the Ten Tribes\u201d (see James E. Talmage, <cite>The Articles of Faith<\/cite>, 12th ed. [1924], 314\u201344).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.10?lang=eng#p10",
+          "text": "tenth article of faith",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154443725",
+        "id": "note10",
+        "text": "<p data-aid=\"154443912\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng\">Hope of Israel<\/a>\u201d (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng",
+          "text": "Hope of Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154443839",
+        "id": "note32",
+        "text": "<p data-aid=\"154444014\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.57?lang=eng#p57\">Doctrine and Covenants 138:57<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/138.57?lang=eng#p57",
+          "text": "Doctrine and Covenants 138:57",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154443839",
+        "id": "note31",
+        "text": "<p data-aid=\"154444010\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8-13?lang=eng#p8\">Mosiah 18:8\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.25?lang=eng#p25\">3 Nephi 18:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.10-16?lang=eng#p10\">Doctrine and Covenants 18:10\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/31.5?lang=eng#p5\">31:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/62.3?lang=eng#p3\">62:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.8-13?lang=eng#p8",
+            "text": "Mosiah 18:8\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/18.25?lang=eng#p25",
+            "text": "3 Nephi 18:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/18.10-16?lang=eng#p10",
+            "text": "Doctrine and Covenants 18:10\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/31.5?lang=eng#p5",
+            "text": "31:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/62.3?lang=eng#p3",
+            "text": "62:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154443772",
+        "id": "note19",
+        "text": "<p data-aid=\"154443948\" id=\"note19_p1\">When Father Lehi was instructed to take his family and depart into the wilderness, at least part of the reason was that Jerusalem would be destroyed (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=eng\">1 Nephi 2<\/a>). The destruction of Solomon\u2019s Temple, the downfall of Jerusalem, and the captivity of the tribe of Judah occurred in about 586 BC. <\/p>\n<p data-aid=\"154443955\" id=\"note19_p2\">\u201cIsrael was conquered in about 720 B.C.E., and its 10 tribes driven into exile. \u2026 [In Jerusalem,] Solomon\u2019s Temple sustained several attacks by foreign powers before finally, in 586 B.C.E., being totally destroyed by the army of Nebuchadnezzar, the Babylonian king\u201d (David B. Green, \u201cThe History of the Jewish Temple in Jerusalem,\u201d <cite>Haaretz<\/cite>, Aug. 11, 2014, haaretz.com/jewish/.premium-history-of-the-temple-in-jerusalem-1.5256337). See also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/25.8-9?lang=eng#p8\">2 Kings 25:8\u20139<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/2?lang=eng",
+            "text": "1 Nephi 2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/2-kgs/25.8-9?lang=eng#p8",
+            "text": "2 Kings 25:8\u20139",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154443766",
+        "id": "note18",
+        "text": "<p data-aid=\"154443944\" id=\"note18_p1\">President Spencer W. Kimball, speaking of Lamanite Israel, taught that Zion is all the Americas. He said, \u201cWe are in Israel and are being gathered\u201d (<cite>The Teachings of Spencer W. Kimball<\/cite>, ed. Edward L. Kimball [1982], 439).<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154443761",
+        "id": "note17",
+        "text": "<p data-aid=\"154443939\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.12?lang=eng#p12\">1 Nephi 10:12<\/a>. Ammon later said, \u201cBlessed is the name of my God, who has been mindful of this people, who are a branch of the tree of Israel, and has been lost from its body in a strange land\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.36?lang=eng#p36\">Alma 26:36<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/10.12?lang=eng#p12",
+            "text": "1 Nephi 10:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26.36?lang=eng#p36",
+            "text": "Alma 26:36",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154443809",
+        "id": "note27",
+        "text": "<p data-aid=\"154443994\" id=\"note27_p1\">Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 438.<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154443809",
+        "id": "note26",
+        "text": "<p data-aid=\"154443990\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.2?lang=eng#p2\">Doctrine and Covenants 1:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.2?lang=eng#p2",
+          "text": "Doctrine and Covenants 1:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154443804",
+        "id": "note25",
+        "text": "<p data-aid=\"154443985\" id=\"note25_p1\">Summary heading in Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 438. See also <cite>\u201cAll Are Alike unto God,\u201d<\/cite> ed. E. Dale LeBaron (1990), a collection of 23 conversion stories by Black African Latter-day Saints. Sister Julia N. Mavimbela said that before she joined the Church and came to the word <i>Israel<\/i>, she would \u201cthrow the book aside and say, \u2018It is for the whites. It is not for us. We are not chosen.\u2019 Today I know I belong to a royal family, if I live righteously. I am an Israelite, and when I was doing my ordinances in the temple, I captured the feeling that we are all on earth as one family\u201d (in <cite>\u201cAll Are Alike unto God,\u201d<\/cite> 151).<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154443799",
+        "id": "note24",
+        "text": "<p data-aid=\"154443980\" id=\"note24_p1\">Spencer W. Kimball, <cite>The Teachings of Spencer W. Kimball<\/cite>, 439.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154443794",
+        "id": "note23",
+        "text": "<p data-aid=\"154443975\" id=\"note23_p1\">Our doctrine is clear; the Lord scattered the tribes of Israel because of their rebellion and their unrighteousness. However, the Lord also utilized the scattering of His chosen people among the nations of the world to bless those nations. (See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/israel?lang=eng\">Israel\u2014The Scattering of Israel<\/a>,\u201d scriptures.ChurchofJesusChrist.org.)<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/israel?lang=eng",
+          "text": "Israel\u2014The Scattering of Israel",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154443790",
+        "id": "note22",
+        "text": "<p data-aid=\"154443970\" id=\"note22_p1\">See Russell M. Nelson, in R. Scott Lloyd, \u201cSeminar for New Mission Presidents: \u2018Swift Messengers\u2019 to Scattered Israel,\u201d <cite>Church News<\/cite>, July 13, 2013, thechurchnews.com. President Nelson has stated that the gathering \u201cis not a matter of physical location; it is a matter of individual commitment. People can be \u2018brought to the knowledge of the Lord\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.13?lang=eng#p13\">3 Nephi 20:13<\/a>] without leaving their homelands\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/the-gathering-of-scattered-israel?lang=eng\">The Gathering of Scattered Israel<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2006, 81). See also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/21.1-7?lang=eng#p1\">3 Nephi 21:1\u20137<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20.13?lang=eng#p13",
+            "text": "3 Nephi 20:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2006/10/the-gathering-of-scattered-israel?lang=eng",
+            "text": "The Gathering of Scattered Israel",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/21.1-7?lang=eng#p1",
+            "text": "3 Nephi 21:1\u20137",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154443790",
+        "id": "note21",
+        "text": "<p data-aid=\"154443965\" id=\"note21_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=eng\">Children of the Covenant<\/a>,\u201d <cite>Ensign<\/cite>, May 1995, 33; see also \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/10/covenants?lang=eng\">Covenants<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2011, 88.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/1995/04/children-of-the-covenant?lang=eng",
+            "text": "Children of the Covenant",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2011/10/covenants?lang=eng",
+            "text": "Covenants",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154443778",
+        "id": "note20",
+        "text": "<p data-aid=\"154443960\" id=\"note20_p1\">See Tad R. Callister, <cite>The Infinite Atonement<\/cite> (2000).<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154443683",
+        "id": "note1",
+        "text": "<p data-aid=\"154443869\" id=\"note1_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/11nelson?lang=eng\">Welcome Message<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/11nelson?lang=eng",
+          "text": "Welcome Message",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154443833",
+        "id": "note29",
+        "text": "<p data-aid=\"154444002\" id=\"note29_p1\">The Apostle Paul told his young friend Timothy to \u201cbe \u2026 an example of the believers\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/4.12?lang=eng#p12\">1 Timothy 4:12<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-tim/4.12?lang=eng#p12",
+          "text": "1 Timothy 4:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154443815",
+        "id": "note28",
+        "text": "<p data-aid=\"154443998\" id=\"note28_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng\">Hope of Israel<\/a>.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng",
+          "text": "Hope of Israel",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

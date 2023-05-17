@@ -1,0 +1,723 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/13aburto?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "37d69d17191f43b1b73de5682b27cd48",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/13aburto",
+      "data-aid": "149804944",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "37d69d17191f43b1b73de5682b27cd48"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/7e/aa/7eaaad4083da64fa8fd24c1cb86efd4186d71218/7eaaad4083da64fa8fd24c1cb86efd4186d71218.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1030-reyna-i-aburto-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "We Are The Church of Jesus Christ of Latter-day Saints",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149804944",
+      {"key": "149804944"}
+    ],
+    [
+      "149804949",
+      {"key": "149804949"}
+    ],
+    [
+      "149804950",
+      {"key": "149804950"}
+    ],
+    [
+      "149804952",
+      {"key": "149804952"}
+    ],
+    [
+      "149804954",
+      {"key": "149804954"}
+    ],
+    [
+      "149804956",
+      {"key": "149804956"}
+    ],
+    [
+      "149804958",
+      {"key": "149804958"}
+    ],
+    [
+      "149804960",
+      {"key": "149804960"}
+    ],
+    [
+      "149804962",
+      {"key": "149804962"}
+    ],
+    [
+      "149804964",
+      {"key": "149804964"}
+    ],
+    [
+      "149804967",
+      {"key": "149804967"}
+    ],
+    [
+      "149804969",
+      {"key": "149804969"}
+    ],
+    [
+      "149804972",
+      {"key": "149804972"}
+    ],
+    [
+      "149804974",
+      {"key": "149804974"}
+    ],
+    [
+      "149804976",
+      {"key": "149804976"}
+    ],
+    [
+      "149804978",
+      {"key": "149804978"}
+    ],
+    [
+      "149804981",
+      {"key": "149804981"}
+    ],
+    [
+      "149804982",
+      {"key": "149804982"}
+    ],
+    [
+      "149804984",
+      {"key": "149804984"}
+    ],
+    [
+      "149804985",
+      {"key": "149804985"}
+    ],
+    [
+      "149804987",
+      {"key": "149804987"}
+    ],
+    [
+      "149804989",
+      {"key": "149804989"}
+    ],
+    [
+      "149804991",
+      {"key": "149804991"}
+    ],
+    [
+      "149804993",
+      {"key": "149804993"}
+    ],
+    [
+      "149804997",
+      {"key": "149804997"}
+    ],
+    [
+      "149805001",
+      {"key": "149805001"}
+    ],
+    [
+      "149805003",
+      {"key": "149805003"}
+    ],
+    [
+      "149805006",
+      {"key": "149805006"}
+    ],
+    [
+      "149805007",
+      {"key": "149805007"}
+    ],
+    [
+      "149805009",
+      {"key": "149805009"}
+    ],
+    [
+      "149805011",
+      {"key": "149805011"}
+    ],
+    [
+      "149805013",
+      {"key": "149805013"}
+    ],
+    [
+      "149805015",
+      {"key": "149805015"}
+    ],
+    [
+      "149805017",
+      {"key": "149805017"}
+    ],
+    [
+      "149805019",
+      {"key": "149805019"}
+    ],
+    [
+      "149805021",
+      {"key": "149805021"}
+    ],
+    [
+      "149805023",
+      {"key": "149805023"}
+    ],
+    [
+      "149805025",
+      {"key": "149805025"}
+    ],
+    [
+      "149805027",
+      {"key": "149805027"}
+    ],
+    [
+      "149805029",
+      {"key": "149805029"}
+    ],
+    [
+      "149805031",
+      {"key": "149805031"}
+    ],
+    [
+      "149805033",
+      {"key": "149805033"}
+    ],
+    [
+      "149805036",
+      {"key": "149805036"}
+    ],
+    [
+      "149805039",
+      {"key": "149805039"}
+    ],
+    [
+      "149805042",
+      {"key": "149805042"}
+    ],
+    [
+      "149805045",
+      {"key": "149805045"}
+    ],
+    [
+      "149805048",
+      {"key": "149805048"}
+    ],
+    [
+      "149805051",
+      {"key": "149805051"}
+    ],
+    [
+      "149805053",
+      {"key": "149805053"}
+    ],
+    [
+      "149805056",
+      {"key": "149805056"}
+    ],
+    [
+      "149805059",
+      {"key": "149805059"}
+    ],
+    [
+      "149805062",
+      {"key": "149805062"}
+    ],
+    [
+      "149805064",
+      {"key": "149805064"}
+    ],
+    [
+      "149805066",
+      {"key": "149805066"}
+    ],
+    [
+      "149805069",
+      {"key": "149805069"}
+    ],
+    [
+      "149805072",
+      {"key": "149805072"}
+    ],
+    [
+      "149805075",
+      {"key": "149805075"}
+    ],
+    [
+      "149805079",
+      {"key": "149805079"}
+    ],
+    [
+      "149805083",
+      {"key": "149805083"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/13aburto",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Sister Aburto teaches that the Church of Jesus Christ accomplishes its work through its members.",
+          "title": "We Are The Church of Jesus Christ of Latter-day Saints"
+        },
+        "pageSocial": {
+          "description": "Sister Aburto teaches that the Church of Jesus Christ accomplishes its work through its members.",
+          "title": "We Are The Church of Jesus Christ of Latter-day Saints"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/7e/aa/7eaaad4083da64fa8fd24c1cb86efd4186d71218/7eaaad4083da64fa8fd24c1cb86efd4186d71218.image/jpeg\" data-video-title=\"We Are The Church of Jesus Christ of Latter-day Saints\" data-video-description=\"Sister Aburto teaches that the Church of Jesus Christ accomplishes its work through its members.\" data-video-id=\"6302700582001\" data-ip=\"Download and Streaming                            \" data-duration=\"600301\" data-assetId=\"ee23f0c9b2aa11ec94b8eeeeac1e816416f9454a\" data-ref-id=\"363D8D7D499F2AA234308D39B02ECDF5C148D7B8\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302700582001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1030-reyna-i-aburto-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"55677429\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1030-reyna-i-aburto-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"143726813\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1030-reyna-i-aburto-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"197689808\"/><\/video><h1 data-aid=\"149804949\" id=\"title1\"><em>We<\/em> Are The Church of Jesus Christ of Latter-day Saints<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149804950\" id=\"author1\">By Reyna I. Aburto<\/p>\n<p class=\"author-role\" data-aid=\"149804952\" id=\"author2\">Second Counselor in the Relief Society General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149804954\" id=\"kicker1\">The Church is more than the buildings and the ecclesiastical structure; the Church is us, the members, with Christ at the head and the prophet as His mouthpiece.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149804956\" id=\"p1\">After receiving an invitation to \u201ccome and see,\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> I attended The Church of Jesus Christ of Latter-day Saints for the first time at the age of 26. I had recently separated from my first husband. I had a three-year-old boy. And I felt powerless with fear. When I entered the building, I was filled with warmth as I perceived the faith and joy of the people surrounding me. It was truly \u201ca refuge from the storm.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Three weeks later, I made the baptismal covenant with Heavenly Father and started my journey as a disciple of Christ, although my life has not been perfect along that journey.<\/p>\n<p data-aid=\"149804958\" id=\"p2\">For me to receive those eternal blessings, many physical and spiritual elements had to be in place. The gospel of Jesus Christ had been restored and preached; that meetinghouse had been built and maintained; there was an ecclesiastical structure, from the prophet to local leaders; and a branch filled by covenant members was ready to embrace me and my son as we were brought to the Savior, \u201cnourished by the good word of God,\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> and given opportunities to serve.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"149804960\" id=\"p3\">From the beginning, God has sought to gather and organize His children<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> \u201cto bring to pass [our] immortality and eternal life.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> With that purpose in mind, He has instructed us to build places of worship<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> where we receive knowledge and the ordinances of salvation and exaltation; make and keep covenants that bind us to Jesus Christ;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> are endowed with \u201cthe power of godliness\u201d;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> and gather together often to remember Jesus and strengthen each other in Him.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> The Church organization and its buildings exist for our spiritual benefit. \u201cThe Church \u2026 is the scaffolding with which we build eternal families.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"149804962\" id=\"p4\">While talking to a friend going through a difficult time, I asked how he was surviving financially. In tears, he replied that his bishop was helping him using fast-offering funds. He added, \u201cI don\u2019t know where my family and I would be if it wasn\u2019t for the Church.\u201d I replied, \u201cThe Church is the <em>members<\/em>. They are the ones who willingly and joyfully give fast offerings to help those of us in need. You are receiving the fruits of their faith and determination to follow Jesus Christ.\u201d<\/p>\n<p data-aid=\"149804964\" id=\"p5\">My fellow disciples of Christ, let us not underestimate the marvelous work the Lord is doing through <em>us<\/em>, His Church, despite our shortcomings. Sometimes we are givers and sometimes we are receivers, but we are all one family in Christ. His Church is the structure He has given to guide and bless us as we worship Him and serve each other.<\/p>\n<p data-aid=\"149804967\" id=\"p6\">Some sisters have apologized to me, thinking they are not active members of Relief Society because they are serving in Primary or Young Women. Those sisters are among the most active members of Relief Society because they are helping our precious children and youth strengthen their faith in Jesus Christ.<\/p>\n<p data-aid=\"149804969\" id=\"p7\">Relief Society is not limited to a room in a building, a Sunday lesson, an activity, or a presidency at the local or general level. Relief Society is the covenant women of the Church; it is <em>us<\/em>\u2014<em>each of us<\/em> and <em>all of us<\/em>. It is our \u201cglobal community of compassion and service.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> Anywhere and everywhere we go, we are always part of Relief Society as we strive to fulfill its divine purpose, which is for women to accomplish God\u2019s work in individual as well as collective ways<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> by providing relief: \u201crelief of poverty, relief of illness; relief of doubt, relief of ignorance\u2014relief of all that hinders \u2026 joy and progress.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"149804972\" id=\"p8\">Similar belonging exists in elders quorums and organizations of the Church for all ages, including our children and youth. The Church is more than the buildings and the ecclesiastical structure; the Church is <em>us<\/em>, the members. <em>We<\/em> are The Church of Jesus Christ of Latter-day Saints, with Christ at the head and the prophet as His mouthpiece. The Lord has said:<\/p>\n<p data-aid=\"149804974\" id=\"p9\">\u201cBehold, this is my doctrine\u2014whosoever repenteth and cometh unto me, the same is my church. \u2026<\/p>\n<p data-aid=\"149804976\" id=\"p10\">\u201cAnd \u2026 whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"149804978\" id=\"p11\">Sisters and brothers, let us realize how privileged we are to belong to the Church of Jesus Christ, where we can unite our faith, hearts, strengths, minds, and hands for Him to perform His mighty miracles. \u201cFor the body [of Christ\u2019s Church] is not one member, but many.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"149804981\" id=\"p12\">A teenage boy told his mother, \u201cWhen I was little, every time I gave one dollar in tithing, I thought that with that <em>one<\/em> dollar a <em>whole<\/em> meetinghouse would be built. Isn\u2019t that silly?\u201d<\/p>\n<p data-aid=\"149804982\" id=\"p13\">Touched, she replied, \u201cThat is lovely! Did you picture them in your mind?\u201d<\/p>\n<p data-aid=\"149804984\" id=\"p14\">\u201cYes!\u201d he exclaimed. \u201cThey were beautiful, and there were millions of them!\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"149804985\" id=\"p15\">My dear friends, let us have the faith of a child and rejoice in knowing that even our smallest efforts are making a significant difference in God\u2019s kingdom.<\/p>\n<p data-aid=\"149804987\" id=\"p16\">Our purpose in His kingdom should be to bring each other to Christ. As we read in the scriptures, the Savior extended this invitation to the Nephites:<\/p>\n<p data-aid=\"149804989\" id=\"p17\">\u201cHave ye any that are sick among you? Bring them hither. Have ye any that are \u2026 afflicted in any manner? Bring them hither and I will heal them, for I have compassion upon you; my bowels are filled with mercy.<\/p>\n<p data-aid=\"149804991\" id=\"p18\">\u201c\u2026 I see that your faith is sufficient that I should heal you.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"149804993\" id=\"p19\">Do we not all have afflictions that can be brought to the Savior\u2019s feet? While some of us have physical challenges, many more battle with emotional strife, others struggle to nurture social connections, and we all seek respite when our spirits are challenged. We are <em>all<\/em> afflicted in some manner.<\/p>\n<p data-aid=\"149804997\" id=\"p20\">We read that \u201call the multitude, with one accord, did go forth with their sick and \u2026 with <em>all<\/em> them that were afflicted in any manner; and he <em>did<\/em> heal them <em>every one<\/em> as they were brought forth unto him.<\/p>\n<p data-aid=\"149805001\" id=\"p21\">\u201cAnd they did all, both they who had been healed and they who were whole, bow down at his feet, and did worship him.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"149805003\" id=\"p22\">From a little boy who pays tithing with faith, to a single mother in need of the Lord\u2019s empowering grace, to a father struggling to provide for his family, to our ancestors in need of the ordinances of salvation and exaltation, to each of us who renews covenants with God every week, we need each other, and we can bring each other to the Savior\u2019s redeeming healing.<\/p>\n<p data-aid=\"149805006\" id=\"p23\">My dear sisters and brothers, let us follow Jesus Christ\u2019s invitation to bring ourselves and our afflictions to Him. When we come to Him and bring those we love to Him, He sees our faith. He will make them whole, and He will make us whole.<\/p>\n<p data-aid=\"149805007\" id=\"p24\">As \u201cthe peaceable followers of Christ,\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> we are striving to become \u201cof one heart and one mind\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> and to be humble; submissive; gentle; easy to be entreated; full of patience and long-suffering; temperate in all things; diligent in keeping the commandments of God at all times; full of faith, hope, and charity; and abounding in good works.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> We are striving to become like Jesus Christ.<\/p>\n<p data-aid=\"149805009\" id=\"p25\">I testify that as Christ\u2019s Church, we are the means through which, as President Russell M. Nelson taught, \u201cour Savior and Redeemer, Jesus Christ, will perform some of His mightiest works between now and when He comes again.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"149805011\" id=\"p26\">The Lord has said:<\/p>\n<p data-aid=\"149805013\" id=\"p27\">\u201cBehold, I will hasten my work in its time.<\/p>\n<p data-aid=\"149805015\" id=\"p28\">\u201cAnd I give unto you \u2026 a commandment that you assemble yourselves together, and organize yourselves, and prepare yourselves, and sanctify yourselves; yea, purify your hearts, and cleanse your hands and your feet before me, that I may make you clean.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"149805017\" id=\"p29\">May we respond to this divine invitation and joyfully assemble, organize, prepare, and sanctify ourselves is my humble prayer in the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149805019\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149805021\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.46?lang=eng#p46\">John 1:46<\/a>; see also Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/14uchtdorf?lang=eng\">Missionary Work: Sharing What Is in Your Heart<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 15\u201318; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/come-and-see?lang=eng\">Come and See<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 107\u201310.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149805023\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/25.4?lang=eng#p4\">Isaiah 25:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115.6?lang=eng#p6\">Doctrine and Covenants 115:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149805025\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=eng#p4\">Moroni 6:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149805027\" id=\"note4_p1\">See Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1997/04/converts-and-young-men?lang=eng\">Converts and Young Men<\/a>,\u201d <cite>Ensign<\/cite>, May 1997, 47\u201350.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149805029\" id=\"note5_p1\">See, for example, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=eng#p19\">Matthew 28:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.11-13?lang=eng#p11\">Ephesians 4:11\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5.61-62,71-72?lang=eng#p61\">Jacob 5:61\u201362, 71\u201372<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/26.20-21?lang=eng#p20\">3 Nephi 26:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.5-8?lang=eng#p5\">27:5\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28.23?lang=eng#p23\">28:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng\">Doctrine and Covenants 20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=eng\">21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73\">88:73\u201374<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115.4?lang=eng#p4\">115:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.30-35,55-56?lang=eng#p30\">138:30\u201335, 55\u201356<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.58-59?lang=eng#p58\">Moses 5:58\u201359<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.22-23?lang=eng#p22\">6:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.22-28?lang=eng#p22\">Abraham 3:22\u201328<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/4?lang=eng\">4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149805031\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149805033\" id=\"note7_p1\">See, for example, <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25.8?lang=eng#p8\">Exodus 25:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/12.5-14?lang=eng#p5\">Deuteronomy 12:5\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9?lang=eng#p9\">Doctrine and Covenants 59:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.8?lang=eng#p8\">109:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149805036\" id=\"note8_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 93\u201396; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/22bednar?lang=eng\">With the Power of God in Great Glory<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 28\u201330.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149805039\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20?lang=eng#p20\">Doctrine and Covenants 84:20<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.14?lang=eng#p14\">1 Nephi 14:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/95.8?lang=eng#p8\">Doctrine and Covenants 95:8<\/a>; <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/3-priesthood-principles.html?para=title_number16#title_number16\">3.5<\/span>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/27-temple-ordinances-for-the-living.html?para=title_number11#title_number11\">27.2<\/span>, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149805042\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.25?lang=eng#p25\">Mosiah 18:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/6.6?lang=eng#p6\">Alma 6:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.18?lang=eng#p18\">15:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.12?lang=eng#p12\">4 Nephi 1:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4-6?lang=eng#p4\">Moroni 6:4\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.75?lang=eng#p75\">Doctrine and Covenants 20:75<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9?lang=eng#p9\">59:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101.22?lang=eng#p22\">101:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149805045\" id=\"note11_p1\">L. Tom Perry, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2012/12/the-tradition-of-light-and-testimony?lang=eng&amp;para=12#p12\">The Tradition of Light and Testimony<\/a>,\u201d <cite>Ensign<\/cite>, Dec. 2012, 30; <cite>Liahona<\/cite>, Dec. 2012, 12.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149805048\" id=\"note12_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/muslims-and-latter-day-saints/12-the-role-of-women?lang=eng&amp;para=2#p2\">The Role of Women<\/a>,\u201d <cite>Muslims and Latter-day Saints: Beliefs, Values, and Lifestyles<\/cite>, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149805051\" id=\"note13_p1\">See <cite>General Handbook<\/cite>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/9-relief-society.html?para=title_number2#title_number2\">9.1.1<\/span>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149805053\" id=\"note14_p1\">John A. Widtsoe, <cite>Evidences and Reconciliations<\/cite>, arr. G. Homer Durham, 3 vols. in 1 (1960), 308.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149805056\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.67,69?lang=eng#p67\">Doctrine and Covenants 10:67, 69<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.12-31?lang=eng#p12\">1 Corinthians 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.17?lang=eng#p17\">Mosiah 18:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.5-16?lang=eng#p5\">3 Nephi 18:5\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/26.21?lang=eng#p21\">26:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149805059\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.14?lang=eng#p14\">1 Corinthians 12:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149805062\" id=\"note17_p1\">See Reyna I. Aburto, <cite>Reaching for the Savior<\/cite> (2021), 89\u201390.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149805064\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.7-8?lang=eng#p7\">3 Nephi 17:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149805066\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.9-10?lang=eng#p9\">3 Nephi 17:9\u201310<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149805069\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=eng#p3\">Moroni 7:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149805072\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7.18?lang=eng#p18\">Moses 7:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149805075\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.23-24?lang=eng#p23\">Alma 7:23\u201324<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149805079\" id=\"note23_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149805083\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73\">Doctrine and Covenants 88:73\u201374<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149804958",
+        "id": "note4",
+        "text": "<p data-aid=\"149805027\" id=\"note4_p1\">See Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1997/04/converts-and-young-men?lang=eng\">Converts and Young Men<\/a>,\u201d <cite>Ensign<\/cite>, May 1997, 47\u201350.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1997/04/converts-and-young-men?lang=eng",
+          "text": "Converts and Young Men",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149804960",
+        "id": "note5",
+        "text": "<p data-aid=\"149805029\" id=\"note5_p1\">See, for example, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=eng#p19\">Matthew 28:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.11-13?lang=eng#p11\">Ephesians 4:11\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5.61-62,71-72?lang=eng#p61\">Jacob 5:61\u201362, 71\u201372<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/26.20-21?lang=eng#p20\">3 Nephi 26:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.5-8?lang=eng#p5\">27:5\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28.23?lang=eng#p23\">28:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng\">Doctrine and Covenants 20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=eng\">21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73\">88:73\u201374<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115.4?lang=eng#p4\">115:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.30-35,55-56?lang=eng#p30\">138:30\u201335, 55\u201356<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5.58-59?lang=eng#p58\">Moses 5:58\u201359<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.22-23?lang=eng#p22\">6:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.22-28?lang=eng#p22\">Abraham 3:22\u201328<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/4?lang=eng\">4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/28.19-20?lang=eng#p19",
+            "text": "Matthew 28:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/4.11-13?lang=eng#p11",
+            "text": "Ephesians 4:11\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/jacob/5.61-62,71-72?lang=eng#p61",
+            "text": "Jacob 5:61\u201362, 71\u201372",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/26.20-21?lang=eng#p20",
+            "text": "3 Nephi 26:20\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.5-8?lang=eng#p5",
+            "text": "27:5\u20138",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/28.23?lang=eng#p23",
+            "text": "28:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=eng",
+            "text": "Doctrine and Covenants 20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=eng",
+            "text": "21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73",
+            "text": "88:73\u201374",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/115.4?lang=eng#p4",
+            "text": "115:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/138.30-35,55-56?lang=eng#p30",
+            "text": "138:30\u201335, 55\u201356",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/5.58-59?lang=eng#p58",
+            "text": "Moses 5:58\u201359",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.22-23?lang=eng#p22",
+            "text": "6:22\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/3.22-28?lang=eng#p22",
+            "text": "Abraham 3:22\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/4?lang=eng",
+            "text": "4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149804956",
+        "id": "note2",
+        "text": "<p data-aid=\"149805023\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/25.4?lang=eng#p4\">Isaiah 25:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115.6?lang=eng#p6\">Doctrine and Covenants 115:6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/25.4?lang=eng#p4",
+            "text": "Isaiah 25:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/115.6?lang=eng#p6",
+            "text": "Doctrine and Covenants 115:6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149804958",
+        "id": "note3",
+        "text": "<p data-aid=\"149805025\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=eng#p4\">Moroni 6:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/6.4?lang=eng#p4",
+          "text": "Moroni 6:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149804960",
+        "id": "note8",
+        "text": "<p data-aid=\"149805036\" id=\"note8_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 93\u201396; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/22bednar?lang=eng\">With the Power of God in Great Glory<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 28\u201330.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2021/10/47nelson?lang=eng",
+            "text": "The Temple and Your Spiritual Foundation",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2021/10/22bednar?lang=eng",
+            "text": "With the Power of God in Great Glory",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149804960",
+        "id": "note9",
+        "text": "<p data-aid=\"149805039\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20?lang=eng#p20\">Doctrine and Covenants 84:20<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14.14?lang=eng#p14\">1 Nephi 14:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/95.8?lang=eng#p8\">Doctrine and Covenants 95:8<\/a>; <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/3-priesthood-principles.html?para=title_number16#title_number16\">3.5<\/span>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/27-temple-ordinances-for-the-living.html?para=title_number11#title_number11\">27.2<\/span>, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.20?lang=eng#p20",
+            "text": "Doctrine and Covenants 84:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/14.14?lang=eng#p14",
+            "text": "1 Nephi 14:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/95.8?lang=eng#p8",
+            "text": "Doctrine and Covenants 95:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149804960",
+        "id": "note6",
+        "text": "<p data-aid=\"149805031\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.39?lang=eng#p39",
+          "text": "Moses 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149804960",
+        "id": "note7",
+        "text": "<p data-aid=\"149805033\" id=\"note7_p1\">See, for example, <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25.8?lang=eng#p8\">Exodus 25:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/12.5-14?lang=eng#p5\">Deuteronomy 12:5\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9?lang=eng#p9\">Doctrine and Covenants 59:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.8?lang=eng#p8\">109:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ex/25.8?lang=eng#p8",
+            "text": "Exodus 25:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/deut/12.5-14?lang=eng#p5",
+            "text": "Deuteronomy 12:5\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59.9?lang=eng#p9",
+            "text": "Doctrine and Covenants 59:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109.8?lang=eng#p8",
+            "text": "109:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149804978",
+        "id": "note16",
+        "text": "<p data-aid=\"149805059\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.14?lang=eng#p14\">1 Corinthians 12:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/12.14?lang=eng#p14",
+          "text": "1 Corinthians 12:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149804976",
+        "id": "note15",
+        "text": "<p data-aid=\"149805056\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.67,69?lang=eng#p67\">Doctrine and Covenants 10:67, 69<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.12-31?lang=eng#p12\">1 Corinthians 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.17?lang=eng#p17\">Mosiah 18:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.5-16?lang=eng#p5\">3 Nephi 18:5\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/26.21?lang=eng#p21\">26:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/10.67,69?lang=eng#p67",
+            "text": "Doctrine and Covenants 10:67, 69",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/12.12-31?lang=eng#p12",
+            "text": "1 Corinthians 12:12\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.17?lang=eng#p17",
+            "text": "Mosiah 18:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/18.5-16?lang=eng#p5",
+            "text": "3 Nephi 18:5\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/26.21?lang=eng#p21",
+            "text": "26:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149804969",
+        "id": "note14",
+        "text": "<p data-aid=\"149805053\" id=\"note14_p1\">John A. Widtsoe, <cite>Evidences and Reconciliations<\/cite>, arr. G. Homer Durham, 3 vols. in 1 (1960), 308.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149804969",
+        "id": "note13",
+        "text": "<p data-aid=\"149805051\" id=\"note13_p1\">See <cite>General Handbook<\/cite>, <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/general-handbook-excerpts/9-relief-society.html?para=title_number2#title_number2\">9.1.1<\/span>.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149805015",
+        "id": "note24",
+        "text": "<p data-aid=\"149805083\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73\">Doctrine and Covenants 88:73\u201374<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.73-74?lang=eng#p73",
+          "text": "Doctrine and Covenants 88:73\u201374",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149804969",
+        "id": "note12",
+        "text": "<p data-aid=\"149805048\" id=\"note12_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/muslims-and-latter-day-saints/12-the-role-of-women?lang=eng&amp;para=2#p2\">The Role of Women<\/a>,\u201d <cite>Muslims and Latter-day Saints: Beliefs, Values, and Lifestyles<\/cite>, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/muslims-and-latter-day-saints/12-the-role-of-women?lang=eng&amp;para=2#p2",
+          "text": "The Role of Women",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149805009",
+        "id": "note23",
+        "text": "<p data-aid=\"149805079\" id=\"note23_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37",
+          "text": "Revelation for the Church, Revelation for Our Lives",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149804960",
+        "id": "note11",
+        "text": "<p data-aid=\"149805045\" id=\"note11_p1\">L. Tom Perry, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2012/12/the-tradition-of-light-and-testimony?lang=eng&amp;para=12#p12\">The Tradition of Light and Testimony<\/a>,\u201d <cite>Ensign<\/cite>, Dec. 2012, 30; <cite>Liahona<\/cite>, Dec. 2012, 12.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2012/12/the-tradition-of-light-and-testimony?lang=eng&amp;para=12#p12",
+          "text": "The Tradition of Light and Testimony",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149805007",
+        "id": "note22",
+        "text": "<p data-aid=\"149805075\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.23-24?lang=eng#p23\">Alma 7:23\u201324<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.23-24?lang=eng#p23",
+          "text": "Alma 7:23\u201324",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149804960",
+        "id": "note10",
+        "text": "<p data-aid=\"149805042\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.25?lang=eng#p25\">Mosiah 18:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/6.6?lang=eng#p6\">Alma 6:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.18?lang=eng#p18\">15:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.12?lang=eng#p12\">4 Nephi 1:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4-6?lang=eng#p4\">Moroni 6:4\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.75?lang=eng#p75\">Doctrine and Covenants 20:75<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9?lang=eng#p9\">59:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101.22?lang=eng#p22\">101:22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.25?lang=eng#p25",
+            "text": "Mosiah 18:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/6.6?lang=eng#p6",
+            "text": "Alma 6:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/15.18?lang=eng#p18",
+            "text": "15:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/4-ne/1.12?lang=eng#p12",
+            "text": "4 Nephi 1:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6.4-6?lang=eng#p4",
+            "text": "Moroni 6:4\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.75?lang=eng#p75",
+            "text": "Doctrine and Covenants 20:75",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59.9?lang=eng#p9",
+            "text": "59:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/101.22?lang=eng#p22",
+            "text": "101:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149805007",
+        "id": "note21",
+        "text": "<p data-aid=\"149805072\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7.18?lang=eng#p18\">Moses 7:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/7.18?lang=eng#p18",
+          "text": "Moses 7:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149805007",
+        "id": "note20",
+        "text": "<p data-aid=\"149805069\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=eng#p3\">Moroni 7:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.3?lang=eng#p3",
+          "text": "Moroni 7:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149804956",
+        "id": "note1",
+        "text": "<p data-aid=\"149805021\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.46?lang=eng#p46\">John 1:46<\/a>; see also Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/14uchtdorf?lang=eng\">Missionary Work: Sharing What Is in Your Heart<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 15\u201318; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/come-and-see?lang=eng\">Come and See<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 107\u201310.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/1.46?lang=eng#p46",
+            "text": "John 1:46",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2019/04/14uchtdorf?lang=eng",
+            "text": "Missionary Work: Sharing What Is in Your Heart",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2014/10/come-and-see?lang=eng",
+            "text": "Come and See",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149805001",
+        "id": "note19",
+        "text": "<p data-aid=\"149805066\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.9-10?lang=eng#p9\">3 Nephi 17:9\u201310<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17.9-10?lang=eng#p9",
+          "text": "3 Nephi 17:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149804991",
+        "id": "note18",
+        "text": "<p data-aid=\"149805064\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.7-8?lang=eng#p7\">3 Nephi 17:7\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17.7-8?lang=eng#p7",
+          "text": "3 Nephi 17:7\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149804984",
+        "id": "note17",
+        "text": "<p data-aid=\"149805062\" id=\"note17_p1\">See Reyna I. Aburto, <cite>Reaching for the Savior<\/cite> (2021), 89\u201390.<\/p>"
+      }
+    }
+  }
+}

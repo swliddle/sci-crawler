@@ -17,6 +17,7 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import edu.byu.sci.model.BookFinder;
@@ -62,18 +63,20 @@ public class Database {
     private static final String TABLE_SPEAKER = "speaker";
     private static final String TABLE_TALK = "talk";
     private static final String TABLE_TALK_BODY = "talkbody";
+    private static final String TABLE_TALK_BODY2 = TABLE_TALK_BODY + "2";
     private static final String TABLE_TALK_STREAM = "talk_stream";
- 
+
     private Connection conn = null;
     private Logger logger = Logger.getLogger(Database.class.getName());
     private Map<Integer, Integer> sessionIds = new HashMap<>();
     private Map<Integer, String> sessionDates = new HashMap<>();
     private Map<String, Integer> talkIdsForKeys = new HashMap<>();
-    
+
     public Database() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost/sci2p?user=sci2puser&password=sci44access");
-            // conn = DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3307/sci2p?user=sci2puser&password=sci44access");
+            // conn =
+            // DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
         } catch (SQLException e) {
             logError(e);
         }
@@ -254,14 +257,14 @@ public class Database {
                 stmt.close();
             } catch (SQLException sqlEx) {
                 // ignore
-            }    
-        }    
+            }
+        }
     }
 
     private String conferenceAbbreviation(int year, String language, String annual) {
         return year + sConferenceAbbreviation.get(annual + "-" + language);
     }
-    
+
     private String conferenceDescription(int year, String language, String annual) {
         return year + sConferenceDescription.get(annual + "-" + language);
     }
@@ -430,10 +433,10 @@ public class Database {
             logError(e);
         } finally {
             cleanupStatement(stmt, rs);
-        }    
+        }
 
         return maxId;
-    }    
+    }
 
     private int getMaxTalkId(String tableName) {
         Statement stmt = null;
@@ -487,7 +490,7 @@ public class Database {
         logger.log(Level.SEVERE, () -> "SQLState: " + e.getSQLState());
         logger.log(Level.SEVERE, () -> "VendorError: " + e.getErrorCode());
         System.exit(-1);
-    }    
+    }
 
     /**
      * Execute an SQL query statement and iterate over the corresponding
@@ -514,6 +517,54 @@ public class Database {
         } finally {
             cleanupStatement(stmt, rs);
         }
+    }
+
+    private boolean speakerHasCollision(JSONObject speaker, JSONArray speakers) {
+        for (int i = 0; i < speakers.length(); i++) {
+            JSONObject candidate = speakers.getJSONObject(i);
+
+            if (speaker.getString("abbr").equalsIgnoreCase(candidate.getString("abbr"))) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public JSONArray speakersFromDatabase() {
+        Statement stmt = null;
+        ResultSet rs = null;
+        JSONArray speakers = new JSONArray();
+
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery("SELECT ID, GivenNames, LastNames, Abbr, Info FROM speaker ORDER BY ID ASC");
+
+            while (rs.next()) {
+                JSONObject speaker = new JSONObject();
+
+                speaker.put("id", rs.getInt(1));
+                speaker.put("givenNames", rs.getString(2));
+                speaker.put("lastNames", rs.getString(3));
+                speaker.put("abbr", rs.getString(4));
+
+                if (rs.getString(5) != null) {
+                    speaker.put("suffix", rs.getString(5));
+                } else {
+                    speaker.put("suffix", "");
+                }
+
+                speaker.put("collision", speakerHasCollision(speaker, speakers));
+
+                speakers.put(speaker);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return speakers;
     }
 
     private String tableForLanguage(String table, String language) {
@@ -710,15 +761,15 @@ public class Database {
                 + "; " + annual + "; " + issueDate);
 
         return conferenceId;
-    }    
+    }
 
     public void updateMetaData(boolean writeToDatabase, int year, String language, String annual, String issueDate,
-            List<String> sessions, GregorianCalendar saturdayDate, GregorianCalendar sundayDate,        
+            List<String> sessions, GregorianCalendar saturdayDate, GregorianCalendar sundayDate,
             List<String> talkIds, Map<String, String> talkHrefs, Map<String, Integer> talkSpeakerIds,
             Map<String, String> talkTitles, Map<String, int[]> pageRanges, Map<String, Integer> talkSequence,
             Map<String, Integer> talkSessionNo, Map<String, String> talkAudioUrls,
             Map<String, String[]> talkVideoUrls) {
- 
+
         createTalkbody2Tables();
         int conferenceId = updateConference(writeToDatabase, conferenceDescription(year, language, annual),
                 conferenceAbbreviation(year, language, annual), year, annual, issueDate, language);
@@ -823,14 +874,15 @@ public class Database {
         writeSpeakers(writeToDatabase, speakers, databaseSpeakers);
     }
 
-    public void updateTalkContents(boolean writeToDatabase, Map<String, String> talkContents, String language) {
+    public void updateTalkContents(boolean writeToDatabase, boolean replaceTalkBodies,
+            Map<String, String> talkContents, String language) {
         talkContents.forEach((talkId, contents) -> {
             logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());
 
-            if (writeToDatabase) {
+            if (writeToDatabase || replaceTalkBodies) {
                 PreparedStatement stmt = null;
                 ResultSet rs = null;
-                
+
                 try {
                     Integer talkIdValue = talkIdsForKeys.get(talkId);
 
@@ -842,15 +894,17 @@ public class Database {
                         String talkText = StringUtils.allDecodedEntities(contents);
                         TalkBody talkBody = new TalkBody(talkText);
 
-                        stmt = conn.prepareStatement(REPLACE_INTO + tableForLanguage(TABLE_TALK_BODY, language)
-                                + " (TalkID, Text, ProcessedText, RawText, TagVector) VALUES (?, ?, ?, ?, ?)");
-                        stmt.setInt(1, talkIdValue);
-                        stmt.setString(2, talkText);
-                        stmt.setString(3, talkBody.getProcessedText());
-                        stmt.setString(4, talkBody.getRawText());
-                        stmt.setBlob(5, talkBody.getTagVectorBlob());
+                        for (String table : new String[] { TABLE_TALK_BODY, TABLE_TALK_BODY2 }) {
+                            stmt = conn.prepareStatement(REPLACE_INTO + tableForLanguage(table, language)
+                                    + " (TalkID, Text, ProcessedText, RawText, TagVector) VALUES (?, ?, ?, ?, ?)");
+                            stmt.setInt(1, talkIdValue);
+                            stmt.setString(2, talkText);
+                            stmt.setString(3, talkBody.getProcessedText());
+                            stmt.setString(4, talkBody.getRawText());
+                            stmt.setBlob(5, talkBody.getTagVectorBlob());
 
-                        stmt.execute();
+                            stmt.execute();
+                        }
                     }
                 } catch (SQLException e) {
                     logError(e);
@@ -881,7 +935,8 @@ public class Database {
     }
 
     private void updateTalk(boolean writeToDatabase, String href, int speakerId, String title, int[] pageRange,
-            int sessionId, String date, int sequence, String[] mediaUrls, String language, int talkCount, String talkKey) {
+            int sessionId, String date, int sequence, String[] mediaUrls, String language, int talkCount,
+            String talkKey) {
 
         PreparedStatement stmt = null;
         ResultSet rs = null;
@@ -891,7 +946,8 @@ public class Database {
         if (writeToDatabase) {
             if (talkId < 0) {
                 logger.log(Level.INFO, "Inserting a talk record");
-                String mediaUrl = href.replace("liahona", "general-conference").replace("/05/", "/04/").replace("/11/", "/10/");
+                String mediaUrl = href.replace("liahona", "general-conference").replace("/05/", "/04/").replace("/11/",
+                        "/10/");
 
                 try {
                     stmt = conn.prepareStatement(
@@ -1034,8 +1090,8 @@ public class Database {
                 stmt.setInt(1, citation.citationId);
                 stmt.setInt(2, talkIdsForKeys.get(citation.talkId));
                 stmt.setInt(3, BookFinder.sInstance.bookIdForBook(citation.book));
-                stmt.setString(4, citation.chapter);
-                stmt.setString(5, citation.verses);
+                stmt.setString(4, citation.chapter == null ? "0" : citation.chapter);
+                stmt.setString(5, citation.verses == null ? "" : citation.verses);
                 stmt.setString(6, citation.isJst ? "J" : "");
                 stmt.setInt(7, citation.page);
 
@@ -1081,7 +1137,8 @@ public class Database {
                     }
                 } else {
                     logger.log(Level.INFO, () -> "Need to create speaker record for "
-                            + speaker.getString(Speakers.KEY_LASTNAMES) + ", " + speaker.getString(Speakers.KEY_GIVENNAMES));
+                            + speaker.getString(Speakers.KEY_LASTNAMES) + ", "
+                            + speaker.getString(Speakers.KEY_GIVENNAMES));
                 }
             }
         });

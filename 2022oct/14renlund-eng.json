@@ -1,0 +1,816 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/14renlund?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "d2b33ad03b4d42e09bd2b67f7ca333d7",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/14renlund",
+      "data-aid": "152798274",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "d2b33ad03b4d42e09bd2b67f7ca333d7"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/96/dd/96dd02347eefbc48c8e7dc38a2e942d4ccbf037b/96dd02347eefbc48c8e7dc38a2e942d4ccbf037b.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1040-dale-g-renlund-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "A Framework for Personal Revelation",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152798274",
+      {"key": "152798274"}
+    ],
+    [
+      "152798275",
+      {"key": "152798275"}
+    ],
+    [
+      "152798276",
+      {"key": "152798276"}
+    ],
+    [
+      "152798277",
+      {"key": "152798277"}
+    ],
+    [
+      "152798278",
+      {"key": "152798278"}
+    ],
+    [
+      "152798279",
+      {"key": "152798279"}
+    ],
+    [
+      "152798280",
+      {"key": "152798280"}
+    ],
+    [
+      "152798281",
+      {"key": "152798281"}
+    ],
+    [
+      "152798282",
+      {"key": "152798282"}
+    ],
+    [
+      "152798283",
+      {"key": "152798283"}
+    ],
+    [
+      "152798284",
+      {"key": "152798284"}
+    ],
+    [
+      "152798285",
+      {"key": "152798285"}
+    ],
+    [
+      "152798286",
+      {"key": "152798286"}
+    ],
+    [
+      "152798287",
+      {"key": "152798287"}
+    ],
+    [
+      "152798288",
+      {"key": "152798288"}
+    ],
+    [
+      "152798289",
+      {"key": "152798289"}
+    ],
+    [
+      "152798290",
+      {"key": "152798290"}
+    ],
+    [
+      "152798291",
+      {"key": "152798291"}
+    ],
+    [
+      "152798292",
+      {"key": "152798292"}
+    ],
+    [
+      "152798293",
+      {"key": "152798293"}
+    ],
+    [
+      "152798294",
+      {"key": "152798294"}
+    ],
+    [
+      "152798296",
+      {"key": "152798296"}
+    ],
+    [
+      "152798298",
+      {"key": "152798298"}
+    ],
+    [
+      "152798300",
+      {"key": "152798300"}
+    ],
+    [
+      "152798302",
+      {"key": "152798302"}
+    ],
+    [
+      "152798304",
+      {"key": "152798304"}
+    ],
+    [
+      "152798306",
+      {"key": "152798306"}
+    ],
+    [
+      "152798308",
+      {"key": "152798308"}
+    ],
+    [
+      "152798310",
+      {"key": "152798310"}
+    ],
+    [
+      "152798312",
+      {"key": "152798312"}
+    ],
+    [
+      "152798314",
+      {"key": "152798314"}
+    ],
+    [
+      "152798316",
+      {"key": "152798316"}
+    ],
+    [
+      "152798318",
+      {"key": "152798318"}
+    ],
+    [
+      "152798320",
+      {"key": "152798320"}
+    ],
+    [
+      "152798322",
+      {"key": "152798322"}
+    ],
+    [
+      "152798324",
+      {"key": "152798324"}
+    ],
+    [
+      "152798326",
+      {"key": "152798326"}
+    ],
+    [
+      "152798328",
+      {"key": "152798328"}
+    ],
+    [
+      "152798330",
+      {"key": "152798330"}
+    ],
+    [
+      "152798332",
+      {"key": "152798332"}
+    ],
+    [
+      "152798334",
+      {"key": "152798334"}
+    ],
+    [
+      "152798337",
+      {"key": "152798337"}
+    ],
+    [
+      "152798340",
+      {"key": "152798340"}
+    ],
+    [
+      "152798343",
+      {"key": "152798343"}
+    ],
+    [
+      "152798346",
+      {"key": "152798346"}
+    ],
+    [
+      "152798349",
+      {"key": "152798349"}
+    ],
+    [
+      "152798352",
+      {"key": "152798352"}
+    ],
+    [
+      "152798355",
+      {"key": "152798355"}
+    ],
+    [
+      "152798358",
+      {"key": "152798358"}
+    ],
+    [
+      "152798361",
+      {"key": "152798361"}
+    ],
+    [
+      "152798364",
+      {"key": "152798364"}
+    ],
+    [
+      "152798367",
+      {"key": "152798367"}
+    ],
+    [
+      "152798370",
+      {"key": "152798370"}
+    ],
+    [
+      "152798373",
+      {"key": "152798373"}
+    ],
+    [
+      "152798377",
+      {"key": "152798377"}
+    ],
+    [
+      "152798380",
+      {"key": "152798380"}
+    ],
+    [
+      "152798382",
+      {"key": "152798382"}
+    ],
+    [
+      "152798385",
+      {"key": "152798385"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/14renlund",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Renlund teaches how to receive personal revelation through the Holy Ghost and how to avoid deception.",
+          "title": "A Framework for Personal Revelation"
+        },
+        "pageSocial": {
+          "description": "Elder Renlund teaches how to receive personal revelation through the Holy Ghost and how to avoid deception.",
+          "title": "A Framework for Personal Revelation"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/96/dd/96dd02347eefbc48c8e7dc38a2e942d4ccbf037b/96dd02347eefbc48c8e7dc38a2e942d4ccbf037b.jpeg\" data-video-title=\"A Framework for Personal Revelation\" data-video-description=\"Elder Renlund teaches how to receive personal revelation through the Holy Ghost and how to avoid deception.\" data-video-id=\"6313131047112\" data-ip=\"Download and Streaming                            \" data-duration=\"761262\" data-assetId=\"ddf085d241bf11edb2b0eeeeac1e90437fe19001\" data-ref-id=\"1AF330267A81A6B8A650DC489AB6A211AC8F1F79\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313131047112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"252154003\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1040-dale-g-renlund-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"70745435\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1040-dale-g-renlund-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"182822311\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1040-dale-g-renlund-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"252154003\"/><\/video><h1 data-aid=\"152798275\" id=\"title1\">A Framework for Personal Revelation<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152798276\" id=\"author1\">By Elder Dale G. Renlund<\/p>\n<p class=\"author-role\" data-aid=\"152798277\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152798278\" id=\"kicker1\">We need to understand the framework within which the Holy Ghost functions. When we operate within the framework, the Holy Ghost can unleash astonishing insight.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152798279\" id=\"p1\">Like many of you, I have been greatly influenced by Elder Dieter F. Uchtdorf over the years. That explains, at least in part, what I am about to say.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> So, with apologies to him \u2026<\/p>\n<p data-aid=\"152798280\" id=\"p2\">Well-trained airplane pilots fly within the capacity of their aircraft and follow directions from air traffic controllers regarding runway use and flight path. Simply stated, pilots operate within a framework. No matter how brilliant or talented they are, only by flying within this framework can pilots safely unleash the enormous potential of an airplane to accomplish its miraculous objectives.<\/p>\n<p data-aid=\"152798281\" id=\"p3\">In a similar way, we receive personal revelation within a framework. After baptism, we are given a majestic yet practical gift, the gift of the Holy Ghost.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> As we strive to stay on the covenant path,<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> it is \u201cthe Holy Ghost \u2026 [that] will show [us] all things [that we] should do.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> When we are unsure or uneasy, we can ask God for help.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> The Savior\u2019s promise could not be clearer: \u201cAsk, and it shall be given you; \u2026 for every one that asketh receiveth.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> With the help of the Holy Ghost, we can transform our divine nature into our eternal destiny.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"152798282\" id=\"p4\">The promise of personal revelation through the Holy Ghost is awe-inspiring, much like an airplane in flight. And like airplane pilots, we need to understand the framework within which the Holy Ghost functions to provide personal revelation. When we operate within the framework, the Holy Ghost can unleash astonishing insight, direction, and comfort. Outside of that framework, no matter our brilliance or talent, we can be deceived and crash and burn.<\/p>\n<p data-aid=\"152798283\" id=\"p5\">The scriptures form the first element of this framework for personal revelation.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> Feasting on the words of Christ, as found in the scriptures, stimulates personal revelation. Elder Robert D. Hales said: \u201cWhen we want to speak to God, we pray. And when we want Him to speak to us, we search the scriptures.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"152798284\" id=\"p6\">The scriptures also teach us how to receive personal revelation.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> And we ask for what is right and good<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> and not for what is contrary to God\u2019s will.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> We do not \u201cask amiss,\u201d with improper motives to promote our own agenda or to fulfill our own pleasure.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Above all, we are to ask Heavenly Father in the name of Jesus Christ,<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> believing that we will receive.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"152798285\" id=\"p7\">A second element of the framework is that we receive personal revelation only within our purview and not within the prerogative of others. In other words, we take off and land in our appointed runway. The importance of well-defined runways was learned early in the history of the Restoration. Hiram Page, one of the Eight Witnesses to the Book of Mormon, claimed to be receiving revelations for the entire Church. Several members were deceived and wrongly influenced.<\/p>\n<p data-aid=\"152798286\" id=\"p8\">In response, the Lord revealed that \u201cno one shall be appointed to receive commandments and revelations in this church excepting my servant Joseph Smith \u2026 until I shall appoint \u2026 another in his stead.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Doctrine, commandments, and revelations for the Church are the prerogative of the living prophet, who receives them from the Lord Jesus Christ.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> That is the prophet\u2019s runway.<\/p>\n<p data-aid=\"152798287\" id=\"p9\">Years ago, I received a phone call from an individual who had been arrested for trespassing. He told me it had been revealed to him that additional scripture was buried under the ground floor of a building he tried to enter. He claimed that once he obtained the additional scripture, he knew he would receive the gift of translation, bring forth new scripture, and shape the doctrine and direction of the Church. I told him that he was mistaken, and he implored me to pray about it. I told him I would not. He became verbally abusive and ended the phone call.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"152798288\" id=\"p10\">I did not need to pray about this request for one simple but profound reason: only the prophet receives revelation <em>for the Church<\/em>. It would be \u201ccontrary to the economy of God\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> for others to receive such revelation, which belongs on the prophet\u2019s runway.<\/p>\n<p data-aid=\"152798289\" id=\"p11\"><em>Personal<\/em> revelation rightly belongs to individuals. You can receive revelation, for example, about where to live, what career path to follow, or whom to marry.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> Church leaders may teach doctrine and share inspired counsel, but the responsibility for these decisions rests with you. That is your revelation to receive; that is your runway.<\/p>\n<p data-aid=\"152798290\" id=\"p12\">A third element of the framework is that personal revelation will be in harmony with the commandments of God and the covenants we have made with Him. Consider a prayer that goes something like this: \u201cHeavenly Father, Church services are boring. May I worship Thee on the Sabbath in the mountains or on the beach? May I be excused from going to church and partaking of the sacrament but still have the promised blessings of keeping the Sabbath day holy?\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> In response to such a prayer, we can anticipate God\u2019s response: \u201cMy child, I have already revealed my will regarding the Sabbath day.\u201d<\/p>\n<p data-aid=\"152798291\" id=\"p13\">When we ask for revelation about something for which God has already given clear direction, we open ourselves up to misinterpreting our feelings and hearing what we want to hear. A man once told me about his struggles to stabilize his family\u2019s financial situation. He had the idea to embezzle funds as a solution, prayed about it, and felt he had received affirmative revelation to do so. I knew he had been deceived because he sought revelation contrary to a commandment of God. The Prophet Joseph Smith warned, \u201cNothing is a greater injury to the children of men than to be under the influence of a false spirit, when they think they have the Spirit of God.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"152798292\" id=\"p14\">Some might point out that Nephi violated a commandment when he slew Laban. However, this exception does not negate the rule\u2014the rule that personal revelation will be in harmony with God\u2019s commandments. No simple explanation of this episode is completely satisfactory, but let me highlight some aspects. The episode did not begin with Nephi asking if he could slay Laban. It was not something he wanted to do. Killing Laban was not for Nephi\u2019s personal benefit but to provide scriptures to a future nation and a covenant people. And Nephi was sure that it was revelation\u2014in fact, in this case, it was a commandment from God.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"152798293\" id=\"p15\">The fourth element of the framework is to recognize what God has already revealed to you personally, while being open to further revelation from Him. If God has answered a question and the circumstances have not changed, why would we expect the answer to be different? Joseph Smith stumbled into this problematic scenario in 1828. The first portion of the Book of Mormon had been translated, when Martin Harris, a benefactor and early scribe, asked Joseph for permission to take the translated pages and show them to his wife. Unsure of what to do, Joseph prayed for guidance. The Lord told him not to let Martin take the pages.<\/p>\n<p data-aid=\"152798294\" id=\"p16\">Martin requested that Joseph ask God again. Joseph did so, and the answer was, not surprisingly, the same. But Martin begged Joseph to ask a third time, and Joseph did so. This time God did not say no. Instead, it was as though God said, \u201cJoseph, you know how I feel about this, but you have your agency to choose.\u201d Feeling himself relieved of the constraint, Joseph decided to allow Martin to take 116 manuscript pages and show them to a few family members. The translated pages were lost and never recovered. The Lord severely rebuked Joseph.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"152798296\" id=\"p17\">Joseph learned, as the Book of Mormon prophet Jacob taught: \u201cSeek not to counsel the Lord, but to take counsel from his hand. For \u2026 he counseleth in wisdom.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> Jacob cautioned that unfortunate things happen when we ask for things we should not. He foretold that the people in Jerusalem would seek \u201cfor things that they could not understand,\u201d look \u201cbeyond the mark,\u201d and completely overlook the Savior of the world.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> They stumbled because they asked for things they would not and could not understand.<\/p>\n<p data-aid=\"152798298\" id=\"p18\">If we have received personal revelation for our situation and the circumstances have not changed, God has already answered our question.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> For example, we sometimes ask repeatedly for reassurance that we have been forgiven. If we have repented, been filled with joy and peace of conscience, and received a remission of our sins, we do not need to ask again but can trust the answer God has already given.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"152798300\" id=\"p19\">Even as we trust God\u2019s prior answers, we need to be open to further personal revelation. After all, few of life\u2019s destinations are reached via a nonstop flight. We should recognize that personal revelation may be received \u201cline upon line\u201d and \u201cprecept upon precept,\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> that revealed direction can be and frequently is incremental.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a><\/p>\n<p data-aid=\"152798302\" id=\"p20\">The elements of the framework for personal revelation are overlapping and mutually reinforcing. But within that framework, the Holy Ghost can and will reveal everything we need to soar onto and maintain momentum on the covenant path. Thus we can be blessed by the power of Jesus Christ to become what Heavenly Father wants us to be. I invite you to have the confidence to claim personal revelation for yourself, understanding what God has revealed, consistent with the scriptures and the commandments He has given through His appointed prophets and within your own purview and agency. I know that the Holy Ghost can and will show you all things that you should do.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"152798304\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"152798306\" id=\"note1_p1\">Elder Dieter F. Uchtdorf has consistently and effectively used analogies related to aircraft to teach important gospel principles. For example, he recently linked pilots\u2019 preflight checklists to teaching like the Savior in \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/language-recording/2022/05/11uchtdorf?lang=eng&amp;para=11#p11\">A Teacher\u2019s Checklist<\/a>\u201d ([broadcast for teachers, June 12, 2022], broadcasts.ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"152798308\" id=\"note2_p1\">The Holy Ghost is the third member of the Godhead, is often referred to as the Spirit or the Spirit of God, and performs vital roles in the plan of salvation. He bears witness of the Father and the Son, reveals the truth of all things, sanctifies those who have repented and been baptized, and is the Holy Spirit of Promise (see Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/holy-ghost?lang=eng\">Holy Ghost<\/a>,\u201d scriptures.ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"152798310\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-21?lang=eng#p19\">2 Nephi 31:19\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.8?lang=eng#p8\">Mosiah 4:8<\/a>. There is no other way whereby we \u201ccan be saved in the kingdom of God.\u201d Wishing otherwise will not create an alternative path.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"152798312\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=eng#p5\">2 Nephi 32:5<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.43-44?lang=eng#p43\">Doctrine and Covenants 84:43\u201344<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"152798314\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.4?lang=eng#p4\">2 Nephi 32:4<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 93\u201396.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"152798316\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.7-8?lang=eng#p7\">Matthew 7:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"152798318\" id=\"note7_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Family: A Proclamation to the World<\/a>\u201d; \u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>\u201d; <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number2#title_number2\">27.0<\/a>; <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number11#title_number11\">27.2<\/a>, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"152798320\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"152798322\" id=\"note9_p1\">Robert D. Hales, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=eng&amp;para=24#p24\">Holy Scriptures: The Power of God unto Our Salvation<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2006, 26\u201327.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"152798324\" id=\"note10_p1\">The scriptures teach that the voice of the Holy Ghost is mild and still, like a whisper\u2014not loud or noisy; it is simple, quiet, and plain; it can be piercing and burning; it affects both mind and heart; it brings peace, joy, and hope\u2014not fear, anxiety, and worry; it invites us to do good\u2014not evil; and it is enlightening and delicious\u2014not mystifying. See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/19.11-12?lang=eng#p11\">1 Kings 19:11\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.25?lang=eng#p25\">Omni 1:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.28?lang=eng#p28\">Alma 32:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.30-33?lang=eng#p30\">Helaman 5:30\u201333<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.3?lang=eng#p3\">3 Nephi 11:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.16-17?lang=eng#p16\">Moroni 7:16\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.22-24?lang=eng#p22\">Doctrine and Covenants 6:22\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\">8:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/9.8-9?lang=eng#p8\">9:8\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.12-14?lang=eng#p12\">11:12\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/85.6?lang=eng#p6\">85:6<\/a>; Boyd K. Packer, \u201c<a class=\"cross-ref\" href=\"/study/ensign/1983/01/the-candle-of-the-lord?lang=eng\">The Candle of the Lord<\/a>,\u201d <cite>Ensign<\/cite>, Jan. 1983, 51\u201356; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 88\u201392; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/37nelson?lang=eng\">Embrace the Future with Faith<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 73\u201376; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d 93\u201396.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"152798326\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.20?lang=eng#p20\">3 Nephi 18:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.26?lang=eng#p26\">Moroni 7:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">Doctrine and Covenants 88:64\u201365<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"152798328\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10.5?lang=eng#p5\">Helaman 10:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=eng#p30\">Doctrine and Covenants 46:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"152798330\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/4.3?lang=eng#p3\">James 4:3<\/a>; see James 4:3, New International Version; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=eng#p35\">2 Nephi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.10?lang=eng#p10\">Doctrine and Covenants 8:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.7?lang=eng#p7\">46:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">88:64\u201365<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"152798332\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">Doctrine and Covenants 88:64\u201365<\/a>; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/prayer?lang=eng\">Prayer<\/a>,\u201d scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"152798334\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.20?lang=eng#p20\">3 Nephi 18:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.26?lang=eng#p26\">Moroni 7:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"152798337\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/28.2,7?lang=eng#p2\">Doctrine and Covenants 28:2, 7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"152798340\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.4-5?lang=eng#p4\">Doctrine and Covenants 21:4\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"152798343\" id=\"note18_p1\">Fortunately, arrangements were made for him to receive the help and treatment he really needed.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"152798346\" id=\"note19_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-16?lang=eng&amp;para=24#p24\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 197.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"152798349\" id=\"note20_p1\">See Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2004/10/whom-shall-i-marry?lang=eng\">Whom Shall I Marry?<\/a>,\u201d <cite>New Era<\/cite>, Oct. 2004, 4.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"152798352\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9-16?lang=eng#p9\">Doctrine and Covenants 59:9\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"152798355\" id=\"note22_p1\">Joseph Smith, in <cite><a href=\"https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-april-1842/10\">Times and Seasons<\/a><\/cite>, Apr. 1, 1842, 744, josephsmithpapers.org.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"152798358\" id=\"note23_p1\">The Lord often does change, amend, or make exceptions to His revealed commandments, but these are made through <em>prophetic<\/em> revelation and not <em>personal<\/em> revelation. <em>Prophetic<\/em> revelation comes through God\u2019s duly appointed prophet according to God\u2019s wisdom and understanding. These exceptions include the Lord\u2019s revelation to Moses and Joshua to kill the inhabitants of the land of Canaan despite His commandment \u201cThou shalt not kill\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/20.13?lang=eng#p13\">Exodus 20:13<\/a>). The Lord, through His prophet, can and will revise <em>His<\/em> commandments for <em>His<\/em> purposes. We are not free, however, through <em>personal<\/em> revelation to alter or ignore established commandments that God has revealed to His Church through the prophet.<\/p>\n<p data-aid=\"152798361\" id=\"note23_p2\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/4.12-18?lang=eng#p12\">1 Nephi 4:12\u201318<\/a>; for a fuller discussion, see Joseph Spencer, <cite>1st Nephi: A Brief Theological Introduction<\/cite> (2020), 66\u201380.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"152798364\" id=\"note24_p1\">For the full account of the 116 manuscript pages, see <cite>Saints: The Story of the Church of Jesus Christ in the Latter Days<\/cite>, vol. 1, <cite><a class=\"cross-ref\" href=\"/study/history/saints-v1/05-all-is-lost?lang=eng\">The Standard of Truth, 1815\u20131846<\/a><\/cite> (2018), 44\u201353; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/3.5-15?lang=eng#p5\">Doctrine and Covenants 3:5\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.1-5?lang=eng#p1\">10:1\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"152798367\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.10?lang=eng#p10\">Jacob 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"152798370\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.14-16?lang=eng#p14\">Jacob 4:14\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"152798373\" id=\"note27_p1\">Joseph Smith taught, \u201cWe never enquire at the hand of God for special revelation only in the case of there being no previous revelation to suit the case\u201d (in <a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/292\">History, 1838\u20131856 [Manuscript History of the Church], volume A-1<\/a>, 286\u201387, josephsmithpapers.org).<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"152798377\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=eng#p3\">Mosiah 4:3<\/a>. When we continue to feel guilt and regret after sincere and intentional repentance, it is usually because of a lack of faith in Jesus Christ and in His ability to completely forgive and heal us. Sometimes we believe forgiveness is for others but does not completely apply to us. That is simply a lack of faith in what the Savior can accomplish because of His infinite Atonement.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"152798380\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/28.10?lang=eng#p10\">Isaiah 28:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.30?lang=eng#p30\">2 Nephi 28:30<\/a>; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2010/09/line-upon-line-precept-upon-precept-2-nephi-28-30?lang=eng\">Line upon Line, Precept upon Precept<\/a>,\u201d <cite>New Era<\/cite>, Sept. 2010, 3\u20137.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"152798382\" id=\"note30_p1\">But if God has not given you revelation, keep asking. As Elder Richard G. Scott taught: \u201cProceed with trust. \u2026 When you are living righteously and are acting with trust, God will not let you proceed too far without a warning impression if you have made the wrong decision\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng&amp;para=29#p29\">Using the Supernal Gift of Prayer<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2007, 10).<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"152798385\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=eng#p5\">2 Nephi 32:5<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "152798281",
+        "id": "note4",
+        "text": "<p data-aid=\"152798312\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=eng#p5\">2 Nephi 32:5<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.43-44?lang=eng#p43\">Doctrine and Covenants 84:43\u201344<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.5?lang=eng#p5",
+            "text": "2 Nephi 32:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.43-44?lang=eng#p43",
+            "text": "Doctrine and Covenants 84:43\u201344",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "152798281",
+        "id": "note5",
+        "text": "<p data-aid=\"152798314\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.4?lang=eng#p4\">2 Nephi 32:4<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 93\u201396.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.4?lang=eng#p4",
+            "text": "2 Nephi 32:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng",
+            "text": "Revelation for the Church, Revelation for Our Lives",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "152798281",
+        "id": "note2",
+        "text": "<p data-aid=\"152798308\" id=\"note2_p1\">The Holy Ghost is the third member of the Godhead, is often referred to as the Spirit or the Spirit of God, and performs vital roles in the plan of salvation. He bears witness of the Father and the Son, reveals the truth of all things, sanctifies those who have repented and been baptized, and is the Holy Spirit of Promise (see Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/holy-ghost?lang=eng\">Holy Ghost<\/a>,\u201d scriptures.ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/holy-ghost?lang=eng",
+          "text": "Holy Ghost",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "152798281",
+        "id": "note3",
+        "text": "<p data-aid=\"152798310\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-21?lang=eng#p19\">2 Nephi 31:19\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.8?lang=eng#p8\">Mosiah 4:8<\/a>. There is no other way whereby we \u201ccan be saved in the kingdom of God.\u201d Wishing otherwise will not create an alternative path.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.19-21?lang=eng#p19",
+            "text": "2 Nephi 31:19\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4.8?lang=eng#p8",
+            "text": "Mosiah 4:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "152798283",
+        "id": "note8",
+        "text": "<p data-aid=\"152798320\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.3?lang=eng#p3",
+          "text": "2 Nephi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "152798283",
+        "id": "note9",
+        "text": "<p data-aid=\"152798322\" id=\"note9_p1\">Robert D. Hales, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=eng&amp;para=24#p24\">Holy Scriptures: The Power of God unto Our Salvation<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2006, 26\u201327.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=eng&amp;para=24#p24",
+          "text": "Holy Scriptures: The Power of God unto Our Salvation",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "152798281",
+        "id": "note6",
+        "text": "<p data-aid=\"152798316\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.7-8?lang=eng#p7\">Matthew 7:7\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.7-8?lang=eng#p7",
+          "text": "Matthew 7:7\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "152798281",
+        "id": "note7",
+        "text": "<p data-aid=\"152798318\" id=\"note7_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Family: A Proclamation to the World<\/a>\u201d; \u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>\u201d; <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number2#title_number2\">27.0<\/a>; <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number11#title_number11\">27.2<\/a>, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&amp;verse=title1#title1",
+            "text": "The Family: A Proclamation to the World",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/young-women-theme/young-women-theme?lang=eng",
+            "text": "Young Women Theme",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number2#title_number2",
+            "text": "27.0",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;para=title_number11#title_number11",
+            "text": "27.2",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "152798300",
+        "id": "note30",
+        "text": "<p data-aid=\"152798382\" id=\"note30_p1\">But if God has not given you revelation, keep asking. As Elder Richard G. Scott taught: \u201cProceed with trust. \u2026 When you are living righteously and are acting with trust, God will not let you proceed too far without a warning impression if you have made the wrong decision\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng&amp;para=29#p29\">Using the Supernal Gift of Prayer<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2007, 10).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2007/04/using-the-supernal-gift-of-prayer?lang=eng&amp;para=29#p29",
+          "text": "Using the Supernal Gift of Prayer",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "152798286",
+        "id": "note16",
+        "text": "<p data-aid=\"152798337\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/28.2,7?lang=eng#p2\">Doctrine and Covenants 28:2, 7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/28.2,7?lang=eng#p2",
+          "text": "Doctrine and Covenants 28:2, 7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "152798284",
+        "id": "note15",
+        "text": "<p data-aid=\"152798334\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.20?lang=eng#p20\">3 Nephi 18:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.26?lang=eng#p26\">Moroni 7:26<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/18.20?lang=eng#p20",
+            "text": "3 Nephi 18:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.26?lang=eng#p26",
+            "text": "Moroni 7:26",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "152798284",
+        "id": "note14",
+        "text": "<p data-aid=\"152798332\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">Doctrine and Covenants 88:64\u201365<\/a>; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/prayer?lang=eng\">Prayer<\/a>,\u201d scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64",
+            "text": "Doctrine and Covenants 88:64\u201365",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/prayer?lang=eng",
+            "text": "Prayer",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "152798284",
+        "id": "note13",
+        "text": "<p data-aid=\"152798330\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/4.3?lang=eng#p3\">James 4:3<\/a>; see James 4:3, New International Version; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=eng#p35\">2 Nephi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.10?lang=eng#p10\">Doctrine and Covenants 8:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.7?lang=eng#p7\">46:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">88:64\u201365<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/james/4.3?lang=eng#p3",
+            "text": "James 4:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/4.35?lang=eng#p35",
+            "text": "2 Nephi 4:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8.10?lang=eng#p10",
+            "text": "Doctrine and Covenants 8:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/46.7?lang=eng#p7",
+            "text": "46:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64",
+            "text": "88:64\u201365",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "152798284",
+        "id": "note12",
+        "text": "<p data-aid=\"152798328\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10.5?lang=eng#p5\">Helaman 10:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=eng#p30\">Doctrine and Covenants 46:30<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/hel/10.5?lang=eng#p5",
+            "text": "Helaman 10:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/46.30?lang=eng#p30",
+            "text": "Doctrine and Covenants 46:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "152798284",
+        "id": "note11",
+        "text": "<p data-aid=\"152798326\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.20?lang=eng#p20\">3 Nephi 18:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.26?lang=eng#p26\">Moroni 7:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64\">Doctrine and Covenants 88:64\u201365<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/18.20?lang=eng#p20",
+            "text": "3 Nephi 18:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.26?lang=eng#p26",
+            "text": "Moroni 7:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.64-65?lang=eng#p64",
+            "text": "Doctrine and Covenants 88:64\u201365",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "152798284",
+        "id": "note10",
+        "text": "<p data-aid=\"152798324\" id=\"note10_p1\">The scriptures teach that the voice of the Holy Ghost is mild and still, like a whisper\u2014not loud or noisy; it is simple, quiet, and plain; it can be piercing and burning; it affects both mind and heart; it brings peace, joy, and hope\u2014not fear, anxiety, and worry; it invites us to do good\u2014not evil; and it is enlightening and delicious\u2014not mystifying. See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/19.11-12?lang=eng#p11\">1 Kings 19:11\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.25?lang=eng#p25\">Omni 1:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.28?lang=eng#p28\">Alma 32:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.30-33?lang=eng#p30\">Helaman 5:30\u201333<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.3?lang=eng#p3\">3 Nephi 11:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.16-17?lang=eng#p16\">Moroni 7:16\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.22-24?lang=eng#p22\">Doctrine and Covenants 6:22\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\">8:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/9.8-9?lang=eng#p8\">9:8\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.12-14?lang=eng#p12\">11:12\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/85.6?lang=eng#p6\">85:6<\/a>; Boyd K. Packer, \u201c<a class=\"cross-ref\" href=\"/study/ensign/1983/01/the-candle-of-the-lord?lang=eng\">The Candle of the Lord<\/a>,\u201d <cite>Ensign<\/cite>, Jan. 1983, 51\u201356; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 88\u201392; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/37nelson?lang=eng\">Embrace the Future with Faith<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 73\u201376; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d 93\u201396.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/1-kgs/19.11-12?lang=eng#p11",
+            "text": "1 Kings 19:11\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/omni/1.25?lang=eng#p25",
+            "text": "Omni 1:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32.28?lang=eng#p28",
+            "text": "Alma 32:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5.30-33?lang=eng#p30",
+            "text": "Helaman 5:30\u201333",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.3?lang=eng#p3",
+            "text": "3 Nephi 11:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.16-17?lang=eng#p16",
+            "text": "Moroni 7:16\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/6.22-24?lang=eng#p22",
+            "text": "Doctrine and Covenants 6:22\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2",
+            "text": "8:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/9.8-9?lang=eng#p8",
+            "text": "9:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/11.12-14?lang=eng#p12",
+            "text": "11:12\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/85.6?lang=eng#p6",
+            "text": "85:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/ensign/1983/01/the-candle-of-the-lord?lang=eng",
+            "text": "The Candle of the Lord",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/04/45nelson?lang=eng",
+            "text": "Hear Him",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/10/37nelson?lang=eng",
+            "text": "Embrace the Future with Faith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng",
+            "text": "Revelation for the Church, Revelation for Our Lives",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "152798302",
+        "id": "note31",
+        "text": "<p data-aid=\"152798385\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=eng#p5\">2 Nephi 32:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.5?lang=eng#p5",
+          "text": "2 Nephi 32:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "152798288",
+        "id": "note19",
+        "text": "<p data-aid=\"152798346\" id=\"note19_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-16?lang=eng&amp;para=24#p24\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 197.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-16?lang=eng&amp;para=24#p24",
+          "text": "Teachings of Presidents of the Church: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "152798287",
+        "id": "note18",
+        "text": "<p data-aid=\"152798343\" id=\"note18_p1\">Fortunately, arrangements were made for him to receive the help and treatment he really needed.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "152798286",
+        "id": "note17",
+        "text": "<p data-aid=\"152798340\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.4-5?lang=eng#p4\">Doctrine and Covenants 21:4\u20135<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/21.4-5?lang=eng#p4",
+          "text": "Doctrine and Covenants 21:4\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "152798298",
+        "id": "note27",
+        "text": "<p data-aid=\"152798373\" id=\"note27_p1\">Joseph Smith taught, \u201cWe never enquire at the hand of God for special revelation only in the case of there being no previous revelation to suit the case\u201d (in <a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/292\">History, 1838\u20131856 [Manuscript History of the Church], volume A-1<\/a>, 286\u201387, josephsmithpapers.org).<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/292",
+          "text": "History, 1838\u20131856 [Manuscript History of the Church], volume A-1"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "152798296",
+        "id": "note26",
+        "text": "<p data-aid=\"152798370\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.14-16?lang=eng#p14\">Jacob 4:14\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/4.14-16?lang=eng#p14",
+          "text": "Jacob 4:14\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "152798296",
+        "id": "note25",
+        "text": "<p data-aid=\"152798367\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.10?lang=eng#p10\">Jacob 4:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/4.10?lang=eng#p10",
+          "text": "Jacob 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "152798294",
+        "id": "note24",
+        "text": "<p data-aid=\"152798364\" id=\"note24_p1\">For the full account of the 116 manuscript pages, see <cite>Saints: The Story of the Church of Jesus Christ in the Latter Days<\/cite>, vol. 1, <cite><a class=\"cross-ref\" href=\"/study/history/saints-v1/05-all-is-lost?lang=eng\">The Standard of Truth, 1815\u20131846<\/a><\/cite> (2018), 44\u201353; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/3.5-15?lang=eng#p5\">Doctrine and Covenants 3:5\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.1-5?lang=eng#p1\">10:1\u20135<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/history/saints-v1/05-all-is-lost?lang=eng",
+            "text": "The Standard of Truth, 1815\u20131846",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/3.5-15?lang=eng#p5",
+            "text": "Doctrine and Covenants 3:5\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/10.1-5?lang=eng#p1",
+            "text": "10:1\u20135",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "152798292",
+        "id": "note23",
+        "text": "<p data-aid=\"152798358\" id=\"note23_p1\">The Lord often does change, amend, or make exceptions to His revealed commandments, but these are made through <em>prophetic<\/em> revelation and not <em>personal<\/em> revelation. <em>Prophetic<\/em> revelation comes through God\u2019s duly appointed prophet according to God\u2019s wisdom and understanding. These exceptions include the Lord\u2019s revelation to Moses and Joshua to kill the inhabitants of the land of Canaan despite His commandment \u201cThou shalt not kill\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/20.13?lang=eng#p13\">Exodus 20:13<\/a>). The Lord, through His prophet, can and will revise <em>His<\/em> commandments for <em>His<\/em> purposes. We are not free, however, through <em>personal<\/em> revelation to alter or ignore established commandments that God has revealed to His Church through the prophet.<\/p>\n<p data-aid=\"152798361\" id=\"note23_p2\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/4.12-18?lang=eng#p12\">1 Nephi 4:12\u201318<\/a>; for a fuller discussion, see Joseph Spencer, <cite>1st Nephi: A Brief Theological Introduction<\/cite> (2020), 66\u201380.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ex/20.13?lang=eng#p13",
+            "text": "Exodus 20:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/4.12-18?lang=eng#p12",
+            "text": "1 Nephi 4:12\u201318",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "152798291",
+        "id": "note22",
+        "text": "<p data-aid=\"152798355\" id=\"note22_p1\">Joseph Smith, in <cite><a href=\"https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-april-1842/10\">Times and Seasons<\/a><\/cite>, Apr. 1, 1842, 744, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-april-1842/10",
+          "text": "Times and Seasons"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "152798290",
+        "id": "note21",
+        "text": "<p data-aid=\"152798352\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.9-16?lang=eng#p9\">Doctrine and Covenants 59:9\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59.9-16?lang=eng#p9",
+          "text": "Doctrine and Covenants 59:9\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "152798289",
+        "id": "note20",
+        "text": "<p data-aid=\"152798349\" id=\"note20_p1\">See Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2004/10/whom-shall-i-marry?lang=eng\">Whom Shall I Marry?<\/a>,\u201d <cite>New Era<\/cite>, Oct. 2004, 4.<\/p>",
+        "referenceUris": [{
+          "href": "/study/new-era/2004/10/whom-shall-i-marry?lang=eng",
+          "text": "Whom Shall I Marry?",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "152798279",
+        "id": "note1",
+        "text": "<p data-aid=\"152798306\" id=\"note1_p1\">Elder Dieter F. Uchtdorf has consistently and effectively used analogies related to aircraft to teach important gospel principles. For example, he recently linked pilots\u2019 preflight checklists to teaching like the Savior in \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/language-recording/2022/05/11uchtdorf?lang=eng&amp;para=11#p11\">A Teacher\u2019s Checklist<\/a>\u201d ([broadcast for teachers, June 12, 2022], broadcasts.ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/language-recording/2022/05/11uchtdorf?lang=eng&amp;para=11#p11",
+          "text": "A Teacher\u2019s Checklist",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "152798300",
+        "id": "note29",
+        "text": "<p data-aid=\"152798380\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/28.10?lang=eng#p10\">Isaiah 28:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.30?lang=eng#p30\">2 Nephi 28:30<\/a>; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2010/09/line-upon-line-precept-upon-precept-2-nephi-28-30?lang=eng\">Line upon Line, Precept upon Precept<\/a>,\u201d <cite>New Era<\/cite>, Sept. 2010, 3\u20137.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/28.10?lang=eng#p10",
+            "text": "Isaiah 28:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/28.30?lang=eng#p30",
+            "text": "2 Nephi 28:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/new-era/2010/09/line-upon-line-precept-upon-precept-2-nephi-28-30?lang=eng",
+            "text": "Line upon Line, Precept upon Precept",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "152798298",
+        "id": "note28",
+        "text": "<p data-aid=\"152798377\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=eng#p3\">Mosiah 4:3<\/a>. When we continue to feel guilt and regret after sincere and intentional repentance, it is usually because of a lack of faith in Jesus Christ and in His ability to completely forgive and heal us. Sometimes we believe forgiveness is for others but does not completely apply to us. That is simply a lack of faith in what the Savior can accomplish because of His infinite Atonement.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4.3?lang=eng#p3",
+          "text": "Mosiah 4:3",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

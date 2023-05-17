@@ -1,0 +1,419 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/22ballard?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "9a758a7b85b24f62afc045e05e0985cc",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/22ballard",
+      "data-aid": "152793960",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "3561d5e413b64ed7bcebaacea7368cf0"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/f6/f2/f6f250d2ec677b7f76639be26c590d04f948385d/f6f250d2ec677b7f76639be26c590d04f948385d.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-2020-m-russell-ballard-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Seguir a Jesucristo con pasos de fe",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152793960",
+      {"key": "152793960"}
+    ],
+    [
+      "152813818",
+      {"key": "152813818"}
+    ],
+    [
+      "152813821",
+      {"key": "152813821"}
+    ],
+    [
+      "152813824",
+      {"key": "152813824"}
+    ],
+    [
+      "152813827",
+      {"key": "152813827"}
+    ],
+    [
+      "152813829",
+      {"key": "152813829"}
+    ],
+    [
+      "152813832",
+      {"key": "152813832"}
+    ],
+    [
+      "152813835",
+      {"key": "152813835"}
+    ],
+    [
+      "152813837",
+      {"key": "152813837"}
+    ],
+    [
+      "152813840",
+      {"key": "152813840"}
+    ],
+    [
+      "152813843",
+      {"key": "152813843"}
+    ],
+    [
+      "152813846",
+      {"key": "152813846"}
+    ],
+    [
+      "152813849",
+      {"key": "152813849"}
+    ],
+    [
+      "152813852",
+      {"key": "152813852"}
+    ],
+    [
+      "152813855",
+      {"key": "152813855"}
+    ],
+    [
+      "152813858",
+      {"key": "152813858"}
+    ],
+    [
+      "152813861",
+      {"key": "152813861"}
+    ],
+    [
+      "152813864",
+      {"key": "152813864"}
+    ],
+    [
+      "152813867",
+      {"key": "152813867"}
+    ],
+    [
+      "152813870",
+      {"key": "152813870"}
+    ],
+    [
+      "152813873",
+      {"key": "152813873"}
+    ],
+    [
+      "152813876",
+      {"key": "152813876"}
+    ],
+    [
+      "152813879",
+      {"key": "152813879"}
+    ],
+    [
+      "152813883",
+      {"key": "152813883"}
+    ],
+    [
+      "152813886",
+      {"key": "152813886"}
+    ],
+    [
+      "152813889",
+      {"key": "152813889"}
+    ],
+    [
+      "152813892",
+      {"key": "152813892"}
+    ],
+    [
+      "152813895",
+      {"key": "152813895"}
+    ],
+    [
+      "152813898",
+      {"key": "152813898"}
+    ],
+    [
+      "152813902",
+      {"key": "152813902"}
+    ],
+    [
+      "152813905",
+      {"key": "152813905"}
+    ],
+    [
+      "152813907",
+      {"key": "152813907"}
+    ],
+    [
+      "152813909",
+      {"key": "152813909"}
+    ],
+    [
+      "152813911",
+      {"key": "152813911"}
+    ],
+    [
+      "152813912",
+      {"key": "152813912"}
+    ],
+    [
+      "152813913",
+      {"key": "152813913"}
+    ],
+    [
+      "152813914",
+      {"key": "152813914"}
+    ],
+    [
+      "152813915",
+      {"key": "152813915"}
+    ],
+    [
+      "152813916",
+      {"key": "152813916"}
+    ],
+    [
+      "152813917",
+      {"key": "152813917"}
+    ],
+    [
+      "152813918",
+      {"key": "152813918"}
+    ],
+    [
+      "152813919",
+      {"key": "152813919"}
+    ],
+    [
+      "152813920",
+      {"key": "152813920"}
+    ],
+    [
+      "152813921",
+      {"key": "152813921"}
+    ],
+    [
+      "152813922",
+      {"key": "152813922"}
+    ],
+    [
+      "152813923",
+      {"key": "152813923"}
+    ],
+    [
+      "152813924",
+      {"key": "152813924"}
+    ],
+    [
+      "152813925",
+      {"key": "152813925"}
+    ],
+    [
+      "152813926",
+      {"key": "152813926"}
+    ],
+    [
+      "152813927",
+      {"key": "152813927"}
+    ],
+    [
+      "152813928",
+      {"key": "152813928"}
+    ],
+    [
+      "152813929",
+      {"key": "152813929"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/22ballard",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El presidente Ballard nos enseña que, si seguimos a Jesucristo con fe, Él nos ayudará en los momentos difíciles, al igual que ayudó a los pioneros.",
+          "title": "Seguir a Jesucristo con pasos de fe"
+        },
+        "pageSocial": {
+          "description": "El presidente Ballard nos enseña que, si seguimos a Jesucristo con fe, Él nos ayudará en los momentos difíciles, al igual que ayudó a los pioneros.",
+          "title": "Seguir a Jesucristo con pasos de fe"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/f6/f2/f6f250d2ec677b7f76639be26c590d04f948385d/f6f250d2ec677b7f76639be26c590d04f948385d.jpeg\" data-video-title=\"Seguir a Jesucristo con pasos de fe\" data-video-description=\"El presidente Ballard nos enseña que, si seguimos a Jesucristo con fe, Él nos ayudará en los momentos difíciles, al igual que ayudó a los pioneros.\" data-video-id=\"6313136634112\" data-ip=\"Download and Streaming                            \" data-duration=\"800501\" data-assetId=\"aca7b0bb41cf11ed91c4eeeeac1ef2e1c0e6210c\" data-ref-id=\"C7EF9DD8CA24CDFCC05AFADD4234EAE3ADF3C694\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313136634112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"264144449\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-2020-m-russell-ballard-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"74232321\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-2020-m-russell-ballard-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"192095627\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-2020-m-russell-ballard-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"264144449\"/><\/video><h1 data-aid=\"152813818\" id=\"title1\">Seguir a Jesucristo con pasos de fe<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152813821\" id=\"author1\">Por el presidente M. Russell Ballard<\/p>\n<p class=\"author-role\" data-aid=\"152813824\" id=\"author2\">Presidente en Funciones del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152813827\" id=\"kicker1\">Cristo puede ayudarnos hoy en día a sobrellevar los momentos difíciles. Lo hizo con los primeros pioneros y lo hace ahora con cada uno de nosotros.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152813829\" id=\"p1\">Le doy las gracias al coro por cantar \u201cFe en cada paso\u201d. La música y la letra de esa canción fueron escritas en 1996 por el hermano Newell Dayley<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, como preparación para la celebración del aniversario número 150 de la llegada de los primeros pioneros al valle del Lago Salado en 1847.<\/p>\n<p data-aid=\"152813832\" id=\"p2\">Aunque esta canción se compuso como preparativo para esa celebración, su mensaje es pertinente para todo el mundo.<\/p>\n<p data-aid=\"152813835\" id=\"p3\">Siempre me ha encantado el estribillo:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"152813837\" id=\"p4\">Con fe en cada paso, seguimos al Señor;<\/p>\n<p class=\"line\" data-aid=\"152813840\" id=\"p5\">con esperanza y con Su amor cantamos a una voz<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"152813843\" id=\"p6\">Hermanos y hermanas, testifico que, al seguir a Jesucristo con pasos de fe, hay esperanza. Hay esperanza en el Señor Jesucristo. Hay esperanza para todos en esta vida. Hay esperanza para superar nuestros errores, nuestros pesares y nuestras dificultades, y nuestras pruebas y nuestros problemas. Hay esperanza en el arrepentimiento, en ser perdonados y en perdonar a los demás. Testifico que hay esperanza y paz en Cristo. Él puede ayudarnos a sobrellevar hoy en día los momentos difíciles. Lo hizo con los primeros pioneros y lo hará ahora con cada uno de nosotros.<\/p>\n<p data-aid=\"152813846\" id=\"p7\">Este año se celebra el aniversario número 175 de la llegada de los primeros pioneros al valle del Lago Salado, lo cual me ha hecho reflexionar sobre mis antepasados. Algunos de ellos caminaron desde Nauvoo hasta el valle del Lago Salado. Tengo bisabuelos que caminaron por las planicies siendo jóvenes. Henry Ballard tenía veinte años<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>, Margaret McNeil tenía trece años<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> y Joseph F. Smith, quien más tarde llegó a ser el sexto Presidente de la Iglesia, tenía solo nueve años cuando llegó al valle del Lago Salado<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"152813849\" id=\"p8\">Afrontaron privaciones de todo tipo a lo largo del camino, tales como inviernos fríos, enfermedades y escasez de ropa y alimentos adecuados. Por ejemplo, cuando Henry Ballard entró en el valle del Lago Salado, se regocijó al ver la \u201ctierra prometida\u201d, pero tenía miedo de que alguien lo viera, porque la ropa que llevaba estaba tan raída que no le cubría completamente el cuerpo, así que se escondió detrás de unos arbustos todo el día hasta que oscureció. Entonces acudió a una casa y suplicó que le dieran ropa para que pudiera continuar su viaje y localizar a sus padres, y dio las gracias a Dios porque había llegado sano y salvo a su futuro hogar<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"152813852\" id=\"p29\">Mis bisabuelos siguieron a Jesucristo con pasos de fe a lo largo de cada una de sus pruebas. Les estoy agradecido por no darse nunca por vencidos. Sus pasos de fe me han bendecido a mí y también a las generaciones subsiguientes, tal como los pasos de fe de ustedes hoy en día bendecirán a su posteridad.<\/p>\n<p data-aid=\"152813855\" id=\"p9\">La palabra <i>pionero<\/i> nos lleva a pensar tanto en personas como en acciones. Los pioneros son personas que están entre las primeras en explorar o habitar un nuevo territorio, y sus acciones abren o preparan la vía para que los demás la sigan<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"152813858\" id=\"p10\">Al pensar en pioneros que han preparado el camino para los demás, pienso primero en el profeta José Smith. José fue pionero porque sus pasos de fe lo llevaron a una arboleda, donde se arrodilló en oración y nos abrió el camino para que pudiéramos tener la plenitud del evangelio de Jesucristo. La fe de José para \u201cp[edir] a Dios\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> aquella mañana de primavera de 1820 abrió el camino para la restauración de la plenitud del evangelio de Jesucristo, la cual incluyó que se llamara a profetas y apóstoles a servir en la tierra una vez más<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Sé que José Smith es un profeta de Dios. Sé que sus pasos llenos de fe lo llevaron a arrodillarse en la presencia de Dios el Padre y Su Amado Hijo Jesucristo.<\/p>\n<p data-aid=\"152813861\" id=\"p11\">Los pasos de fe del profeta José le permitieron ser el instrumento del Señor para sacar a luz el Libro de Mormón, el cual es otro testamento de Jesucristo y de Su gracia expiatoria.<\/p>\n<p data-aid=\"152813864\" id=\"p12\">Mediante la fe y la perseverancia de José Smith ante las increíbles dificultades y oposición, él pudo ser un instrumento en las manos del Señor para establecer la Iglesia de Jesucristo una vez más en la tierra.<\/p>\n<p data-aid=\"152813867\" id=\"p13\">En la última conferencia general, hablé de cómo mi servicio misional de tiempo completo fue una bendición para mí. Fui bendecido por enseñar acerca del glorioso plan de salvación de nuestro Padre Celestial, la Primera Visión de José Smith y su traducción del Libro de Mormón. Esas enseñanzas y doctrinas restauradas guiaron mis pasos de fe para enseñar a quienes estaban dispuestos a escuchar el mensaje de la restauración del Evangelio.<\/p>\n<p data-aid=\"152813870\" id=\"p14\">Nuestros misioneros de hoy en día son pioneros modernos porque comparten este glorioso mensaje con personas de todo el mundo, abriendo así la vía para que los hijos de nuestro Padre Celestial lo conozcan a Él y a Su Hijo Jesucristo. Aceptar el evangelio de Jesucristo abre el camino para que todos se preparen y reciban las ordenanzas y las bendiciones de la Iglesia y del templo.<\/p>\n<p data-aid=\"152813873\" id=\"p15\">En la última conferencia general, el presidente Russell M. Nelson reafirmó \u201cque el Señor ha pedido a cada hombre joven digno y capaz que se prepare para la misión y sirva en ella\u201d y que \u201cla misión también es una oportunidad poderosa, aunque opcional\u201d para las \u201ccapaces y jóvenes hermanas\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"152813876\" id=\"p16\">Queridos jóvenes y jovencitas, sus pasos de fe los ayudarán a seguir la invitación del Señor a servir en misiones, a ser pioneros modernos al abrir el camino para que los hijos de Dios encuentren la senda de los convenios que conduce de regreso a Su gloriosa presencia y permanezcan en ella.<\/p>\n<p data-aid=\"152813879\" id=\"p17\">El presidente Nelson ha sido pionero en la Iglesia. Como Apóstol, ha viajado y ha abierto muchas regiones para la predicación del Evangelio. Poco después de llegar a ser el profeta y Presidente de la Iglesia, nos suplicó que \u201caument[áramos] [nuestra] capacidad espiritual para recibir revelación\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Él continúa enseñándonos la manera de fortalecer nuestro testimonio. En un devocional para jóvenes adultos, dijo:<\/p>\n<p data-aid=\"152813883\" id=\"p18\">\u201cLes ruego que se hagan cargo de su propio testimonio. Trabajen para conseguirlo; háganse responsables de él. Cuídenlo, nútranlo de manera que crezca [\u2026].<\/p>\n<p data-aid=\"152813886\" id=\"p19\">\u201c[Luego] observen cómo se producen milagros en sus vidas\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"152813889\" id=\"p20\">Él nos está enseñando a llegar a ser más autosuficientes espiritualmente. Él ha dicho que \u201cen los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"152813892\" id=\"p28\">Testifico que el presidente Russell M. Nelson es el profeta de Dios en la tierra en la actualidad.<\/p>\n<p data-aid=\"152813895\" id=\"p21\">Nuestro Salvador, Jesucristo, es el Pionero supremo que prepara el camino. De hecho, Él <em>es<\/em> \u201cel camino\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> para que el Plan de Salvación se cumpla, de modo que podamos arrepentirnos y, por medio de la fe en Él, regresemos a nuestro Padre Celestial.<\/p>\n<p data-aid=\"152813898\" id=\"p22\">Jesús dijo: \u201c\u2026 Yo soy el camino, y la verdad y la vida; nadie viene al Padre sino por mí\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Él ha prometido no dejarnos huérfanos; vendrá a nosotros en nuestras pruebas<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Nos ha invitado a \u201cven[ir] a [Él] con íntegro propósito de corazón, y [Él nos] san[ará]\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"152813902\" id=\"p23\">Testifico que Jesucristo es nuestro Salvador y nuestro Redentor, nuestro Abogado ante el Padre. Nuestro Padre Celestial ha abierto el camino para que regresemos a Él al seguir a Su Hijo Amado, Jesucristo, con fe en cada paso.<\/p>\n<p data-aid=\"152813905\" id=\"p24\">Mis bisabuelos, junto con otros de los primeros pioneros, afrontaron muchos obstáculos al venir en carromatos, con carros de mano o caminando hasta el valle del Lago Salado. Nosotros también afrontaremos desafíos en nuestras travesías personales a lo largo de la vida. No estamos empujando carros de mano ni conduciendo carromatos cubiertos entre montañas empinadas y bancos de nieve; estamos tratando de vencer espiritualmente las tentaciones y los desafíos de nuestros días, tal como lo hicieron ellos. Tenemos senderos que debemos recorrer; hay colinas, y a veces montañas, que ascender. Aunque las pruebas de hoy en día son diferentes a las de los primeros pioneros, no son menos difíciles para nosotros.<\/p>\n<p data-aid=\"152813907\" id=\"p25\">Es importante que sigamos al profeta y mantengamos los pies plantados firmemente en la senda de los convenios de fidelidad, tal como lo hicieron los primeros pioneros.<\/p>\n<p data-aid=\"152813909\" id=\"p26\">Sigamos a Jesucristo con fe en cada paso. Necesitamos servir al Señor y servirnos unos a otros. Necesitamos fortalecernos espiritualmente al guardar y honrar nuestros convenios. No debemos perder el sentido de urgencia de guardar los mandamientos. Satanás trata de adormecer nuestro compromiso y nuestro amor por Dios y el Señor Jesucristo. Recuerden que, si alguno llegase a extraviarse, nunca estaremos perdidos para nuestro Salvador. Podemos volvernos a Él con la bendición del arrepentimiento. Él nos ayudará a aprender, a crecer y a cambiar a medida que nos esforcemos por permanecer en la senda de los convenios.<\/p>\n<p data-aid=\"152813911\" id=\"p27\">Ruego que siempre sigamos los pasos de Jesucristo y, con fe en cada paso, nos centremos en Él, manteniendo los pies plantados firmemente en la senda de los convenios, es mi humilde oración, en el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"152813912\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"152813913\" id=\"note1_p1\">Véase K. Newell Dayley, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1997/01/dayley-faith-in-every-footstep.html\">Fe en cada paso<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1997, págs. 22\u201323.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"152813914\" id=\"note2_p1\">Dayley, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../new-era/1997/04/faith-in-every-footstep.html\">Fe en cada paso<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1997, págs. 23.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"152813915\" id=\"note3_p1\">Véase Diario de Henry Ballard, Colecciones especiales de L. Tom Perry, Biblioteca Harold B. Lee, Universidad Brigham Young, Provo, Utah, archives.lib.byu.edu/repositories/ltpsc/resources/upb_msssc998.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"152813916\" id=\"note4_p1\">Véase \u201cA \u2018Small Glimpse\u2019 into Pioneer Experiences\u201d, <cite>Church News<\/cite>, 15 de junio de 1996, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"152813917\" id=\"note5_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/the-ministry-of-joseph-f-smith?lang=spa&amp;para=9#p9\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 1999, 2000, pág. XV.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"152813918\" id=\"note6_p1\">Véase Douglas O. Crookston, ed., <cite>Henry Ballard: The Story of a Courageous Pioneer, 1832\u20131908<\/cite>, 1994, págs. 14\u201315.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"152813919\" id=\"note7_p1\">Véase <cite>Merriam-Webster.com Dictionary<\/cite>, \u201cpioneer\u201d.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"152813920\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1.5?lang=spa#p5\">Santiago 1:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"152813921\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.5-20?lang=spa#p5\">José Smith\u2014Historia 1:5\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"152813922\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=spa&amp;para=7-8#p7\">Predicar el Evangelio de paz<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 6; cursiva original eliminada.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"152813923\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=38#p38\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"152813924\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;para=65%2C67#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, broadcasts.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"152813925\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=37#p37\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"152813926\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"152813927\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"152813928\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.16-18?lang=spa#p16\">Juan 14:16\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"152813929\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.32?lang=spa#p32\">3 Nefi 18:32<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "152813846",
+        "id": "note4",
+        "text": "<p data-aid=\"152813916\" id=\"note4_p1\">Véase \u201cA \u2018Small Glimpse\u2019 into Pioneer Experiences\u201d, <cite>Church News<\/cite>, 15 de junio de 1996, thechurchnews.com.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "152813846",
+        "id": "note5",
+        "text": "<p data-aid=\"152813917\" id=\"note5_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/the-ministry-of-joseph-f-smith?lang=spa&amp;para=9#p9\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 1999, 2000, pág. XV.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-f-smith/the-ministry-of-joseph-f-smith?lang=spa&amp;para=9#p9",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "152813840",
+        "id": "note2",
+        "text": "<p data-aid=\"152813914\" id=\"note2_p1\">Dayley, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../new-era/1997/04/faith-in-every-footstep.html\">Fe en cada paso<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1997, págs. 23.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "152813846",
+        "id": "note3",
+        "text": "<p data-aid=\"152813915\" id=\"note3_p1\">Véase Diario de Henry Ballard, Colecciones especiales de L. Tom Perry, Biblioteca Harold B. Lee, Universidad Brigham Young, Provo, Utah, archives.lib.byu.edu/repositories/ltpsc/resources/upb_msssc998.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "152813858",
+        "id": "note8",
+        "text": "<p data-aid=\"152813920\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1.5?lang=spa#p5\">Santiago 1:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/james/1.5?lang=spa#p5",
+          "text": "Santiago 1:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "152813858",
+        "id": "note9",
+        "text": "<p data-aid=\"152813921\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.5-20?lang=spa#p5\">José Smith\u2014Historia 1:5\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.5-20?lang=spa#p5",
+          "text": "José Smith\u2014Historia 1:5\u201320",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "152813849",
+        "id": "note6",
+        "text": "<p data-aid=\"152813918\" id=\"note6_p1\">Véase Douglas O. Crookston, ed., <cite>Henry Ballard: The Story of a Courageous Pioneer, 1832\u20131908<\/cite>, 1994, págs. 14\u201315.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "152813855",
+        "id": "note7",
+        "text": "<p data-aid=\"152813919\" id=\"note7_p1\">Véase <cite>Merriam-Webster.com Dictionary<\/cite>, \u201cpioneer\u201d.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "152813898",
+        "id": "note16",
+        "text": "<p data-aid=\"152813928\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.16-18?lang=spa#p16\">Juan 14:16\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.16-18?lang=spa#p16",
+          "text": "Juan 14:16\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "152813898",
+        "id": "note15",
+        "text": "<p data-aid=\"152813927\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.6?lang=spa#p6",
+          "text": "Juan 14:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "152813895",
+        "id": "note14",
+        "text": "<p data-aid=\"152813926\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.6?lang=spa#p6",
+          "text": "Juan 14:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "152813889",
+        "id": "note13",
+        "text": "<p data-aid=\"152813925\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=37#p37\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=37#p37",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "152813886",
+        "id": "note12",
+        "text": "<p data-aid=\"152813924\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;para=65%2C67#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, broadcasts.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;para=65%2C67#p65",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "152813879",
+        "id": "note11",
+        "text": "<p data-aid=\"152813923\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=38#p38\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;para=38#p38",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "152813873",
+        "id": "note10",
+        "text": "<p data-aid=\"152813922\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=spa&amp;para=7-8#p7\">Predicar el Evangelio de paz<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 6; cursiva original eliminada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/11nelson?lang=spa&amp;para=7-8#p7",
+          "text": "Predicar el Evangelio de paz",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "152813829",
+        "id": "note1",
+        "text": "<p data-aid=\"152813913\" id=\"note1_p1\">Véase K. Newell Dayley, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1997/01/dayley-faith-in-every-footstep.html\">Fe en cada paso<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1997, págs. 22\u201323.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "152813898",
+        "id": "note17",
+        "text": "<p data-aid=\"152813929\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.32?lang=spa#p32\">3 Nefi 18:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.32?lang=spa#p32",
+          "text": "3 Nefi 18:32",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/27schmutz?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "12d4fdc17a37483ea836439c072c7c19",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/27schmutz",
+      "data-aid": "154439292",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "e2dc4862dd26490f9f05fff84b2b28ba"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/a4/f1/a4f18518dc0effcbab686bcef17761a2b11bef05/a4f18518dc0effcbab686bcef17761a2b11bef05.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Confiar en la doctrina de Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154439292",
+      {"key": "154439292"}
+    ],
+    [
+      "154476686",
+      {"key": "154476686"}
+    ],
+    [
+      "154476687",
+      {"key": "154476687"}
+    ],
+    [
+      "154476689",
+      {"key": "154476689"}
+    ],
+    [
+      "154476691",
+      {"key": "154476691"}
+    ],
+    [
+      "154476693",
+      {"key": "154476693"}
+    ],
+    [
+      "154476695",
+      {"key": "154476695"}
+    ],
+    [
+      "154476697",
+      {"key": "154476697"}
+    ],
+    [
+      "154476699",
+      {"key": "154476699"}
+    ],
+    [
+      "154476701",
+      {"key": "154476701"}
+    ],
+    [
+      "154476703",
+      {"key": "154476703"}
+    ],
+    [
+      "154476705",
+      {"key": "154476705"}
+    ],
+    [
+      "154476707",
+      {"key": "154476707"}
+    ],
+    [
+      "154476709",
+      {"key": "154476709"}
+    ],
+    [
+      "154476710",
+      {"key": "154476710"}
+    ],
+    [
+      "154476713",
+      {"key": "154476713"}
+    ],
+    [
+      "154476714",
+      {"key": "154476714"}
+    ],
+    [
+      "154476716",
+      {"key": "154476716"}
+    ],
+    [
+      "154476719",
+      {"key": "154476719"}
+    ],
+    [
+      "154476721",
+      {"key": "154476721"}
+    ],
+    [
+      "154476722",
+      {"key": "154476722"}
+    ],
+    [
+      "154476725",
+      {"key": "154476725"}
+    ],
+    [
+      "154476726",
+      {"key": "154476726"}
+    ],
+    [
+      "154476729",
+      {"key": "154476729"}
+    ],
+    [
+      "154476731",
+      {"key": "154476731"}
+    ],
+    [
+      "154476733",
+      {"key": "154476733"}
+    ],
+    [
+      "154476735",
+      {"key": "154476735"}
+    ],
+    [
+      "154476738",
+      {"key": "154476738"}
+    ],
+    [
+      "154476741",
+      {"key": "154476741"}
+    ],
+    [
+      "154476743",
+      {"key": "154476743"}
+    ],
+    [
+      "154476746",
+      {"key": "154476746"}
+    ],
+    [
+      "154476749",
+      {"key": "154476749"}
+    ],
+    [
+      "154476752",
+      {"key": "154476752"}
+    ],
+    [
+      "154476755",
+      {"key": "154476755"}
+    ],
+    [
+      "154476758",
+      {"key": "154476758"}
+    ],
+    [
+      "154476761",
+      {"key": "154476761"}
+    ],
+    [
+      "154476764",
+      {"key": "154476764"}
+    ],
+    [
+      "154476768",
+      {"key": "154476768"}
+    ],
+    [
+      "154476770",
+      {"key": "154476770"}
+    ],
+    [
+      "154476773",
+      {"key": "154476773"}
+    ],
+    [
+      "154476775",
+      {"key": "154476775"}
+    ],
+    [
+      "154476778",
+      {"key": "154476778"}
+    ],
+    [
+      "154476781",
+      {"key": "154476781"}
+    ],
+    [
+      "154476785",
+      {"key": "154476785"}
+    ],
+    [
+      "154476788",
+      {"key": "154476788"}
+    ],
+    [
+      "154476792",
+      {"key": "154476792"}
+    ],
+    [
+      "154476798",
+      {"key": "154476798"}
+    ],
+    [
+      "154476802",
+      {"key": "154476802"}
+    ],
+    [
+      "154476807",
+      {"key": "154476807"}
+    ],
+    [
+      "154476812",
+      {"key": "154476812"}
+    ],
+    [
+      "154476817",
+      {"key": "154476817"}
+    ],
+    [
+      "154476822",
+      {"key": "154476822"}
+    ],
+    [
+      "154476824",
+      {"key": "154476824"}
+    ],
+    [
+      "154476829",
+      {"key": "154476829"}
+    ],
+    [
+      "154476834",
+      {"key": "154476834"}
+    ],
+    [
+      "154476840",
+      {"key": "154476840"}
+    ],
+    [
+      "154476845",
+      {"key": "154476845"}
+    ],
+    [
+      "154476850",
+      {"key": "154476850"}
+    ],
+    [
+      "154476855",
+      {"key": "154476855"}
+    ],
+    [
+      "154476860",
+      {"key": "154476860"}
+    ],
+    [
+      "154476865",
+      {"key": "154476865"}
+    ],
+    [
+      "154476870",
+      {"key": "154476870"}
+    ],
+    [
+      "154476873",
+      {"key": "154476873"}
+    ],
+    [
+      "154476879",
+      {"key": "154476879"}
+    ],
+    [
+      "154476884",
+      {"key": "154476884"}
+    ],
+    [
+      "154476888",
+      {"key": "154476888"}
+    ],
+    [
+      "154476893",
+      {"key": "154476893"}
+    ],
+    [
+      "154476898",
+      {"key": "154476898"}
+    ],
+    [
+      "154476904",
+      {"key": "154476904"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/27schmutz",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Schmutz enseña sobre las bendiciones que se reciben cuando confiamos en la doctrina de Cristo.",
+          "title": "Confiar en la doctrina de Cristo"
+        },
+        "pageSocial": {
+          "description": "El élder Schmutz enseña sobre las bendiciones que se reciben cuando confiamos en la doctrina de Cristo.",
+          "title": "Confiar en la doctrina de Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/a4/f1/a4f18518dc0effcbab686bcef17761a2b11bef05/a4f18518dc0effcbab686bcef17761a2b11bef05.jpeg\" data-video-title=\"Confiar en la doctrina de Cristo\" data-video-description=\"El élder Schmutz enseña sobre las bendiciones que vienen cuando confiamos en la doctrina de Cristo.\" data-video-id=\"6323801745112\" data-ip=\"Download and Streaming                            \" data-duration=\"630498\" data-assetId=\"edafc566d0de11edadaaeeeeac1e94dc2d721b93\" data-ref-id=\"80217AEFE10748C5D6999DEC57DBCA3DCAEF13AD\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323801745112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211534425\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"58643471\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"151856175\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-2070-evan-a-schmutz-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211534425\"/><\/video><h1 data-aid=\"154476686\" id=\"title1\">Confiar en la doctrina de Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154476687\" id=\"author1\">Por el élder Evan A. Schmutz<\/p>\n<p class=\"author-role\" data-aid=\"154476689\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154476691\" id=\"kicker1\">Cuando hemos edificado nuestra casa sobre el fundamento de una relación por convenio con Cristo, estamos confiando en la doctrina de Cristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154476693\" id=\"p1\">En mi imaginación, veo al profeta Nefi, ya anciano, en su mesa, las planchas de oro ante él, el punzón de metal en mano.<\/p>\n<p data-aid=\"154476695\" id=\"p2\">Nefi estaba en proceso de terminar sus últimos grabados en los anales y escribió: \u201c\u2026 Y ahora, amados hermanos míos, doy fin a mis palabras\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Pero poco después, el Espíritu instó a Nefi a regresar al registro y escribir un mensaje final. Bajo la poderosa influencia del Espíritu Santo, aquel gran profeta volvió a tomar el punzón y escribió: \u201cPor tanto, las cosas que he escrito me bastan, con excepción de unas pocas palabras que <em>debo<\/em> hablar acerca de la doctrina de Cristo\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"154476697\" id=\"p3\">Cuán eternamente agradecidos estamos por esas \u201cpocas palabras\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> y por el Espíritu que impulsó a Nefi a escribirlas. La exposición de Nefi sobre la doctrina de Cristo es un tesoro para quienes se deleitan en ella. Contiene una visión del bautismo del Salvador<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> y la voz del Hijo que invita a todos a seguirlo<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> y a \u201chace[r] las cosas que [lo] h[emo]s visto hacer\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. Contiene el testimonio de Nefi de que aquellos que, con fe en Cristo, se arrepientan sinceramente de sus pecados y sigan al Salvador descendiendo a las aguas del bautismo \u201crecibir[án] el Espíritu Santo; sí, entonces viene el bautismo de fuego y del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. También oímos la voz del Padre que da testimonio: \u201c\u2026 Sí, las palabras de mi Amado son verdaderas y fieles. Aquel que persevere hasta el fin, este será salvo\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"154476699\" id=\"p4\">El presidente Russell M. Nelson recalcó la importancia singular de la doctrina de Cristo durante un mensaje a líderes de misión recién llamados: \u201cMás que nada, queremos que nuestros misioneros [\u2026] tengan la doctrina de Cristo grabada en sus corazones, arraigada en la médula de sus huesos\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"154476701\" id=\"p5\"><cite>Predicad Mi Evangelio<\/cite> resume cinco elementos importantes de la doctrina de Cristo. Leemos: \u201cInvita[mos] a las personas a venir a Cristo al ayudarlas a que reciban el Evangelio restaurado mediante la fe en Jesucristo y en Su expiación, el arrepentimiento, el bautismo, la recepción del don del Espíritu Santo y el perseverar hasta el fin\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"154476703\" id=\"p6\">¡Pero la doctrina de Cristo no es importante solo para los misioneros! Y es mucho más profunda que la simple repetición resumida de sus cinco elementos clave. Abarca la ley del Evangelio. Es el gran plan para obtener la vida eterna.<\/p>\n<p data-aid=\"154476705\" id=\"p7\">Hermanos y hermanas, si hemos de aceptar la invitación del presidente Nelson a tener la doctrina de Cristo arraigada en la médula de <em>nuestros<\/em> huesos, debemos profundizar nuestra conversión al Señor por medio del estudio, la oración, vivir de manera fiel y el continuo arrepentimiento. Debemos invitar al Espíritu Santo a grabar la doctrina de Cristo en las \u201ctablas de carne [de nuestro] corazón\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> tan profunda y permanentemente como fue grabada por Nefi sobre las planchas de oro.<\/p>\n<p data-aid=\"154476707\" id=\"p8\">En octubre pasado, el presidente Nelson preguntó: \u201c¿[Q]ué significa vencer al mundo?\u201d. Entre otras cosas, él dijo: \u201cSignifica <em>confiar<\/em> en la doctrina de Cristo más que en las filosofías de los hombres\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"154476709\" id=\"p9\">La palabra <i>confianza<\/i> se define como \u201csentir seguridad en el carácter, la capacidad, la fortaleza o la verdad de alguien o algo\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Ese alguien es Jesucristo y ese algo es Su doctrina.<\/p>\n<p data-aid=\"154476710\" id=\"p10\">Entonces, ¿de qué manera el <em>confiar<\/em> con toda intención en la doctrina de Cristo puede cambiar el modo en que vivimos la vida?<\/p>\n<p data-aid=\"154476713\" id=\"p11\">Si <em>confiamos<\/em> en la doctrina de Cristo, confiaremos en Cristo lo suficiente como para vivir de toda palabra de Él<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Realizaremos un estudio durante toda la vida de Jesucristo<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, Su ministerio, Sus enseñanzas y Su infinita expiación, incluyendo Su gloriosa resurrección. Estudiaremos Sus promesas y las condiciones con las cuales estas se extienden<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Al estudiar, nos llenaremos de un mayor amor por el Señor.<\/p>\n<p data-aid=\"154476714\" id=\"p12\">Si <em>confiamos<\/em> en la doctrina de Cristo, acudiremos a nuestro Padre Celestial, cada día, en humilde y secreta oración, donde podremos expresar gratitud por el don de Su Hijo y por todas nuestras bendiciones<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Podemos orar para recibir el compañerismo revelador del Espíritu Santo<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>, orar para alinear nuestra voluntad con la de Él<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>, orar para reflexionar sobre nuestros convenios y renovar nuestro compromiso de guardarlos<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Podemos orar para sostener y expresar amor por nuestros profetas, videntes y reveladores<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>; orar para pedir el poder purificador del perdón<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> y orar a fin de recibir la fortaleza para resistir la tentación<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Los invito a que hagan de la oración una prioridad en sus vidas, procurando cada día mejorar su comunicación con Dios.<\/p>\n<p data-aid=\"154476716\" id=\"p13\">Si <em>confiamos<\/em> en la doctrina de Cristo, dejaremos de lado las cosas deslumbrantes del mundo para centrarnos en el Redentor del mundo<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Limitaremos o eliminaremos el tiempo que dedicamos a las redes sociales; los juegos digitales; el entretenimiento improductivo, excesivo o inapropiado; el atractivo de los tesoros y vanidades de este mundo, y cualquier otra actividad que dé lugar a las tradiciones falsas y filosofías descarriadas de los hombres. Solo en Cristo hallamos verdad y realización perdurable.<\/p>\n<p data-aid=\"154476719\" id=\"p16\">El arrepentimiento sincero<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> se convertirá en una parte gozosa<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> de nuestra vida, tanto para ser perdonados del pecado como para cambiar a la imagen de Cristo<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. El arrepentimiento con fe en Cristo nos da acceso a la expiación de Jesucristo. El presidente Dallin H. Oaks ha enseñado que cuando el Salvador perdona, \u201chace por [nosotros] algo más que limpiar[nos] del pecado; también [nos] da nueva fortaleza\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Cada uno de nosotros necesita esta fortaleza para guardar los mandamientos de Dios y para cumplir con el eterno propósito de nuestra vida.<\/p>\n<p data-aid=\"154476721\" id=\"p17\">En Jesus y en Su doctrina hallamos fortaleza. Él dijo: \u201cDe cierto, de cierto os digo que <em>esta es mi doctrina<\/em>; y los que edifican sobre <em>esto<\/em>, edifican sobre mi roca, y las puertas del infierno no prevalecerán en contra de ellos\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"154476722\" id=\"p18\">Vemos que esta promesa se cumple en la vida de las personas fieles. Fue hace poco más de un año que tuve el privilegio de conocer a Travis y Kacie, quienes se casaron por lo civil en 2007. En aquel momento, Travis no era miembro de la Iglesia. Kacie, aunque se había criado en un hogar Santo de los Últimos Días activo, se había apartado de su fe en la adolescencia y se había alejado de su fundamento.<\/p>\n<p data-aid=\"154476725\" id=\"p19\">En 2018, Travis conoció a los misioneros y fue bautizado en 2019. Travis llegó a ser un misionero para Kacie, quien también experimentó una conversión que le cambió la vida. Se sellaron en el templo en septiembre de 2020. Unos dos años después de su bautismo, Travis fue llamado a servir en el obispado.<\/p>\n<p data-aid=\"154476726\" id=\"p20\">Travis tiene una enfermedad poco común que continuamente forma tumores agrupados en los órganos internos. Se ha sometido a muchas cirugías para eliminar los tumores recurrentes, pero la enfermedad es incurable. Hace varios años, a Travis se le dio menos de diez años de vida.<\/p>\n<p data-aid=\"154476729\" id=\"p21\">Kacie tiene retinosis pigmentaria, una rara enfermedad genética que causa un estrechamiento irreversible del campo de visión hasta que se produce la ceguera completa.<\/p>\n<p data-aid=\"154476731\" id=\"p22\">Kacie me habló de su futuro; mencionó el momento no muy lejano en que sería viuda y estaría ciega, sin sostén económico, y se quedaría sola para criar a cuatro hijos pequeños. Le pregunté a Kacie cómo podía afrontar un futuro tan sombrío; sonrió de modo apacible y dijo: \u201cJamás en la vida he sido más feliz ni he sentido más esperanza. Nos aferramos a las promesas que recibimos en el templo\u201d.<\/p>\n<p data-aid=\"154476733\" id=\"p23\">Travis ahora es obispo. Hace dos meses, se sometió a otra operación importante, pero es optimista y siente paz. La vista de Kacie ha empeorado. Ahora tiene un perro guía y ya no puede conducir, pero está contenta; cría a sus hijos y sirve como consejera de la presidencia de las Mujeres Jóvenes.<\/p>\n<p data-aid=\"154476735\" id=\"p24\">Travis y Kacie están edificando su casa sobre la roca. Confían en la doctrina de Cristo y en la promesa de que Dios \u201cconsagrará [sus] aflicciones para [su] provecho\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. En el plan perfecto de Dios, el sufrir con fe en Cristo está ligado a que seamos perfeccionados en Cristo<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>. Como el hombre sabio de la parábola que edificó su casa sobre una roca<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>, cuando descienda la lluvia, y vengan los torrentes, y soplen los vientos, y den con ímpetu contra la casa que Travis y Kacie están edificando, esta no caerá, porque estará fundada sobre una roca<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>.<\/p>\n<p data-aid=\"154476738\" id=\"p25\">Jesús no hablaba de la <em>posibilidad<\/em> de lluvias, torrentes y vientos en nuestra vida; hablaba de la <em>certeza<\/em> de que habrá tormentas. La variable de esta parábola no es si vendrán las tormentas, sino cómo hayamos respondido nosotros a Su amorosa invitación a oír, así como a hacer, lo que Él ha enseñado<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>. No hay ninguna otra manera de sobrevivir.<\/p>\n<p data-aid=\"154476741\" id=\"p26\">Cuando hemos edificado nuestra casa sobre el fundamento de una relación por convenio con Cristo, estamos <em>confiando<\/em> en la doctrina de Cristo y, al venir nosotros a Él, tenemos Su promesa de la vida eterna. Las personas que confían en la doctrina de Cristo siguen adelante con firmeza en Cristo y perseveran hasta el fin. No hay otro camino para salvarse en el reino de los cielos<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>.<\/p>\n<p data-aid=\"154476743\" id=\"p27\">Declaro mi testimonio personal de la realidad viviente del Señor Jesucristo resucitado. Testifico que de tal manera amó Dios nuestro Padre al mundo, que envió a Su Hijo para redimirnos del pecado<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a> y sanarnos de tristezas<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a>. Testifico que Él ha llamado a un profeta de Dios en nuestra época, el presidente Russell M. Nelson, a través de quien nos habla y nos guía.<\/p>\n<p data-aid=\"154476746\" id=\"p28\">Con todo mi corazón, los invito a que confíen en la doctrina de Cristo y que edifiquen sus vidas sobre la roca del Redentor. Él nunca les fallará. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154476749\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154476752\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/30.18?lang=spa#p18\">2 Nefi 30:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154476755\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2?lang=spa#p2\">2 Nefi 31:2<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154476758\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31\u201332<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154476761\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7-8?lang=spa#p7\">2 Nefi 31:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154476764\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=spa#p10\">2 Nefi 31:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154476768\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.12?lang=spa#p12\">2 Nefi 31:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154476770\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.13?lang=spa#p13\">2 Nefi 31:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154476773\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.15?lang=spa#p15\">2 Nefi 31:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154476775\" id=\"note9_p1\">En Marianne Holman Prescott, \u201c<a href=\"https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord\">Elder Russell M. Nelson: \u2018Epistles of the Lord\u2019<\/a>\u201d, <cite>Church News<\/cite>, 1 de julio de 2015, <span class=\"language\" lang=\"spa\">thechurchnews.com<\/span>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154476778\" id=\"note10_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=spa&amp;para=figure2#figure2\">Predicad Mi Evangelio: Una guía para el servicio misional<\/a><\/cite>, 2019, pág. 1. El \u201cobjetivo misional\u201d refleja los cinco elementos de la doctrina de Cristo. La enseñanza de <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31\u201332<\/a> incluye otros elementos importantes que forman parte de la doctrina de Cristo, tales como aferrarse a la palabra de Cristo (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-20?lang=spa#p19\">2 Nefi 31:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">32:3<\/a>); guardar los mandamientos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7,10,18?lang=spa#p7\">2 Nefi 31:7, 10, 18<\/a>); la oración (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.8-9?lang=spa#p8\">2 Nefi 32:8\u20139<\/a>) y, principalmente, la doctrina de que el sacrificio expiatorio de Cristo es la única manera por la que podemos ser salvos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.21?lang=spa#p21\">2 Nefi 31:21<\/a>). Los elementos de la doctrina de Cristo se encuentran a lo largo de las Escrituras, aunque la doctrina se analiza más minuciosamente en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.5-21?lang=spa#p5\">2 Nefi 31:5\u201321<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-39?lang=spa#p31\">3 Nefi 11:31\u201339<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-21?lang=spa#p13\">3 Nefi 27:13\u201321<\/a> y <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59-62?lang=spa#p59\">Moisés 6:59\u201362<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154476781\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154476785\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;para=18%2C21#p18\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 96, cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154476788\" id=\"note13_p1\"><cite>Merriam-Webster.com Dictionary<\/cite>, \u201c<a href=\"https://www.merriam-webster.com/dictionary/trust\">trust<\/a>\u201d [\u201cconfianza\u201d, en inglés].<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154476792\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.44?lang=spa#p44\">Doctrina y Convenios 84:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154476798\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29?lang=spa#p29\">Mateo 11:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154476802\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;para=5-6#p5\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 39: \u201cComenzamos al aprender de Él [\u2026]. Cuanto más sabemos acerca del ministerio y la misión del Salvador [\u2026], mejor comprendemos Su doctrina y lo que Él hizo por nosotros [\u2026]. Los invit[o] a que las referencias de las Escrituras acerca de Jesucristo que se encuentran en la guía temática [<i>Topical Guide<\/i>, en inglés] se convi[ertan] en su principal material de estudio personal\u201d.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154476807\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.6-13?lang=spa#p6\">Mateo 6:6\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154476812\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.9?lang=spa#p9\">3 Nefi 19:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154476817\" id=\"note19_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=spa#p35\">2 Nefi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.24?lang=spa#p24\">3 Nefi 19:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=spa#p30\">Doctrina y Convenios 46:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154476822\" id=\"note20_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;para=28#p28\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 95: \u201c[L]os invito a fijarse un tiempo regular para repasar en la mente los convenios que han hecho\u201d.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154476824\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.22?lang=spa#p22\">Doctrina y Convenios 107:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154476829\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=spa#p10\">Mosíah 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154476834\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.13?lang=spa#p13\">Mateo 6:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154476840\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.19-21,33?lang=spa#p19\">Mateo 6:19\u201321, 33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154476845\" id=\"note25_p1\">El rey Benjamín describió el arrepentimiento sincero: \u201cY además, creed que debéis arrepentiros de vuestros pecados, y abandonarlos, y humillaros ante Dios, y pedid con sinceridad de corazón que él os perdone; y ahora bien, si creéis todas estas cosas, mirad que las hagáis\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=spa#p10\">Mosíah 4:10<\/a>).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154476850\" id=\"note26_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;para=21-22#p21\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99: \u201c[E]mpiecen hoy mismo a experimentar el gozo de despojarse del hombre natural. El Salvador nos ama siempre, pero <em>especialmente<\/em> cuando nos arrepentimos [\u2026]; experiment[en] el gozo y el alivio del arrepentimiento\u201d.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154476855\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14-15?lang=spa#p14\">Alma 5:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154476860\" id=\"note28_p1\">Dallin H. Oaks, \u201cOur Message for Missionaries\u201d, transmisión mundial para misioneros, 20 de enero de 2016; véase también Dallin H. Oaks, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1992/07/sin-and-suffering.html?para=55#p55\">El pecado y el sufrimiento<\/span>\u201d, <cite>Liahona<\/cite>, abril de 1994, pág. 31.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154476865\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.39?lang=spa#p39\">3 Nefi 11:39<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154476870\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154476873\" id=\"note31_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.8-9?lang=spa#p8\">Hebreos 5:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154476879\" id=\"note32_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-27?lang=spa#p24\">3 Nefi 14:24\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"154476884\" id=\"note33_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-25?lang=spa#p24\">3 Nefi 14:24\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"154476888\" id=\"note34_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24?lang=spa#p24\">3 Nefi 14:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"154476893\" id=\"note35_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20-21?lang=spa#p20\">2 Nefi 31:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"154476898\" id=\"note36_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16-17?lang=spa#p16\">Juan 3:16\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"154476904\" id=\"note37_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.20?lang=spa#p20\">Juan 16:20<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154476697",
+        "id": "note4",
+        "text": "<p data-aid=\"154476761\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7-8?lang=spa#p7\">2 Nefi 31:7\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.7-8?lang=spa#p7",
+          "text": "2 Nefi 31:7\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154476697",
+        "id": "note5",
+        "text": "<p data-aid=\"154476764\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=spa#p10\">2 Nefi 31:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.10?lang=spa#p10",
+          "text": "2 Nefi 31:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154476695",
+        "id": "note2",
+        "text": "<p data-aid=\"154476755\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2?lang=spa#p2\">2 Nefi 31:2<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.2?lang=spa#p2",
+          "text": "2 Nefi 31:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154476697",
+        "id": "note3",
+        "text": "<p data-aid=\"154476758\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31\u201332<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=spa",
+          "text": "2 Nefi 31\u201332",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154476697",
+        "id": "note8",
+        "text": "<p data-aid=\"154476773\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.15?lang=spa#p15\">2 Nefi 31:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.15?lang=spa#p15",
+          "text": "2 Nefi 31:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154476699",
+        "id": "note9",
+        "text": "<p data-aid=\"154476775\" id=\"note9_p1\">En Marianne Holman Prescott, \u201c<a href=\"https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord\">Elder Russell M. Nelson: \u2018Epistles of the Lord\u2019<\/a>\u201d, <cite>Church News<\/cite>, 1 de julio de 2015, <span class=\"language\" lang=\"spa\">thechurchnews.com<\/span>.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.thechurchnews.com/2015/7/1/23213145/elder-russell-m-nelson-epistles-of-the-lord",
+          "text": "Elder Russell M. Nelson: \u2018Epistles of the Lord\u2019"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154476697",
+        "id": "note6",
+        "text": "<p data-aid=\"154476768\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.12?lang=spa#p12\">2 Nefi 31:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.12?lang=spa#p12",
+          "text": "2 Nefi 31:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154476697",
+        "id": "note7",
+        "text": "<p data-aid=\"154476770\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.13?lang=spa#p13\">2 Nefi 31:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.13?lang=spa#p13",
+          "text": "2 Nefi 31:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154476735",
+        "id": "note30",
+        "text": "<p data-aid=\"154476870\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.2?lang=spa#p2\">2 Nefi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.2?lang=spa#p2",
+          "text": "2 Nefi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154476713",
+        "id": "note16",
+        "text": "<p data-aid=\"154476802\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;para=5-6#p5\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 39: \u201cComenzamos al aprender de Él [\u2026]. Cuanto más sabemos acerca del ministerio y la misión del Salvador [\u2026], mejor comprendemos Su doctrina y lo que Él hizo por nosotros [\u2026]. Los invit[o] a que las referencias de las Escrituras acerca de Jesucristo que se encuentran en la guía temática [<i>Topical Guide<\/i>, en inglés] se convi[ertan] en su principal material de estudio personal\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;para=5-6#p5",
+          "text": "Cómo obtener el poder de Jesucristo en nuestra vida",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154476713",
+        "id": "note15",
+        "text": "<p data-aid=\"154476798\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29?lang=spa#p29\">Mateo 11:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.29?lang=spa#p29",
+          "text": "Mateo 11:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "154476743",
+        "id": "note37",
+        "text": "<p data-aid=\"154476904\" id=\"note37_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.20?lang=spa#p20\">Juan 16:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.20?lang=spa#p20",
+          "text": "Juan 16:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154476713",
+        "id": "note14",
+        "text": "<p data-aid=\"154476792\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.44?lang=spa#p44\">Doctrina y Convenios 84:44<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.44?lang=spa#p44",
+          "text": "Doctrina y Convenios 84:44",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "154476743",
+        "id": "note36",
+        "text": "<p data-aid=\"154476898\" id=\"note36_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16-17?lang=spa#p16\">Juan 3:16\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3.16-17?lang=spa#p16",
+          "text": "Juan 3:16\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154476709",
+        "id": "note13",
+        "text": "<p data-aid=\"154476788\" id=\"note13_p1\"><cite>Merriam-Webster.com Dictionary<\/cite>, \u201c<a href=\"https://www.merriam-webster.com/dictionary/trust\">trust<\/a>\u201d [\u201cconfianza\u201d, en inglés].<\/p>",
+        "referenceUris": [{
+          "href": "https://www.merriam-webster.com/dictionary/trust",
+          "text": "trust"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "154476741",
+        "id": "note35",
+        "text": "<p data-aid=\"154476893\" id=\"note35_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20-21?lang=spa#p20\">2 Nefi 31:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20-21?lang=spa#p20",
+          "text": "2 Nefi 31:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154476707",
+        "id": "note12",
+        "text": "<p data-aid=\"154476785\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;para=18%2C21#p18\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 96, cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;para=18%2C21#p18",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "154476738",
+        "id": "note34",
+        "text": "<p data-aid=\"154476888\" id=\"note34_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24?lang=spa#p24\">3 Nefi 14:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24?lang=spa#p24",
+          "text": "3 Nefi 14:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154476705",
+        "id": "note11",
+        "text": "<p data-aid=\"154476781\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/3.3?lang=spa#p3",
+          "text": "2 Corintios 3:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "154476735",
+        "id": "note33",
+        "text": "<p data-aid=\"154476884\" id=\"note33_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-25?lang=spa#p24\">3 Nefi 14:24\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24-25?lang=spa#p24",
+          "text": "3 Nefi 14:24\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154476701",
+        "id": "note10",
+        "text": "<p data-aid=\"154476778\" id=\"note10_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=spa&amp;para=figure2#figure2\">Predicad Mi Evangelio: Una guía para el servicio misional<\/a><\/cite>, 2019, pág. 1. El \u201cobjetivo misional\u201d refleja los cinco elementos de la doctrina de Cristo. La enseñanza de <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31\u201332<\/a> incluye otros elementos importantes que forman parte de la doctrina de Cristo, tales como aferrarse a la palabra de Cristo (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.19-20?lang=spa#p19\">2 Nefi 31:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">32:3<\/a>); guardar los mandamientos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.7,10,18?lang=spa#p7\">2 Nefi 31:7, 10, 18<\/a>); la oración (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.8-9?lang=spa#p8\">2 Nefi 32:8\u20139<\/a>) y, principalmente, la doctrina de que el sacrificio expiatorio de Cristo es la única manera por la que podemos ser salvos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.21?lang=spa#p21\">2 Nefi 31:21<\/a>). Los elementos de la doctrina de Cristo se encuentran a lo largo de las Escrituras, aunque la doctrina se analiza más minuciosamente en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.5-21?lang=spa#p5\">2 Nefi 31:5\u201321<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-39?lang=spa#p31\">3 Nefi 11:31\u201339<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-21?lang=spa#p13\">3 Nefi 27:13\u201321<\/a> y <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59-62?lang=spa#p59\">Moisés 6:59\u201362<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/what-is-my-purpose-as-a-missionary?lang=spa&amp;para=figure2#figure2",
+            "text": "Predicad Mi Evangelio: Una guía para el servicio misional",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=spa",
+            "text": "2 Nefi 31\u201332",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.19-20?lang=spa#p19",
+            "text": "2 Nefi 31:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.3?lang=spa#p3",
+            "text": "32:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.7,10,18?lang=spa#p7",
+            "text": "2 Nefi 31:7, 10, 18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.8-9?lang=spa#p8",
+            "text": "2 Nefi 32:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.21?lang=spa#p21",
+            "text": "2 Nefi 31:21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.5-21?lang=spa#p5",
+            "text": "2 Nefi 31:5\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.31-39?lang=spa#p31",
+            "text": "3 Nefi 11:31\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.13-21?lang=spa#p13",
+            "text": "3 Nefi 27:13\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.59-62?lang=spa#p59",
+            "text": "Moisés 6:59\u201362",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154476735",
+        "id": "note32",
+        "text": "<p data-aid=\"154476879\" id=\"note32_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14.24-27?lang=spa#p24\">3 Nefi 14:24\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14.24-27?lang=spa#p24",
+          "text": "3 Nefi 14:24\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154476735",
+        "id": "note31",
+        "text": "<p data-aid=\"154476873\" id=\"note31_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.8-9?lang=spa#p8\">Hebreos 5:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/5.8-9?lang=spa#p8",
+          "text": "Hebreos 5:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154476714",
+        "id": "note19",
+        "text": "<p data-aid=\"154476817\" id=\"note19_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.35?lang=spa#p35\">2 Nefi 4:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.24?lang=spa#p24\">3 Nefi 19:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46.30?lang=spa#p30\">Doctrina y Convenios 46:30<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/4.35?lang=spa#p35",
+            "text": "2 Nefi 4:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/19.24?lang=spa#p24",
+            "text": "3 Nefi 19:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/46.30?lang=spa#p30",
+            "text": "Doctrina y Convenios 46:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154476714",
+        "id": "note18",
+        "text": "<p data-aid=\"154476812\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19.9?lang=spa#p9\">3 Nefi 19:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/19.9?lang=spa#p9",
+          "text": "3 Nefi 19:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154476714",
+        "id": "note17",
+        "text": "<p data-aid=\"154476807\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.6-13?lang=spa#p6\">Mateo 6:6\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.6-13?lang=spa#p6",
+          "text": "Mateo 6:6\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154476719",
+        "id": "note27",
+        "text": "<p data-aid=\"154476855\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14-15?lang=spa#p14\">Alma 5:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.14-15?lang=spa#p14",
+          "text": "Alma 5:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154476719",
+        "id": "note26",
+        "text": "<p data-aid=\"154476850\" id=\"note26_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;para=21-22#p21\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99: \u201c[E]mpiecen hoy mismo a experimentar el gozo de despojarse del hombre natural. El Salvador nos ama siempre, pero <em>especialmente<\/em> cuando nos arrepentimos [\u2026]; experiment[en] el gozo y el alivio del arrepentimiento\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=spa&amp;para=21-22#p21",
+          "text": "El poder del ímpetu espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154476719",
+        "id": "note25",
+        "text": "<p data-aid=\"154476845\" id=\"note25_p1\">El rey Benjamín describió el arrepentimiento sincero: \u201cY además, creed que debéis arrepentiros de vuestros pecados, y abandonarlos, y humillaros ante Dios, y pedid con sinceridad de corazón que él os perdone; y ahora bien, si creéis todas estas cosas, mirad que las hagáis\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=spa#p10\">Mosíah 4:10<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4.10?lang=spa#p10",
+          "text": "Mosíah 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154476716",
+        "id": "note24",
+        "text": "<p data-aid=\"154476840\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.19-21,33?lang=spa#p19\">Mateo 6:19\u201321, 33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.19-21,33?lang=spa#p19",
+          "text": "Mateo 6:19\u201321, 33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154476714",
+        "id": "note23",
+        "text": "<p data-aid=\"154476834\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.13?lang=spa#p13\">Mateo 6:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.13?lang=spa#p13",
+          "text": "Mateo 6:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154476714",
+        "id": "note22",
+        "text": "<p data-aid=\"154476829\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.10?lang=spa#p10\">Mosíah 4:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4.10?lang=spa#p10",
+          "text": "Mosíah 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154476714",
+        "id": "note21",
+        "text": "<p data-aid=\"154476824\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.22?lang=spa#p22\">Doctrina y Convenios 107:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/107.22?lang=spa#p22",
+          "text": "Doctrina y Convenios 107:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154476714",
+        "id": "note20",
+        "text": "<p data-aid=\"154476822\" id=\"note20_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;para=28#p28\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 95: \u201c[L]os invito a fijarse un tiempo regular para repasar en la mente los convenios que han hecho\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=spa&amp;para=28#p28",
+          "text": "El templo y el cimiento espiritual de ustedes",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154476695",
+        "id": "note1",
+        "text": "<p data-aid=\"154476752\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/30.18?lang=spa#p18\">2 Nefi 30:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/30.18?lang=spa#p18",
+          "text": "2 Nefi 30:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154476721",
+        "id": "note29",
+        "text": "<p data-aid=\"154476865\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.39?lang=spa#p39\">3 Nefi 11:39<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.39?lang=spa#p39",
+          "text": "3 Nefi 11:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154476719",
+        "id": "note28",
+        "text": "<p data-aid=\"154476860\" id=\"note28_p1\">Dallin H. Oaks, \u201cOur Message for Missionaries\u201d, transmisión mundial para misioneros, 20 de enero de 2016; véase también Dallin H. Oaks, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1992/07/sin-and-suffering.html?para=55#p55\">El pecado y el sufrimiento<\/span>\u201d, <cite>Liahona<\/cite>, abril de 1994, pág. 31.<\/p>"
+      }
+    }
+  }
+}

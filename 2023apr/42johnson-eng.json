@@ -1,0 +1,665 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/42johnson?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "d1412dc2dd6142a6bde6f2f0b2991444",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/42johnson",
+      "data-aid": "154444073",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "d1412dc2dd6142a6bde6f2f0b2991444"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/c6/38/c638944b0f0e5062d6f12d2449b66c9bfed18950/c638944b0f0e5062d6f12d2449b66c9bfed18950.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4020-camille-n-johnson-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Jesus Christ Is Relief",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444073",
+      {"key": "154444073"}
+    ],
+    [
+      "154444080",
+      {"key": "154444080"}
+    ],
+    [
+      "154444091",
+      {"key": "154444091"}
+    ],
+    [
+      "154445098",
+      {"key": "154445098"}
+    ],
+    [
+      "154445105",
+      {"key": "154445105"}
+    ],
+    [
+      "154445112",
+      {"key": "154445112"}
+    ],
+    [
+      "154445120",
+      {"key": "154445120"}
+    ],
+    [
+      "154445128",
+      {"key": "154445128"}
+    ],
+    [
+      "154445137",
+      {"key": "154445137"}
+    ],
+    [
+      "154445146",
+      {"key": "154445146"}
+    ],
+    [
+      "154445156",
+      {"key": "154445156"}
+    ],
+    [
+      "154445163",
+      {"key": "154445163"}
+    ],
+    [
+      "154445172",
+      {"key": "154445172"}
+    ],
+    [
+      "154445182",
+      {"key": "154445182"}
+    ],
+    [
+      "154445191",
+      {"key": "154445191"}
+    ],
+    [
+      "154445201",
+      {"key": "154445201"}
+    ],
+    [
+      "154445211",
+      {"key": "154445211"}
+    ],
+    [
+      "154445222",
+      {"key": "154445222"}
+    ],
+    [
+      "154445233",
+      {"key": "154445233"}
+    ],
+    [
+      "154445245",
+      {"key": "154445245"}
+    ],
+    [
+      "154445255",
+      {"key": "154445255"}
+    ],
+    [
+      "154445269",
+      {"key": "154445269"}
+    ],
+    [
+      "154445292",
+      {"key": "154445292"}
+    ],
+    [
+      "154445301",
+      {"key": "154445301"}
+    ],
+    [
+      "154445313",
+      {"key": "154445313"}
+    ],
+    [
+      "154445324",
+      {"key": "154445324"}
+    ],
+    [
+      "154445335",
+      {"key": "154445335"}
+    ],
+    [
+      "154445345",
+      {"key": "154445345"}
+    ],
+    [
+      "154445356",
+      {"key": "154445356"}
+    ],
+    [
+      "154445370",
+      {"key": "154445370"}
+    ],
+    [
+      "154445381",
+      {"key": "154445381"}
+    ],
+    [
+      "154445392",
+      {"key": "154445392"}
+    ],
+    [
+      "154445403",
+      {"key": "154445403"}
+    ],
+    [
+      "154445414",
+      {"key": "154445414"}
+    ],
+    [
+      "154445426",
+      {"key": "154445426"}
+    ],
+    [
+      "154445437",
+      {"key": "154445437"}
+    ],
+    [
+      "154445446",
+      {"key": "154445446"}
+    ],
+    [
+      "154445456",
+      {"key": "154445456"}
+    ],
+    [
+      "154445466",
+      {"key": "154445466"}
+    ],
+    [
+      "154445476",
+      {"key": "154445476"}
+    ],
+    [
+      "154445486",
+      {"key": "154445486"}
+    ],
+    [
+      "154445496",
+      {"key": "154445496"}
+    ],
+    [
+      "154445510",
+      {"key": "154445510"}
+    ],
+    [
+      "154445518",
+      {"key": "154445518"}
+    ],
+    [
+      "154445526",
+      {"key": "154445526"}
+    ],
+    [
+      "154445534",
+      {"key": "154445534"}
+    ],
+    [
+      "154445542",
+      {"key": "154445542"}
+    ],
+    [
+      "154445549",
+      {"key": "154445549"}
+    ],
+    [
+      "154445557",
+      {"key": "154445557"}
+    ],
+    [
+      "154445565",
+      {"key": "154445565"}
+    ],
+    [
+      "154445571",
+      {"key": "154445571"}
+    ],
+    [
+      "154445580",
+      {"key": "154445580"}
+    ],
+    [
+      "154445587",
+      {"key": "154445587"}
+    ],
+    [
+      "154445595",
+      {"key": "154445595"}
+    ],
+    [
+      "154445601",
+      {"key": "154445601"}
+    ],
+    [
+      "154445607",
+      {"key": "154445607"}
+    ],
+    [
+      "154445611",
+      {"key": "154445611"}
+    ],
+    [
+      "154445615",
+      {"key": "154445615"}
+    ],
+    [
+      "154445620",
+      {"key": "154445620"}
+    ],
+    [
+      "154445625",
+      {"key": "154445625"}
+    ],
+    [
+      "154445629",
+      {"key": "154445629"}
+    ],
+    [
+      "154445634",
+      {"key": "154445634"}
+    ],
+    [
+      "154445639",
+      {"key": "154445639"}
+    ],
+    [
+      "154445644",
+      {"key": "154445644"}
+    ],
+    [
+      "154445649",
+      {"key": "154445649"}
+    ],
+    [
+      "154445654",
+      {"key": "154445654"}
+    ],
+    [
+      "154445658",
+      {"key": "154445658"}
+    ],
+    [
+      "154445664",
+      {"key": "154445664"}
+    ],
+    [
+      "154445668",
+      {"key": "154445668"}
+    ],
+    [
+      "154445672",
+      {"key": "154445672"}
+    ],
+    [
+      "154445675",
+      {"key": "154445675"}
+    ],
+    [
+      "154445677",
+      {"key": "154445677"}
+    ],
+    [
+      "154445679",
+      {"key": "154445679"}
+    ],
+    [
+      "154445681",
+      {"key": "154445681"}
+    ],
+    [
+      "154445683",
+      {"key": "154445683"}
+    ],
+    [
+      "154445685",
+      {"key": "154445685"}
+    ],
+    [
+      "154445687",
+      {"key": "154445687"}
+    ],
+    [
+      "154445689",
+      {"key": "154445689"}
+    ],
+    [
+      "154445691",
+      {"key": "154445691"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/42johnson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "President Johnson teaches that we can partner with the Savior to offer temporal and spiritual relief to those in need.",
+          "title": "Jesus Christ Is Relief"
+        },
+        "pageSocial": {
+          "description": "President Johnson teaches that we can partner with the Savior to offer temporal and spiritual relief to those in need.",
+          "title": "Jesus Christ Is Relief"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/c6/38/c638944b0f0e5062d6f12d2449b66c9bfed18950/c638944b0f0e5062d6f12d2449b66c9bfed18950.jpeg\" data-video-title=\"Jesus Christ Is Relief\" data-video-description=\"President Johnson teaches that we can partner with the Savior to offer temporal and spiritual relief to those in need.\" data-video-id=\"6323838071112\" data-ip=\"Download and Streaming                            \" data-duration=\"618853\" data-assetId=\"7fa7d6cad17811edb657eeeeac1e776705f094fd\" data-ref-id=\"E9F307D195074EDCE0A1293DDD95F1EE5797F022\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323838071112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"207567948\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4020-camille-n-johnson-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57422538\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4020-camille-n-johnson-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"148806335\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-4020-camille-n-johnson-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"207567948\"/><\/video><h1 data-aid=\"154444080\" id=\"title1\">Jesus Christ Is Relief<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444091\" id=\"author1\">By President Camille N. Johnson<\/p>\n<p class=\"author-role\" data-aid=\"154445098\" id=\"author2\">Relief Society General President<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154445105\" id=\"kicker1\">We can partner with the Savior to help provide temporal and spiritual relief for those in need\u2014and in the process find our own relief. <\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154445112\" id=\"p1\">With faith in Jesus Christ and hope in what they had heard of His miracles, the caregivers of a man with palsy brought him to Jesus. They were innovative in getting him there\u2014uncovering the roof and lowering the man, on his bed, to the place where Jesus was teaching. When Jesus \u201csaw their faith, he said [to the man with palsy], thy sins are forgiven thee.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> And then, \u201cArise, and take up thy bed, and go thy way into thine house.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> And immediately the man with palsy arose and took his bed and departed for home, \u201cglorifying God.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"154445120\" id=\"p2\">What more do we know of the friends who provided care for the man with palsy? We know that the Savior recognized <em>their<\/em> faith. And having seen and heard the Savior and being a witness to His miracles, they were \u201camazed\u201d and \u201cglorified God.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"154445128\" id=\"p3\">Jesus Christ had provided the hoped-for healing\u2014physical <em>relief<\/em> from pain and the crippling consequences of chronic disease. Significantly, the Savior also provided spiritual <em>relief<\/em> in cleansing the man from sin.<\/p>\n<p data-aid=\"154445137\" id=\"p4\">And the friends\u2014in their efforts to care for one in need, they found the source of relief; they found Jesus Christ.<\/p>\n<p data-aid=\"154445146\" id=\"p5\">I testify that Jesus Christ <em>is<\/em> relief. Through the Atonement of Jesus Christ, we may be relieved of the burden and consequences of sin and be succored in our infirmities.<\/p>\n<p data-aid=\"154445156\" id=\"p6\">And because we love God and have covenanted to serve Him, we can partner with the Savior to help provide temporal and spiritual relief for those in need\u2014and in the process find our own relief in Jesus Christ.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"154445163\" id=\"p7\">Our beloved prophet, President Russell M. Nelson, invited us to overcome the world and find rest.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> He defined \u201ctrue rest\u201d as \u201crelief and peace.\u201d President Nelson said, \u201cBecause the Savior, through His infinite Atonement, redeemed each of us from weakness, mistakes, and sin, and because He experienced every pain, worry, and burden you have ever had, then as you truly repent and seek His help, you can rise above this present precarious world.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> That is the relief Jesus Christ offers us!<\/p>\n<p data-aid=\"154445172\" id=\"p8\">Each of us is carrying a metaphorical backpack. It may be a basket balanced on your head or a satchel or a bundle of things wrapped in cloth and thrown over your shoulder. But for our thinking, let\u2019s call it a backpack.<\/p>\n<p data-aid=\"154445182\" id=\"p9\">This metaphorical backpack is where we carry the burdens of living in a fallen world. Our burdens are like rocks in the backpack. Generally, there are three kinds:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"154445191\" id=\"p10\">Rocks there of our own doing because of sin.<\/p>\n<\/li>\n<li>\n<p data-aid=\"154445201\" id=\"p11\">Rocks in our backpack because of the poor decisions, misconduct, and unkindness of others.<\/p>\n<\/li>\n<li>\n<p data-aid=\"154445211\" id=\"p12\">And rocks we carry because we are living in a fallen condition. These include the rocks of disease, pain, chronic illness, grief, disappointment, loneliness, and the effects of natural disasters.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"154445222\" id=\"p13\">I joyfully declare that our mortal burdens, these rocks in our figurative backpack, need not feel heavy.<\/p>\n<p data-aid=\"154445233\" id=\"p14\">Jesus Christ can lighten our load.<\/p>\n<p data-aid=\"154445245\" id=\"p15\">Jesus Christ can lift our burdens.<\/p>\n<p data-aid=\"154445255\" id=\"p16\">Jesus Christ provides a way for us to be relieved of the weight of sin.<\/p>\n<p data-aid=\"154445269\" id=\"p17\">Jesus Christ is our relief.<\/p>\n<p data-aid=\"154445292\" id=\"p18\">He said:<\/p>\n<p data-aid=\"154445301\" id=\"p19\">\u201cCome unto me, all ye that labour and are heavy laden, and I will give you rest [that is, relief and peace].<\/p>\n<p data-aid=\"154445313\" id=\"p20\">\u201cTake my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.<\/p>\n<p data-aid=\"154445324\" id=\"p21\">\u201cFor my yoke is easy, and my burden is light.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"154445335\" id=\"p22\">That the yoke is easy and the burden is light presumes we get in the yoke with the Savior, that we share our burdens with Him, that we let Him lift our load. That means entering into a covenant relationship with God and keeping that covenant, which, as President Nelson has explained, \u201cmakes <em>everything<\/em> about life easier.\u201d He said, \u201cYoking yourself with the Savior means you have access to <em>His<\/em> strength and redeeming power.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"154445345\" id=\"p23\">So why are we stingy with our rocks? Why would a weary baseball pitcher refuse to leave the mound when a reliever is there ready to complete the game? Why would I insist on maintaining my post alone when the Reliever stands ready to keep it with me?<\/p>\n<p data-aid=\"154445356\" id=\"p24\">President Nelson has taught, \u201cJesus Christ \u2026 stands with open arms, hoping and willing to heal, forgive, cleanse, strengthen, purify, and sanctify us.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"154445370\" id=\"p25\">So why do we insist on carrying our rocks alone?<\/p>\n<p data-aid=\"154445381\" id=\"p26\">It is intended as a personal question for each of you to consider.<\/p>\n<p data-aid=\"154445392\" id=\"p27\">For me, it is the age-old vice of pride. \u201cI\u2019ve got this,\u201d I say. \u201cNo worries; I\u2019ll get it done.\u201d It\u2019s the great deceiver who wants me to hide from God, to turn away from Him, to go at it alone.<\/p>\n<p data-aid=\"154445403\" id=\"p28\">Brothers and sisters, I can\u2019t go at it alone, and I don\u2019t need to, and I won\u2019t. Choosing to be bound to my Savior, Jesus Christ, through the covenants I have made with God, \u201cI can do all things through Christ which strengtheneth me.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"154445414\" id=\"p29\">Covenant keepers are blessed with the Savior\u2019s relief.<\/p>\n<p data-aid=\"154445426\" id=\"p30\">Consider this example in the Book of Mormon: The people of Alma were persecuted with \u201ctasks upon them, and \u2026 task-masters over them.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> Forbidden to pray vocally, they \u201cdid pour out their hearts to [God]; and he did know the thoughts of their hearts.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"154445437\" id=\"p31\">And \u201cthe voice of the Lord came to them in their afflictions, saying: Lift up your heads and be of good comfort, for I know of the <em>covenant<\/em> which ye have made unto me; and I will <em>covenant<\/em> with my people and deliver them out of bondage.<\/p>\n<p data-aid=\"154445446\" id=\"p32\">\u201cAnd I will also ease the burdens which are put upon your shoulders, that even you cannot feel them upon your backs.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"154445456\" id=\"p33\">And their burdens \u201cwere made light,\u201d and \u201cthe Lord did strengthen them that they could bear up their burdens with ease, and they did submit cheerfully and with patience to all the will of the Lord.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"154445466\" id=\"p34\">Those covenant keepers received relief in the form of comfort, increased patience and cheerfulness, an ease in their burdens so that they felt light, and ultimately deliverance.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"154445476\" id=\"p35\">Now let\u2019s return to our own metaphorical backpack.<\/p>\n<p data-aid=\"154445486\" id=\"p36\">Repentance, through the Atonement of Jesus Christ, is what relieves us of the weight of the rocks of sin. And by this exquisite gift, God\u2019s mercy relieves us from the heavy and otherwise insurmountable demands of justice.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"154445496\" id=\"p37\">The Atonement of Jesus Christ also makes it possible for us to receive strength to forgive, which allows us to unload the weight we carry because of mistreatment by others.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"154445510\" id=\"p38\">So how does the Savior relieve us of the burdens of living in a fallen world with mortal bodies subject to grief and pain?<\/p>\n<p data-aid=\"154445518\" id=\"p39\">Often, He performs that kind of relief through us! As covenant members of His Church, we promise \u201cto mourn with those that mourn\u201d and \u201ccomfort those that stand in need of comfort.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> Because we are \u201ccome into the fold of God\u201d and are \u201ccalled his people,\u201d we \u201care willing to bear one another\u2019s burdens, that they may be light.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"154445526\" id=\"p40\">Our covenantal blessing is to partner with Jesus Christ in providing relief, both temporal and spiritual, to all of God\u2019s children. We are a conduit through which He provides relief.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"154445534\" id=\"p41\">And so, like the friends of the man with palsy, we \u201csuccor the weak, lift up the hands which hang down, and strengthen the feeble knees.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> We \u201cbear \u2026 one another\u2019s burdens, and so fulfil the law of Christ.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> As we do, we come to know Him, become like Him, and find His relief.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"154445542\" id=\"p42\">What is relief?<\/p>\n<p data-aid=\"154445549\" id=\"p43\">It is the removal or lightening of something painful, troubling, or burdensome, or the strength to endure it. It refers to a person who takes the place of another. It is the legal correction of a wrong.<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> The Anglo-French word comes from Old French, the word <em>relever<\/em>, or \u201cto raise up,\u201d and from the Latin <em>relevare<\/em>, or \u201craise again.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"154445557\" id=\"p44\">Brothers and sisters, Jesus Christ is relief. I testify that He did rise again on the third day and, having fulfilled the loving and infinite Atonement, stands with open arms, offering to us the opportunity to rise again, be saved, <em>and<\/em> be exalted and become like Him. The relief He offers us is everlasting.<\/p>\n<p data-aid=\"154445565\" id=\"p45\">Like the women visited by the angel on that first Easter morning, I wish to \u201cgo quickly\u201d and with \u201cgreat joy\u201d to bring the word that He is risen.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> In the name of our Savior, Jesus Christ, amen. <\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154445571\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154445580\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.20?lang=eng#p20\">Luke 5:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154445587\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2.11?lang=eng#p11\">Mark 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154445595\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.25?lang=eng#p25\">Luke 5:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154445601\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.26?lang=eng#p26\">Luke 5:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154445607\" id=\"note5_p1\">See D. Todd Christofferson, \u201c<a href=\"https://speeches.byu.edu/talks/d-todd-christofferson/the-first-commandment-first/\">The First Commandment First<\/a>\u201d (Brigham Young University devotional, Mar. 22, 2022), 2, speeches.byu.edu: \u201cOur love of God elevates our ability to love others more fully and perfectly because we in essence <em>partner<\/em> with God in the care of His children\u201d (emphasis added).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154445611\" id=\"note6_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 95\u201398.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154445615\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=15#p15\">Overcome the World and Find Rest<\/a>,\u201d 96.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154445620\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154445625\" id=\"note9_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=28#p28\">Overcome the World and Find Rest<\/a>,\u201d 97.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154445629\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=eng&amp;para=3#p3\">We Can Do Better and Be Better<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 67.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154445634\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.13?lang=eng#p13\">Philippians 4:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154445639\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.9?lang=eng#p9\">Mosiah 24:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154445644\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.12?lang=eng#p12\">Mosiah 24:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154445649\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13\">Mosiah 24:13\u201314<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154445654\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.15?lang=eng#p15\">Mosiah 24:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154445658\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13\">Mosiah 24:13\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154445664\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.14-16?lang=eng#p14\">Alma 34:14\u201316<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.8-9?lang=eng#p8\">Mosiah 15:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154445668\" id=\"note18_p1\">See Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2018-12-0040-president-russell-m-nelson?lang=eng\">Four Gifts That Jesus Christ Offers to You<\/a>\u201d (First Presidency Christmas devotional, Dec. 2, 2018), broadcasts.ChurchofJesusChrist.org: \u201cA second gift the Savior offers you is the ability to <em>forgive<\/em>. Through His infinite Atonement, you can forgive those who have hurt you and who may never accept responsibility for their cruelty to you.<\/p>\n<p data-aid=\"154445672\" id=\"note18_p2\">\u201cIt is usually easy to forgive one who sincerely and humbly seeks your forgiveness. But the Savior will grant you the ability to forgive anyone who has mistreated you in any way. Then their hurtful acts can no longer canker your soul.\u201d<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154445675\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=eng#p9\">Mosiah 18:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154445677\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8?lang=eng#p8\">Mosiah 18:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154445679\" id=\"note21_p1\">Relief Society, the women\u2019s organization of The Church of Jesus Christ of Latter-day Saints, was organized by the Prophet Joseph Smith on March 17, 1842, as \u201ca divinely established appendage to the priesthood\u201d (Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng&amp;para=14#p14\">The Keys and Authority of the Priesthood<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2014, 51). In selecting a name for the new organization, the word <i>benevolent<\/i> was considered, but <i>relief<\/i> was favored by the women. Emma Smith, the organization\u2019s first president, and Eliza R. Snow, its secretary who later served as the second president of the Relief Society, explained that <i>benevolent<\/i> was a popular word\u2014popular with the institutions of the day\u2014but that popular \u201cshould not be our guide.\u201d Emma expounded that the word <i>relief<\/i> better described their mission. \u201cWe are going to do something extraordinary \u2026 we expect extraordinary occasions and pressing calls\u201d (Emma Smith, in Nauvoo Relief Society Minute Book, Mar. 17, 1842, 12, josephsmithpapers.org). Indeed, the mandate of Relief Society has always been to provide temporal and spiritual relief. Joseph Smith taught, \u201cThe Society is not only to relieve the poor, but to save souls\u201d (in Nauvoo Relief Society Minute Book, June 9, 1842, 63, josephsmithpapers.org). And so the Relief Society continues to provide relief: \u201cRelief of poverty, relief of illness; relief of doubt, relief of ignorance\u2014relief of all that hinders the joy and progress of woman\u201d (John A. Widtsoe, <cite>Evidences and Reconciliations<\/cite>, arr. G. Homer Durham, 3 vols. in 1 [1960], 308).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154445681\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81.5?lang=eng#p5\">Doctrine and Covenants 81:5<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12.12?lang=eng#p12\">Hebrews 12:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154445683\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/6.2?lang=eng#p2\">Galatians 6:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154445685\" id=\"note24_p1\">In one of the early meetings of the newly organized Relief Society, Lucy Mack Smith, the mother of the Prophet Joseph Smith, said, \u201cWe must cherish one another, watch over one another, comfort one another and gain instruction, that we may all sit down in heaven together.\u201d Historian Jennifer Reeder wrote of this, \u201cIn a united cause to provide relief, the women partnered with Christ, and in so doing, they found His relief\u201d (<cite>First: The Life and Faith of Emma Smith<\/cite> [2021], 130).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154445687\" id=\"note25_p1\">See <cite>Merriam-Webster.com Dictionary<\/cite>, \u201crelief.\u201d<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154445689\" id=\"note26_p1\">See Dictionary.com, \u201crelief.\u201d<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154445691\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.1-8?lang=eng#p1\">Matthew 28:1\u20138<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154445120",
+        "id": "note4",
+        "text": "<p data-aid=\"154445601\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.26?lang=eng#p26\">Luke 5:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/5.26?lang=eng#p26",
+          "text": "Luke 5:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154445156",
+        "id": "note5",
+        "text": "<p data-aid=\"154445607\" id=\"note5_p1\">See D. Todd Christofferson, \u201c<a href=\"https://speeches.byu.edu/talks/d-todd-christofferson/the-first-commandment-first/\">The First Commandment First<\/a>\u201d (Brigham Young University devotional, Mar. 22, 2022), 2, speeches.byu.edu: \u201cOur love of God elevates our ability to love others more fully and perfectly because we in essence <em>partner<\/em> with God in the care of His children\u201d (emphasis added).<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/d-todd-christofferson/the-first-commandment-first/",
+          "text": "The First Commandment First"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154445112",
+        "id": "note2",
+        "text": "<p data-aid=\"154445587\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2.11?lang=eng#p11\">Mark 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/2.11?lang=eng#p11",
+          "text": "Mark 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154445112",
+        "id": "note3",
+        "text": "<p data-aid=\"154445595\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.25?lang=eng#p25\">Luke 5:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/5.25?lang=eng#p25",
+          "text": "Luke 5:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154445324",
+        "id": "note8",
+        "text": "<p data-aid=\"154445620\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
+          "text": "Matthew 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154445335",
+        "id": "note9",
+        "text": "<p data-aid=\"154445625\" id=\"note9_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=28#p28\">Overcome the World and Find Rest<\/a>,\u201d 97.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;para=28#p28",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154445163",
+        "id": "note6",
+        "text": "<p data-aid=\"154445611\" id=\"note6_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 95\u201398.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154445163",
+        "id": "note7",
+        "text": "<p data-aid=\"154445615\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;para=15#p15\">Overcome the World and Find Rest<\/a>,\u201d 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;para=15#p15",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154445466",
+        "id": "note16",
+        "text": "<p data-aid=\"154445658\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13\">Mosiah 24:13\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13",
+          "text": "Mosiah 24:13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154445456",
+        "id": "note15",
+        "text": "<p data-aid=\"154445654\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.15?lang=eng#p15\">Mosiah 24:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.15?lang=eng#p15",
+          "text": "Mosiah 24:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154445446",
+        "id": "note14",
+        "text": "<p data-aid=\"154445649\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13\">Mosiah 24:13\u201314<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.13-14?lang=eng#p13",
+          "text": "Mosiah 24:13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154445426",
+        "id": "note13",
+        "text": "<p data-aid=\"154445644\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.12?lang=eng#p12\">Mosiah 24:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.12?lang=eng#p12",
+          "text": "Mosiah 24:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154445426",
+        "id": "note12",
+        "text": "<p data-aid=\"154445639\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24.9?lang=eng#p9\">Mosiah 24:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/24.9?lang=eng#p9",
+          "text": "Mosiah 24:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154445403",
+        "id": "note11",
+        "text": "<p data-aid=\"154445634\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.13?lang=eng#p13\">Philippians 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/philip/4.13?lang=eng#p13",
+          "text": "Philippians 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154445356",
+        "id": "note10",
+        "text": "<p data-aid=\"154445629\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=eng&amp;para=3#p3\">We Can Do Better and Be Better<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 67.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/36nelson?lang=eng&amp;para=3#p3",
+          "text": "We Can Do Better and Be Better",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154445518",
+        "id": "note19",
+        "text": "<p data-aid=\"154445675\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=eng#p9\">Mosiah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.9?lang=eng#p9",
+          "text": "Mosiah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154445496",
+        "id": "note18",
+        "text": "<p data-aid=\"154445668\" id=\"note18_p1\">See Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2018-12-0040-president-russell-m-nelson?lang=eng\">Four Gifts That Jesus Christ Offers to You<\/a>\u201d (First Presidency Christmas devotional, Dec. 2, 2018), broadcasts.ChurchofJesusChrist.org: \u201cA second gift the Savior offers you is the ability to <em>forgive<\/em>. Through His infinite Atonement, you can forgive those who have hurt you and who may never accept responsibility for their cruelty to you.<\/p>\n<p data-aid=\"154445672\" id=\"note18_p2\">\u201cIt is usually easy to forgive one who sincerely and humbly seeks your forgiveness. But the Savior will grant you the ability to forgive anyone who has mistreated you in any way. Then their hurtful acts can no longer canker your soul.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/media/video/2018-12-0040-president-russell-m-nelson?lang=eng",
+          "text": "Four Gifts That Jesus Christ Offers to You"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154445486",
+        "id": "note17",
+        "text": "<p data-aid=\"154445664\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.14-16?lang=eng#p14\">Alma 34:14\u201316<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.8-9?lang=eng#p8\">Mosiah 15:8\u20139<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34.14-16?lang=eng#p14",
+            "text": "Alma 34:14\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/15.8-9?lang=eng#p8",
+            "text": "Mosiah 15:8\u20139",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154445565",
+        "id": "note27",
+        "text": "<p data-aid=\"154445691\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.1-8?lang=eng#p1\">Matthew 28:1\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/28.1-8?lang=eng#p1",
+          "text": "Matthew 28:1\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154445549",
+        "id": "note26",
+        "text": "<p data-aid=\"154445689\" id=\"note26_p1\">See Dictionary.com, \u201crelief.\u201d<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154445549",
+        "id": "note25",
+        "text": "<p data-aid=\"154445687\" id=\"note25_p1\">See <cite>Merriam-Webster.com Dictionary<\/cite>, \u201crelief.\u201d<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154445534",
+        "id": "note24",
+        "text": "<p data-aid=\"154445685\" id=\"note24_p1\">In one of the early meetings of the newly organized Relief Society, Lucy Mack Smith, the mother of the Prophet Joseph Smith, said, \u201cWe must cherish one another, watch over one another, comfort one another and gain instruction, that we may all sit down in heaven together.\u201d Historian Jennifer Reeder wrote of this, \u201cIn a united cause to provide relief, the women partnered with Christ, and in so doing, they found His relief\u201d (<cite>First: The Life and Faith of Emma Smith<\/cite> [2021], 130).<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154445534",
+        "id": "note23",
+        "text": "<p data-aid=\"154445683\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/6.2?lang=eng#p2\">Galatians 6:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/gal/6.2?lang=eng#p2",
+          "text": "Galatians 6:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154445534",
+        "id": "note22",
+        "text": "<p data-aid=\"154445681\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81.5?lang=eng#p5\">Doctrine and Covenants 81:5<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12.12?lang=eng#p12\">Hebrews 12:12<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/81.5?lang=eng#p5",
+            "text": "Doctrine and Covenants 81:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/heb/12.12?lang=eng#p12",
+            "text": "Hebrews 12:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154445526",
+        "id": "note21",
+        "text": "<p data-aid=\"154445679\" id=\"note21_p1\">Relief Society, the women\u2019s organization of The Church of Jesus Christ of Latter-day Saints, was organized by the Prophet Joseph Smith on March 17, 1842, as \u201ca divinely established appendage to the priesthood\u201d (Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng&amp;para=14#p14\">The Keys and Authority of the Priesthood<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2014, 51). In selecting a name for the new organization, the word <i>benevolent<\/i> was considered, but <i>relief<\/i> was favored by the women. Emma Smith, the organization\u2019s first president, and Eliza R. Snow, its secretary who later served as the second president of the Relief Society, explained that <i>benevolent<\/i> was a popular word\u2014popular with the institutions of the day\u2014but that popular \u201cshould not be our guide.\u201d Emma expounded that the word <i>relief<\/i> better described their mission. \u201cWe are going to do something extraordinary \u2026 we expect extraordinary occasions and pressing calls\u201d (Emma Smith, in Nauvoo Relief Society Minute Book, Mar. 17, 1842, 12, josephsmithpapers.org). Indeed, the mandate of Relief Society has always been to provide temporal and spiritual relief. Joseph Smith taught, \u201cThe Society is not only to relieve the poor, but to save souls\u201d (in Nauvoo Relief Society Minute Book, June 9, 1842, 63, josephsmithpapers.org). And so the Relief Society continues to provide relief: \u201cRelief of poverty, relief of illness; relief of doubt, relief of ignorance\u2014relief of all that hinders the joy and progress of woman\u201d (John A. Widtsoe, <cite>Evidences and Reconciliations<\/cite>, arr. G. Homer Durham, 3 vols. in 1 [1960], 308).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng&amp;para=14#p14",
+          "text": "The Keys and Authority of the Priesthood",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154445518",
+        "id": "note20",
+        "text": "<p data-aid=\"154445677\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8?lang=eng#p8\">Mosiah 18:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.8?lang=eng#p8",
+          "text": "Mosiah 18:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154445112",
+        "id": "note1",
+        "text": "<p data-aid=\"154445580\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5.20?lang=eng#p20\">Luke 5:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/5.20?lang=eng#p20",
+          "text": "Luke 5:20",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

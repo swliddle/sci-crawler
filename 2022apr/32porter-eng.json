@@ -1,0 +1,549 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/32porter?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "a9362dd602ea4f71b9611a58daff4546",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/32porter",
+      "data-aid": "149805230",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "4",
+      "data-orig-id": "a9362dd602ea4f71b9611a58daff4546"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/9a/8c/9a8c4ef3c5019d44ebc32e2854d5f1ed2b676311/9a8c4ef3c5019d44ebc32e2854d5f1ed2b676311.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-3020-susan-h-porter-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Lessons at the Well",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149805230",
+      {"key": "149805230"}
+    ],
+    [
+      "149805237",
+      {"key": "149805237"}
+    ],
+    [
+      "149805244",
+      {"key": "149805244"}
+    ],
+    [
+      "149808254",
+      {"key": "149808254"}
+    ],
+    [
+      "149808263",
+      {"key": "149808263"}
+    ],
+    [
+      "149808271",
+      {"key": "149808271"}
+    ],
+    [
+      "149808281",
+      {"key": "149808281"}
+    ],
+    [
+      "149808290",
+      {"key": "149808290"}
+    ],
+    [
+      "149808300",
+      {"key": "149808300"}
+    ],
+    [
+      "149808310",
+      {"key": "149808310"}
+    ],
+    [
+      "149808319",
+      {"key": "149808319"}
+    ],
+    [
+      "149808329",
+      {"key": "149808329"}
+    ],
+    [
+      "149808340",
+      {"key": "149808340"}
+    ],
+    [
+      "149808350",
+      {"key": "149808350"}
+    ],
+    [
+      "149808360",
+      {"key": "149808360"}
+    ],
+    [
+      "149808370",
+      {"key": "149808370"}
+    ],
+    [
+      "149808380",
+      {"key": "149808380"}
+    ],
+    [
+      "149808391",
+      {"key": "149808391"}
+    ],
+    [
+      "149808401",
+      {"key": "149808401"}
+    ],
+    [
+      "149808411",
+      {"key": "149808411"}
+    ],
+    [
+      "149808421",
+      {"key": "149808421"}
+    ],
+    [
+      "149808432",
+      {"key": "149808432"}
+    ],
+    [
+      "149808443",
+      {"key": "149808443"}
+    ],
+    [
+      "149808454",
+      {"key": "149808454"}
+    ],
+    [
+      "149808466",
+      {"key": "149808466"}
+    ],
+    [
+      "149808478",
+      {"key": "149808478"}
+    ],
+    [
+      "149808490",
+      {"key": "149808490"}
+    ],
+    [
+      "149808502",
+      {"key": "149808502"}
+    ],
+    [
+      "149808513",
+      {"key": "149808513"}
+    ],
+    [
+      "149808526",
+      {"key": "149808526"}
+    ],
+    [
+      "149808539",
+      {"key": "149808539"}
+    ],
+    [
+      "149808551",
+      {"key": "149808551"}
+    ],
+    [
+      "149808563",
+      {"key": "149808563"}
+    ],
+    [
+      "149808575",
+      {"key": "149808575"}
+    ],
+    [
+      "149808587",
+      {"key": "149808587"}
+    ],
+    [
+      "149808599",
+      {"key": "149808599"}
+    ],
+    [
+      "149808611",
+      {"key": "149808611"}
+    ],
+    [
+      "149808623",
+      {"key": "149808623"}
+    ],
+    [
+      "149808635",
+      {"key": "149808635"}
+    ],
+    [
+      "149808649",
+      {"key": "149808649"}
+    ],
+    [
+      "149808661",
+      {"key": "149808661"}
+    ],
+    [
+      "149808673",
+      {"key": "149808673"}
+    ],
+    [
+      "149808685",
+      {"key": "149808685"}
+    ],
+    [
+      "149808696",
+      {"key": "149808696"}
+    ],
+    [
+      "149808707",
+      {"key": "149808707"}
+    ],
+    [
+      "149808717",
+      {"key": "149808717"}
+    ],
+    [
+      "149808727",
+      {"key": "149808727"}
+    ],
+    [
+      "149808736",
+      {"key": "149808736"}
+    ],
+    [
+      "149808745",
+      {"key": "149808745"}
+    ],
+    [
+      "149808754",
+      {"key": "149808754"}
+    ],
+    [
+      "149808763",
+      {"key": "149808763"}
+    ],
+    [
+      "149808772",
+      {"key": "149808772"}
+    ],
+    [
+      "149808781",
+      {"key": "149808781"}
+    ],
+    [
+      "149808790",
+      {"key": "149808790"}
+    ],
+    [
+      "149808799",
+      {"key": "149808799"}
+    ],
+    [
+      "149808807",
+      {"key": "149808807"}
+    ],
+    [
+      "149808814",
+      {"key": "149808814"}
+    ],
+    [
+      "149808821",
+      {"key": "149808821"}
+    ],
+    [
+      "149808828",
+      {"key": "149808828"}
+    ],
+    [
+      "149808835",
+      {"key": "149808835"}
+    ],
+    [
+      "149808842",
+      {"key": "149808842"}
+    ],
+    [
+      "149808849",
+      {"key": "149808849"}
+    ],
+    [
+      "149808856",
+      {"key": "149808856"}
+    ],
+    [
+      "149808863",
+      {"key": "149808863"}
+    ],
+    [
+      "149808870",
+      {"key": "149808870"}
+    ],
+    [
+      "149808876",
+      {"key": "149808876"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/32porter",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Sister Porter shares three lessons she is learning and invites the women of the Church to follow the Savior\u2019s teachings to be as salt, light, and leaven.",
+          "title": "Lessons at the Well"
+        },
+        "pageSocial": {
+          "description": "Sister Porter shares three lessons she is learning and invites the women of the Church to follow the Savior\u2019s teachings to be as salt, light, and leaven.",
+          "title": "Lessons at the Well"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/9a/8c/9a8c4ef3c5019d44ebc32e2854d5f1ed2b676311/9a8c4ef3c5019d44ebc32e2854d5f1ed2b676311.image/jpeg\" data-video-title=\"Lessons at the Well\" data-video-description=\"Sister Porter shares three lessons she is learning and invites the women of the Church to follow the Savior\u2019s teachings to be as salt, light, and leaven.\" data-video-id=\"6302723233001\" data-ip=\"Download and Streaming                            \" data-duration=\"688723\" data-assetId=\"fcb5758fb2e811ecb90eeeeeac1e701116f28ff6\" data-ref-id=\"1120D3AAE480EAEFA173DF609922903DC828598A\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302723233001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-3020-susan-h-porter-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"63604145\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-3020-susan-h-porter-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"164968286\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-3020-susan-h-porter-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"226301589\"/><\/video><h1 data-aid=\"149805237\" id=\"title1\">Lessons at the Well<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149805244\" id=\"author1\">By Susan H. Porter<\/p>\n<p class=\"author-role\" data-aid=\"149808254\" id=\"author2\">First Counselor in the Primary General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149808263\" id=\"kicker1\">We can turn to the Savior for the strength and healing that will enable us to do all that we were sent here to do.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149808271\" id=\"p1\">What a joy it is to be gathered with each of you in this women\u2019s session of general conference!<\/p>\n<p data-aid=\"149808281\" id=\"p2\">I grew up in western New York and attended a small branch of the Church about 20 miles (32 km) from our home. As I sat in Sunday School class in the basement of our old rented chapel with only my friend Patti Jo, I never could have imagined being part of a global sisterhood of millions of women.<\/p>\n<p data-aid=\"149808290\" id=\"p3\">Five years ago my husband, Bruce, became seriously ill when we were serving with the consecrated Saints in the Europe East Area. We returned home, and he passed away only a few weeks later. My life changed overnight. I was grieving and felt weak and vulnerable. I pled with the Lord to direct my path: \u201cWhat would Thou have me do?\u201d<\/p>\n<p data-aid=\"149808300\" id=\"p4\">A few weeks later, I was going through my mail when a small picture in a catalog caught my eye. As I looked closer, I realized it was an artist\u2019s rendition of the Samaritan woman with Jesus at the well. At that moment the Spirit spoke clearly to me: \u201c<em>That<\/em> is what you are supposed to do.\u201d A loving Heavenly Father was inviting me to come to the Savior and learn.<\/p>\n<p data-aid=\"149808310\" id=\"p5\">I would like to share with you three lessons I am learning as I continue to drink from His well of \u201cliving water.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<section>\n<header>\n<h2 data-aid=\"149808319\" id=\"title2\">First: Our Past and Present Circumstances Do Not Determine Our Future<\/h2>\n<\/header>\n<p data-aid=\"149808329\" id=\"p6\">Sisters, I know that many of you feel as I did, unsure how to face difficult challenges and loss\u2014loss because your life is not unfolding in the way you had hoped for, prayed for, and planned for.<\/p>\n<p data-aid=\"149808340\" id=\"p7\">No matter our circumstances, our lives are sacred and have meaning and purpose. Each of us is a beloved daughter of God, born with divinity in our souls.<\/p>\n<p data-aid=\"149808350\" id=\"p8\">Our Savior, Jesus Christ, through His atoning sacrifice, made it possible for us to be cleansed and healed, enabling us to fulfill our purpose on earth regardless of decisions of family members, our marital status, physical or mental health, or any other situation.<\/p>\n<p data-aid=\"149808360\" id=\"p9\">Consider the woman at the well. What was her life like? Jesus perceived that she had had five husbands and was currently not married to the man she was living with. And yet, despite her life\u2019s difficulties, one of the Savior\u2019s first public declarations that He was the Messiah was to her. He said, \u201cI that speak unto thee am he.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"149808370\" id=\"p10\">She became a powerful witness, declaring to those in her city that Jesus was the Christ. \u201cAnd many of the Samaritans of that city believed on him for the saying of the woman.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"149808380\" id=\"p11\">Her past and present circumstances did not determine her future. Like her, we can choose to turn to the Savior today for the strength and healing that will enable us to fulfill <em>all<\/em> that we were sent here to do.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149808391\" id=\"title3\">Second: The Power Is in Us<\/h2>\n<\/header>\n<p data-aid=\"149808401\" id=\"p12\">In a familiar verse in the Doctrine and Covenants, the Lord encourages women and men to be \u201canxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness; <em>for the power is in them<\/em>.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"149808411\" id=\"p14\">Sisters, the power is in <em>us<\/em> to bring to pass much righteousness!<\/p>\n<p data-aid=\"149808421\" id=\"p15\">President Russell M. Nelson testified, \u201cEvery woman and every man who makes covenants with God and keeps those covenants, and who participates worthily in priesthood ordinances, has direct access to the power of God.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"149808432\" id=\"p16\">I have come to know that as we strive to honor sacred covenants made at baptism and in holy temples, the Lord will bless us \u201cwith <em>His<\/em> healing, strengthening power\u201d and with \u201cspiritual insights and awakenings [we\u2019ve] never had before.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149808443\" id=\"title4\">Third: \u201cOut of Small Things Proceedeth That Which Is Great\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"149808454\" id=\"p17\">In the Sermon on the Mount, Jesus taught His disciples, \u201cYe are the <em>salt<\/em> of the earth\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> and \u201cYe are the <em>light<\/em> of the world.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> Later He compared the growth of the kingdom of heaven to leaven, \u201cwhich a woman took, and hid in three measures of meal, till the whole was leavened.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"149808466\" id=\"p35\">Salt<\/p>\n<\/li>\n<li>\n<p data-aid=\"149808478\" id=\"p36\">Leaven<\/p>\n<\/li>\n<li>\n<p data-aid=\"149808490\" id=\"p37\">Light<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"149808502\" id=\"p19\">Even in very small amounts, each affects everything around it. The Savior invites us to use His power to be as <em>salt<\/em>, <em>leaven<\/em>, and <em>light<\/em>.<\/p>\n<section>\n<header>\n<h3 data-aid=\"149808513\" id=\"title5\">Salt<\/h3>\n<\/header>\n<p data-aid=\"149808526\" id=\"p20\">It is surprising how much difference a sprinkling of salt makes in the flavor of what we eat. And yet salt is one of the least expensive and simplest ingredients.<\/p>\n<p data-aid=\"149808539\" id=\"p21\">In the book of 2 Kings, we read of \u201ca little maid\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> who was captured by the Syrians and became a servant to the wife of Naaman, captain of the Syrian army. She was <em>as salt<\/em>; she was young, of no worldly importance, and her life as a slave in a foreign country was clearly not what she had hoped for.<\/p>\n<p data-aid=\"149808551\" id=\"p38\">However, she spoke two sentences with the power of God, testifying to Naaman\u2019s wife: \u201cWould God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"149808563\" id=\"p23\">Her words of faith were relayed to Naaman, who acted on her words, allowing him to be healed both physically and spiritually.<\/p>\n<p data-aid=\"149808575\" id=\"p24\">We often focus on the servants who convinced Naaman to bathe in the river Jordan, as the prophet Elisha directed, but Naaman would not have even been at Elisha\u2019s door without \u201ca little maid.\u201d<\/p>\n<p data-aid=\"149808587\" id=\"p25\">You may be young or feel of no importance, but you can be <em>as salt<\/em> in your family, at school, and in your community.<\/p>\n<\/section>\n<section>\n<header>\n<h3 data-aid=\"149808599\" id=\"title6\">Leaven<\/h3>\n<\/header>\n<p data-aid=\"149808611\" id=\"p26\">Have you ever eaten bread without leaven? How would you describe it? Dense? Heavy? Hard? With only a small amount of leaven, bread rises, expanding to become lighter and softer.<\/p>\n<p data-aid=\"149808623\" id=\"p27\">When we invite the power of God into our lives, we can replace the \u201cspirit of heaviness\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> with inspired perspectives that lift others and make room for hearts to be healed.<\/p>\n<p data-aid=\"149808635\" id=\"p28\">Recently a friend of mine lay in bed on Christmas morning, overcome with sorrow. Her children begged her to get up; however, she was filled with the pain of her pending divorce. Lying in bed sobbing, she poured out her soul in prayer to her Heavenly Father, telling Him of her despair. <\/p>\n<p data-aid=\"149808649\" id=\"p39\">As she concluded her prayer, the Spirit whispered to her that God knew her pain. She was filled with His compassion for her. This sacred experience validated her emotions and gave her hope that she was not grieving alone. She got up, went outside, and built a snowman with her children, replacing the heaviness of the morning with laughter and joy.<\/p>\n<\/section>\n<section>\n<header>\n<h3 data-aid=\"149808661\" id=\"title7\">Light<\/h3>\n<\/header>\n<p data-aid=\"149808673\" id=\"p29\">How much light does it take to pierce the darkness in a room? One small ray. And that ray of light in a dark place can emanate from the power of God in you.<\/p>\n<p data-aid=\"149808685\" id=\"p30\">Even though you may feel alone as the storms of life are raging, you can shine a light in the darkness of misunderstanding, confusion, and unbelief. Your light of faith in Christ can be steady and sure, leading those around you to safety and peace.<\/p>\n<\/section>\n<p data-aid=\"149808696\" id=\"p31\">Sisters, hearts can be changed and lives blessed as we offer a pinch of salt, a spoonful of leaven, and a ray of light.<\/p>\n<p data-aid=\"149808707\" id=\"p32\">I testify that the <em>Savior<\/em> is the salt in our lives, inviting <em>us<\/em> to taste of His joy and love.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> It is <em>He<\/em> who is the leaven when our lives are hard, bringing <em>us<\/em> hope<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> and lifting our burdens<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> through His matchless power and redeeming love.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> <em>He<\/em> is our light,<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> illuminating <em>our<\/em> path back home.<\/p>\n<p data-aid=\"149808717\" id=\"p34\">I pray that we can come to the Savior, like the woman at the well, and drink of His living water. With the people of Samaria, we can then declare, \u201cNow we believe, \u2026 for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149808727\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149808736\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.10?lang=eng#p10\">John 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149808745\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.26?lang=eng#p26\">John 4:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149808754\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.39?lang=eng#p39\">John 4:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149808763\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.27-28?lang=eng#p27\">Doctrine and Covenants 58:27\u201328<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149808772\" id=\"note5_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng&amp;para=7#p7\">Spiritual Treasures<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 77. \u201cEvery time you worthily serve and worship in the temple, you leave armed with God\u2019s power and with His angels having \u2018charge over\u2019 you [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.22?lang=eng#p22\">Doctrine and Covenants 109:22<\/a>]\u201d (page 78).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149808781\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;para=12#p12\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 94, 95.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149808790\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.33?lang=eng#p33\">Doctrine and Covenants 64:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149808799\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.13?lang=eng#p13\">Matthew 5:13<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149808807\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.14?lang=eng#p14\">Matthew 5:14<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149808814\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.33?lang=eng#p33\">Matthew 13:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149808821\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.2?lang=eng#p2\">2 Kings 5:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149808828\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.3?lang=eng#p3\">2 Kings 5:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149808835\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61.3?lang=eng#p3\">Isaiah 61:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149808842\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.24-25?lang=eng#p24\">Alma 36:24\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149808849\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.4?lang=eng#p4\">Ether 12:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149808856\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149808863\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.9?lang=eng#p9\">Alma 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149808870\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.1?lang=eng#p1\">Psalm 27:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.12?lang=eng#p12\">John 8:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.50?lang=eng#p50\">Doctrine and Covenants 88:50<\/a>; see also Sharon Eubank, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/42eubank?lang=eng\">Christ: The Light That Shines in Darkness<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 73\u201376.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149808876\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.42?lang=eng#p42\">John 4:42<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149808401",
+        "id": "note4",
+        "text": "<p data-aid=\"149808763\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58.27-28?lang=eng#p27\">Doctrine and Covenants 58:27\u201328<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/58.27-28?lang=eng#p27",
+          "text": "Doctrine and Covenants 58:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149808421",
+        "id": "note5",
+        "text": "<p data-aid=\"149808772\" id=\"note5_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng&amp;para=7#p7\">Spiritual Treasures<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 77. \u201cEvery time you worthily serve and worship in the temple, you leave armed with God\u2019s power and with His angels having \u2018charge over\u2019 you [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.22?lang=eng#p22\">Doctrine and Covenants 109:22<\/a>]\u201d (page 78).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2019/10/36nelson?lang=eng&amp;para=7#p7",
+            "text": "Spiritual Treasures",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109.22?lang=eng#p22",
+            "text": "Doctrine and Covenants 109:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149808360",
+        "id": "note2",
+        "text": "<p data-aid=\"149808745\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.26?lang=eng#p26\">John 4:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.26?lang=eng#p26",
+          "text": "John 4:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149808370",
+        "id": "note3",
+        "text": "<p data-aid=\"149808754\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.39?lang=eng#p39\">John 4:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.39?lang=eng#p39",
+          "text": "John 4:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149808454",
+        "id": "note8",
+        "text": "<p data-aid=\"149808799\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.13?lang=eng#p13\">Matthew 5:13<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.13?lang=eng#p13",
+          "text": "Matthew 5:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149808454",
+        "id": "note9",
+        "text": "<p data-aid=\"149808807\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.14?lang=eng#p14\">Matthew 5:14<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.14?lang=eng#p14",
+          "text": "Matthew 5:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149808432",
+        "id": "note6",
+        "text": "<p data-aid=\"149808781\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;para=12#p12\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 94, 95.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=eng&amp;para=12#p12",
+          "text": "The Temple and Your Spiritual Foundation",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149808443",
+        "id": "note7",
+        "text": "<p data-aid=\"149808790\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.33?lang=eng#p33\">Doctrine and Covenants 64:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/64.33?lang=eng#p33",
+          "text": "Doctrine and Covenants 64:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149808707",
+        "id": "note16",
+        "text": "<p data-aid=\"149808856\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
+          "text": "Matthew 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149808707",
+        "id": "note15",
+        "text": "<p data-aid=\"149808849\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.4?lang=eng#p4\">Ether 12:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12.4?lang=eng#p4",
+          "text": "Ether 12:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149808707",
+        "id": "note14",
+        "text": "<p data-aid=\"149808842\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.24-25?lang=eng#p24\">Alma 36:24\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/36.24-25?lang=eng#p24",
+          "text": "Alma 36:24\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149808623",
+        "id": "note13",
+        "text": "<p data-aid=\"149808835\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61.3?lang=eng#p3\">Isaiah 61:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/61.3?lang=eng#p3",
+          "text": "Isaiah 61:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149808551",
+        "id": "note12",
+        "text": "<p data-aid=\"149808828\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.3?lang=eng#p3\">2 Kings 5:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/5.3?lang=eng#p3",
+          "text": "2 Kings 5:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149808539",
+        "id": "note11",
+        "text": "<p data-aid=\"149808821\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5.2?lang=eng#p2\">2 Kings 5:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/5.2?lang=eng#p2",
+          "text": "2 Kings 5:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149808454",
+        "id": "note10",
+        "text": "<p data-aid=\"149808814\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.33?lang=eng#p33\">Matthew 13:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.33?lang=eng#p33",
+          "text": "Matthew 13:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149808310",
+        "id": "note1",
+        "text": "<p data-aid=\"149808736\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.10?lang=eng#p10\">John 4:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.10?lang=eng#p10",
+          "text": "John 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149808717",
+        "id": "note19",
+        "text": "<p data-aid=\"149808876\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.42?lang=eng#p42\">John 4:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.42?lang=eng#p42",
+          "text": "John 4:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149808707",
+        "id": "note18",
+        "text": "<p data-aid=\"149808870\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.1?lang=eng#p1\">Psalm 27:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.12?lang=eng#p12\">John 8:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.50?lang=eng#p50\">Doctrine and Covenants 88:50<\/a>; see also Sharon Eubank, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/42eubank?lang=eng\">Christ: The Light That Shines in Darkness<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 73\u201376.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/27.1?lang=eng#p1",
+            "text": "Psalm 27:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/8.12?lang=eng#p12",
+            "text": "John 8:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.50?lang=eng#p50",
+            "text": "Doctrine and Covenants 88:50",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2019/04/42eubank?lang=eng",
+            "text": "Christ: The Light That Shines in Darkness",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149808707",
+        "id": "note17",
+        "text": "<p data-aid=\"149808863\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.9?lang=eng#p9\">Alma 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.9?lang=eng#p9",
+          "text": "Alma 5:9",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

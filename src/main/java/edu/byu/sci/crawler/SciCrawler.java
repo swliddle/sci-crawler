@@ -37,7 +37,8 @@ public class SciCrawler {
     /*
      * NEEDSWORK:
      * - Speaker info needs updating for Jr./Sr. etc. -- update database?
-     * - Need to rewrite visible text of chapter links we've expanded (with verse range for chapter).
+     * - Need to rewrite visible text of chapter links we've expanded (with verse
+     * range for chapter).
      * - Footnotes not getting inlined after 12 or 15 or so.
      */
 
@@ -46,25 +47,25 @@ public class SciCrawler {
     public static final String NDASH = "–";
     public static final String PATH_SEPARATOR = "/";
     public static final String URL_SCRIPTURE_PATH = "/study/scriptures/";
-    
+
     private static final String CLASS_PARSER = "\\s+class=\"?";
     private static final String END_CLASS_PARSER = "[^\">]*\"?\\s*";
     private static final String END_TAG_PARSER = "[^>]*>";
     private static final String FOOTNOTES = "footnotes";
-    
+
     private static final int SCRIPTURE_REFERENCE_HREF = 1;
     // private static final int SCRIPTURE_REFERENCE_BOOK = 2;
     // private static final int SCRIPTURE_REFERENCE_CHAPTER = 3;
     // private static final int SCRIPTURE_REFERENCE_VERSES = 4;
     // private static final int SCRIPTURE_REFERENCE_TARGET = 5;
     private static final int SCRIPTURE_REFERENCE_TEXT = 6;
-    
+
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
-    private static final String URL_ENSIGN = URL_BASE + "/study/ensign";
+    private static final String URL_ENSIGN = URL_BASE + "/study/magazines/ensign-19712020";
     private static final String URL_GENERAL_CONFERENCE = URL_BASE + "/study/general-conference";
-    private static final String URL_LIAHONA = URL_BASE + "/study/liahona";
+    private static final String URL_LIAHONA = URL_BASE + "/study/magazines/liahona";
     private static final String URL_LANG = "?lang=";
-    
+
     private static final String A_ACCENT = "(?:a|á|&#x[eE]1;|&#aacute;)";
     private static final String CAP_E_ACCENT = "(?:E|É|&#x[cC]9;|&#Eacute;)";
     private static final String E_ACCENT = "(?:e|é|&#x[eE]9;|&#eacute;)";
@@ -72,14 +73,14 @@ public class SciCrawler {
     private static final String O_ACCENT = "(?:o|ó|&#x[fF]3;|&#oacute;)";
     private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
     private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
-    
+
     // Properties
     private static final Logger logger = Logger.getLogger(SciCrawler.class.getName());
-    
+
     private GregorianCalendar saturdayDate;
     private GregorianCalendar sundayDate;
     private int maxCitationId;
-    
+
     private final String annual;
     private final String issueDate;
     private final Pattern jstPattern;
@@ -90,10 +91,11 @@ public class SciCrawler {
     private final Pattern scriptureReferencePattern;
     private final String sessionKey;
     private final int year;
-    
-    private final Speakers speakers = new Speakers();
+
+    private final Database database = new Database();
+    private final Speakers speakers = new Speakers(database);
     // private final Verses verses = new Verses();
-    
+
     private final Map<String, int[]> pageRanges = new HashMap<>();
     private final List<String> sessions = new ArrayList<>();
     private final List<String> talkIds = new ArrayList<>();
@@ -108,15 +110,15 @@ public class SciCrawler {
     private final Map<String, String[]> talkVideoUrls = new HashMap<>();
     private final Map<String, String> talkContents = new HashMap<>();
     private final Map<String, String> talkRewrittenContents = new HashMap<>();
-    
+
     // Initialization
     public SciCrawler(int year, int month, String language) {
         this.year = year;
         this.language = language;
         String conferencePath;
-    
+
         // logger.log(Level.INFO, () -> "Count of verses: " + verses.count());
-    
+
         switch (year) {
             case 1971:
                 // Published in June and December
@@ -140,20 +142,19 @@ public class SciCrawler {
                 conferencePath = year + (month == 4 ? "apr" : "oct");
                 break;
         }
-    
+
         annual = month < 9 ? "A" : "S";
         issueDate = year + "-" + monthString + "-01";
-    
+
         computeLikelyConferenceDates(year, month);
-    
+
         paths = new Paths(conferencePath, language);
-    
-        String chapter = "([0-9]+)";
-        String verses = "([0-9]+((?:[-,])[0-9]+)*)";
-    
+
+        String chapter = "(\\d+)";
+        String verses = "(\\d+(?:[-–—,]\\d+)*)";
+
         if (language.equalsIgnoreCase("spa")) {
-            String bibleBookName
-                    = "(G" + E_ACCENT + "nesis|" + CAP_E_ACCENT + "xodo"
+            String bibleBookName = "(G" + E_ACCENT + "nesis|" + CAP_E_ACCENT + "xodo"
                     + "|Lev" + I_ACCENT + "tico|N" + U_ACCENT + "meros"
                     + "|Deuteronomio|Josu" + E_ACCENT
                     + "|Jueces|Rut"
@@ -173,17 +174,16 @@ public class SciCrawler {
                     + "|G" + A_ACCENT + "latas|Efesios|Filipenses|Colosenses"
                     + "|Tito|Filem" + O_ACCENT + "n|Hebreos|Santiago|Judas"
                     + "|Apocalipsis)";
-    
+
             jstPattern = Pattern.compile(
                     "Traducci" + O_ACCENT + "n" + SPACE + "de" + SPACE
-                    + "Jos" + E_ACCENT + SPACE + "Smith," + SPACE
-                    + bibleBookName
-                    + SPACE
-                    + chapter
-                    + ":"
-                    + verses,
-                    Pattern.MULTILINE | Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ
-            );
+                            + "Jos" + E_ACCENT + SPACE + "Smith," + SPACE
+                            + bibleBookName
+                            + SPACE
+                            + chapter
+                            + ":"
+                            + verses,
+                    Pattern.MULTILINE | Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ);
 
             sessionKey = "Sesión";
         } else {
@@ -195,13 +195,13 @@ public class SciCrawler {
                     + "|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans"
                     + "|Galatians|Ephesians|Philippians|Colossians|Titus"
                     + "|Philememon|Hebrews|James|Jude|Revelation)";
-    
+
             jstPattern = Pattern.compile("Joseph" + SPACE + "Smith" + SPACE + "Translation," + SPACE + bibleBookName
                     + SPACE + chapter + ":" + verses, Pattern.MULTILINE | Pattern.CASE_INSENSITIVE);
 
             sessionKey = "Session";
         }
-    
+
         String hrefPattern = URL_SCRIPTURE_PATH
                 + "(?:ot|nt|bofm|dc-testament|pgp|jst)/"
                 + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
@@ -217,32 +217,40 @@ public class SciCrawler {
                 + "(?:(?:/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
                 + "|study_intro[0-9])?)?" + "[?]lang=" + language
                 + "(#p[A-Za-z0-9_-]+)?";
-    
+
         referencePattern = Pattern.compile(hrefPattern);
         scriptureReferencePattern = Pattern
                 .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>(.*?)</a>");
     }
-    
+
     public static void main(String[] args) {
         int year = -1;
         int month = -1;
         String language = "";
         Logger logger = Logger.getLogger(SciCrawler.class.getName());
-        boolean writeToDatabase = false;
-        boolean writeContentToFiles = false;
         boolean invalidCommandLine = false;
-    
+        boolean replaceTalkBodies = false;
+        boolean writeContentToFiles = false;
+        boolean writeToDatabase = false;
+        boolean useConferenceSite = false;
+
         if (args.length >= 3) {
             int requiredArgCount = 0;
-    
+
             for (int i = 0; i < args.length; i++) {
                 if (args[i].startsWith("--")) {
                     switch (args[i]) {
                         case "--writeToDatabase":
                             writeToDatabase = true;
                             break;
+                        case "--replaceTalkBodies":
+                            replaceTalkBodies = true;
+                            break;
                         case "--writeContentToFiles":
                             writeContentToFiles = true;
+                            break;
+                        case "--use-conference-site":
+                            useConferenceSite = true;
                             break;
                         default:
                             String badParameter = args[i];
@@ -268,7 +276,7 @@ public class SciCrawler {
                                 invalidCommandLine = true;
                                 break;
                         }
-    
+
                         requiredArgCount += 1;
                     } catch (NumberFormatException e) {
                         logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
@@ -276,7 +284,7 @@ public class SciCrawler {
                 }
             }
         }
-    
+
         if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050
                 || (!language.equals("eng") && !language.equals("spa")) || invalidCommandLine) {
             logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
@@ -284,22 +292,22 @@ public class SciCrawler {
             logger.log(Level.SEVERE, "    and language is either eng or spa");
             System.exit(-1);
         }
-    
+
         SciCrawler crawler = new SciCrawler(year, month, language);
-    
-        crawler.getTableOfContents();
+
+        crawler.getTableOfContents(useConferenceSite);
         crawler.readPageRanges();
         List<Link> scriptureCitations = crawler.crawlTalks(writeContentToFiles);
         crawler.checkSpeakers();
         crawler.writeCitationsToFile(scriptureCitations);
         crawler.showTables();
         crawler.processUpdatedCitations(scriptureCitations);
-    
-        Database database = crawler.updateDatabase(writeToDatabase, scriptureCitations);
-        crawler.rewriteUrls(writeContentToFiles, scriptureCitations, database);
-        crawler.updateTalkContents(writeToDatabase, database);
+
+        crawler.updateDatabase(writeToDatabase, scriptureCitations);
+        crawler.rewriteUrls(writeContentToFiles, scriptureCitations);
+        crawler.updateTalkContents(writeToDatabase, replaceTalkBodies);
     }
-    
+
     /*
      * 1. Crawl talks.
      * 2. Extract citations.
@@ -309,8 +317,8 @@ public class SciCrawler {
      * 6. Update database (if flag set to write).
      */
 
-     private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
-        String[] tags = {"scriptures/bd", "scriptures/gs", "scriptures/tg"};
+    private void addFilteredLink(List<Link> links, String talkId, String href, String text) {
+        String[] tags = { "scriptures/bd", "scriptures/gs", "scriptures/tg" };
 
         for (String tag : tags) {
             if (href.contains(tag)) {
@@ -342,7 +350,7 @@ public class SciCrawler {
     private void checkSpeakers() {
         talkSpeakers.entrySet().forEach(entry -> {
             JSONObject speaker = speakers.matchingSpeaker(entry.getValue());
-        
+
             if (speaker == null) {
                 logger.log(Level.INFO, () -> "New speaker: " + entry.getValue());
                 speakers.addSpeaker(entry.getValue());
@@ -388,9 +396,9 @@ public class SciCrawler {
 
     private void computeLikelyConferenceDates(int year, int month) {
         sundayDate = new GregorianCalendar(year, month - 1, 1);
-        
+
         int dayOfWeek = sundayDate.get(Calendar.DAY_OF_WEEK);
-        
+
         if (dayOfWeek > Calendar.SUNDAY) {
             sundayDate = new GregorianCalendar(year, month - 1, Calendar.SATURDAY - dayOfWeek + 2);
             saturdayDate = new GregorianCalendar(year, month - 1, Calendar.SATURDAY - dayOfWeek + 1);
@@ -412,9 +420,11 @@ public class SciCrawler {
     private boolean containsLink(List<Link> links, Link link) {
         for (Link l : links) {
             // if (link.talkId.equals("41uchtdorf") && l.talkId.equals(link.talkId)) {
-            //     logger.log(Level.INFO, () -> "41uchtdorf: " + link.href);
-            //     logger.log(Level.INFO, () -> "hrefs " + (link.href.equals(l.href) ? "match" : "don't match"));
-            //     logger.log(Level.INFO, () -> "texts " + (link.text.equals(l.text) ? "match" : "don't match"));
+            // logger.log(Level.INFO, () -> "41uchtdorf: " + link.href);
+            // logger.log(Level.INFO, () -> "hrefs " + (link.href.equals(l.href) ? "match" :
+            // "don't match"));
+            // logger.log(Level.INFO, () -> "texts " + (link.text.equals(l.text) ? "match" :
+            // "don't match"));
             // }
             if (link.isEqualTo(l)) {
                 return true;
@@ -445,7 +455,7 @@ public class SciCrawler {
                 talkJson = new JSONObject(urlContent(talkUrl(talkId, language)));
                 FileUtils.writeStringToFile(talkJson.toString(2), talkFile);
             } else {
-                talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
+                talkJson = editedTalkJson(talkId);
             }
 
             JSONObject talkContent = talkJson.getJSONObject("content");
@@ -496,6 +506,16 @@ public class SciCrawler {
         return crossRefFiltered.toString();
     }
 
+    private JSONObject editedTalkJson(String talkId) {
+        File editedTalkFile = paths.editedJsonTalkFile(talkId);
+
+        if (!editedTalkFile.exists()) {
+            editedTalkFile = paths.jsonTalkFile(talkId);
+        }
+
+        return new JSONObject(FileUtils.stringFromFile(editedTalkFile));
+    }
+
     private String editedSpeaker(String speaker) {
         if ((speaker.endsWith(" Jr.") || speaker.endsWith(" Sr.")) && !speaker.contains(", ")) {
             return speaker.substring(0, speaker.length() - 4) + ","
@@ -527,42 +547,42 @@ public class SciCrawler {
 
     private void extractJstLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = jstPattern.matcher(content);
-        
+
         while (matcher.find()) {
             String fullMatch = matcher.group(0);
             String book = matcher.group(1);
             String chapter = matcher.group(2);
             String verses = matcher.group(3);
             String bookAbbr = BookFinder.sInstance.abbreviationForBook(book);
-            String volume = BookFinder.sInstance.volumeForBook(book);
-        
+            String volume = "jst"; // BookFinder.sInstance.volumeForBook(book);
+
             if (!bookAbbr.startsWith("jst-")) {
                 bookAbbr = "jst-" + bookAbbr;
             }
 
             links.add(new Link(
                     talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
-                    + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
-                    + language + "#p" + Link.firstVerse(verses),
+                            + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
+                            + language + "#p" + Link.firstVerse(verses),
                     fullMatch, bookAbbr, chapter, verses, true));
         }
     }
 
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
         String[] keys = new String[footnotes.keySet().size()];
-        
+
         footnotes.keySet().toArray(keys);
         Arrays.sort(keys, new SortByNote());
-        
+
         for (String key : keys) {
             JSONObject footnote = footnotes.getJSONObject(key);
-        
+
             if (footnote.has("referenceUris")) {
                 JSONArray uris = footnote.getJSONArray("referenceUris");
-        
+
                 uris.forEach(subitem -> {
                     JSONObject uri = (JSONObject) subitem;
-        
+
                     if (uri.has("href") && uri.has("type") && uri.has("text")
                             && uri.getString("type").equals("scripture-ref")) {
                         addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"));
@@ -592,12 +612,13 @@ public class SciCrawler {
 
     private void extractScriptureLinks(String content, String talkId, List<Link> links) {
         Matcher matcher = scriptureReferencePattern.matcher(content);
-        
+
         while (matcher.find()) {
-            addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF), matcher.group(SCRIPTURE_REFERENCE_TEXT));
+            addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF),
+                    matcher.group(SCRIPTURE_REFERENCE_TEXT));
         }
     }
-    
+
     private void extractVideoUrls(String talkId, String content) {
         List<String> urls = new ArrayList<>();
         int index1 = content.indexOf("<video");
@@ -628,16 +649,18 @@ public class SciCrawler {
         }
     }
 
-    private int filterTalkSubitem(String itemHref, String itemTitle, String itemSpeaker, int sessionNumber, int talkNumber) {
+    private int filterTalkSubitem(String itemHref, String itemTitle, String itemSpeaker, int sessionNumber,
+            int talkNumber) {
         String itemId = extractMatch(itemHref, "[0-9]+/[0-9]+/(.*)\\?");
-        
+
         if (itemTitle.contains("Auditing Department")
                 || itemTitle.contains("Sustaining of General Authorities")
                 || itemTitle.contains("Departamento de Auditorías")
-                || itemTitle.contains("Sostenimiento de las Autoridades Generales")) {
+                || itemTitle.contains("Sostenimiento de las Autoridades Generales")
+                || itemTitle.startsWith("Video:")) {
             return talkNumber;
         }
-        
+
         ++talkNumber;
 
         talkIds.add(itemId);
@@ -646,33 +669,35 @@ public class SciCrawler {
         talkSpeakers.put(itemId, editedSpeaker(itemSpeaker));
         talkSequence.put(itemId, talkNumber);
         talkSessionNo.put(itemId, sessionNumber);
-        
+
         final int talkNumberToLog = talkNumber;
         logger.log(Level.INFO, () -> itemId
                 + "\t" + talkNumberToLog
                 + "\t" + sessionNumber
                 + "\t" + StringUtils.encodeSpecialCharacters(itemTitle)
                 + "\t" + itemSpeaker);
-        
+
         return talkNumber;
     }
-    
+
     private void formatFootnotes(StringBuilder talk, JSONObject footnotes) {
         /*
-            "note4": {
-                "marker": "4.",
-                "context": null,
-                "pid": "143139345",
-                "id": "note4",
-                "text": "<p data-aid=\"143139369\" id=\"note4_p1\">See
-                    <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\">Doctrine
-                    and Covenants 8:2&#x2013;3<\/a>.<\/p>",
-                "referenceUris": [{
-                  "href": "/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2",
-                  "text": "Doctrine and Covenants 8:2\u20133",
-                  "type": "scripture-ref"
-                }]
-              },
+         * "note4": {
+         * "marker": "4.",
+         * "context": null,
+         * "pid": "143139345",
+         * "id": "note4",
+         * "text": "<p data-aid=\"143139369\" id=\"note4_p1\">See
+         * <a class=
+         * \"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\"
+         * >Doctrine
+         * and Covenants 8:2&#x2013;3<\/a>.<\/p>",
+         * "referenceUris": [{
+         * "href": "/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2",
+         * "text": "Doctrine and Covenants 8:2\u20133",
+         * "type": "scripture-ref"
+         * }]
+         * },
          */
 
         talk.append("\n<footer class=\"notes\">\n");
@@ -693,8 +718,8 @@ public class SciCrawler {
         talk.append("</ol></footer>\n");
     }
 
-    private void getTableOfContents() {
-        String content = tableOfContentsHtml();
+    private void getTableOfContents(boolean useConferenceSite) {
+        String content = tableOfContentsHtml(useConferenceSite);
 
         if (content != null) {
             String subitems = talkSubitemsFromTableOfContents(content);
@@ -706,8 +731,8 @@ public class SciCrawler {
     private String inlinedFootnote(String noteKey, JSONObject footnotes) {
         JSONObject footnote = footnotes.getJSONObject("note" + noteKey);
         String footnoteText = footnote.getString("text")
-                .replaceFirst("^<p[^>]*>", "")
-                .replaceFirst("<\\/p>$", "");
+                .replaceAll("<p[^>]*>", "<span class=\"note-p\">")
+                .replace("</p>", "</span>");
         boolean textIsLong = visibleLength(footnoteText) > 40;
 
         return "<sup class=\"noteMarker\"><a href=\"#note" + noteKey + "\">" + noteKey + "</a><span class=\"footnote"
@@ -715,8 +740,8 @@ public class SciCrawler {
     }
 
     private void inlineFootnotes(StringBuilder talk, JSONObject footnotes) {
-        String markerParser = "<a\\s*class=\"note-ref\"\\s*href=\"#note([0-9]+)\">"
-                + "\\s*<sup\\s*class=\"marker\">\\s*([0-9]+)\\s*</sup>"
+        String markerParser = "<a\\s*class=\"note-ref\"\\s*href=\"#note(\\d+)\">"
+                + "\\s*<sup\\s*class=\"marker\">\\s*(\\d+)\\s*</sup>"
                 + "\\s*</a>";
         Matcher markerMatcher = Pattern.compile(markerParser).matcher(talk);
         List<FootnoteMatch> matches = new ArrayList<>();
@@ -731,11 +756,11 @@ public class SciCrawler {
         }
 
         // while (markerMatcher.find()) {
-        //     talk.replace(
-        //             markerMatcher.start(),
-        //             markerMatcher.end(),
-        //             inlinedFootnote(markerMatcher.group(1), footnotes)
-        //     );
+        // talk.replace(
+        // markerMatcher.start(),
+        // markerMatcher.end(),
+        // inlinedFootnote(markerMatcher.group(1), footnotes)
+        // );
         // }
     }
 
@@ -756,22 +781,27 @@ public class SciCrawler {
     }
 
     private int parseSessionItems(String sessionItems, int sessionNumber, int talkNumber) {
-        String itemParser = "<li>\\s*<a" + CLASS_PARSER + "item" + END_CLASS_PARSER + "href=\"([^\"]+)\""
+        String listItemParser = "<li>(.*?)<\\/li>";
+        String itemParser = "<a" + CLASS_PARSER + "item" + END_CLASS_PARSER + "href=\"([^\"]+)\""
                 + END_TAG_PARSER + "\\s*<div" + CLASS_PARSER + "itemTitle" + END_CLASS_PARSER + END_TAG_PARSER
                 + "(?:<span\\s+class=activeMarker[^>]*>\\s*<\\/span>)?"
-                + "\\s*<p>\\s*<span>\\s*([^<]*)\\s*<\\/span>\\s*<\\/p>\\s*" + "<p" + CLASS_PARSER + "subtitle"
-                + END_CLASS_PARSER + END_TAG_PARSER + "\\s*([^<]*)\\s*<\\/p>" + "\\s*<\\/div>\\s*<\\/a>\\s*<\\/li>";
+                + "\\s*<p>\\s*<span>\\s*(.*?)\\s*<\\/span>\\s*<\\/p>\\s*" + "<p" + CLASS_PARSER + "subtitle"
+                + END_CLASS_PARSER + END_TAG_PARSER + "\\s*([^<]*)\\s*<\\/p>" + "\\s*<\\/div>\\s*<\\/a>";
 
-        Matcher itemMatcher = Pattern.compile(itemParser).matcher(sessionItems.replace("\u00A0", " "));
+        Matcher listItemMatcher = Pattern.compile(listItemParser).matcher(sessionItems.replace("\u00A0", " "));
+        Pattern itemPattern = Pattern.compile(itemParser);
 
-        while (itemMatcher.find()) {
-            talkNumber = filterTalkSubitem(
-                    itemMatcher.group(1),
-                    itemMatcher.group(2),
-                    itemMatcher.group(3),
-                    sessionNumber,
-                    talkNumber
-            );
+        while (listItemMatcher.find()) {
+            Matcher detailMatcher = itemPattern.matcher(listItemMatcher.group(1));
+
+            while (detailMatcher.find()) {
+                talkNumber = filterTalkSubitem(
+                        detailMatcher.group(1),
+                        detailMatcher.group(2),
+                        detailMatcher.group(3),
+                        sessionNumber,
+                        talkNumber);
+            }
         }
 
         return talkNumber;
@@ -880,12 +910,8 @@ public class SciCrawler {
         }
     }
 
-    private void rewriteUrls(boolean writeContentToFiles, List<Link> citations, Database database) {
-        if (database != null) {
-            maxCitationId = database.getMaxCitationId() + 1;
-        } else {
-            maxCitationId = 100000;
-        }
+    private void rewriteUrls(boolean writeContentToFiles, List<Link> citations) {
+        maxCitationId = database.getMaxCitationId() + 1;
 
         File rewrittenDirFile = paths.rewrittenDirectoryFile();
 
@@ -896,8 +922,7 @@ public class SciCrawler {
         for (String talkId : talkIds) {
             logger.log(Level.INFO, () -> "Rewriting URLs for " + talkId);
             File rewrittenTalkFile = paths.rewrittenTalkFile(talkId);
-            File talkFile = paths.jsonTalkFile(talkId);
-            JSONObject talkJson = new JSONObject(FileUtils.stringFromFile(talkFile));
+            JSONObject talkJson = editedTalkJson(talkId);
             Link[] talkCitations = citations.stream().filter(citation -> citation.talkId.equals(talkId))
                     .toArray(Link[]::new);
             String content = talkHtmlContentForJson(talkId, talkJson, true, talkCitations);
@@ -926,7 +951,8 @@ public class SciCrawler {
                 JSONObject footnote = footnotes.getJSONObject(key);
                 List<LinkEntry> footnoteEntries = new ArrayList<>();
 
-                sequence = collectMatch(footnoteEntries, footnote.getString("text"), scriptureReferencePattern, true, key, sequence);
+                sequence = collectMatch(footnoteEntries, footnote.getString("text"), scriptureReferencePattern, true,
+                        key, sequence);
                 addNonduplicateEntries(footnoteEntries, entries);
             }
         }
@@ -939,11 +965,27 @@ public class SciCrawler {
                 if (!entry.href.equalsIgnoreCase(link.href)) {
                     final int index = i;
 
-                    logger.log(Level.SEVERE, () -> "First mismatch at position " + index + " for " + entry.href);
+                    logger.log(Level.SEVERE, () -> "First mismatch at position "
+                            + index + " for " + entry.href + " link href " + link.href);
                     break;
                 }
             }
 
+            StringBuilder entriesText = new StringBuilder("Hyperlink list:\n");
+
+            entries.forEach(entry -> {
+                entriesText.append(entry.href);
+                entriesText.append("\n");
+            });
+
+            entriesText.append("\nCitations list:\n");
+
+            for (int i = 0; i < citations.length; i++) {
+                entriesText.append(citations[i].href);
+                entriesText.append("\n");
+            }
+
+            logger.log(Level.SEVERE, entriesText::toString);
             logger.log(Level.SEVERE, () -> "Hyperlink list size doesn't match citations list size");
             logger.log(Level.SEVERE, () -> "Correct this mismatch in " + talkId + " before proceeding");
             System.exit(-1);
@@ -1013,41 +1055,42 @@ public class SciCrawler {
         }
 
         keys.sort((k1, k2) -> {
-            int i1 = Integer.parseInt(k1.replaceAll("[^0-9]*", ""));
-            int i2 = Integer.parseInt(k2.replaceAll("[^0-9]*", ""));
-        
+            int i1 = Integer.parseInt(k1.replaceAll("\\D*", ""));
+            int i2 = Integer.parseInt(k2.replaceAll("\\D*", ""));
+
             return i1 - i2;
         });
-        
+
         return keys;
     }
-    
-    private String tableOfContentsHtml() {
+
+    private String tableOfContentsHtml(boolean useConferenceSite) {
         File conferenceDirectoryFile = paths.conferenceDirectoryFile();
         File cachedContentFile = paths.cachedContentFile(language);
         String content;
-        
+
         if (!conferenceDirectoryFile.exists()) {
             conferenceDirectoryFile.mkdir();
         }
-        
+
         if (cachedContentFile.exists()) {
             content = FileUtils.stringFromFile(cachedContentFile);
         } else {
-            content = urlContent(urlForConferenceContents());
+            content = urlContent(urlForConferenceContents(useConferenceSite));
             FileUtils.writeStringToFile(content, cachedContentFile);
         }
-        
+
         return content;
     }
-    
-    private String talkHtmlContentForJson(String talkId, JSONObject talkJson, boolean inlineFootnotes, Link[] citationsToRewrite) {
+
+    private String talkHtmlContentForJson(String talkId, JSONObject talkJson, boolean inlineFootnotes,
+            Link[] citationsToRewrite) {
         StringBuilder talk = new StringBuilder();
-        
+
         JSONObject talkContent = talkJson.getJSONObject("content");
         String talkBody = talkContent.getString("body");
         JSONObject footnotes = null;
-        
+
         if (talkContent.has(FOOTNOTES)) {
             footnotes = talkContent.getJSONObject(FOOTNOTES);
         }
@@ -1089,8 +1132,7 @@ public class SciCrawler {
 
         return extractMatch(
                 extractMatch(content, contentParser),
-                "<ul" + END_TAG_PARSER + "(.*)</ul>"
-        );
+                "<ul" + END_TAG_PARSER + "(.*)</ul>");
     }
 
     private String talkUrl(String talkId, String language) {
@@ -1102,20 +1144,17 @@ public class SciCrawler {
                 + "%2F" + talkId;
     }
 
-    private Database updateDatabase(boolean writeToDatabase, List<Link> citations) {
-        Database database = new Database();
-
+    private void updateDatabase(boolean writeToDatabase, List<Link> citations) {
         database.updateSpeakers(writeToDatabase, speakers);
-        database.updateMetaData(writeToDatabase, year, language, annual, issueDate, sessions, saturdayDate, sundayDate, talkIds,
+        database.updateMetaData(writeToDatabase, year, language, annual, issueDate, sessions, saturdayDate, sundayDate,
+                talkIds,
                 talkHrefs, talkSpeakerIds, talkTitles, pageRanges, talkSequence, talkSessionNo, talkAudioUrls,
                 talkVideoUrls);
         database.updateCitations(writeToDatabase, citations, talkIds, year, annual, language);
-
-        return database;
     }
 
-    private void updateTalkContents(boolean writeToDatabase, Database database) {
-        database.updateTalkContents(writeToDatabase, talkRewrittenContents, language);
+    private void updateTalkContents(boolean writeToDatabase, boolean replaceTalkBodies) {
+        database.updateTalkContents(writeToDatabase, replaceTalkBodies, talkRewrittenContents, language);
     }
 
     private String urlContent(String url) {
@@ -1123,7 +1162,8 @@ public class SciCrawler {
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpGet httpGet = new HttpGet(url);
 
-        httpGet.addHeader("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.11 Safari/537.36");
+        httpGet.addHeader("User-Agent",
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.11 Safari/537.36");
         httpGet.addHeader("Accept-Charset", "utf-8");
 
         try {
@@ -1146,8 +1186,8 @@ public class SciCrawler {
         return content;
     }
 
-    private String urlForConferenceContents() {
-        if (language.equals("spa")) {
+    private String urlForConferenceContents(boolean useConferenceSite) {
+        if (useConferenceSite || language.equals("spa")) {
             String urlMonth;
 
             if (monthString.equals("05")) {
@@ -1186,6 +1226,11 @@ public class SciCrawler {
             citations.append("\t");
             citations.append(talkSpeakerInitials.get(link.talkId));
             citations.append("\t");
+
+            if (pageRanges.get(link.talkId) == null) {
+                System.out.println("Page range is null");
+            }
+
             citations.append(pageRanges.get(link.talkId)[1]);
             citations.append("\t");
             citations.append(link.talkId);

@@ -1,0 +1,857 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/57bednar?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "372bc23f5b5e4a7494ef32271f0145d0",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/57bednar",
+      "data-aid": "154444796",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "372bc23f5b5e4a7494ef32271f0145d0"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/a8/30/a8302c27975590e9c3abae0b15bb64eb6c33d460/a8302c27975590e9c3abae0b15bb64eb6c33d460.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5070-david-a-bednar-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cAbide in Me, and I in You; Therefore Walk with Me\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154444796",
+      {"key": "154444796"}
+    ],
+    [
+      "154444801",
+      {"key": "154444801"}
+    ],
+    [
+      "154444804",
+      {"key": "154444804"}
+    ],
+    [
+      "154444808",
+      {"key": "154444808"}
+    ],
+    [
+      "154444812",
+      {"key": "154444812"}
+    ],
+    [
+      "154444816",
+      {"key": "154444816"}
+    ],
+    [
+      "154444820",
+      {"key": "154444820"}
+    ],
+    [
+      "154444825",
+      {"key": "154444825"}
+    ],
+    [
+      "154444828",
+      {"key": "154444828"}
+    ],
+    [
+      "154444834",
+      {"key": "154444834"}
+    ],
+    [
+      "154444837",
+      {"key": "154444837"}
+    ],
+    [
+      "154444840",
+      {"key": "154444840"}
+    ],
+    [
+      "154444844",
+      {"key": "154444844"}
+    ],
+    [
+      "154444847",
+      {"key": "154444847"}
+    ],
+    [
+      "154444851",
+      {"key": "154444851"}
+    ],
+    [
+      "154444855",
+      {"key": "154444855"}
+    ],
+    [
+      "154444859",
+      {"key": "154444859"}
+    ],
+    [
+      "154444863",
+      {"key": "154444863"}
+    ],
+    [
+      "154444867",
+      {"key": "154444867"}
+    ],
+    [
+      "154444871",
+      {"key": "154444871"}
+    ],
+    [
+      "154444874",
+      {"key": "154444874"}
+    ],
+    [
+      "154444877",
+      {"key": "154444877"}
+    ],
+    [
+      "154444880",
+      {"key": "154444880"}
+    ],
+    [
+      "154444883",
+      {"key": "154444883"}
+    ],
+    [
+      "154444886",
+      {"key": "154444886"}
+    ],
+    [
+      "154444889",
+      {"key": "154444889"}
+    ],
+    [
+      "154444892",
+      {"key": "154444892"}
+    ],
+    [
+      "154444895",
+      {"key": "154444895"}
+    ],
+    [
+      "154444897",
+      {"key": "154444897"}
+    ],
+    [
+      "154444900",
+      {"key": "154444900"}
+    ],
+    [
+      "154444902",
+      {"key": "154444902"}
+    ],
+    [
+      "154444905",
+      {"key": "154444905"}
+    ],
+    [
+      "154444909",
+      {"key": "154444909"}
+    ],
+    [
+      "154444911",
+      {"key": "154444911"}
+    ],
+    [
+      "154444914",
+      {"key": "154444914"}
+    ],
+    [
+      "154444917",
+      {"key": "154444917"}
+    ],
+    [
+      "154444920",
+      {"key": "154444920"}
+    ],
+    [
+      "154444923",
+      {"key": "154444923"}
+    ],
+    [
+      "154444926",
+      {"key": "154444926"}
+    ],
+    [
+      "154444929",
+      {"key": "154444929"}
+    ],
+    [
+      "154444932",
+      {"key": "154444932"}
+    ],
+    [
+      "154444935",
+      {"key": "154444935"}
+    ],
+    [
+      "154444938",
+      {"key": "154444938"}
+    ],
+    [
+      "154444941",
+      {"key": "154444941"}
+    ],
+    [
+      "154444944",
+      {"key": "154444944"}
+    ],
+    [
+      "154444947",
+      {"key": "154444947"}
+    ],
+    [
+      "154444950",
+      {"key": "154444950"}
+    ],
+    [
+      "154444953",
+      {"key": "154444953"}
+    ],
+    [
+      "154444956",
+      {"key": "154444956"}
+    ],
+    [
+      "154444959",
+      {"key": "154444959"}
+    ],
+    [
+      "154444962",
+      {"key": "154444962"}
+    ],
+    [
+      "154444967",
+      {"key": "154444967"}
+    ],
+    [
+      "154444968",
+      {"key": "154444968"}
+    ],
+    [
+      "154444973",
+      {"key": "154444973"}
+    ],
+    [
+      "154444976",
+      {"key": "154444976"}
+    ],
+    [
+      "154444977",
+      {"key": "154444977"}
+    ],
+    [
+      "154444978",
+      {"key": "154444978"}
+    ],
+    [
+      "154444979",
+      {"key": "154444979"}
+    ],
+    [
+      "154444980",
+      {"key": "154444980"}
+    ],
+    [
+      "154444981",
+      {"key": "154444981"}
+    ],
+    [
+      "154444982",
+      {"key": "154444982"}
+    ],
+    [
+      "154444983",
+      {"key": "154444983"}
+    ],
+    [
+      "154444984",
+      {"key": "154444984"}
+    ],
+    [
+      "154444985",
+      {"key": "154444985"}
+    ],
+    [
+      "154444986",
+      {"key": "154444986"}
+    ],
+    [
+      "154444987",
+      {"key": "154444987"}
+    ],
+    [
+      "154444988",
+      {"key": "154444988"}
+    ],
+    [
+      "154444989",
+      {"key": "154444989"}
+    ],
+    [
+      "154444990",
+      {"key": "154444990"}
+    ],
+    [
+      "154444991",
+      {"key": "154444991"}
+    ],
+    [
+      "154444992",
+      {"key": "154444992"}
+    ],
+    [
+      "154444993",
+      {"key": "154444993"}
+    ],
+    [
+      "154444994",
+      {"key": "154444994"}
+    ],
+    [
+      "154444995",
+      {"key": "154444995"}
+    ],
+    [
+      "154444996",
+      {"key": "154444996"}
+    ],
+    [
+      "154444997",
+      {"key": "154444997"}
+    ],
+    [
+      "154444998",
+      {"key": "154444998"}
+    ],
+    [
+      "154444999",
+      {"key": "154444999"}
+    ],
+    [
+      "154445000",
+      {"key": "154445000"}
+    ],
+    [
+      "154445001",
+      {"key": "154445001"}
+    ],
+    [
+      "154445002",
+      {"key": "154445002"}
+    ],
+    [
+      "154445003",
+      {"key": "154445003"}
+    ],
+    [
+      "154445004",
+      {"key": "154445004"}
+    ],
+    [
+      "154445005",
+      {"key": "154445005"}
+    ],
+    [
+      "154445006",
+      {"key": "154445006"}
+    ],
+    [
+      "154445007",
+      {"key": "154445007"}
+    ],
+    [
+      "154445008",
+      {"key": "154445008"}
+    ],
+    [
+      "154445009",
+      {"key": "154445009"}
+    ],
+    [
+      "154445010",
+      {"key": "154445010"}
+    ],
+    [
+      "154445011",
+      {"key": "154445011"}
+    ],
+    [
+      "154445012",
+      {"key": "154445012"}
+    ],
+    [
+      "154445013",
+      {"key": "154445013"}
+    ],
+    [
+      "154445014",
+      {"key": "154445014"}
+    ],
+    [
+      "154445015",
+      {"key": "154445015"}
+    ],
+    [
+      "154445016",
+      {"key": "154445016"}
+    ],
+    [
+      "154445017",
+      {"key": "154445017"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/57bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Bednar teaches that when we abide in the Savior, He will abide in us and we will be blessed.",
+          "title": "\u201cAbide in Me, and I in You; Therefore Walk with Me\u201d"
+        },
+        "pageSocial": {
+          "description": "Elder Bednar teaches that when we abide in the Savior, He will abide in us and we will be blessed.",
+          "title": "\u201cAbide in Me, and I in You; Therefore Walk with Me\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/a8/30/a8302c27975590e9c3abae0b15bb64eb6c33d460/a8302c27975590e9c3abae0b15bb64eb6c33d460.jpeg\" data-video-title=\"\u201cAbide in Me, and I in You; Therefore Walk with Me\u201d\" data-video-description=\"Elder Bednar teaches that when we abide in the Savior, He will abide in us and we will be blessed.\" data-video-id=\"6323848473112\" data-ip=\"Download and Streaming                            \" data-duration=\"805873\" data-assetId=\"92e04174d1a611eda4e6eeeeac1e02a897933fa2\" data-ref-id=\"ADC1B019E2FBF4470A247535289FA4431D41C871\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323848473112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"269322360\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5070-david-a-bednar-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"74656527\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5070-david-a-bednar-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"194111990\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5070-david-a-bednar-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"269322360\"/><\/video><h1 data-aid=\"154444801\" id=\"title1\">\u201cAbide in Me, and I in You; Therefore Walk with Me\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154444804\" id=\"author1\">By Elder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"154444808\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154444812\" id=\"kicker1\">The Savior\u2019s promise to abide in us is true and available to every covenant-keeping member of His restored Church.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154444816\" id=\"p1\">The ancient prophet Enoch, described in the Old Testament, the Doctrine and Covenants, and the Pearl of Great Price,<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> was instrumental in establishing the city of Zion.<\/p>\n<p data-aid=\"154444820\" id=\"p2\">The scriptural account of Enoch\u2019s call to serve indicates that \u201che heard a voice from heaven, saying: Enoch, my son, prophesy unto this people, and say unto them\u2014Repent, \u2026 for their hearts have waxed hard, and their ears are dull of hearing, and their eyes cannot see afar off.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"154444825\" id=\"p3\">\u201cAnd when Enoch had heard these words, he bowed himself to the earth \u2026 and spake before the Lord, saying: Why is it that I have found favor in thy sight, and am but a lad, and all the people hate me; for I am slow of speech; wherefore am I thy servant?\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"154444828\" id=\"p4\">Please notice that at the time of Enoch\u2019s call to serve, he became acutely aware of his personal inadequacies and limitations. And I suspect all of us at one time or another in our Church service have felt much like Enoch. But I believe the Lord\u2019s response to Enoch\u2019s pleading question is instructive and applies to each of us today.<\/p>\n<p data-aid=\"154444834\" id=\"p5\">\u201cAnd the Lord said unto Enoch: Go forth and do as I have commanded thee, and no man shall pierce thee. Open thy mouth, and it shall be filled, and I will give thee utterance. \u2026<\/p>\n<p data-aid=\"154444837\" id=\"p6\">\u201cBehold my Spirit is upon you, wherefore all thy words will I justify; and the mountains shall flee before you, and the rivers shall turn from their course; and thou shalt <em>abide in me, and I in you; therefore walk with me.<\/em>\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"154444840\" id=\"p7\">Enoch ultimately became a mighty prophet and a tool in God\u2019s hands to accomplish a great work, but he did not start his ministry that way! Rather, his capacity over time was magnified as he learned to abide in and walk with the Son of God.<\/p>\n<p data-aid=\"154444844\" id=\"p8\">I earnestly pray for the help of the Holy Ghost as we consider together the counsel given to Enoch by the Lord and what it can mean for you and me today.<\/p>\n<section>\n<header>\n<h2 data-aid=\"154444847\" id=\"title2\">Thou Shalt Abide in Me<\/h2>\n<\/header>\n<p data-aid=\"154444851\" id=\"p9\">The Lord Jesus Christ extends to each of us the invitation to abide in Him.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> But how do we actually learn and come to abide in Him?<\/p>\n<p data-aid=\"154444855\" id=\"p10\">The word <em>abide<\/em> denotes remaining fixed or stable and enduring without yielding. Elder Jeffrey R. Holland explained that \u201cabiding\u201d as an action means \u201c\u2018[to] stay\u2014but [to] stay <em>forever<\/em>.\u2019 That is the call of the gospel message to \u2026 everyone \u2026 in the world. Come, but come to remain. Come with conviction and endurance. Come permanently, for your sake and the sake of all the generations who must follow you.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> Thus, we abide in Christ as we are firm and steadfast in our devotion to the Redeemer and His holy purposes, in times both good and bad.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"154444859\" id=\"p11\">We begin to abide in the Lord by exercising our moral agency to take upon ourselves His yoke<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> through the covenants and ordinances of the restored gospel. The covenant connection we have with our Heavenly Father and His resurrected and living Son is the supernal source of perspective, hope, power, peace, and enduring joy; it also is the rock-solid foundation<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> upon which we should build our lives.<\/p>\n<p data-aid=\"154444863\" id=\"p12\">We abide in Him by striving continually to strengthen our individual covenant bond with the Father and the Son. For example, praying sincerely to the Eternal Father in the name of His Beloved Son deepens and fortifies our covenant connection with Them.<\/p>\n<p data-aid=\"154444867\" id=\"p13\">We abide in Him by truly feasting upon the words of Christ. The Savior\u2019s doctrine draws us, as children of the covenant, closer to Him<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> and will tell us all things what we should do.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"154444871\" id=\"p14\">We abide in Him by preparing earnestly to participate in the ordinance of the sacrament, reviewing and reflecting on our covenant promises, and repenting sincerely. Worthily partaking of the sacrament is a witness to God that we are willing to take upon ourselves the name of Jesus Christ and strive to \u201calways remember him\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> after the brief period of time required to participate in that sacred ordinance.<\/p>\n<p data-aid=\"154444874\" id=\"p15\">And we abide in Him by serving God as we serve His children and minister to our brothers and sisters.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"154444877\" id=\"p16\">The Savior said, \u201cIf ye keep my commandments, ye shall abide in my love; even as I have kept my Father\u2019s commandments, and abide in his love.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"154444880\" id=\"p41\">I briefly have described several of the many ways we can abide in the Savior. And I now invite each of us as His disciples to ask, seek, knock, and learn for ourselves by the power of the Holy Ghost other meaningful ways we can make Christ the center of our lives in all that we do.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"154444883\" id=\"title3\">And I in You<\/h2>\n<\/header>\n<p data-aid=\"154444886\" id=\"p17\">The Savior\u2019s promise to His followers is twofold: if we abide in Him, He will abide in us. But is it indeed possible for Christ to abide in you and me\u2014individually and personally? The answer to this question is a resounding yes!<\/p>\n<p data-aid=\"154444889\" id=\"p18\">In the Book of Mormon, we learn about Alma\u2019s teaching and testifying to the poor whose afflictions had compelled them to be humble. In his instruction, he compared the word to a seed that must be planted and nourished, and he described \u201cthe word\u201d as the life, mission, and atoning sacrifice of Jesus Christ.<\/p>\n<p data-aid=\"154444892\" id=\"p19\">Alma said, \u201cBegin to believe in the Son of God, that he will come to redeem his people, and that he shall suffer and die to atone for their sins; and that he shall rise again from the dead, which shall bring to pass the resurrection, that all men shall stand before him, to be judged at the last and judgment day, according to their works.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"154444895\" id=\"p20\">Given this description of \u201cthe word\u201d by Alma, please consider the inspiring connection he then identifies.<\/p>\n<p data-aid=\"154444897\" id=\"p21\">\u201cAnd now \u2026 I desire that ye shall <em>plant this word in your hearts<\/em>, and as it beginneth to swell even so nourish it by your faith. And behold, <em>it will become a tree<\/em>, springing up <em>in you<\/em> unto everlasting life. And then may God grant unto you that your burdens may be light, through the joy of his Son. And even all this can ye do if ye will.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"154444900\" id=\"p22\">The seed we should strive to plant in our hearts is the word\u2014even the life, mission, and doctrine of Jesus Christ. And as the word is nourished by faith, it can become a tree springing up <em>in us<\/em> unto everlasting life.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"154444902\" id=\"p23\">What was the symbolism of the tree in Lehi\u2019s vision? The tree can be considered as a representation of Jesus Christ.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"154444905\" id=\"p24\">My beloved brothers and sisters, is the Word in us? Are the truths of the Savior\u2019s gospel written in the fleshy tables of our hearts?<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> Are we coming unto and gradually becoming more like Him? Is the tree of Christ growing in us? Are we striving to become \u201cnew [creatures]\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> in Him?<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"154444909\" id=\"p25\">Perhaps this miraculous potential inspired Alma to ask: \u201cHave ye spiritually been born of God? Have ye received his image in your countenances? Have ye experienced this mighty change in your hearts?\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"154444911\" id=\"p26\">We should always remember the Lord\u2019s instruction to Enoch: \u201cThou shalt abide in me, <em>and I in you<\/em>.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> And I testify the Savior\u2019s promise to abide in us is true and available to every covenant-keeping member of His restored Church.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"154444914\" id=\"title4\">Therefore Walk with Me<\/h2>\n<\/header>\n<p data-aid=\"154444917\" id=\"p27\">The Apostle Paul admonished believers who had received the Lord: \u201cSo walk ye in him.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"154444920\" id=\"p28\">Walking in and with the Savior highlights two vital aspects of discipleship: (1) obeying God\u2019s commandments, and (2) remembering and honoring the sacred covenants that connect us to the Father and the Son.<\/p>\n<p data-aid=\"154444923\" id=\"p29\">John declared:<\/p>\n<p data-aid=\"154444926\" id=\"p43\">\u201cAnd hereby we do know that we know him, if we keep his commandments.<\/p>\n<p data-aid=\"154444929\" id=\"p30\">\u201cHe that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.<\/p>\n<p data-aid=\"154444932\" id=\"p31\">\u201cBut whoso keepeth his word, <em>in him<\/em> verily is the love of God perfected: hereby know we that we are <em>in him<\/em>.<\/p>\n<p data-aid=\"154444935\" id=\"p32\">\u201cHe that saith he abideth in him ought himself also so <em>to walk, even as he walked<\/em>.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"154444938\" id=\"p33\">Jesus beckons to each of us, \u201cCome, follow me\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> and \u201cwalk with me.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"154444941\" id=\"p42\">I testify that as we press forward in faith and walk in the meekness of the Lord\u2019s Spirit,<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a> we are blessed with power, guidance, protection, and peace.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"154444944\" id=\"title5\">Testimony and Promise<\/h2>\n<\/header>\n<p data-aid=\"154444947\" id=\"p34\">Alma describes a loving entreaty from the Lord to all living souls:<\/p>\n<p data-aid=\"154444950\" id=\"p35\">\u201cBehold, he sendeth an invitation unto <em>all men<\/em>, for the arms of mercy are extended towards them, and he saith: Repent, and I will receive you.<\/p>\n<p data-aid=\"154444953\" id=\"p36\">\u201c\u2026 Come unto me and ye shall partake of the fruit of the tree of life; yea, ye shall eat and drink of the bread and the waters of life freely.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"154444956\" id=\"p37\">I emphasize the absolute comprehensiveness of the Savior\u2019s plea. He yearns to bless with His grace and mercy every single person who now lives, who has ever lived, and who will yet live upon the earth.<\/p>\n<p data-aid=\"154444959\" id=\"p38\">Some Church members accept as true the doctrine, principles, and testimonies proclaimed repeatedly from this pulpit in the Conference Center and in local congregations around the world\u2014and yet may struggle to believe these eternal truths apply specifically in their lives and to their circumstances. They believe sincerely and serve dutifully, but their covenant connection with the Father and His redeeming Son has not yet become a living and transforming reality in their lives.<\/p>\n<p data-aid=\"154444962\" id=\"p39\">I promise that by the power of the Holy Ghost, you can know and feel the gospel truths I have attempted to describe are for you\u2014for you individually and personally.<\/p>\n<p data-aid=\"154444967\" id=\"p40\">I joyfully witness that Jesus Christ is our loving and living Savior and Redeemer. If we abide in Him, He will abide in us.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> And as we walk in and with Him, we will be blessed to bring forth much fruit. I so testify in the sacred name of the Lord Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154444968\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154444973\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/5.18-24?lang=eng#p18\">Genesis 5:18\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.48-57?lang=eng#p48\">Doctrine and Covenants 107:48\u201357<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=eng\">Moses 6<\/a> and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=eng\">7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154444976\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.27?lang=eng#p27\">Moses 6:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154444977\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.31?lang=eng#p31\">Moses 6:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154444978\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.32,34?lang=eng#p32\">Moses 6:32, 34<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154444979\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-9?lang=eng#p4\">John 15:4\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154444980\" id=\"note6_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/abide-in-me?lang=eng&amp;para=16#p16\">Abide in Me<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 32.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154444981\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.10?lang=eng#p10\">John 15:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154444982\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29-30?lang=eng#p29\">Matthew 11:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154444983\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154444984\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=eng#p14\">3 Nephi 27:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154444985\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154444986\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/4.3?lang=eng#p3\">Moroni 4:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/5.2?lang=eng#p2\">5:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154444987\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154444988\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.10?lang=eng#p10\">John 15:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154444989\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33.22?lang=eng#p22\">Alma 33:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154444990\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33.23?lang=eng#p23\">Alma 33:23<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154444991\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.13?lang=eng#p13\">Alma 26:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154444992\" id=\"note18_p1\">I explained this principle in a devotional in 2017:<\/p>\n<p data-aid=\"154444993\" id=\"note18_p14\">\u201cAlma \u2026 \u2018began to preach <em>the word of God<\/em> unto the people, entering into their synagogues, and into their houses; yea, and even they did preach <em>the word<\/em> in their streets\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.1?lang=eng#p1\">Alma 32:1<\/a>; emphasis added]. He also compared the word of God to a seed.<\/p>\n<p data-aid=\"154444994\" id=\"note18_p2\">\u201c\u2018Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves\u2014It must needs be that this is a good seed, or that <em>the word<\/em> is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.28?lang=eng#p28\">Alma 32:28<\/a>; emphasis added].<\/p>\n<p data-aid=\"154444995\" id=\"note18_p3\">\u201cInterestingly, a good seed becomes a tree as it is planted in the heart and begins to swell, sprout, and grow.<\/p>\n<p data-aid=\"154444996\" id=\"note18_p4\">\u201c\u2018And behold, as <em>the tree<\/em> beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and <em>bring forth fruit<\/em> unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit.<\/p>\n<p data-aid=\"154444997\" id=\"note18_p5\">\u201c\u2018But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.<\/p>\n<p data-aid=\"154444998\" id=\"note18_p6\">\u201c\u2018Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof.<\/p>\n<p data-aid=\"154444999\" id=\"note18_p7\">\u201c\u2018And thus, if ye will not <em>nourish the word<\/em>, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.<\/p>\n<p data-aid=\"154445000\" id=\"note18_p8\">\u201c\u2018But if ye will <em>nourish the word<\/em>, yea, <em>nourish the tree<\/em> as it beginneth to grow, by your faith with great diligence, and with patience, looking forward to <em>the fruit thereof<\/em>, it shall take root; and behold it shall be <em>a tree springing up unto everlasting life<\/em>\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.37-41?lang=eng#p37\">Alma 32:37\u201341<\/a>; emphasis added].<\/p>\n<p data-aid=\"154445001\" id=\"note18_p9\">\u201c\u2026 The central feature in Lehi\u2019s dream is the tree of life\u2014a representation of \u2018the love of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.21-22?lang=eng#p21\">1 Nephi 11:21\u201322<\/a>].<\/p>\n<p data-aid=\"154445002\" id=\"note18_p10\">\u201c\u2018For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=eng#p16\">John 3:16<\/a>].<\/p>\n<p data-aid=\"154445003\" id=\"note18_p11\">\u201cThe birth, life, and atoning sacrifice of the Lord Jesus Christ are the greatest manifestations of God\u2019s love for His children. As Nephi testified, this love was \u2018most desirable above all things\u2019 and \u2018most joyous to the soul\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.22-23?lang=eng#p22\">1 Nephi 11:22\u201323<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.12,15?lang=eng#p12\">1 Nephi 8:12, 15<\/a>]. <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11?lang=eng\">Chapter 11 of 1 Nephi<\/a> presents a detailed description of the tree of life as a symbol for the life, ministry, and sacrifice of the Savior\u2014the \u2018condescension of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.16?lang=eng#p16\">1 Nephi 11:16<\/a>]. The tree can be considered as a representation of Christ.<\/p>\n<p data-aid=\"154445004\" id=\"note18_p12\">\u201cOne way of thinking about the fruit on the tree is as a symbol for the blessings of the Savior\u2019s Atonement. The fruit is described as \u2018desirable to make one happy\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.10?lang=eng#p10\">1 Nephi 8:10<\/a>] and produces great joy and the desire to share that joy with others.<\/p>\n<p data-aid=\"154445005\" id=\"note18_p13\">\u201cSignificantly, the overarching theme of the Book of Mormon, inviting all to come unto Christ [see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>], is paramount in Lehi\u2019s vision [see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=eng#p19\">1 Nephi 8:19<\/a>]\u201d (\u201cThe Power of His Word Which Is in Us\u201d [address given at seminar for new mission leaders, June 27, 2017], 4\u20135).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154445006\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154445007\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=eng#p17\">2 Corinthians 5:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154445008\" id=\"note21_p1\">Alma\u2019s analogy teaches us that the desire to believe plants the seed in our hearts, nourishing the seed by our faith sprouts the tree of life, and nourishing the tree produces fruit of the tree, which is \u201csweet above all that is sweet\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.42?lang=eng#p42\">Alma 32:42<\/a>) and is \u201cthe greatest of all the gifts of God\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.36?lang=eng#p36\">1 Nephi 15:36<\/a>).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154445009\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=eng#p14\">Alma 5:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154445010\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154445011\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.6?lang=eng#p6\">Colossians 2:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154445012\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/2.3-6?lang=eng#p3\">1 John 2:3\u20136<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154445013\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.22?lang=eng#p22\">Luke 18:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154445014\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154445015\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=eng#p23\">Doctrine and Covenants 19:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154445016\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.33-34?lang=eng#p33\">Alma 5:33\u201334<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154445017\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.5?lang=eng#p5\">John 15:5<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154444837",
+        "id": "note4",
+        "text": "<p data-aid=\"154444978\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.32,34?lang=eng#p32\">Moses 6:32, 34<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.32,34?lang=eng#p32",
+          "text": "Moses 6:32, 34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154444851",
+        "id": "note5",
+        "text": "<p data-aid=\"154444979\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-9?lang=eng#p4\">John 15:4\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.4-9?lang=eng#p4",
+          "text": "John 15:4\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154444820",
+        "id": "note2",
+        "text": "<p data-aid=\"154444976\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.27?lang=eng#p27\">Moses 6:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.27?lang=eng#p27",
+          "text": "Moses 6:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154444825",
+        "id": "note3",
+        "text": "<p data-aid=\"154444977\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.31?lang=eng#p31\">Moses 6:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.31?lang=eng#p31",
+          "text": "Moses 6:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154444859",
+        "id": "note8",
+        "text": "<p data-aid=\"154444982\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29-30?lang=eng#p29\">Matthew 11:29\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.29-30?lang=eng#p29",
+          "text": "Matthew 11:29\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154444859",
+        "id": "note9",
+        "text": "<p data-aid=\"154444983\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.12?lang=eng#p12",
+          "text": "Helaman 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154444855",
+        "id": "note6",
+        "text": "<p data-aid=\"154444980\" id=\"note6_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/abide-in-me?lang=eng&amp;para=16#p16\">Abide in Me<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 32.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/04/abide-in-me?lang=eng&amp;para=16#p16",
+          "text": "Abide in Me",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154444855",
+        "id": "note7",
+        "text": "<p data-aid=\"154444981\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.10?lang=eng#p10\">John 15:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.10?lang=eng#p10",
+          "text": "John 15:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154444967",
+        "id": "note30",
+        "text": "<p data-aid=\"154445017\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.5?lang=eng#p5\">John 15:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.5?lang=eng#p5",
+          "text": "John 15:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154444897",
+        "id": "note16",
+        "text": "<p data-aid=\"154444990\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33.23?lang=eng#p23\">Alma 33:23<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/33.23?lang=eng#p23",
+          "text": "Alma 33:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154444892",
+        "id": "note15",
+        "text": "<p data-aid=\"154444989\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33.22?lang=eng#p22\">Alma 33:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/33.22?lang=eng#p22",
+          "text": "Alma 33:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154444877",
+        "id": "note14",
+        "text": "<p data-aid=\"154444988\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.10?lang=eng#p10\">John 15:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.10?lang=eng#p10",
+          "text": "John 15:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154444874",
+        "id": "note13",
+        "text": "<p data-aid=\"154444987\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.17?lang=eng#p17\">Mosiah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.17?lang=eng#p17",
+          "text": "Mosiah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154444871",
+        "id": "note12",
+        "text": "<p data-aid=\"154444986\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/4.3?lang=eng#p3\">Moroni 4:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/5.2?lang=eng#p2\">5:2<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/4.3?lang=eng#p3",
+            "text": "Moroni 4:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/5.2?lang=eng#p2",
+            "text": "5:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154444867",
+        "id": "note11",
+        "text": "<p data-aid=\"154444985\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.3?lang=eng#p3",
+          "text": "2 Nephi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154444867",
+        "id": "note10",
+        "text": "<p data-aid=\"154444984\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=eng#p14\">3 Nephi 27:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.14-15?lang=eng#p14",
+          "text": "3 Nephi 27:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154444905",
+        "id": "note19",
+        "text": "<p data-aid=\"154445006\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/3.3?lang=eng#p3",
+          "text": "2 Corinthians 3:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154444902",
+        "id": "note18",
+        "text": "<p data-aid=\"154444992\" id=\"note18_p1\">I explained this principle in a devotional in 2017:<\/p>\n<p data-aid=\"154444993\" id=\"note18_p14\">\u201cAlma \u2026 \u2018began to preach <em>the word of God<\/em> unto the people, entering into their synagogues, and into their houses; yea, and even they did preach <em>the word<\/em> in their streets\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.1?lang=eng#p1\">Alma 32:1<\/a>; emphasis added]. He also compared the word of God to a seed.<\/p>\n<p data-aid=\"154444994\" id=\"note18_p2\">\u201c\u2018Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves\u2014It must needs be that this is a good seed, or that <em>the word<\/em> is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.28?lang=eng#p28\">Alma 32:28<\/a>; emphasis added].<\/p>\n<p data-aid=\"154444995\" id=\"note18_p3\">\u201cInterestingly, a good seed becomes a tree as it is planted in the heart and begins to swell, sprout, and grow.<\/p>\n<p data-aid=\"154444996\" id=\"note18_p4\">\u201c\u2018And behold, as <em>the tree<\/em> beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and <em>bring forth fruit<\/em> unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit.<\/p>\n<p data-aid=\"154444997\" id=\"note18_p5\">\u201c\u2018But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.<\/p>\n<p data-aid=\"154444998\" id=\"note18_p6\">\u201c\u2018Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof.<\/p>\n<p data-aid=\"154444999\" id=\"note18_p7\">\u201c\u2018And thus, if ye will not <em>nourish the word<\/em>, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.<\/p>\n<p data-aid=\"154445000\" id=\"note18_p8\">\u201c\u2018But if ye will <em>nourish the word<\/em>, yea, <em>nourish the tree<\/em> as it beginneth to grow, by your faith with great diligence, and with patience, looking forward to <em>the fruit thereof<\/em>, it shall take root; and behold it shall be <em>a tree springing up unto everlasting life<\/em>\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.37-41?lang=eng#p37\">Alma 32:37\u201341<\/a>; emphasis added].<\/p>\n<p data-aid=\"154445001\" id=\"note18_p9\">\u201c\u2026 The central feature in Lehi\u2019s dream is the tree of life\u2014a representation of \u2018the love of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.21-22?lang=eng#p21\">1 Nephi 11:21\u201322<\/a>].<\/p>\n<p data-aid=\"154445002\" id=\"note18_p10\">\u201c\u2018For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=eng#p16\">John 3:16<\/a>].<\/p>\n<p data-aid=\"154445003\" id=\"note18_p11\">\u201cThe birth, life, and atoning sacrifice of the Lord Jesus Christ are the greatest manifestations of God\u2019s love for His children. As Nephi testified, this love was \u2018most desirable above all things\u2019 and \u2018most joyous to the soul\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.22-23?lang=eng#p22\">1 Nephi 11:22\u201323<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.12,15?lang=eng#p12\">1 Nephi 8:12, 15<\/a>]. <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11?lang=eng\">Chapter 11 of 1 Nephi<\/a> presents a detailed description of the tree of life as a symbol for the life, ministry, and sacrifice of the Savior\u2014the \u2018condescension of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.16?lang=eng#p16\">1 Nephi 11:16<\/a>]. The tree can be considered as a representation of Christ.<\/p>\n<p data-aid=\"154445004\" id=\"note18_p12\">\u201cOne way of thinking about the fruit on the tree is as a symbol for the blessings of the Savior\u2019s Atonement. The fruit is described as \u2018desirable to make one happy\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.10?lang=eng#p10\">1 Nephi 8:10<\/a>] and produces great joy and the desire to share that joy with others.<\/p>\n<p data-aid=\"154445005\" id=\"note18_p13\">\u201cSignificantly, the overarching theme of the Book of Mormon, inviting all to come unto Christ [see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>], is paramount in Lehi\u2019s vision [see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=eng#p19\">1 Nephi 8:19<\/a>]\u201d (\u201cThe Power of His Word Which Is in Us\u201d [address given at seminar for new mission leaders, June 27, 2017], 4\u20135).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/32.1?lang=eng#p1",
+            "text": "Alma 32:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32.28?lang=eng#p28",
+            "text": "Alma 32:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32.37-41?lang=eng#p37",
+            "text": "Alma 32:37\u201341",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11.21-22?lang=eng#p21",
+            "text": "1 Nephi 11:21\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/3.16?lang=eng#p16",
+            "text": "John 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11.22-23?lang=eng#p22",
+            "text": "1 Nephi 11:22\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.12,15?lang=eng#p12",
+            "text": "1 Nephi 8:12, 15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11?lang=eng",
+            "text": "Chapter 11 of 1 Nephi",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11.16?lang=eng#p16",
+            "text": "1 Nephi 11:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.10?lang=eng#p10",
+            "text": "1 Nephi 8:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.32?lang=eng#p32",
+            "text": "Moroni 10:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.19?lang=eng#p19",
+            "text": "1 Nephi 8:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154444900",
+        "id": "note17",
+        "text": "<p data-aid=\"154444991\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.13?lang=eng#p13\">Alma 26:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/26.13?lang=eng#p13",
+          "text": "Alma 26:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154444938",
+        "id": "note27",
+        "text": "<p data-aid=\"154445014\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.34?lang=eng#p34",
+          "text": "Moses 6:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154444938",
+        "id": "note26",
+        "text": "<p data-aid=\"154445013\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.22?lang=eng#p22\">Luke 18:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18.22?lang=eng#p22",
+          "text": "Luke 18:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154444935",
+        "id": "note25",
+        "text": "<p data-aid=\"154445012\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/2.3-6?lang=eng#p3\">1 John 2:3\u20136<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-jn/2.3-6?lang=eng#p3",
+          "text": "1 John 2:3\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154444917",
+        "id": "note24",
+        "text": "<p data-aid=\"154445011\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.6?lang=eng#p6\">Colossians 2:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/col/2.6?lang=eng#p6",
+          "text": "Colossians 2:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154444911",
+        "id": "note23",
+        "text": "<p data-aid=\"154445010\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.34?lang=eng#p34",
+          "text": "Moses 6:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154444909",
+        "id": "note22",
+        "text": "<p data-aid=\"154445009\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=eng#p14\">Alma 5:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.14?lang=eng#p14",
+          "text": "Alma 5:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154444905",
+        "id": "note21",
+        "text": "<p data-aid=\"154445008\" id=\"note21_p1\">Alma\u2019s analogy teaches us that the desire to believe plants the seed in our hearts, nourishing the seed by our faith sprouts the tree of life, and nourishing the tree produces fruit of the tree, which is \u201csweet above all that is sweet\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.42?lang=eng#p42\">Alma 32:42<\/a>) and is \u201cthe greatest of all the gifts of God\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.36?lang=eng#p36\">1 Nephi 15:36<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/32.42?lang=eng#p42",
+            "text": "Alma 32:42",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/15.36?lang=eng#p36",
+            "text": "1 Nephi 15:36",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154444905",
+        "id": "note20",
+        "text": "<p data-aid=\"154445007\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=eng#p17\">2 Corinthians 5:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/5.17?lang=eng#p17",
+          "text": "2 Corinthians 5:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154444816",
+        "id": "note1",
+        "text": "<p data-aid=\"154444973\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/5.18-24?lang=eng#p18\">Genesis 5:18\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.48-57?lang=eng#p48\">Doctrine and Covenants 107:48\u201357<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=eng\">Moses 6<\/a> and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=eng\">7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/5.18-24?lang=eng#p18",
+            "text": "Genesis 5:18\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107.48-57?lang=eng#p48",
+            "text": "Doctrine and Covenants 107:48\u201357",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6?lang=eng",
+            "text": "Moses 6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/7?lang=eng",
+            "text": "7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154444953",
+        "id": "note29",
+        "text": "<p data-aid=\"154445016\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.33-34?lang=eng#p33\">Alma 5:33\u201334<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.33-34?lang=eng#p33",
+          "text": "Alma 5:33\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154444941",
+        "id": "note28",
+        "text": "<p data-aid=\"154445015\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=eng#p23\">Doctrine and Covenants 19:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19.23?lang=eng#p23",
+          "text": "Doctrine and Covenants 19:23",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

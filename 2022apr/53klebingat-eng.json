@@ -1,0 +1,924 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/53klebingat?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "3f147cfa665d4bd996af44d61a3eaaf3",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/53klebingat",
+      "data-aid": "149808463",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "3f147cfa665d4bd996af44d61a3eaaf3"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/c6/12/c6123cb05b58b2872cecd62199c1c110341a267b/c6123cb05b58b2872cecd62199c1c110341a267b.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5030-jrg-klebingat-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Valiant Discipleship in the Latter Days",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149808463",
+      {"key": "149808463"}
+    ],
+    [
+      "149808476",
+      {"key": "149808476"}
+    ],
+    [
+      "149808488",
+      {"key": "149808488"}
+    ],
+    [
+      "149808500",
+      {"key": "149808500"}
+    ],
+    [
+      "149808512",
+      {"key": "149808512"}
+    ],
+    [
+      "149808524",
+      {"key": "149808524"}
+    ],
+    [
+      "149808536",
+      {"key": "149808536"}
+    ],
+    [
+      "149808548",
+      {"key": "149808548"}
+    ],
+    [
+      "149808560",
+      {"key": "149808560"}
+    ],
+    [
+      "149808572",
+      {"key": "149808572"}
+    ],
+    [
+      "149808584",
+      {"key": "149808584"}
+    ],
+    [
+      "149808596",
+      {"key": "149808596"}
+    ],
+    [
+      "149808608",
+      {"key": "149808608"}
+    ],
+    [
+      "149808621",
+      {"key": "149808621"}
+    ],
+    [
+      "149808633",
+      {"key": "149808633"}
+    ],
+    [
+      "149808645",
+      {"key": "149808645"}
+    ],
+    [
+      "149808657",
+      {"key": "149808657"}
+    ],
+    [
+      "149808669",
+      {"key": "149808669"}
+    ],
+    [
+      "149808681",
+      {"key": "149808681"}
+    ],
+    [
+      "149808693",
+      {"key": "149808693"}
+    ],
+    [
+      "149808704",
+      {"key": "149808704"}
+    ],
+    [
+      "149808714",
+      {"key": "149808714"}
+    ],
+    [
+      "149808724",
+      {"key": "149808724"}
+    ],
+    [
+      "149808734",
+      {"key": "149808734"}
+    ],
+    [
+      "149808743",
+      {"key": "149808743"}
+    ],
+    [
+      "149808752",
+      {"key": "149808752"}
+    ],
+    [
+      "149808761",
+      {"key": "149808761"}
+    ],
+    [
+      "149808770",
+      {"key": "149808770"}
+    ],
+    [
+      "149808779",
+      {"key": "149808779"}
+    ],
+    [
+      "149808788",
+      {"key": "149808788"}
+    ],
+    [
+      "149808797",
+      {"key": "149808797"}
+    ],
+    [
+      "149808805",
+      {"key": "149808805"}
+    ],
+    [
+      "149808812",
+      {"key": "149808812"}
+    ],
+    [
+      "149808819",
+      {"key": "149808819"}
+    ],
+    [
+      "149808826",
+      {"key": "149808826"}
+    ],
+    [
+      "149808833",
+      {"key": "149808833"}
+    ],
+    [
+      "149808840",
+      {"key": "149808840"}
+    ],
+    [
+      "149808847",
+      {"key": "149808847"}
+    ],
+    [
+      "149808854",
+      {"key": "149808854"}
+    ],
+    [
+      "149808861",
+      {"key": "149808861"}
+    ],
+    [
+      "149808867",
+      {"key": "149808867"}
+    ],
+    [
+      "149808873",
+      {"key": "149808873"}
+    ],
+    [
+      "149808879",
+      {"key": "149808879"}
+    ],
+    [
+      "149808884",
+      {"key": "149808884"}
+    ],
+    [
+      "149808889",
+      {"key": "149808889"}
+    ],
+    [
+      "149808894",
+      {"key": "149808894"}
+    ],
+    [
+      "149808899",
+      {"key": "149808899"}
+    ],
+    [
+      "149808904",
+      {"key": "149808904"}
+    ],
+    [
+      "149808909",
+      {"key": "149808909"}
+    ],
+    [
+      "149808914",
+      {"key": "149808914"}
+    ],
+    [
+      "149808919",
+      {"key": "149808919"}
+    ],
+    [
+      "149808924",
+      {"key": "149808924"}
+    ],
+    [
+      "149808929",
+      {"key": "149808929"}
+    ],
+    [
+      "149808934",
+      {"key": "149808934"}
+    ],
+    [
+      "149808939",
+      {"key": "149808939"}
+    ],
+    [
+      "149808943",
+      {"key": "149808943"}
+    ],
+    [
+      "149808947",
+      {"key": "149808947"}
+    ],
+    [
+      "149808950",
+      {"key": "149808950"}
+    ],
+    [
+      "149808954",
+      {"key": "149808954"}
+    ],
+    [
+      "149808958",
+      {"key": "149808958"}
+    ],
+    [
+      "149808961",
+      {"key": "149808961"}
+    ],
+    [
+      "149808963",
+      {"key": "149808963"}
+    ],
+    [
+      "149808965",
+      {"key": "149808965"}
+    ],
+    [
+      "149808967",
+      {"key": "149808967"}
+    ],
+    [
+      "149808969",
+      {"key": "149808969"}
+    ],
+    [
+      "149808971",
+      {"key": "149808971"}
+    ],
+    [
+      "149808973",
+      {"key": "149808973"}
+    ],
+    [
+      "149808975",
+      {"key": "149808975"}
+    ],
+    [
+      "149808977",
+      {"key": "149808977"}
+    ],
+    [
+      "149808979",
+      {"key": "149808979"}
+    ],
+    [
+      "149808980",
+      {"key": "149808980"}
+    ],
+    [
+      "149808981",
+      {"key": "149808981"}
+    ],
+    [
+      "149808982",
+      {"key": "149808982"}
+    ],
+    [
+      "149808983",
+      {"key": "149808983"}
+    ],
+    [
+      "149808984",
+      {"key": "149808984"}
+    ],
+    [
+      "149808985",
+      {"key": "149808985"}
+    ],
+    [
+      "149808986",
+      {"key": "149808986"}
+    ],
+    [
+      "149808987",
+      {"key": "149808987"}
+    ],
+    [
+      "149808988",
+      {"key": "149808988"}
+    ],
+    [
+      "149808989",
+      {"key": "149808989"}
+    ],
+    [
+      "149808990",
+      {"key": "149808990"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/53klebingat",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Klebingat teaches about how to be a valiant disciple of Christ.",
+          "title": "Valiant Discipleship in the Latter Days"
+        },
+        "pageSocial": {
+          "description": "Elder Klebingat teaches about how to be a valiant disciple of Christ.",
+          "title": "Valiant Discipleship in the Latter Days"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/c6/12/c6123cb05b58b2872cecd62199c1c110341a267b/c6123cb05b58b2872cecd62199c1c110341a267b.image/jpeg\" data-video-title=\"Valiant Discipleship in the Latter Days\" data-video-description=\"Elder Klebingat teaches about how to be a valiant disciple of Christ.\" data-video-id=\"6302789787001\" data-ip=\"Download and Streaming                            \" data-duration=\"617651\" data-assetId=\"94d71d5ab39411ecab72eeeeac1efc13769efb75\" data-ref-id=\"7AACE66AE4F3D1702E0AB4D31771520066DEFCE8\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302789787001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5030-jrg-klebingat-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57127791\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5030-jrg-klebingat-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"147901957\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5030-jrg-klebingat-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"203092537\"/><\/video><h1 data-aid=\"149808476\" id=\"title1\">Valiant Discipleship in the Latter Days<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149808488\" id=\"author1\">By Elder Jörg Klebingat<\/p>\n<p class=\"author-role\" data-aid=\"149808500\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149808512\" id=\"kicker1\">Let us be confident, not apologetic, valiant, not timid, faithful, not fearful as we hold up the Lord\u2019s light in these last days.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149808524\" id=\"p1\">Moral agency is God\u2019s precious gift to each of His children.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> We are \u201cfree to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> God <em>won\u2019t<\/em> force us to do good, and the devil <em>can\u2019t<\/em> force us to do evil.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Though some may think that mortality is a contest between God and the adversary, a word from the Savior \u201cand Satan is silenced and banished. \u2026 It is [our] strength that is being tested\u2014not God\u2019s.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"149808536\" id=\"p27\">In the end we will therefore reap what our lifelong choices have sown.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> So what does the sum total of our thoughts, desires, words, and works say about our love for the Savior, His chosen servants, and His restored Church? Do our baptismal, priesthood, and temple covenants mean more to us than the praise of the world or the number of \u201clikes\u201d on social media? Is our love for the Lord and His commandments stronger than our love for anything or anyone else in this life?<\/p>\n<p data-aid=\"149808548\" id=\"p3\">The adversary and his followers have always sought to destroy the works of Christ and His prophets. The Savior\u2019s commandments, if not ignored altogether, have been rationalized into meaninglessness by many in today\u2019s world. Messengers of God who teach \u201cinconvenient\u201d truths are often dismissed. Even the Savior Himself was called \u201ca man gluttonous, and a winebibber,\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> accused of disturbing public sentiment and being divisive. Weak and conniving souls \u201ctook counsel how they might entangle him in his talk,\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> and His \u201csect\u201d of early Christians was \u201cevery where \u2026 spoken against.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"149808560\" id=\"p4\">The Savior and His early followers dealt with serious internal and external opposition, and we experience the same. Today it is almost impossible to courageously live our faith without occasionally attracting a few actual and virtual fingers of scorn from the worldly. Confidently following the Savior is rewarding, but at times we may get caught in the crosshairs of those advocating an \u201ceat, drink, and be merry\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> philosophy, where faith in Christ, obedience, and repentance are substituted by the illusion that God will justify a little sin because He loves us so much.<\/p>\n<p data-aid=\"149808572\" id=\"p5\">Speaking \u201cby [His] own voice or by the voice of [His] servants,\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> did the Savior not say about our day that \u201cthe time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers\u201d and that many \u201cshall turn away their ears from the truth, and shall be turned unto fables\u201d?<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Did He not lament that \u201cin vain they do worship me, teaching for doctrines the commandments of men\u201d?<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> Did He not warn that \u201cof your own selves shall men arise, speaking perverse things, to draw away disciples after them\u201d?<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Did He not foresee that \u201cevil [would be called] good, and good evil\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> and that \u201ca man\u2019s foes shall be they of his own household\u201d?<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"149808584\" id=\"p6\">So what about us? Should we be intimidated or afraid? Should we live our religion at periscope depth? Surely not! With faith in Christ, we need not fear the reproach of men or be afraid of their revilings.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> With the Savior at the helm and living prophets to lead and guide us, \u201cwho can be against us?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> Let us be confident, not apologetic, valiant, not timid, faithful, not fearful as we hold up the Lord\u2019s light in these last days.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"149808596\" id=\"p7\">The Savior made clear that \u201cwhosoever therefore shall confess me before men, him will I confess also before my Father. \u2026 But whosoever shall deny me before men, him will I also deny before my Father.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"149808608\" id=\"p8\">Consequently, while some would prefer a God who comes without commandments, let us boldly testify, in the words of Elder D. Todd Christofferson, that \u201ca God who makes no demands is the functional equivalent of a God who does not exist.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"149808621\" id=\"p9\">While some would prefer to be selective in the commandments they follow, let us joyfully accept the Savior\u2019s invitation to \u201clive by <em>every<\/em> word which proceedeth forth out of the mouth of God.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"149808633\" id=\"p10\">While many believe the Lord and His Church condone doing \u201cwhatsoever [our] heart desireth,\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> let us valiantly proclaim that it is wrong to \u201cfollow a multitude to do evil,\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> because \u201ccrowds cannot make right what God has declared to be wrong.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"149808645\" id=\"p11\">\u201cO remember, remember \u2026 how strict [yet liberating] are the commandments of God.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> Teaching them clearly may at times be seen as an act of intolerance. Let us therefore respectfully demonstrate that it is not only possible but essential to love a child of God who embraces beliefs different from our own.<\/p>\n<p data-aid=\"149808657\" id=\"p12\">We can accept and respect others without endorsing their beliefs or actions that do not align with the Lord\u2019s will. There is no need to sacrifice truth on the altar of agreeableness and social desirability.<\/p>\n<p data-aid=\"149808669\" id=\"p13\">Zion and Babylon are incompatible. \u201cNo man can serve two masters.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> Let\u2019s all remember the Savior\u2019s penetrating question, \u201cWhy call ye me, Lord, Lord, and do <em>not<\/em> the things which I say?\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"149808681\" id=\"p14\">Let us demonstrate our love for the Lord through wholehearted, voluntary obedience.<\/p>\n<p data-aid=\"149808693\" id=\"p15\">If you feel caught between your discipleship and the world, please remember that your loving Savior \u201csendeth an invitation \u2026 , for the arms of mercy are extended [to you], and he saith: Repent, and I will receive you.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"149808704\" id=\"p16\">President Russell M. Nelson taught that Jesus Christ \u201cwill perform some of His mightiest works between now and when He comes again.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> But he also taught that \u201cthose who choose the Lord\u2019s way will likely endure persecution.\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> Being \u201ccounted worthy to suffer shame for his name\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> may at times be our lot as we \u201callow His voice to take priority over any other.\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a><\/p>\n<p data-aid=\"149808714\" id=\"p17\">\u201cBlessed is he,\u201d the Savior said, \u201cwhosoever shall <em>not<\/em> be offended in me.\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a> Elsewhere we learn that \u201cgreat peace have they which <em>love<\/em> thy law: and <em>nothing<\/em> shall offend them.\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a> Nothing! So let\u2019s ask ourselves, \u201cAm I enduring for a while, but when tribulation or persecution arises because of the word, by and by am I offended?<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a> Am I firmly built on the rock of Jesus Christ and His servants?\u201d<\/p>\n<p data-aid=\"149808724\" id=\"p18\">Moral relativists advocate that truth is merely a social construct, that there are no moral absolutes. What they are really saying is that there is no sin,<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a> that \u201cwhatsoever a man [does is] no crime,\u201d<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a> a philosophy for which the adversary is claiming proud authorship! Let us therefore beware of wolves in sheep\u2019s clothing, who are always recruiting and \u201c[often use] their intellectual reservations to cover their [own] behavioral lapses.\u201d<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\">38<\/sup><\/a><\/p>\n<p data-aid=\"149808734\" id=\"p19\">If we really want to be valiant disciples of Christ, we will find a way. Otherwise, the adversary offers enticing alternatives. But as faithful disciples, \u201cwe need not apologize for our beliefs nor back down from that which we know to be true.\u201d<a class=\"note-ref\" href=\"#note39\"><sup class=\"marker\">39<\/sup><\/a><\/p>\n<p data-aid=\"149808743\" id=\"p20\">In conclusion, a word about the 15 servants of God seated behind me. While the worldly \u201csay to the seers, See not; and to the prophets, Prophesy not,\u201d<a class=\"note-ref\" href=\"#note40\"><sup class=\"marker\">40<\/sup><\/a> the faithful are \u201ccrowned with blessings from above, yea, and with commandments not a few, and with revelations in their time.\u201d<a class=\"note-ref\" href=\"#note41\"><sup class=\"marker\">41<\/sup><\/a><\/p>\n<p data-aid=\"149808752\" id=\"p21\">Not surprisingly, these men frequently become the lightning rods for those unhappy with the word of God as the prophets proclaim it. Those who reject the prophets don\u2019t realize that \u201cno prophecy of the scripture is [to be] of any private interpretation\u201d or the result of the will of man \u201cbut [that] holy men of God [speak now] as they [are] moved by the Holy Ghost.\u201d<a class=\"note-ref\" href=\"#note42\"><sup class=\"marker\">42<\/sup><\/a><\/p>\n<p data-aid=\"149808761\" id=\"p22\">Like Paul, these men of God are \u201cnot \u2026 ashamed of the testimony of our Lord\u201d and are His \u201cprisoner[s]\u201d<a class=\"note-ref\" href=\"#note43\"><sup class=\"marker\">43<\/sup><\/a> in the sense that the doctrine they teach is not theirs but His who called them. Like Peter, they \u201ccannot but speak the things which [they] have seen and heard.\u201d<a class=\"note-ref\" href=\"#note44\"><sup class=\"marker\">44<\/sup><\/a> I testify that the First Presidency and the Quorum of the Twelve are good and honest men who love God and His children and who are loved by Him. Their words we should receive as if from the Lord\u2019s own mouth \u201cin all patience and faith. For by doing these things the gates of hell shall not prevail against [us]; \u2026 and the Lord God will disperse the powers of darkness from before [us].\u201d<a class=\"note-ref\" href=\"#note45\"><sup class=\"marker\">45<\/sup><\/a><\/p>\n<p data-aid=\"149808770\" id=\"p23\">\u201cNo unhallowed hand can stop the work from progressing\u201d;<a class=\"note-ref\" href=\"#note46\"><sup class=\"marker\">46<\/sup><\/a> it will march on triumphantly with or without you or me, so \u201cchoose you this day whom ye will serve.\u201d<a class=\"note-ref\" href=\"#note47\"><sup class=\"marker\">47<\/sup><\/a> Don\u2019t be fooled or intimidated by the loud adversarial noises emanating from the great and spacious building. Their desperate decibels are no match for the serene influence of the still, small voice upon broken hearts and contrite spirits.<\/p>\n<p data-aid=\"149808779\" id=\"p24\">I testify that Christ lives, that He is our Savior and Redeemer, and that He leads His Church through the First Presidency and the Quorum of the Twelve Apostles, thus assuring that we are not \u201ctossed to and fro, and carried about with every wind of doctrine.\u201d<a class=\"note-ref\" href=\"#note48\"><sup class=\"marker\">48<\/sup><\/a><\/p>\n<p data-aid=\"149808788\" id=\"p25\">\u201cTrue disciples of Jesus Christ,\u201d President Nelson taught, \u201care willing to stand out, speak up, and be different from the people of the world. They are undaunted, devoted, and courageous.\u201d<a class=\"note-ref\" href=\"#note49\"><sup class=\"marker\">49<\/sup><\/a><\/p>\n<p data-aid=\"149808797\" id=\"p26\">Brothers and sisters, it\u2019s a good day to be good! In the sacred name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149808805\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149808812\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101.78?lang=eng#p78\">Doctrine and Covenants 101:78<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149808819\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.27?lang=eng#p27\">2 Nephi 2:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149808826\" id=\"note3_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-17?lang=eng&amp;para=32#p32\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 214.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149808833\" id=\"note4_p1\">Hugh Nibley, \u201cBeyond Politics,\u201d <cite>BYU Studies<\/cite>, vol. 15, no. 1 (1974), 8.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149808840\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/9.6?lang=eng#p6\">2 Corinthians 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.33?lang=eng#p33\">Doctrine and Covenants 6:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149808847\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.19?lang=eng#p19\">Matthew 11:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149808854\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.15?lang=eng#p15\">Matthew 22:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149808861\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/28.22?lang=eng#p22\">Acts 28:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149808867\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.7?lang=eng#p7\">2 Nephi 28:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149808873\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.38?lang=eng#p38\">Doctrine and Covenants 1:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149808879\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/4.3-4?lang=eng#p3\">2 Timothy 4:3\u20134<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149808884\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/15.9?lang=eng#p9\">Matthew 15:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149808889\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20.30?lang=eng#p30\">Acts 20:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149808894\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/5.20?lang=eng#p20\">Isaiah 5:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149808899\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/10.36?lang=eng#p36\">Matthew 10:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149808904\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/8.7?lang=eng#p7\">2 Nephi 8:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149808909\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.31?lang=eng#p31\">Romans 8:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149808914\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.24?lang=eng#p24\">3 Nephi 18:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149808919\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/10.32-33?lang=eng#p32\">Matthew 10:32\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149808924\" id=\"note20_p1\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/free-forever-to-act-for-themselves?lang=eng&amp;para=20#p20\">Free Forever, to Act for Themselves<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 18.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149808929\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/98.11?lang=eng#p11\">Doctrine and Covenants 98:11<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149808934\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13.27?lang=eng#p27\">Helaman 13:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149808939\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/23.2?lang=eng#p2\">Exodus 23:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149808943\" id=\"note24_p1\">Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1988/10/answer-me?lang=eng&amp;para=30#p30\">Answer Me<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1988, 33.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149808947\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.13?lang=eng#p13\">Alma 37:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149808950\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.24?lang=eng#p24\">Matthew 6:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149808954\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.46?lang=eng#p46\">Luke 6:46<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149808958\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.33?lang=eng#p33\">Alma 5:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"149808961\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"149808963\" id=\"note30_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/04/now-is-the-time-to-prepare?lang=eng&amp;para=10#p10\">Now Is the Time to Prepare<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2005, 17.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"149808965\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/5.41?lang=eng#p41\">Acts 5:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"149808967\" id=\"note32_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;para=24#p24\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"149808969\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.6?lang=eng#p6\">Matthew 11:6<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"149808971\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/119.165?lang=eng#p165\">Psalm 119:165<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"149808973\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.20-21?lang=eng#p20\">Matthew 13:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"149808975\" id=\"note36_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.13?lang=eng#p13\">2 Nephi 2:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"149808977\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30.17?lang=eng#p17\">Alma 30:17<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/1.4?lang=eng#p4\">Alma 1:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"149808979\" id=\"note38_p1\">Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/remember-how-merciful-the-lord-hath-been?lang=eng\">Remember How Merciful the Lord Hath Been<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 45; see also Neal A. Maxwell, <cite>All These Things Shall Give Thee Experience<\/cite> (1979), 110.<\/p>\n<\/li>\n<li data-marker=\"39.\" id=\"note39\" data-full-marker=\"39.\">\n<p data-aid=\"149808980\" id=\"note39_p1\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/04/how-is-it-with-us?lang=eng&amp;para=22#p22\">How Is It with Us?<\/a>,\u201d <cite>Ensign<\/cite>, May 2000, 33; <cite>Liahona<\/cite>, July 2000, 40.<\/p>\n<\/li>\n<li data-marker=\"40.\" id=\"note40\" data-full-marker=\"40.\">\n<p data-aid=\"149808981\" id=\"note40_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/30.10?lang=eng#p10\">Isaiah 30:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"41.\" id=\"note41\" data-full-marker=\"41.\">\n<p data-aid=\"149808982\" id=\"note41_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.4?lang=eng#p4\">Doctrine and Covenants 59:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"42.\" id=\"note42\" data-full-marker=\"42.\">\n<p data-aid=\"149808983\" id=\"note42_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1.20-21?lang=eng#p20\">2 Peter 1:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"43.\" id=\"note43\" data-full-marker=\"43.\">\n<p data-aid=\"149808984\" id=\"note43_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/1.8?lang=eng#p8\">2 Timothy 1:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"44.\" id=\"note44\" data-full-marker=\"44.\">\n<p data-aid=\"149808985\" id=\"note44_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/4.20?lang=eng#p20\">Acts 4:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"45.\" id=\"note45\" data-full-marker=\"45.\">\n<p data-aid=\"149808986\" id=\"note45_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.5-6?lang=eng#p5\">Doctrine and Covenants 21:5\u20136<\/a>.<\/p>\n<\/li>\n<li data-marker=\"46.\" id=\"note46\" data-full-marker=\"46.\">\n<p data-aid=\"149808987\" id=\"note46_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-38?lang=eng&amp;para=20#p20\">Teachings: Joseph Smith<\/a><\/cite>, 444.<\/p>\n<\/li>\n<li data-marker=\"47.\" id=\"note47\" data-full-marker=\"47.\">\n<p data-aid=\"149808988\" id=\"note47_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/24.15?lang=eng#p15\">Joshua 24:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"48.\" id=\"note48\" data-full-marker=\"48.\">\n<p data-aid=\"149808989\" id=\"note48_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.14?lang=eng#p14\">Ephesians 4:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"49.\" id=\"note49\" data-full-marker=\"49.\">\n<p data-aid=\"149808990\" id=\"note49_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=18#p18\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 40\u201341.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note16": {
+        "marker": "16.",
+        "pid": "149808584",
+        "id": "note16",
+        "text": "<p data-aid=\"149808904\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/8.7?lang=eng#p7\">2 Nephi 8:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/8.7?lang=eng#p7",
+          "text": "2 Nephi 8:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149808572",
+        "id": "note15",
+        "text": "<p data-aid=\"149808899\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/10.36?lang=eng#p36\">Matthew 10:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/10.36?lang=eng#p36",
+          "text": "Matthew 10:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149808572",
+        "id": "note14",
+        "text": "<p data-aid=\"149808894\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/5.20?lang=eng#p20\">Isaiah 5:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/5.20?lang=eng#p20",
+          "text": "Isaiah 5:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149808572",
+        "id": "note13",
+        "text": "<p data-aid=\"149808889\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20.30?lang=eng#p30\">Acts 20:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/20.30?lang=eng#p30",
+          "text": "Acts 20:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149808572",
+        "id": "note12",
+        "text": "<p data-aid=\"149808884\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/15.9?lang=eng#p9\">Matthew 15:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/15.9?lang=eng#p9",
+          "text": "Matthew 15:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149808572",
+        "id": "note11",
+        "text": "<p data-aid=\"149808879\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/4.3-4?lang=eng#p3\">2 Timothy 4:3\u20134<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-tim/4.3-4?lang=eng#p3",
+          "text": "2 Timothy 4:3\u20134",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149808572",
+        "id": "note10",
+        "text": "<p data-aid=\"149808873\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.38?lang=eng#p38\">Doctrine and Covenants 1:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.38?lang=eng#p38",
+          "text": "Doctrine and Covenants 1:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149808596",
+        "id": "note19",
+        "text": "<p data-aid=\"149808919\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/10.32-33?lang=eng#p32\">Matthew 10:32\u201333<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/10.32-33?lang=eng#p32",
+          "text": "Matthew 10:32\u201333",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149808584",
+        "id": "note18",
+        "text": "<p data-aid=\"149808914\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.24?lang=eng#p24\">3 Nephi 18:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.24?lang=eng#p24",
+          "text": "3 Nephi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149808584",
+        "id": "note17",
+        "text": "<p data-aid=\"149808909\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.31?lang=eng#p31\">Romans 8:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8.31?lang=eng#p31",
+          "text": "Romans 8:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149808669",
+        "id": "note27",
+        "text": "<p data-aid=\"149808954\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.46?lang=eng#p46\">Luke 6:46<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6.46?lang=eng#p46",
+          "text": "Luke 6:46",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149808669",
+        "id": "note26",
+        "text": "<p data-aid=\"149808950\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.24?lang=eng#p24\">Matthew 6:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.24?lang=eng#p24",
+          "text": "Matthew 6:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149808645",
+        "id": "note25",
+        "text": "<p data-aid=\"149808947\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.13?lang=eng#p13\">Alma 37:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.13?lang=eng#p13",
+          "text": "Alma 37:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149808633",
+        "id": "note24",
+        "text": "<p data-aid=\"149808943\" id=\"note24_p1\">Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1988/10/answer-me?lang=eng&amp;para=30#p30\">Answer Me<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1988, 33.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1988/10/answer-me?lang=eng&amp;para=30#p30",
+          "text": "Answer Me",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149808633",
+        "id": "note23",
+        "text": "<p data-aid=\"149808939\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/23.2?lang=eng#p2\">Exodus 23:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/23.2?lang=eng#p2",
+          "text": "Exodus 23:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149808633",
+        "id": "note22",
+        "text": "<p data-aid=\"149808934\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13.27?lang=eng#p27\">Helaman 13:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/13.27?lang=eng#p27",
+          "text": "Helaman 13:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149808621",
+        "id": "note21",
+        "text": "<p data-aid=\"149808929\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/98.11?lang=eng#p11\">Doctrine and Covenants 98:11<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/98.11?lang=eng#p11",
+          "text": "Doctrine and Covenants 98:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149808608",
+        "id": "note20",
+        "text": "<p data-aid=\"149808924\" id=\"note20_p1\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/free-forever-to-act-for-themselves?lang=eng&amp;para=20#p20\">Free Forever, to Act for Themselves<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 18.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/free-forever-to-act-for-themselves?lang=eng&amp;para=20#p20",
+          "text": "Free Forever, to Act for Themselves",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149808524",
+        "id": "note1",
+        "text": "<p data-aid=\"149808812\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101.78?lang=eng#p78\">Doctrine and Covenants 101:78<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/101.78?lang=eng#p78",
+          "text": "Doctrine and Covenants 101:78",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "149808704",
+        "id": "note29",
+        "text": "<p data-aid=\"149808961\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;para=37#p37",
+          "text": "Revelation for the Church, Revelation for Our Lives",
+          "type": "cross-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149808693",
+        "id": "note28",
+        "text": "<p data-aid=\"149808958\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.33?lang=eng#p33\">Alma 5:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.33?lang=eng#p33",
+          "text": "Alma 5:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note4": {
+        "marker": "4.",
+        "pid": "149808524",
+        "id": "note4",
+        "text": "<p data-aid=\"149808833\" id=\"note4_p1\">Hugh Nibley, \u201cBeyond Politics,\u201d <cite>BYU Studies<\/cite>, vol. 15, no. 1 (1974), 8.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149808536",
+        "id": "note5",
+        "text": "<p data-aid=\"149808840\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/9.6?lang=eng#p6\">2 Corinthians 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.33?lang=eng#p33\">Doctrine and Covenants 6:33<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-cor/9.6?lang=eng#p6",
+            "text": "2 Corinthians 9:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/6.33?lang=eng#p33",
+            "text": "Doctrine and Covenants 6:33",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149808524",
+        "id": "note2",
+        "text": "<p data-aid=\"149808819\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.27?lang=eng#p27\">2 Nephi 2:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.27?lang=eng#p27",
+          "text": "2 Nephi 2:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149808524",
+        "id": "note3",
+        "text": "<p data-aid=\"149808826\" id=\"note3_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-17?lang=eng&amp;para=32#p32\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 214.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-17?lang=eng&amp;para=32#p32",
+          "text": "Teachings of Presidents of the Church: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149808548",
+        "id": "note8",
+        "text": "<p data-aid=\"149808861\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/28.22?lang=eng#p22\">Acts 28:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/28.22?lang=eng#p22",
+          "text": "Acts 28:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149808560",
+        "id": "note9",
+        "text": "<p data-aid=\"149808867\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.7?lang=eng#p7\">2 Nephi 28:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/28.7?lang=eng#p7",
+          "text": "2 Nephi 28:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149808548",
+        "id": "note6",
+        "text": "<p data-aid=\"149808847\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.19?lang=eng#p19\">Matthew 11:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.19?lang=eng#p19",
+          "text": "Matthew 11:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149808548",
+        "id": "note7",
+        "text": "<p data-aid=\"149808854\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.15?lang=eng#p15\">Matthew 22:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.15?lang=eng#p15",
+          "text": "Matthew 22:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "149808704",
+        "id": "note30",
+        "text": "<p data-aid=\"149808963\" id=\"note30_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/04/now-is-the-time-to-prepare?lang=eng&amp;para=10#p10\">Now Is the Time to Prepare<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2005, 17.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2005/04/now-is-the-time-to-prepare?lang=eng&amp;para=10#p10",
+          "text": "Now Is the Time to Prepare",
+          "type": "cross-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "pid": "149808724",
+        "id": "note38",
+        "text": "<p data-aid=\"149808979\" id=\"note38_p1\">Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/remember-how-merciful-the-lord-hath-been?lang=eng\">Remember How Merciful the Lord Hath Been<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 45; see also Neal A. Maxwell, <cite>All These Things Shall Give Thee Experience<\/cite> (1979), 110.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/04/remember-how-merciful-the-lord-hath-been?lang=eng",
+          "text": "Remember How Merciful the Lord Hath Been",
+          "type": "cross-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "149808724",
+        "id": "note37",
+        "text": "<p data-aid=\"149808977\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30.17?lang=eng#p17\">Alma 30:17<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/1.4?lang=eng#p4\">Alma 1:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/30.17?lang=eng#p17",
+            "text": "Alma 30:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/1.4?lang=eng#p4",
+            "text": "Alma 1:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "149808724",
+        "id": "note36",
+        "text": "<p data-aid=\"149808975\" id=\"note36_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.13?lang=eng#p13\">2 Nephi 2:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.13?lang=eng#p13",
+          "text": "2 Nephi 2:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "149808714",
+        "id": "note35",
+        "text": "<p data-aid=\"149808973\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.20-21?lang=eng#p20\">Matthew 13:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.20-21?lang=eng#p20",
+          "text": "Matthew 13:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "149808714",
+        "id": "note34",
+        "text": "<p data-aid=\"149808971\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/119.165?lang=eng#p165\">Psalm 119:165<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ps/119.165?lang=eng#p165",
+          "text": "Psalm 119:165",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "149808714",
+        "id": "note33",
+        "text": "<p data-aid=\"149808969\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.6?lang=eng#p6\">Matthew 11:6<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.6?lang=eng#p6",
+          "text": "Matthew 11:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "149808704",
+        "id": "note32",
+        "text": "<p data-aid=\"149808967\" id=\"note32_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;para=24#p24\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=eng&amp;para=24#p24",
+          "text": "Let God Prevail",
+          "type": "cross-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "149808704",
+        "id": "note31",
+        "text": "<p data-aid=\"149808965\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/5.41?lang=eng#p41\">Acts 5:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/5.41?lang=eng#p41",
+          "text": "Acts 5:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note39": {
+        "marker": "39.",
+        "pid": "149808734",
+        "id": "note39",
+        "text": "<p data-aid=\"149808980\" id=\"note39_p1\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/04/how-is-it-with-us?lang=eng&amp;para=22#p22\">How Is It with Us?<\/a>,\u201d <cite>Ensign<\/cite>, May 2000, 33; <cite>Liahona<\/cite>, July 2000, 40.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2000/04/how-is-it-with-us?lang=eng&amp;para=22#p22",
+          "text": "How Is It with Us?",
+          "type": "cross-ref"
+        }]
+      },
+      "note41": {
+        "marker": "41.",
+        "pid": "149808743",
+        "id": "note41",
+        "text": "<p data-aid=\"149808982\" id=\"note41_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.4?lang=eng#p4\">Doctrine and Covenants 59:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59.4?lang=eng#p4",
+          "text": "Doctrine and Covenants 59:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note40": {
+        "marker": "40.",
+        "pid": "149808743",
+        "id": "note40",
+        "text": "<p data-aid=\"149808981\" id=\"note40_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/30.10?lang=eng#p10\">Isaiah 30:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/30.10?lang=eng#p10",
+          "text": "Isaiah 30:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note49": {
+        "marker": "49.",
+        "pid": "149808788",
+        "id": "note49",
+        "text": "<p data-aid=\"149808990\" id=\"note49_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=18#p18\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 40\u201341.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;para=18#p18",
+          "text": "Drawing the Power of Jesus Christ into Our Lives",
+          "type": "cross-ref"
+        }]
+      },
+      "note48": {
+        "marker": "48.",
+        "pid": "149808779",
+        "id": "note48",
+        "text": "<p data-aid=\"149808989\" id=\"note48_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.14?lang=eng#p14\">Ephesians 4:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.14?lang=eng#p14",
+          "text": "Ephesians 4:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note47": {
+        "marker": "47.",
+        "pid": "149808770",
+        "id": "note47",
+        "text": "<p data-aid=\"149808988\" id=\"note47_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/24.15?lang=eng#p15\">Joshua 24:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/josh/24.15?lang=eng#p15",
+          "text": "Joshua 24:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note46": {
+        "marker": "46.",
+        "pid": "149808770",
+        "id": "note46",
+        "text": "<p data-aid=\"149808987\" id=\"note46_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-38?lang=eng&amp;para=20#p20\">Teachings: Joseph Smith<\/a><\/cite>, 444.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-38?lang=eng&amp;para=20#p20",
+          "text": "Teachings: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note45": {
+        "marker": "45.",
+        "pid": "149808761",
+        "id": "note45",
+        "text": "<p data-aid=\"149808986\" id=\"note45_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.5-6?lang=eng#p5\">Doctrine and Covenants 21:5\u20136<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/21.5-6?lang=eng#p5",
+          "text": "Doctrine and Covenants 21:5\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note44": {
+        "marker": "44.",
+        "pid": "149808761",
+        "id": "note44",
+        "text": "<p data-aid=\"149808985\" id=\"note44_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/4.20?lang=eng#p20\">Acts 4:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/4.20?lang=eng#p20",
+          "text": "Acts 4:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note43": {
+        "marker": "43.",
+        "pid": "149808761",
+        "id": "note43",
+        "text": "<p data-aid=\"149808984\" id=\"note43_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/1.8?lang=eng#p8\">2 Timothy 1:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-tim/1.8?lang=eng#p8",
+          "text": "2 Timothy 1:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note42": {
+        "marker": "42.",
+        "pid": "149808752",
+        "id": "note42",
+        "text": "<p data-aid=\"149808983\" id=\"note42_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1.20-21?lang=eng#p20\">2 Peter 1:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-pet/1.20-21?lang=eng#p20",
+          "text": "2 Peter 1:20\u201321",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

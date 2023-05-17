@@ -1,0 +1,702 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/46bednar?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "cb48d19306b6467f95104b8befe74770",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/46bednar",
+      "data-aid": "152793974",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "9ceb8b74e42947f88605b0afc5c83bb8"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/56/d0/56d0f0290d73866aac80c6ae5471d2a6bcaeb1aa/56d0f0290d73866aac80c6ae5471d2a6bcaeb1aa.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4060-david-a-bednar-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Vístete de tu poder, oh Sion",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152793974",
+      {"key": "152793974"}
+    ],
+    [
+      "152815039",
+      {"key": "152815039"}
+    ],
+    [
+      "152815040",
+      {"key": "152815040"}
+    ],
+    [
+      "152815041",
+      {"key": "152815041"}
+    ],
+    [
+      "152815042",
+      {"key": "152815042"}
+    ],
+    [
+      "152815043",
+      {"key": "152815043"}
+    ],
+    [
+      "152815044",
+      {"key": "152815044"}
+    ],
+    [
+      "152815045",
+      {"key": "152815045"}
+    ],
+    [
+      "152815046",
+      {"key": "152815046"}
+    ],
+    [
+      "152815047",
+      {"key": "152815047"}
+    ],
+    [
+      "152815048",
+      {"key": "152815048"}
+    ],
+    [
+      "152815049",
+      {"key": "152815049"}
+    ],
+    [
+      "152815050",
+      {"key": "152815050"}
+    ],
+    [
+      "152815051",
+      {"key": "152815051"}
+    ],
+    [
+      "152815052",
+      {"key": "152815052"}
+    ],
+    [
+      "152815053",
+      {"key": "152815053"}
+    ],
+    [
+      "152815055",
+      {"key": "152815055"}
+    ],
+    [
+      "152815056",
+      {"key": "152815056"}
+    ],
+    [
+      "152815058",
+      {"key": "152815058"}
+    ],
+    [
+      "152815060",
+      {"key": "152815060"}
+    ],
+    [
+      "152815062",
+      {"key": "152815062"}
+    ],
+    [
+      "152815064",
+      {"key": "152815064"}
+    ],
+    [
+      "152815066",
+      {"key": "152815066"}
+    ],
+    [
+      "152815068",
+      {"key": "152815068"}
+    ],
+    [
+      "152815071",
+      {"key": "152815071"}
+    ],
+    [
+      "152815073",
+      {"key": "152815073"}
+    ],
+    [
+      "152815075",
+      {"key": "152815075"}
+    ],
+    [
+      "152815077",
+      {"key": "152815077"}
+    ],
+    [
+      "152815079",
+      {"key": "152815079"}
+    ],
+    [
+      "152815081",
+      {"key": "152815081"}
+    ],
+    [
+      "152815083",
+      {"key": "152815083"}
+    ],
+    [
+      "152815084",
+      {"key": "152815084"}
+    ],
+    [
+      "152815086",
+      {"key": "152815086"}
+    ],
+    [
+      "152816088",
+      {"key": "152816088"}
+    ],
+    [
+      "152816090",
+      {"key": "152816090"}
+    ],
+    [
+      "152816092",
+      {"key": "152816092"}
+    ],
+    [
+      "152816095",
+      {"key": "152816095"}
+    ],
+    [
+      "152816097",
+      {"key": "152816097"}
+    ],
+    [
+      "152816099",
+      {"key": "152816099"}
+    ],
+    [
+      "152816102",
+      {"key": "152816102"}
+    ],
+    [
+      "152816105",
+      {"key": "152816105"}
+    ],
+    [
+      "152816108",
+      {"key": "152816108"}
+    ],
+    [
+      "152816112",
+      {"key": "152816112"}
+    ],
+    [
+      "152816114",
+      {"key": "152816114"}
+    ],
+    [
+      "152816116",
+      {"key": "152816116"}
+    ],
+    [
+      "152816119",
+      {"key": "152816119"}
+    ],
+    [
+      "152816122",
+      {"key": "152816122"}
+    ],
+    [
+      "152816125",
+      {"key": "152816125"}
+    ],
+    [
+      "152816129",
+      {"key": "152816129"}
+    ],
+    [
+      "152816131",
+      {"key": "152816131"}
+    ],
+    [
+      "152816134",
+      {"key": "152816134"}
+    ],
+    [
+      "152816138",
+      {"key": "152816138"}
+    ],
+    [
+      "152816140",
+      {"key": "152816140"}
+    ],
+    [
+      "152816144",
+      {"key": "152816144"}
+    ],
+    [
+      "152816146",
+      {"key": "152816146"}
+    ],
+    [
+      "152816150",
+      {"key": "152816150"}
+    ],
+    [
+      "152816153",
+      {"key": "152816153"}
+    ],
+    [
+      "152816165",
+      {"key": "152816165"}
+    ],
+    [
+      "152816155",
+      {"key": "152816155"}
+    ],
+    [
+      "152816158",
+      {"key": "152816158"}
+    ],
+    [
+      "152825471",
+      {"key": "152825471"}
+    ],
+    [
+      "152825472",
+      {"key": "152825472"}
+    ],
+    [
+      "152816162",
+      {"key": "152816162"}
+    ],
+    [
+      "152825473",
+      {"key": "152825473"}
+    ],
+    [
+      "152825474",
+      {"key": "152825474"}
+    ],
+    [
+      "152816168",
+      {"key": "152816168"}
+    ],
+    [
+      "152816170",
+      {"key": "152816170"}
+    ],
+    [
+      "152816173",
+      {"key": "152816173"}
+    ],
+    [
+      "152816176",
+      {"key": "152816176"}
+    ],
+    [
+      "152816179",
+      {"key": "152816179"}
+    ],
+    [
+      "152816184",
+      {"key": "152816184"}
+    ],
+    [
+      "152816186",
+      {"key": "152816186"}
+    ],
+    [
+      "152816190",
+      {"key": "152816190"}
+    ],
+    [
+      "152816194",
+      {"key": "152816194"}
+    ],
+    [
+      "152816195",
+      {"key": "152816195"}
+    ],
+    [
+      "152816198",
+      {"key": "152816198"}
+    ],
+    [
+      "152816199",
+      {"key": "152816199"}
+    ],
+    [
+      "152816201",
+      {"key": "152816201"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/46bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Bednar usa la parábola de la fiesta de bodas del hijo del rey para enseñar que mediante el uso justo de nuestro albedrío moral podemos decidir ser los escogidos del Señor.",
+          "title": "Vístete de tu poder, oh Sion"
+        },
+        "pageSocial": {
+          "description": "El élder Bednar usa la parábola de la fiesta de bodas del hijo del rey para enseñar que mediante el uso justo de nuestro albedrío moral podemos decidir ser los escogidos del Señor.",
+          "title": "Vístete de tu poder, oh Sion"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/56/d0/56d0f0290d73866aac80c6ae5471d2a6bcaeb1aa/56d0f0290d73866aac80c6ae5471d2a6bcaeb1aa.jpeg\" data-video-title=\"Vístete de tu poder, oh Sion\" data-video-description=\"El élder Bednar usa la parábola de la fiesta de bodas del hijo del rey para enseñar que mediante el uso justo de nuestro albedrío moral podemos decidir ser los escogidos del Señor.\" data-video-id=\"6313164623112\" data-ip=\"Download and Streaming                            \" data-duration=\"836837\" data-assetId=\"fc67e373427f11edb6efeeeeac1ea527175d8fc6\" data-ref-id=\"40D2B6D08E229AE80405CE41F574E8327260D1F2\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313164623112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276642843\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4060-david-a-bednar-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"77625020\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4060-david-a-bednar-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"201103766\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4060-david-a-bednar-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276642843\"/><\/video><h1 data-aid=\"152815039\" id=\"title1\">Vístete de tu poder, oh Sion<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152815040\" id=\"author1\">Por el élder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"152815041\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152815042\" id=\"kicker1\">Cada uno de nosotros debemos evaluar nuestras prioridades temporales y espirituales con sinceridad y con espíritu de oración.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152815043\" id=\"p1\">Las parábolas son una característica que define la forma magistral de enseñar del Señor Jesucristo. Explicadas de una forma sencilla, las parábolas del Salvador son historias usadas para comparar verdades espirituales con cosas materiales y experiencias terrenales. Por ejemplo, los evangelios del Nuevo Testamento están repletos de enseñanzas que comparan el reino de los cielos a un grano de semilla de mostaza<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, a una perla de gran precio<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, a un padre de familia y los obreros de su viña<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>, a diez vírgenes<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> y a muchas otras cosas. Durante una porción del ministerio del Señor en Galilea, en las Escrituras se indica que \u201csin parábolas [Él] no les hablaba\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"152815044\" id=\"p2\">El significado o mensaje de la parábola generalmente no se expresa de manera explícita. En lugar de ello, la historia solamente transmite la verdad divina a sus receptores en proporción a su fe en Dios, su preparación espiritual personal y su voluntad de aprender. Por tanto, cada persona debe ejercer su albedrío moral y \u201cpedir, buscar y llamar\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> activamente para descubrir las verdades que la parábola encierra.<\/p>\n<p data-aid=\"152815045\" id=\"p3\">Ruego sinceramente que el Espíritu Santo nos ilumine a cada uno de nosotros a medida que consideramos ahora la importancia de la parábola de la fiesta de bodas del hijo del rey.<\/p>\n<section>\n<header>\n<h2 data-aid=\"152815046\" id=\"title2\">La fiesta de bodas del hijo del rey<\/h2>\n<\/header>\n<p data-aid=\"152815047\" id=\"p4\">\u201cY [\u2026] Jesús, les volvió a hablar en parábolas, diciendo:<\/p>\n<p data-aid=\"152815048\" id=\"p5\">\u201cEl reino de los cielos es semejante a un rey que hizo una fiesta de bodas a su hijo;<\/p>\n<p data-aid=\"152815049\" id=\"p6\">\u201cy envió a sus siervos para que llamasen a los invitados a las bodas, pero no quisieron venir.<\/p>\n<p data-aid=\"152815050\" id=\"p7\">\u201cVolvió a enviar otros siervos, diciendo: Decid a los invitados: He aquí, he preparado mi comida; mis toros y mis animales engordados he hecho matar, y todo está dispuesto; venid a las bodas.<\/p>\n<p data-aid=\"152815051\" id=\"p8\">\u201cPero ellos no hicieron caso y se fueron, uno a su labranza, y otro a sus negocios\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"152815052\" id=\"p9\">En tiempos antiguos, una de las ocasiones de mayor gozo en la vida de los judíos era la celebración de una boda, un acontecimiento que duraba una semana o incluso dos. Tal acontecimiento requería una planificación intensiva y se informaba a los invitados con mucha antelación, además de enviarles un recordatorio el día del comienzo del festejo. La invitación de un rey a sus súbditos a una boda como esta se consideraba esencialmente una orden; sin embargo, muchos de los que habían sido llamados como invitados en esta parábola no asistieron<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"152815053\" id=\"p10\">\u201c[S]u menosprecio de la fiesta del rey constituía [un acto de] rebelión intencional contra la autoridad real, así como una afrenta personal al soberano reinante y a su hijo [\u2026]. El hecho de que se fue uno a su labranza y otro a su negocio\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> refleja sus prioridades equivocadas y una desconsideración total hacia la voluntad del rey<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"152815055\" id=\"p11\">La parábola continúa:<\/p>\n<p data-aid=\"152815056\" id=\"p12\">\u201cEntonces dijo a sus siervos: Las bodas a la verdad están preparadas; pero los invitados no eran dignos.<\/p>\n<p data-aid=\"152815058\" id=\"p13\">\u201cId, pues, a las salidas de los caminos y llamad a las bodas a cuantos halléis.<\/p>\n<p data-aid=\"152815060\" id=\"p14\">\u201cY salieron los siervos por los caminos y reunieron a todos los que hallaron, juntamente malos y buenos; y las bodas estuvieron llenas de convidados\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"152815062\" id=\"p15\">La costumbre en aquellos días era que el anfitrión de la fiesta de boda, en este caso el rey, proporcionara la vestimenta para los que habían sido invitados a ella. Esta ropa para la boda eran túnicas simples y sin adornos que todos los asistentes vestían. De este modo se eliminaban las diferencias de rango y condición, y todos los asistentes al banquete podían relacionarse como iguales<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"152815064\" id=\"p16\">Las personas que fueron invitadas en los caminos para asistir a la boda no habrían tenido el tiempo ni los medios para procurarse una vestimenta apropiada como preparación para el acontecimiento. Por consiguiente, el rey probablemente dio a los invitados ropa de su propio guardarropa. A todos se les dio la oportunidad de vestirse con ropas reales<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"152815066\" id=\"p17\">Al entrar el rey en el salón de bodas, observó a los asistentes e inmediatamente reparó en un invitado que llamaba la atención por no llevar puesta ropa de boda. El hombre fue llevado ante el rey y este preguntó: \u201c\u2026 Amigo, ¿cómo entraste aquí sin estar vestido de boda? Mas él enmudeció\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. En esencia, el rey preguntó: \u201c¿Por qué no estás vestido con ropa de boda aun cuando se te proporcionó?\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"152815068\" id=\"p18\">El hombre, obviamente, no estaba vestido apropiadamente para esta ocasión especial; y la frase, \u201c[m]as él enmudeció\u201d, indica que el hombre no tenía excusa<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"152815071\" id=\"p19\">El élder James E. Talmage proporciona este comentario instructivo sobre el significado de las acciones del hombre: \u201cEl contexto claramente da a entender que el huésped vestido indebidamente había incurrido en un descuido, falta de respeto intencional u otra ofensa más grave. El rey lo trató con amable consideración al principio, preguntándole únicamente cómo había entrado sin el vestido de bodas. Si el huésped hubiera podido explicar su presentación irregular, o hubiese tenido alguna excusa razonable que ofrecer, ciertamente habría hablado; pero nos es dicho que permaneció mudo. La invitación del rey se había extendido gratuitamente a todos aquellos a quienes sus siervos encontraran; pero cada uno tuvo que entrar en el palacio real por la puerta, y antes de llegar al comedor, donde el rey se presentaría en persona, cada cual tuvo que estar debidamente vestido. Sin embargo, el que no estaba preparado había entrado por otra parte de alguna forma, y en vista de que se había introducido sin pasar por los que estaban cuidando la puerta, era [un intruso]\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"152815073\" id=\"p21\">John O. Reid, un escritor cristiano, puso de manifiesto que el rechazo a ponerse la ropa de boda ejemplificaba una ostensible \u201cfalta de respeto tanto hacia el rey como hacia su hijo\u201d. No solo no llevaba ropa de boda, sino que decidió no ponérsela. Se negó con rebeldía a vestirse apropiadamente para la ocasión. La reacción del rey fue rápida y decisiva: \u201c\u2026 Atadle de pies y de manos, y tomadle y echadle a las tinieblas de afuera; allí será el llanto y el crujir de dientes\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"152815075\" id=\"p22\">El juicio que hizo el rey de este hombre no se basó principalmente en que le faltara la ropa de boda, sino en que, \u201cde hecho, estaba decidido a no ponérsela. El hombre [\u2026] deseaba el honor de asistir a la fiesta de boda, pero [\u2026] no quería seguir la costumbre del rey. Quería hacer las cosas a su propia manera. Su falta de vestimenta apropiada revelaba su rebelión interior contra el rey y sus instrucciones\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"152815077\" id=\"title3\">Muchos son los llamados, pero pocos los escogidos<\/h2>\n<\/header>\n<p data-aid=\"152815079\" id=\"p23\">La parábola luego termina con este penetrante pasaje de las Escrituras: \u201cPorque muchos son los llamados, pero pocos los escogidos\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"152815081\" id=\"p24\">Curiosamente, José Smith hizo la siguiente modificación a este versículo de Mateo en su traducción inspirada de la Biblia: \u201cPorque muchos son los llamados, pero pocos los escogidos; <i>por cuanto no todos están vestidos de boda<\/i>\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"152815083\" id=\"p25\">La <em>invitación a<\/em> la fiesta de boda y la <em>decisión de participar en<\/em> ella están relacionadas, pero son diferentes. La invitación se extiende a todos los hombres y mujeres. Una persona puede incluso aceptar la invitación y sentarse en el banquete, y, sin embargo, no ser escogida para participar porque no tiene la vestimenta de boda apropiada que consiste en tener fe en el Señor Jesucristo y en Su gracia divina, aquella que convierte. De este modo, tenemos tanto el llamado de Dios como nuestra respuesta individual a ese llamado, y muchos pueden ser llamados, pero pocos escogidos<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"152815084\" id=\"p26\">El ser o el llegar a ser escogidos no es una condición exclusiva que se nos confiere. En lugar de ello, ustedes y yo podemos, en última instancia, decidir ser escogidos al ejercer con rectitud nuestro albedrío moral.<\/p>\n<p data-aid=\"152815086\" id=\"p27\">Tengan a bien tomar nota del empleo de la palabra <i>escogidos<\/i> en los siguientes y conocidos versículos de Doctrina y Convenios:<\/p>\n<p data-aid=\"152816088\" id=\"p36\">\u201cHe aquí, muchos son los llamados, y pocos los <em>escogidos<\/em>. ¿Y por qué no son <em>escogidos<\/em>?<\/p>\n<p data-aid=\"152816090\" id=\"p37\">\u201cPorque [\u2026] han puesto su corazón en las cosas de este mundo, y aspiran [\u2026] a los honores de los hombres\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"152816092\" id=\"p28\">Creo que lo que se infiere de esos versículos es bastante directo. Dios no tiene una lista de personas favoritas a la que debemos esperar que se añada nuestro nombre algún día. Él no limita \u201clos escogidos\u201d a unos cuantos; por el contrario, <em>nuestro<\/em> corazón, <em>nuestros<\/em> deseos, <em>nuestro<\/em> cumplimiento de las ordenanzas y los convenios sagrados del Evangelio, <em>nuestra<\/em> obediencia a los mandamientos y, lo más importante, la gracia y misericordia redentoras del Salvador determinan si seremos contados como uno de los escogidos de Dios<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"152816095\" id=\"p29\">\u201cPorque nosotros trabajamos diligentemente para escribir, a fin de persuadir a nuestros hijos, así como a nuestros hermanos, a creer en Cristo y a reconciliarse con Dios; pues sabemos que es por la gracia por la que nos salvamos, después de hacer cuanto podamos\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"152816097\" id=\"p30\">Dadas las muchas ocupaciones de nuestra vida diaria y la conmoción del mundo contemporáneo en que vivimos, podemos distraernos de las cosas eternas que más importan, haciendo del placer, la prosperidad, la popularidad y la distinción nuestras principales prioridades. Nuestra preocupación a corto plazo con \u201clas cosas de este mundo\u201d y \u201clos honores de los hombres\u201d pueden llevarnos a perder nuestra primogenitura espiritual por mucho menos que un guisado de lentejas<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"152816099\" id=\"title4\">Promesa y testimonio<\/h2>\n<\/header>\n<p data-aid=\"152816102\" id=\"p31\">Repito la admonición del Señor a Su pueblo, que expresó a través del profeta Hageo del Antiguo Testamento: \u201cPues así ha dicho Jehová de los ejércitos: Meditad bien sobre vuestros caminos\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"152816105\" id=\"p32\">Cada uno de nosotros debemos evaluar nuestras prioridades temporales y espirituales con sinceridad y con espíritu de oración a fin de identificar las cosas de nuestra vida que pudieran impedir que recibamos las abundantes bendiciones que el Padre Celestial y el Salvador están dispuestos a conferir sobre nosotros. Y, sin duda, el Espíritu Santo nos ayudará a vernos a nosotros mismos como realmente somos<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"152816108\" id=\"p33\">A medida que procuremos de forma apropiada el don espiritual de ojos que ven y oídos que oyen<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>, prometo que seremos bendecidos con la capacidad y el juicio necesarios para fortalecer nuestra conexión por convenio con el Señor viviente. También recibiremos el poder de la divinidad en nuestra vida<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> y, finalmente, seremos llamados y también escogidos para el banquete del Señor.<\/p>\n<p data-aid=\"152816112\" id=\"p34\">\u201c¡Despierta, despierta, vístete de tu poder, oh Sion!\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<p data-aid=\"152816114\" id=\"p38\">\u201cPorque Sion debe aumentar en belleza y santidad; sus fronteras se han de ensanchar; deben fortalecerse sus estacas; sí, de cierto os digo, Sion se ha de levantar y vestirse con sus ropas hermosas\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>.<\/p>\n<p data-aid=\"152816116\" id=\"p35\">Con gozo declaro mi testimonio de la divinidad y de la realidad viviente de Dios, nuestro Padre Eterno, y de Su Hijo Amado, Jesucristo. Testifico que Jesucristo es nuestro Salvador y Redentor y que Él vive. También testifico que el Padre y el Hijo se aparecieron al joven José Smith, dando así comienzo a la restauración del evangelio del Salvador en los últimos días. Ruego que cada uno de nosotros procure y reciba la bendición de tener ojos para ver y oídos para oír, es mi oración en el sagrado nombre del Señor Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"152816119\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"152816122\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.31-32?lang=spa#p31\">Mateo 13:31\u201332<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"152816125\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.45-46?lang=spa#p45\">Mateo 13:45\u201346<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"152816129\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.1-16?lang=spa#p1\">Mateo 20:1\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"152816131\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-13?lang=spa#p1\">Mateo 25:1\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"152816134\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.34?lang=spa#p34\">Marcos 4:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"152816138\" id=\"note6_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.7-8?lang=spa#p7\">Mateo 7:7\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=spa#p9\">Lucas 11:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"152816140\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.1-5?lang=spa#p1\">Mateo 22:1\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"152816144\" id=\"note8_p1\">Véase James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=21-29#p21\">Jesús el Cristo<\/a><\/cite>, 1975, págs. 564\u2013568.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"152816146\" id=\"note9_p1\">James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"152816150\" id=\"note10_p1\">Véase James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"152816153\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.8-10?lang=spa#p8\">Mateo 22:8\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"152816165\" id=\"note12_p1\">Véase John O. Reid, \u201cMany Are Called, Few Are Chosen\u201d, <cite>Forerunner<\/cite>, marzo \u2013 abril de 2016, pág. 8, cgg.org.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"152816155\" id=\"note13_p1\">Véase Joseph Fielding McConkie, <cite>Gospel Symbolism<\/cite>, 1985, pág. 132.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"152816158\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.12?lang=spa#p12\">Mateo 22:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"152825471\" id=\"note15_p1\">Véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"152825472\" id=\"note16_p1\">Véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"152816162\" id=\"note17_p1\">James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=28#p28\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"152825473\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.13?lang=spa#p13\">Mateo 22:13<\/a>; véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"152825474\" id=\"note19_p1\">Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"152816168\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.14?lang=spa#p14\">Mateo 22:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"152816170\" id=\"note21_p1\">Traducción de José Smith, Mateo 22:14 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.14?lang=spa#p14\">Mateo 22:14<\/a>, nota <i>b<\/i> al pie de página); cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"152816173\" id=\"note22_p1\">Véase Alfred Edersheim, <cite>The Life and Times of Jesus the Messiah<\/cite>, 1993, págs. 769\u2013771.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"152816176\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.34-35?lang=spa#p34\">Doctrina y Convenios 121:34\u201335<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"152816179\" id=\"note24_p1\">Véase David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/04/the-tender-mercies-of-the-lord?lang=spa\">Las entrañables misericordias del Señor<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2005, págs. 99\u2013102.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"152816184\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"152816186\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25.29-34?lang=spa#p29\">Génesis 25:29\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"152816190\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/hag/1.5?lang=spa#p5\">Hageo 1:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"152816194\" id=\"note28_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.13?lang=spa#p13\">Jacob 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.24?lang=spa#p24\">Doctrina y Convenios 93:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"152816195\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.16?lang=spa#p16\">Mateo 13:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"152816198\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.19-21?lang=spa#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"152816199\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/52.1?lang=spa#p1\">Isaías 52:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"152816201\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.14?lang=spa#p14\">Doctrina y Convenios 82:14<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "152815043",
+        "id": "note4",
+        "text": "<p data-aid=\"152816131\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-13?lang=spa#p1\">Mateo 25:1\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.1-13?lang=spa#p1",
+          "text": "Mateo 25:1\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "152815043",
+        "id": "note5",
+        "text": "<p data-aid=\"152816134\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.34?lang=spa#p34\">Marcos 4:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/4.34?lang=spa#p34",
+          "text": "Marcos 4:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "152815043",
+        "id": "note2",
+        "text": "<p data-aid=\"152816125\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.45-46?lang=spa#p45\">Mateo 13:45\u201346<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.45-46?lang=spa#p45",
+          "text": "Mateo 13:45\u201346",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "152815043",
+        "id": "note3",
+        "text": "<p data-aid=\"152816129\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.1-16?lang=spa#p1\">Mateo 20:1\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/20.1-16?lang=spa#p1",
+          "text": "Mateo 20:1\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "152815052",
+        "id": "note8",
+        "text": "<p data-aid=\"152816144\" id=\"note8_p1\">Véase James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=21-29#p21\">Jesús el Cristo<\/a><\/cite>, 1975, págs. 564\u2013568.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=21-29#p21",
+          "text": "Jesús el Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "152815053",
+        "id": "note9",
+        "text": "<p data-aid=\"152816146\" id=\"note9_p1\">James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23",
+          "text": "Jesús el Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "152815044",
+        "id": "note6",
+        "text": "<p data-aid=\"152816138\" id=\"note6_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.7-8?lang=spa#p7\">Mateo 7:7\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=spa#p9\">Lucas 11:9\u201310<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/7.7-8?lang=spa#p7",
+            "text": "Mateo 7:7\u20138",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/11.9-10?lang=spa#p9",
+            "text": "Lucas 11:9\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "152815051",
+        "id": "note7",
+        "text": "<p data-aid=\"152816140\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.1-5?lang=spa#p1\">Mateo 22:1\u20135<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.1-5?lang=spa#p1",
+          "text": "Mateo 22:1\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "152816108",
+        "id": "note30",
+        "text": "<p data-aid=\"152816198\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.19-21?lang=spa#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.19-21?lang=spa#p19",
+          "text": "Doctrina y Convenios 84:19\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "152815068",
+        "id": "note16",
+        "text": "<p data-aid=\"152825472\" id=\"note16_p1\">Véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "152815066",
+        "id": "note15",
+        "text": "<p data-aid=\"152825471\" id=\"note15_p1\">Véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "152815066",
+        "id": "note14",
+        "text": "<p data-aid=\"152816158\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.12?lang=spa#p12\">Mateo 22:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.12?lang=spa#p12",
+          "text": "Mateo 22:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "152815064",
+        "id": "note13",
+        "text": "<p data-aid=\"152816155\" id=\"note13_p1\">Véase Joseph Fielding McConkie, <cite>Gospel Symbolism<\/cite>, 1985, pág. 132.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "152815062",
+        "id": "note12",
+        "text": "<p data-aid=\"152816165\" id=\"note12_p1\">Véase John O. Reid, \u201cMany Are Called, Few Are Chosen\u201d, <cite>Forerunner<\/cite>, marzo \u2013 abril de 2016, pág. 8, cgg.org.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "152815060",
+        "id": "note11",
+        "text": "<p data-aid=\"152816153\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.8-10?lang=spa#p8\">Mateo 22:8\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.8-10?lang=spa#p8",
+          "text": "Mateo 22:8\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "152815053",
+        "id": "note10",
+        "text": "<p data-aid=\"152816150\" id=\"note10_p1\">Véase James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=23#p23",
+          "text": "Jesús el Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "152816114",
+        "id": "note32",
+        "text": "<p data-aid=\"152816201\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.14?lang=spa#p14\">Doctrina y Convenios 82:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/82.14?lang=spa#p14",
+          "text": "Doctrina y Convenios 82:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "152816112",
+        "id": "note31",
+        "text": "<p data-aid=\"152816199\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/52.1?lang=spa#p1\">Isaías 52:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/52.1?lang=spa#p1",
+          "text": "Isaías 52:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "152815075",
+        "id": "note19",
+        "text": "<p data-aid=\"152825474\" id=\"note19_p1\">Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "152815073",
+        "id": "note18",
+        "text": "<p data-aid=\"152825473\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.13?lang=spa#p13\">Mateo 22:13<\/a>; véase Reid, \u201cMany Are Called, Few Are Chosen\u201d, pág. 8.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.13?lang=spa#p13",
+          "text": "Mateo 22:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "152815071",
+        "id": "note17",
+        "text": "<p data-aid=\"152816162\" id=\"note17_p1\">James E. Talmage, <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=28#p28\">Jesús el Cristo<\/a><\/cite>, pág. 565.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/jesus-the-christ/chapter-30?lang=spa&amp;para=28#p28",
+          "text": "Jesús el Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "152816102",
+        "id": "note27",
+        "text": "<p data-aid=\"152816190\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/hag/1.5?lang=spa#p5\">Hageo 1:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/hag/1.5?lang=spa#p5",
+          "text": "Hageo 1:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "152816097",
+        "id": "note26",
+        "text": "<p data-aid=\"152816186\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25.29-34?lang=spa#p29\">Génesis 25:29\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/25.29-34?lang=spa#p29",
+          "text": "Génesis 25:29\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "152816095",
+        "id": "note25",
+        "text": "<p data-aid=\"152816184\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25.23?lang=spa#p23",
+          "text": "2 Nefi 25:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "152816092",
+        "id": "note24",
+        "text": "<p data-aid=\"152816179\" id=\"note24_p1\">Véase David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/04/the-tender-mercies-of-the-lord?lang=spa\">Las entrañables misericordias del Señor<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2005, págs. 99\u2013102.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2005/04/the-tender-mercies-of-the-lord?lang=spa",
+          "text": "Las entrañables misericordias del Señor",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "152816090",
+        "id": "note23",
+        "text": "<p data-aid=\"152816176\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.34-35?lang=spa#p34\">Doctrina y Convenios 121:34\u201335<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.34-35?lang=spa#p34",
+          "text": "Doctrina y Convenios 121:34\u201335",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "152815083",
+        "id": "note22",
+        "text": "<p data-aid=\"152816173\" id=\"note22_p1\">Véase Alfred Edersheim, <cite>The Life and Times of Jesus the Messiah<\/cite>, 1993, págs. 769\u2013771.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "152815081",
+        "id": "note21",
+        "text": "<p data-aid=\"152816170\" id=\"note21_p1\">Traducción de José Smith, Mateo 22:14 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.14?lang=spa#p14\">Mateo 22:14<\/a>, nota <i>b<\/i> al pie de página); cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.14?lang=spa#p14",
+          "text": "Mateo 22:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "152815079",
+        "id": "note20",
+        "text": "<p data-aid=\"152816168\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.14?lang=spa#p14\">Mateo 22:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.14?lang=spa#p14",
+          "text": "Mateo 22:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "152815043",
+        "id": "note1",
+        "text": "<p data-aid=\"152816122\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.31-32?lang=spa#p31\">Mateo 13:31\u201332<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.31-32?lang=spa#p31",
+          "text": "Mateo 13:31\u201332",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "152816108",
+        "id": "note29",
+        "text": "<p data-aid=\"152816195\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.16?lang=spa#p16\">Mateo 13:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.16?lang=spa#p16",
+          "text": "Mateo 13:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "152816105",
+        "id": "note28",
+        "text": "<p data-aid=\"152816194\" id=\"note28_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.13?lang=spa#p13\">Jacob 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.24?lang=spa#p24\">Doctrina y Convenios 93:24<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/jacob/4.13?lang=spa#p13",
+            "text": "Jacob 4:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.24?lang=spa#p24",
+            "text": "Doctrina y Convenios 93:24",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

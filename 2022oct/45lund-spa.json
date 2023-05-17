@@ -1,0 +1,165 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/45lund?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "993e0903bb4b4968ab4f9152412b7e24",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/45lund",
+      "data-aid": "152794222",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "0dc30f7ae07e4eafb2a1375a7015e83d"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/29/2f/292f9d2ff06a8745fd5d3c118a3581fa60afa42b/292f9d2ff06a8745fd5d3c118a3581fa60afa42b.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4050-steven-j-lund-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Un discipulado que perdura",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152794222",
+      {"key": "152794222"}
+    ],
+    [
+      "152815688",
+      {"key": "152815688"}
+    ],
+    [
+      "152815689",
+      {"key": "152815689"}
+    ],
+    [
+      "152815690",
+      {"key": "152815690"}
+    ],
+    [
+      "152815691",
+      {"key": "152815691"}
+    ],
+    [
+      "152815692",
+      {"key": "152815692"}
+    ],
+    [
+      "152815693",
+      {"key": "152815693"}
+    ],
+    [
+      "152815694",
+      {"key": "152815694"}
+    ],
+    [
+      "152815695",
+      {"key": "152815695"}
+    ],
+    [
+      "152815696",
+      {"key": "152815696"}
+    ],
+    [
+      "152815697",
+      {"key": "152815697"}
+    ],
+    [
+      "152815698",
+      {"key": "152815698"}
+    ],
+    [
+      "152815699",
+      {"key": "152815699"}
+    ],
+    [
+      "152815700",
+      {"key": "152815700"}
+    ],
+    [
+      "152815701",
+      {"key": "152815701"}
+    ],
+    [
+      "152815702",
+      {"key": "152815702"}
+    ],
+    [
+      "152815703",
+      {"key": "152815703"}
+    ],
+    [
+      "152815704",
+      {"key": "152815704"}
+    ],
+    [
+      "152815705",
+      {"key": "152815705"}
+    ],
+    [
+      "152815706",
+      {"key": "152815706"}
+    ],
+    [
+      "152815707",
+      {"key": "152815707"}
+    ],
+    [
+      "152815708",
+      {"key": "152815708"}
+    ],
+    [
+      "152815709",
+      {"key": "152815709"}
+    ],
+    [
+      "152815710",
+      {"key": "152815710"}
+    ],
+    [
+      "152815711",
+      {"key": "152815711"}
+    ],
+    [
+      "152815712",
+      {"key": "152815712"}
+    ],
+    [
+      "152815713",
+      {"key": "152815713"}
+    ],
+    [
+      "152815714",
+      {"key": "152815714"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/45lund",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El presidente Lund describe la fortaleza espiritual que proviene de las conferencias FSY y enseña cómo pueden los jóvenes mantener esa fortaleza.",
+          "title": "Un discipulado que perdura"
+        },
+        "pageSocial": {
+          "description": "El presidente Lund describe la fortaleza espiritual que proviene de las conferencias FSY y enseña cómo pueden los jóvenes mantener esa fortaleza.",
+          "title": "Un discipulado que perdura"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/29/2f/292f9d2ff06a8745fd5d3c118a3581fa60afa42b/292f9d2ff06a8745fd5d3c118a3581fa60afa42b.jpeg\" data-video-title=\"Un discipulado que perdura\" data-video-description=\"El presidente Lund describe la fortaleza espiritual que proviene de las conferencias FSY y enseña cómo pueden los jóvenes mantener esa fortaleza.\" data-video-id=\"6313164739112\" data-ip=\"Download and Streaming                            \" data-duration=\"622723\" data-assetId=\"870c8cb1428a11eda867eeeeac1e09511e41ca5a\" data-ref-id=\"E96CB8687734D51C801C17DF5116C0AB209F9D1C\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313164739112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"206192859\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4050-steven-j-lund-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"58054174\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4050-steven-j-lund-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"149284223\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-4050-steven-j-lund-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"206192859\"/><\/video><h1 data-aid=\"152815688\" id=\"title1\">Un discipulado que perdura<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152815689\" id=\"author1\">Por el presidente Steven J. Lund<\/p>\n<p class=\"author-role\" data-aid=\"152815690\" id=\"author2\">Presidente General de los Hombres Jóvenes<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152815691\" id=\"kicker1\">Podemos hallar confianza y paz espirituales conforme cultivamos hábitos de santidad y rutinas de rectitud que pueden mantener y alimentar el fuego de nuestra fe.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152815692\" id=\"p1\">El verano pasado la fe de más de 200 000 de nuestros jóvenes por todo el mundo aumentó al asistir a una de cientos de conferencias de una semana de duración de Para la Fortaleza de la Juventud o FSY. Para muchos, el hecho de asistir fue un acto de fe en el Señor después del aislamiento de la pandemia. Muchos de los jóvenes participantes parecen seguir una curva similar ascendente hacia una conversión más profunda. Al final de la semana, me gustaba preguntarles: \u201cY ¿qué tal estuvo?\u201d.<\/p>\n<p data-aid=\"152815693\" id=\"p19\">A veces me respondían así: \u201cPues, el lunes estaba molesto con mi mamá porque me hizo venir y hacer esto; no conocía a nadie; pensé que no me iba a gustar y que no tendría amigos\u2026 pero ya es viernes y me quiero quedar aquí. Solo deseo sentir el Espíritu en mi vida; deseo vivir de esta manera\u201d.<\/p>\n<p data-aid=\"152815694\" id=\"p2\">Cada uno de ellos tiene su historia que contar de momentos de claridad y de dones espirituales que los envolvían e impulsaban a lo largo de esa curva de crecimiento. Este verano de FSY también me cambió a mí, porque he visto el Espíritu de Dios responder sin cesar a los deseos justos del corazón de esa multitud de jóvenes que en forma individual se armaron de valor para confiar en Él y estar una semana bajo Su cuidado.<\/p>\n<p data-aid=\"152815695\" id=\"p3\">Como los barcos de cascos de acero reluciente en el mar, vivimos en un entorno corrosivo en el que se deben mantener las más brillantes convicciones a conciencia o estas pueden llegar a rasparse, corroerse y luego desintegrarse.<\/p>\n<section>\n<header>\n<h2 data-aid=\"152815696\" id=\"title2\">¿Qué tipo de cosas podemos hacer para mantener el fuego de nuestras convicciones?<\/h2>\n<\/header>\n<p data-aid=\"152815697\" id=\"p4\">Experiencias como conferencias FSY, campamentos, reuniones sacramentales y misiones pueden ayudarnos a pulir nuestro testimonio y llevarnos por curvas de crecimiento y descubrimiento espiritual a lugares de relativa paz. Pero ¿qué debemos hacer para permanecer ahí y \u201cseguir adelante con firmeza en Cristo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>) en lugar de retroceder? Debemos continuar haciendo lo que nos trajo hasta aquí en primer lugar, como orar a menudo, sumergirnos en las Escrituras y servir con sinceridad.<\/p>\n<p data-aid=\"152815698\" id=\"p5\">De algunos de nosotros podría requerirse un ejercicio de confianza en el Señor aun para asistir a la reunión sacramental. Pero una vez que estamos allí, la influencia sanadora de la Santa Cena del Señor, las infusiones de principios del Evangelio y el sustento de la comunidad de la Iglesia pueden hacer que volvamos a casa más fortalecidos.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"152815699\" id=\"title3\">¿De dónde proviene el poder que hay al reunirnos en persona?<\/h2>\n<\/header>\n<p data-aid=\"152815700\" id=\"p6\">En FSY, unos doscientos mil jóvenes o más llegaron a conocer mejor al Salvador mediante la simple fórmula de juntarse donde dos o más estaban congregados en Su nombre (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.20?lang=spa#p20\">Mateo 18:20<\/a>), estudiar y poner en práctica el Evangelio y las Escrituras, cantar juntos, orar juntos y hallar paz en Cristo. Es una poderosa fórmula para el despertar espiritual.<\/p>\n<p data-aid=\"152815701\" id=\"p7\">Ese vasto grupo de hermanos y hermanas se ha ido ahora a casa a determinar lo que significa seguir \u201cconf[iando] en Jehová\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5?lang=spa#p5\">Proverbios 3:5<\/a>; lema de los jóvenes de 2022) cuando se está en medio de las estridencias de un mundo desenfrenado. Una cosa es \u201cescucharlo a Él\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">José Smith\u2014Historia 1:17<\/a>) en un lugar tranquilo de contemplación con los libros canónicos abiertos, pero es muy distinto seguir con nuestro discipulado bajo una avalancha de distracciones mundanales, donde debemos esforzarnos por \u201cescucharlo a Él\u201d aun a través del bullicio generado por el egocentrismo y la poca confianza. Que no quepa duda de que nuestros jóvenes exhiben auténticas cualidades de héroes cuando deciden que su corazón y su mente se mantendrán firmes contra los cambiantes valores morales de nuestra época.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"152815702\" id=\"title4\">¿Qué pueden hacer las familias en el hogar para mantener el ímpetu que generan las actividades de la Iglesia?<\/h2>\n<\/header>\n<p data-aid=\"152815703\" id=\"p8\">Por un tiempo serví como esposo de la presidenta de Mujeres Jóvenes de estaca. Una noche recibí la asignación de poner galletas en el vestíbulo mientras mi esposa tenía una charla fogonera para los padres y sus hijas que se preparaban para el campamento de Mujeres Jóvenes de la semana siguiente. Después de explicar dónde reunirse y qué llevar, ella les dijo: \u201cEl martes por la mañana, al dejar a sus hijas junto al autobús, abrácenlas fuerte y denles un beso de despedida, porque ellas no van a regresar\u201d.<\/p>\n<p data-aid=\"152815704\" id=\"p20\">Escuché un grito ahogado, y me di cuenta de que había sido yo. \u201c¿No van a regresar?\u201d.<\/p>\n<p data-aid=\"152815705\" id=\"p18\">Ella continuó diciendo: \u201cCuando dejen a las jóvenes esa mañana, ellas dejarán atrás las distracciones de las cosas de menor importancia y pasarán una semana juntas aprendiendo, creciendo y confiando en el Señor. Juntas oraremos, cantaremos, cocinaremos, serviremos, compartiremos testimonios y haremos cosas que nos hagan sentir el Espíritu del Padre Celestial toda la semana hasta que quedemos impregnadas hasta los huesos. Esas jóvenes que vean bajarse del autobús el sábado no serán las que hayan dejado el martes, sino que serán nuevas criaturas. Si las ayudan a mantenerse en ese plano más elevado, ellas los asombrarán, seguirán cambiando y creciendo, y su familia también cambiará\u201d.<\/p>\n<p data-aid=\"152815706\" id=\"p9\">Ese sábado, sucedió tal como ella lo predijo. Mientras estaba recogiendo las tiendas de campaña, escuché la voz de mi esposa en el pequeño y boscoso anfiteatro donde se habían juntado las jóvenes antes de volver a casa. La escuché decir: \u201cAquí están. Las hemos esperado toda la semana, nuestras jóvenes del sábado\u201d.<\/p>\n<p data-aid=\"152815707\" id=\"p10\">Los fieles jóvenes de Sion navegan por una época asombrosa. Tienen el encargo particular de hallar gozo <em>en<\/em> este mundo de conmoción profetizada, sin llegar a ser parte <em>de<\/em> ese mundo, que es ciego a la santidad. Hace unos cien años, G. K. Chesterton habló casi como si hubiera visto que este encargo consistía en centrarse en el hogar y ser apoyados por la Iglesia cuando dijo: \u201cTenemos que ver el universo como el castillo de un ogro, que hay que tomar por asalto y, a la vez, como nuestra cabaña a la que podemos volver por la noche\u201d (<cite>Orthodoxy<\/cite>, 1909, pág. 130).<\/p>\n<p data-aid=\"152815708\" id=\"p11\">Afortunadamente, ellos no tienen que ir solos a la batalla, sino que se tienen los unos a los otros y los tienen a ustedes. Además, siguen al profeta viviente, el presidente Russell M. Nelson, que dirige con su intencional optimismo de vidente al proclamar que la gran obra de esta época \u2014el recogimiento de Israel\u2014 será grandiosa y majestuosa (véase \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa\">Juventud de Israel<\/a>\u201d, devocional mundial para jóvenes, 3 de junio de 2018, HopeofIsrael.ChurchofJesusChrist.org).<\/p>\n<\/section>\n<p data-aid=\"152815709\" id=\"p12\">Este verano, mi esposa, Kalleen, y yo hicimos escala en Ámsterdam, la ciudad adonde, hace muchos años, llegué como un misionero nuevo. Después de haber pasado meses esforzándome por aprender el idioma neerlandés, nuestro vuelo de KLM estaba por aterrizar y el capitán hizo un anuncio incoherente por el altavoz. Tras un momento de silencio, mi compañero dijo en voz baja: \u201cCreo que eso fue neerlandés\u201d. Levantamos la vista y nos leímos la mente: Estamos perdidos.<\/p>\n<p data-aid=\"152815710\" id=\"p13\">Sin embargo, no todo estaba perdido. Mientras recordaba maravillado los saltos de fe que dimos en aquel entonces al caminar por ese aeropuerto hacia los milagros que se derramarían sobre nosotros como misioneros, de repente, un misionero de carne y hueso que abordaba un avión para volver a casa me devolvió al presente. Se presentó y me preguntó: \u201cPresidente Lund, ¿qué hago ahora? ¿Qué hago para mantenerme firme?\u201d.<\/p>\n<p data-aid=\"152815711\" id=\"p14\">Bien, esa es la misma pregunta que se hacen los jóvenes al terminar las conferencias FSY, los campamentos, las idas al templo y cada vez que sienten los poderes del cielo: \u201c¿Cómo se pasa de amar a Dios a un discipulado que perdure?\u201d.<\/p>\n<p data-aid=\"152815712\" id=\"p15\">Sentí un torrente de amor por ese misionero de ojos claros que estaba sirviendo las últimas horas de su misión, y en esa momentánea quietud del Espíritu, escuché que la voz se me quebraba al decirle sencillamente: \u201cUsted no tiene que llevar una placa para llevar Su nombre\u201d.<\/p>\n<p data-aid=\"152815713\" id=\"p16\">Quería ponerle las manos sobre los hombros y decirle: \u201cVa a hacer lo siguiente: Vaya a casa y sea como usted es <em>ahora<\/em>. Usted es tan bueno que casi resplandece en la oscuridad. La disciplina y los sacrificios de la misión lo han convertido en un magnífico hijo de Dios. Siga haciendo en casa lo que le funcionó a usted aquí con tanto poder. Ha aprendido a orar, a Quién orar y el lenguaje de la oración. Ha estudiado Sus palabras y llegado a amar al Salvador al tratar de ser como Él. Ha amado al Padre Celestial como el Salvador amó a Su Padre; ha servido a los demás como Él lo hizo; ha vivido los mandamientos como Él los vivió y, cuando no lo ha logrado, usted se ha arrepentido. Su discipulado no es el eslogan de una camiseta; ha llegado a formar parte de su vida el vivir con determinación por los demás. Así que, vaya a casa y haga eso, sea eso. Mantenga ese ímpetu espiritual el resto de su vida\u201d.<\/p>\n<p data-aid=\"152815714\" id=\"p17\">Sé que al confiar en el Señor Jesucristo y en la senda de Sus convenios, podemos hallar confianza y paz espirituales conforme cultivamos hábitos de santidad y rutinas de rectitud que pueden mantener y alimentar el fuego de nuestra fe. Ruego que cada uno de nosotros sigamos acercándonos más a ese fuego acogedor y que, pase lo que pase, nos mantengamos ahí. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>",
+    "footnotes": {}
+  }
+}

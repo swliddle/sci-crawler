@@ -1,0 +1,953 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/53rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "a0aa3d1ebbbf43988cde330767ec0f73",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/53rasband",
+      "data-aid": "154439308",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "b212c5eb823b41a5b2f82c531202b831"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/d4/b4/d4b43ae2e79046c85adbba4fa4153a9a9c232b9d/d4b43ae2e79046c85adbba4fa4153a9a9c232b9d.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5030-ronald-a-rasband-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Hosanna al Más Alto Dios",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154439308",
+      {"key": "154439308"}
+    ],
+    [
+      "154476837",
+      {"key": "154476837"}
+    ],
+    [
+      "154476847",
+      {"key": "154476847"}
+    ],
+    [
+      "154476852",
+      {"key": "154476852"}
+    ],
+    [
+      "154476858",
+      {"key": "154476858"}
+    ],
+    [
+      "154476863",
+      {"key": "154476863"}
+    ],
+    [
+      "154476869",
+      {"key": "154476869"}
+    ],
+    [
+      "154476876",
+      {"key": "154476876"}
+    ],
+    [
+      "154476882",
+      {"key": "154476882"}
+    ],
+    [
+      "154476887",
+      {"key": "154476887"}
+    ],
+    [
+      "154476892",
+      {"key": "154476892"}
+    ],
+    [
+      "154476897",
+      {"key": "154476897"}
+    ],
+    [
+      "154476902",
+      {"key": "154476902"}
+    ],
+    [
+      "154476907",
+      {"key": "154476907"}
+    ],
+    [
+      "154476911",
+      {"key": "154476911"}
+    ],
+    [
+      "154476915",
+      {"key": "154476915"}
+    ],
+    [
+      "154476919",
+      {"key": "154476919"}
+    ],
+    [
+      "154476926",
+      {"key": "154476926"}
+    ],
+    [
+      "154476930",
+      {"key": "154476930"}
+    ],
+    [
+      "154476934",
+      {"key": "154476934"}
+    ],
+    [
+      "154476938",
+      {"key": "154476938"}
+    ],
+    [
+      "154476942",
+      {"key": "154476942"}
+    ],
+    [
+      "154476946",
+      {"key": "154476946"}
+    ],
+    [
+      "154476949",
+      {"key": "154476949"}
+    ],
+    [
+      "154476952",
+      {"key": "154476952"}
+    ],
+    [
+      "154476955",
+      {"key": "154476955"}
+    ],
+    [
+      "154476958",
+      {"key": "154476958"}
+    ],
+    [
+      "154476961",
+      {"key": "154476961"}
+    ],
+    [
+      "154476964",
+      {"key": "154476964"}
+    ],
+    [
+      "154476967",
+      {"key": "154476967"}
+    ],
+    [
+      "154476970",
+      {"key": "154476970"}
+    ],
+    [
+      "154476973",
+      {"key": "154476973"}
+    ],
+    [
+      "154476976",
+      {"key": "154476976"}
+    ],
+    [
+      "154476979",
+      {"key": "154476979"}
+    ],
+    [
+      "154476982",
+      {"key": "154476982"}
+    ],
+    [
+      "154476985",
+      {"key": "154476985"}
+    ],
+    [
+      "154476988",
+      {"key": "154476988"}
+    ],
+    [
+      "154476991",
+      {"key": "154476991"}
+    ],
+    [
+      "154476994",
+      {"key": "154476994"}
+    ],
+    [
+      "154476996",
+      {"key": "154476996"}
+    ],
+    [
+      "154476998",
+      {"key": "154476998"}
+    ],
+    [
+      "154477000",
+      {"key": "154477000"}
+    ],
+    [
+      "154477001",
+      {"key": "154477001"}
+    ],
+    [
+      "154477002",
+      {"key": "154477002"}
+    ],
+    [
+      "154477003",
+      {"key": "154477003"}
+    ],
+    [
+      "154477004",
+      {"key": "154477004"}
+    ],
+    [
+      "154477005",
+      {"key": "154477005"}
+    ],
+    [
+      "154477006",
+      {"key": "154477006"}
+    ],
+    [
+      "154477007",
+      {"key": "154477007"}
+    ],
+    [
+      "154477008",
+      {"key": "154477008"}
+    ],
+    [
+      "154477009",
+      {"key": "154477009"}
+    ],
+    [
+      "154477010",
+      {"key": "154477010"}
+    ],
+    [
+      "154477011",
+      {"key": "154477011"}
+    ],
+    [
+      "154477012",
+      {"key": "154477012"}
+    ],
+    [
+      "154477013",
+      {"key": "154477013"}
+    ],
+    [
+      "154477014",
+      {"key": "154477014"}
+    ],
+    [
+      "154477015",
+      {"key": "154477015"}
+    ],
+    [
+      "154477016",
+      {"key": "154477016"}
+    ],
+    [
+      "154477017",
+      {"key": "154477017"}
+    ],
+    [
+      "154477018",
+      {"key": "154477018"}
+    ],
+    [
+      "154477019",
+      {"key": "154477019"}
+    ],
+    [
+      "154477020",
+      {"key": "154477020"}
+    ],
+    [
+      "154477021",
+      {"key": "154477021"}
+    ],
+    [
+      "154477022",
+      {"key": "154477022"}
+    ],
+    [
+      "154477023",
+      {"key": "154477023"}
+    ],
+    [
+      "154477024",
+      {"key": "154477024"}
+    ],
+    [
+      "154477025",
+      {"key": "154477025"}
+    ],
+    [
+      "154477026",
+      {"key": "154477026"}
+    ],
+    [
+      "154477027",
+      {"key": "154477027"}
+    ],
+    [
+      "154477028",
+      {"key": "154477028"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/53rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña que la entrada triunfal de Jesucristo en Jerusalén y los acontecimientos de esa semana sirven de ejemplo de doctrina que podemos poner en práctica hoy en nuestra vida.",
+          "title": "Hosanna al Más Alto Dios"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña que la entrada triunfal de Jesucristo en Jerusalén y los acontecimientos de esa semana sirven de ejemplo de doctrina que podemos poner en práctica hoy en nuestra vida.",
+          "title": "Hosanna al Más Alto Dios"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/d4/b4/d4b43ae2e79046c85adbba4fa4153a9a9c232b9d/d4b43ae2e79046c85adbba4fa4153a9a9c232b9d.jpeg\" data-video-title=\"Hosanna al Más Alto Dios\" data-video-description=\"El élder Rasband enseña que la entrada triunfal de Jesucristo en Jerusalén y los acontecimientos de esa semana sirven de ejemplo de doctrina que podemos poner en práctica hoy en nuestra vida.\" data-video-id=\"6323846568112\" data-ip=\"Download and Streaming                            \" data-duration=\"798065\" data-assetId=\"305d12cad19d11ed9b5ceeeeac1e913285bbc760\" data-ref-id=\"38E2C8D12C6B7005DD303F126C44DDEE49DB6A08\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323846568112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"266508345\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5030-ronald-a-rasband-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"73921978\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5030-ronald-a-rasband-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"192241218\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5030-ronald-a-rasband-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"266508345\"/><\/video><h1 data-aid=\"154476837\" id=\"title1\">Hosanna al Más Alto Dios<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154476847\" id=\"author1\">Por el élder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"154476852\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154476858\" id=\"kicker1\">La entrada triunfal de Jesucristo en Jerusalén y los acontecimientos de esa semana sirven de ejemplo de doctrina que podemos poner en práctica hoy en nuestra vida.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154476863\" id=\"p1\">Como ya se ha dicho, hoy nos sumamos a cristianos de todo el mundo para honrar a Jesucristo en este Domingo de Ramos. Hace casi dos mil años, el Domingo de Ramos marcó el inicio de la última semana del ministerio terrenal de Jesucristo; fue la semana más importante de la historia de la humanidad.<\/p>\n<p data-aid=\"154476869\" id=\"p2\">Lo que comenzó con la entrada triunfal de Jesús en Jerusalén, en la que fue aclamado como el Mesías prometido, culminó con Su crucifixión y resurrección<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Por designio divino, Su sacrificio expiatorio dio fin a Su ministerio terrenal, haciendo posible que vivamos con nuestro Padre Celestial por la eternidad.<\/p>\n<p data-aid=\"154476876\" id=\"p3\">En las Escrituras se nos dice que aquella semana comenzó con multitudes aguardando a las puertas de la ciudad para ver a \u201cJesús, el profeta, de Nazaret de Galilea\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Las personas \u201ctomaron ramas de palmeras y salieron a recibirle, y clamaban: ¡Hosanna! ¡Bendito el que viene en el nombre del Señor, el Rey de Israel!\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"154476882\" id=\"p4\">Este relato bíblico tan antiguo me recuerda cuando estuve en Takoradi, Ghana, por una asignación de la Iglesia. Curiosamente, estuve allí un Domingo de Ramos.<\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/7ae2d36c9e60209f8fd02bb147958a51f0f6bac6.png\" data-img-id=\"fc3b1786cd8c11edbbddeeeeac1e40ba9625848c\" srcset=\"https://assets.churchofjesuschrist.org/27309dc25fa0a42fbc34683f22863514925bbd45.png 60w,https://assets.churchofjesuschrist.org/0637c4abcbfae61ad3a207df36b5ddde660e3d73.png 100w,https://assets.churchofjesuschrist.org/cc4bfb45ff8b5ec3d3d59b665dcb03b499f1ea01.png 200w,https://assets.churchofjesuschrist.org/88aacfd1acbbcb85abc8928bdd1c4651442e3677.png 250w,https://assets.churchofjesuschrist.org/3e95813c0a6a7b109d42fcb7f27e5b9da8fb23f6.png 320w,https://assets.churchofjesuschrist.org/7ae2d36c9e60209f8fd02bb147958a51f0f6bac6.png 500w,https://assets.churchofjesuschrist.org/78ad5e332a841fcb309619e451fefa1c889b4b7d.png 640w\" data-assetId=\"fc3b1786cd8c11edbbddeeeeac1e40ba9625848c\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"154476887\" id=\"p5\">Fui allí a dividir la Estaca Takoradi, Ghana, para crear la Estaca Mpintsin, Ghana. Actualmente hay más de cien mil miembros de la Iglesia en Ghana<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. (Extendemos una cordial bienvenida a Su Majestad, el rey Nii Tackie Teiko Tsuru II de Acra, Ghana, quien se encuentra hoy con nosotros). Al reunirme con esos santos sentí su profundo amor y devoción por el Señor. Les expresé mi gran amor por ellos y que el Presidente de la Iglesia los amaba. Les leí las palabras del Salvador registradas por Juan: \u201cQue os améis los unos a los otros, como yo os he amado\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. La llamaron \u201cLa conferencia del amor\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<img id=\"img2\" src=\"https://assets.churchofjesuschrist.org/2a999b95fe4d8ef72c7be29f8a1aae0b029225ff.png\" data-img-id=\"26356635cd8d11ed9733eeeeac1ecb4439e7d38f\" srcset=\"https://assets.churchofjesuschrist.org/c09240b14026cfdf74be8d4b9731e9965ac626e1.png 60w,https://assets.churchofjesuschrist.org/76e63fae14e62b64fa472a96ad0df8406aeab339.png 100w,https://assets.churchofjesuschrist.org/a7979623f7ebb75ddb6289d5e90b90d441407379.png 200w,https://assets.churchofjesuschrist.org/cb1b37ecb0d24a4c17e5d5c3ff9ff11ed2ba7ea1.png 250w,https://assets.churchofjesuschrist.org/ff5b17c9e2a231f1f973c3dcedee65fadd0c4a0b.png 320w,https://assets.churchofjesuschrist.org/2a999b95fe4d8ef72c7be29f8a1aae0b029225ff.png 500w,https://assets.churchofjesuschrist.org/fd8acc7c760293ef9e7fbe50006b0e2c27aec1ed.png 640w\" data-assetId=\"26356635cd8d11ed9733eeeeac1ecb4439e7d38f\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"154476892\" id=\"p6\">Mientras contemplaba las filas de esos queridos hermanos y hermanas y sus familias en la capilla, pude ver en sus rostros el brillo del testimonio y la fe en Jesucristo. Sentí su deseo de ser contados como parte de Su vasta Iglesia; y cuando el coro cantó, cantaron como ángeles.<\/p>\n<img id=\"img3\" src=\"https://assets.churchofjesuschrist.org/381f217c3617c0892b862d68eb99130fae15972c.png\" data-img-id=\"5a1a76c2cd8d11ed8577eeeeac1e35d1b725701c\" srcset=\"https://assets.churchofjesuschrist.org/7197a5628d3bcf9466728c4d5331366bd83534e2.png 60w,https://assets.churchofjesuschrist.org/d7ab330b8b3ca042740eb2c905a411d1732aafa0.png 100w,https://assets.churchofjesuschrist.org/5e4cfe75fe49556520a189be249bbb5980bdf890.png 200w,https://assets.churchofjesuschrist.org/3e05bbdd6936119a8b91c5c02fe3676688bbd55b.png 250w,https://assets.churchofjesuschrist.org/af256374a15de26e9d63d4d343cbbea99fc126f8.png 320w,https://assets.churchofjesuschrist.org/381f217c3617c0892b862d68eb99130fae15972c.png 500w,https://assets.churchofjesuschrist.org/4eae3b70b66b3911d38c1a9aa390f781448c00ad.png 640w\" data-assetId=\"5a1a76c2cd8d11ed8577eeeeac1e35d1b725701c\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<img id=\"img4\" src=\"https://assets.churchofjesuschrist.org/9c3a3c78fdbf14a714e6709486c233056f0eeee9.png\" data-img-id=\"82cd0334cd8d11edb631eeeeac1e38eff406605d\" srcset=\"https://assets.churchofjesuschrist.org/90466bba4d677e89cecd26cbe551b6e0726a75db.png 60w,https://assets.churchofjesuschrist.org/b75d1cf1ff42e4db8aab5c9da2c9c470ab528302.png 100w,https://assets.churchofjesuschrist.org/efc3831789ecbb788bebb358bc5c6cde572b3bf2.png 200w,https://assets.churchofjesuschrist.org/06d7883a2acbcf9dde6f830a885b16df9adfed77.png 250w,https://assets.churchofjesuschrist.org/4d0002542a18feaf4d6c9c3640bb6d2d496e67fd.png 320w,https://assets.churchofjesuschrist.org/9c3a3c78fdbf14a714e6709486c233056f0eeee9.png 500w,https://assets.churchofjesuschrist.org/8ac7e1e6786fcf950075a62513f48e8291e51cfd.png 640w\" data-assetId=\"82cd0334cd8d11edb631eeeeac1e38eff406605d\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"154476897\" id=\"p7\">Al igual que en aquel Domingo de Ramos de la antigüedad, estos eran discípulos de Jesucristo que se habían congregado para rendirle tributo, como hicieran los que estuvieron a las puertas de Jerusalén con palmas en las manos y exclamaron: \u201c¡Hosanna [\u2026]! ¡Bendito el que viene en el nombre del Señor!\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<img id=\"img5\" src=\"https://assets.churchofjesuschrist.org/d297406ca6d3261804c2828cc4a7811adca1da43.png\" data-img-id=\"c1f703e5cd8c11eda93deeeeac1eaa6fe1647cb9\" srcset=\"https://assets.churchofjesuschrist.org/9a846401ec7e9e4d0b437de1ec44f1b1a8d81c9f.png 60w,https://assets.churchofjesuschrist.org/44a47d307e9b554ab23366424fc4870a9652bbc0.png 100w,https://assets.churchofjesuschrist.org/7aa49623b29b076911efef8075272ce88741fa31.png 200w,https://assets.churchofjesuschrist.org/f856dd40ccc93dc2ed0dee19327e7952a3622647.png 250w,https://assets.churchofjesuschrist.org/ccc503bf89ce0bdf80b457c8001810801be8ba96.png 320w,https://assets.churchofjesuschrist.org/d297406ca6d3261804c2828cc4a7811adca1da43.png 500w,https://assets.churchofjesuschrist.org/7cf55fcfc648d6414450dd114de40411c1c59cc5.png 640w\" data-assetId=\"c1f703e5cd8c11eda93deeeeac1eaa6fe1647cb9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"154476902\" id=\"p8\">Había también unos feligreses en una parroquia cercana, que estaban honrando el Domingo de Ramos. Mientras hablaba desde el púlpito, me fijé a través de la ventana que se los veía caminar gozosos agitando las palmas que llevaban, tal como se ve en esta foto. Fue algo que jamás podré olvidar: aquel día todos adoramos al Rey de reyes.<\/p>\n<p data-aid=\"154476907\" id=\"p9\">El presidente Russell M. Nelson nos ha aconsejado que hagamos del Domingo de Ramos un día \u201cen verdad sant[o], al recordar, no solo las palmas que se agitaron para honrar la entrada de Jesús en Jerusalén, sino las palmas de Sus manos\u201d. Luego, el presidente Nelson se refirió a Isaías, quien habló de cómo el Salvador prometió: \u201cYo no me olvidaré de ti\u201d, con estas palabras: \u2018He aquí que en las palmas de mis manos te tengo grabada\u2019\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"154476911\" id=\"p10\">El Señor sabe por Sí mismo que la vida terrenal es difícil. Sus heridas nos recuerdan que Él \u201cha descendido debajo de todo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> para poder socorrernos cuando padecemos y para ser nuestro ejemplo en el mandato de \u201cpersevera[r] en [nuestro] camino\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>, el cual es Su camino, de modo que \u201cDios [esté con nosotros] para siempre jamás\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"154476915\" id=\"p11\">El Domingo de Ramos no fue solo un evento, otra página de la historia con una fecha, una hora y un lugar. La entrada triunfal de Jesucristo en Jerusalén y los hechos de aquella semana sirven de ejemplo de doctrina que podemos poner en práctica hoy en nuestra vida.<\/p>\n<p data-aid=\"154476919\" id=\"p12\">Consideremos parte de la doctrina eterna que se entrelaza en la conclusión de Su ministerio en Jerusalén.<\/p>\n<p data-aid=\"154476926\" id=\"p13\">Primero, la profecía. Por ejemplo, Zacarías, el profeta del Antiguo Testamento, profetizó la entrada triunfal de Jesucristo en Jerusalén, y hasta describió que iría sentado sobre un pollino<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Mientras se preparaba para entrar en la ciudad, Jesús predijo Su resurrección con estas palabras:<\/p>\n<p data-aid=\"154476930\" id=\"p14\">\u201cHe aquí, subimos a Jerusalén, y el Hijo del Hombre será entregado a los principales sacerdotes y a los escribas, y le condenarán a muerte;<\/p>\n<p data-aid=\"154476934\" id=\"p15\">\u201cy le entregarán a los gentiles para que le escarnezcan, y le azoten y le crucifiquen; mas al tercer día resucitará\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"154476938\" id=\"p16\">Segundo, la compañía del Espíritu Santo. José Smith enseñó: \u201cNadie puede saber que Jesús es el Cristo, sino por el Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. El Salvador prometió a Sus discípulos<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> en la Última Cena<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>, en el aposento alto<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>: \u201cNo os dejaré huérfanos\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Ellos no estarían solos al llevar adelante las verdades del Evangelio, sino que tendrían el supremo don del Espíritu Santo para guiarlos. \u201cLa paz os dejo, mi paz os doy\u201d, prometió Él, \u201cyo no os la doy como el mundo la da\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Tenemos esa misma certeza en el don del Espíritu Santo: \u201c\u2026 para que siempre [podamos] tener su Espíritu [con nosotros]\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> y \u201cpor el poder del Espíritu Santo [podamos] conocer la verdad de todas las cosas\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"154476942\" id=\"p17\">Tercero, el discipulado. El verdadero discipulado consiste en un compromiso inquebrantable, en obediencia a las leyes eternas y, por encima de todo, en el amor a Dios, no dudando nada. La multitud que rindió tributo con palmas lo aclamó como el Mesías; y en efecto, Él lo era. Vinieron atraídos por Él, por Sus milagros y Sus enseñanzas, pero para muchos de ellos la adulación no duró. Algunos de los que previamente habían clamado \u201cHosanna\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> no tardaron en volverse y exclamar: \u201cCrucifícale\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"154476946\" id=\"p18\">Cuarto, la expiación de Jesucristo<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. En Sus últimos días, tras el Domingo de Ramos, Él efectuó Su extraordinaria expiación, desde la agonía en Getsemaní, pasando por la farsa de Su juicio y Su tortura en la cruz, hasta Su entierro en una tumba prestada. Pero eso no fue todo: Con la majestuosidad de Su llamamiento como Redentor de todos los hijos del Padre Celestial, tres días después salió de la tumba, resucitado<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>, tal como Él lo había profetizado.<\/p>\n<p data-aid=\"154476949\" id=\"p19\">¿Estamos continuamente agradecidos por la incomparable expiación de Jesucristo? ¿Sentimos su poder purificador en este instante? Ese es el motivo por el que Jesucristo, Autor y Consumador de nuestra salvación, fue a Jerusalén: para salvarnos a todos. ¿Resuenan en ustedes estas palabras de Alma?: \u201c\u2026 si habéis experimentado un cambio en el corazón, y si habéis sentido el deseo de cantar la canción del amor que redime, quisiera preguntaros: ¿Podéis sentir esto ahora?\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Puedo aseverar que aquel Domingo de Ramos, el coro de Takoradi cantó \u201cla canción del amor que redime\u201d.<\/p>\n<p data-aid=\"154476952\" id=\"p20\">Aquella fatídica última semana de Su ministerio terrenal, Jesucristo pronunció la parábola de las diez vírgenes<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. Él estaba enseñando acerca de Su regreso a quienes estuvieran preparados para recibirlo, no con palmas en las manos, sino con la luz del Evangelio en su interior. Él empleó la imagen de las lámparas encendidas, con una provisión de aceite adicional para alimentar la llama, a fin de describir la disposición de vivir a Su manera, recibir Sus verdades y compartir Su luz.<\/p>\n<p data-aid=\"154476955\" id=\"p21\">Ya conocen la historia. Las diez vírgenes representan a los miembros de la Iglesia y el novio representa a Jesucristo.<\/p>\n<p data-aid=\"154476958\" id=\"p22\">Las diez vírgenes tomaron las lámparas y \u201csalieron a recibir al novio\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Cinco eran prudentes, pues tenían aceite en las lámparas y un poco más de reserva, y cinco eran insensatas, sin aceite en las lámparas y sin reserva alguna. Cuando llegó el aviso: \u201cHe aquí el novio viene; salid a recibirle\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>, las cinco que eran \u201cprudentes y ha[bían] recibido la verdad, y ha[bían] tomado al Espíritu Santo por guía\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>, estaban listas para \u201csu rey y su legislador\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>, para que \u201csu gloria est[uviera] sobre ell[a]s\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Las otras cinco trataban frenéticamente de encontrar aceite, pero era demasiado tarde. La comitiva siguió adelante sin ellas. Cuando llamaron a la puerta y suplicaron poder entrar, el Señor respondió \u201cno os conozco\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>.<\/p>\n<p data-aid=\"154476961\" id=\"p23\">¿Cómo nos sentiríamos si Él nos dijera: \u201c¡No los conozco!\u201d?<\/p>\n<p data-aid=\"154476964\" id=\"p24\">Nosotros, al igual que las diez vírgenes, tenemos lámparas, pero ¿tenemos aceite? Temo que haya quienes apenas se las arreglan con una escasa cantidad de aceite, demasiado atareados con las presiones del mundo como para prepararse debidamente. El aceite se obtiene al creer y poner en práctica las profecías y las palabras de los profetas vivientes, en especial las del presidente Nelson, sus consejeros y los Doce Apóstoles. El aceite llena nuestra alma cuando oímos y sentimos el Espíritu Santo y actuamos según esa guía divina. El aceite se derrama en nuestro corazón cuando nuestras decisiones indican que amamos al Señor y que amamos lo que Él ama. El aceite se recibe al arrepentirse y procurar la sanación de la expiación de Jesucristo.<\/p>\n<p data-aid=\"154476967\" id=\"p25\">Si algunos de ustedes están intentando completar lo que algunos llaman una \u201clista de cosas que hacer antes de morir\u201d, pues ya está: llenen su lista con aceite en la forma del agua viva de Jesucristo<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>, la cual es una representación de Su vida y Sus enseñanzas. Por el contrario, marcar en la lista que se completó la visita a un lugar lejano, o a un evento espectacular, jamás les llenará ni satisfará el alma; el vivir la doctrina que impartió Jesucristo sí lo hará. Antes mencioné unos ejemplos: reciban las profecías y las enseñanzas proféticas, actúen según las impresiones del Espíritu Santo, lleguen a ser verdaderos discípulos y procuren el poder sanador de la expiación del Señor. Esta lista de cosas que hacer antes de morir los llevará a un lugar donde sí quieren ir: de regreso a su Padre Celestial.<\/p>\n<p data-aid=\"154476970\" id=\"p26\">Aquel Domingo de Ramos en Takoradi fue una experiencia muy especial para mí, porque la viví con una congregación de hermanos y hermanas fieles. Así ha sido también en continentes e islas por todo el mundo. Mi corazón y mi alma, al igual que los de ustedes, anhelan clamar: \u201cHosanna al Más Alto Dios\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>.<\/p>\n<p data-aid=\"154476973\" id=\"p27\">Si bien hoy no nos hallamos a las puertas de Jerusalén con palmas en las manos, el tiempo vendrá en que, como se profetizó en Apocalipsis, vendrá \u201cuna gran multitud, la cual ninguno podía contar, de todas las naciones y tribus y pueblos y lenguas, que esta[rá] delante del trono y en presencia del Cordero, vestidos de ropas blancas, y con palmas en las manos\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a>.<\/p>\n<p data-aid=\"154476976\" id=\"p28\">Les dejo mi bendición como apóstol de Jesucristo para que se esfuercen diligentemente a fin de vivir en rectitud y estar entre aquellos que, con palmas en las manos, anunciarán al Hijo de Dios, nuestro gran Redentor. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154476979\" id=\"notetitle1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154476982\" id=\"note1_p1\">En los cuatro Evangelios (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21?lang=spa\">Mateo 21\u201328<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11?lang=spa\">Marcos 11\u201316<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19?lang=spa\">Lucas 19-24<\/a> y <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12?lang=spa\">Juan 12\u201321<\/a>) se describen los últimos días del ministerio terrenal de Jesucristo, el cual, por designio divino, puso las bendiciones de la salvación y la exaltación al alcance de todos los hijos de Dios. En ocasiones, los autores difieren en lo que incluyen, pero no en cuanto a las enseñanzas y obras del Salvador.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154476985\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.10-11?lang=spa#p10\">Mateo 21:10\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154476988\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.13?lang=spa#p13\">Juan 12:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154476991\" id=\"note4_p1\">Según la División de Registros de Miembros y Estadísticas, hay 102 592 miembros en Ghana.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154476994\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=spa#p12\">Juan 15:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154476996\" id=\"note6_p1\">Cada vez que hablaba con los miembros, me decían: \u201cÉlder Rasband, nuestro querido Apóstol, lo amamos\u201d. Esas personas están tan llenas del Espíritu y el amor de Dios, que comparten ese amor con facilidad.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154476998\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154477000\" id=\"note8_p1\">Véase Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2021-03-0100-the-peace-and-hope-of-easter\">Gracias a que Él vive, podemos tener paz en medio de la incertidumbre<\/a>\u201d (video), abril de 2021, https://www.churchofjesuschrist.org/inspiration/this-easter-find-peace-in-jesus-christ?lang=spa; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.16?lang=spa#p16\">Isaías 49:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154477001\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.8?lang=spa#p8\">Doctrina y Convenios 122:8<\/a>. En diciembre de 1838, el profeta José y un puñado de líderes de la Iglesia fueron apresados injustamente en la cárcel de Liberty en condiciones deplorables. Tras pasar meses en circunstancias miserables, el Profeta escribió a los miembros en marzo de 1839, e incluyó oraciones en las que había pedido al Señor que tuviera piedad de su situación y de los \u201csantos que sufren\u201d. También compartió la respuesta del Señor a esas oraciones, según consta en <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa\">Doctrina y Convenios 121\u2013123<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154477002\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>. Los ánimos que el Señor le dio a José Smith en la cárcel de Liberty le brindaron consuelo y el entendimiento espiritual de que la adversidad y las pruebas pueden fortalecernos, enseñarnos paciencia y fomentar el autodominio. El Señor le pidió que perseverase \u201cen [su] camino\u201d, que era el camino del Señor, soportando el trato injusto como había hecho \u201c[e]l Hijo [de Dios, que] ha[bía] descendido debajo de todo ello. ¿Eres tú mayor que él?\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.8?lang=spa#p8\">Doctrina y Convenios 122:8<\/a>).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154477003\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>. Para quienes se aferran a su fe y confían en el Señor, la promesa de que \u201cDios estará contigo\u201d se cumplirá.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154477004\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=spa#p9\">Zacarías 9:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154477005\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.18-19?lang=spa#p18\">Mateo 20:18\u201319<\/a>. James E. Talmage escribe en <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=2#p2\">Jesús el Cristo<\/a><\/cite>: \u201cNos causa admiración el hecho de que los Doce no pudieron comprender su significado [\u2026]. Ellos veían cierta terrible incongruencia, una espantosa inconsecuencia o inexplicable contradicción en las palabras de su querido Maestro. Sabían que era el Cristo, el Hijo del Dios Viviente; ¿cómo, pues, podría ser vencido y muerto tal Ser?\u201d (Jesús el Cristo, 1975, págs. 529\u2013530).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154477006\" id=\"note14_p1\">José Smith hizo esta declaración a la Sociedad de Socorro Femenina de Nauvoo el 28 de abril de 1842, según consta en \u201cHistory of Joseph Smith\u201d, <cite>Deseret News<\/cite>, 19 de septiembre de 1855, pág. 218. Refiriéndose al duodécimo capítulo de 1 Corintios, aclaró el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.3?lang=spa#p3\">tercer versículo<\/a>, que dice que \u201cnadie puede <i>afirmar<\/i> que Jesús es el Señor, sino por el Espíritu Santo\u201d, y lo corrigió para que dijese: \u201c\u2026 nadie puede <i>saber<\/i> que Jesús es el Señor, sino por el Espíritu Santo\u201d. (Véase <cite><a href=\"https://www.churchhistorianspress.org/the-first-fifty-years-of-relief-society/part-2/2-2\">The First Fifty Years of Relief Society: Key Documents in Latter-day Saint Women\u2019s History<\/a><\/cite>, 2016, 2.2, churchhistorianspress.org).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154477007\" id=\"note15_p1\">Jesús compartió la Última Cena con Sus discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.12-18?lang=spa#p12\">Marcos 14:12\u201318<\/a>). Los Doce eran Pedro, Andrés, Jacobo, Juan, Mateo, Felipe, Tomás, Bartolomé, Jacobo (hijo de Alfeo), Judas Iscariote, Judas (hermano de Jacobo) y Simón (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.13-16?lang=spa#p13\">Lucas 6:13\u201316<\/a>).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154477008\" id=\"note16_p1\">En la Última Cena, Jesús instituyó la Santa Cena con Sus discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.26-29?lang=spa#p26\">Mateo 26:26\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.22-25?lang=spa#p22\">Marcos 14:22\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.19-20?lang=spa#p19\">Lucas 22:19\u201320<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154477009\" id=\"note17_p1\">Debido a ciertas discrepancias entre Mateo, Marcos, Lucas y Juan, hay debate actualmente en cuanto al día o la noche específicos en que Jesús instituyó la Santa Cena en el \u201caposento alto\u201d. Mateo, Marcos y Lucas sugieren que la Última Cena tuvo lugar \u201cel primer día de la fiesta de los panes sin levadura\u201d, o en la cena de Pascua (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.17?lang=spa#p17\">Mateo 26:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.12?lang=spa#p12\">Marcos 14:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.1,7?lang=spa#p1\">Lucas 22:1, 7<\/a>). Sin embargo, Juan sugiere que Jesús fue arrestado antes de la cena de Pascua (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.28?lang=spa#p28\">Juan 18:28<\/a>), dando a entender que la Última Cena habría tenido lugar un día antes de la cena de Pascua. Los materiales de los cursos de estudio de la Iglesia y los eruditos Santos de los Últimos Días parecen concordar en que Jesús llevó a cabo la Última Cena con Sus discípulos en el aposento alto la noche antes de Su crucifixión. Los cristianos que celebran la Semana Santa reconocen el jueves como el día de la Última Cena, el viernes como el día de la Crucifixión y el domingo como el día de la Resurrección, según el calendario gregoriano.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154477010\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.18?lang=spa#p18\">Juan 14:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154477011\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=spa#p27\">Juan 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154477012\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.77?lang=spa#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154477013\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.5?lang=spa#p5\">Moroni 10:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154477014\" id=\"note22_p1\">En la Guía para el Estudio de las Escrituras se explica que <i>hosanna<\/i> significa \u201csálvanos\u201d. Esta palabra procede de <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/118.25?lang=spa#p25\">Salmos 118:25<\/a>. \u201cEn la Fiesta de los Tabernáculos [\u2026], el pueblo entonaba las palabras del Salmo 118 y mecía ramas de palma. Durante la entrada triunfal del Señor en Jerusalén, las multitudes clamaron \u2018Hosanna\u2019 y tendieron ramas de palma a sus pies\u201d (Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/hosanna?lang=spa\">Hosanna<\/a>\u201d). Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9,15?lang=spa#p9\">Mateo 21:9, 15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.9-10?lang=spa#p9\">Marcos 11:9\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.13?lang=spa#p13\">Juan 12:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154477015\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/15.14?lang=spa#p14\">Marcos 15:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.21?lang=spa#p21\">Lucas 23:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154477016\" id=\"note24_p1\">El elemento central del plan de salvación de nuestro Padre Celestial era una expiación infinita que asegurara la inmortalidad de todos Sus hijos y la exaltación de aquellos dignos de recibir tal bendición. Y el Padre dijo: \u201c¿A quién enviaré?\u201d. Jesucristo dio un paso al frente y respondió: \u201cHeme aquí; envíame\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.27?lang=spa#p27\">Abraham 3:27<\/a>). El presidente Russell M. Nelson enseñó: \u201c[La] misión [de Jesucristo] era llevar a cabo la Expiación, misión que era exclusiva de Él. Nacido de una madre mortal y de un Padre inmortal, Él era el único que podía poner Su vida voluntariamente y volverla a tomar (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.14-18?lang=spa#p14\">Juan 10:14\u201318<\/a>). Las consecuencias gloriosas de Su expiación fueron infinitas y eternas; Él quitó el aguijón de la muerte e hizo que el dolor del sepulcro fuera temporario (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.54-55?lang=spa#p54\">1 Corintios 15:54\u201355<\/a>). Se sabía desde antes de la Creación y la Caída que era Su responsabilidad llevar a cabo la Expiación; la cual no solo haría posible la resurrección y la inmortalidad de todo el género humano, sino que también nos permitiría ser perdonados de nuestros pecados, bajo ciertas condiciones que Él establecería. De este modo, Su expiación abrió la vía mediante la cual podíamos ser unidos a Él y a nuestra familia por la eternidad\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/liahona/2013/04/the-mission-and-ministry-of-jesus-christ?lang=spa\">La misión y el ministerio de Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2013, pág. 20).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154477017\" id=\"note25_p1\">La resurrección consiste en la reunificación del cuerpo y el espíritu en un estado inmortal, quedando ambos inseparables y no estando ya más sujetos a las enfermedades de esta vida ni a la muerte (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/11.45?lang=spa#p45\">Alma 11:45<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.23?lang=spa#p23\">40:23<\/a>).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154477018\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=spa#p14\">Alma 5:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154477019\" id=\"note27_p1\">La parábola de las diez vírgenes se encuentra en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-12?lang=spa#p1\">Mateo 25:1\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-59?lang=spa#p56\">Doctrina y Convenios 45:56\u201359<\/a>. Los capítulos anteriores y posteriores a <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa\">Mateo 25<\/a> sugieren que Jesús enseñó esta parábola durante Su última semana, después de entrar en Jerusalén en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21?lang=spa\">Mateo 21<\/a>, y justo antes de la Última Cena y Su arresto en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa\">Mateo 26<\/a>. Además de la parábola de las diez vírgenes que pronunció esa última semana, Jesús enseñó la parábola de la higuera (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.17-21?lang=spa#p17\">Mateo 21:17\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.32-33?lang=spa#p32\">24:32\u201333<\/a>), la parábola de los dos hijos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.28-32?lang=spa#p28\">Mateo 21:28\u201332<\/a>) y la parábola de los labradores malvados (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.33-46?lang=spa#p33\">Mateo 21:33\u201346<\/a>).<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154477020\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1?lang=spa#p1\">Mateo 25:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154477021\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.6?lang=spa#p6\">Mateo 25:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154477022\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.57?lang=spa#p57\">Doctrina y Convenios 45:57<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154477023\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.59?lang=spa#p59\">Doctrina y Convenios 45:59<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154477024\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.59?lang=spa#p59\">Doctrina y Convenios 45:59<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"154477025\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.12?lang=spa#p12\">Mateo 25:12<\/a>. En el Sermón del Monte, el Señor se refiere a quienes presumen haber hecho \u201cmuchos milagros\u201d diciendo, al igual que se indica en el relato de las cinco vírgenes insensatas: \u201cNunca os conocí\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.22-23?lang=spa#p22\">Mateo 7:22\u201323<\/a>).<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"154477026\" id=\"note34_p1\">Así como el agua es esencial para sostener la vida terrenal, Jesucristo y Sus enseñanzas (aguas vivas) son esenciales para la vida eterna (véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/living-water?lang=spa\">Agua(s) viva(s)<\/a>,\u201d scriptures.ChurchofJesusChrist.org; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/12.3?lang=spa#p3\">Isaías 12:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/2.13?lang=spa#p13\">Jeremías 2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.6-15?lang=spa#p6\">Juan 4:6\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.37?lang=spa#p37\">7:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=spa#p25\">1 Nefi 11:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.66?lang=spa#p66\">Doctrina y Convenios 10:66<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63.23?lang=spa#p23\">63:23<\/a>).<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"154477027\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/4.32?lang=spa#p32\">3 Nefi 4:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"154477028\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/7.9?lang=spa#p9\">Apocalipsis 7:9<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154476887",
+        "id": "note4",
+        "text": "<p data-aid=\"154476991\" id=\"note4_p1\">Según la División de Registros de Miembros y Estadísticas, hay 102 592 miembros en Ghana.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154476887",
+        "id": "note5",
+        "text": "<p data-aid=\"154476994\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=spa#p12\">Juan 15:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.12?lang=spa#p12",
+          "text": "Juan 15:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154476876",
+        "id": "note2",
+        "text": "<p data-aid=\"154476985\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.10-11?lang=spa#p10\">Mateo 21:10\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/21.10-11?lang=spa#p10",
+          "text": "Mateo 21:10\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154476876",
+        "id": "note3",
+        "text": "<p data-aid=\"154476988\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.13?lang=spa#p13\">Juan 12:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/12.13?lang=spa#p13",
+          "text": "Juan 12:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154476907",
+        "id": "note8",
+        "text": "<p data-aid=\"154477000\" id=\"note8_p1\">Véase Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/media/video/2021-03-0100-the-peace-and-hope-of-easter\">Gracias a que Él vive, podemos tener paz en medio de la incertidumbre<\/a>\u201d (video), abril de 2021, https://www.churchofjesuschrist.org/inspiration/this-easter-find-peace-in-jesus-christ?lang=spa; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.16?lang=spa#p16\">Isaías 49:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://www.churchofjesuschrist.org/media/video/2021-03-0100-the-peace-and-hope-of-easter",
+            "text": "Gracias a que Él vive, podemos tener paz en medio de la incertidumbre"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/49.16?lang=spa#p16",
+            "text": "Isaías 49:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154476911",
+        "id": "note9",
+        "text": "<p data-aid=\"154477001\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.8?lang=spa#p8\">Doctrina y Convenios 122:8<\/a>. En diciembre de 1838, el profeta José y un puñado de líderes de la Iglesia fueron apresados injustamente en la cárcel de Liberty en condiciones deplorables. Tras pasar meses en circunstancias miserables, el Profeta escribió a los miembros en marzo de 1839, e incluyó oraciones en las que había pedido al Señor que tuviera piedad de su situación y de los \u201csantos que sufren\u201d. También compartió la respuesta del Señor a esas oraciones, según consta en <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa\">Doctrina y Convenios 121\u2013123<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/122.8?lang=spa#p8",
+            "text": "Doctrina y Convenios 122:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/121?lang=spa",
+            "text": "Doctrina y Convenios 121\u2013123",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154476887",
+        "id": "note6",
+        "text": "<p data-aid=\"154476996\" id=\"note6_p1\">Cada vez que hablaba con los miembros, me decían: \u201cÉlder Rasband, nuestro querido Apóstol, lo amamos\u201d. Esas personas están tan llenas del Espíritu y el amor de Dios, que comparten ese amor con facilidad.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154476897",
+        "id": "note7",
+        "text": "<p data-aid=\"154476998\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9?lang=spa#p9\">Mateo 21:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/21.9?lang=spa#p9",
+          "text": "Mateo 21:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154476958",
+        "id": "note30",
+        "text": "<p data-aid=\"154477022\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.57?lang=spa#p57\">Doctrina y Convenios 45:57<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.57?lang=spa#p57",
+          "text": "Doctrina y Convenios 45:57",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154476938",
+        "id": "note16",
+        "text": "<p data-aid=\"154477008\" id=\"note16_p1\">En la Última Cena, Jesús instituyó la Santa Cena con Sus discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.26-29?lang=spa#p26\">Mateo 26:26\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.22-25?lang=spa#p22\">Marcos 14:22\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.19-20?lang=spa#p19\">Lucas 22:19\u201320<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/26.26-29?lang=spa#p26",
+            "text": "Mateo 26:26\u201329",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/14.22-25?lang=spa#p22",
+            "text": "Marcos 14:22\u201325",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/22.19-20?lang=spa#p19",
+            "text": "Lucas 22:19\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154476938",
+        "id": "note15",
+        "text": "<p data-aid=\"154477007\" id=\"note15_p1\">Jesús compartió la Última Cena con Sus discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.12-18?lang=spa#p12\">Marcos 14:12\u201318<\/a>). Los Doce eran Pedro, Andrés, Jacobo, Juan, Mateo, Felipe, Tomás, Bartolomé, Jacobo (hijo de Alfeo), Judas Iscariote, Judas (hermano de Jacobo) y Simón (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.13-16?lang=spa#p13\">Lucas 6:13\u201316<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/mark/14.12-18?lang=spa#p12",
+            "text": "Marcos 14:12\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/6.13-16?lang=spa#p13",
+            "text": "Lucas 6:13\u201316",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154476938",
+        "id": "note14",
+        "text": "<p data-aid=\"154477006\" id=\"note14_p1\">José Smith hizo esta declaración a la Sociedad de Socorro Femenina de Nauvoo el 28 de abril de 1842, según consta en \u201cHistory of Joseph Smith\u201d, <cite>Deseret News<\/cite>, 19 de septiembre de 1855, pág. 218. Refiriéndose al duodécimo capítulo de 1 Corintios, aclaró el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12.3?lang=spa#p3\">tercer versículo<\/a>, que dice que \u201cnadie puede <i>afirmar<\/i> que Jesús es el Señor, sino por el Espíritu Santo\u201d, y lo corrigió para que dijese: \u201c\u2026 nadie puede <i>saber<\/i> que Jesús es el Señor, sino por el Espíritu Santo\u201d. (Véase <cite><a href=\"https://www.churchhistorianspress.org/the-first-fifty-years-of-relief-society/part-2/2-2\">The First Fifty Years of Relief Society: Key Documents in Latter-day Saint Women\u2019s History<\/a><\/cite>, 2016, 2.2, churchhistorianspress.org).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/12.3?lang=spa#p3",
+            "text": "tercer versículo",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://www.churchhistorianspress.org/the-first-fifty-years-of-relief-society/part-2/2-2",
+            "text": "The First Fifty Years of Relief Society: Key Documents in Latter-day Saint Women\u2019s History"
+          }
+        ]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "154476973",
+        "id": "note36",
+        "text": "<p data-aid=\"154477028\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/7.9?lang=spa#p9\">Apocalipsis 7:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rev/7.9?lang=spa#p9",
+          "text": "Apocalipsis 7:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154476934",
+        "id": "note13",
+        "text": "<p data-aid=\"154477005\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20.18-19?lang=spa#p18\">Mateo 20:18\u201319<\/a>. James E. Talmage escribe en <cite><a class=\"cross-ref\" href=\"/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=2#p2\">Jesús el Cristo<\/a><\/cite>: \u201cNos causa admiración el hecho de que los Doce no pudieron comprender su significado [\u2026]. Ellos veían cierta terrible incongruencia, una espantosa inconsecuencia o inexplicable contradicción en las palabras de su querido Maestro. Sabían que era el Cristo, el Hijo del Dios Viviente; ¿cómo, pues, podría ser vencido y muerto tal Ser?\u201d (Jesús el Cristo, 1975, págs. 529\u2013530).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/20.18-19?lang=spa#p18",
+            "text": "Mateo 20:18\u201319",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/jesus-the-christ/chapter-29?lang=spa&amp;para=2#p2",
+            "text": "Jesús el Cristo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "154476970",
+        "id": "note35",
+        "text": "<p data-aid=\"154477027\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/4.32?lang=spa#p32\">3 Nefi 4:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/4.32?lang=spa#p32",
+          "text": "3 Nefi 4:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154476926",
+        "id": "note12",
+        "text": "<p data-aid=\"154477004\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/9.9?lang=spa#p9\">Zacarías 9:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/zech/9.9?lang=spa#p9",
+          "text": "Zacarías 9:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "154476967",
+        "id": "note34",
+        "text": "<p data-aid=\"154477026\" id=\"note34_p1\">Así como el agua es esencial para sostener la vida terrenal, Jesucristo y Sus enseñanzas (aguas vivas) son esenciales para la vida eterna (véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/living-water?lang=spa\">Agua(s) viva(s)<\/a>,\u201d scriptures.ChurchofJesusChrist.org; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/12.3?lang=spa#p3\">Isaías 12:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/2.13?lang=spa#p13\">Jeremías 2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.6-15?lang=spa#p6\">Juan 4:6\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.37?lang=spa#p37\">7:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=spa#p25\">1 Nefi 11:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.66?lang=spa#p66\">Doctrina y Convenios 10:66<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63.23?lang=spa#p23\">63:23<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/gs/living-water?lang=spa",
+            "text": "Agua(s) viva(s)",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/12.3?lang=spa#p3",
+            "text": "Isaías 12:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/jer/2.13?lang=spa#p13",
+            "text": "Jeremías 2:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/4.6-15?lang=spa#p6",
+            "text": "Juan 4:6\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/7.37?lang=spa#p37",
+            "text": "7:37",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11.25?lang=spa#p25",
+            "text": "1 Nefi 11:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/10.66?lang=spa#p66",
+            "text": "Doctrina y Convenios 10:66",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/63.23?lang=spa#p23",
+            "text": "63:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154476911",
+        "id": "note11",
+        "text": "<p data-aid=\"154477003\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>. Para quienes se aferran a su fe y confían en el Señor, la promesa de que \u201cDios estará contigo\u201d se cumplirá.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.9?lang=spa#p9",
+          "text": "Doctrina y Convenios 122:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "154476958",
+        "id": "note33",
+        "text": "<p data-aid=\"154477025\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.12?lang=spa#p12\">Mateo 25:12<\/a>. En el Sermón del Monte, el Señor se refiere a quienes presumen haber hecho \u201cmuchos milagros\u201d diciendo, al igual que se indica en el relato de las cinco vírgenes insensatas: \u201cNunca os conocí\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.22-23?lang=spa#p22\">Mateo 7:22\u201323<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/25.12?lang=spa#p12",
+            "text": "Mateo 25:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/7.22-23?lang=spa#p22",
+            "text": "Mateo 7:22\u201323",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154476911",
+        "id": "note10",
+        "text": "<p data-aid=\"154477002\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.9?lang=spa#p9\">Doctrina y Convenios 122:9<\/a>. Los ánimos que el Señor le dio a José Smith en la cárcel de Liberty le brindaron consuelo y el entendimiento espiritual de que la adversidad y las pruebas pueden fortalecernos, enseñarnos paciencia y fomentar el autodominio. El Señor le pidió que perseverase \u201cen [su] camino\u201d, que era el camino del Señor, soportando el trato injusto como había hecho \u201c[e]l Hijo [de Dios, que] ha[bía] descendido debajo de todo ello. ¿Eres tú mayor que él?\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.8?lang=spa#p8\">Doctrina y Convenios 122:8<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/122.9?lang=spa#p9",
+            "text": "Doctrina y Convenios 122:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/122.8?lang=spa#p8",
+            "text": "Doctrina y Convenios 122:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154476958",
+        "id": "note32",
+        "text": "<p data-aid=\"154477024\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.59?lang=spa#p59\">Doctrina y Convenios 45:59<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.59?lang=spa#p59",
+          "text": "Doctrina y Convenios 45:59",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154476958",
+        "id": "note31",
+        "text": "<p data-aid=\"154477023\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.59?lang=spa#p59\">Doctrina y Convenios 45:59<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.59?lang=spa#p59",
+          "text": "Doctrina y Convenios 45:59",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154476938",
+        "id": "note19",
+        "text": "<p data-aid=\"154477011\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=spa#p27\">Juan 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.27?lang=spa#p27",
+          "text": "Juan 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154476938",
+        "id": "note18",
+        "text": "<p data-aid=\"154477010\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.18?lang=spa#p18\">Juan 14:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.18?lang=spa#p18",
+          "text": "Juan 14:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154476938",
+        "id": "note17",
+        "text": "<p data-aid=\"154477009\" id=\"note17_p1\">Debido a ciertas discrepancias entre Mateo, Marcos, Lucas y Juan, hay debate actualmente en cuanto al día o la noche específicos en que Jesús instituyó la Santa Cena en el \u201caposento alto\u201d. Mateo, Marcos y Lucas sugieren que la Última Cena tuvo lugar \u201cel primer día de la fiesta de los panes sin levadura\u201d, o en la cena de Pascua (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26.17?lang=spa#p17\">Mateo 26:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14.12?lang=spa#p12\">Marcos 14:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.1,7?lang=spa#p1\">Lucas 22:1, 7<\/a>). Sin embargo, Juan sugiere que Jesús fue arrestado antes de la cena de Pascua (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.28?lang=spa#p28\">Juan 18:28<\/a>), dando a entender que la Última Cena habría tenido lugar un día antes de la cena de Pascua. Los materiales de los cursos de estudio de la Iglesia y los eruditos Santos de los Últimos Días parecen concordar en que Jesús llevó a cabo la Última Cena con Sus discípulos en el aposento alto la noche antes de Su crucifixión. Los cristianos que celebran la Semana Santa reconocen el jueves como el día de la Última Cena, el viernes como el día de la Crucifixión y el domingo como el día de la Resurrección, según el calendario gregoriano.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/26.17?lang=spa#p17",
+            "text": "Mateo 26:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/14.12?lang=spa#p12",
+            "text": "Marcos 14:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/22.1,7?lang=spa#p1",
+            "text": "Lucas 22:1, 7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/18.28?lang=spa#p28",
+            "text": "Juan 18:28",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154476952",
+        "id": "note27",
+        "text": "<p data-aid=\"154477019\" id=\"note27_p1\">La parábola de las diez vírgenes se encuentra en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-12?lang=spa#p1\">Mateo 25:1\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-59?lang=spa#p56\">Doctrina y Convenios 45:56\u201359<\/a>. Los capítulos anteriores y posteriores a <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa\">Mateo 25<\/a> sugieren que Jesús enseñó esta parábola durante Su última semana, después de entrar en Jerusalén en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21?lang=spa\">Mateo 21<\/a>, y justo antes de la Última Cena y Su arresto en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa\">Mateo 26<\/a>. Además de la parábola de las diez vírgenes que pronunció esa última semana, Jesús enseñó la parábola de la higuera (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.17-21?lang=spa#p17\">Mateo 21:17\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.32-33?lang=spa#p32\">24:32\u201333<\/a>), la parábola de los dos hijos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.28-32?lang=spa#p28\">Mateo 21:28\u201332<\/a>) y la parábola de los labradores malvados (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.33-46?lang=spa#p33\">Mateo 21:33\u201346<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/25.1-12?lang=spa#p1",
+            "text": "Mateo 25:1\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45.56-59?lang=spa#p56",
+            "text": "Doctrina y Convenios 45:56\u201359",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=spa",
+            "text": "Mateo 25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21?lang=spa",
+            "text": "Mateo 21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/26?lang=spa",
+            "text": "Mateo 26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21.17-21?lang=spa#p17",
+            "text": "Mateo 21:17\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/24.32-33?lang=spa#p32",
+            "text": "24:32\u201333",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21.28-32?lang=spa#p28",
+            "text": "Mateo 21:28\u201332",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21.33-46?lang=spa#p33",
+            "text": "Mateo 21:33\u201346",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154476949",
+        "id": "note26",
+        "text": "<p data-aid=\"154477018\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=spa#p14\">Alma 5:14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/5.26?lang=spa#p26",
+            "text": "Alma 5:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5.14?lang=spa#p14",
+            "text": "Alma 5:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154476946",
+        "id": "note25",
+        "text": "<p data-aid=\"154477017\" id=\"note25_p1\">La resurrección consiste en la reunificación del cuerpo y el espíritu en un estado inmortal, quedando ambos inseparables y no estando ya más sujetos a las enfermedades de esta vida ni a la muerte (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/11.45?lang=spa#p45\">Alma 11:45<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.23?lang=spa#p23\">40:23<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/11.45?lang=spa#p45",
+            "text": "Alma 11:45",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/40.23?lang=spa#p23",
+            "text": "40:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154476946",
+        "id": "note24",
+        "text": "<p data-aid=\"154477016\" id=\"note24_p1\">El elemento central del plan de salvación de nuestro Padre Celestial era una expiación infinita que asegurara la inmortalidad de todos Sus hijos y la exaltación de aquellos dignos de recibir tal bendición. Y el Padre dijo: \u201c¿A quién enviaré?\u201d. Jesucristo dio un paso al frente y respondió: \u201cHeme aquí; envíame\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.27?lang=spa#p27\">Abraham 3:27<\/a>). El presidente Russell M. Nelson enseñó: \u201c[La] misión [de Jesucristo] era llevar a cabo la Expiación, misión que era exclusiva de Él. Nacido de una madre mortal y de un Padre inmortal, Él era el único que podía poner Su vida voluntariamente y volverla a tomar (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.14-18?lang=spa#p14\">Juan 10:14\u201318<\/a>). Las consecuencias gloriosas de Su expiación fueron infinitas y eternas; Él quitó el aguijón de la muerte e hizo que el dolor del sepulcro fuera temporario (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.54-55?lang=spa#p54\">1 Corintios 15:54\u201355<\/a>). Se sabía desde antes de la Creación y la Caída que era Su responsabilidad llevar a cabo la Expiación; la cual no solo haría posible la resurrección y la inmortalidad de todo el género humano, sino que también nos permitiría ser perdonados de nuestros pecados, bajo ciertas condiciones que Él establecería. De este modo, Su expiación abrió la vía mediante la cual podíamos ser unidos a Él y a nuestra familia por la eternidad\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/liahona/2013/04/the-mission-and-ministry-of-jesus-christ?lang=spa\">La misión y el ministerio de Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2013, pág. 20).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/abr/3.27?lang=spa#p27",
+            "text": "Abraham 3:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/10.14-18?lang=spa#p14",
+            "text": "Juan 10:14\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/15.54-55?lang=spa#p54",
+            "text": "1 Corintios 15:54\u201355",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/liahona/2013/04/the-mission-and-ministry-of-jesus-christ?lang=spa",
+            "text": "La misión y el ministerio de Jesucristo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154476942",
+        "id": "note23",
+        "text": "<p data-aid=\"154477015\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/15.14?lang=spa#p14\">Marcos 15:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.21?lang=spa#p21\">Lucas 23:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/mark/15.14?lang=spa#p14",
+            "text": "Marcos 15:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/23.21?lang=spa#p21",
+            "text": "Lucas 23:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154476942",
+        "id": "note22",
+        "text": "<p data-aid=\"154477014\" id=\"note22_p1\">En la Guía para el Estudio de las Escrituras se explica que <i>hosanna<\/i> significa \u201csálvanos\u201d. Esta palabra procede de <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/118.25?lang=spa#p25\">Salmos 118:25<\/a>. \u201cEn la Fiesta de los Tabernáculos [\u2026], el pueblo entonaba las palabras del Salmo 118 y mecía ramas de palma. Durante la entrada triunfal del Señor en Jerusalén, las multitudes clamaron \u2018Hosanna\u2019 y tendieron ramas de palma a sus pies\u201d (Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/hosanna?lang=spa\">Hosanna<\/a>\u201d). Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.9,15?lang=spa#p9\">Mateo 21:9, 15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.9-10?lang=spa#p9\">Marcos 11:9\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.13?lang=spa#p13\">Juan 12:13<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/118.25?lang=spa#p25",
+            "text": "Salmos 118:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bd/hosanna?lang=spa",
+            "text": "Hosanna",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/21.9,15?lang=spa#p9",
+            "text": "Mateo 21:9, 15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/11.9-10?lang=spa#p9",
+            "text": "Marcos 11:9\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/12.13?lang=spa#p13",
+            "text": "Juan 12:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154476938",
+        "id": "note21",
+        "text": "<p data-aid=\"154477013\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.5?lang=spa#p5\">Moroni 10:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10.5?lang=spa#p5",
+          "text": "Moroni 10:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154476938",
+        "id": "note20",
+        "text": "<p data-aid=\"154477012\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.77?lang=spa#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20.77?lang=spa#p77",
+          "text": "Doctrina y Convenios 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154476869",
+        "id": "note1",
+        "text": "<p data-aid=\"154476982\" id=\"note1_p1\">En los cuatro Evangelios (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21?lang=spa\">Mateo 21\u201328<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11?lang=spa\">Marcos 11\u201316<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19?lang=spa\">Lucas 19-24<\/a> y <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12?lang=spa\">Juan 12\u201321<\/a>) se describen los últimos días del ministerio terrenal de Jesucristo, el cual, por designio divino, puso las bendiciones de la salvación y la exaltación al alcance de todos los hijos de Dios. En ocasiones, los autores difieren en lo que incluyen, pero no en cuanto a las enseñanzas y obras del Salvador.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/21?lang=spa",
+            "text": "Mateo 21\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/11?lang=spa",
+            "text": "Marcos 11\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/19?lang=spa",
+            "text": "Lucas 19-24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/12?lang=spa",
+            "text": "Juan 12\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154476958",
+        "id": "note29",
+        "text": "<p data-aid=\"154477021\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.6?lang=spa#p6\">Mateo 25:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.6?lang=spa#p6",
+          "text": "Mateo 25:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154476958",
+        "id": "note28",
+        "text": "<p data-aid=\"154477020\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1?lang=spa#p1\">Mateo 25:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.1?lang=spa#p1",
+          "text": "Mateo 25:1",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

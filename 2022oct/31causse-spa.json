@@ -1,0 +1,405 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/31causse?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "52c8777db4524d60bad9125c9489f7b5",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/31causse",
+      "data-aid": "152793966",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "1638b744f3ea4aaf9902570b5698ba35"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/ca/a2/caa26e50aa6911c8c4ff6dc9a65f4435a98e2a0b/caa26e50aa6911c8c4ff6dc9a65f4435a98e2a0b.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-3010-gerald-causse-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Nuestra mayordomía terrenal",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152793966",
+      {"key": "152793966"}
+    ],
+    [
+      "152831288",
+      {"key": "152831288"}
+    ],
+    [
+      "152831289",
+      {"key": "152831289"}
+    ],
+    [
+      "152831290",
+      {"key": "152831290"}
+    ],
+    [
+      "152831291",
+      {"key": "152831291"}
+    ],
+    [
+      "152831292",
+      {"key": "152831292"}
+    ],
+    [
+      "152831293",
+      {"key": "152831293"}
+    ],
+    [
+      "153024133",
+      {"key": "153024133"}
+    ],
+    [
+      "152831295",
+      {"key": "152831295"}
+    ],
+    [
+      "152831296",
+      {"key": "152831296"}
+    ],
+    [
+      "152831297",
+      {"key": "152831297"}
+    ],
+    [
+      "152831298",
+      {"key": "152831298"}
+    ],
+    [
+      "152831299",
+      {"key": "152831299"}
+    ],
+    [
+      "152831300",
+      {"key": "152831300"}
+    ],
+    [
+      "152831301",
+      {"key": "152831301"}
+    ],
+    [
+      "152831302",
+      {"key": "152831302"}
+    ],
+    [
+      "152831303",
+      {"key": "152831303"}
+    ],
+    [
+      "152831304",
+      {"key": "152831304"}
+    ],
+    [
+      "152831305",
+      {"key": "152831305"}
+    ],
+    [
+      "152831306",
+      {"key": "152831306"}
+    ],
+    [
+      "152831307",
+      {"key": "152831307"}
+    ],
+    [
+      "152831308",
+      {"key": "152831308"}
+    ],
+    [
+      "152831309",
+      {"key": "152831309"}
+    ],
+    [
+      "152831310",
+      {"key": "152831310"}
+    ],
+    [
+      "152831311",
+      {"key": "152831311"}
+    ],
+    [
+      "152831312",
+      {"key": "152831312"}
+    ],
+    [
+      "152831313",
+      {"key": "152831313"}
+    ],
+    [
+      "152831314",
+      {"key": "152831314"}
+    ],
+    [
+      "152831315",
+      {"key": "152831315"}
+    ],
+    [
+      "152831316",
+      {"key": "152831316"}
+    ],
+    [
+      "152831317",
+      {"key": "152831317"}
+    ],
+    [
+      "152831318",
+      {"key": "152831318"}
+    ],
+    [
+      "152831319",
+      {"key": "152831319"}
+    ],
+    [
+      "152831320",
+      {"key": "152831320"}
+    ],
+    [
+      "152831321",
+      {"key": "152831321"}
+    ],
+    [
+      "152831322",
+      {"key": "152831322"}
+    ],
+    [
+      "152831323",
+      {"key": "152831323"}
+    ],
+    [
+      "152831324",
+      {"key": "152831324"}
+    ],
+    [
+      "152831325",
+      {"key": "152831325"}
+    ],
+    [
+      "152831326",
+      {"key": "152831326"}
+    ],
+    [
+      "152831327",
+      {"key": "152831327"}
+    ],
+    [
+      "152831328",
+      {"key": "152831328"}
+    ],
+    [
+      "152831329",
+      {"key": "152831329"}
+    ],
+    [
+      "152831330",
+      {"key": "152831330"}
+    ],
+    [
+      "152831331",
+      {"key": "152831331"}
+    ],
+    [
+      "152831332",
+      {"key": "152831332"}
+    ],
+    [
+      "152831333",
+      {"key": "152831333"}
+    ],
+    [
+      "152831334",
+      {"key": "152831334"}
+    ],
+    [
+      "152831335",
+      {"key": "152831335"}
+    ],
+    [
+      "152831336",
+      {"key": "152831336"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/31causse",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El obispo Caussé enseña el deber que tenemos de cuidar de las creaciones de Dios como mayordomos de ellas.",
+          "title": "Nuestra mayordomía terrenal"
+        },
+        "pageSocial": {
+          "description": "El obispo Caussé enseña el deber que tenemos de cuidar de las creaciones de Dios como mayordomos de ellas.",
+          "title": "Nuestra mayordomía terrenal"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/ca/a2/caa26e50aa6911c8c4ff6dc9a65f4435a98e2a0b/caa26e50aa6911c8c4ff6dc9a65f4435a98e2a0b.jpeg\" data-video-title=\"Nuestra mayordomía terrenal\" data-video-description=\"El obispo Caussé enseña el deber que tenemos de cuidar de las creaciones de Dios como mayordomos de ellas.\" data-video-id=\"6313140017112\" data-ip=\"Download and Streaming                            \" data-duration=\"737104\" data-assetId=\"3d1ac18741f511ed85d9eeeeac1eb182d9d56a62\" data-ref-id=\"043CC25DA7EBA7BE0372D75CC090A8ABBB4BC78A\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313140017112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"242861250\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-3010-gerald-causse-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"68298945\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-3010-gerald-causse-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"176833108\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-3010-gerald-causse-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"242861250\"/><\/video><h1 data-aid=\"152831288\" id=\"title1\">Nuestra mayordomía terrenal<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152831289\" id=\"author1\">Por el obispo Gérald Caussé<\/p>\n<p class=\"author-role\" data-aid=\"152831290\" id=\"author2\">Obispo Presidente<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152831291\" id=\"kicker1\">Se prometen grandes bendiciones espirituales a quienes aman y cuidan la tierra así como a sus semejantes.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152831292\" id=\"p1\">En una visita reciente a Francia, nuestro país natal, mi esposa y yo tuvimos el placer de llevar a algunos de nuestros nietos a explorar un jardín magnífico situado en el pueblecito de Giverny. Disfrutamos al andar por sus senderos y admirar los bonitos canteros de flores, los elegantes nenúfares y la luz que se reflejaba en los estanques.<\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/85/e6/85e62996e83d959fc94942f7215ca3be5fec5ffe/85e62996e83d959fc94942f7215ca3be5fec5ffe.png\" data-img-id=\"c44dbadc3f5211eda7e2eeeeac1e3891aae2df8f\" srcset=\"https://assets.churchofjesuschrist.org/9e/80/9e805fadb24053e3c5e58ff5791edf58bffc331f/9e805fadb24053e3c5e58ff5791edf58bffc331f.png 60w,https://assets.churchofjesuschrist.org/60/3c/603c6f4598cf15cf90813fbd5c450517bbab552d/603c6f4598cf15cf90813fbd5c450517bbab552d.png 100w,https://assets.churchofjesuschrist.org/1a/d1/1ad190fcc47791a217a9a6b45b2b4dcf7eb44628/1ad190fcc47791a217a9a6b45b2b4dcf7eb44628.png 200w,https://assets.churchofjesuschrist.org/be/df/bedf7d6490b280ff9f88eb82f053915c1d2d6c97/bedf7d6490b280ff9f88eb82f053915c1d2d6c97.png 250w,https://assets.churchofjesuschrist.org/d0/50/d0502df65b22e42dc488c270d63de8c37268d3a7/d0502df65b22e42dc488c270d63de8c37268d3a7.png 320w,https://assets.churchofjesuschrist.org/85/e6/85e62996e83d959fc94942f7215ca3be5fec5ffe/85e62996e83d959fc94942f7215ca3be5fec5ffe.png 500w,https://assets.churchofjesuschrist.org/bd/ad/bdadac5b0cefd8256867bcb0677bdb82c6e205c3/bdadac5b0cefd8256867bcb0677bdb82c6e205c3.png 640w\" data-assetId=\"c44dbadc3f5211eda7e2eeeeac1e3891aae2df8f\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"152831293\" id=\"p2\">Ese lugar maravilloso es el resultado de la pasión creativa de un hombre, el gran pintor Claude Monet, quien, durante cuarenta años, dio forma y cultivó con cariño su jardín para convertirlo en el lugar donde pintaba sus cuadros. Monet se sumergía en el esplendor de la naturaleza; después, con el pincel, transmitía las impresiones que sentía mediante pinceladas de color y luz. Con los años, creó una extraordinaria colección de cientos de cuadros, inspirados directamente en su jardín.<\/p>\n<figure class=\"image no-print\" id=\"figure1\">\n<img id=\"img2\" src=\"https://assets.churchofjesuschrist.org/dd/11/dd1195c6f1be6ecdcd7dc9ae5b65dc681ddc5f13/dd1195c6f1be6ecdcd7dc9ae5b65dc681ddc5f13.png\" data-img-id=\"c53bc45f3f5211edbe08eeeeac1ec1dbfd7d61ed\" srcset=\"https://assets.churchofjesuschrist.org/cd/d6/cdd669c527063f84e34bcd8b3c1f4a9f4dc9db8b/cdd669c527063f84e34bcd8b3c1f4a9f4dc9db8b.png 60w,https://assets.churchofjesuschrist.org/4d/c1/4dc1e951fc774bf3a9dceaefc46a5c60c725f4e6/4dc1e951fc774bf3a9dceaefc46a5c60c725f4e6.png 100w,https://assets.churchofjesuschrist.org/6c/bd/6cbdec5290f302eff5b0fe08327df010b120f688/6cbdec5290f302eff5b0fe08327df010b120f688.png 200w,https://assets.churchofjesuschrist.org/b3/fe/b3fefdf70fbf4e7dd69db78c5455cf4fb5a8154d/b3fefdf70fbf4e7dd69db78c5455cf4fb5a8154d.png 250w,https://assets.churchofjesuschrist.org/02/3c/023c95ed099ed7d937ee43bee2f916acf8e259e9/023c95ed099ed7d937ee43bee2f916acf8e259e9.png 320w,https://assets.churchofjesuschrist.org/dd/11/dd1195c6f1be6ecdcd7dc9ae5b65dc681ddc5f13/dd1195c6f1be6ecdcd7dc9ae5b65dc681ddc5f13.png 500w,https://assets.churchofjesuschrist.org/de/1d/de1d9dabcbe34ba0c734aff04189b0cdd8d5d5a0/de1d9dabcbe34ba0c734aff04189b0cdd8d5d5a0.png 640w\" data-assetId=\"c53bc45f3f5211edbe08eeeeac1ec1dbfd7d61ed\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<div class=\"credit\">\n<p data-aid=\"153024133\" id=\"figure1_p1\"><cite>Water Lilies and Japanese Bridge [Nenúfares y Puente japonés]<\/cite>, 1899, por Claude Monet<\/p>\n<\/div>\n<\/figure>\n<p data-aid=\"152831295\" id=\"p3\">Hermanos y hermanas, nuestra interacción con la belleza de la naturaleza que nos rodea puede producir algunas de las experiencias más inspiradoras y deleitables de la vida. Las emociones que percibimos inspiran dentro de nosotros un profundo sentimiento de gratitud hacia nuestro Padre Celestial y Su Hijo, Jesucristo, quienes crearon esta tierra imponente con sus montañas y arroyos, plantas y animales; y crearon a nuestros primeros padres, Adán y Eva<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"152831296\" id=\"p4\">La obra de la Creación no es un fin en sí mismo; es una parte integral del plan de Dios para Sus hijos. Su propósito es proveer el entorno en el que los hombres y las mujeres puedan ser probados, puedan ejercer su albedrío, encontrar gozo y aprender y progresar, para que algún día puedan volver a la presencia de su Creador y heredar la vida eterna.<\/p>\n<p data-aid=\"152831297\" id=\"p5\">Estas maravillosas creaciones se prepararon enteramente para nuestro beneficio y son una prueba viviente del amor que el Creador tiene por Sus hijos. El Señor declaró: \u201cSí, todas las cosas que de la tierra salen, en su sazón, son hechas para el beneficio y el uso del hombre, tanto para agradar la vista como para alegrar el corazón\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"152831298\" id=\"p6\">Sin embargo, el don divino de la Creación no se recibe sin deberes ni responsabilidades. El mejor modo de describir tales deberes es mediante el concepto de la <em>mayordomía<\/em>. En términos del Evangelio, la palabra <em>mayordomía<\/em> designa una responsabilidad sagrada espiritual o temporal de cuidar algo que pertenece a Dios, y de lo que nosotros somos responsables<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"152831299\" id=\"p7\">Tal como se enseña en las Santas Escrituras, nuestra mayordomía terrenal incluye los siguientes principios:<\/p>\n<p data-aid=\"152831300\" id=\"p8\"><em>Primer principio: La tierra entera, incluso toda la vida que se halla sobre ella, le pertenece a Dios.<\/em><\/p>\n<p data-aid=\"152831301\" id=\"p9\">El Creador ha confiado a nuestro cuidado los recursos de la tierra y toda forma de vida, pero Él retiene la plena propiedad. Él ha dicho: \u201cYo, el Señor, extendí los cielos y formé la tierra, hechura de mis propias manos; y todas las cosas que en ellos hay son mías\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> . Todo lo que se encuentra sobre la tierra le pertenece a Dios, incluyendo nuestra familia, nuestro cuerpo físico e incluso nuestra vida misma<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"152831302\" id=\"p10\"><em>Segundo principio: Como mayordomos de las creaciones de Dios, tenemos el deber de honrarlas y cuidarlas.<\/em><\/p>\n<p data-aid=\"152831303\" id=\"p11\">Como hijos de Dios hemos recibido el mandato de ser mayordomos, cuidadores y guardas de Sus divinas creaciones. El Señor ha dicho que ha hecho \u201ca todo hombre responsable, como mayordomo de las bendiciones terrenales que h[a] dispuesto y preparado para [Sus] criaturas\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"152831304\" id=\"p12\">Nuestro Padre Celestial nos permite utilizar los recursos de la tierra según nuestra libre voluntad. Sin embargo, nuestro albedrío no debe interpretarse como un permiso para utilizar o consumir las riquezas de este mundo sin sabiduría ni freno. El Señor dio esta admonición: \u201cY complace a Dios haber dado todas estas cosas al hombre; porque para este fin fueron creadas, para usarse con juicio, no en exceso, ni por extorsión\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"152831305\" id=\"p13\">El presidente Russell M. Nelson enseñó cierta vez: \u201cEn calidad de beneficiarios de la Creación divina, ¿qué debemos hacer? Debemos cuidar la tierra, ser mayordomos sabios de ella y conservarla para las futuras generaciones\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"152831306\" id=\"p14\">Más allá de ser simplemente una necesidad científica o política, el cuidado de la tierra y de nuestro entorno natural es una responsabilidad sagrada que Dios nos ha confiado, que debe llenarnos de un profundo sentido del deber y de humildad. También es un componente integral de nuestro discipulado. ¿Cómo podemos honrar y amar al Padre Celestial y a Jesucristo sin honrar y amar Sus creaciones?<\/p>\n<p data-aid=\"152831307\" id=\"p15\">Hay muchas cosas que podemos hacer, colectiva e individualmente, para ser buenos mayordomos. Considerando nuestras circunstancias individuales, cada uno de nosotros puede usar los abundantes recursos de la tierra de una forma más reverente y prudente. Podemos apoyar los esfuerzos de la comunidad por cuidar la tierra. Podemos adoptar estilos de vida y comportamientos individuales que respeten las creaciones de Dios y que hagan del espacio en que vivimos un lugar más ordenado, más bello y más inspirador<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"152831308\" id=\"p16\">Nuestra mayordomía de las creaciones de Dios también incluye, en su grado supremo, el deber sagrado de amar, respetar y cuidar de todos los seres humanos con los que compartimos la tierra; ellos son hijos e hijas de Dios, nuestros hermanos y hermanas, y su felicidad eterna es el propósito mismo de la obra de la Creación.<\/p>\n<p data-aid=\"152831309\" id=\"p17\">El autor Antoine de Saint-Exupéry relató lo siguiente: Un día, mientras viajaba en tren, se encontraba sentado en medio de un grupo de refugiados. Profundamente conmovido por la desesperanza que vio en el rostro de un niño pequeño, exclamó: \u201cCuando nace una nueva rosa por mutación en un huerto, los jardineros se regocijan; aíslan la rosa, la cuidan y la nutren. Sin embargo, no hay jardinero para los hombres\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"152831310\" id=\"p18\">Mis hermanos y hermanas, ¿no deberíamos nosotros ser jardineros de nuestros semejantes? ¿Acaso no somos guardas de nuestro hermano? Jesús nos mandó amar al prójimo como a nosotros mismos<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Dicho por Él, la palabra <em>prójimo<\/em> no significa la mera proximidad geográfica; implica la proximidad al corazón. Abarca a todos los habitantes de este planeta, tanto si viven cerca de nosotros, como si lo hacen en un país lejano, sin importar sus orígenes, situaciones personales ni circunstancias.<\/p>\n<p data-aid=\"152831311\" id=\"p19\">Como discípulos de Cristo, tenemos el deber solemne de trabajar sin descanso por la paz y la armonía entre todas las naciones de la tierra. Debemos dar lo mejor de nosotros por proteger y brindar solaz y alivio a los débiles, los necesitados y a todos aquellos que sufran o que estén oprimidos. Sobre todo, el mayor don de amor que podemos ofrecer a nuestros semejantes es compartir con ellos el gozo del Evangelio e invitarlos a venir a su Salvador a través de convenios y ordenanzas sagrados.<\/p>\n<p data-aid=\"152831312\" id=\"p20\"><em>Tercer principio: Se nos invita a participar en la obra de creación.<\/em><\/p>\n<p data-aid=\"152831313\" id=\"p21\">El divino proceso de creación no está completo aún. Cada día, las creaciones de Dios siguen creciendo, expandiéndose y multiplicándose. Algo sumamente maravilloso es que nuestro Padre Celestial nos extiende la invitación de participar en Su obra de creación.<\/p>\n<p data-aid=\"152831314\" id=\"p22\">Participamos en la obra de creación cada vez que cultivamos la tierra o añadimos nuestras propias construcciones a este mundo, siempre y cuando mostremos respeto por las creaciones de Dios. Nuestras contribuciones pueden expresarse mediante la creación de obras de arte, arquitectura, música, literatura y cultura, que embellecen nuestro planeta, nos vivifican los sentidos y nos iluminan la vida. También contribuimos a través de descubrimientos científicos y médicos que preservan la tierra y la vida que hay sobre ella. El presidente Thomas S. Monson resumió ese concepto en estas bellas palabras: \u201cDios dejó el mundo sin terminar para que el hombre empleara su ingenio [\u2026] a fin de que descubra la dicha y la gloria de crear\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"152831315\" id=\"p23\">En la parábola de los talentos que enseñó Jesús, cuando el señor regresó del viaje, elogió y recompensó a los dos siervos que hicieron crecer y aumentar sus talentos. En cambio, llamó \u201cinútil\u201d al siervo que escondió el talento en la tierra, y le quitó incluso lo que había recibido<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"152831316\" id=\"p24\">De forma similar, nuestra función como mayordomos de las creaciones terrenales no es solamente conservarlas o preservarlas; el Señor espera que trabajemos diligentemente, según nos inspire Su Santo Espíritu, para desarrollar, aumentar y mejorar los recursos que Él nos ha confiado, no solo para nuestro beneficio, sino también para bendecir a otros.<\/p>\n<p data-aid=\"152831317\" id=\"p25\">Entre todos los logros del hombre, nada puede igualar la experiencia de llegar a ser <em>cocreadores<\/em> con Dios, dando vida o ayudando a un hijo a aprender, crecer y desarrollarse; ya sea que seamos padres, maestros o líderes, o en cualquier otra función. No hay mayordomía más sagrada, más gratificante y más exigente también, que la de ser socios de nuestro Creador al proporcionar cuerpos físicos para Sus hijos procreados como espíritus, y luego ayudarlos a alcanzar su potencial divino.<\/p>\n<p data-aid=\"152831318\" id=\"p26\">La responsabilidad de la cocreación es un recordatorio constante de que la vida y el cuerpo de cada persona son sagrados, que no pertenecen a nadie más que a Dios, y que Él nos ha hecho guardas para respetarlos, protegerlos y cuidarlos. Los mandamientos de Dios, que rigen los poderes de la procreación y el establecimiento de familias eternas, nos guían en esta santa mayordomía que es tan crucial para Su plan.<\/p>\n<p data-aid=\"152831319\" id=\"p27\">Mis hermanos y hermanas, debemos reconocer que todo es espiritual para el Señor, incluyendo los aspectos más temporales de nuestra vida. Testifico que se prometen grandes bendiciones espirituales a quienes aman y cuidan la tierra así como a sus semejantes. Conforme permanezcan fieles en esta responsabilidad sagrada y honren sus convenios eternos, crecerán en el conocimiento de Dios y de Su Hijo Jesucristo, y sentirán el amor y la influencia de Ellos más abundantemente en su vida. Todo esto los preparará para morar con Ellos y recibir poder creador adicional<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> en la vida venidera.<\/p>\n<p data-aid=\"152831320\" id=\"p28\">Al final de esta existencia terrenal, el Maestro nos pedirá que demos un informe de nuestra mayordomía sagrada, incluso de cómo hemos cuidado de Sus creaciones. Ruego que entonces escuchemos Sus palabras amorosas susurrándonos al corazón: \u201cBien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"152831321\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"152831322\" id=\"note1_p1\">La tierra y todas las cosas que se encuentran sobre ella (a excepción de Adán y Eva) fueron creadas por Jesucristo bajo la dirección del Padre; Adán y Eva, nuestros primeros padres, fueron creados por Dios el Padre (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1-3?lang=spa#p1\">Juan 1:1\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.1,26-27?lang=spa#p1\">Moisés 2:1, 26\u201327<\/a>).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"152831323\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.18?lang=spa#p18\">Doctrina y Convenios 59:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"152831324\" id=\"note3_p1\">Véase Spencer W. Kimball, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1977/10/welfare-services-the-gospel-in-action.html\">Los Servicios de Bienestar: El Evangelio en acción<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1978, págs. 108\u2013113.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"152831325\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104.14?lang=spa#p15\">Doctrina y Convenios 104:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"152831326\" id=\"note5_p1\">Véase Spencer W. Kimball, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1977/10/welfare-services-the-gospel-in-action.html\">Los Servicios de Bienestar<\/span>\u201d, págs. 108\u2013113.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"152831327\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104.13?lang=spa#p13\">Doctrina y Convenios 104:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"152831328\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.20?lang=spa#p20\">Doctrina y Convenios 59:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"152831329\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/04/the-creation?lang=spa\">La Creación<\/a>\u201d, <cite>Liahona<\/cite>, julio de 2000, pág. 104.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"152831330\" id=\"note9_p1\">Véase Temas del Evangelio, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/environmental-stewardship-and-conservation?lang=spa\">Responsabilidad y conservación medioambiental<\/a>\u201d, topics.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"152831331\" id=\"note10_p1\">Antoine de Saint-Exupéry, <cite>Terre des Hommes<\/cite>, 1939, pág. 214; véase también <cite>Wind, Sand and Stars<\/cite>, 1939, en <cite>Airman\u2019s Odyssey<\/cite>, 1984, pág. 206.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"152831332\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12.31?lang=spa#p31\">Marcos 12:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"152831333\" id=\"note12_p1\">Thomas S. Monson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../liahona/1988/08/in-search-of-an-abundant-life.html\">En pos de la vida plena<\/span>\u201d, <cite>Liahona<\/cite>, agosto de 1988, pág. 6.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"152831334\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.14-30?lang=spa#p14\">Mateo 25:14\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"152831335\" id=\"note14_p1\">Véase David A. Bednar y Susan K. Bednar, \u201c<a href=\"https://www.byui.edu/devotionals/president-and-sister-david-a-bednar\">Moral Purity<\/a>\u201d, devocional de la Universidad Brigham Young \u2013 Idaho, 7 de enero de 2003, byui.edu.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"152831336\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.21?lang=spa#p21\">Mateo 25:21<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "152831301",
+        "id": "note4",
+        "text": "<p data-aid=\"152831325\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104.14?lang=spa#p15\">Doctrina y Convenios 104:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/104.14?lang=spa#p15",
+          "text": "Doctrina y Convenios 104:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "152831301",
+        "id": "note5",
+        "text": "<p data-aid=\"152831326\" id=\"note5_p1\">Véase Spencer W. Kimball, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1977/10/welfare-services-the-gospel-in-action.html\">Los Servicios de Bienestar<\/span>\u201d, págs. 108\u2013113.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "152831297",
+        "id": "note2",
+        "text": "<p data-aid=\"152831323\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.18?lang=spa#p18\">Doctrina y Convenios 59:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59.18?lang=spa#p18",
+          "text": "Doctrina y Convenios 59:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "152831298",
+        "id": "note3",
+        "text": "<p data-aid=\"152831324\" id=\"note3_p1\">Véase Spencer W. Kimball, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1977/10/welfare-services-the-gospel-in-action.html\">Los Servicios de Bienestar: El Evangelio en acción<\/span>\u201d, <cite>Liahona<\/cite>, febrero de 1978, págs. 108\u2013113.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "152831305",
+        "id": "note8",
+        "text": "<p data-aid=\"152831329\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/04/the-creation?lang=spa\">La Creación<\/a>\u201d, <cite>Liahona<\/cite>, julio de 2000, pág. 104.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2000/04/the-creation?lang=spa",
+          "text": "La Creación",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "152831307",
+        "id": "note9",
+        "text": "<p data-aid=\"152831330\" id=\"note9_p1\">Véase Temas del Evangelio, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/environmental-stewardship-and-conservation?lang=spa\">Responsabilidad y conservación medioambiental<\/a>\u201d, topics.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/gospel-topics/environmental-stewardship-and-conservation?lang=spa",
+          "text": "Responsabilidad y conservación medioambiental",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "152831303",
+        "id": "note6",
+        "text": "<p data-aid=\"152831327\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104.13?lang=spa#p13\">Doctrina y Convenios 104:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/104.13?lang=spa#p13",
+          "text": "Doctrina y Convenios 104:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "152831304",
+        "id": "note7",
+        "text": "<p data-aid=\"152831328\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.20?lang=spa#p20\">Doctrina y Convenios 59:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59.20?lang=spa#p20",
+          "text": "Doctrina y Convenios 59:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "152831320",
+        "id": "note15",
+        "text": "<p data-aid=\"152831336\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.21?lang=spa#p21\">Mateo 25:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.21?lang=spa#p21",
+          "text": "Mateo 25:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "152831319",
+        "id": "note14",
+        "text": "<p data-aid=\"152831335\" id=\"note14_p1\">Véase David A. Bednar y Susan K. Bednar, \u201c<a href=\"https://www.byui.edu/devotionals/president-and-sister-david-a-bednar\">Moral Purity<\/a>\u201d, devocional de la Universidad Brigham Young \u2013 Idaho, 7 de enero de 2003, byui.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.byui.edu/devotionals/president-and-sister-david-a-bednar",
+          "text": "Moral Purity"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "152831315",
+        "id": "note13",
+        "text": "<p data-aid=\"152831334\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.14-30?lang=spa#p14\">Mateo 25:14\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.14-30?lang=spa#p14",
+          "text": "Mateo 25:14\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "152831314",
+        "id": "note12",
+        "text": "<p data-aid=\"152831333\" id=\"note12_p1\">Thomas S. Monson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../liahona/1988/08/in-search-of-an-abundant-life.html\">En pos de la vida plena<\/span>\u201d, <cite>Liahona<\/cite>, agosto de 1988, pág. 6.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "152831310",
+        "id": "note11",
+        "text": "<p data-aid=\"152831332\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12.31?lang=spa#p31\">Marcos 12:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/12.31?lang=spa#p31",
+          "text": "Marcos 12:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "152831309",
+        "id": "note10",
+        "text": "<p data-aid=\"152831331\" id=\"note10_p1\">Antoine de Saint-Exupéry, <cite>Terre des Hommes<\/cite>, 1939, pág. 214; véase también <cite>Wind, Sand and Stars<\/cite>, 1939, en <cite>Airman\u2019s Odyssey<\/cite>, 1984, pág. 206.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "152831295",
+        "id": "note1",
+        "text": "<p data-aid=\"152831322\" id=\"note1_p1\">La tierra y todas las cosas que se encuentran sobre ella (a excepción de Adán y Eva) fueron creadas por Jesucristo bajo la dirección del Padre; Adán y Eva, nuestros primeros padres, fueron creados por Dios el Padre (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1-3?lang=spa#p1\">Juan 1:1\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.1,26-27?lang=spa#p1\">Moisés 2:1, 26\u201327<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/1.1-3?lang=spa#p1",
+            "text": "Juan 1:1\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/2.1,26-27?lang=spa#p1",
+            "text": "Moisés 2:1, 26\u201327",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

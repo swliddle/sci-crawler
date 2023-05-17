@@ -1,0 +1,699 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/45rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "26d6c040af824faca62093017ae741c8",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/45rasband",
+      "data-aid": "149748993",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "f74f5811c5a44117a428fb7a3b07e24e"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/fc/b2/fcb2b4bd9fa5adf15fdb437fafcfedb5130cca5b/fcb2b4bd9fa5adf15fdb437fafcfedb5130cca5b.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-4050-ronald-a-rasband-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Sanar al mundo",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149748993",
+      {"key": "149748993"}
+    ],
+    [
+      "149836013",
+      {"key": "149836013"}
+    ],
+    [
+      "149836015",
+      {"key": "149836015"}
+    ],
+    [
+      "149836018",
+      {"key": "149836018"}
+    ],
+    [
+      "149836019",
+      {"key": "149836019"}
+    ],
+    [
+      "149836021",
+      {"key": "149836021"}
+    ],
+    [
+      "149836023",
+      {"key": "149836023"}
+    ],
+    [
+      "149836025",
+      {"key": "149836025"}
+    ],
+    [
+      "149836027",
+      {"key": "149836027"}
+    ],
+    [
+      "149836029",
+      {"key": "149836029"}
+    ],
+    [
+      "149836032",
+      {"key": "149836032"}
+    ],
+    [
+      "149836034",
+      {"key": "149836034"}
+    ],
+    [
+      "149836035",
+      {"key": "149836035"}
+    ],
+    [
+      "149836037",
+      {"key": "149836037"}
+    ],
+    [
+      "149836039",
+      {"key": "149836039"}
+    ],
+    [
+      "149836041",
+      {"key": "149836041"}
+    ],
+    [
+      "149836042",
+      {"key": "149836042"}
+    ],
+    [
+      "149836044",
+      {"key": "149836044"}
+    ],
+    [
+      "149836046",
+      {"key": "149836046"}
+    ],
+    [
+      "149836048",
+      {"key": "149836048"}
+    ],
+    [
+      "149836051",
+      {"key": "149836051"}
+    ],
+    [
+      "149836053",
+      {"key": "149836053"}
+    ],
+    [
+      "149836055",
+      {"key": "149836055"}
+    ],
+    [
+      "149836057",
+      {"key": "149836057"}
+    ],
+    [
+      "149836059",
+      {"key": "149836059"}
+    ],
+    [
+      "149836061",
+      {"key": "149836061"}
+    ],
+    [
+      "149836063",
+      {"key": "149836063"}
+    ],
+    [
+      "149836065",
+      {"key": "149836065"}
+    ],
+    [
+      "149836067",
+      {"key": "149836067"}
+    ],
+    [
+      "149836070",
+      {"key": "149836070"}
+    ],
+    [
+      "149836072",
+      {"key": "149836072"}
+    ],
+    [
+      "149836074",
+      {"key": "149836074"}
+    ],
+    [
+      "149836076",
+      {"key": "149836076"}
+    ],
+    [
+      "149836077",
+      {"key": "149836077"}
+    ],
+    [
+      "149836078",
+      {"key": "149836078"}
+    ],
+    [
+      "149836079",
+      {"key": "149836079"}
+    ],
+    [
+      "149836080",
+      {"key": "149836080"}
+    ],
+    [
+      "149836081",
+      {"key": "149836081"}
+    ],
+    [
+      "149836082",
+      {"key": "149836082"}
+    ],
+    [
+      "149836083",
+      {"key": "149836083"}
+    ],
+    [
+      "149836084",
+      {"key": "149836084"}
+    ],
+    [
+      "149836085",
+      {"key": "149836085"}
+    ],
+    [
+      "149836086",
+      {"key": "149836086"}
+    ],
+    [
+      "149836087",
+      {"key": "149836087"}
+    ],
+    [
+      "149836088",
+      {"key": "149836088"}
+    ],
+    [
+      "149836089",
+      {"key": "149836089"}
+    ],
+    [
+      "149836090",
+      {"key": "149836090"}
+    ],
+    [
+      "149836091",
+      {"key": "149836091"}
+    ],
+    [
+      "149836092",
+      {"key": "149836092"}
+    ],
+    [
+      "149836093",
+      {"key": "149836093"}
+    ],
+    [
+      "149836094",
+      {"key": "149836094"}
+    ],
+    [
+      "149836095",
+      {"key": "149836095"}
+    ],
+    [
+      "149836096",
+      {"key": "149836096"}
+    ],
+    [
+      "149836097",
+      {"key": "149836097"}
+    ],
+    [
+      "149836098",
+      {"key": "149836098"}
+    ],
+    [
+      "149836099",
+      {"key": "149836099"}
+    ],
+    [
+      "149836100",
+      {"key": "149836100"}
+    ],
+    [
+      "149836101",
+      {"key": "149836101"}
+    ],
+    [
+      "149836102",
+      {"key": "149836102"}
+    ],
+    [
+      "149836103",
+      {"key": "149836103"}
+    ],
+    [
+      "149836104",
+      {"key": "149836104"}
+    ],
+    [
+      "149836105",
+      {"key": "149836105"}
+    ],
+    [
+      "149836106",
+      {"key": "149836106"}
+    ],
+    [
+      "149836107",
+      {"key": "149836107"}
+    ],
+    [
+      "149836108",
+      {"key": "149836108"}
+    ],
+    [
+      "149836109",
+      {"key": "149836109"}
+    ],
+    [
+      "149836110",
+      {"key": "149836110"}
+    ],
+    [
+      "149836111",
+      {"key": "149836111"}
+    ],
+    [
+      "149836112",
+      {"key": "149836112"}
+    ],
+    [
+      "149836113",
+      {"key": "149836113"}
+    ],
+    [
+      "149836114",
+      {"key": "149836114"}
+    ],
+    [
+      "149836115",
+      {"key": "149836115"}
+    ],
+    [
+      "149836116",
+      {"key": "149836116"}
+    ],
+    [
+      "149836117",
+      {"key": "149836117"}
+    ],
+    [
+      "149836118",
+      {"key": "149836118"}
+    ],
+    [
+      "149836119",
+      {"key": "149836119"}
+    ],
+    [
+      "149836120",
+      {"key": "149836120"}
+    ],
+    [
+      "149836121",
+      {"key": "149836121"}
+    ],
+    [
+      "149836122",
+      {"key": "149836122"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/45rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña cuatro maneras en que la sociedad y las personas se benefician de la libertad religiosa, y cómo esa libertad puede ser una influencia unificadora y sanadora.",
+          "title": "Sanar al mundo"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña cuatro maneras en que la sociedad y las personas se benefician de la libertad religiosa, y cómo esa libertad puede ser una influencia unificadora y sanadora.",
+          "title": "Sanar al mundo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/fc/b2/fcb2b4bd9fa5adf15fdb437fafcfedb5130cca5b/fcb2b4bd9fa5adf15fdb437fafcfedb5130cca5b.image/jpeg\" data-video-title=\"Sanar al mundo\" data-video-description=\"El élder Rasband enseña cuatro maneras en que la sociedad y las personas se benefician de la libertad religiosa, y cómo esa libertad puede ser una influencia unificadora y sanadora.\" data-video-id=\"6302779149001\" data-ip=\"Download and Streaming                            \" data-duration=\"830831\" data-assetId=\"b68d9a8db37d11eca0b7eeeeac1e2ae504430517\" data-ref-id=\"046C196141DB2F0F21095E143BC90D3B7338A25F\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302779149001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-4050-ronald-a-rasband-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"77152672\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-4050-ronald-a-rasband-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"199787231\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-4050-ronald-a-rasband-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"274549496\"/><\/video><h1 data-aid=\"149836013\" id=\"title1\">Sanar al mundo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149836015\" id=\"author1\">Por el élder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"149836018\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149836019\" id=\"kicker1\">Las heridas y las diferencias se pueden resolver, e incluso sanar, cuando honramos a Dios, el Padre de todos nosotros, y a Jesucristo, Su Hijo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149836021\" id=\"p1\">Hermanos y hermanas, en esta gloriosa época de Pascua de Resurrección, tenemos la gran bendición de reunirnos y recibir consejo y dirección de los siervos de Dios.<\/p>\n<p data-aid=\"149836023\" id=\"p2\">La guía y las enseñanzas sagradas de nuestro Padre Celestial nos ayudan a navegar por la vida en estos tiempos peligrosos. Tal como fue profetizado, \u201cfuegos, y tempestades\u201d, \u201cguerras, rumores de guerras y terremotos en diversos lugares\u201d, \u201cy toda clase de abominaciones\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, \u201cplagas\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, \u201cpestilencias, y hambres\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> están destruyendo familias, comunidades e incluso naciones.<\/p>\n<p data-aid=\"149836025\" id=\"p3\">Hay otro azote que arrasa el planeta: los ataques contra la libertad religiosa de ustedes y la mía. Este sentimiento creciente pretende eliminar la religión y la fe en Dios de la escena pública, las escuelas, las normas comunitarias y el discurso social. Los opositores a la libertad religiosa tratan de imponer restricciones a la expresión de convicciones sinceras. Incluso critican y ridiculizan las tradiciones religiosas.<\/p>\n<p data-aid=\"149836027\" id=\"p4\">Esa actitud margina a las personas, menospreciando los principios personales, la equidad, el respeto, la espiritualidad y la paz de conciencia.<\/p>\n<p data-aid=\"149836029\" id=\"p5\">¿Qué es la libertad religiosa?<\/p>\n<p data-aid=\"149836032\" id=\"p6\">Es la libertad de adorar en todas sus formas: la libertad de reunión, la libertad de expresión, la libertad de actuar conforme a las creencias personales y la libertad de los demás para hacer lo mismo. La libertad religiosa permite que cada uno de nosotros decida por sí mismo en qué cree, cómo vive y actúa conforme a su fe y lo que Dios espera de él.<\/p>\n<p data-aid=\"149836034\" id=\"p7\">Los intentos de coartar esa libertad religiosa no son nuevos. A lo largo de la historia, las personas de fe han sufrido extremadamente a manos de otros. Los miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días no somos la excepción.<\/p>\n<p data-aid=\"149836035\" id=\"p8\">Desde nuestros comienzos, muchas personas que buscaban a Dios se sintieron atraídas hacia esta Iglesia a causa de sus enseñanzas de la doctrina divina, entre ellas la fe en Jesucristo y Su expiación, el arrepentimiento, el plan de felicidad y la segunda venida de nuestro Señor.<\/p>\n<p data-aid=\"149836037\" id=\"p9\">José Smith, nuestro primer profeta de los últimos días, y sus seguidores sufrieron oposición, persecución y violencia.<\/p>\n<p data-aid=\"149836039\" id=\"p10\">En medio de la agitación de 1842, José publicó trece principios fundamentales de la Iglesia en crecimiento, entre ellos el siguiente: \u201cReclamamos el derecho de adorar a Dios Todopoderoso conforme a los dictados de nuestra propia conciencia, y concedemos a todos los hombres el mismo privilegio: que adoren cómo, dónde o lo que deseen\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"149836041\" id=\"p11\">Esta declaración es inclusiva, liberadora y respetuosa. Esa es la esencia de la libertad religiosa.<\/p>\n<p data-aid=\"149836042\" id=\"p12\">El profeta José Smith también expresó:<\/p>\n<p data-aid=\"149836044\" id=\"p13\">\u201c\u2026 declaro sin temor ante los cielos que estoy igualmente dispuesto a morir en defensa de los derechos de un presbiteriano, un bautista o cualquier hombre bueno de la denominación que fuere; porque el mismo principio que hollaría los derechos de los Santos [\u2026] atropellaría los derechos de los católicos romanos o de cualquier otra denominación que no fuera popular y careciera de la fuerza para defenderse.<\/p>\n<p data-aid=\"149836046\" id=\"p14\">\u201cLo que inspira mi alma es el amor por la libertad, la libertad civil y religiosa para toda la raza humana\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"149836048\" id=\"p15\">Aun así, los primeros miembros de la Iglesia fueron atacados y expulsados miles de kilómetros, desde Nueva York hasta Ohio y Misuri, donde el gobernador expidió una orden según la cual a los miembros de la Iglesia se les debía \u201ctratar [\u2026] como enemigos y [\u2026] e[ra] preciso exterminarlos o expulsarlos del estado\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. Huyeron a Illinois, pero el tormento continuó. Un populacho asesinó al profeta José pensando que, al matarlo, destruirían la Iglesia y esparcirían a los creyentes. Sin embargo, los fieles permanecieron firmes. El sucesor de José, Brigham Young, condujo a miles de personas en un éxodo forzoso de 2100 kilómetros hacia el oeste, hasta lo que actualmente es el estado de Utah<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. Mis antepasados se hallaban entre esos primeros colonizadores pioneros.<\/p>\n<p data-aid=\"149836051\" id=\"p16\">Desde aquellos días de intensa persecución, la Iglesia del Señor ha crecido constantemente hasta alcanzar cerca de diecisiete millones de miembros, de los cuales más de la mitad viven fuera de los Estados Unidos<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"149836053\" id=\"p17\">En abril de 2020, nuestra Iglesia celebró el bicentenario de la restauración del Evangelio con una proclamación para el mundo preparada por nuestra Primera Presidencia y el Cuórum de los Doce Apóstoles. Comienza así: \u201cSolemnemente proclamamos que Dios ama a Sus hijos en toda nación del mundo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"149836055\" id=\"p18\">Nuestro amado profeta, Russell M. Nelson, ha expresado adicionalmente:<\/p>\n<p data-aid=\"149836057\" id=\"p45\">\u201cCreemos en la libertad, la bondad y la equidad para todos los hijos de Dios.<\/p>\n<p data-aid=\"149836059\" id=\"p46\">\u201cTodos somos hermanos y hermanas; cada uno de nosotros es hijo de un amoroso Padre Celestial. Su hijo, el Señor Jesucristo, invita a todos a venir a Él, \u2018negros o blancos, esclavos o libres, varones o mujeres\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=spa#p33\">2 Nefi 26:33<\/a>)\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"149836061\" id=\"p19\">Consideren conmigo cuatro maneras en que la sociedad y las personas se benefician de la libertad religiosa.<\/p>\n<p data-aid=\"149836063\" id=\"p20\"><strong>Primero.<\/strong> La libertad religiosa honra el primero y el segundo gran mandamiento, poniendo a Dios en el centro de nuestra vida. En Mateo leemos:<\/p>\n<p data-aid=\"149836065\" id=\"p21\">\u201cAmarás al Señor tu Dios con todo tu corazón, y con toda tu alma y con toda tu mente\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"149836067\" id=\"p22\">\u201cY el segundo es semejante a este: Amarás a tu prójimo como a ti mismo\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"149836070\" id=\"p23\">Ya sea en una capilla, una sinagoga, una mezquita o una choza sencilla, los discípulos de Cristo y todos los creyentes de ideas afines pueden expresar su devoción a Dios al adorarlo y por su disposición a servir a Sus hijos.<\/p>\n<p data-aid=\"149836072\" id=\"p24\">Jesucristo es el ejemplo perfecto de ese amor y servicio. Durante Su ministerio, Él cuidó del pobre<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>, sanó al enfermo<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> y al ciego<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Él alimentó al hambriento<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>, recibió en Sus brazos a los niños<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> y perdonó a quienes le habían agraviado y aun crucificado<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"149836074\" id=\"p25\">Las Escrituras describen que Jesús \u201canduvo haciendo bienes\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>, y nosotros debemos hacer lo mismo.<\/p>\n<p data-aid=\"149836076\" id=\"p26\"><strong>Segundo.<\/strong> La libertad religiosa fomenta las expresiones de convicción, esperanza y paz.<\/p>\n<p data-aid=\"149836077\" id=\"p27\">Como Iglesia, nos unimos a otras religiones para proteger a las personas de todos los credos y creencias, así como su derecho a expresar sus convicciones. Esto no significa que aceptemos sus creencias, ni que ellos acepten las nuestras, pero tenemos más cosas en común con ellos que con quienes desean silenciarnos.<\/p>\n<p data-aid=\"149836078\" id=\"p28\">Hace poco representé a la Iglesia en el Foro Interreligioso del G20 en Italia. Me sentí alentado, incluso fortalecido, cuando me reuní con líderes religiosos y gubernamentales de todo el mundo; y me di cuenta de que las heridas y las diferencias se pueden resolver, e incluso sanar, cuando honramos a Dios, el Padre de todos nosotros, y a Jesucristo, Su Hijo. El Gran Sanador de todos es nuestro Señor y Salvador, Jesucristo.<\/p>\n<p data-aid=\"149836079\" id=\"p29\">Al finalizar mi discurso sucedió algo interesante. Los siete discursantes que me precedieron no concluyeron con ningún formalismo religioso o en el nombre de Dios. Mientras hablaba, me pregunté: \u201c¿Digo simplemente gracias y me siento o finalizo \u2018en el nombre de Jesucristo\u2019?\u201d. Recordé quién era yo y supe que el Señor deseaba que concluyera mi mensaje diciendo Su nombre. Y eso hice. Ahora pienso que esa fue mi oportunidad de expresar mi creencia, y tuve la libertad religiosa para testificar de Su santo nombre.<\/p>\n<p data-aid=\"149836080\" id=\"p30\"><strong>Tercero.<\/strong> La religión inspira a las personas a ayudar a los demás.<\/p>\n<p data-aid=\"149836081\" id=\"p31\">Cuando a la religión se le da el espacio y la libertad para florecer, los creyentes llevan a cabo actos de servicio sencillos y en ocasiones heroicos. La antigua expresión judía \u201ctikkun olam\u201d, que significa \u201creparar o sanar al mundo\u201d, se refleja hoy en día en los esfuerzos de muchas personas. Hemos colaborado con entidades benéficas católicas, conocidas como Caritas Internationalis, con Islamic Relief y con diversas organizaciones judías, hindúes, budistas, sij y cristianas, como el Ejército de Salvación y la National Christian Foundation. Juntos prestamos servicio a millones de personas necesitadas: recientemente se entregaron tiendas de campaña, bolsas de dormir y alimentos a refugiados de guerra<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> y se proporcionaron vacunas, entre ellas contra la polio<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> y el COVID<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. La lista de lo que se está haciendo es larga, como también lo son las necesidades.<\/p>\n<p data-aid=\"149836082\" id=\"p32\">Sin duda, cuando las personas de fe trabajan juntas pueden hacer grandes contribuciones. Al mismo tiempo, el servicio individual a menudo pasa desapercibido, pero, en silencio, cambia vidas.<\/p>\n<p data-aid=\"149836083\" id=\"p33\">Pienso en el ejemplo que se describe en Lucas, cuando Jesucristo tendió Su mano a la viuda de Naín. Jesús, acompañado por un grupo de seguidores, se encontró con el cortejo fúnebre del hijo único de la viuda. Sin él, ella afrontaba la ruina emocional, espiritual e incluso económica. Al ver su rostro lleno de lágrimas, Jesús le dijo: \u201cNo llores\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Luego tocó el féretro que portaba el cuerpo y la procesión se detuvo.<\/p>\n<p data-aid=\"149836084\" id=\"p34\">\u201cJoven\u201d, mandó Él, \u201ca ti te digo, ¡levántate!<\/p>\n<p data-aid=\"149836085\" id=\"p35\">\u201cEntonces se incorporó el que había muerto y comenzó a hablar. Y Jesús se lo entregó a su madre\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"149836086\" id=\"p36\">Levantar a los muertos es un milagro, pero cada acto de bondad e interés por alguien que tiene dificultades es la forma en que cada uno de nosotros también puede \u201cand[ar] haciendo bienes\u201d a la manera del convenio, sabiendo que \u201cDios est[á] con [nosotros]\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"149836087\" id=\"p38\">Y <strong>cuarto<\/strong>. La libertad religiosa actúa como una fuerza unificadora y aglutinadora que da forma a los valores y a la moralidad.<\/p>\n<p data-aid=\"149836088\" id=\"p39\">En el Nuevo Testamento leemos que muchas personas se apartaron de Jesucristo, murmurando de Su doctrina: \u201cDura es esta palabra; ¿quién la puede oír?\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<p data-aid=\"149836089\" id=\"p40\">Esa queja aún se oye hoy en día por parte de quienes procuran hacer que la religión quede fuera del debate y pierda influencia. Si la religión no está ahí para ayudar a moldear el carácter y mediar en los momentos difíciles, ¿quién lo hará? ¿Quién enseñará la honradez, la gratitud, el perdón y la paciencia? ¿Quién mostrará caridad, compasión y bondad hacia los olvidados y los oprimidos? ¿Quién acogerá a los que son diferentes pero merecedores, como lo son todos los hijos de Dios? ¿Quién abrirá los brazos a los necesitados sin esperar nada a cambio? ¿Quién venerará la paz y la obediencia a leyes que son más importantes que las tendencias de la época? ¿Quién responderá a la súplica del Salvador: \u201cVe y haz tú lo mismo\u201d?<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"149836090\" id=\"p41\">¡Nosotros! Sí, hermanos y hermanas, nosotros lo haremos.<\/p>\n<p data-aid=\"149836091\" id=\"p42\">Los invito a luchar por la causa de la libertad religiosa. Es una expresión del principio del albedrío que Dios nos ha dado.<\/p>\n<p data-aid=\"149836092\" id=\"p43\">La libertad religiosa actúa de contrapeso ante las filosofías rivales. Lo bueno de la religión, su alcance y los actos cotidianos de amor que la religión inspira solo se multiplican cuando protegemos la libertad para expresar las creencias fundamentales y para actuar de conformidad con ellas.<\/p>\n<p data-aid=\"149836093\" id=\"p44\">Testifico que el presidente Russell M. Nelson es el profeta viviente de Dios. Testifico que Jesucristo dirige y guía esta Iglesia. Él expió nuestros pecados, fue crucificado en una cruz y resucitó al tercer día<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Gracias a Él, podemos vivir de nuevo por toda la eternidad; y quienes así lo deseen, pueden estar con nuestro Padre Celestial. Proclamo esta verdad a todo el mundo. Estoy agradecido por la libertad de hacerlo. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149836094\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149836095\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8.29-31?lang=spa#p29\">Mormón 8:29\u201331<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3.1-7,12-13?lang=spa#p1\">2 Timoteo 3:1\u20137, 12\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.26-27?lang=spa#p26\">Doctrina y Convenios 45:26\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149836096\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87.6?lang=spa#p6\">Doctrina y Convenios 87:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149836097\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.7?lang=spa#p7\">Mateo 24:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149836098\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.11?lang=spa#p11\">Artículos de Fe 1:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149836099\" id=\"note5_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-29?lang=spa&amp;para=35#p35\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, págs. 366\u2013367.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149836100\" id=\"note6_p1\">Carta de Lilburn W. Boggs a John B. Clark, 27 de octubre de 1838, Mormon War Papers, Missouri State Archives, Jefferson City, Misuri, sos.mo.gov/archives/resources/Mormon.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149836101\" id=\"note7_p1\">Véase <cite>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/cite>, tomo II, <a class=\"cross-ref\" href=\"/study/history/saints-v2/part-1/01-gather-up-a-company?lang=spa\"><cite>Ninguna mano impía, 1846\u20131893<\/cite><\/a>, 2020, capítulos 1\u20134.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149836102\" id=\"note8_p1\">Departamento de Registros de Miembros y Estadísticas: cifras para finales del año 2021: 16,8 millones de miembros en total; EE. UU. y Canadá: 7 millones de miembros; fuera de los EE. UU. y Canadá: 9,8 millones de miembros.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149836103\" id=\"note9_p1\">\u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world.html\">La Restauración de la plenitud del evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/span>\u201d, LaIglesiadeJesucristo.org; leída por el presidente Russell M. Nelson como parte de su mensaje del domingo por la mañana en la Conferencia General Anual número 190, 5 de abril de 2020.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149836104\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/friend/2021/04/love-for-all-of-gods-children?lang=spa\">Jesús dijo ama a todos<\/a>\u201d, <cite>Amigos<\/cite>, abril de 2021, pág. 2.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149836105\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37?lang=spa#p37\">Mateo 22:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149836106\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=spa#p39\">Mateo 22:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149836107\" id=\"note13_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.21-22?lang=spa#p21\">Marcos 10:21\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12.41-44?lang=spa#p41\">12:41\u201344<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/16.19-25?lang=spa#p19\">Lucas 16:19\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149836108\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.40?lang=spa#p40\">Lucas 4:40<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8.43-48?lang=spa#p43\">8:43\u201348<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149836109\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/9.1-7?lang=spa#p1\">Juan 9:1\u20137<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149836110\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.15-21?lang=spa#p15\">Mateo 14:15\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/15.32-38?lang=spa#p32\">15:32\u201338<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/6.31-44?lang=spa#p31\">Marcos 6:31\u201344<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8.6-9?lang=spa#p6\">8:6\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.1-14?lang=spa#p1\">Juan 6:1\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149836111\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19.13-15?lang=spa#p13\">Mateo 19:13\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149836112\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.33-34?lang=spa#p33\">Lucas 23:33\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149836113\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=spa#p38\">Hechos 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149836114\" id=\"note20_p1\">Véase Mary Richards, \u201cHow the Church Is Helping with Humanitarian Aid in Eastern Europe\u201d, <cite>Church News<\/cite>, 3 de marzo de 2022, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149836115\" id=\"note21_p1\">Véase Sarah Ferguson, \u201cWild Polio Eliminated in Africa: A Giant Step Closer to Eradication\u201d, UNICEF, 22 de octubre de 2020, unicefusa.org.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149836116\" id=\"note22_p1\">Véase Peggy Fletcher Stack, \u201cLDS Church Kicks in $20M toward Global COVID Vaccination Push\u201d, <cite>Salt Lake Tribune<\/cite>, 26 de febrero de 2021, sltrib.com.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149836117\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.13?lang=spa#p13\">Lucas 7:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149836118\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.14-15?lang=spa#p14\">Lucas 7:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149836119\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=spa#p38\">Hechos 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149836120\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.60?lang=spa#p60\">Juan 6:60<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149836121\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.37?lang=spa#p37\">Lucas 10:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149836122\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.4?lang=spa#p4\">1 Corintios 15:4<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149836039",
+        "id": "note4",
+        "text": "<p data-aid=\"149836098\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.11?lang=spa#p11\">Artículos de Fe 1:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.11?lang=spa#p11",
+          "text": "Artículos de Fe 1:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149836046",
+        "id": "note5",
+        "text": "<p data-aid=\"149836099\" id=\"note5_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-29?lang=spa&amp;para=35#p35\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, págs. 366\u2013367.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-29?lang=spa&amp;para=35#p35",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149836023",
+        "id": "note2",
+        "text": "<p data-aid=\"149836096\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87.6?lang=spa#p6\">Doctrina y Convenios 87:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/87.6?lang=spa#p6",
+          "text": "Doctrina y Convenios 87:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149836023",
+        "id": "note3",
+        "text": "<p data-aid=\"149836097\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.7?lang=spa#p7\">Mateo 24:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/24.7?lang=spa#p7",
+          "text": "Mateo 24:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149836051",
+        "id": "note8",
+        "text": "<p data-aid=\"149836102\" id=\"note8_p1\">Departamento de Registros de Miembros y Estadísticas: cifras para finales del año 2021: 16,8 millones de miembros en total; EE. UU. y Canadá: 7 millones de miembros; fuera de los EE. UU. y Canadá: 9,8 millones de miembros.<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149836053",
+        "id": "note9",
+        "text": "<p data-aid=\"149836103\" id=\"note9_p1\">\u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world.html\">La Restauración de la plenitud del evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/span>\u201d, LaIglesiadeJesucristo.org; leída por el presidente Russell M. Nelson como parte de su mensaje del domingo por la mañana en la Conferencia General Anual número 190, 5 de abril de 2020.<\/p>"
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149836048",
+        "id": "note6",
+        "text": "<p data-aid=\"149836100\" id=\"note6_p1\">Carta de Lilburn W. Boggs a John B. Clark, 27 de octubre de 1838, Mormon War Papers, Missouri State Archives, Jefferson City, Misuri, sos.mo.gov/archives/resources/Mormon.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149836048",
+        "id": "note7",
+        "text": "<p data-aid=\"149836101\" id=\"note7_p1\">Véase <cite>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/cite>, tomo II, <a class=\"cross-ref\" href=\"/study/history/saints-v2/part-1/01-gather-up-a-company?lang=spa\"><cite>Ninguna mano impía, 1846\u20131893<\/cite><\/a>, 2020, capítulos 1\u20134.<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v2/part-1/01-gather-up-a-company?lang=spa",
+          "text": "Ninguna mano impía, 1846\u20131893",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149836072",
+        "id": "note16",
+        "text": "<p data-aid=\"149836110\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.15-21?lang=spa#p15\">Mateo 14:15\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/15.32-38?lang=spa#p32\">15:32\u201338<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/6.31-44?lang=spa#p31\">Marcos 6:31\u201344<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8.6-9?lang=spa#p6\">8:6\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.1-14?lang=spa#p1\">Juan 6:1\u201314<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/14.15-21?lang=spa#p15",
+            "text": "Mateo 14:15\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/15.32-38?lang=spa#p32",
+            "text": "15:32\u201338",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/6.31-44?lang=spa#p31",
+            "text": "Marcos 6:31\u201344",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/8.6-9?lang=spa#p6",
+            "text": "8:6\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/6.1-14?lang=spa#p1",
+            "text": "Juan 6:1\u201314",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149836072",
+        "id": "note15",
+        "text": "<p data-aid=\"149836109\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/9.1-7?lang=spa#p1\">Juan 9:1\u20137<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/9.1-7?lang=spa#p1",
+          "text": "Juan 9:1\u20137",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149836072",
+        "id": "note14",
+        "text": "<p data-aid=\"149836108\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.40?lang=spa#p40\">Lucas 4:40<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8.43-48?lang=spa#p43\">8:43\u201348<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/4.40?lang=spa#p40",
+            "text": "Lucas 4:40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/8.43-48?lang=spa#p43",
+            "text": "8:43\u201348",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149836072",
+        "id": "note13",
+        "text": "<p data-aid=\"149836107\" id=\"note13_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.21-22?lang=spa#p21\">Marcos 10:21\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12.41-44?lang=spa#p41\">12:41\u201344<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/16.19-25?lang=spa#p19\">Lucas 16:19\u201325<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/mark/10.21-22?lang=spa#p21",
+            "text": "Marcos 10:21\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/12.41-44?lang=spa#p41",
+            "text": "12:41\u201344",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/16.19-25?lang=spa#p19",
+            "text": "Lucas 16:19\u201325",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149836067",
+        "id": "note12",
+        "text": "<p data-aid=\"149836106\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.39?lang=spa#p39\">Mateo 22:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.39?lang=spa#p39",
+          "text": "Mateo 22:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149836065",
+        "id": "note11",
+        "text": "<p data-aid=\"149836105\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37?lang=spa#p37\">Mateo 22:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.37?lang=spa#p37",
+          "text": "Mateo 22:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149836059",
+        "id": "note10",
+        "text": "<p data-aid=\"149836104\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/friend/2021/04/love-for-all-of-gods-children?lang=spa\">Jesús dijo ama a todos<\/a>\u201d, <cite>Amigos<\/cite>, abril de 2021, pág. 2.<\/p>",
+        "referenceUris": [{
+          "href": "/study/friend/2021/04/love-for-all-of-gods-children?lang=spa",
+          "text": "Jesús dijo ama a todos",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149836074",
+        "id": "note19",
+        "text": "<p data-aid=\"149836113\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=spa#p38\">Hechos 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10.38?lang=spa#p38",
+          "text": "Hechos 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149836072",
+        "id": "note18",
+        "text": "<p data-aid=\"149836112\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/23.33-34?lang=spa#p33\">Lucas 23:33\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/23.33-34?lang=spa#p33",
+          "text": "Lucas 23:33\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149836072",
+        "id": "note17",
+        "text": "<p data-aid=\"149836111\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19.13-15?lang=spa#p13\">Mateo 19:13\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/19.13-15?lang=spa#p13",
+          "text": "Mateo 19:13\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149836089",
+        "id": "note27",
+        "text": "<p data-aid=\"149836121\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.37?lang=spa#p37\">Lucas 10:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/10.37?lang=spa#p37",
+          "text": "Lucas 10:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149836088",
+        "id": "note26",
+        "text": "<p data-aid=\"149836120\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6.60?lang=spa#p60\">Juan 6:60<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/6.60?lang=spa#p60",
+          "text": "Juan 6:60",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149836086",
+        "id": "note25",
+        "text": "<p data-aid=\"149836119\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=spa#p38\">Hechos 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10.38?lang=spa#p38",
+          "text": "Hechos 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149836085",
+        "id": "note24",
+        "text": "<p data-aid=\"149836118\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.14-15?lang=spa#p14\">Lucas 7:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/7.14-15?lang=spa#p14",
+          "text": "Lucas 7:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149836083",
+        "id": "note23",
+        "text": "<p data-aid=\"149836117\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.13?lang=spa#p13\">Lucas 7:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/7.13?lang=spa#p13",
+          "text": "Lucas 7:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149836081",
+        "id": "note22",
+        "text": "<p data-aid=\"149836116\" id=\"note22_p1\">Véase Peggy Fletcher Stack, \u201cLDS Church Kicks in $20M toward Global COVID Vaccination Push\u201d, <cite>Salt Lake Tribune<\/cite>, 26 de febrero de 2021, sltrib.com.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149836081",
+        "id": "note21",
+        "text": "<p data-aid=\"149836115\" id=\"note21_p1\">Véase Sarah Ferguson, \u201cWild Polio Eliminated in Africa: A Giant Step Closer to Eradication\u201d, UNICEF, 22 de octubre de 2020, unicefusa.org.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149836081",
+        "id": "note20",
+        "text": "<p data-aid=\"149836114\" id=\"note20_p1\">Véase Mary Richards, \u201cHow the Church Is Helping with Humanitarian Aid in Eastern Europe\u201d, <cite>Church News<\/cite>, 3 de marzo de 2022, thechurchnews.com.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149836023",
+        "id": "note1",
+        "text": "<p data-aid=\"149836095\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8.29-31?lang=spa#p29\">Mormón 8:29\u201331<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3.1-7,12-13?lang=spa#p1\">2 Timoteo 3:1\u20137, 12\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.26-27?lang=spa#p26\">Doctrina y Convenios 45:26\u201327<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/morm/8.29-31?lang=spa#p29",
+            "text": "Mormón 8:29\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/2-tim/3.1-7,12-13?lang=spa#p1",
+            "text": "2 Timoteo 3:1\u20137, 12\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45.26-27?lang=spa#p26",
+            "text": "Doctrina y Convenios 45:26\u201327",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149836093",
+        "id": "note28",
+        "text": "<p data-aid=\"149836122\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.4?lang=spa#p4\">1 Corintios 15:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/15.4?lang=spa#p4",
+          "text": "1 Corintios 15:4",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

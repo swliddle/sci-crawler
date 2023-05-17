@@ -1,0 +1,679 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/55soares?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "7dde67891ee94ecfb41796e282b20cc0",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/55soares",
+      "data-aid": "149749909",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "eb3fc16ab92e4d13a4e56bb96a076ea3"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/d2/ef/d2ef2cc0e075efc4180e19f3a233344e404a2688/d2ef2cc0e075efc4180e19f3a233344e404a2688.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5050-ulisses-soares-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Maravillado por Cristo y Su evangelio",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149749909",
+      {"key": "149749909"}
+    ],
+    [
+      "149822288",
+      {"key": "149822288"}
+    ],
+    [
+      "149822289",
+      {"key": "149822289"}
+    ],
+    [
+      "149822290",
+      {"key": "149822290"}
+    ],
+    [
+      "149822291",
+      {"key": "149822291"}
+    ],
+    [
+      "149822292",
+      {"key": "149822292"}
+    ],
+    [
+      "149822293",
+      {"key": "149822293"}
+    ],
+    [
+      "149822294",
+      {"key": "149822294"}
+    ],
+    [
+      "149822295",
+      {"key": "149822295"}
+    ],
+    [
+      "149822296",
+      {"key": "149822296"}
+    ],
+    [
+      "149822297",
+      {"key": "149822297"}
+    ],
+    [
+      "149822298",
+      {"key": "149822298"}
+    ],
+    [
+      "149822299",
+      {"key": "149822299"}
+    ],
+    [
+      "149822300",
+      {"key": "149822300"}
+    ],
+    [
+      "149822301",
+      {"key": "149822301"}
+    ],
+    [
+      "149822302",
+      {"key": "149822302"}
+    ],
+    [
+      "149822303",
+      {"key": "149822303"}
+    ],
+    [
+      "149822304",
+      {"key": "149822304"}
+    ],
+    [
+      "149822305",
+      {"key": "149822305"}
+    ],
+    [
+      "149822306",
+      {"key": "149822306"}
+    ],
+    [
+      "149822307",
+      {"key": "149822307"}
+    ],
+    [
+      "149822308",
+      {"key": "149822308"}
+    ],
+    [
+      "149822309",
+      {"key": "149822309"}
+    ],
+    [
+      "149822310",
+      {"key": "149822310"}
+    ],
+    [
+      "149822311",
+      {"key": "149822311"}
+    ],
+    [
+      "149822312",
+      {"key": "149822312"}
+    ],
+    [
+      "149822313",
+      {"key": "149822313"}
+    ],
+    [
+      "149822314",
+      {"key": "149822314"}
+    ],
+    [
+      "149822315",
+      {"key": "149822315"}
+    ],
+    [
+      "149822316",
+      {"key": "149822316"}
+    ],
+    [
+      "149822317",
+      {"key": "149822317"}
+    ],
+    [
+      "149822318",
+      {"key": "149822318"}
+    ],
+    [
+      "149822319",
+      {"key": "149822319"}
+    ],
+    [
+      "149822320",
+      {"key": "149822320"}
+    ],
+    [
+      "149822321",
+      {"key": "149822321"}
+    ],
+    [
+      "149822322",
+      {"key": "149822322"}
+    ],
+    [
+      "149822323",
+      {"key": "149822323"}
+    ],
+    [
+      "149822324",
+      {"key": "149822324"}
+    ],
+    [
+      "149822325",
+      {"key": "149822325"}
+    ],
+    [
+      "149822326",
+      {"key": "149822326"}
+    ],
+    [
+      "149822327",
+      {"key": "149822327"}
+    ],
+    [
+      "149822328",
+      {"key": "149822328"}
+    ],
+    [
+      "149822329",
+      {"key": "149822329"}
+    ],
+    [
+      "149822330",
+      {"key": "149822330"}
+    ],
+    [
+      "149822331",
+      {"key": "149822331"}
+    ],
+    [
+      "149822332",
+      {"key": "149822332"}
+    ],
+    [
+      "149822333",
+      {"key": "149822333"}
+    ],
+    [
+      "149822334",
+      {"key": "149822334"}
+    ],
+    [
+      "149822335",
+      {"key": "149822335"}
+    ],
+    [
+      "149822336",
+      {"key": "149822336"}
+    ],
+    [
+      "149822337",
+      {"key": "149822337"}
+    ],
+    [
+      "149822338",
+      {"key": "149822338"}
+    ],
+    [
+      "149822339",
+      {"key": "149822339"}
+    ],
+    [
+      "149822340",
+      {"key": "149822340"}
+    ],
+    [
+      "149822341",
+      {"key": "149822341"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/55soares",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Soares enseña que cuando en verdad estamos maravillados por Jesucristo y Su evangelio, somos más felices; tenemos más entusiasmo por la obra de Dios y reconocemos la mano del Señor en todas las cosas.",
+          "title": "Maravillado por Cristo y Su evangelio"
+        },
+        "pageSocial": {
+          "description": "El élder Soares enseña que cuando en verdad estamos maravillados por Jesucristo y Su evangelio, somos más felices; tenemos más entusiasmo por la obra de Dios y reconocemos la mano del Señor en todas las cosas.",
+          "title": "Maravillado por Cristo y Su evangelio"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/d2/ef/d2ef2cc0e075efc4180e19f3a233344e404a2688/d2ef2cc0e075efc4180e19f3a233344e404a2688.image/jpeg\" data-video-title=\"Maravillado por Cristo y Su evangelio\" data-video-description=\"El élder Soares enseña que cuando en verdad estamos maravillados por Jesucristo y Su evangelio, somos más felices; tenemos más entusiasmo por la obra de Dios y reconocemos la mano del Señor en todas las cosas.\" data-video-id=\"6302791484001\" data-ip=\"Download and Streaming                            \" data-duration=\"805406\" data-assetId=\"6a67b70ab39a11ecab72eeeeac1efc139d70972a\" data-ref-id=\"519283EBCD1BD3D7B2E67B38B3FD9B74FA19B9D3\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302791484001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5050-ulisses-soares-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"74444723\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5050-ulisses-soares-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"193183730\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-5050-ulisses-soares-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"264936035\"/><\/video><h1 data-aid=\"149822288\" id=\"title1\">Maravillado por Cristo y Su evangelio<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149822289\" id=\"author1\">Por el élder Ulisses Soares<\/p>\n<p class=\"author-role\" data-aid=\"149822290\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149822291\" id=\"kicker1\">Que el recuerdo de lo que han visto nuestros ojos y han sentido nuestros corazones aumente nuestra maravilla por el sacrificio expiatorio del Salvador.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149822292\" id=\"p1\">Tengo un querido amigo que es un brillante profesor universitario jubilado, un autor prolífico y sobre todo un dedicado discípulo de Jesucristo. Ha visitado la Tierra Santa decenas de veces para participar en conferencias, realizar investigaciones académicas y dirigir recorridos. Según él, cada vez que visita la tierra en la que Jesucristo caminó, se maravilla, pues sin lugar a dudas aprende algo nuevo, sorprendente y fascinante sobre el Salvador, Su ministerio terrenal y Su amada tierra natal. El asombro que muestra mi amigo cuando habla sobre todo lo que aprende en la Tierra Santa es contagioso, y ese asombro ha sido fundamental en los grandes logros y emprendimientos académicos de su vida.<\/p>\n<p data-aid=\"149822293\" id=\"p2\">Al escuchar sus experiencias y sentir su entusiasmo, he reflexionado en cuánta más maravilla espiritual, por así decirlo, podemos y debemos sentir por el evangelio de Jesucristo y la diferencia que ello puede marcar en nuestro discipulado y en nuestra travesía hacia la vida eterna. El asombro al que me refiero es la sensación de emoción, maravilla o admiración que sienten en común todos los que centran sus vidas de todo corazón en el Salvador y Sus enseñanzas, y que reconocen humildemente la presencia de Él en sus vidas. Dicho sentimiento de maravilla, inspirado por la influencia del Espíritu Santo, estimula el entusiasmo por vivir con gozo la doctrina de Cristo<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"149822294\" id=\"p3\">Las Escrituras contienen varios ejemplos de cómo se manifiesta esa sensación. El profeta Isaías, por ejemplo, expresó la profundidad de su gratitud al Señor mediante su regocijo en Él<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Quienes escucharon a Jesús predicar en la sinagoga en Capernaúm quedaron admirados por Su doctrina y la fuerza con la que Él enseñaba<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Fue ese mismo sentimiento el que penetró en cada fibra del corazón del joven José Smith al leer en la Biblia <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1?lang=spa\">el primer capítulo de Santiago<\/a>, que lo llevaron a buscar la sabiduría de Dios<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"149822295\" id=\"p4\">Mis hermanos y hermanas, cuando en verdad estamos maravillados por Jesucristo y Su evangelio, somos más felices; tenemos más entusiasmo por la obra de Dios y reconocemos la mano del Señor en todas las cosas. Además, nuestro estudio de las palabras de Dios es más significativo; nuestras oraciones son con mayor intención; nuestra adoración es más reverente; y nuestro servicio en el Reino de Dios, más diligente. Todos estos actos contribuyen a que las ministraciones del Santo Espíritu sean más frecuentes en nuestras vidas<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Es así que nuestro testimonio del Salvador y Su evangelio se fortalecerá, mantendremos a Cristo vivo en nosotros<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, y viviremos la vida \u201carraigados y sobreedificados en Él, y confirmados en la fe, [\u2026] creciendo en ella con acción de gracias\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. Cuando vivimos de ese modo, nos hacemos más resilientes espiritualmente y estamos más protegidos de caer en la trampa de la apatía espiritual.<\/p>\n<p data-aid=\"149822296\" id=\"p5\">Tal apatía se caracteriza por la pérdida gradual de nuestro entusiasmo por participar plenamente en el evangelio del Señor. Por lo general, comienza cuando sentimos que ya hemos logrado todo el conocimiento necesario y las bendiciones para ser felices en esta vida. Este sentimiento de complacencia, por así decirlo, nos hace dar por sentados los dones del Evangelio y a partir de allí, corremos el riesgo de descuidar tanto nuestra dedicación plena y regular a los aspectos esenciales del evangelio de Jesucristo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>, como los convenios que hemos hecho. Como consecuencia, nos distanciamos gradualmente del Señor, debilitando nuestra capacidad de \u201cescucharlo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, volviéndonos indiferentes e insensibles a la grandeza de Su obra. Es posible que entren las dudas en la mente y el corazón sobre las verdades que ya hemos recibido, haciéndonos vulnerables a las tentaciones del enemigo<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"149822297\" id=\"p15\">El pastor Aiden Wilson Tozer, escritor de renombre y cristiano valiente, escribió: \u201cLa complacencia es el enemigo mortal de todo crecimiento espiritual\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. ¿No fue eso exactamente lo que le sucedió al pueblo de Nefi poco después del nacimiento de Cristo? \u201c\u2026comenz[aron] [\u2026] a asombrarse cada vez menos de una señal o prodigio del cielo\u201d [\u2026] [a no creer] todo lo que habían visto y oído\u201d. Así Satanás \u201cles cegó los ojos y los condujo a creer que la doctrina de Cristo era una cosa insensata y vana\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"149822298\" id=\"p6\">Mis queridos hermanos y hermanas, en Su perfecto e infinito amor y conociendo nuestra naturaleza humana<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>, el Salvador ha establecido el modo de que evitemos caer en la trampa de la apatía espiritual. La invitación del Salvador nos da una perspectiva más amplia, especialmente teniendo en cuenta el mundo complejo en el que vivimos: \u201cAprende de mí y escucha mis palabras; camina en la mansedumbre de mi Espíritu, y en mí tendrás paz\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Al aceptar la invitación del Salvador, demostramos nuestra humildad, nuestro deseo de ser enseñables y nuestra esperanza de ser más semejantes a Él<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Esta invitación también incluye servirle a Él y ministrar a los hijos de Dios \u201ccon todo [nuestro] corazón, alma, mente y fuerza\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. La parte central de nuestro esfuerzo en dicha travesía son, por supuesto, los dos grandes mandamientos: amar al Señor nuestro Dios y amar a nuestro prójimo como a nosotros mismos<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"149822299\" id=\"p7\">Este tipo de conducta forma parte del carácter divino de Jesús y fue evidente en todo lo que Él hizo durante su ministerio terrenal<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Por tanto, cuando nos dedicamos de verdad y con intención a mirar hacia Él y aprender de Su ejemplo perfecto<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>, llegamos a conocerlo mejor. Aumentan nuestro entusiasmo y deseo de incorporar en nuestras vidas la norma suprema de cómo debemos vivir, el ejemplo que debemos dar y los mandamientos que debemos seguir. También obtenemos comprensión, sabiduría, carácter divino y gracia adicionales para con Dios y el prójimo<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Puedo asegurarles que nuestra capacidad de sentir la influencia y el amor del Salvador se intensificará en nuestras vidas, ensanchando nuestra fe, nuestro deseo de actuar con rectitud, y la motivación de servirle a Él y a otras personas<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Además, nuestra gratitud por las bendiciones y los desafíos que experimentamos en la vida terrenal se afianzará y llegará a ser parte de nuestra adoración verdadera<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"149822300\" id=\"p8\">Mis queridos amigos, todas esas cosas fortalecen nuestra maravilla espiritual en lo que respecta al Evangelio y nos impulsan a guardar con gozo los convenios que hemos hecho con el Señor, aun en medio de las pruebas y los desafíos que experimentamos. Por supuesto, para que se logren estos resultados, debemos sumergirnos nosotros mismos con fe y verdadera intención en las enseñanzas del Salvador<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>, esforzándonos por incorporar Sus atributos a nuestra forma de ser<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Además, necesitamos acercarnos más a Él mediante nuestro arrepentimiento<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>, buscando Su perdón y Su poder redentor en nuestra vida, y guardando Sus mandamientos. El Señor mismo prometió que enderezará nuestras veredas si confiamos en Él con todo el corazón, reconociéndole en todos nuestros caminos y no apoyándonos en nuestra propia prudencia<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/eb/67/eb6735faed96971e8cd72e556640589a2add1803/wes_and_elder_jones.jpeg\" data-img-id=\"8e9fea3ba95211ecb4a3eeeeac1ea26c55d3b1ac\" srcset=\"https://assets.ldscdn.org/1e/28/1e28d889a4679b4c1e648cc3abc039ed09b45512/wes_and_elder_jones.jpeg 60w,https://assets.ldscdn.org/c3/fc/c3fc8683ce4cd1e2f018d14aa4f2a0afe2f958ad/wes_and_elder_jones.jpeg 100w,https://assets.ldscdn.org/ae/f2/aef264f12814ca16ceec95d4235ff8be36333f5b/wes_and_elder_jones.jpeg 200w,https://assets.ldscdn.org/01/26/01264437908828ae6b8ec3860041f3eeb7ff2277/wes_and_elder_jones.jpeg 250w,https://assets.ldscdn.org/9d/f4/9df4e0facdb3d044c542d264eafd3152c4d60bd7/wes_and_elder_jones.jpeg 320w,https://assets.ldscdn.org/eb/67/eb6735faed96971e8cd72e556640589a2add1803/wes_and_elder_jones.jpeg 500w,https://assets.ldscdn.org/33/1b/331b76110cbb0cda85985efcf5d96abac18f0f11/wes_and_elder_jones.jpeg 640w\" data-assetId=\"8e9fea3ba95211ecb4a3eeeeac1ea26c55d3b1ac\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"395\" data-aspect-ratio=\"1.2658227848101267\"/>\n<p data-aid=\"149822301\" id=\"p9\">Un hombre que conocí recientemente, cuyo nombre es Wes y que hoy está asistiendo a la conferencia, aceptó la invitación de Cristo de aprender de Él y de Su evangelio, y comenzó a experimentar la maravilla de Su amor tras veintisiete años de haberse distanciado de la senda de los convenios. Me dijo que un día un misionero, el élder Jones, lo contactó vía Facebook, quien había sido asignado temporalmente a su área antes de ir a la misión asignada inicialmente en Panamá. Cuando el élder Jones encontró el perfil de Wes, sin siquiera saber de antemano que ya era miembro de la Iglesia, sintió la guía del Espíritu Santo y supo que debía contactarlo de inmediato. Rápidamente actuó de acuerdo con esa impresión. Wes se sorprendió por aquel contacto inesperado y comenzó a darse cuenta de que el Señor lo tenía presente a pesar de su distanciamiento de la senda de los convenios.<\/p>\n<p data-aid=\"149822302\" id=\"p16\">A partir de entonces, Wes y los misioneros empezaron a comunicarse con frecuencia. El élder Jones y su compañero ofrecieron actos de servicio y mensajes espirituales semanales que ayudaron a Wes a recuperar su asombro por el Salvador y Su evangelio. Aquello volvió a encender la llama de su testimonio de la verdad y del amor del Salvador por él. Wes sintió la paz que proviene del Consolador y obtuvo la fortaleza que necesitaba para volver al redil. Me dijo que aquella experiencia lo trajo de vuelta a la vida en el aspecto emocional y espiritual, y le ayudó a eliminar los sentimientos de amargura acumulados con los años a causa de las difíciles experiencias por las que había pasado.<\/p>\n<p data-aid=\"149822303\" id=\"p10\">Tal como mi reflexivo profesor y amigo mencionado anteriormente ha observado, siempre hay algo asombroso y fascinante para aprender sobre Jesucristo y Su evangelio<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. El Señor ha hecho promesas maravillosas que se extienden a todos, incluso nosotros, los que buscan aprender de Él e incorporar las palabras de Él a su vida. A Enoc, le dijo: \u201cHe aquí, mi Espíritu reposa[rá] sobre ti; por consiguiente, justificaré todas tus palabras; y las montañas huirán de tu presencia, y los ríos se desviarán de su cauce; y tú permanecerás en mí, y yo en ti\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Mediante Su siervo, el rey Benjamín, declaró: \u201c\u2026 seréis llamados progenie de Cristo, hijos e hijas de él, porque he aquí, hoy él os ha engendrado espiritualmente; pues decís que vuestros corazones han cambiado por medio de la fe en su nombre; por tanto, habéis nacido de él y habéis llegado a ser sus hijos y sus hijas\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"149822304\" id=\"p17\">Por tanto, conforme genuina y continuamente nos esforcemos por aprender del Salvador y seguir Su ejemplo, les prometo en Su nombre que Sus atributos divinos se escribirán en nuestra mente y corazón<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>, que seremos más semejantes a Él y que andaremos con Él<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<p data-aid=\"149822305\" id=\"p11\">Mis queridos hermanos y hermanas, ruego que siempre nos mantengamos maravillados por Jesucristo y Su amor completo, infinito y perfecto. Que el recuerdo de lo que han visto nuestros ojos y han sentido nuestros corazones aumente nuestro asombro por el sacrificio expiatorio del Salvador, que puede sanarnos de nuestras heridas espirituales y emocionales, y ayudarnos a acercarnos más a Él. Que nos maravillemos de las grandes promesas que el Padre tiene en Sus manos y que ha preparado para quienes son fieles:<\/p>\n<p data-aid=\"149822306\" id=\"p12\">\u201c\u2026 De vosotros son el reino y sus bendiciones, y las riquezas de la eternidad son vuestras.<\/p>\n<p data-aid=\"149822307\" id=\"p13\">Y el que reciba todas las cosas con gratitud será glorificado\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>.<\/p>\n<p data-aid=\"149822308\" id=\"p14\">Jesús es el Redentor del mundo y esta es Su Iglesia. Doy testimonio de estas verdades, en el nombre admirable, sagrado y sublime de nuestro Salvador Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149822309\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149822310\" id=\"note1_p1\">Véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/doctrine-of-christ?lang=spa\">Doctrina de Cristo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149822311\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61.10?lang=spa#p10\">Isaías 61:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149822312\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1.22?lang=spa#p22\">Marcos 1:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149822313\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.11-13?lang=spa#p11\">José Smith\u2014Historia 1:11\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149822314\" id=\"note5_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/holy-ghost?lang=spa\">Espíritu Santo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149822315\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/2.20?lang=spa#p20\">Gálatas 2:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149822316\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.7?lang=spa#p7\">Colosenses 2:7<\/a>; véanse los <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.6-8?lang=spa#p6\">versículos 6\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149822317\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.23?lang=spa#p23\">Mateo 14:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/19.23?lang=spa#p23\">1 Nefi 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.35?lang=spa#p35\">Helamán 3:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.12?lang=spa#p12\">4 Nefi 1:12<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/becoming-exemplary-latter-day-saints?lang=spa\">Cómo ser Santos de los Últimos Días ejemplares<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 113\u2013114.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149822318\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/9.35?lang=spa#p35\">Lucas 9:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149822319\" id=\"note10_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/5.8?lang=spa#p8\">1 Pedro 5:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149822320\" id=\"note11_p1\">A. W. Tozer, <cite>The Pursuit of God<\/cite>, 2015, pág. 23.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149822321\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/2.1-2?lang=spa#p1\">3 Nefi 2:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149822322\" id=\"note13_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/natural-man?lang=spa\">Hombre Natural<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149822323\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149822324\" id=\"note15_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/humble-humility?lang=spa\">Humildad, humilde, humillar (afligir)<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149822325\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4.2?lang=spa#p2\">Doctrina y Convenios 4:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149822326\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.36-40?lang=spa#p36\">Mateo 22:36\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149822327\" id=\"note18_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/jesus-christ?lang=spa\">Jesucristo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149822328\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.36?lang=spa#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149822329\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/2.52?lang=spa#p52\">Lucas 2:52<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149822330\" id=\"note21_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/righteous-righteousness?lang=spa\">Rectitud, recto<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149822331\" id=\"note22_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/thankful-thanks-thanksgiving?lang=spa\">Acción de gracias, agradecido, agradecimiento<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149822332\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149822333\" id=\"note24_p1\">Véase<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa\"><cite>Predicad Mi Evangelio: Una guía para el servicio misional<\/cite><\/a>, 2019, págs. 121\u2013132.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149822334\" id=\"note25_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, págs. 67\u201369.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149822335\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.12-14?lang=spa#p12\">Doctrina y Convenios 11:12\u201314<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5-6?lang=spa#p5\">Proverbios 3:5-6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149822336\" id=\"note27_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/89.19?lang=spa#p19\">Doctrina y Convenios 89:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.42?lang=spa#p42\">121:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130.19?lang=spa#p19\">130:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149822337\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=spa#p34\">Moisés 6:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"149822338\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=spa#p7\">Mosíah 5:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"149822339\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"149822340\" id=\"note31_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/walk-walk-with-god?lang=spa\">Andar, andar con Dios<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"149822341\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18-19?lang=spa#p18\">Doctrina y Convenios 78:18\u201319<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149822294",
+        "id": "note4",
+        "text": "<p data-aid=\"149822313\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.11-13?lang=spa#p11\">José Smith\u2014Historia 1:11\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1.11-13?lang=spa#p11",
+          "text": "José Smith\u2014Historia 1:11\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149822295",
+        "id": "note5",
+        "text": "<p data-aid=\"149822314\" id=\"note5_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/holy-ghost?lang=spa\">Espíritu Santo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/holy-ghost?lang=spa",
+          "text": "Espíritu Santo",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149822294",
+        "id": "note2",
+        "text": "<p data-aid=\"149822311\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61.10?lang=spa#p10\">Isaías 61:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/61.10?lang=spa#p10",
+          "text": "Isaías 61:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149822294",
+        "id": "note3",
+        "text": "<p data-aid=\"149822312\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1.22?lang=spa#p22\">Marcos 1:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/1.22?lang=spa#p22",
+          "text": "Marcos 1:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149822296",
+        "id": "note8",
+        "text": "<p data-aid=\"149822317\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.23?lang=spa#p23\">Mateo 14:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/19.23?lang=spa#p23\">1 Nefi 19:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.35?lang=spa#p35\">Helamán 3:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.12?lang=spa#p12\">4 Nefi 1:12<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/becoming-exemplary-latter-day-saints?lang=spa\">Cómo ser Santos de los Últimos Días ejemplares<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 113\u2013114.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/14.23?lang=spa#p23",
+            "text": "Mateo 14:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/19.23?lang=spa#p23",
+            "text": "1 Nefi 19:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3.35?lang=spa#p35",
+            "text": "Helamán 3:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/4-ne/1.12?lang=spa#p12",
+            "text": "4 Nefi 1:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/10/becoming-exemplary-latter-day-saints?lang=spa",
+            "text": "Cómo ser Santos de los Últimos Días ejemplares",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149822296",
+        "id": "note9",
+        "text": "<p data-aid=\"149822318\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/9.35?lang=spa#p35\">Lucas 9:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/17.5?lang=spa#p5",
+            "text": "Mateo 17:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/9.35?lang=spa#p35",
+            "text": "Lucas 9:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.7?lang=spa#p7",
+            "text": "3 Nefi 11:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149822295",
+        "id": "note6",
+        "text": "<p data-aid=\"149822315\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/2.20?lang=spa#p20\">Gálatas 2:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/gal/2.20?lang=spa#p20",
+          "text": "Gálatas 2:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149822295",
+        "id": "note7",
+        "text": "<p data-aid=\"149822316\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.7?lang=spa#p7\">Colosenses 2:7<\/a>; véanse los <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2.6-8?lang=spa#p6\">versículos 6\u20138<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/col/2.7?lang=spa#p7",
+            "text": "Colosenses 2:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/col/2.6-8?lang=spa#p6",
+            "text": "versículos 6\u20138",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "149822304",
+        "id": "note30",
+        "text": "<p data-aid=\"149822339\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/3.3?lang=spa#p3",
+          "text": "2 Corintios 3:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149822298",
+        "id": "note16",
+        "text": "<p data-aid=\"149822325\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4.2?lang=spa#p2\">Doctrina y Convenios 4:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/4.2?lang=spa#p2",
+          "text": "Doctrina y Convenios 4:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149822298",
+        "id": "note15",
+        "text": "<p data-aid=\"149822324\" id=\"note15_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/humble-humility?lang=spa\">Humildad, humilde, humillar (afligir)<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/humble-humility?lang=spa",
+          "text": "Humildad, humilde, humillar (afligir)",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149822298",
+        "id": "note14",
+        "text": "<p data-aid=\"149822323\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19.23?lang=spa#p23",
+          "text": "Doctrina y Convenios 19:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149822298",
+        "id": "note13",
+        "text": "<p data-aid=\"149822322\" id=\"note13_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/natural-man?lang=spa\">Hombre Natural<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/natural-man?lang=spa",
+          "text": "Hombre Natural",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149822297",
+        "id": "note12",
+        "text": "<p data-aid=\"149822321\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/2.1-2?lang=spa#p1\">3 Nefi 2:1\u20132<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/2.1-2?lang=spa#p1",
+          "text": "3 Nefi 2:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149822297",
+        "id": "note11",
+        "text": "<p data-aid=\"149822320\" id=\"note11_p1\">A. W. Tozer, <cite>The Pursuit of God<\/cite>, 2015, pág. 23.<\/p>"
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149822296",
+        "id": "note10",
+        "text": "<p data-aid=\"149822319\" id=\"note10_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/5.8?lang=spa#p8\">1 Pedro 5:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/5.8?lang=spa#p8",
+          "text": "1 Pedro 5:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "149822307",
+        "id": "note32",
+        "text": "<p data-aid=\"149822341\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18-19?lang=spa#p18\">Doctrina y Convenios 78:18\u201319<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/78.18-19?lang=spa#p18",
+          "text": "Doctrina y Convenios 78:18\u201319",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "149822304",
+        "id": "note31",
+        "text": "<p data-aid=\"149822340\" id=\"note31_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/walk-walk-with-god?lang=spa\">Andar, andar con Dios<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/walk-walk-with-god?lang=spa",
+          "text": "Andar, andar con Dios",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149822299",
+        "id": "note19",
+        "text": "<p data-aid=\"149822328\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.36?lang=spa#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6.36?lang=spa#p36",
+          "text": "Doctrina y Convenios 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149822299",
+        "id": "note18",
+        "text": "<p data-aid=\"149822327\" id=\"note18_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/jesus-christ?lang=spa\">Jesucristo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/jesus-christ?lang=spa",
+          "text": "Jesucristo",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149822298",
+        "id": "note17",
+        "text": "<p data-aid=\"149822326\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.36-40?lang=spa#p36\">Mateo 22:36\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.36-40?lang=spa#p36",
+          "text": "Mateo 22:36\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149822303",
+        "id": "note27",
+        "text": "<p data-aid=\"149822336\" id=\"note27_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/89.19?lang=spa#p19\">Doctrina y Convenios 89:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.42?lang=spa#p42\">121:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130.19?lang=spa#p19\">130:19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/89.19?lang=spa#p19",
+            "text": "Doctrina y Convenios 89:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/121.42?lang=spa#p42",
+            "text": "121:42",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/130.19?lang=spa#p19",
+            "text": "130:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149822300",
+        "id": "note26",
+        "text": "<p data-aid=\"149822335\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.12-14?lang=spa#p12\">Doctrina y Convenios 11:12\u201314<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5-6?lang=spa#p5\">Proverbios 3:5-6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/11.12-14?lang=spa#p12",
+            "text": "Doctrina y Convenios 11:12\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/prov/3.5-6?lang=spa#p5",
+            "text": "Proverbios 3:5-6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149822300",
+        "id": "note25",
+        "text": "<p data-aid=\"149822334\" id=\"note25_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, págs. 67\u201369.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/36nelson?lang=spa",
+          "text": "Podemos actuar mejor y ser mejores",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149822300",
+        "id": "note24",
+        "text": "<p data-aid=\"149822333\" id=\"note24_p1\">Véase<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa\"><cite>Predicad Mi Evangelio: Una guía para el servicio misional<\/cite><\/a>, 2019, págs. 121\u2013132.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=spa",
+          "text": "Predicad Mi Evangelio: Una guía para el servicio misional",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149822300",
+        "id": "note23",
+        "text": "<p data-aid=\"149822332\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.3?lang=spa#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149822299",
+        "id": "note22",
+        "text": "<p data-aid=\"149822331\" id=\"note22_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/thankful-thanks-thanksgiving?lang=spa\">Acción de gracias, agradecido, agradecimiento<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/thankful-thanks-thanksgiving?lang=spa",
+          "text": "Acción de gracias, agradecido, agradecimiento",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149822299",
+        "id": "note21",
+        "text": "<p data-aid=\"149822330\" id=\"note21_p1\">Véase la Guía para el estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/righteous-righteousness?lang=spa\">Rectitud, recto<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/righteous-righteousness?lang=spa",
+          "text": "Rectitud, recto",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149822299",
+        "id": "note20",
+        "text": "<p data-aid=\"149822329\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/2.52?lang=spa#p52\">Lucas 2:52<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/2.52?lang=spa#p52",
+          "text": "Lucas 2:52",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149822293",
+        "id": "note1",
+        "text": "<p data-aid=\"149822310\" id=\"note1_p1\">Véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/doctrine-of-christ?lang=spa\">Doctrina de Cristo<\/a>\u201d, scriptures.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/doctrine-of-christ?lang=spa",
+          "text": "Doctrina de Cristo",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "149822303",
+        "id": "note29",
+        "text": "<p data-aid=\"149822338\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=spa#p7\">Mosíah 5:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5.7?lang=spa#p7",
+          "text": "Mosíah 5:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149822303",
+        "id": "note28",
+        "text": "<p data-aid=\"149822337\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=spa#p34\">Moisés 6:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.34?lang=spa#p34",
+          "text": "Moisés 6:34",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/04",
+  "meta": {
+    "canonicalUrl": "/general-conference/2022/04/14bednar?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "3e2ef637df684579832ecc826e5c2ded",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/04/14bednar",
+      "data-aid": "149747189",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "d5cb06df3d0742dd8f3748be1a8d829e"
+    },
+    "ogTagImageUrl": "https://assets.ldscdn.org/de/bf/debffa5dc560f41f68dffa9944294c5d6e1dfd7b/debffa5dc560f41f68dffa9944294c5d6e1dfd7b.image/jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1040-david-a-bednar-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Pero no les hicimos caso",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "149747189",
+      {"key": "149747189"}
+    ],
+    [
+      "149820886",
+      {"key": "149820886"}
+    ],
+    [
+      "149820888",
+      {"key": "149820888"}
+    ],
+    [
+      "149820890",
+      {"key": "149820890"}
+    ],
+    [
+      "149820892",
+      {"key": "149820892"}
+    ],
+    [
+      "149820894",
+      {"key": "149820894"}
+    ],
+    [
+      "149820896",
+      {"key": "149820896"}
+    ],
+    [
+      "149820897",
+      {"key": "149820897"}
+    ],
+    [
+      "149820900",
+      {"key": "149820900"}
+    ],
+    [
+      "149820902",
+      {"key": "149820902"}
+    ],
+    [
+      "149820903",
+      {"key": "149820903"}
+    ],
+    [
+      "149820905",
+      {"key": "149820905"}
+    ],
+    [
+      "149820907",
+      {"key": "149820907"}
+    ],
+    [
+      "149820909",
+      {"key": "149820909"}
+    ],
+    [
+      "149820911",
+      {"key": "149820911"}
+    ],
+    [
+      "149820913",
+      {"key": "149820913"}
+    ],
+    [
+      "149820915",
+      {"key": "149820915"}
+    ],
+    [
+      "149820917",
+      {"key": "149820917"}
+    ],
+    [
+      "149820918",
+      {"key": "149820918"}
+    ],
+    [
+      "149820919",
+      {"key": "149820919"}
+    ],
+    [
+      "149820920",
+      {"key": "149820920"}
+    ],
+    [
+      "149820921",
+      {"key": "149820921"}
+    ],
+    [
+      "149820922",
+      {"key": "149820922"}
+    ],
+    [
+      "149820923",
+      {"key": "149820923"}
+    ],
+    [
+      "149820924",
+      {"key": "149820924"}
+    ],
+    [
+      "149820925",
+      {"key": "149820925"}
+    ],
+    [
+      "149820926",
+      {"key": "149820926"}
+    ],
+    [
+      "149820927",
+      {"key": "149820927"}
+    ],
+    [
+      "149820928",
+      {"key": "149820928"}
+    ],
+    [
+      "149820930",
+      {"key": "149820930"}
+    ],
+    [
+      "149820932",
+      {"key": "149820932"}
+    ],
+    [
+      "149820933",
+      {"key": "149820933"}
+    ],
+    [
+      "149820934",
+      {"key": "149820934"}
+    ],
+    [
+      "149820936",
+      {"key": "149820936"}
+    ],
+    [
+      "149820937",
+      {"key": "149820937"}
+    ],
+    [
+      "149820939",
+      {"key": "149820939"}
+    ],
+    [
+      "149820941",
+      {"key": "149820941"}
+    ],
+    [
+      "149820942",
+      {"key": "149820942"}
+    ],
+    [
+      "149820944",
+      {"key": "149820944"}
+    ],
+    [
+      "149820946",
+      {"key": "149820946"}
+    ],
+    [
+      "149820948",
+      {"key": "149820948"}
+    ],
+    [
+      "149820950",
+      {"key": "149820950"}
+    ],
+    [
+      "149820952",
+      {"key": "149820952"}
+    ],
+    [
+      "149820954",
+      {"key": "149820954"}
+    ],
+    [
+      "149820955",
+      {"key": "149820955"}
+    ],
+    [
+      "149820957",
+      {"key": "149820957"}
+    ],
+    [
+      "149820959",
+      {"key": "149820959"}
+    ],
+    [
+      "149820961",
+      {"key": "149820961"}
+    ],
+    [
+      "149820963",
+      {"key": "149820963"}
+    ],
+    [
+      "149820965",
+      {"key": "149820965"}
+    ],
+    [
+      "149820967",
+      {"key": "149820967"}
+    ],
+    [
+      "149820969",
+      {"key": "149820969"}
+    ],
+    [
+      "149820971",
+      {"key": "149820971"}
+    ],
+    [
+      "149820973",
+      {"key": "149820973"}
+    ],
+    [
+      "149820975",
+      {"key": "149820975"}
+    ],
+    [
+      "149820977",
+      {"key": "149820977"}
+    ],
+    [
+      "149820979",
+      {"key": "149820979"}
+    ],
+    [
+      "149820981",
+      {"key": "149820981"}
+    ],
+    [
+      "149820983",
+      {"key": "149820983"}
+    ],
+    [
+      "149820984",
+      {"key": "149820984"}
+    ],
+    [
+      "149820986",
+      {"key": "149820986"}
+    ],
+    [
+      "149820988",
+      {"key": "149820988"}
+    ],
+    [
+      "149820991",
+      {"key": "149820991"}
+    ],
+    [
+      "149820992",
+      {"key": "149820992"}
+    ],
+    [
+      "149820994",
+      {"key": "149820994"}
+    ],
+    [
+      "149820996",
+      {"key": "149820996"}
+    ],
+    [
+      "149820998",
+      {"key": "149820998"}
+    ]
+  ],
+  "uri": "/general-conference/2022/04/14bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Bednar enseña cómo los convenios y las ordenanzas nos ayudan a progresar en el camino de los convenios y \u201cno hacer caso\u201d a lo que los demás digan.",
+          "title": "Pero no les hicimos caso"
+        },
+        "pageSocial": {
+          "description": "El élder Bednar enseña cómo los convenios y las ordenanzas nos ayudan a progresar en el camino de los convenios y \u201cno hacer caso\u201d a lo que los demás digan.",
+          "title": "Pero no les hicimos caso"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.ldscdn.org/de/bf/debffa5dc560f41f68dffa9944294c5d6e1dfd7b/debffa5dc560f41f68dffa9944294c5d6e1dfd7b.image/jpeg\" data-video-title=\"Pero no les hicimos caso\" data-video-description=\"El élder Bednar enseña cómo los convenios y las ordenanzas nos ayudan a progresar en el camino de los convenios y \u201cno hacer caso\u201d a lo que los demás digan.\" data-video-id=\"6302702450001\" data-ip=\"Download and Streaming                            \" data-duration=\"778713\" data-assetId=\"78cae105b2b111ec8492eeeeac1e665b6a0c9bbf\" data-ref-id=\"57DAC50FC37F45C6C2DD20726EA5464D562582F7\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302702450001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1040-david-a-bednar-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"72282948\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1040-david-a-bednar-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"186965614\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2022-general-conference/2022-04-1040-david-a-bednar-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"257460447\"/><\/video><h1 data-aid=\"149820886\" id=\"title1\">\u201cPero no les hicimos caso\u201d<\/h1>\n<p class=\"subtitle\" data-aid=\"149820888\" id=\"subtitle1\">(<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1 Nefi 8:33<\/a>)<\/p>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"149820890\" id=\"author1\">Por el élder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"149820892\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"149820894\" id=\"kicker1\">Los convenios y las ordenanzas nos dan indicaciones y nos ayudan a recordar siempre nuestra conexión con el Señor Jesucristo a medida que avanzamos por la senda de los convenios.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"149820896\" id=\"p1\">Mi esposa, Susan, nuestros tres hijos y sus esposas, todos nuestros nietos y el élder Quentin L. Cook, mi compañero de asiento en el Cuórum de los Doce desde hace casi quince años, pueden atestiguar sin reparo que no canto bien. Sin embargo, a pesar de mi falta de talento musical, me encanta entonar los himnos de la Restauración. La combinación de sus letras inspiradas y su majestuosa música me ayuda a aprender los principios básicos del Evangelio y conmueve mi alma.<\/p>\n<p data-aid=\"149820897\" id=\"p2\">Un himno que ha bendecido mi vida de manera notable es \u201cTrabajemos hoy en la obra\u201d. Recientemente he estado meditando y aprendiendo sobre una frase específica del estribillo de este himno [en inglés]: \u201c<em>No haremos caso<\/em> a lo que digan los inicuos; seguiremos solo al Señor\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. <\/p>\n<p data-aid=\"149820900\" id=\"p3\"><em>No haremos caso<\/em>.<\/p>\n<p data-aid=\"149820902\" id=\"p4\">Al cantar \u201cTrabajemos hoy en la obra\u201d, a menudo pienso en las personas de la visión de Lehi que avanzaban por el sendero que conducía al árbol de la vida, no solo \u201casidos\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, sino \u201casidos constantemente a la barra de hierro, hasta que llegaron, y se postraron, y comieron del fruto del árbol\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Lehi describió multitudes en el grande y espacioso edificio que señalaban \u201ccon dedo de escarnio a [él] y [\u2026] a los que participaban del fruto\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Su respuesta a la burla y los insultos es magnífica y memorable: \u201c<em>\u2026 pero no les hicimos caso<\/em>\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. <\/p>\n<p data-aid=\"149820903\" id=\"p5\">Ruego que el Espíritu Santo nos bendiga e ilumine a cada uno de nosotros al considerar juntos cómo podemos ser fortalecidos para \u201cno hacer caso\u201d a las influencias malignas y las voces burlonas del mundo contemporáneo en el que vivimos.<\/p>\n<section>\n<header>\n<h2 data-aid=\"149820905\" id=\"title2\">No hacer caso <\/h2>\n<\/header>\n<p data-aid=\"149820907\" id=\"p6\">La expresión <em>hacer caso<\/em> sugiere reparar en algo o en alguien, o prestarle atención. Por lo tanto, la letra del estribillo del himno [en inglés] \u201cTrabajemos hoy en la obra\u201d nos exhorta a tomar una decisión afirmativa de no prestar atención \u201ca lo que digan los inicuos\u201d. Y Lehi y las personas que estaban con él, que participaban del fruto del árbol, constituyen un sólido ejemplo de no prestar atención a las burlas y al desprecio que tan frecuentemente provienen del edificio grande y espacioso.<\/p>\n<p data-aid=\"149820909\" id=\"p7\">La doctrina de Cristo escrita \u201ccon el Espíritu del Dios vivo [\u2026] en tablas de carne [de nuestro corazón]\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> aumenta nuestra capacidad de \u201cno hacer caso\u201d a las muchas distracciones, provocaciones y desvíos de nuestro mundo caído. Por ejemplo, la fe que se centra en el Señor Jesucristo nos aporta fuerza espiritual. La fe en el Redentor es un principio de acción y de poder. Al actuar de acuerdo con las verdades de Su evangelio, somos bendecidos con la capacidad espiritual de seguir adelante a lo largo de los desafíos de la vida mortal mientras nos centramos en el gozo que el Salvador nos ofrece. Verdaderamente, \u201c[t]oda obra buena aleja el temor, pues tenemos en Cristo un gran Defensor\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149820911\" id=\"title3\">Una conexión personal por medio de los convenios <\/h2>\n<\/header>\n<p data-aid=\"149820913\" id=\"p8\">El hacer convenios sagrados y recibir dignamente las ordenanzas del sacerdocio nos sujeta en un yugo con el Señor Jesucristo y el Padre Celestial, y nos une a Ellos<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Esto, sencillamente, significa que confiamos en el Salvador como nuestro Abogado<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> y Mediador<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>, y que tenemos confianza en Sus méritos, misericordia y gracia<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> durante la trayectoria de la vida. Si somos firmes en venir a Cristo y nos sujetamos a ese yugo con Él, recibimos las bendiciones purificadoras, sanadoras y fortalecedoras de Su Expiación infinita y eterna<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"149820915\" id=\"p9\">El vivir y amar los compromisos de los convenios crea una conexión con el Señor que es profundamente personal y espiritualmente poderosa. Al honrar las condiciones de las ordenanzas y los convenios sagrados, nos vamos acercando gradual y progresivamente a Él<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> y experimentamos el impacto de Su divinidad y realidad viviente en nuestra vida. Entonces Jesús se convierte en mucho más que el personaje central de los relatos de las Escrituras: Su ejemplo y Sus enseñanzas influyen en todos nuestros deseos, pensamientos y acciones.<\/p>\n<p data-aid=\"149820917\" id=\"p10\">Francamente, no soy capaz de describir adecuadamente la naturaleza y el poder precisos de la conexión de nuestros convenios con el Hijo de Dios, resucitado y viviente; pero doy testimonio de que las conexiones con Él y con el Padre Celestial son reales, y son las fuentes supremas de seguridad, paz, gozo y fuerza espiritual que nos permiten \u201cno temer, aunque el enemigo se burle\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Como discípulos de Jesucristo que hacemos y guardamos convenios, podemos ser bendecidos para \u201cser valientes, pues el Señor está de nuestro lado\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, y no prestar atención a las influencias malignas y las burlas seculares.<\/p>\n<p data-aid=\"149820918\" id=\"p11\">Cuando converso con los miembros de la Iglesia en todo el mundo, con frecuencia hago esta pregunta: ¿Qué los ayuda a \u201cno hacer caso\u201d a las influencias, la burla y el desprecio del mundo? Sus respuestas son muy instructivas.<\/p>\n<p data-aid=\"149820919\" id=\"p12\">Esos valientes miembros suelen resaltar la importancia de propiciar el poder del Espíritu Santo en su vida mediante el estudio significativo de las Escrituras, la oración ferviente y la preparación adecuada para participar en la ordenanza de la Santa Cena. También mencionan con frecuencia el apoyo espiritual de sus fieles familiares y de sus amigos de confianza, las lecciones vitales que aprendieron al ministrar y servir en la Iglesia restaurada de Jesucristo, y la capacidad de discernir el vacío absoluto de todo aquello que esté dentro del edificio grande y espacioso o que provenga de él.<\/p>\n<p data-aid=\"149820920\" id=\"p13\">En esas respuestas de los miembros he observado un patrón particular que resulta especialmente significativo. Primero y, sobre todo, estos discípulos tienen firmes testimonios del plan de felicidad del Padre Celestial y de la función de Jesucristo como nuestro Redentor y Salvador. Y segundo, su conocimiento espiritual y su convicción son individuales, personales y específicos; no son generales y abstractos. Escucho a esas almas devotas hablar de que los convenios brindan fortaleza para superar la oposición y que su conexión con el Señor viviente los sostiene tanto en los momentos buenos como en los malos. Para esas personas, Jesucristo es ciertamente un Salvador personal.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/19/f0/19f0a83eba6c573e3665d35370a278ab6ae5832c/christus_compass.png\" data-img-id=\"e02b8415b12411ec8edaeeeeac1ec8601bcf2589\" srcset=\"https://assets.ldscdn.org/47/5e/475ee528af3bcb995c037bf03930f8b38a03e226/christus_compass.png 60w,https://assets.ldscdn.org/79/3e/793e9cb6c91b9751dd5e986e83445060e0a1cf29/christus_compass.png 100w,https://assets.ldscdn.org/e1/54/e154a0479e6106f9e127d44ae64bf2f650f2d523/christus_compass.png 200w,https://assets.ldscdn.org/b6/3b/b63b2ff2ce4824476a7b4dfda1786fc85e46e2dd/christus_compass.png 250w,https://assets.ldscdn.org/7c/04/7c04d7f1dc4f2026e5983e9ab6a4021f0d3e8e3e/christus_compass.png 320w,https://assets.ldscdn.org/19/f0/19f0a83eba6c573e3665d35370a278ab6ae5832c/christus_compass.png 500w,https://assets.ldscdn.org/67/64/67644a074846136b0bc096df89ed1c6ca476162a/christus_compass.png 640w\" data-assetId=\"e02b8415b12411ec8edaeeeeac1ec8601bcf2589\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"149820921\" id=\"p14\">Los convenios y las ordenanzas del Evangelio actúan en nuestra vida de manera muy parecida a una brújula. Una brújula es un dispositivo que se utiliza para indicar los puntos cardinales \u2014norte, sur, este y oeste\u2014 con fines de navegación y orientación geográfica. De manera similar, nuestros convenios y ordenanzas nos dan indicaciones y nos ayudan a recordar siempre nuestra conexión con el Señor Jesucristo a medida que avanzamos por la senda de los convenios.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/06/18/0618074cc7e1190948f564496b711a6638101996/christus_compass.png\" data-img-id=\"77cc4783b12711ec850ceeeeac1e93dbc6188788\" srcset=\"https://assets.ldscdn.org/b0/b2/b0b254d35caa496f6c0589bed4ca4a2f4f177eee/christus_compass.png 60w,https://assets.ldscdn.org/15/16/151619ca38af11e8de25ef4f088d0503c2f6e6ec/christus_compass.png 100w,https://assets.ldscdn.org/97/41/97413b0aed4cf36032c49fbadf4a9b9dddf599a1/christus_compass.png 200w,https://assets.ldscdn.org/61/4a/614af4263a86632bbabb3e834e0068d71de3c0e4/christus_compass.png 250w,https://assets.ldscdn.org/e8/84/e8846e1097565d33fdef8f054652056f652559ec/christus_compass.png 320w,https://assets.ldscdn.org/06/18/0618074cc7e1190948f564496b711a6638101996/christus_compass.png 500w,https://assets.ldscdn.org/f4/41/f4415551c9f6829d736ac93b00be2d4f721582fc/christus_compass.png 640w\" data-assetId=\"77cc4783b12711ec850ceeeeac1e93dbc6188788\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"149820922\" id=\"p15\">El punto cardinal para todos nosotros en la vida terrenal es venir a Cristo y perfeccionarnos en Él<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Los sagrados convenios y las ordenanzas nos ayudan a centrarnos en el Salvador y a esforzarnos, con Su gracia<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>, por llegar a ser más semejantes a Él. Con seguridad, \u201cdel cielo, Cristo poder nos dará en defensa de la verdad\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149820923\" id=\"title4\">Aferrarse a la barra de hierro<\/h2>\n<\/header>\n<p data-aid=\"149820924\" id=\"p16\">La conexión de nuestros convenios con Dios y Jesucristo es el canal mediante el cual podemos recibir la capacidad y la fuerza para \u201cno hacer caso\u201d, y este vínculo se fortalece a medida que nos aferramos continuamente a la barra de hierro. Sin embargo, tal como preguntaban los hermanos de Nefi: \u201c\u2026 ¿Qué significa la barra de hierro, que nuestro padre vio?\u201d.<\/p>\n<p data-aid=\"149820925\" id=\"p17\">Nefi les dijo \u201cque era la <em>palabra de Dios<\/em>; y que quienes escucharan <em>la palabra de Dios<\/em> y se <em>aferraran a ella<\/em>, no perecerían jamás; ni los vencerían las tentaciones ni los ardientes dardos del adversario para cegarlos y llevarlos hasta la destrucción\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. <\/p>\n<p data-aid=\"149820926\" id=\"p18\">Fíjense en que la capacidad para resistir las tentaciones y los ardientes dardos del adversario se promete a aquellos que están \u201caferrados\u201d, y no solo \u201casidos\u201d, a la palabra de Dios.<\/p>\n<p data-aid=\"149820927\" id=\"p19\">Es interesante que el apóstol Juan describió a Jesucristo como el Verbo<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>:<\/p>\n<p data-aid=\"149820928\" id=\"p20\">\u201cEn el principio era <em>el Verbo<\/em>, y <em>el Verbo<\/em> estaba con Dios, y <em>el Verbo<\/em> era Dios [\u2026].<\/p>\n<p data-aid=\"149820930\" id=\"p21\">\u201cTodas las cosas por medio de él fueron hechas, y sin él nada de lo que ha sido hecho fue hecho [\u2026].<\/p>\n<p data-aid=\"149820932\" id=\"p22\">\u201cY <em>el Verbo<\/em> fue hecho carne y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"149820933\" id=\"p23\">Por tanto, uno de los nombres de Jesucristo es \u201cel Verbo\u201d [o \u201cla Palabra\u201d]<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"149820934\" id=\"p24\">En el octavo artículo de fe se declara: \u201cCreemos que la Biblia es <em>la palabra de Dios<\/em> hasta donde esté traducida correctamente; también creemos que el Libro de Mormón es <em>la palabra de Dios<\/em>\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"149820936\" id=\"p25\">Por consiguiente, las enseñanzas del Salvador como se registran en las Santas Escrituras también son \u201cla palabra\u201d. <\/p>\n<p data-aid=\"149820937\" id=\"p26\">Permítanme sugerirles que aferrarse a la palabra de Dios implica: (1) recordar, honrar y fortalecer la conexión personal que tenemos con el Salvador y Su Padre mediante los convenios y las ordenanzas del Evangelio restaurado; y (2) con espíritu de oración, de manera diligente y constante, utilizar las Santas Escrituras y las enseñanzas de los profetas y apóstoles vivientes como fuentes de verdad revelada. Al estar unidos y \u201caferrarnos\u201d al Señor y ser transformados por vivir Su doctrina<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>, les prometo que seremos bendecidos en forma individual y colectiva para \u201c[estar] en lugares santos y no [ser] movidos\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. Si permanecemos en Cristo, Él permanecerá y andará con nosotros<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Ciertamente, el Señor \u201c[e]n las duras pruebas nos da el valor de luchar por la verdad\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"149820939\" id=\"title5\">Testimonio<\/h2>\n<\/header>\n<p data-aid=\"149820941\" id=\"p27\">Sigan adelante, aférrense y no hagan caso.<\/p>\n<p data-aid=\"149820942\" id=\"p28\">Testifico que la fidelidad a los convenios y ordenanzas del evangelio restaurado del Salvador nos permite <em>seguir adelante<\/em> en la obra del Señor, <em>aferrarnos<\/em> a Él como la Palabra de Dios y <em>no hacer caso<\/em> a las tentaciones del adversario. Que en la lucha cruel todos nosotros empuñemos, sin temor, \u201cla espada de la verdad\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. En el sagrado nombre del Señor Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"149820944\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"149820946\" id=\"note1_p1\">\u201cTrabajemos hoy en la obra\u201d, <cite>Himnos<\/cite>, nro. 158, cursiva agregada; traducción libre.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"149820948\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.24?lang=spa#p24\">1 Nefi 8:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"149820950\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.30?lang=spa#p30\">1 Nefi 8:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"149820952\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1 Nefi 8:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"149820954\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1 Nefi 8:33<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"149820955\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"149820957\" id=\"note7_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"149820959\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=spa#p28\">Mateo 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"149820961\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.28?lang=spa#p28\">Moroni 7:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.4?lang=spa#p4\">Doctrina y Convenios 110:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"149820963\" id=\"note10_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/2.5?lang=spa#p5\">1 Timoteo 2:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.19?lang=spa#p19\">Doctrina y Convenios 107:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"149820965\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.8?lang=spa#p8\">2 Nefi 2:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"149820967\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11-13?lang=spa#p11\">Alma 7:11\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"149820969\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14\">3 Nefi 27:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"149820971\" id=\"note14_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"149820973\" id=\"note15_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"149820975\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.20?lang=spa#p20\">3 Nefi 12:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32-33?lang=spa#p32\">Moroni 10:32\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"149820977\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"149820979\" id=\"note18_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"149820981\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23-24?lang=spa#p23\">1 Nefi 15:23\u201324<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"149820983\" id=\"note20_p1\">En la <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jst-john/1.1?lang=spa#p1\">Traducción de José Smith de Juan 1:1<\/a> leemos: \u201cEn el principio fue predicado el evangelio por medio del Hijo. Y el evangelio era el verbo, y el verbo estaba con el Hijo, y el Hijo estaba con Dios, y el Hijo era de Dios\u201d (en el Apéndice de la Biblia).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"149820984\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1,3,14?lang=spa#p1\">Juan 1:1, 3, 14<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"149820986\" id=\"note22_p1\">El \u201cVerbo\u201d (o la \u201cPalabra\u201d) es un título de Jesucristo que se encuentra en diversas partes de las Escrituras (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1,14?lang=spa#p1\">Juan 1:1, 14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1.1?lang=spa#p1\">1 Juan 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.13?lang=spa#p13\">Apocalipsis 19:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.8-10?lang=spa#p8\">Doctrina y Convenios 93:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.32?lang=spa#p32\">Moisés 1:32<\/a>).<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"149820988\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.8?lang=spa#p8\">Artículos de Fe 1:8<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"149820991\" id=\"note24_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=spa#p17\">2 Corintios 5:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">Mosíah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.25-26?lang=spa#p25\">27:25\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.49?lang=spa#p49\">Alma 5:49<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=spa#p32\">Moroni 10:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"149820992\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.32?lang=spa#p32\">Doctrina y Convenios 45:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"149820994\" id=\"note26_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-8?lang=spa#p4\">Juan 15:4\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.41-43?lang=spa#p41\">Doctrina y Convenios 50:41\u201343<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.33-34,39?lang=spa#p33\">Moisés 6:33\u201334, 39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"149820996\" id=\"note27_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"149820998\" id=\"note28_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "149820902",
+        "id": "note4",
+        "text": "<p data-aid=\"149820952\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1 Nefi 8:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.33?lang=spa#p33",
+          "text": "1 Nefi 8:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "149820902",
+        "id": "note5",
+        "text": "<p data-aid=\"149820954\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.33?lang=spa#p33\">1 Nefi 8:33<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.33?lang=spa#p33",
+          "text": "1 Nefi 8:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "149820902",
+        "id": "note2",
+        "text": "<p data-aid=\"149820948\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.24?lang=spa#p24\">1 Nefi 8:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.24?lang=spa#p24",
+          "text": "1 Nefi 8:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "149820902",
+        "id": "note3",
+        "text": "<p data-aid=\"149820950\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.30?lang=spa#p30\">1 Nefi 8:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.30?lang=spa#p30",
+          "text": "1 Nefi 8:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "149820913",
+        "id": "note8",
+        "text": "<p data-aid=\"149820959\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=spa#p28\">Mateo 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=spa#p28",
+          "text": "Mateo 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "149820913",
+        "id": "note9",
+        "text": "<p data-aid=\"149820961\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.28?lang=spa#p28\">Moroni 7:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.4?lang=spa#p4\">Doctrina y Convenios 110:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7.28?lang=spa#p28",
+            "text": "Moroni 7:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/110.4?lang=spa#p4",
+            "text": "Doctrina y Convenios 110:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "149820909",
+        "id": "note6",
+        "text": "<p data-aid=\"149820955\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=spa#p3\">2 Corintios 3:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/3.3?lang=spa#p3",
+          "text": "2 Corintios 3:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "149820909",
+        "id": "note7",
+        "text": "<p data-aid=\"149820957\" id=\"note7_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "149820922",
+        "id": "note16",
+        "text": "<p data-aid=\"149820975\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.20?lang=spa#p20\">3 Nefi 12:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32-33?lang=spa#p32\">Moroni 10:32\u201333<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/12.20?lang=spa#p20",
+            "text": "3 Nefi 12:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.32-33?lang=spa#p32",
+            "text": "Moroni 10:32\u201333",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "149820917",
+        "id": "note15",
+        "text": "<p data-aid=\"149820973\" id=\"note15_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "149820917",
+        "id": "note14",
+        "text": "<p data-aid=\"149820971\" id=\"note14_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "149820915",
+        "id": "note13",
+        "text": "<p data-aid=\"149820969\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14\">3 Nefi 27:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14",
+          "text": "3 Nefi 27:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "149820913",
+        "id": "note12",
+        "text": "<p data-aid=\"149820967\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11-13?lang=spa#p11\">Alma 7:11\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7.11-13?lang=spa#p11",
+          "text": "Alma 7:11\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "149820913",
+        "id": "note11",
+        "text": "<p data-aid=\"149820965\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.8?lang=spa#p8\">2 Nefi 2:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2.8?lang=spa#p8",
+          "text": "2 Nefi 2:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "149820913",
+        "id": "note10",
+        "text": "<p data-aid=\"149820963\" id=\"note10_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.6?lang=spa#p6\">Juan 14:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/2.5?lang=spa#p5\">1 Timoteo 2:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.19?lang=spa#p19\">Doctrina y Convenios 107:19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/14.6?lang=spa#p6",
+            "text": "Juan 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-tim/2.5?lang=spa#p5",
+            "text": "1 Timoteo 2:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107.19?lang=spa#p19",
+            "text": "Doctrina y Convenios 107:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "149820925",
+        "id": "note19",
+        "text": "<p data-aid=\"149820981\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23-24?lang=spa#p23\">1 Nefi 15:23\u201324<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/15.23-24?lang=spa#p23",
+          "text": "1 Nefi 15:23\u201324",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "149820922",
+        "id": "note18",
+        "text": "<p data-aid=\"149820979\" id=\"note18_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "149820922",
+        "id": "note17",
+        "text": "<p data-aid=\"149820977\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25.23?lang=spa#p23",
+          "text": "2 Nefi 25:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "149820937",
+        "id": "note27",
+        "text": "<p data-aid=\"149820996\" id=\"note27_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "149820937",
+        "id": "note26",
+        "text": "<p data-aid=\"149820994\" id=\"note26_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-8?lang=spa#p4\">Juan 15:4\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.41-43?lang=spa#p41\">Doctrina y Convenios 50:41\u201343<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.33-34,39?lang=spa#p33\">Moisés 6:33\u201334, 39<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/15.4-8?lang=spa#p4",
+            "text": "Juan 15:4\u20138",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/50.41-43?lang=spa#p41",
+            "text": "Doctrina y Convenios 50:41\u201343",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.33-34,39?lang=spa#p33",
+            "text": "Moisés 6:33\u201334, 39",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "149820937",
+        "id": "note25",
+        "text": "<p data-aid=\"149820992\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.32?lang=spa#p32\">Doctrina y Convenios 45:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.32?lang=spa#p32",
+          "text": "Doctrina y Convenios 45:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "149820937",
+        "id": "note24",
+        "text": "<p data-aid=\"149820991\" id=\"note24_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=spa#p17\">2 Corintios 5:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">Mosíah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.25-26?lang=spa#p25\">27:25\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.49?lang=spa#p49\">Alma 5:49<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=spa#p32\">Moroni 10:32<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-cor/5.17?lang=spa#p17",
+            "text": "2 Corintios 5:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/3.19?lang=spa#p19",
+            "text": "Mosíah 3:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.2?lang=spa#p2",
+            "text": "5:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/27.25-26?lang=spa#p25",
+            "text": "27:25\u201326",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5.49?lang=spa#p49",
+            "text": "Alma 5:49",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.32?lang=spa#p32",
+            "text": "Moroni 10:32",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "149820934",
+        "id": "note23",
+        "text": "<p data-aid=\"149820988\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1.8?lang=spa#p8\">Artículos de Fe 1:8<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1.8?lang=spa#p8",
+          "text": "Artículos de Fe 1:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "149820933",
+        "id": "note22",
+        "text": "<p data-aid=\"149820986\" id=\"note22_p1\">El \u201cVerbo\u201d (o la \u201cPalabra\u201d) es un título de Jesucristo que se encuentra en diversas partes de las Escrituras (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1,14?lang=spa#p1\">Juan 1:1, 14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1.1?lang=spa#p1\">1 Juan 1:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19.13?lang=spa#p13\">Apocalipsis 19:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.8-10?lang=spa#p8\">Doctrina y Convenios 93:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.32?lang=spa#p32\">Moisés 1:32<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/1.1,14?lang=spa#p1",
+            "text": "Juan 1:1, 14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/1.1?lang=spa#p1",
+            "text": "1 Juan 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/19.13?lang=spa#p13",
+            "text": "Apocalipsis 19:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.8-10?lang=spa#p8",
+            "text": "Doctrina y Convenios 93:8\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.32?lang=spa#p32",
+            "text": "Moisés 1:32",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "149820932",
+        "id": "note21",
+        "text": "<p data-aid=\"149820984\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1.1,3,14?lang=spa#p1\">Juan 1:1, 3, 14<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/1.1,3,14?lang=spa#p1",
+          "text": "Juan 1:1, 3, 14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "149820927",
+        "id": "note20",
+        "text": "<p data-aid=\"149820983\" id=\"note20_p1\">En la <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jst-john/1.1?lang=spa#p1\">Traducción de José Smith de Juan 1:1<\/a> leemos: \u201cEn el principio fue predicado el evangelio por medio del Hijo. Y el evangelio era el verbo, y el verbo estaba con el Hijo, y el Hijo estaba con Dios, y el Hijo era de Dios\u201d (en el Apéndice de la Biblia).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/jst-john/1.1?lang=spa#p1",
+          "text": "Traducción de José Smith de Juan 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "149820897",
+        "id": "note1",
+        "text": "<p data-aid=\"149820946\" id=\"note1_p1\">\u201cTrabajemos hoy en la obra\u201d, <cite>Himnos<\/cite>, nro. 158, cursiva agregada; traducción libre.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "149820942",
+        "id": "note28",
+        "text": "<p data-aid=\"149820998\" id=\"note28_p1\"><cite>Himnos<\/cite>, nro. 158.<\/p>"
+      }
+    }
+  }
+}

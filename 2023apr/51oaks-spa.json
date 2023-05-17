@@ -1,0 +1,887 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2023/04/51oaks?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "101edbe337e940bc91ce54dffccc826f",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/04/51oaks",
+      "data-aid": "154439078",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "82e6d0304cbe46d0a07b2c0556b6410a"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/c7/b8/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Las enseñanzas de Jesucristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-04-02T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "154439078",
+      {"key": "154439078"}
+    ],
+    [
+      "154492223",
+      {"key": "154492223"}
+    ],
+    [
+      "154492224",
+      {"key": "154492224"}
+    ],
+    [
+      "154492225",
+      {"key": "154492225"}
+    ],
+    [
+      "154492226",
+      {"key": "154492226"}
+    ],
+    [
+      "154492227",
+      {"key": "154492227"}
+    ],
+    [
+      "154492228",
+      {"key": "154492228"}
+    ],
+    [
+      "154492229",
+      {"key": "154492229"}
+    ],
+    [
+      "154492230",
+      {"key": "154492230"}
+    ],
+    [
+      "154492231",
+      {"key": "154492231"}
+    ],
+    [
+      "154492232",
+      {"key": "154492232"}
+    ],
+    [
+      "154492233",
+      {"key": "154492233"}
+    ],
+    [
+      "154492234",
+      {"key": "154492234"}
+    ],
+    [
+      "154492235",
+      {"key": "154492235"}
+    ],
+    [
+      "154492236",
+      {"key": "154492236"}
+    ],
+    [
+      "154492237",
+      {"key": "154492237"}
+    ],
+    [
+      "154492238",
+      {"key": "154492238"}
+    ],
+    [
+      "154492239",
+      {"key": "154492239"}
+    ],
+    [
+      "154492240",
+      {"key": "154492240"}
+    ],
+    [
+      "154492241",
+      {"key": "154492241"}
+    ],
+    [
+      "154492242",
+      {"key": "154492242"}
+    ],
+    [
+      "154492243",
+      {"key": "154492243"}
+    ],
+    [
+      "154492244",
+      {"key": "154492244"}
+    ],
+    [
+      "154492245",
+      {"key": "154492245"}
+    ],
+    [
+      "154492246",
+      {"key": "154492246"}
+    ],
+    [
+      "154492247",
+      {"key": "154492247"}
+    ],
+    [
+      "154492248",
+      {"key": "154492248"}
+    ],
+    [
+      "154492249",
+      {"key": "154492249"}
+    ],
+    [
+      "154492250",
+      {"key": "154492250"}
+    ],
+    [
+      "154492251",
+      {"key": "154492251"}
+    ],
+    [
+      "154492252",
+      {"key": "154492252"}
+    ],
+    [
+      "154492253",
+      {"key": "154492253"}
+    ],
+    [
+      "154492254",
+      {"key": "154492254"}
+    ],
+    [
+      "154492255",
+      {"key": "154492255"}
+    ],
+    [
+      "154492256",
+      {"key": "154492256"}
+    ],
+    [
+      "154492257",
+      {"key": "154492257"}
+    ],
+    [
+      "154492258",
+      {"key": "154492258"}
+    ],
+    [
+      "154492259",
+      {"key": "154492259"}
+    ],
+    [
+      "154492260",
+      {"key": "154492260"}
+    ],
+    [
+      "154492261",
+      {"key": "154492261"}
+    ],
+    [
+      "154492262",
+      {"key": "154492262"}
+    ],
+    [
+      "154492263",
+      {"key": "154492263"}
+    ],
+    [
+      "154492264",
+      {"key": "154492264"}
+    ],
+    [
+      "154492265",
+      {"key": "154492265"}
+    ],
+    [
+      "154492266",
+      {"key": "154492266"}
+    ],
+    [
+      "154492267",
+      {"key": "154492267"}
+    ],
+    [
+      "154492268",
+      {"key": "154492268"}
+    ],
+    [
+      "154492269",
+      {"key": "154492269"}
+    ],
+    [
+      "154492270",
+      {"key": "154492270"}
+    ],
+    [
+      "154492271",
+      {"key": "154492271"}
+    ],
+    [
+      "154492272",
+      {"key": "154492272"}
+    ],
+    [
+      "154492273",
+      {"key": "154492273"}
+    ],
+    [
+      "154492274",
+      {"key": "154492274"}
+    ],
+    [
+      "154492275",
+      {"key": "154492275"}
+    ],
+    [
+      "154492276",
+      {"key": "154492276"}
+    ],
+    [
+      "154492277",
+      {"key": "154492277"}
+    ],
+    [
+      "154492278",
+      {"key": "154492278"}
+    ],
+    [
+      "154492279",
+      {"key": "154492279"}
+    ],
+    [
+      "154492280",
+      {"key": "154492280"}
+    ],
+    [
+      "154492281",
+      {"key": "154492281"}
+    ],
+    [
+      "154492282",
+      {"key": "154492282"}
+    ],
+    [
+      "154492283",
+      {"key": "154492283"}
+    ],
+    [
+      "154492284",
+      {"key": "154492284"}
+    ],
+    [
+      "154492285",
+      {"key": "154492285"}
+    ],
+    [
+      "154492286",
+      {"key": "154492286"}
+    ],
+    [
+      "154492287",
+      {"key": "154492287"}
+    ],
+    [
+      "154492288",
+      {"key": "154492288"}
+    ],
+    [
+      "154492289",
+      {"key": "154492289"}
+    ],
+    [
+      "154492290",
+      {"key": "154492290"}
+    ],
+    [
+      "154492291",
+      {"key": "154492291"}
+    ],
+    [
+      "154492292",
+      {"key": "154492292"}
+    ],
+    [
+      "154492293",
+      {"key": "154492293"}
+    ],
+    [
+      "154492294",
+      {"key": "154492294"}
+    ],
+    [
+      "154492295",
+      {"key": "154492295"}
+    ],
+    [
+      "154492296",
+      {"key": "154492296"}
+    ],
+    [
+      "154492297",
+      {"key": "154492297"}
+    ],
+    [
+      "154492298",
+      {"key": "154492298"}
+    ],
+    [
+      "154492299",
+      {"key": "154492299"}
+    ],
+    [
+      "154492300",
+      {"key": "154492300"}
+    ],
+    [
+      "154492301",
+      {"key": "154492301"}
+    ],
+    [
+      "154492302",
+      {"key": "154492302"}
+    ],
+    [
+      "154492303",
+      {"key": "154492303"}
+    ],
+    [
+      "154492304",
+      {"key": "154492304"}
+    ],
+    [
+      "154492305",
+      {"key": "154492305"}
+    ],
+    [
+      "154492306",
+      {"key": "154492306"}
+    ],
+    [
+      "154492307",
+      {"key": "154492307"}
+    ],
+    [
+      "154492308",
+      {"key": "154492308"}
+    ],
+    [
+      "154492309",
+      {"key": "154492309"}
+    ],
+    [
+      "154492310",
+      {"key": "154492310"}
+    ],
+    [
+      "154492311",
+      {"key": "154492311"}
+    ],
+    [
+      "154492312",
+      {"key": "154492312"}
+    ],
+    [
+      "154492313",
+      {"key": "154492313"}
+    ],
+    [
+      "154492314",
+      {"key": "154492314"}
+    ],
+    [
+      "154492315",
+      {"key": "154492315"}
+    ],
+    [
+      "154492316",
+      {"key": "154492316"}
+    ],
+    [
+      "154492317",
+      {"key": "154492317"}
+    ],
+    [
+      "154492318",
+      {"key": "154492318"}
+    ],
+    [
+      "154492319",
+      {"key": "154492319"}
+    ],
+    [
+      "154492320",
+      {"key": "154492320"}
+    ],
+    [
+      "154492321",
+      {"key": "154492321"}
+    ],
+    [
+      "154492322",
+      {"key": "154492322"}
+    ],
+    [
+      "154492323",
+      {"key": "154492323"}
+    ]
+  ],
+  "uri": "/general-conference/2023/04/51oaks",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El presidente Oaks comparte pasajes de las Escrituras que recogen las palabras de Jesucristo.",
+          "title": "Las enseñanzas de Jesucristo"
+        },
+        "pageSocial": {
+          "description": "El presidente Oaks comparte pasajes de las Escrituras que recogen las palabras de Jesucristo.",
+          "title": "Las enseñanzas de Jesucristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/c7/b8/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a/c7b8eb2a1ae0a71a20bb12e32c3102ee7200f72a.jpeg\" data-video-title=\"Las enseñanzas de Jesucristo\" data-video-description=\"El presidente Oaks comparte pasajes de las Escrituras que recogen las palabras de Jesucristo.\" data-video-id=\"6323852635112\" data-ip=\"Download and Streaming                            \" data-duration=\"846781\" data-assetId=\"a5a7ae6fd1bc11ed8f0beeeeac1eee901049656c\" data-ref-id=\"840D58A0FDFC5EDD2F34D1ABE4623EA9EE272081\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323852635112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"282864272\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"78403044\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"204088334\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2023-general-conference/2023-04-5010-dallin-h-oaks-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"282864272\"/><\/video><h1 data-aid=\"154492223\" id=\"title1\">Las enseñanzas de Jesucristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"154492224\" id=\"author1\">Por el presidente Dallin H. Oaks<\/p>\n<p class=\"author-role\" data-aid=\"154492225\" id=\"author2\">Primer Consejero de la Primera Presidencia<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"154492226\" id=\"kicker1\">Se nos dan las Escrituras para dirigir nuestra vida. Mi mensaje de hoy consiste en una selección de las palabras de nuestro Salvador: lo que Él dijo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"154492227\" id=\"p1\">Creemos en Cristo. Como miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, lo adoramos y seguimos Sus enseñanzas en las Escrituras.<\/p>\n<p data-aid=\"154492228\" id=\"p2\">Nuestro Padre Celestial hablaba directamente con Adán y Eva antes de la Caída. A partir de ese momento, el Padre presentó a Su Hijo Unigénito, Jesucristo, como nuestro Salvador y Redentor, y nos dio este mandato: \u201c¡Escúchalo!\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. De esta indicación, llegamos a la conclusión de que los anales de las Escrituras con las palabras pronunciadas por \u201cDios\u201d o el \u201cSeñor\u201d son casi siempre las palabras de Jehová, nuestro Señor resucitado, Jesucristo<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"154492229\" id=\"p3\">Se nos dan las Escrituras para dirigir nuestra vida. Como nos enseñó el profeta Nefi, debemos \u201cdeleita[rnos] en las palabras de Cristo; porque he aquí, las palabras de Cristo [n]os dirán todas las cosas que deb[emos] hacer\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. La mayoría de los pasajes que hablan del ministerio terrenal de Jesús son descripciones de lo que Él <em>hizo<\/em>. Mi mensaje de hoy consiste en una selección de las palabras de nuestro Salvador: lo que Él <em>dijo<\/em>. Estas son palabras que se hallan registradas en el Nuevo Testamento (incluidas las adiciones inspiradas de José Smith) y en el Libro de Mormón. La mayoría de estas selecciones se encuentran en la secuencia en que nuestro Salvador las pronunció.<\/p>\n<p data-aid=\"154492230\" id=\"p4\">\u201cDe cierto, de cierto te digo que el que no naciere de agua y del Espíritu no puede entrar en el reino de Dios\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"154492231\" id=\"p5\">\u201cY bienaventurados son [\u2026] los que padecen hambre y sed de rectitud, porque ellos serán llenos del <em>Espíritu Santo<\/em>\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"154492232\" id=\"p6\">\u201cBienaventurados los pacificadores, porque ellos serán llamados hijos de Dios\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"154492233\" id=\"p7\">\u201cOísteis que fue dicho: No cometerás adulterio.<\/p>\n<p data-aid=\"154492234\" id=\"p8\">\u201cPero yo os digo que cualquiera que mira a una mujer para codiciarla, ya ha cometido adulterio con ella en su corazón\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"154492235\" id=\"p9\">\u201cOísteis que fue dicho: Amarás a tu prójimo y aborrecerás a tu enemigo.<\/p>\n<p data-aid=\"154492236\" id=\"p10\">\u201cPero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;<\/p>\n<p data-aid=\"154492237\" id=\"p11\">\u201cpara que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre malos y buenos, y hace llover sobre justos e injustos\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"154492238\" id=\"p12\">\u201c[S]i perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre Celestial.<\/p>\n<p data-aid=\"154492239\" id=\"p13\">\u201cPero si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"154492240\" id=\"p14\">\u201cSi fuerais del mundo, el mundo amaría lo suyo; pero porque no sois del mundo, sino que yo os elegí del mundo, por eso os aborrece el mundo\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"154492241\" id=\"p15\">\u201cPor tanto, no busquéis las cosas de este mundo, mas buscad primeramente edificar el reino de Dios, y establecer su justicia, y todas estas cosas os serán añadidas\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"154492242\" id=\"p16\">\u201cAsí que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos, porque esta es la ley y los profetas\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"154492243\" id=\"p17\">\u201cY guardaos de los falsos profetas, que vienen a vosotros vestidos de ovejas, pero por dentro son lobos rapaces.<\/p>\n<p data-aid=\"154492244\" id=\"p18\">\u201cPor sus frutos los conoceréis. ¿Se recogen uvas de los espinos, o higos de los abrojos?<\/p>\n<p data-aid=\"154492245\" id=\"p19\">\u201cAsí, todo buen árbol da buenos frutos, mas el árbol malo da malos frutos\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"154492246\" id=\"p20\">\u201cNo todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"154492247\" id=\"p21\">\u201cVenid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.<\/p>\n<p data-aid=\"154492248\" id=\"p22\">\u201cLlevad mi yugo sobre vosotros y aprended de mí, que soy manso y humilde de corazón, y hallaréis descanso para vuestras almas.<\/p>\n<p data-aid=\"154492249\" id=\"p23\">\u201cPorque mi yugo es fácil y ligera mi carga\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"154492250\" id=\"p24\">\u201cSi alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz y sígame.<\/p>\n<p data-aid=\"154492251\" id=\"p25\">\u201cY ahora, para que el hombre tome su cruz, debe abstenerse de toda impiedad, y de todo deseo mundano y guardar mis mandamientos\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"154492252\" id=\"p26\">\u201cPor tanto, renunciad al mundo, y salvad vuestras almas; porque, ¿qué aprovechará al hombre si ganare todo el mundo y perdiere su alma? O, ¿qué recompensa dará el hombre por su alma?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"154492253\" id=\"p27\">\u201cEl que quiera hacer la voluntad de él conocerá si la doctrina es de Dios o si yo hablo por mí mismo\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"154492254\" id=\"p28\">\u201cY yo os digo: Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá,<\/p>\n<p data-aid=\"154492255\" id=\"p29\">\u201cporque todo el que pide, recibe; y el que busca, halla; y al que llama, se le abrirá\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"154492256\" id=\"p30\">\u201cTambién tengo otras ovejas que no son de este redil; a aquellas también debo traer, y oirán mi voz, y habrá un rebaño y un pastor\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"154492257\" id=\"p31\">\u201cLe dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.<\/p>\n<p data-aid=\"154492258\" id=\"p32\">\u201cY todo aquel que vive y cree en mí no morirá jamás\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"154492259\" id=\"p33\">\u201c[El gran mandamiento de la ley es este]: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma y con toda tu mente.<\/p>\n<p data-aid=\"154492260\" id=\"p34\">\u201cEste es el primero y grande mandamiento.<\/p>\n<p data-aid=\"154492261\" id=\"p35\">\u201cY el segundo es semejante a este: Amarás a tu prójimo como a ti mismo.<\/p>\n<p data-aid=\"154492262\" id=\"p36\">\u201cDe estos dos mandamientos dependen toda la ley y los profetas\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"154492263\" id=\"p37\">\u201cEl que tiene mis mandamientos y los guarda, ese es el que me ama; y el que me ama, será amado por mi Padre, y yo le amaré y me manifestaré a él\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"154492264\" id=\"p38\">\u201cLa paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón ni tenga miedo\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"154492265\" id=\"p39\">\u201cEste es mi mandamiento: Que os améis los unos a los otros, como yo os he amado\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"154492266\" id=\"p41\">\u201cMirad mis manos y mis pies, que yo mismo soy; palpad y ved, porque un espíritu no tiene carne ni huesos como veis que yo tengo\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<p data-aid=\"154492267\" id=\"p42\">\u201cPor tanto, id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo;<\/p>\n<p data-aid=\"154492268\" id=\"p43\">\u201censeñándoles que guarden todas las cosas que os he mandado; y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"154492269\" id=\"p44\">Después de Su ministerio en Tierra Santa, Jesucristo se apareció a las personas justas en el continente americano. Estas son algunas de las palabras que Él pronunció allí.<\/p>\n<p data-aid=\"154492270\" id=\"p45\">\u201cHe aquí, soy Jesucristo, el Hijo de Dios. Yo creé los cielos y la tierra, y todas las cosas que en ellos hay. Era con el Padre desde el principio. Yo soy en el Padre, y el Padre en mí; y en mí ha glorificado el Padre su nombre\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"154492271\" id=\"p46\">\u201cYo soy la luz y la vida del mundo. Soy el Alfa y la Omega, el principio y el fin.<\/p>\n<p data-aid=\"154492272\" id=\"p47\">\u201cY vosotros ya no me ofreceréis más el derramamiento de sangre; sí, vuestros sacrificios y vuestros holocaustos cesarán, porque no aceptaré ninguno de vuestros sacrificios ni vuestros holocaustos.<\/p>\n<p data-aid=\"154492273\" id=\"p48\">\u201cY me ofreceréis como sacrificio un corazón quebrantado y un espíritu contrito. Y al que venga a mí con un corazón quebrantado y un espíritu contrito, lo bautizaré con fuego y con el Espíritu Santo [\u2026].<\/p>\n<p data-aid=\"154492274\" id=\"p49\">\u201cHe aquí, he venido al mundo para traer redención al mundo, para salvar al mundo del pecado\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"154492275\" id=\"p50\">\u201cY otra vez os digo que debéis arrepentiros, y ser bautizados en mi nombre, y volveros como un niño pequeñito, o de ningún modo heredaréis el reino de Dios\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>.<\/p>\n<p data-aid=\"154492276\" id=\"p51\">\u201cPor tanto, quisiera que fueseis <em>perfectos<\/em> así como yo, o como vuestro Padre que está en los cielos es perfecto\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<p data-aid=\"154492277\" id=\"p52\">\u201cDe cierto, de cierto os digo que debéis velar y <em>orar<\/em> siempre, no sea que el diablo os tiente, y seáis llevados cautivos por él\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>.<\/p>\n<p data-aid=\"154492278\" id=\"p53\">\u201cPor tanto, siempre debéis orar al Padre en mi nombre\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>.<\/p>\n<p data-aid=\"154492279\" id=\"p54\">\u201cPor tanto, cualquier cosa que hagáis, la haréis en mi nombre, de modo que daréis mi nombre a la iglesia\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>.<\/p>\n<p data-aid=\"154492280\" id=\"p55\">\u201cHe aquí, os he dado mi evangelio, y este es el evangelio que os he dado: que vine al mundo a cumplir la voluntad de mi Padre, porque mi Padre me envió.<\/p>\n<p data-aid=\"154492281\" id=\"p56\">\u201cY mi Padre me envió para que fuese levantado sobre la cruz; y que después de ser levantado sobre la cruz, pudiese atraer a mí mismo a todos los hombres [\u2026], para ser juzgados por sus obras, ya fueren buenas o malas\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>.<\/p>\n<p data-aid=\"154492282\" id=\"p57\">\u201cY este es el mandamiento: Arrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a>.<\/p>\n<p data-aid=\"154492283\" id=\"p58\">Creemos en Cristo. Concluyo con lo que Él dijo acerca de cómo debemos conocer y seguir Sus enseñanzas:<\/p>\n<p data-aid=\"154492284\" id=\"p59\">\u201cMas el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todo lo que os he dicho\u201d<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a>.<\/p>\n<p data-aid=\"154492285\" id=\"p60\">Afirmo la verdad de estas enseñanzas en el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"154492286\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"154492287\" id=\"note1_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/3.46?lang=spa#p46\">Traducción de José Smith, Mateo 3:46<\/a> (en el Apéndice de la Biblia); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=spa#p7\">Marcos 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"154492288\" id=\"note2_p1\">Véase \u201cThe Father and the Son: A Doctrinal Exposition by the First Presidency and the Twelve\u201d, <cite>Improvement Era<\/cite>, agosto de 1916, págs. 934, 939.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"154492289\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"154492290\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.5?lang=spa#p5\">Juan 3:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"154492291\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.6?lang=spa#p6\">3 Nefi 12:6<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"154492292\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=spa#p9\">Mateo 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"154492293\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.27-28?lang=spa#p27\">Mateo 5:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"154492294\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.43-45?lang=spa#p43\">Mateo 5:43\u201345<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"154492295\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.14-15?lang=spa#p14\">Mateo 6:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"154492296\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.19?lang=spa#p19\">Juan 15:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"154492297\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/6.38?lang=spa#p38\">Traducción de José Smith, Mateo 6:38<\/a> (en el Apéndice de la Biblia).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"154492298\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.12?lang=spa#p12\">Mateo 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"154492299\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.15-17?lang=spa#p15\">Mateo 7:15\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"154492300\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.21?lang=spa#p21\">Mateo 7:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"154492301\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=spa#p28\">Mateo 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"154492302\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.25-26?lang=spa#p25\">Traducción de José Smith, Mateo 16:25\u201326<\/a> (en el Apéndice de la Biblia).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"154492303\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.29?lang=spa#p29\">Traducción de José Smith, Mateo 16:29<\/a> (en el Apéndice de la Biblia).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"154492304\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=spa#p17\">Juan 7:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"154492305\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=spa#p9\">Lucas 11:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"154492306\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.16?lang=spa#p16\">Juan 10:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"154492307\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.25-26?lang=spa#p25\">Juan 11:25\u201326<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"154492308\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-40?lang=spa#p37\">Mateo 22:37\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"154492309\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=spa#p21\">Juan 14:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"154492310\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=spa#p27\">Juan 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"154492311\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=spa#p12\">Juan 15:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"154492312\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.39?lang=spa#p39\">Lucas 24:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"154492313\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=spa#p19\">Mateo 28:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"154492314\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.15?lang=spa#p15\">3 Nefi 9:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"154492315\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.18-21?lang=spa#p18\">3 Nefi 9:18\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"154492316\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.38?lang=spa#p38\">3 Nefi 11:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"154492317\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.48?lang=spa#p48\">3 Nefi 12:48<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"154492318\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.15?lang=spa#p15\">3 Nefi 18:15<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"154492319\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.19?lang=spa#p19\">3 Nefi 18:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"154492320\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.7?lang=spa#p7\">3 Nefi 27:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"154492321\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-14?lang=spa#p13\">3 Nefi 27:13\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"154492322\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.20?lang=spa#p20\">3 Nefi 27:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"154492323\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.26?lang=spa#p26\">Juan 14:26<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "154492230",
+        "id": "note4",
+        "text": "<p data-aid=\"154492290\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.5?lang=spa#p5\">Juan 3:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3.5?lang=spa#p5",
+          "text": "Juan 3:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "154492231",
+        "id": "note5",
+        "text": "<p data-aid=\"154492291\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.6?lang=spa#p6\">3 Nefi 12:6<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/12.6?lang=spa#p6",
+          "text": "3 Nefi 12:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "154492228",
+        "id": "note2",
+        "text": "<p data-aid=\"154492288\" id=\"note2_p1\">Véase \u201cThe Father and the Son: A Doctrinal Exposition by the First Presidency and the Twelve\u201d, <cite>Improvement Era<\/cite>, agosto de 1916, págs. 934, 939.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "154492229",
+        "id": "note3",
+        "text": "<p data-aid=\"154492289\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32.3?lang=spa#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "154492237",
+        "id": "note8",
+        "text": "<p data-aid=\"154492294\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.43-45?lang=spa#p43\">Mateo 5:43\u201345<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.43-45?lang=spa#p43",
+          "text": "Mateo 5:43\u201345",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "154492239",
+        "id": "note9",
+        "text": "<p data-aid=\"154492295\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.14-15?lang=spa#p14\">Mateo 6:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/6.14-15?lang=spa#p14",
+          "text": "Mateo 6:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "154492232",
+        "id": "note6",
+        "text": "<p data-aid=\"154492292\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.9?lang=spa#p9\">Mateo 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.9?lang=spa#p9",
+          "text": "Mateo 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "154492234",
+        "id": "note7",
+        "text": "<p data-aid=\"154492293\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5.27-28?lang=spa#p27\">Mateo 5:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5.27-28?lang=spa#p27",
+          "text": "Mateo 5:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "154492275",
+        "id": "note30",
+        "text": "<p data-aid=\"154492316\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.38?lang=spa#p38\">3 Nefi 11:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.38?lang=spa#p38",
+          "text": "3 Nefi 11:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "154492251",
+        "id": "note16",
+        "text": "<p data-aid=\"154492302\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.25-26?lang=spa#p25\">Traducción de José Smith, Mateo 16:25\u201326<\/a> (en el Apéndice de la Biblia).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/16.25-26?lang=spa#p25",
+          "text": "Traducción de José Smith, Mateo 16:25\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "154492249",
+        "id": "note15",
+        "text": "<p data-aid=\"154492301\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=spa#p28\">Mateo 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=spa#p28",
+          "text": "Mateo 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "154492284",
+        "id": "note37",
+        "text": "<p data-aid=\"154492323\" id=\"note37_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.26?lang=spa#p26\">Juan 14:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.26?lang=spa#p26",
+          "text": "Juan 14:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "154492246",
+        "id": "note14",
+        "text": "<p data-aid=\"154492300\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.21?lang=spa#p21\">Mateo 7:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.21?lang=spa#p21",
+          "text": "Mateo 7:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "154492282",
+        "id": "note36",
+        "text": "<p data-aid=\"154492322\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.20?lang=spa#p20\">3 Nefi 27:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.20?lang=spa#p20",
+          "text": "3 Nefi 27:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "154492245",
+        "id": "note13",
+        "text": "<p data-aid=\"154492299\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.15-17?lang=spa#p15\">Mateo 7:15\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.15-17?lang=spa#p15",
+          "text": "Mateo 7:15\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "154492281",
+        "id": "note35",
+        "text": "<p data-aid=\"154492321\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-14?lang=spa#p13\">3 Nefi 27:13\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.13-14?lang=spa#p13",
+          "text": "3 Nefi 27:13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "154492242",
+        "id": "note12",
+        "text": "<p data-aid=\"154492298\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7.12?lang=spa#p12\">Mateo 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7.12?lang=spa#p12",
+          "text": "Mateo 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "154492279",
+        "id": "note34",
+        "text": "<p data-aid=\"154492320\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.7?lang=spa#p7\">3 Nefi 27:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27.7?lang=spa#p7",
+          "text": "3 Nefi 27:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "154492241",
+        "id": "note11",
+        "text": "<p data-aid=\"154492297\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/6.38?lang=spa#p38\">Traducción de José Smith, Mateo 6:38<\/a> (en el Apéndice de la Biblia).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/6.38?lang=spa#p38",
+          "text": "Traducción de José Smith, Mateo 6:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "154492278",
+        "id": "note33",
+        "text": "<p data-aid=\"154492319\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.19?lang=spa#p19\">3 Nefi 18:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.19?lang=spa#p19",
+          "text": "3 Nefi 18:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "154492240",
+        "id": "note10",
+        "text": "<p data-aid=\"154492296\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.19?lang=spa#p19\">Juan 15:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.19?lang=spa#p19",
+          "text": "Juan 15:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "154492277",
+        "id": "note32",
+        "text": "<p data-aid=\"154492318\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.15?lang=spa#p15\">3 Nefi 18:15<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18.15?lang=spa#p15",
+          "text": "3 Nefi 18:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "154492276",
+        "id": "note31",
+        "text": "<p data-aid=\"154492317\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12.48?lang=spa#p48\">3 Nefi 12:48<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/12.48?lang=spa#p48",
+          "text": "3 Nefi 12:48",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "154492255",
+        "id": "note19",
+        "text": "<p data-aid=\"154492305\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/11.9-10?lang=spa#p9\">Lucas 11:9\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/11.9-10?lang=spa#p9",
+          "text": "Lucas 11:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "154492253",
+        "id": "note18",
+        "text": "<p data-aid=\"154492304\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=spa#p17\">Juan 7:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/7.17?lang=spa#p17",
+          "text": "Juan 7:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "154492252",
+        "id": "note17",
+        "text": "<p data-aid=\"154492303\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/16.29?lang=spa#p29\">Traducción de José Smith, Mateo 16:29<\/a> (en el Apéndice de la Biblia).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/16.29?lang=spa#p29",
+          "text": "Traducción de José Smith, Mateo 16:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "154492268",
+        "id": "note27",
+        "text": "<p data-aid=\"154492313\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.19-20?lang=spa#p19\">Mateo 28:19\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/28.19-20?lang=spa#p19",
+          "text": "Mateo 28:19\u201320",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "154492266",
+        "id": "note26",
+        "text": "<p data-aid=\"154492312\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.39?lang=spa#p39\">Lucas 24:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/24.39?lang=spa#p39",
+          "text": "Lucas 24:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "154492265",
+        "id": "note25",
+        "text": "<p data-aid=\"154492311\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=spa#p12\">Juan 15:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15.12?lang=spa#p12",
+          "text": "Juan 15:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "154492264",
+        "id": "note24",
+        "text": "<p data-aid=\"154492310\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.27?lang=spa#p27\">Juan 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.27?lang=spa#p27",
+          "text": "Juan 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "154492263",
+        "id": "note23",
+        "text": "<p data-aid=\"154492309\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.21?lang=spa#p21\">Juan 14:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.21?lang=spa#p21",
+          "text": "Juan 14:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "154492262",
+        "id": "note22",
+        "text": "<p data-aid=\"154492308\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.37-40?lang=spa#p37\">Mateo 22:37\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22.37-40?lang=spa#p37",
+          "text": "Mateo 22:37\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "154492258",
+        "id": "note21",
+        "text": "<p data-aid=\"154492307\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11.25-26?lang=spa#p25\">Juan 11:25\u201326<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/11.25-26?lang=spa#p25",
+          "text": "Juan 11:25\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "154492256",
+        "id": "note20",
+        "text": "<p data-aid=\"154492306\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10.16?lang=spa#p16\">Juan 10:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/10.16?lang=spa#p16",
+          "text": "Juan 10:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "154492228",
+        "id": "note1",
+        "text": "<p data-aid=\"154492287\" id=\"note1_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/3.46?lang=spa#p46\">Traducción de José Smith, Mateo 3:46<\/a> (en el Apéndice de la Biblia); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=spa#p7\">Marcos 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-matt/3.46?lang=spa#p46",
+            "text": "Traducción de José Smith, Mateo 3:46",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/17.5?lang=spa#p5",
+            "text": "Mateo 17:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/9.7?lang=spa#p7",
+            "text": "Marcos 9:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.7?lang=spa#p7",
+            "text": "3 Nefi 11:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-h/1.17?lang=spa#p17",
+            "text": "José Smith\u2014Historia 1:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "154492274",
+        "id": "note29",
+        "text": "<p data-aid=\"154492315\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.18-21?lang=spa#p18\">3 Nefi 9:18\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9.18-21?lang=spa#p18",
+          "text": "3 Nefi 9:18\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "154492270",
+        "id": "note28",
+        "text": "<p data-aid=\"154492314\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9.15?lang=spa#p15\">3 Nefi 9:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9.15?lang=spa#p15",
+          "text": "3 Nefi 9:15",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

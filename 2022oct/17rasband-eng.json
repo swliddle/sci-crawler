@@ -1,0 +1,744 @@
+{
+  "tableOfContentsUri": "/general-conference/2022/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2022/10/17rasband?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "2caf3f9c3bb74e2a8e9789c6e8cc2ddc",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2022/10/17rasband",
+      "data-aid": "152799107",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "2caf3f9c3bb74e2a8e9789c6e8cc2ddc"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/c6/e9/c6e9957b33d162afa0680ded4c673aee27b24d30/c6e9957b33d162afa0680ded4c673aee27b24d30.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1070-ronald-a-rasband-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "This Day",
+    "contentType": "text/html"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "152799107",
+      {"key": "152799107"}
+    ],
+    [
+      "152799110",
+      {"key": "152799110"}
+    ],
+    [
+      "152799113",
+      {"key": "152799113"}
+    ],
+    [
+      "152799115",
+      {"key": "152799115"}
+    ],
+    [
+      "152799117",
+      {"key": "152799117"}
+    ],
+    [
+      "152799119",
+      {"key": "152799119"}
+    ],
+    [
+      "152799122",
+      {"key": "152799122"}
+    ],
+    [
+      "152799123",
+      {"key": "152799123"}
+    ],
+    [
+      "152799126",
+      {"key": "152799126"}
+    ],
+    [
+      "152799127",
+      {"key": "152799127"}
+    ],
+    [
+      "152799130",
+      {"key": "152799130"}
+    ],
+    [
+      "152799132",
+      {"key": "152799132"}
+    ],
+    [
+      "152799134",
+      {"key": "152799134"}
+    ],
+    [
+      "152799136",
+      {"key": "152799136"}
+    ],
+    [
+      "152799138",
+      {"key": "152799138"}
+    ],
+    [
+      "152799139",
+      {"key": "152799139"}
+    ],
+    [
+      "152799142",
+      {"key": "152799142"}
+    ],
+    [
+      "152799145",
+      {"key": "152799145"}
+    ],
+    [
+      "152799148",
+      {"key": "152799148"}
+    ],
+    [
+      "152799152",
+      {"key": "152799152"}
+    ],
+    [
+      "152799155",
+      {"key": "152799155"}
+    ],
+    [
+      "152799158",
+      {"key": "152799158"}
+    ],
+    [
+      "152799161",
+      {"key": "152799161"}
+    ],
+    [
+      "152799164",
+      {"key": "152799164"}
+    ],
+    [
+      "152799167",
+      {"key": "152799167"}
+    ],
+    [
+      "152799171",
+      {"key": "152799171"}
+    ],
+    [
+      "152799177",
+      {"key": "152799177"}
+    ],
+    [
+      "152799180",
+      {"key": "152799180"}
+    ],
+    [
+      "152799182",
+      {"key": "152799182"}
+    ],
+    [
+      "152799186",
+      {"key": "152799186"}
+    ],
+    [
+      "152799189",
+      {"key": "152799189"}
+    ],
+    [
+      "152799196",
+      {"key": "152799196"}
+    ],
+    [
+      "152799200",
+      {"key": "152799200"}
+    ],
+    [
+      "152799203",
+      {"key": "152799203"}
+    ],
+    [
+      "152799206",
+      {"key": "152799206"}
+    ],
+    [
+      "152799209",
+      {"key": "152799209"}
+    ],
+    [
+      "152799212",
+      {"key": "152799212"}
+    ],
+    [
+      "152799215",
+      {"key": "152799215"}
+    ],
+    [
+      "152799217",
+      {"key": "152799217"}
+    ],
+    [
+      "152799220",
+      {"key": "152799220"}
+    ],
+    [
+      "152799223",
+      {"key": "152799223"}
+    ],
+    [
+      "152799226",
+      {"key": "152799226"}
+    ],
+    [
+      "152799229",
+      {"key": "152799229"}
+    ],
+    [
+      "152799232",
+      {"key": "152799232"}
+    ],
+    [
+      "152799236",
+      {"key": "152799236"}
+    ],
+    [
+      "152799239",
+      {"key": "152799239"}
+    ],
+    [
+      "152799242",
+      {"key": "152799242"}
+    ],
+    [
+      "152799246",
+      {"key": "152799246"}
+    ],
+    [
+      "152799251",
+      {"key": "152799251"}
+    ],
+    [
+      "152799254",
+      {"key": "152799254"}
+    ],
+    [
+      "152799258",
+      {"key": "152799258"}
+    ],
+    [
+      "152799260",
+      {"key": "152799260"}
+    ],
+    [
+      "152799263",
+      {"key": "152799263"}
+    ],
+    [
+      "152799265",
+      {"key": "152799265"}
+    ],
+    [
+      "152799266",
+      {"key": "152799266"}
+    ],
+    [
+      "152799270",
+      {"key": "152799270"}
+    ],
+    [
+      "152799272",
+      {"key": "152799272"}
+    ],
+    [
+      "152799274",
+      {"key": "152799274"}
+    ],
+    [
+      "152799278",
+      {"key": "152799278"}
+    ],
+    [
+      "152799280",
+      {"key": "152799280"}
+    ]
+  ],
+  "uri": "/general-conference/2022/10/17rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Rasband gives examples of President Nelson sharing the Book of Mormon, describes how he has tried to follow the prophet\u2019s example, and invites all to do the same.",
+          "title": "This Day"
+        },
+        "pageSocial": {
+          "description": "Elder Rasband gives examples of President Nelson sharing the Book of Mormon, describes how he has tried to follow the prophet\u2019s example, and invites all to do the same.",
+          "title": "This Day"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/c6/e9/c6e9957b33d162afa0680ded4c673aee27b24d30/c6e9957b33d162afa0680ded4c673aee27b24d30.jpeg\" data-video-title=\"This Day\" data-video-description=\"Elder Rasband gives examples of President Nelson sharing the Book of Mormon, describes how he has tried to follow the prophet\u2019s example, and invites all to do the same.\" data-video-id=\"6313132697112\" data-ip=\"Download and Streaming                            \" data-duration=\"721422\" data-assetId=\"4280756e41be11edabedeeeeac1e2a1b07020252\" data-ref-id=\"28B240896DD26F32CCF529DFAEE2BDEDA806A229\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313132697112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"238225486\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1070-ronald-a-rasband-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"66885078\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1070-ronald-a-rasband-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"173092314\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2022-general-conference/2022-10-1070-ronald-a-rasband-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"238225486\"/><\/video><h1 data-aid=\"152799110\" id=\"title1\">This Day<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"152799113\" id=\"author1\">By Elder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"152799115\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"152799117\" id=\"kicker1\">Our living prophet is doing his part to flood the earth with the Book of Mormon. We must follow his lead.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"152799119\" id=\"p1\">My dear brothers and sisters, in the Book of Mormon the phrase \u201cthis day\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> is used repeatedly to call attention to counsel, promises, and teachings. King Benjamin, in his final address, admonished the people, \u201cHear my words which I shall speak unto you this day; \u2026 open your ears that ye may hear, and your hearts that ye may understand, and your minds that the mysteries of God may be unfolded to your view.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> General conference is a similar setting. We come to hear counsel for \u201cthis day,\u201d that we may be \u201ctrue at all times\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> to the Lord and His gospel. Pressing upon me \u201cthis day\u201d is the importance of renewing our commitment to the Book of Mormon, which Joseph Smith called \u201cthe most correct of any book on earth.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/37/6d/376d1cf4543b6735523d6d9bca77101f983676d5/376d1cf4543b6735523d6d9bca77101f983676d5.png\" data-img-id=\"4236af543f5a11ed9fd1eeeeac1e796201a49265\" srcset=\"https://assets.churchofjesuschrist.org/8d/de/8dde1ee1df1dc483e68e89298587a2cbae54545a/8dde1ee1df1dc483e68e89298587a2cbae54545a.png 60w,https://assets.churchofjesuschrist.org/5f/bf/5fbfe6a38f322f48be70dbfe79cbb1c91fbf7003/5fbfe6a38f322f48be70dbfe79cbb1c91fbf7003.png 100w,https://assets.churchofjesuschrist.org/c4/ef/c4efaa9c4317b6733d422586a1aa6d3b98c2ab2d/c4efaa9c4317b6733d422586a1aa6d3b98c2ab2d.png 200w,https://assets.churchofjesuschrist.org/94/e3/94e3a22c0a2512be0d48c012f9b600e694ac0b4e/94e3a22c0a2512be0d48c012f9b600e694ac0b4e.png 250w,https://assets.churchofjesuschrist.org/0d/d9/0dd9e0ab04e5865cd4384323f1f5859ae533079e/0dd9e0ab04e5865cd4384323f1f5859ae533079e.png 320w,https://assets.churchofjesuschrist.org/37/6d/376d1cf4543b6735523d6d9bca77101f983676d5/376d1cf4543b6735523d6d9bca77101f983676d5.png 500w,https://assets.churchofjesuschrist.org/49/c7/49c7a2e5ed94b107ee6a10faac77f5432f0e7ccd/49c7a2e5ed94b107ee6a10faac77f5432f0e7ccd.png 640w\" data-assetId=\"4236af543f5a11ed9fd1eeeeac1e796201a49265\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Ronald A. Rasband's Book of Mormon\"/>\n<p data-aid=\"152799122\" id=\"p2\">I hold in my hand a copy of the Book of Mormon. This is my 1970 vintage edition, and it is precious to me. By its appearance it is tired and worn, but no other book is as important to my life and my testimony as this one. Reading it, I gained a witness by the Spirit that Jesus Christ is the Son of God,<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> that He is my Savior,<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> that these scriptures are the word of God,<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> and that the gospel is restored.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> Those truths rest deep within me. As the prophet Nephi said, \u201cMy soul delighteth in the things of the Lord.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<figure class=\"image no-print\" id=\"figure1\">\n<img id=\"figure1_img1\" src=\"https://assets.churchofjesuschrist.org/9c/1d/9c1d85440cbcf214b4b984d6dfcf325e66be8c61/9c1d85440cbcf214b4b984d6dfcf325e66be8c61.jpeg\" data-img-id=\"43b3d9703f5a11ed93d9eeeeac1e71f7aee8b513\" srcset=\"https://assets.churchofjesuschrist.org/b7/c4/b7c4bf958cf5b34f99f51373eb3ab58e1c5c097f/b7c4bf958cf5b34f99f51373eb3ab58e1c5c097f.jpeg 60w,https://assets.churchofjesuschrist.org/0b/05/0b0552a08960caaeb5854e121b47845161bfa049/0b0552a08960caaeb5854e121b47845161bfa049.jpeg 100w,https://assets.churchofjesuschrist.org/27/37/273766b551d3a9a5b6f289801aea133c3ff1b11a/273766b551d3a9a5b6f289801aea133c3ff1b11a.jpeg 200w,https://assets.churchofjesuschrist.org/c4/63/c4639974d008fbe3523d3e3f0dd946bf8f8084c1/c4639974d008fbe3523d3e3f0dd946bf8f8084c1.jpeg 250w,https://assets.churchofjesuschrist.org/f6/18/f61866cfaa0b9c304ac4cf7b46cfc9af28e92abb/f61866cfaa0b9c304ac4cf7b46cfc9af28e92abb.jpeg 320w,https://assets.churchofjesuschrist.org/9c/1d/9c1d85440cbcf214b4b984d6dfcf325e66be8c61/9c1d85440cbcf214b4b984d6dfcf325e66be8c61.jpeg 500w,https://assets.churchofjesuschrist.org/ff/44/ff4476a4c667367d9f06b13d6884d05e44a44515/ff4476a4c667367d9f06b13d6884d05e44a44515.jpeg 640w\" data-assetId=\"43b3d9703f5a11ed93d9eeeeac1e71f7aee8b513\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"431\" data-aspect-ratio=\"1.160092807424594\" alt=\"Elder Rasband with Mission President and Elder Hanks\"/>\n<figcaption>\n<p data-aid=\"152799123\" id=\"figure1_p1\">Left to right: Elder Ronald A. Rasband, young missionary; President Harold Wilkinson, president of the Eastern States Mission; and Elder Marion D. Hanks, General Authority Seventy.<\/p>\n<\/figcaption>\n<\/figure>\n<p data-aid=\"152799126\" id=\"p3\">Here is the back story. As a young missionary, I took the counsel of Elder Marion D. Hanks, who visited us in the Eastern States Mission. He was the former president of the British Mission, and two of his missionaries are on the stand this day: my dear Brethren Elder Jeffrey R. Holland and Elder Quentin L. Cook.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Just as with his missionaries in England, he challenged us to read an unmarked copy of the Book of Mormon at least two times. I took up the task. The first reading I was to mark or underline everything that pointed to or testified of Jesus Christ. I used a red pencil, and I underlined many passages. The second time, Elder Hanks said to highlight principles and doctrine of the gospel, and this time I used blue to mark the scriptures. I read the Book of Mormon twice, as suggested, and then two more times, using yellow and black to mark passages that stood out to me.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> As you can see, I made many notations.<\/p>\n<img id=\"img2\" src=\"https://assets.churchofjesuschrist.org/50/b4/50b466b15743d2692e7be65f616fd8e3b51483d9/50b466b15743d2692e7be65f616fd8e3b51483d9.png\" data-img-id=\"42550cbe3f5a11edb0eeeeeeac1e35323993f3ac\" srcset=\"https://assets.churchofjesuschrist.org/c9/5c/c95cc4344a0954753af5462eeb0d83a50b162425/c95cc4344a0954753af5462eeb0d83a50b162425.png 60w,https://assets.churchofjesuschrist.org/7a/2e/7a2eca0f693545a2d249205a3a468cce761888ca/7a2eca0f693545a2d249205a3a468cce761888ca.png 100w,https://assets.churchofjesuschrist.org/79/ea/79ead96922ddaeee25bb489eb471e71d70b9286a/79ead96922ddaeee25bb489eb471e71d70b9286a.png 200w,https://assets.churchofjesuschrist.org/2d/b1/2db11da794a049505d7d4bbddda64c8ddb76052b/2db11da794a049505d7d4bbddda64c8ddb76052b.png 250w,https://assets.churchofjesuschrist.org/de/42/de42b54df01a78dd318cdc65cd27bfe3fd8fadd4/de42b54df01a78dd318cdc65cd27bfe3fd8fadd4.png 320w,https://assets.churchofjesuschrist.org/50/b4/50b466b15743d2692e7be65f616fd8e3b51483d9/50b466b15743d2692e7be65f616fd8e3b51483d9.png 500w,https://assets.churchofjesuschrist.org/c5/c4/c5c482cde17f2d4da9b22e0bb586cee18a611f32/c5c482cde17f2d4da9b22e0bb586cee18a611f32.png 640w\" data-assetId=\"42550cbe3f5a11edb0eeeeeeac1e35323993f3ac\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Ronald A. Rasband's Book of Mormon\"/>\n<p data-aid=\"152799127\" id=\"p4\">There was much more to my reading than just marking scriptures. With each reading of the Book of Mormon, front to back, I was filled with a profound love for the Lord. I felt a deeply rooted witness of the truth of His teachings and how they apply to \u201cthis day.\u201d This book fits its title, \u201cAnother Testament of Jesus Christ.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> With that study and the spiritual witness that was received, I became a Book of Mormon missionary and a disciple of Jesus Christ.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"152799130\" id=\"p5\">\u201cThis day,\u201d one of the greatest missionaries of the Book of Mormon is President Russell M. Nelson. When he was a newly called Apostle, he gave a lecture in Accra, Ghana.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> In attendance were dignitaries, including an African tribal king, with whom he spoke through an interpreter. The king was a serious student of the Bible and loved the Lord. Following President Nelson\u2019s remarks, he was approached by that king, who asked in perfect English, \u201cJust who are you?\u201d President Nelson explained that he was an ordained Apostle of Jesus Christ.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> The king\u2019s next question was \u201cWhat can you teach me about Jesus Christ?\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"152799132\" id=\"p6\">President Nelson reached for the Book of Mormon and opened it to <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng\">3 Nephi 11<\/a>. Together President Nelson and the king read the Savior\u2019s sermon to the Nephites: \u201cBehold, I am Jesus Christ, whom the prophets testified shall come into the world. \u2026 I am the light and the life of the world.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"152799134\" id=\"p7\">President Nelson presented the king with that copy of the Book of Mormon, and the king responded, \u201cYou could have given me diamonds or rubies, but nothing is more precious to me than this additional knowledge about the Lord Jesus Christ.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"152799136\" id=\"p8\">That is not an isolated example of how our beloved prophet shares the Book of Mormon. He has given copies of the Book of Mormon to hundreds of people, always bearing his witness of Jesus Christ. When President Nelson meets with guests, presidents, kings, heads of state, and leaders of business and organizations and of diverse faiths, whether at Church headquarters or in their own locations, he reverently presents this book of revealed scripture. He could give them so many things wrapped in ribbons that might sit on a table or desk or in cabinets as a reminder of his visit. Instead, he gives what is most precious to him, far beyond rubies and diamonds, as the tribal king described.<\/p>\n<p data-aid=\"152799138\" id=\"p20\">\u201cThe truths of the Book of Mormon,\u201d President Nelson has said, \u201chave the <em>power<\/em> to heal, comfort, restore, succor, strengthen, console, and cheer our souls.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> I have watched as these copies of the Book of Mormon have been clutched in the hands of those who have received them from our prophet of God. There could be no greater gift.<\/p>\n<img id=\"img3\" src=\"https://assets.churchofjesuschrist.org/e0/63/e063b91ea7015137f3dcf67d34ac51d25edad29e/e063b91ea7015137f3dcf67d34ac51d25edad29e.png\" data-img-id=\"41a0b0e53f5a11ed9a23eeeeac1e6e29c26cc7e4\" srcset=\"https://assets.churchofjesuschrist.org/0f/80/0f808f670a2b5ea6d284906550dc1d32625b49f2/0f808f670a2b5ea6d284906550dc1d32625b49f2.png 60w,https://assets.churchofjesuschrist.org/2d/df/2ddfafadedc404c16a5ff9eab5b6b391c7414241/2ddfafadedc404c16a5ff9eab5b6b391c7414241.png 100w,https://assets.churchofjesuschrist.org/5a/15/5a15ab40546864208d32529c9f55baa3a65a1b89/5a15ab40546864208d32529c9f55baa3a65a1b89.png 200w,https://assets.churchofjesuschrist.org/09/79/097958862b22d9fd2694a45efd793f268e714761/097958862b22d9fd2694a45efd793f268e714761.png 250w,https://assets.churchofjesuschrist.org/51/ab/51ab3ca1383c76461bf7769a8b7ef4a25e903163/51ab3ca1383c76461bf7769a8b7ef4a25e903163.png 320w,https://assets.churchofjesuschrist.org/e0/63/e063b91ea7015137f3dcf67d34ac51d25edad29e/e063b91ea7015137f3dcf67d34ac51d25edad29e.png 500w,https://assets.churchofjesuschrist.org/b0/6a/b06a3ac424042d3b51c0eea248b2a81b92c013c8/b06a3ac424042d3b51c0eea248b2a81b92c013c8.png 640w\" data-assetId=\"41a0b0e53f5a11ed9a23eeeeac1e6e29c26cc7e4\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Church Leaders Meet With First Lady of The Gambia\"/>\n<p data-aid=\"152799139\" id=\"p9\">Just recently he met with the first lady of The Gambia in his office and humbly handed her a Book of Mormon. He did not stop there. He opened its pages to read with her, to teach and testify of Jesus Christ, His Atonement, and His love for all God\u2019s children\u2014everywhere.<\/p>\n<p data-aid=\"152799142\" id=\"p10\">Our living prophet is doing his part to flood the earth with the Book of Mormon.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> But he cannot open the floodgates alone. We must follow his lead.<\/p>\n<p data-aid=\"152799145\" id=\"p11\">Inspired by his example, I have been trying to humbly and more fervently share the Book of Mormon.<\/p>\n<img id=\"img4\" src=\"https://assets.churchofjesuschrist.org/bc/14/bc146640c17d1af3792519f956ee1b5f0c184450/bc146640c17d1af3792519f956ee1b5f0c184450.png\" data-img-id=\"415290de3f5a11ed8f8aeeeeac1e555087ca2669\" srcset=\"https://assets.churchofjesuschrist.org/30/50/30501d79d8dc8eaa42c6f4514311a6445d92b654/30501d79d8dc8eaa42c6f4514311a6445d92b654.png 60w,https://assets.churchofjesuschrist.org/f6/0a/f60aa94880542fe7d630232d13ea2dc9498fc9a0/f60aa94880542fe7d630232d13ea2dc9498fc9a0.png 100w,https://assets.churchofjesuschrist.org/3f/61/3f61f2dd450b8ff12360b778a1286db20854b212/3f61f2dd450b8ff12360b778a1286db20854b212.png 200w,https://assets.churchofjesuschrist.org/49/2f/492f36888bbef7dd9669b9b15c42c8ccec5dc110/492f36888bbef7dd9669b9b15c42c8ccec5dc110.png 250w,https://assets.churchofjesuschrist.org/bb/d3/bbd313a5737c5baff788899888d8eb0bac345b17/bbd313a5737c5baff788899888d8eb0bac345b17.png 320w,https://assets.churchofjesuschrist.org/bc/14/bc146640c17d1af3792519f956ee1b5f0c184450/bc146640c17d1af3792519f956ee1b5f0c184450.png 500w,https://assets.churchofjesuschrist.org/9c/97/9c972fe55657ecf16513f39aae6fe1fca5a72f4e/9c972fe55657ecf16513f39aae6fe1fca5a72f4e.png 640w\" data-assetId=\"415290de3f5a11ed8f8aeeeeac1e555087ca2669\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Ronald A. Rasband Meets with Mozambique President Filipe Nyusi\"/>\n<p data-aid=\"152799148\" id=\"p12\">Recently I was on assignment in Mozambique. The citizens of this beautiful country are struggling with poverty, poor health, unemployment, storms, and political unrest. I had the honor of meeting with the country\u2019s president, Filipe Nyusi. At his request, I prayed for him and his nation; I told him we were building a temple of Jesus Christ<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> in his country. At the end of our visit, I presented to him a copy of the Book of Mormon in Portuguese, his native language. As he gratefully accepted the book, I testified of the hope and promise for his people, found in the Lord\u2019s words on its pages.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<img id=\"img5\" src=\"https://assets.churchofjesuschrist.org/c3/34/c334c31e4a116ad5bb16eeeca1402c402cd7bdfc/c334c31e4a116ad5bb16eeeca1402c402cd7bdfc.png\" data-img-id=\"442a69043f5a11eda7e2eeeeac1e38911bc4020d\" srcset=\"https://assets.churchofjesuschrist.org/b2/33/b233be33f80f4ac2b8950e5463f6d2867161df48/b233be33f80f4ac2b8950e5463f6d2867161df48.png 60w,https://assets.churchofjesuschrist.org/6c/45/6c45f248702b0d1176e15b4815acf387a14e05cb/6c45f248702b0d1176e15b4815acf387a14e05cb.png 100w,https://assets.churchofjesuschrist.org/05/4b/054b91671ef16c906a1c5a9c6818ab5b584a970d/054b91671ef16c906a1c5a9c6818ab5b584a970d.png 200w,https://assets.churchofjesuschrist.org/14/f7/14f72c4be9c6c8aa6a51b6f9a99195a79c0591d9/14f72c4be9c6c8aa6a51b6f9a99195a79c0591d9.png 250w,https://assets.churchofjesuschrist.org/ba/a6/baa60780da5661562d461cdb2faba0d5c22a104e/baa60780da5661562d461cdb2faba0d5c22a104e.png 320w,https://assets.churchofjesuschrist.org/c3/34/c334c31e4a116ad5bb16eeeca1402c402cd7bdfc/c334c31e4a116ad5bb16eeeca1402c402cd7bdfc.png 500w,https://assets.churchofjesuschrist.org/67/98/67980337d5c27aa705011729b7893bcd33fd9042/67980337d5c27aa705011729b7893bcd33fd9042.png 640w\" data-assetId=\"442a69043f5a11eda7e2eeeeac1e38911bc4020d\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Ronald A. Rasband with Lesotho Royalty\"/>\n<p data-aid=\"152799152\" id=\"p13\">On another occasion, my wife, Melanie, and I met with King Letsie III of Lesotho and his wife at their home.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> For us, the highlight of our visit was presenting them with a copy of the Book of Mormon and then sharing my testimony. When I look back on that experience and others, a verse of latter-day scripture comes to mind: \u201cThe fulness of my gospel might be proclaimed by the weak and the simple unto the ends of the world, and before kings and rulers.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<img id=\"img6\" src=\"https://assets.churchofjesuschrist.org/1d/9e/1d9ea8b9bdae2b326f283c0ea924b2624aea4f21/1d9ea8b9bdae2b326f283c0ea924b2624aea4f21.png\" data-img-id=\"42b862773f5a11edb126eeeeac1efb3d45f7eb4d\" srcset=\"https://assets.churchofjesuschrist.org/54/1e/541e422a8e72b00c60c626369b3009687882bf35/541e422a8e72b00c60c626369b3009687882bf35.png 60w,https://assets.churchofjesuschrist.org/b7/6c/b76cd20715b95ba4e5ef6c066365c1038f9adaf9/b76cd20715b95ba4e5ef6c066365c1038f9adaf9.png 100w,https://assets.churchofjesuschrist.org/2f/9a/2f9af4670bb888a966f01919db1c504d27cf5eb0/2f9af4670bb888a966f01919db1c504d27cf5eb0.png 200w,https://assets.churchofjesuschrist.org/88/4e/884e79a7d6c732b7d4c0f0b9f5e3c7990e60e040/884e79a7d6c732b7d4c0f0b9f5e3c7990e60e040.png 250w,https://assets.churchofjesuschrist.org/8e/76/8e760d3a51e9eb778d5aa2cd575c2d6f53ee5831/8e760d3a51e9eb778d5aa2cd575c2d6f53ee5831.png 320w,https://assets.churchofjesuschrist.org/1d/9e/1d9ea8b9bdae2b326f283c0ea924b2624aea4f21/1d9ea8b9bdae2b326f283c0ea924b2624aea4f21.png 500w,https://assets.churchofjesuschrist.org/c0/fa/c0fa5a2cfc296f4ec693c7252577a12e8927b1a0/c0fa5a2cfc296f4ec693c7252577a12e8927b1a0.png 640w\" data-assetId=\"42b862773f5a11edb126eeeeac1efb3d45f7eb4d\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Ronald A. Rasband with Ambassador Indra Mani Pandey\"/>\n<img id=\"img7\" src=\"https://assets.churchofjesuschrist.org/4c/c0/4cc066c7d14e471929afd1e5d4eff26c72a75c93/4cc066c7d14e471929afd1e5d4eff26c72a75c93.png\" data-img-id=\"413b5f633f5a11ed9fd1eeeeac1e7962254505da\" srcset=\"https://assets.churchofjesuschrist.org/ba/f8/baf84433ef3219df21e174860f8ad8010a843db2/baf84433ef3219df21e174860f8ad8010a843db2.png 60w,https://assets.churchofjesuschrist.org/a7/7b/a77bde556803757b4406e1c0582ae38ec311cb02/a77bde556803757b4406e1c0582ae38ec311cb02.png 100w,https://assets.churchofjesuschrist.org/af/10/af1068db57d868669cbdbe475c3aab20cf3e0df3/af1068db57d868669cbdbe475c3aab20cf3e0df3.png 200w,https://assets.churchofjesuschrist.org/d5/b9/d5b98537510ef129fec425d71140b643b3f5e116/d5b98537510ef129fec425d71140b643b3f5e116.png 250w,https://assets.churchofjesuschrist.org/3f/bd/3fbdd3397165e5429d6fc22030b96cf67be97fba/3fbdd3397165e5429d6fc22030b96cf67be97fba.png 320w,https://assets.churchofjesuschrist.org/4c/c0/4cc066c7d14e471929afd1e5d4eff26c72a75c93/4cc066c7d14e471929afd1e5d4eff26c72a75c93.png 500w,https://assets.churchofjesuschrist.org/f9/97/f9979df7028a223f6c6b97f68146fe8709a862a1/f9979df7028a223f6c6b97f68146fe8709a862a1.png 640w\" data-assetId=\"413b5f633f5a11ed9fd1eeeeac1e7962254505da\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"InterfaithSummit: Italy: Attendees\"/>\n<p data-aid=\"152799155\" id=\"p14\">I have shared the Book of Mormon with India\u2019s Ambassador to the United Nations in Geneva, Indra Mani Pandey;<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> with His Holiness Patriarch Bartholomew<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> of the Eastern Orthodox Church; and with many others. I have felt the Spirit of the Lord with us as I have personally handed them this \u201ckeystone of our religion\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> and borne my witness of Jesus Christ, the cornerstone of our faith.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"152799158\" id=\"p15\">Now, brothers and sisters, you do not have to go to Mozambique or India or meet with kings and rulers to give someone this book of sacred teachings and promises. I invite you, this day, to give a Book of Mormon to your friends and family, your associates at work, your soccer coach, or the produce man at your market. They need the words of the Lord found in this book. They need answers to the questions of everyday life and of eternal life to come. They need to know of the covenant path laid out before them and the Lord\u2019s abiding love for them. It\u2019s all here in the Book of Mormon.<\/p>\n<p data-aid=\"152799161\" id=\"p16\">When you hand them a Book of Mormon, you are opening their minds and hearts to the word of God. You do not need to carry printed copies of the book with you. You can easily share it from your mobile phone from the scriptures section of the Gospel Library app.<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"152799164\" id=\"p19\">Think of all those who could be blessed by the gospel in their lives, and then send to them a copy of the Book of Mormon from your phone. Remember to include your testimony and how this book has blessed your life.<\/p>\n<p data-aid=\"152799167\" id=\"p17\">My dear friends, as an Apostle of the Lord, I invite you to follow our beloved prophet, President Nelson, in flooding the earth with the Book of Mormon. The need is so great; we need to act now. I promise that you will be participating in \u201c<em>the greatest<\/em> work on earth,\u201d the gathering of Israel,<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> as you are inspired to reach out to those who have been \u201ckept from the truth because they know not where to find it.\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> They need your testimony and witness of how this book has changed your life and drawn you closer to God, His peace,<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a> and His \u201ctidings of great joy.\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a><\/p>\n<p data-aid=\"152799171\" id=\"p18\">I testify that by divine design the Book of Mormon was prepared in ancient America to come forth to declare God\u2019s word, to bring souls to the Lord Jesus Christ and His restored gospel \u201cthis day.\u201d In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"152799177\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"152799180\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/2.2-3?lang=eng#p2\">Jacob 2:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.14,30?lang=eng#p14\">Mosiah 2:14, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">5:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.15?lang=eng#p15\">Alma 7:15<\/a>; and many other verses in the Book of Mormon.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"152799182\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.9?lang=eng#p9\">Mosiah 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"152799186\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53.20?lang=eng#p20\">Alma 53:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"152799189\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-4?lang=eng\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 64. The full statement given by Joseph Smith on November 28, 1841, in council with the Twelve Apostles: \u201cI told the brethren that the Book of Mormon was the most correct of any book on earth, and the keystone of our religion, and a man would get nearer to God by abiding by its precepts, than by any other book.\u201d The key reference to \u201ccorrect\u201d can be attributed to revelation received in the book\u2019s translation and the doctrine taught in the Book of Mormon that establishes better than any other book the \u201cplain and precious\u201d truths of the gospel (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.40?lang=eng#p40\">1 Nephi 13:40<\/a>).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"152799196\" id=\"note5_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=eng&amp;verse=title1#title1\">The Living Christ: The Testimony of the Apostles<\/a>,\u201d a declaration by the First Presidency and Quorum of the Twelve Apostles, January 1, 2000: \u201cWe bear testimony, as His duly ordained Apostles\u2014that Jesus is the Living Christ, the immortal Son of God. He is the great King Immanuel, who stands today on the right hand of His Father. He is the light, the life, and the hope of the world. His way is the path that leads to happiness in this life and eternal life in the world to come. God be thanked for the matchless gift of His divine Son\u201d (ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"152799200\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.26?lang=eng#p26\">Isaiah 49:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21.26?lang=eng#p26\">1 Nephi 21:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/22.12?lang=eng#p12\">22:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/66.1?lang=eng#p1\">Doctrine and Covenants 66:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"152799203\" id=\"note7_p1\">The word of God is found in the scriptures. For example, in the Book of Mormon, Laman and Lemuel questioned, \u201cWhat meaneth the rod of iron?\u201d referring to Lehi\u2019s dream. Nephi responded, \u201cIt was the word of God; and whoso would hearken unto the word of God, and would hold fast unto it, they would never perish; neither could the temptations and the fiery darts of the adversary overpower them unto blindness, to lead them away to destruction\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23-24?lang=eng#p23\">1 Nephi 15:23\u201324<\/a>).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"152799206\" id=\"note8_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d which includes the following: \u201cWe declare that The Church of Jesus Christ of Latter-day Saints, organized on April 6, 1830, is Christ\u2019s New Testament Church restored. This Church is anchored in the perfect life of its chief cornerstone, Jesus Christ, and in His infinite Atonement and literal Resurrection. Jesus Christ has once again called Apostles and has given them priesthood authority. He invites all of us to come unto Him and His Church, to receive the Holy Ghost, the ordinances of salvation, and to gain enduring joy. \u2026 We gladly declare that the promised Restoration goes forward through continuing revelation. The earth will never again be the same, as God will \u2018gather together in one all things in Christ\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>)\u201d (ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"152799209\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.16?lang=eng#p16\">2 Nephi 4:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"152799212\" id=\"note10_p1\">See Quentin L. Cook, \u201c<a href=\"https://speeches.byu.edu/talks/quentin-l-cook/be-not-weary-in-well-doing/\">Be Not Weary in Well-Doing<\/a>\u201d (Brigham Young University devotional, Aug. 24, 2020), speeches.byu.edu; Eliza Smith-Driggs, \u201cThis Week on Social: How to Develop a Love for the Lord, Yourself and Others,\u201d <cite>Church News<\/cite>, July 17, 2020, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"152799215\" id=\"note11_p1\">Third reading, yellow: geology or geography; fourth reading, black: storyline of the Book of Mormon.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"152799217\" id=\"note12_p1\">\u201cAnother Testament of Jesus Christ\u201d was added as a subtitle to all editions of the Book of Mormon. Church leaders made the name change to further emphasize the purpose of the book as stated on the <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">title page<\/a>: \u201cAnd also to the convincing of the Jew and Gentile that Jesus is the Christ, the Eternal God, manifesting himself unto all nations.\u201d<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"152799220\" id=\"note13_p1\">Being a disciple of Jesus Christ is an expression of our love for Him. Disciples have been baptized; they take upon themselves the name of Jesus Christ; they strive to follow Him by embracing His attributes as described by the Apostle Peter: \u201cGiving all diligence, add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1.5-7?lang=eng#p5\">2 Peter 1:5\u20137<\/a>; see also <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng\">Preach My Gospel: A Guide to Missionary Service<\/a><\/cite> [2019], 121\u201332).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"152799223\" id=\"note14_p1\">President Russell M. Nelson, an internationally known heart surgeon before his call to the Quorum of the Twelve Apostles in 1984, gave a lecture at a medical school in Accra, Ghana, in 1986 on the history of heart surgery. Interviewed later by the media, he explained he was there \u201cas a servant of the Lord to help [the people] become better citizens, to build strong families, to gain true happiness and prosper in the land.\u201d He returned to Accra, Ghana, on November 16, 2001, for the groundbreaking of the Accra Ghana Temple (see \u201cGround Broken for First Temple in West Africa,\u201d <cite>Church News<\/cite>, Nov. 24, 2001, thechurchnews.com).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"152799226\" id=\"note15_p1\">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&amp;para=10#p10\">5.1.1.1<\/a>: \u201cIn our day, the Lord calls men through the President of the Church to be ordained as Apostles and to serve in the Quorum of the Twelve Apostles (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.26-28?lang=eng#p26\">Doctrine and Covenants 18:26\u201328<\/a>)\u201d (ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"152799229\" id=\"note16_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2017, 60.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"152799232\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.10-11?lang=eng#p10\">3 Nephi 11:10\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"152799236\" id=\"note18_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=15#p15\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d 61.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"152799239\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=38#p38\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d 62.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"152799242\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7.62?lang=eng#p62\">Moses 7:62<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"152799246\" id=\"note21_p1\">The Beira Mozambique Temple was announced on April 4, 2021, by President Russell M. Nelson. More than half a million people live in Beira, which lies on the coast of the Indian Ocean.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"152799251\" id=\"note22_p1\">Examples of the hope and promises found in the Book of Mormon include <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.4-6?lang=eng#p4\">Jacob 4:4\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.28-29?lang=eng#p28\">Alma 13:28\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22.16?lang=eng#p16\">22:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.41?lang=eng#p41\">34:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.32?lang=eng#p32\">Ether 12:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.41?lang=eng#p41\">Moroni 7:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/8.26?lang=eng#p26\">8:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"152799254\" id=\"note23_p1\">Elder and Sister Rasband met with the royal family on February 10, 2020, when on assignment in Africa to dedicate the Durban South Africa Temple.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"152799258\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.23?lang=eng#p23\">Doctrine and Covenants 1:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"152799260\" id=\"note25_p1\">Elder Rasband met with Ambassador Indra Mani Pandey, Permanent Representative of India to the United Nations and Other International Organizations in Geneva, while on assignment to the Interfaith Forum in Bologna, Italy, on September 17, 2021.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"152799263\" id=\"note26_p1\">Elder Rasband met with His All Holiness Ecumenical Patriarch Bartholomew of the Eastern Orthodox Church while on assignment to the Interfaith Forum in Bologna, Italy, on September 13, 2021.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"152799265\" id=\"note27_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-4?lang=eng\">Teachings: Joseph Smith<\/a><\/cite>, 64. A keystone is a wedge-shaped piece of masonry that sits at the crown of an arch, holding the other pieces in place. The Prophet Joseph described the Book of Mormon as \u201cthe keystone of our religion\u201d because of its importance in uniting the Church through principles and ordinances. The Book of Mormon serves as a \u201ckeystone\u201d for the lives of members, helping them stay firmly on the covenant path.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"152799266\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2.19-20?lang=eng#p19\">Ephesians 2:19\u201320<\/a>. Jesus Christ is the chief cornerstone of our Church, which bears His name. Just as the laying of a cornerstone at the temple is symbolic of the main stone forming the corner of the foundation of God\u2019s house, Jesus Christ is the cornerstone of our faith and our salvation. He gave His life that we might live; there is none equal to Him in strength, in purpose, or in love.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"152799270\" id=\"note29_p1\">You can share it from your mobile phone. One way is by opening the Gospel Library app, going to the \u201cScriptures\u201d collection, and then tapping \u201cShare Now\u201d at the top. Or from within the Book of Mormon app, you can tap the \u201cShare\u201d icon, which displays a digital code that a friend can easily scan using his or her phone.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"152799272\" id=\"note30_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;para=62#p62\">Hope of Israel<\/a>\u201d (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org. \u201cOn June 3, 2018, President Russell M. Nelson and his wife, Wendy W. Nelson, invited the youth to \u2018enlist in the youth battalion of the Lord\u2019 and take part in \u2018<em>the greatest<\/em> challenge, <em>the greatest<\/em> cause, and <em>the greatest<\/em> work on earth.\u2019 And what is the greatest challenge? The gathering of Israel\u201d (Charlotte Larcabal, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2019/03/president-and-sister-nelsons-devotional-for-youth/a-call-to-enlist-and-gather-israel?lang=eng\">A Call to Enlist and Gather Israel<\/a>,\u201d <cite>New Era<\/cite>, Mar. 2019, 24).<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"152799274\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=eng#p12\">Doctrine and Covenants 123:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"152799278\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.27?lang=eng#p27\">2 Nephi 4:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=eng#p3\">Mosiah 4:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.18?lang=eng#p18\">15:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/46.12?lang=eng#p12\">Alma 46:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"152799280\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.37?lang=eng#p37\">1 Nephi 13:37<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "152799119",
+        "id": "note4",
+        "text": "<p data-aid=\"152799189\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-4?lang=eng\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 64. The full statement given by Joseph Smith on November 28, 1841, in council with the Twelve Apostles: \u201cI told the brethren that the Book of Mormon was the most correct of any book on earth, and the keystone of our religion, and a man would get nearer to God by abiding by its precepts, than by any other book.\u201d The key reference to \u201ccorrect\u201d can be attributed to revelation received in the book\u2019s translation and the doctrine taught in the Book of Mormon that establishes better than any other book the \u201cplain and precious\u201d truths of the gospel (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.40?lang=eng#p40\">1 Nephi 13:40<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-4?lang=eng",
+            "text": "Teachings of Presidents of the Church: Joseph Smith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/13.40?lang=eng#p40",
+            "text": "1 Nephi 13:40",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "152799122",
+        "id": "note5",
+        "text": "<p data-aid=\"152799196\" id=\"note5_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=eng&amp;verse=title1#title1\">The Living Christ: The Testimony of the Apostles<\/a>,\u201d a declaration by the First Presidency and Quorum of the Twelve Apostles, January 1, 2000: \u201cWe bear testimony, as His duly ordained Apostles\u2014that Jesus is the Living Christ, the immortal Son of God. He is the great King Immanuel, who stands today on the right hand of His Father. He is the light, the life, and the hope of the world. His way is the path that leads to happiness in this life and eternal life in the world to come. God be thanked for the matchless gift of His divine Son\u201d (ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-living-christ-the-testimony-of-the-apostles/the-living-christ-the-testimony-of-the-apostles?lang=eng&amp;verse=title1#title1",
+          "text": "The Living Christ: The Testimony of the Apostles",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "152799119",
+        "id": "note2",
+        "text": "<p data-aid=\"152799182\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.9?lang=eng#p9\">Mosiah 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.9?lang=eng#p9",
+          "text": "Mosiah 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "152799119",
+        "id": "note3",
+        "text": "<p data-aid=\"152799186\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53.20?lang=eng#p20\">Alma 53:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/53.20?lang=eng#p20",
+          "text": "Alma 53:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "152799122",
+        "id": "note8",
+        "text": "<p data-aid=\"152799206\" id=\"note8_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d which includes the following: \u201cWe declare that The Church of Jesus Christ of Latter-day Saints, organized on April 6, 1830, is Christ\u2019s New Testament Church restored. This Church is anchored in the perfect life of its chief cornerstone, Jesus Christ, and in His infinite Atonement and literal Resurrection. Jesus Christ has once again called Apostles and has given them priesthood authority. He invites all of us to come unto Him and His Church, to receive the Holy Ghost, the ordinances of salvation, and to gain enduring joy. \u2026 We gladly declare that the promised Restoration goes forward through continuing revelation. The earth will never again be the same, as God will \u2018gather together in one all things in Christ\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>)\u201d (ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;verse=title1#title1",
+            "text": "The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/1.10?lang=eng#p10",
+            "text": "Ephesians 1:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "152799122",
+        "id": "note9",
+        "text": "<p data-aid=\"152799209\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.16?lang=eng#p16\">2 Nephi 4:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4.16?lang=eng#p16",
+          "text": "2 Nephi 4:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "152799122",
+        "id": "note6",
+        "text": "<p data-aid=\"152799200\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49.26?lang=eng#p26\">Isaiah 49:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21.26?lang=eng#p26\">1 Nephi 21:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/22.12?lang=eng#p12\">22:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/66.1?lang=eng#p1\">Doctrine and Covenants 66:1<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/49.26?lang=eng#p26",
+            "text": "Isaiah 49:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/21.26?lang=eng#p26",
+            "text": "1 Nephi 21:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/22.12?lang=eng#p12",
+            "text": "22:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/66.1?lang=eng#p1",
+            "text": "Doctrine and Covenants 66:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "152799122",
+        "id": "note7",
+        "text": "<p data-aid=\"152799203\" id=\"note7_p1\">The word of God is found in the scriptures. For example, in the Book of Mormon, Laman and Lemuel questioned, \u201cWhat meaneth the rod of iron?\u201d referring to Lehi\u2019s dream. Nephi responded, \u201cIt was the word of God; and whoso would hearken unto the word of God, and would hold fast unto it, they would never perish; neither could the temptations and the fiery darts of the adversary overpower them unto blindness, to lead them away to destruction\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23-24?lang=eng#p23\">1 Nephi 15:23\u201324<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/15.23-24?lang=eng#p23",
+          "text": "1 Nephi 15:23\u201324",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "152799167",
+        "id": "note30",
+        "text": "<p data-aid=\"152799272\" id=\"note30_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;para=62#p62\">Hope of Israel<\/a>\u201d (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org. \u201cOn June 3, 2018, President Russell M. Nelson and his wife, Wendy W. Nelson, invited the youth to \u2018enlist in the youth battalion of the Lord\u2019 and take part in \u2018<em>the greatest<\/em> challenge, <em>the greatest<\/em> cause, and <em>the greatest<\/em> work on earth.\u2019 And what is the greatest challenge? The gathering of Israel\u201d (Charlotte Larcabal, \u201c<a class=\"cross-ref\" href=\"/study/new-era/2019/03/president-and-sister-nelsons-devotional-for-youth/a-call-to-enlist-and-gather-israel?lang=eng\">A Call to Enlist and Gather Israel<\/a>,\u201d <cite>New Era<\/cite>, Mar. 2019, 24).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;para=62#p62",
+            "text": "Hope of Israel",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/new-era/2019/03/president-and-sister-nelsons-devotional-for-youth/a-call-to-enlist-and-gather-israel?lang=eng",
+            "text": "A Call to Enlist and Gather Israel",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "152799130",
+        "id": "note16",
+        "text": "<p data-aid=\"152799229\" id=\"note16_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2017, 60.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng",
+          "text": "The Book of Mormon: What Would Your Life Be Like without It?",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "152799130",
+        "id": "note15",
+        "text": "<p data-aid=\"152799226\" id=\"note15_p1\">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&amp;para=10#p10\">5.1.1.1<\/a>: \u201cIn our day, the Lord calls men through the President of the Church to be ordained as Apostles and to serve in the Quorum of the Twelve Apostles (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.26-28?lang=eng#p26\">Doctrine and Covenants 18:26\u201328<\/a>)\u201d (ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/general-handbook/5-general-and-area-leadership?lang=eng&amp;para=10#p10",
+            "text": "5.1.1.1",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/18.26-28?lang=eng#p26",
+            "text": "Doctrine and Covenants 18:26\u201328",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "152799130",
+        "id": "note14",
+        "text": "<p data-aid=\"152799223\" id=\"note14_p1\">President Russell M. Nelson, an internationally known heart surgeon before his call to the Quorum of the Twelve Apostles in 1984, gave a lecture at a medical school in Accra, Ghana, in 1986 on the history of heart surgery. Interviewed later by the media, he explained he was there \u201cas a servant of the Lord to help [the people] become better citizens, to build strong families, to gain true happiness and prosper in the land.\u201d He returned to Accra, Ghana, on November 16, 2001, for the groundbreaking of the Accra Ghana Temple (see \u201cGround Broken for First Temple in West Africa,\u201d <cite>Church News<\/cite>, Nov. 24, 2001, thechurchnews.com).<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "152799127",
+        "id": "note13",
+        "text": "<p data-aid=\"152799220\" id=\"note13_p1\">Being a disciple of Jesus Christ is an expression of our love for Him. Disciples have been baptized; they take upon themselves the name of Jesus Christ; they strive to follow Him by embracing His attributes as described by the Apostle Peter: \u201cGiving all diligence, add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1.5-7?lang=eng#p5\">2 Peter 1:5\u20137<\/a>; see also <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng\">Preach My Gospel: A Guide to Missionary Service<\/a><\/cite> [2019], 121\u201332).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-pet/1.5-7?lang=eng#p5",
+            "text": "2 Peter 1:5\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng",
+            "text": "Preach My Gospel: A Guide to Missionary Service",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "152799127",
+        "id": "note12",
+        "text": "<p data-aid=\"152799217\" id=\"note12_p1\">\u201cAnother Testament of Jesus Christ\u201d was added as a subtitle to all editions of the Book of Mormon. Church leaders made the name change to further emphasize the purpose of the book as stated on the <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">title page<\/a>: \u201cAnd also to the convincing of the Jew and Gentile that Jesus is the Christ, the Eternal God, manifesting himself unto all nations.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/bofm-title?lang=eng",
+          "text": "title page",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "152799126",
+        "id": "note11",
+        "text": "<p data-aid=\"152799215\" id=\"note11_p1\">Third reading, yellow: geology or geography; fourth reading, black: storyline of the Book of Mormon.<\/p>"
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "152799167",
+        "id": "note33",
+        "text": "<p data-aid=\"152799280\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.37?lang=eng#p37\">1 Nephi 13:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/13.37?lang=eng#p37",
+          "text": "1 Nephi 13:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "152799126",
+        "id": "note10",
+        "text": "<p data-aid=\"152799212\" id=\"note10_p1\">See Quentin L. Cook, \u201c<a href=\"https://speeches.byu.edu/talks/quentin-l-cook/be-not-weary-in-well-doing/\">Be Not Weary in Well-Doing<\/a>\u201d (Brigham Young University devotional, Aug. 24, 2020), speeches.byu.edu; Eliza Smith-Driggs, \u201cThis Week on Social: How to Develop a Love for the Lord, Yourself and Others,\u201d <cite>Church News<\/cite>, July 17, 2020, thechurchnews.com.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/quentin-l-cook/be-not-weary-in-well-doing/",
+          "text": "Be Not Weary in Well-Doing"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "152799167",
+        "id": "note32",
+        "text": "<p data-aid=\"152799278\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.27?lang=eng#p27\">2 Nephi 4:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=eng#p3\">Mosiah 4:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.18?lang=eng#p18\">15:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/46.12?lang=eng#p12\">Alma 46:12<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/4.27?lang=eng#p27",
+            "text": "2 Nephi 4:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4.3?lang=eng#p3",
+            "text": "Mosiah 4:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/15.18?lang=eng#p18",
+            "text": "15:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/46.12?lang=eng#p12",
+            "text": "Alma 46:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "152799167",
+        "id": "note31",
+        "text": "<p data-aid=\"152799274\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=eng#p12\">Doctrine and Covenants 123:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/123.12?lang=eng#p12",
+          "text": "Doctrine and Covenants 123:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "152799138",
+        "id": "note19",
+        "text": "<p data-aid=\"152799239\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=38#p38\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d 62.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=38#p38",
+          "text": "The Book of Mormon: What Would Your Life Be Like without It?",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "152799134",
+        "id": "note18",
+        "text": "<p data-aid=\"152799236\" id=\"note18_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=15#p15\">The Book of Mormon: What Would Your Life Be Like without It?<\/a>,\u201d 61.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=eng&amp;para=15#p15",
+          "text": "The Book of Mormon: What Would Your Life Be Like without It?",
+          "type": "cross-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "152799132",
+        "id": "note17",
+        "text": "<p data-aid=\"152799232\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.10-11?lang=eng#p10\">3 Nephi 11:10\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11.10-11?lang=eng#p10",
+          "text": "3 Nephi 11:10\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "152799155",
+        "id": "note27",
+        "text": "<p data-aid=\"152799265\" id=\"note27_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-4?lang=eng\">Teachings: Joseph Smith<\/a><\/cite>, 64. A keystone is a wedge-shaped piece of masonry that sits at the crown of an arch, holding the other pieces in place. The Prophet Joseph described the Book of Mormon as \u201cthe keystone of our religion\u201d because of its importance in uniting the Church through principles and ordinances. The Book of Mormon serves as a \u201ckeystone\u201d for the lives of members, helping them stay firmly on the covenant path.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-4?lang=eng",
+          "text": "Teachings: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "152799155",
+        "id": "note26",
+        "text": "<p data-aid=\"152799263\" id=\"note26_p1\">Elder Rasband met with His All Holiness Ecumenical Patriarch Bartholomew of the Eastern Orthodox Church while on assignment to the Interfaith Forum in Bologna, Italy, on September 13, 2021.<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "152799155",
+        "id": "note25",
+        "text": "<p data-aid=\"152799260\" id=\"note25_p1\">Elder Rasband met with Ambassador Indra Mani Pandey, Permanent Representative of India to the United Nations and Other International Organizations in Geneva, while on assignment to the Interfaith Forum in Bologna, Italy, on September 17, 2021.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "152799152",
+        "id": "note24",
+        "text": "<p data-aid=\"152799258\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.23?lang=eng#p23\">Doctrine and Covenants 1:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.23?lang=eng#p23",
+          "text": "Doctrine and Covenants 1:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "152799152",
+        "id": "note23",
+        "text": "<p data-aid=\"152799254\" id=\"note23_p1\">Elder and Sister Rasband met with the royal family on February 10, 2020, when on assignment in Africa to dedicate the Durban South Africa Temple.<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "152799148",
+        "id": "note22",
+        "text": "<p data-aid=\"152799251\" id=\"note22_p1\">Examples of the hope and promises found in the Book of Mormon include <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.4-6?lang=eng#p4\">Jacob 4:4\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.28-29?lang=eng#p28\">Alma 13:28\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22.16?lang=eng#p16\">22:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.41?lang=eng#p41\">34:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.32?lang=eng#p32\">Ether 12:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.41?lang=eng#p41\">Moroni 7:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/8.26?lang=eng#p26\">8:26<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+            "text": "2 Nephi 31:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/jacob/4.4-6?lang=eng#p4",
+            "text": "Jacob 4:4\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/13.28-29?lang=eng#p28",
+            "text": "Alma 13:28\u201329",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/22.16?lang=eng#p16",
+            "text": "22:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34.41?lang=eng#p41",
+            "text": "34:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12.32?lang=eng#p32",
+            "text": "Ether 12:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.41?lang=eng#p41",
+            "text": "Moroni 7:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/8.26?lang=eng#p26",
+            "text": "8:26",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "152799148",
+        "id": "note21",
+        "text": "<p data-aid=\"152799246\" id=\"note21_p1\">The Beira Mozambique Temple was announced on April 4, 2021, by President Russell M. Nelson. More than half a million people live in Beira, which lies on the coast of the Indian Ocean.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "152799142",
+        "id": "note20",
+        "text": "<p data-aid=\"152799242\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7.62?lang=eng#p62\">Moses 7:62<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/7.62?lang=eng#p62",
+          "text": "Moses 7:62",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "152799119",
+        "id": "note1",
+        "text": "<p data-aid=\"152799180\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/2.2-3?lang=eng#p2\">Jacob 2:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.14,30?lang=eng#p14\">Mosiah 2:14, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">5:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.15?lang=eng#p15\">Alma 7:15<\/a>; and many other verses in the Book of Mormon.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/jacob/2.2-3?lang=eng#p2",
+            "text": "Jacob 2:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/2.14,30?lang=eng#p14",
+            "text": "Mosiah 2:14, 30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.7?lang=eng#p7",
+            "text": "5:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/7.15?lang=eng#p15",
+            "text": "Alma 7:15",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "152799161",
+        "id": "note29",
+        "text": "<p data-aid=\"152799270\" id=\"note29_p1\">You can share it from your mobile phone. One way is by opening the Gospel Library app, going to the \u201cScriptures\u201d collection, and then tapping \u201cShare Now\u201d at the top. Or from within the Book of Mormon app, you can tap the \u201cShare\u201d icon, which displays a digital code that a friend can easily scan using his or her phone.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "152799155",
+        "id": "note28",
+        "text": "<p data-aid=\"152799266\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2.19-20?lang=eng#p19\">Ephesians 2:19\u201320<\/a>. Jesus Christ is the chief cornerstone of our Church, which bears His name. Just as the laying of a cornerstone at the temple is symbolic of the main stone forming the corner of the foundation of God\u2019s house, Jesus Christ is the cornerstone of our faith and our salvation. He gave His life that we might live; there is none equal to Him in strength, in purpose, or in love.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/2.19-20?lang=eng#p19",
+          "text": "Ephesians 2:19\u201320",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

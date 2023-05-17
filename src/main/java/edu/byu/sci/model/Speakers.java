@@ -3,8 +3,10 @@ package edu.byu.sci.model;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.Collator;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Locale;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -13,6 +15,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import edu.byu.sci.database.Database;
 import edu.byu.sci.util.FileUtils;
 import edu.byu.sci.util.StringUtils;
 
@@ -28,14 +31,24 @@ public class Speakers {
     private static final String SPEAKERS_FILE = "speakers.json";
     private static final String[] SUFFIXES = {"Jr.", "Sr.", "I", "II", "III", "IV", "V"};
 
+    private static final Collator collator = Collator.getInstance(Locale.US);
     private final Logger logger = Logger.getLogger(Speakers.class.getName());
     private final JSONArray speakerRecords;
     private Map<Integer, JSONObject> speakersById = new HashMap<>();
     private Map<String, JSONObject> speakersByAbbr = new HashMap<>();
     private int maxSpeakerId = 0;
 
-    public Speakers() {
-        speakerRecords = new JSONArray(FileUtils.stringFromFile(new File(SPEAKERS_FILE)));
+    public Speakers(Database database) {
+        collator.setStrength(Collator.PRIMARY);
+
+        File speakerFile = new File(SPEAKERS_FILE);
+
+        if (!speakerFile.exists()) {
+            speakerRecords = database.speakersFromDatabase();
+            FileUtils.writeStringToFile(speakerRecords.toString(4), speakerFile);
+        } else {
+            speakerRecords = new JSONArray(FileUtils.stringFromFile(new File(SPEAKERS_FILE)));
+        }
 
         speakerRecords.forEach(item -> {
             JSONObject speaker = (JSONObject) item;
@@ -139,9 +152,9 @@ public class Speakers {
             String name1 = name1Parts[i].replace(".", "");
             String name2 = name2Parts[i].replace(".", "");
 
-            if (!name1.equalsIgnoreCase(name2)) {
+            if (collator.compare(name1, name2) != 0) {
                 if ((name1.length() > 1 && name2.length() == 1) || (name2.length() > 1 && name1.length() == 1)) {
-                    if (!name1.substring(0, 1).equalsIgnoreCase(name2.substring(0, 1))) {
+                    if (collator.compare(name1.substring(0, 1), name2.substring(0, 1)) != 0) {
                         couldMatch = false;
                     }
                 } else {
@@ -178,7 +191,7 @@ public class Speakers {
         for (Iterator<Object> it = speakerRecords.iterator(); it.hasNext();) {
             JSONObject speaker = (JSONObject) it.next();
 
-            if (speakerFullName(speaker).equalsIgnoreCase(name)) {
+            if (collator.compare(speakerFullName(speaker), name) == 0) {
                 return speaker;
             }
         }
