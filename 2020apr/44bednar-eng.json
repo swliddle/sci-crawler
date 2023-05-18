@@ -1,27 +1,30 @@
 {
   "tableOfContentsUri": "/ensign/2020/05",
   "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2020/04/44bednar?lang=eng",
     "pageAttributes": {
+      "data-asset-id": "b0d21ff3cbb943eaaf7331e1462b8a8b",
       "data-content-type": "general-conference-talk",
       "itemscope": "",
       "itemtype": "http://schema.org/Article",
-      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
       "data-uri": "/ensign/2020/05/44bednar",
       "data-aid": "143140184",
       "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "lang": "eng",
-      "data-assetid": "b0d21ff3cbb943eaaf7331e1462b8a8b",
-      "data-aid-version": "1",
+      "data-aid-version": "9",
       "data-orig-id": "b0d21ff3cbb943eaaf7331e1462b8a8b"
     },
-    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147266546001",
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/62/33/6233906a8aa70cc099f1dfe65b599879806ca81c/6233906a8aa70cc099f1dfe65b599879806ca81c.jpeg",
     "audio": [{
-      "voice": {"name": "audio"},
-      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4040-david-a-bednar-64k-eng.mp3"
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4040-david-a-bednar-64k-eng.mp3",
+      "variant": "audio"
     }],
     "title": "\u201cLet This House Be Built unto My Name\u201d",
-    "contentType": "text/html"
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2020-04-05T00:00:00.000Z\"}"
   },
+  "verified": true,
   "pids": [
     [
       "143140184",
@@ -362,38 +365,36 @@
       "links": [{
         "orig-type": "text/css",
         "rel": "stylesheet",
-        "href": "css/style_global-template-mobile_article.css",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
         "type": "array"
       }],
       "scripts": [],
       "page-meta-social": {
         "pageMeta": {
-          "description": "\u201cLet This House Be Built unto My Name\u201d",
+          "description": "Elder Bednar teaches that temple ordinances and covenants change our hearts and bless families on both sides of the veil.",
           "title": "\u201cLet This House Be Built unto My Name\u201d"
         },
         "pageSocial": {
-          "description": "\u201cLet This House Be Built unto My Name\u201d",
+          "description": "Elder Bednar teaches that temple ordinances and covenants change our hearts and bless families on both sides of the veil.",
           "title": "\u201cLet This House Be Built unto My Name\u201d"
         }
       }
     },
-    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/44bednar?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147266546001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147266546001\" data-video-id=\"6147266546001\" data-video-title=\"David A. Bednar\" data-ref-id=\"1C3A0F8849C85F0829A3CA4BCA2060CDB383C85D\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147266546001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147266546001/640/360/996000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"121778750\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147266546001/1280/720/2126000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"259671589\"><\/video><h1 data-aid=\"143140186\" id=\"title1\">&#x201C;Let This House Be Built unto My Name&#x201D;<\/h1>\n<p class=\"subtitle\" data-aid=\"143140188\" id=\"subtitle1\">(<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.40?lang=eng#p40\">Doctrine and Covenants 124:40<\/a>)<\/p>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143140190\" id=\"author1\">By Elder David&#xA0;A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"143140192\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143140193\" id=\"kicker1\">The covenants received and the ordinances performed in temples are essential to the sanctifying of our hearts and for the ultimate exaltation of God&#x2019;s sons and daughters.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143140195\" id=\"p1\">In the Sacred Grove 200 years ago, young Joseph Smith saw and talked with God, the Eternal Father, and His Son, Jesus Christ. From Them, Joseph learned about the true nature of the Godhead and of ongoing revelation as this supernal vision ushered in the latter-day &#x201C;dispensation of the fulness of times.&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"143140197\" id=\"p2\">Approximately three years later, in response to earnest prayer on the evening of September&#xA0;21, 1823, Joseph&#x2019;s bedroom filled with light until it was &#x201C;lighter than at noonday.&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> A personage appeared at his bedside, called the young boy by name, and declared &#x201C;he was a messenger sent from the presence of God &#x2026; and that his name was Moroni.&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> He instructed Joseph about the coming forth of the Book of Mormon.<\/p>\n<p data-aid=\"143140199\" id=\"p3\">And then Moroni quoted from the book of Malachi in the Old Testament, with a little variation in the language used in the King James Version:<\/p>\n<p data-aid=\"143140201\" id=\"p40\">&#x201C;Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.&#xA0;&#x2026;<\/p>\n<p data-aid=\"143140205\" id=\"p41\">&#x201C;And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"143140206\" id=\"p4\">Importantly, Moroni&#x2019;s instruction to Joseph Smith about Elijah&#x2019;s mission initiated temple and family history work in the latter days and was a key element in restoring &#x201C;all things, which God hath spoken by the mouth of all his holy prophets since the world began.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"143140209\" id=\"p5\">I pray for the assistance of the Holy Ghost as we learn together about the covenants, ordinances, and blessings that are available to us in the temples of The Church of Jesus Christ of Latter-day Saints.<\/p>\n<section>\n<header>\n<h2 data-aid=\"143140212\" id=\"title2\">The Return of Elijah<\/h2>\n<\/header>\n<p data-aid=\"143140215\" id=\"p6\">I begin by asking a fundamental question: why was the return of Elijah important?<\/p>\n<p data-aid=\"143140219\" id=\"p7\">&#x201C;We learn from latter-day revelation that Elijah held the sealing power of the Melchizedek Priesthood&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> and &#x201C;was the last prophet to do so before the time of Jesus Christ.&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"143140222\" id=\"p8\">The Prophet Joseph Smith explained: &#x201C;The spirit, power, and calling of Elijah is, that ye have power to hold the key of the&#xA0;&#x2026; <em>fullness of the Melchizedek Priesthood&#xA0;&#x2026;&#xA0;;<\/em> and to&#xA0;&#x2026; obtain&#xA0;&#x2026; all the ordinances belonging to the kingdom of God, even unto the turning of the hearts of the fathers unto the children, and the hearts of the children unto the fathers, even those who are in heaven.&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"143140226\" id=\"p9\">This sacred sealing authority is necessary so that &#x201C;whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"143140228\" id=\"p10\">Joseph further clarified: &#x201C;How shall God come to the rescue of this generation? He will send Elijah the prophet.&#xA0;&#x2026; Elijah shall reveal the covenants to seal the hearts of the fathers to the children, and the children to the fathers.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143140229\" id=\"p11\">Elijah appeared with Moses on the Mount of Transfiguration and conferred this authority upon Peter, James, and John.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Elijah also appeared with Moses and Elias on April&#xA0;3, 1836, in the Kirtland Temple and conferred the same priesthood keys upon Joseph Smith and Oliver Cowdery.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"143140231\" id=\"p12\">The restoration of the sealing authority by Elijah in 1836 was necessary to prepare the world for the Savior&#x2019;s Second Coming and initiated a greatly increased and worldwide interest in family history research.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140232\" id=\"title3\">Changing, Turning, and Purifying Hearts<\/h2>\n<\/header>\n<p data-aid=\"143140233\" id=\"p13\">The word <em>heart<\/em> is used over 1,000 times in the standard works. This simple but significant word often denotes the inner feelings of an individual. Our hearts&#xFEFF;&#x2014;the sum total of our desires, affections, intentions, motives, and attitudes&#xFEFF;&#x2014;define who we are and determine what we will become. And the essence of the Lord&#x2019;s work is changing, turning, and purifying hearts through gospel covenants and priesthood ordinances.<\/p>\n<p data-aid=\"143140234\" id=\"p14\">We do not build or enter holy temples solely to have a memorable individual or family experience. Rather, the covenants received and the ordinances performed in temples are essential to the sanctifying of our hearts and for the ultimate exaltation of God&#x2019;s sons and daughters.<\/p>\n<p data-aid=\"143140236\" id=\"p15\">Planting in the hearts of the children the promises made to the fathers&#xFEFF;&#x2014;even Abraham, Isaac, and Jacob&#xFEFF;&#x2014;turning the hearts of the children to their own fathers, conducting family history research, and performing vicarious temple ordinances are labors that bless individuals on both sides of the veil. As we become anxiously engaged in this sacred work, we are obeying the commandments to love and serve God and our neighbors.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> And such selfless service helps us truly to &#x201C;Hear Him!&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> and come unto the Savior.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"143140237\" id=\"p16\">The most sacred covenants and priesthood ordinances are received only in a temple&#xFEFF;&#x2014;the house of the Lord. Everything that is learned and all that is done in the temple emphasize the divinity of Jesus Christ and His role in Heavenly Father&#x2019;s great plan of happiness.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140238\" id=\"title4\">From the Inside Out<\/h2>\n<\/header>\n<p data-aid=\"143140239\" id=\"p17\">President Ezra Taft Benson described an important pattern the Redeemer employs in bringing &#x201C;to pass the immortality and eternal life of man.&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> He said: &#x201C;The Lord works from the inside out. The world works from the outside in. The world would take people out of the slums. Christ takes the slums out of people, and then they take themselves out of the slums. The world would mold men by changing their environment. Christ changes men, who then change their environment. The world would shape human behavior, but Christ can change human nature.&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"143140240\" id=\"p18\">Covenants and priesthood ordinances are central in the ongoing process of spiritual rebirth and transformation; they are the means whereby the Lord works with each of us <em>from the inside out.<\/em> Covenants that are honored steadfastly, remembered always, and written &#x201C;with the Spirit of the living God&#xA0;&#x2026; in fleshy tables of the heart&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> provide purpose and the assurance of blessings in mortality and for eternity. Ordinances that are received worthily and remembered continually open the heavenly channels through which the power of godliness can flow into our lives.<\/p>\n<p data-aid=\"143140241\" id=\"p19\">We do not come to the temple to hide from or escape the evils of the world. Rather, we come to the temple to conquer the world of evil. As we invite into our lives the &#x201C;power of godliness&#x201D;<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> by receiving priesthood ordinances and making and keeping sacred covenants, we are blessed with strength beyond our own<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> to overcome the temptations and challenges of mortality and to do and become good.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140242\" id=\"title5\">The Fame of This House Shall Spread<\/h2>\n<\/header>\n<p data-aid=\"143140243\" id=\"p20\">The first temple of this dispensation was constructed in Kirtland, Ohio, and dedicated on March&#xA0;27, 1836.<\/p>\n<p data-aid=\"143140244\" id=\"p21\">In a revelation to the Prophet Joseph Smith one week after the dedication, the Lord declared:<\/p>\n<p data-aid=\"143140245\" id=\"p22\">&#x201C;Let the hearts of all my people rejoice, who have, with their might, built this house to my name.&#xA0;&#x2026;<\/p>\n<p data-aid=\"143140246\" id=\"p23\">&#x201C;Yea the hearts of thousands and tens of thousands shall greatly rejoice in consequence of the blessings which shall be poured out, and the endowment with which my servants have been endowed in this house.<\/p>\n<p data-aid=\"143140247\" id=\"p24\">&#x201C;And the fame of this house shall spread to foreign lands; and this is the beginning of the blessing which shall be poured out upon the heads of my people.&#x201D;<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"143140248\" id=\"p25\">Please note the phrases <em>the hearts of thousands and tens of thousands shall greatly rejoice<\/em> and <em>the fame of this house shall spread to foreign lands.<\/em> These were stunning declarations in April of 1836, when the Church had only a relative handful of members and one temple.<\/p>\n<p data-aid=\"143140249\" id=\"p26\">Today in 2020, we have 168 operating temples. Forty-nine additional temples are under construction or have been announced. Houses of the Lord are being constructed on the &#x201C;isles of the sea&#x201D;<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> and in countries and locations previously considered by many unlikely to warrant a temple.<\/p>\n<p data-aid=\"143140251\" id=\"p27\">The endowment ceremony currently is presented in 88 languages and will become available in many additional languages as temples are built to bless more of God&#x2019;s children. In the next 15 years, the number of languages in which temple ordinances will be available likely will double.<\/p>\n<p data-aid=\"143140253\" id=\"p28\">This year we will break ground and start construction on 18 temples. In contrast, it took 150 years to build the first 18 temples, from the organization of the Church in 1830 to the dedication of the Tokyo Japan Temple by President Spencer&#xA0;W. Kimball in 1980.<\/p>\n<img alt=\"Six temples\" id=\"img1\" src=\"https://assets.ldscdn.org/da/bd/dabd7768e5a75b2c37c64822577a600c50b9a8d4/map_united_states_temples_1924.png\" data-img-id=\"2349990\" srcset=\"https://assets.ldscdn.org/3e/37/3e372bd1261ced2b22fbfe0e008577d182e387f6/map_united_states_temples_1924.png 60w,https://assets.ldscdn.org/80/29/8029fb0c91773052e1b6139ee143d8cdf796948c/map_united_states_temples_1924.png 100w,https://assets.ldscdn.org/54/8b/548b01c1cd929fb5002d4e6a865531c40de2489e/map_united_states_temples_1924.png 200w,https://assets.ldscdn.org/78/42/7842636116c06c826d1282beaf0a707766484dd1/map_united_states_temples_1924.png 250w,https://assets.ldscdn.org/a8/8f/a88fe37e2276557d21f3045bc8d0478d02fa90cd/map_united_states_temples_1924.png 320w,https://assets.ldscdn.org/da/bd/dabd7768e5a75b2c37c64822577a600c50b9a8d4/map_united_states_temples_1924.png 500w,https://assets.ldscdn.org/fc/e4/fce47dc619dffeaca9d1da44a18d401414cffced/map_united_states_temples_1924.png 640w\" data-assetid=\"2c91a0eda29cb7c585b729d57e9c48ae4ca4ca6f\" data-missing-asset=\"false\">\n<p data-aid=\"143140256\" id=\"p29\">Consider the hastening of temple work that has occurred just during the lifetime of President Russell&#xA0;M. Nelson. When President Nelson was born on September&#xA0;9, 1924, the Church had six operating temples.<\/p>\n<img alt=\"26 temples\" id=\"img2\" src=\"https://assets.ldscdn.org/99/0d/990de26545a0a14db03b3b064dbbb8a4675be77d/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350390\" srcset=\"https://assets.ldscdn.org/6d/6c/6d6ce47fa1f763e5271a78cc36de15d9fec3f5e0/temple_sequence_bednar_april_2020.png 60w,https://assets.ldscdn.org/d4/4d/d44d6397c3f7ace3231446b348333d3ee8d93492/temple_sequence_bednar_april_2020.png 100w,https://assets.ldscdn.org/63/42/6342b6fab22860d994e62faa5009c6367d5bdd8c/temple_sequence_bednar_april_2020.png 200w,https://assets.ldscdn.org/1b/0c/1b0cf8dccbfd7ade4f78e233fe0ed8071395826f/temple_sequence_bednar_april_2020.png 250w,https://assets.ldscdn.org/91/4a/914a42525adec7e0a9b73e6dee4cb59e8e3e7d37/temple_sequence_bednar_april_2020.png 320w,https://assets.ldscdn.org/99/0d/990de26545a0a14db03b3b064dbbb8a4675be77d/temple_sequence_bednar_april_2020.png 500w,https://assets.ldscdn.org/6c/ec/6cec6a904835d0196221d26bc6d0c5153a358637/temple_sequence_bednar_april_2020.png 640w\" data-assetid=\"fffb2831f6ca17b9687d8334e8aa55d8950c7196\" data-missing-asset=\"false\">\n<p data-aid=\"143140258\" id=\"p30\">When he was ordained an Apostle on April&#xA0;7, 1984, 60 years later, 26 temples were operating, an increase of 20 temples in 60 years.<\/p>\n<img alt=\"159 temples\" id=\"img3\" src=\"https://assets.ldscdn.org/c2/9f/c29fa8286059367f172efb40c7cd707a4d1cb864/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350391\" srcset=\"https://assets.ldscdn.org/8f/e6/8fe6da9d47ef055fbe7e133024af7e3f642f1143/temple_sequence_bednar_april_2020.png 60w,https://assets.ldscdn.org/81/2a/812a9256fd3811fd35edd789ea0172703904921a/temple_sequence_bednar_april_2020.png 100w,https://assets.ldscdn.org/ba/5a/ba5a63e8c056a81379b0b1860df864824dd29ff1/temple_sequence_bednar_april_2020.png 200w,https://assets.ldscdn.org/a1/4b/a14b27de500149d676c6fe75a9d96f60a99d14d2/temple_sequence_bednar_april_2020.png 250w,https://assets.ldscdn.org/27/c5/27c540fc9b91a9e59d2def2654330a23ff745b26/temple_sequence_bednar_april_2020.png 320w,https://assets.ldscdn.org/c2/9f/c29fa8286059367f172efb40c7cd707a4d1cb864/temple_sequence_bednar_april_2020.png 500w,https://assets.ldscdn.org/73/e6/73e60e9234f70fdc81f86c434f18a9c345c04daa/temple_sequence_bednar_april_2020.png 640w\" data-assetid=\"0ef184eda63fec1381233918917d8207ba4e44b8\" data-missing-asset=\"false\">\n<p data-aid=\"143140260\" id=\"p31\">When President Nelson was sustained as President of the Church, 159 temples were operating, an increase of 133 temples in the 34 years during which he served as a member of the Quorum of the Twelve.<\/p>\n<img alt=\"Operating and announced temples\" id=\"img4\" src=\"https://assets.ldscdn.org/e5/87/e5874683aabcafd47baa213d6932dd37185931f1/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350392\" srcset=\"https://assets.ldscdn.org/62/16/621695abe647df14fefdfc8b15774b80a54ca425/temple_sequence_bednar_april_2020.png 60w,https://assets.ldscdn.org/db/bd/dbbd72e41888a0f40ad5ca31800c87876ce9904a/temple_sequence_bednar_april_2020.png 100w,https://assets.ldscdn.org/75/fa/75fa5fba4b1e8abc1114a114b2b3e6287dbfbcf1/temple_sequence_bednar_april_2020.png 200w,https://assets.ldscdn.org/56/27/5627734e3df55c25f9c6a472c17fc190feddc7f3/temple_sequence_bednar_april_2020.png 250w,https://assets.ldscdn.org/8f/e5/8fe57a2614fe6492d5623def5c6c46483cefc634/temple_sequence_bednar_april_2020.png 320w,https://assets.ldscdn.org/e5/87/e5874683aabcafd47baa213d6932dd37185931f1/temple_sequence_bednar_april_2020.png 500w,https://assets.ldscdn.org/90/3f/903ff4559751e7862de449dd9f19b6c304a35b12/temple_sequence_bednar_april_2020.png 640w\" data-assetid=\"e1b9c78230f86615d2336af901663adcc0fa4152\" data-missing-asset=\"false\">\n<p data-aid=\"143140262\" id=\"p32\">Since becoming the President of the Church on January&#xA0;14, 2018, President Nelson has announced 35 new temples.<\/p>\n<p data-aid=\"143140264\" id=\"p33\">Ninety-six percent of the existing temples have been dedicated during President Nelson&#x2019;s lifetime; 84 percent have been dedicated since he was ordained an Apostle.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140266\" id=\"title6\">Always Focus on the Things That Matter Most<\/h2>\n<\/header>\n<p data-aid=\"143140268\" id=\"p34\">As members of the Lord&#x2019;s restored Church, we stand all amazed at the ever-accelerating pace of His work in the latter days. And more temples are coming.<\/p>\n<p data-aid=\"143140270\" id=\"p35\">Brigham Young prophesied, &#x201C;To accomplish this work there will have to be not only one temple but thousands of them, and thousands and tens of thousands of men and women will go into those temples and officiate for people who have lived as far back as the Lord shall reveal.&#x201D;<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"143140272\" id=\"p36\">Understandably, the announcement of each new temple is a source of great joy and a reason to give thanks to the Lord. However, our primary focus should be on the covenants and ordinances that can change our hearts and deepen our devotion to the Savior and not simply on the location or beauty of the building.<\/p>\n<p data-aid=\"143140275\" id=\"p37\">The fundamental obligations that rest upon us as members of the Lord&#x2019;s restored Church are (1)&#xA0;to &#x201C;Hear Him!&#x201D;<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> and have our own hearts changed through covenants and ordinances and (2)&#xA0;to fulfill joyfully the divinely appointed responsibility to offer temple blessings to the entire human family on both sides of the veil. With the Lord&#x2019;s direction and help, indeed we will fulfill these sacred duties.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140277\" id=\"title7\">The Building Up of Zion<\/h2>\n<\/header>\n<p data-aid=\"143140278\" id=\"p38\">The Prophet Joseph Smith declared:<\/p>\n<p data-aid=\"143140279\" id=\"p42\">&#x201C;The building up of Zion is a cause that has interested the people of God in every age; it is a theme upon which prophets, priests and kings have dwelt with peculiar delight; they have looked forward with joyful anticipation to the day in which we live; and fired with heavenly and joyful anticipations they have sung and written and prophesied of this our day; but they died without the sight;&#xA0;&#x2026; it is left for us to see, participate in and help to roll forward the Latter-day glory.&#x201D;<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"143140280\" id=\"p43\">&#x201C;The heavenly Priesthood will unite with the earthly, to bring about those great purposes;&#xA0;&#x2026; a work that God and angels have contemplated with delight for generations past; that fired the souls of the ancient patriarchs and prophets; a work that is destined to bring about the destruction of the powers of darkness, the renovation of the earth, the glory of God, and the salvation of the human family.&#x201D;<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"143140281\" id=\"p39\">I solemnly testify that the Father and the Son appeared to Joseph Smith, and Elijah restored the sealing authority. Sacred temple covenants and ordinances can strengthen us and purify our hearts as we &#x201C;Hear Him!&#x201D;<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> and receive the power of godliness in our lives. And I witness that this latter-day work will destroy the powers of darkness and bring about the salvation of the human family. Of these truths I joyfully testify in the sacred name of the Lord Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>",
+    "body": "<header>\n<span class=\"page-break\" data-page=\"84\"><\/span>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/62/33/6233906a8aa70cc099f1dfe65b599879806ca81c/6233906a8aa70cc099f1dfe65b599879806ca81c.jpeg\" data-video-title=\"\u201cLet This House Be Built unto My Name\u201d\" data-video-description=\"Elder Bednar teaches that temple ordinances and covenants change our hearts and bless families on both sides of the veil.\" data-video-id=\"6147266546001\" data-ip=\"Download and Streaming                            \" data-duration=\"975\" data-assetId=\"1C3A0F8849C85F0829A3CA4BCA2060CDB383C85D\" data-ref-id=\"1C3A0F8849C85F0829A3CA4BCA2060CDB383C85D\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147266546001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"505639560\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4040-david-a-bednar-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"89560163\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4040-david-a-bednar-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"236607224\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-4040-david-a-bednar-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"505639560\"/><\/video><h1 data-aid=\"143140186\" id=\"title1\">\u201cLet This House Be Built unto My Name\u201d<\/h1>\n<p class=\"subtitle\" data-aid=\"143140188\" id=\"subtitle1\">(<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.40?lang=eng#p40\">Doctrine and Covenants 124:40<\/a>)<\/p>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143140190\" id=\"author1\">By Elder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"143140192\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143140193\" id=\"kicker1\">The covenants received and the ordinances performed in temples are essential to the sanctifying of our hearts and for the ultimate exaltation of God\u2019s sons and daughters.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143140195\" id=\"p1\">In the Sacred Grove 200 years ago, young Joseph Smith saw and talked with God, the Eternal Father, and His Son, Jesus Christ. From Them, Joseph learned about the true nature of the Godhead and of ongoing revelation as this supernal vision ushered in the latter-day \u201cdispensation of the fulness of times.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"143140197\" id=\"p2\">Approximately three years later, in response to earnest prayer on the evening of September 21, 1823, Joseph\u2019s bedroom filled with light until it was \u201clighter than at noonday.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> A personage appeared at his bedside, called the young boy by name, and declared \u201che was a messenger sent from the presence of God \u2026 and that his name was Moroni.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> He instructed Joseph about the coming forth of the Book of Mormon.<\/p>\n<p data-aid=\"143140199\" id=\"p3\">And then Moroni quoted from the book of Malachi in the Old Testament, with a little variation in the language used in the King James Version:<\/p>\n<p data-aid=\"143140201\" id=\"p40\">\u201cBehold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord. \u2026<\/p>\n<p data-aid=\"143140205\" id=\"p41\">\u201cAnd he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children <span class=\"page-break\" data-page=\"85\"><\/span>shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"143140206\" id=\"p4\">Importantly, Moroni\u2019s instruction to Joseph Smith about Elijah\u2019s mission initiated temple and family history work in the latter days and was a key element in restoring \u201call things, which God hath spoken by the mouth of all his holy prophets since the world began.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"143140209\" id=\"p5\">I pray for the assistance of the Holy Ghost as we learn together about the covenants, ordinances, and blessings that are available to us in the temples of The Church of Jesus Christ of Latter-day Saints.<\/p>\n<section>\n<header>\n<h2 data-aid=\"143140212\" id=\"title2\">The Return of Elijah<\/h2>\n<\/header>\n<p data-aid=\"143140215\" id=\"p6\">I begin by asking a fundamental question: why was the return of Elijah important?<\/p>\n<p data-aid=\"143140219\" id=\"p7\">\u201cWe learn from latter-day revelation that Elijah held the sealing power of the Melchizedek Priesthood\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> and \u201cwas the last prophet to do so before the time of Jesus Christ.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"143140222\" id=\"p8\">The Prophet Joseph Smith explained: \u201cThe spirit, power, and calling of Elijah is, that ye have power to hold the key of the \u2026 <em>fullness of the Melchizedek Priesthood \u2026 ;<\/em> and to \u2026 obtain \u2026 all the ordinances belonging to the kingdom of God, even unto the turning of the hearts of the fathers unto the children, and the hearts of the children unto the fathers, even those who are in heaven.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"143140226\" id=\"p9\">This sacred sealing authority is necessary so that \u201cwhatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"143140228\" id=\"p10\">Joseph further clarified: \u201cHow shall God come to the rescue of this generation? He will send Elijah the prophet. \u2026 Elijah shall reveal the covenants to seal the hearts of the fathers to the children, and the children to the fathers.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143140229\" id=\"p11\">Elijah appeared with Moses on the Mount of Transfiguration and conferred this authority upon Peter, James, and John.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> Elijah also appeared with Moses and Elias on April 3, 1836, in the Kirtland Temple and conferred the same priesthood keys upon Joseph Smith and Oliver Cowdery.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"143140231\" id=\"p12\">The restoration of the sealing authority by Elijah in 1836 was necessary to prepare the world for the Savior\u2019s Second Coming and initiated a greatly increased and worldwide interest in family history research.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140232\" id=\"title3\">Changing, Turning, and Purifying Hearts<\/h2>\n<\/header>\n<p data-aid=\"143140233\" id=\"p13\">The word <em>heart<\/em> is used over 1,000 times in the standard works. This simple but significant word often denotes the inner feelings of an individual. Our hearts\u2014the sum total of our desires, affections, intentions, motives, and attitudes\u2014define who we are and determine what we will become. And the essence of the Lord\u2019s work is changing, turning, and purifying hearts through gospel covenants and priesthood ordinances.<\/p>\n<p data-aid=\"143140234\" id=\"p14\">We do not build or enter holy temples solely to have a memorable individual or family experience. Rather, the covenants received and the ordinances performed in temples are essential to the sanctifying of our hearts and for the ultimate exaltation of God\u2019s sons and daughters.<\/p>\n<p data-aid=\"143140236\" id=\"p15\">Planting in the hearts of the children the promises made to the fathers\u2014even Abraham, Isaac, and Jacob\u2014turning the hearts of the children to their own fathers, conducting family history research, and performing vicarious temple ordinances are labors that bless individuals on both <span class=\"page-break\" data-page=\"86\"><\/span>sides of the veil. As we become anxiously engaged in this sacred work, we are obeying the commandments to love and serve God and our neighbors.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> And such selfless service helps us truly to \u201cHear Him!\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> and come unto the Savior.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"143140237\" id=\"p16\">The most sacred covenants and priesthood ordinances are received only in a temple\u2014the house of the Lord. Everything that is learned and all that is done in the temple emphasize the divinity of Jesus Christ and His role in Heavenly Father\u2019s great plan of happiness.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140238\" id=\"title4\">From the Inside Out<\/h2>\n<\/header>\n<p data-aid=\"143140239\" id=\"p17\">President Ezra Taft Benson described an important pattern the Redeemer employs in bringing \u201cto pass the immortality and eternal life of man.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> He said: \u201cThe Lord works from the inside out. The world works from the outside in. The world would take people out of the slums. Christ takes the slums out of people, and then they take themselves out of the slums. The world would mold men by changing their environment. Christ changes men, who then change their environment. The world would shape human behavior, but Christ can change human nature.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"143140240\" id=\"p18\">Covenants and priesthood ordinances are central in the ongoing process of spiritual rebirth and transformation; they are the means whereby the Lord works with each of us <em>from the inside out.<\/em> Covenants that are honored steadfastly, remembered always, and written \u201cwith the Spirit of the living God \u2026 in fleshy tables of the heart\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> provide purpose and the assurance of blessings in mortality and for eternity. Ordinances that are received worthily and remembered continually open the heavenly channels through which the power of godliness can flow into our lives.<\/p>\n<p data-aid=\"143140241\" id=\"p19\">We do not come to the temple to hide from or escape the evils of the world. Rather, we come to the temple to conquer the world of evil. As we invite into our lives the \u201cpower of godliness\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> by receiving priesthood ordinances and making and keeping sacred covenants, we are blessed with strength beyond our own<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> to overcome the temptations and challenges of mortality and to do and become good.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140242\" id=\"title5\">The Fame of This House Shall Spread<\/h2>\n<\/header>\n<p data-aid=\"143140243\" id=\"p20\">The first temple of this dispensation was constructed in Kirtland, Ohio, and dedicated on March 27, 1836.<\/p>\n<p data-aid=\"143140244\" id=\"p21\">In a revelation to the Prophet Joseph Smith one week after the dedication, the Lord declared:<\/p>\n<p data-aid=\"143140245\" id=\"p22\">\u201cLet the hearts of all my people rejoice, who have, with their might, built this house to my name. \u2026<\/p>\n<p data-aid=\"143140246\" id=\"p23\">\u201cYea the hearts of thousands and tens of thousands shall greatly rejoice in consequence of the blessings which shall be poured out, and the endowment with which my servants have been endowed in this house.<\/p>\n<p data-aid=\"143140247\" id=\"p24\">\u201cAnd the fame of this house shall spread to foreign lands; and this is the beginning of the blessing which shall be poured out upon the heads of my people.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"143140248\" id=\"p25\">Please note the phrases <em>the hearts of thousands and tens of thousands shall greatly rejoice<\/em> and <em>the fame of this house shall spread to foreign lands.<\/em> These were stunning declarations in April of 1836, when the Church had only a relative handful of members and one temple.<\/p>\n<p data-aid=\"143140249\" id=\"p26\">Today in 2020, we have 168 operating temples. Forty-nine additional temples are under construction or have been announced. Houses of the Lord are being constructed on the \u201cisles of the sea\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> and in countries and locations previously considered by many unlikely to warrant a temple.<\/p>\n<p data-aid=\"143140251\" id=\"p27\">The endowment ceremony currently is presented in 88 languages and will become available in many additional languages as temples are built to bless more of God\u2019s children. In the next 15 years, the number of languages in which temple ordinances will be available likely will double.<\/p>\n<p data-aid=\"143140253\" id=\"p28\">This year we will break ground and start construction on 18 temples. In contrast, it took 150 years to build the first 18 temples, from the organization of the Church in 1830 to the dedication of the Tokyo Japan Temple by President Spencer W. Kimball in 1980.<\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/da/bd/dabd7768e5a75b2c37c64822577a600c50b9a8d4/map_united_states_temples_1924.png\" data-img-id=\"2349990\" srcset=\"https://assets.churchofjesuschrist.org/3e/37/3e372bd1261ced2b22fbfe0e008577d182e387f6/map_united_states_temples_1924.png 60w,https://assets.churchofjesuschrist.org/80/29/8029fb0c91773052e1b6139ee143d8cdf796948c/map_united_states_temples_1924.png 100w,https://assets.churchofjesuschrist.org/54/8b/548b01c1cd929fb5002d4e6a865531c40de2489e/map_united_states_temples_1924.png 200w,https://assets.churchofjesuschrist.org/78/42/7842636116c06c826d1282beaf0a707766484dd1/map_united_states_temples_1924.png 250w,https://assets.churchofjesuschrist.org/a8/8f/a88fe37e2276557d21f3045bc8d0478d02fa90cd/map_united_states_temples_1924.png 320w,https://assets.churchofjesuschrist.org/da/bd/dabd7768e5a75b2c37c64822577a600c50b9a8d4/map_united_states_temples_1924.png 500w,https://assets.churchofjesuschrist.org/fc/e4/fce47dc619dffeaca9d1da44a18d401414cffced/map_united_states_temples_1924.png 640w\" data-assetId=\"2c91a0eda29cb7c585b729d57e9c48ae4ca4ca6f\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Temples in 1924\"/>\n<p data-aid=\"143140256\" id=\"p29\">Consider the hastening of temple work that has occurred just during the lifetime of President Russell M. <span class=\"page-break\" data-page=\"87\"><\/span>Nelson. When President Nelson was born on September 9, 1924, the Church had six operating temples.<\/p>\n<img id=\"img2\" src=\"https://assets.churchofjesuschrist.org/99/0d/990de26545a0a14db03b3b064dbbb8a4675be77d/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350390\" srcset=\"https://assets.churchofjesuschrist.org/6d/6c/6d6ce47fa1f763e5271a78cc36de15d9fec3f5e0/temple_sequence_bednar_april_2020.png 60w,https://assets.churchofjesuschrist.org/d4/4d/d44d6397c3f7ace3231446b348333d3ee8d93492/temple_sequence_bednar_april_2020.png 100w,https://assets.churchofjesuschrist.org/63/42/6342b6fab22860d994e62faa5009c6367d5bdd8c/temple_sequence_bednar_april_2020.png 200w,https://assets.churchofjesuschrist.org/1b/0c/1b0cf8dccbfd7ade4f78e233fe0ed8071395826f/temple_sequence_bednar_april_2020.png 250w,https://assets.churchofjesuschrist.org/91/4a/914a42525adec7e0a9b73e6dee4cb59e8e3e7d37/temple_sequence_bednar_april_2020.png 320w,https://assets.churchofjesuschrist.org/99/0d/990de26545a0a14db03b3b064dbbb8a4675be77d/temple_sequence_bednar_april_2020.png 500w,https://assets.churchofjesuschrist.org/6c/ec/6cec6a904835d0196221d26bc6d0c5153a358637/temple_sequence_bednar_april_2020.png 640w\" data-assetId=\"fffb2831f6ca17b9687d8334e8aa55d8950c7196\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Temple Sequence: 1984\"/>\n<p data-aid=\"143140258\" id=\"p30\">When he was ordained an Apostle on April 7, 1984, 60 years later, 26 temples were operating, an increase of 20 temples in 60 years.<\/p>\n<img id=\"img3\" src=\"https://assets.churchofjesuschrist.org/c2/9f/c29fa8286059367f172efb40c7cd707a4d1cb864/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350391\" srcset=\"https://assets.churchofjesuschrist.org/8f/e6/8fe6da9d47ef055fbe7e133024af7e3f642f1143/temple_sequence_bednar_april_2020.png 60w,https://assets.churchofjesuschrist.org/81/2a/812a9256fd3811fd35edd789ea0172703904921a/temple_sequence_bednar_april_2020.png 100w,https://assets.churchofjesuschrist.org/ba/5a/ba5a63e8c056a81379b0b1860df864824dd29ff1/temple_sequence_bednar_april_2020.png 200w,https://assets.churchofjesuschrist.org/a1/4b/a14b27de500149d676c6fe75a9d96f60a99d14d2/temple_sequence_bednar_april_2020.png 250w,https://assets.churchofjesuschrist.org/27/c5/27c540fc9b91a9e59d2def2654330a23ff745b26/temple_sequence_bednar_april_2020.png 320w,https://assets.churchofjesuschrist.org/c2/9f/c29fa8286059367f172efb40c7cd707a4d1cb864/temple_sequence_bednar_april_2020.png 500w,https://assets.churchofjesuschrist.org/73/e6/73e60e9234f70fdc81f86c434f18a9c345c04daa/temple_sequence_bednar_april_2020.png 640w\" data-assetId=\"0ef184eda63fec1381233918917d8207ba4e44b8\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Temple Sequence: 2018\"/>\n<p data-aid=\"143140260\" id=\"p31\">When President Nelson was sustained as President of the Church, 159 temples were operating, an increase of 133 temples in the 34 years during which he served as a member of the Quorum of the Twelve.<\/p>\n<img id=\"img4\" src=\"https://assets.churchofjesuschrist.org/e5/87/e5874683aabcafd47baa213d6932dd37185931f1/temple_sequence_bednar_april_2020.png\" data-img-id=\"2350392\" srcset=\"https://assets.churchofjesuschrist.org/62/16/621695abe647df14fefdfc8b15774b80a54ca425/temple_sequence_bednar_april_2020.png 60w,https://assets.churchofjesuschrist.org/db/bd/dbbd72e41888a0f40ad5ca31800c87876ce9904a/temple_sequence_bednar_april_2020.png 100w,https://assets.churchofjesuschrist.org/75/fa/75fa5fba4b1e8abc1114a114b2b3e6287dbfbcf1/temple_sequence_bednar_april_2020.png 200w,https://assets.churchofjesuschrist.org/56/27/5627734e3df55c25f9c6a472c17fc190feddc7f3/temple_sequence_bednar_april_2020.png 250w,https://assets.churchofjesuschrist.org/8f/e5/8fe57a2614fe6492d5623def5c6c46483cefc634/temple_sequence_bednar_april_2020.png 320w,https://assets.churchofjesuschrist.org/e5/87/e5874683aabcafd47baa213d6932dd37185931f1/temple_sequence_bednar_april_2020.png 500w,https://assets.churchofjesuschrist.org/90/3f/903ff4559751e7862de449dd9f19b6c304a35b12/temple_sequence_bednar_april_2020.png 640w\" data-assetId=\"e1b9c78230f86615d2336af901663adcc0fa4152\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Temple Sequence: 2019\"/>\n<p data-aid=\"143140262\" id=\"p32\">Since becoming the President of the Church on January 14, 2018, President Nelson has announced 35 new temples.<\/p>\n<p data-aid=\"143140264\" id=\"p33\">Ninety-six percent of the existing temples have been dedicated during President Nelson\u2019s lifetime; 84 percent have been dedicated since he was ordained an Apostle.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140266\" id=\"title6\">Always Focus on the Things That Matter Most<\/h2>\n<\/header>\n<p data-aid=\"143140268\" id=\"p34\">As members of the Lord\u2019s restored Church, we stand all amazed at the ever-accelerating pace of His work in the latter days. And more temples are coming.<\/p>\n<p data-aid=\"143140270\" id=\"p35\">Brigham Young prophesied, \u201cTo accomplish this work there will have to be not only one temple but thousands of them, and thousands and tens of thousands of men and women will go into those temples and officiate for people who have lived as far back as the Lord shall reveal.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"143140272\" id=\"p36\">Understandably, the announcement of each new temple is a source of great joy and a reason to give thanks to the Lord. However, our primary focus should be on the covenants and ordinances that can change our hearts and deepen our devotion to the Savior and not simply on the location or beauty of the building.<\/p>\n<p data-aid=\"143140275\" id=\"p37\">The fundamental obligations that rest upon us as members of the Lord\u2019s restored Church are (1) to \u201cHear Him!\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> and have our own hearts changed through covenants and ordinances and (2) to fulfill joyfully the divinely appointed responsibility to offer temple blessings to the entire human family on both sides of the veil. With the Lord\u2019s direction and help, indeed we will fulfill these sacred duties.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"143140277\" id=\"title7\">The Building Up of Zion<\/h2>\n<\/header>\n<p data-aid=\"143140278\" id=\"p38\">The Prophet Joseph Smith declared:<\/p>\n<p data-aid=\"143140279\" id=\"p42\">\u201cThe building up of Zion is a cause that has interested the people of God in every age; it is a theme upon which prophets, priests and kings have dwelt with peculiar delight; they have looked forward with joyful anticipation to the day in which we live; and fired with heavenly and joyful anticipations they have sung and written and prophesied of this our day; but they died without the sight; \u2026 it is left for us to see, participate in and help to roll forward the Latter-day glory.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"143140280\" id=\"p43\">\u201cThe heavenly Priesthood will unite with the earthly, to bring about those great purposes; \u2026 a work that God and angels have contemplated with delight for generations past; that fired the souls of the ancient patriarchs and prophets; a work that is destined to bring about the destruction of the powers of darkness, the renovation of the earth, the glory of God, and the salvation of the human family.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a><\/p>\n<p data-aid=\"143140281\" id=\"p39\">I solemnly testify that the Father and the Son appeared to Joseph Smith, and Elijah restored the sealing authority. Sacred temple covenants and ordinances can strengthen us and purify our hearts as we \u201cHear Him!\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> and receive the power of godliness in our lives. And I witness that this latter-day work will destroy the powers of darkness and bring about the salvation of the human family. Of these truths I joyfully testify in the sacred name of the Lord Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"143140282\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"143140283\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"143140284\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.30?lang=eng#p30\">Joseph Smith\u2014History 1:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"143140285\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.33?lang=eng#p33\">Joseph Smith\u2014History 1:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"143140286\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.38-39?lang=eng#p38\">Joseph Smith\u2014History 1:38\u201339<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"143140287\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.21?lang=eng#p21\">Acts 3:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"143140288\" id=\"note6_p1\">Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/elijah?lang=eng\">Elijah<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"143140289\" id=\"note7_p1\">Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/elijah?lang=eng\">Elijah<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"143140290\" id=\"note8_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=19#p19\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 311; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"143140291\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.19?lang=eng#p19\">Matthew 16:19<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.18?lang=eng#p18\">Matthew 18:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10.7?lang=eng#p7\">Helaman 10:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.93?lang=eng#p93\">Doctrine and Covenants 124:93<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.46?lang=eng#p46\">132:46<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"143140292\" id=\"note10_p1\"><em><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=30#p30\">Teachings: Joseph Smith<\/a>,<\/em> 313.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"143140293\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.3?lang=eng#p3\">Matthew 17:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"143140294\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.13-16?lang=eng#p13\">Doctrine and Covenants 110:13\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"143140295\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.34-40?lang=eng#p34\">Matthew 22:34\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"143140296\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"143140297\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.26?lang=eng#p26\">Omni 1:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.30,32?lang=eng#p30\">Moroni 10:30, 32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"143140298\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"143140299\" id=\"note17_p1\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1985/10/born-of-god?lang=eng\">Born of God<\/a>,\u201d <cite>Ensign,<\/cite> Nov. 1985, 6.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"143140300\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"143140301\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20-21?lang=eng#p20\">Doctrine and Covenants 84:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"143140302\" id=\"note20_p1\">See \u201cLord, I Would Follow Thee,\u201d <cite>Hymns,<\/cite> no. 220.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"143140303\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.6,9-10?lang=eng#p6\">Doctrine and Covenants 110:6, 9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"143140304\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.7?lang=eng#p7\">2 Nephi 29:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"143140305\" id=\"note23_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;para=17#p17\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 310.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"143140306\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"143140307\" id=\"note25_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-15?lang=eng&amp;para=8#p8\"><cite>Teachings: Joseph Smith,<\/cite><\/a> 186.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"143140308\" id=\"note26_p1\"><em><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=eng&amp;para=25#p25\">Teachings: Joseph Smith<\/a>,<\/em> 514\u201315.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"143140309\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
     "footnotes": {
       "note4": {
         "marker": "4.",
-        "context": null,
         "pid": "143140205",
         "id": "note4",
-        "text": "<p data-aid=\"143140286\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.38-39?lang=eng#p38\">Joseph Smith&#xFEFF;&#x2014;History 1:38&#x2013;39<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140286\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.38-39?lang=eng#p38\">Joseph Smith\u2014History 1:38\u201339<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.38-39?lang=eng#p38",
-          "text": "Joseph Smith﻿\u2014History 1:38\u201339",
+          "text": "Joseph Smith\u2014History 1:38\u201339",
           "type": "scripture-ref"
         }]
       },
       "note5": {
         "marker": "5.",
-        "context": null,
         "pid": "143140206",
         "id": "note5",
         "text": "<p data-aid=\"143140287\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3.21?lang=eng#p21\">Acts 3:21<\/a>.<\/p>",
@@ -405,43 +406,39 @@
       },
       "note2": {
         "marker": "2.",
-        "context": null,
         "pid": "143140197",
         "id": "note2",
-        "text": "<p data-aid=\"143140284\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.30?lang=eng#p30\">Joseph Smith&#xFEFF;&#x2014;History 1:30<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140284\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.30?lang=eng#p30\">Joseph Smith\u2014History 1:30<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.30?lang=eng#p30",
-          "text": "Joseph Smith﻿\u2014History 1:30",
+          "text": "Joseph Smith\u2014History 1:30",
           "type": "scripture-ref"
         }]
       },
       "note3": {
         "marker": "3.",
-        "context": null,
         "pid": "143140197",
         "id": "note3",
-        "text": "<p data-aid=\"143140285\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.33?lang=eng#p33\">Joseph Smith&#xFEFF;&#x2014;History 1:33<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140285\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.33?lang=eng#p33\">Joseph Smith\u2014History 1:33<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.33?lang=eng#p33",
-          "text": "Joseph Smith﻿\u2014History 1:33",
+          "text": "Joseph Smith\u2014History 1:33",
           "type": "scripture-ref"
         }]
       },
       "note8": {
         "marker": "8.",
-        "context": null,
         "pid": "143140222",
         "id": "note8",
         "text": "<p data-aid=\"143140290\" id=\"note8_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=19#p19\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 311; emphasis added.<\/p>",
         "referenceUris": [{
-          "href": "/study/manual/teachings-joseph-smith/chapter-26?lang=eng&para=19#p19",
+          "href": "/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=19#p19",
           "text": "Teachings of Presidents of the Church: Joseph Smith",
           "type": "cross-ref"
         }]
       },
       "note9": {
         "marker": "9.",
-        "context": null,
         "pid": "143140226",
         "id": "note9",
         "text": "<p data-aid=\"143140291\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.19?lang=eng#p19\">Matthew 16:19<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.18?lang=eng#p18\">Matthew 18:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10.7?lang=eng#p7\">Helaman 10:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.93?lang=eng#p93\">Doctrine and Covenants 124:93<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.46?lang=eng#p46\">132:46<\/a>.<\/p>",
@@ -475,10 +472,9 @@
       },
       "note6": {
         "marker": "6.",
-        "context": null,
         "pid": "143140219",
         "id": "note6",
-        "text": "<p data-aid=\"143140288\" id=\"note6_p1\">Bible Dictionary, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/elijah?lang=eng\">Elijah<\/a>.&#x201D;<\/p>",
+        "text": "<p data-aid=\"143140288\" id=\"note6_p1\">Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/elijah?lang=eng\">Elijah<\/a>.\u201d<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bd/elijah?lang=eng",
           "text": "Elijah",
@@ -487,10 +483,9 @@
       },
       "note7": {
         "marker": "7.",
-        "context": null,
         "pid": "143140219",
         "id": "note7",
-        "text": "<p data-aid=\"143140289\" id=\"note7_p1\">Guide to the Scriptures, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/gs/elijah?lang=eng\">Elijah<\/a>.&#x201D;<\/p>",
+        "text": "<p data-aid=\"143140289\" id=\"note7_p1\">Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/elijah?lang=eng\">Elijah<\/a>.\u201d<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/gs/elijah?lang=eng",
           "text": "Elijah",
@@ -499,7 +494,6 @@
       },
       "note16": {
         "marker": "16.",
-        "context": null,
         "pid": "143140239",
         "id": "note16",
         "text": "<p data-aid=\"143140298\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.39?lang=eng#p39\">Moses 1:39<\/a>.<\/p>",
@@ -511,7 +505,6 @@
       },
       "note15": {
         "marker": "15.",
-        "context": null,
         "pid": "143140236",
         "id": "note15",
         "text": "<p data-aid=\"143140297\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.26?lang=eng#p26\">Omni 1:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.30,32?lang=eng#p30\">Moroni 10:30, 32<\/a>.<\/p>",
@@ -530,22 +523,20 @@
       },
       "note14": {
         "marker": "14.",
-        "context": null,
         "pid": "143140236",
         "id": "note14",
-        "text": "<p data-aid=\"143140296\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith&#xFEFF;&#x2014;History 1:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140296\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
-          "text": "Joseph Smith﻿\u2014History 1:17",
+          "text": "Joseph Smith\u2014History 1:17",
           "type": "scripture-ref"
         }]
       },
       "note13": {
         "marker": "13.",
-        "context": null,
         "pid": "143140236",
         "id": "note13",
-        "text": "<p data-aid=\"143140295\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.34-40?lang=eng#p34\">Matthew 22:34&#x2013;40<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140295\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22.34-40?lang=eng#p34\">Matthew 22:34\u201340<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/matt/22.34-40?lang=eng#p34",
           "text": "Matthew 22:34\u201340",
@@ -554,10 +545,9 @@
       },
       "note12": {
         "marker": "12.",
-        "context": null,
         "pid": "143140229",
         "id": "note12",
-        "text": "<p data-aid=\"143140294\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.13-16?lang=eng#p13\">Doctrine and Covenants 110:13&#x2013;16<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140294\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.13-16?lang=eng#p13\">Doctrine and Covenants 110:13\u201316<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/110.13-16?lang=eng#p13",
           "text": "Doctrine and Covenants 110:13\u201316",
@@ -566,7 +556,6 @@
       },
       "note11": {
         "marker": "11.",
-        "context": null,
         "pid": "143140229",
         "id": "note11",
         "text": "<p data-aid=\"143140293\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.3?lang=eng#p3\">Matthew 17:3<\/a>.<\/p>",
@@ -578,22 +567,20 @@
       },
       "note10": {
         "marker": "10.",
-        "context": null,
         "pid": "143140228",
         "id": "note10",
         "text": "<p data-aid=\"143140292\" id=\"note10_p1\"><em><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=30#p30\">Teachings: Joseph Smith<\/a>,<\/em> 313.<\/p>",
         "referenceUris": [{
-          "href": "/study/manual/teachings-joseph-smith/chapter-26?lang=eng&para=30#p30",
+          "href": "/study/manual/teachings-joseph-smith/chapter-26?lang=eng&amp;para=30#p30",
           "text": "Teachings: Joseph Smith",
           "type": "cross-ref"
         }]
       },
       "note19": {
         "marker": "19.",
-        "context": null,
         "pid": "143140241",
         "id": "note19",
-        "text": "<p data-aid=\"143140301\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20-21?lang=eng#p20\">Doctrine and Covenants 84:20&#x2013;21<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140301\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.20-21?lang=eng#p20\">Doctrine and Covenants 84:20\u201321<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/84.20-21?lang=eng#p20",
           "text": "Doctrine and Covenants 84:20\u201321",
@@ -602,10 +589,9 @@
       },
       "note18": {
         "marker": "18.",
-        "context": null,
         "pid": "143140240",
         "id": "note18",
-        "text": "<p data-aid=\"143140300\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2&#xA0;Corinthians 3:3<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140300\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3.3?lang=eng#p3\">2 Corinthians 3:3<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/2-cor/3.3?lang=eng#p3",
           "text": "2 Corinthians 3:3",
@@ -614,10 +600,9 @@
       },
       "note17": {
         "marker": "17.",
-        "context": null,
         "pid": "143140239",
         "id": "note17",
-        "text": "<p data-aid=\"143140299\" id=\"note17_p1\">Ezra Taft Benson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/1985/10/born-of-god?lang=eng\">Born of God<\/a>,&#x201D; <cite>Ensign,<\/cite> Nov. 1985,&#xA0;6.<\/p>",
+        "text": "<p data-aid=\"143140299\" id=\"note17_p1\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1985/10/born-of-god?lang=eng\">Born of God<\/a>,\u201d <cite>Ensign,<\/cite> Nov. 1985, 6.<\/p>",
         "referenceUris": [{
           "href": "/study/general-conference/1985/10/born-of-god?lang=eng",
           "text": "Born of God",
@@ -626,70 +611,64 @@
       },
       "note27": {
         "marker": "27.",
-        "context": null,
         "pid": "143140281",
         "id": "note27",
-        "text": "<p data-aid=\"143140309\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith&#xFEFF;&#x2014;History 1:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140309\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
-          "text": "Joseph Smith﻿\u2014History 1:17",
+          "text": "Joseph Smith\u2014History 1:17",
           "type": "scripture-ref"
         }]
       },
       "note26": {
         "marker": "26.",
-        "context": null,
         "pid": "143140280",
         "id": "note26",
-        "text": "<p data-aid=\"143140308\" id=\"note26_p1\"><em><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=eng&amp;para=25#p25\">Teachings: Joseph Smith<\/a>,<\/em> 514&#x2013;15.<\/p>",
+        "text": "<p data-aid=\"143140308\" id=\"note26_p1\"><em><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=eng&amp;para=25#p25\">Teachings: Joseph Smith<\/a>,<\/em> 514\u201315.<\/p>",
         "referenceUris": [{
-          "href": "/study/manual/teachings-joseph-smith/chapter-44?lang=eng&para=25#p25",
+          "href": "/study/manual/teachings-joseph-smith/chapter-44?lang=eng&amp;para=25#p25",
           "text": "Teachings: Joseph Smith",
           "type": "cross-ref"
         }]
       },
       "note25": {
         "marker": "25.",
-        "context": null,
         "pid": "143140279",
         "id": "note25",
         "text": "<p data-aid=\"143140307\" id=\"note25_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-15?lang=eng&amp;para=8#p8\"><cite>Teachings: Joseph Smith,<\/cite><\/a> 186.<\/p>",
         "referenceUris": [{
-          "href": "/study/manual/teachings-joseph-smith/chapter-15?lang=eng&para=8#p8",
+          "href": "/study/manual/teachings-joseph-smith/chapter-15?lang=eng&amp;para=8#p8",
           "text": "Teachings: Joseph Smith,",
           "type": "cross-ref"
         }]
       },
       "note24": {
         "marker": "24.",
-        "context": null,
         "pid": "143140275",
         "id": "note24",
-        "text": "<p data-aid=\"143140306\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith&#xFEFF;&#x2014;History 1:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140306\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=eng#p17\">Joseph Smith\u2014History 1:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/pgp/js-h/1.17?lang=eng#p17",
-          "text": "Joseph Smith﻿\u2014History 1:17",
+          "text": "Joseph Smith\u2014History 1:17",
           "type": "scripture-ref"
         }]
       },
       "note23": {
         "marker": "23.",
-        "context": null,
         "pid": "143140270",
         "id": "note23",
-        "text": "<p data-aid=\"143140305\" id=\"note23_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;para=17#p17\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997),&#xA0;310.<\/p>",
+        "text": "<p data-aid=\"143140305\" id=\"note23_p1\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;para=17#p17\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 310.<\/p>",
         "referenceUris": [{
-          "href": "/study/manual/teachings-brigham-young/chapter-42?lang=eng&para=17#p17",
+          "href": "/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;para=17#p17",
           "text": "Teachings of Presidents of the Church: Brigham Young",
           "type": "cross-ref"
         }]
       },
       "note22": {
         "marker": "22.",
-        "context": null,
         "pid": "143140249",
         "id": "note22",
-        "text": "<p data-aid=\"143140304\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.7?lang=eng#p7\">2&#xA0;Nephi 29:7<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140304\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.7?lang=eng#p7\">2 Nephi 29:7<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/29.7?lang=eng#p7",
           "text": "2 Nephi 29:7",
@@ -698,10 +677,9 @@
       },
       "note21": {
         "marker": "21.",
-        "context": null,
         "pid": "143140247",
         "id": "note21",
-        "text": "<p data-aid=\"143140303\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.6,9-10?lang=eng#p6\">Doctrine and Covenants 110:6, 9&#x2013;10<\/a>.<\/p>",
+        "text": "<p data-aid=\"143140303\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.6,9-10?lang=eng#p6\">Doctrine and Covenants 110:6, 9\u201310<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/110.6,9-10?lang=eng#p6",
           "text": "Doctrine and Covenants 110:6, 9\u201310",
@@ -710,14 +688,12 @@
       },
       "note20": {
         "marker": "20.",
-        "context": null,
         "pid": "143140241",
         "id": "note20",
-        "text": "<p data-aid=\"143140302\" id=\"note20_p1\">See &#x201C;Lord, I Would Follow Thee,&#x201D; <cite>Hymns,<\/cite> no.&#xA0;220.<\/p>"
+        "text": "<p data-aid=\"143140302\" id=\"note20_p1\">See \u201cLord, I Would Follow Thee,\u201d <cite>Hymns,<\/cite> no. 220.<\/p>"
       },
       "note1": {
         "marker": "1.",
-        "context": null,
         "pid": "143140195",
         "id": "note1",
         "text": "<p data-aid=\"143140283\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1.10?lang=eng#p10\">Ephesians 1:10<\/a>.<\/p>",

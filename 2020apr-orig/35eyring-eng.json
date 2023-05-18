@@ -1,0 +1,379 @@
+{
+  "tableOfContentsUri": "/ensign/2020/05",
+  "meta": {
+    "pageAttributes": {
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
+      "data-uri": "/ensign/2020/05/35eyring",
+      "data-aid": "143139955",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-assetid": "88cc2d3a339e4f8790c63cd85e4b8f71",
+      "data-aid-version": "1",
+      "data-orig-id": "88cc2d3a339e4f8790c63cd85e4b8f71"
+    },
+    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147171311001",
+    "audio": [{
+      "voice": {"name": "audio"},
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-3050-henry-b-eyring-64k-eng.mp3"
+    }],
+    "title": "He Goes before Us",
+    "contentType": "text/html"
+  },
+  "pids": [
+    [
+      "143139955",
+      {"key": "143139955"}
+    ],
+    [
+      "143139966",
+      {"key": "143139966"}
+    ],
+    [
+      "143139970",
+      {"key": "143139970"}
+    ],
+    [
+      "143139976",
+      {"key": "143139976"}
+    ],
+    [
+      "143139984",
+      {"key": "143139984"}
+    ],
+    [
+      "143139989",
+      {"key": "143139989"}
+    ],
+    [
+      "143139994",
+      {"key": "143139994"}
+    ],
+    [
+      "143139997",
+      {"key": "143139997"}
+    ],
+    [
+      "143140005",
+      {"key": "143140005"}
+    ],
+    [
+      "143140008",
+      {"key": "143140008"}
+    ],
+    [
+      "143140013",
+      {"key": "143140013"}
+    ],
+    [
+      "143140017",
+      {"key": "143140017"}
+    ],
+    [
+      "143140021",
+      {"key": "143140021"}
+    ],
+    [
+      "143140025",
+      {"key": "143140025"}
+    ],
+    [
+      "143140029",
+      {"key": "143140029"}
+    ],
+    [
+      "143140032",
+      {"key": "143140032"}
+    ],
+    [
+      "143140035",
+      {"key": "143140035"}
+    ],
+    [
+      "143140038",
+      {"key": "143140038"}
+    ],
+    [
+      "143140041",
+      {"key": "143140041"}
+    ],
+    [
+      "143140044",
+      {"key": "143140044"}
+    ],
+    [
+      "143140047",
+      {"key": "143140047"}
+    ],
+    [
+      "143140050",
+      {"key": "143140050"}
+    ],
+    [
+      "143140054",
+      {"key": "143140054"}
+    ],
+    [
+      "143140058",
+      {"key": "143140058"}
+    ],
+    [
+      "143140061",
+      {"key": "143140061"}
+    ],
+    [
+      "143140064",
+      {"key": "143140064"}
+    ],
+    [
+      "143140066",
+      {"key": "143140066"}
+    ],
+    [
+      "143140068",
+      {"key": "143140068"}
+    ],
+    [
+      "143140070",
+      {"key": "143140070"}
+    ],
+    [
+      "143140072",
+      {"key": "143140072"}
+    ],
+    [
+      "143140074",
+      {"key": "143140074"}
+    ],
+    [
+      "143140076",
+      {"key": "143140076"}
+    ],
+    [
+      "143140077",
+      {"key": "143140077"}
+    ],
+    [
+      "143140080",
+      {"key": "143140080"}
+    ],
+    [
+      "143140082",
+      {"key": "143140082"}
+    ],
+    [
+      "143140084",
+      {"key": "143140084"}
+    ],
+    [
+      "143140086",
+      {"key": "143140086"}
+    ],
+    [
+      "143140089",
+      {"key": "143140089"}
+    ],
+    [
+      "143140091",
+      {"key": "143140091"}
+    ],
+    [
+      "143140092",
+      {"key": "143140092"}
+    ],
+    [
+      "143140094",
+      {"key": "143140094"}
+    ],
+    [
+      "143140096",
+      {"key": "143140096"}
+    ],
+    [
+      "143140099",
+      {"key": "143140099"}
+    ],
+    [
+      "143140101",
+      {"key": "143140101"}
+    ],
+    [
+      "143140102",
+      {"key": "143140102"}
+    ],
+    [
+      "143140104",
+      {"key": "143140104"}
+    ],
+    [
+      "143140106",
+      {"key": "143140106"}
+    ],
+    [
+      "143140107",
+      {"key": "143140107"}
+    ],
+    [
+      "143140110",
+      {"key": "143140110"}
+    ],
+    [
+      "143140112",
+      {"key": "143140112"}
+    ],
+    [
+      "143140114",
+      {"key": "143140114"}
+    ],
+    [
+      "143140115",
+      {"key": "143140115"}
+    ],
+    [
+      "143140118",
+      {"key": "143140118"}
+    ],
+    [
+      "143140119",
+      {"key": "143140119"}
+    ],
+    [
+      "143140120",
+      {"key": "143140120"}
+    ],
+    [
+      "143140121",
+      {"key": "143140121"}
+    ]
+  ],
+  "uri": "/ensign/2020/05/35eyring",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "css/style_global-template-mobile_article.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "He Goes before Us",
+          "title": "He Goes before Us"
+        },
+        "pageSocial": {
+          "description": "He Goes before Us",
+          "title": "He Goes before Us"
+        }
+      }
+    },
+    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/35eyring?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147171311001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147171311001\" data-video-id=\"6147171311001\" data-video-title=\"Henry B. Eyring\" data-ref-id=\"5A4C6302FA995ADBF8BFAD88BA01FD3C87C874AD\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147171311001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147171311001/640/360/996000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"111432090\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147171311001/1280/720/2128000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"237788712\"><\/video><h1 data-aid=\"143139966\" id=\"title1\">He Goes before Us<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143139970\" id=\"author1\">By President Henry&#xA0;B. Eyring<\/p>\n<p class=\"author-role\" data-aid=\"143139976\" id=\"author2\">Second Counselor in the First Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143139984\" id=\"kicker1\">The Lord is leading the Restoration of His gospel and His Church. He knows the future perfectly. He invites you to the work.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143139989\" id=\"p1\">My beloved brothers and sisters, I am grateful to be with you in this general conference of The Church of Jesus Christ of Latter-day Saints. In his invitation to reflect on the way the Lord&#x2019;s Restoration of His Church in this last dispensation has blessed us and our loved ones, President Russell&#xA0;M. Nelson promised that our experience would be not only memorable but unforgettable.<\/p>\n<p data-aid=\"143139994\" id=\"p2\">My experience has been memorable, as I am sure yours has been. Whether it will be unforgettable depends on each one of us. That matters to me because the experience of preparing for this conference has changed me in a way that I want to last. Let me explain.<\/p>\n<p data-aid=\"143139997\" id=\"p3\">My preparation took me to the record of an event in the Restoration. I had read about that event many times, but it had always been to me a report of an important meeting that involved Joseph Smith, the prophet of the Restoration. But this time I saw in the account how the Lord leads us, His disciples, in His Church. I saw what it means for us mortals to be led by the Savior of the world, the Creator&#xFEFF;&#x2014;who knows all things, past, present, and future. He teaches us step by step and guides us, never forcing.<\/p>\n<p data-aid=\"143140005\" id=\"p4\">The meeting I&#x2019;m describing was a pivotal moment in the Restoration. It was a Sabbath-day meeting held on April&#xA0;3, 1836, in the Kirtland Temple in Ohio, seven days after it was dedicated. Joseph Smith described this great moment in the history of the world in a simple way. Much of his account is recorded in Doctrine and Covenants section 110:<\/p>\n<p data-aid=\"143140008\" id=\"p5\">&#x201C;In the afternoon, I assisted the other Presidents in distributing the Lord&#x2019;s Supper to the Church, receiving it from the Twelve, whose privilege it was to officiate at the sacred desk this day. After having performed this service to my brethren, I retired to the pulpit, the veils being dropped, and bowed myself, with Oliver Cowdery, in solemn and silent prayer. After rising from prayer, the following vision was opened to both of us.&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"143140013\" id=\"p6\">&#x201C;The veil was taken from our minds, and the eyes of our understanding were opened.<\/p>\n<p data-aid=\"143140017\" id=\"p7\">&#x201C;We saw the Lord standing upon the breastwork of the pulpit, before us; and under his feet was a paved work of pure gold, in color like amber.<\/p>\n<p data-aid=\"143140021\" id=\"p8\">&#x201C;His eyes were as a flame of fire; the hair of his head was white like the pure snow; his countenance shone above the brightness of the sun; and his voice was as the sound of the rushing of great waters, even the voice of Jehovah, saying:<\/p>\n<p data-aid=\"143140025\" id=\"p9\">&#x201C;I am the first and the last; I am he who liveth, I am he who was slain; I am your advocate with the Father.<\/p>\n<p data-aid=\"143140029\" id=\"p10\">&#x201C;Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice.<\/p>\n<p data-aid=\"143140032\" id=\"p11\">&#x201C;Let the hearts of your brethren rejoice, and let the hearts of all my people rejoice, who have, with their might, built this house to my name.<\/p>\n<p data-aid=\"143140035\" id=\"p12\">&#x201C;For behold, I have accepted this house, and my name shall be here; and I will manifest myself to my people in mercy in this house.<\/p>\n<p data-aid=\"143140038\" id=\"p13\">&#x201C;Yea, I will appear unto my servants, and speak unto them with mine own voice, if my people will keep my commandments, and do not pollute this holy house.<\/p>\n<p data-aid=\"143140041\" id=\"p14\">&#x201C;Yea the hearts of thousands and tens of thousands shall greatly rejoice in consequence of the blessings which shall be poured out, and the endowment with which my servants have been endowed in this house.<\/p>\n<p data-aid=\"143140044\" id=\"p15\">&#x201C;And the fame of this house shall spread to foreign lands; and this is the beginning of the blessing which shall be poured out upon the heads of my people. Even so. Amen.<\/p>\n<p data-aid=\"143140047\" id=\"p16\">&#x201C;After this vision closed, the heavens were again opened unto us; and Moses appeared before us, and committed unto us the keys of the gathering of Israel from the four parts of the earth, and the leading of the ten tribes from the land of the north.<\/p>\n<p data-aid=\"143140050\" id=\"p17\">&#x201C;After this, Elias appeared, and committed the dispensation of the gospel of Abraham, saying that in us and our seed all generations after us should be blessed.<\/p>\n<p data-aid=\"143140054\" id=\"p18\">&#x201C;After this vision had closed, another great and glorious vision burst upon us; for Elijah the prophet, who was taken to heaven without tasting death, stood before us, and said:<\/p>\n<p data-aid=\"143140058\" id=\"p19\">&#x201C;Behold, the time has fully come, which was spoken of by the mouth of Malachi&#xFEFF;&#x2014;testifying that he [Elijah] should be sent, before the great and dreadful day of the Lord come&#xFEFF;&#x2014;<\/p>\n<p data-aid=\"143140061\" id=\"p20\">&#x201C;To turn the hearts of the fathers to the children, and the children to the fathers, lest the whole earth be smitten with a curse&#xFEFF;&#x2014;<\/p>\n<p data-aid=\"143140064\" id=\"p21\">&#x201C;Therefore, the keys of this dispensation are committed into your hands; and by this ye may know that the great and dreadful day of the Lord is near, even at the doors.&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"143140066\" id=\"p22\">Now, I had read that account many times. The Holy Ghost had confirmed to me that the account was true. But as I studied and prepared for this conference, I came to see more clearly the power of the Lord to lead in detail His disciples in His work.<\/p>\n<p data-aid=\"143140068\" id=\"p23\">Seven years before Moses committed to Joseph the keys of the gathering of Israel in the Kirtland Temple, &#x201C;Joseph learned from the <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">title page of the Book of Mormon<\/a> that its purpose was to &#x2018;show unto the remnant of the house of Israel &#x2026; that they may know the covenants of the Lord, that they are not cast off forever.&#x2019; In 1831, the Lord told Joseph that the gathering of Israel would commence in Kirtland, &#x2018;And from thence [Kirtland], whosoever I will shall go forth among all nations &#x2026; for Israel shall be saved, and I will lead them.&#x2019;&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"143140070\" id=\"p24\">Although missionary work was needed to gather Israel, the Lord inspired His leaders to teach the Twelve, who became some of our early missionaries, &#x201C;Remember you are not to go to other nations, till you receive your endowment.&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"143140072\" id=\"p25\">It seems that the Kirtland Temple was important to the Lord&#x2019;s step-by-step plan for at least two reasons: First, Moses waited until the temple was completed to restore the keys of the gathering of Israel. And second, President Joseph Fielding Smith taught that &#x201C;the Lord commanded the Saints to build a temple [the Kirtland Temple] in which he could reveal the keys of authority and where the apostles could be endowed and prepared to prune his vineyard for the last time.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> Although the temple endowment as we know it today wasn&#x2019;t administered in the Kirtland Temple, in fulfillment of prophecy, preparatory temple ordinances began to be introduced there, along with an outpouring of spiritual manifestations which armed those called on missions with the promised endowment of &#x201C;power from on high&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> that led to a great gathering through missionary service.<\/p>\n<p data-aid=\"143140074\" id=\"p26\">After the keys of the gathering of Israel were committed to Joseph, the Lord inspired the Prophet to send out members of the Twelve on missions. As I studied, it became clear to me that the Lord had prepared in detail the way for the Twelve to go on missions abroad where people had been prepared to believe and sustain them. In time, thousands would, through them, be brought into the Lord&#x2019;s restored Church.<\/p>\n<p data-aid=\"143140076\" id=\"p27\">According to our records, it is estimated that between 7,500 and 8,000 were baptized during the two missions of the Twelve to the British Isles. This laid the foundation for missionary work in Europe. By the end of the 19th century, some 90,000 had gathered to America, with the most of these coming from the British Isles and Scandinavia.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> The Lord had inspired Joseph and those faithful missionaries who went to work to achieve a harvest that must have, at the time, seemed beyond them. But the Lord, with His perfect foresight and preparation, made it possible.<\/p>\n<p data-aid=\"143140077\" id=\"p28\">You remember the apparently simple and almost poetic language from section 110 of the Doctrine and Covenants:<\/p>\n<p data-aid=\"143140080\" id=\"p29\">&#x201C;Behold, the time has fully come, which was spoken of by the mouth of Malachi&#xFEFF;&#x2014;testifying that he [Elijah] should be sent, before the great and dreadful day of the Lord come&#xFEFF;&#x2014;<\/p>\n<p data-aid=\"143140082\" id=\"p30\">&#x201C;To turn the hearts of the fathers to the children, and the children to the fathers, lest the whole earth be smitten with a curse&#xFEFF;&#x2014;<\/p>\n<p data-aid=\"143140084\" id=\"p31\">&#x201C;Therefore, the keys of this dispensation are committed into your hands; and by this ye may know that the great and dreadful day of the Lord is near, even at the doors.&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"143140086\" id=\"p32\">I testify that the Lord saw far into the future and how He would lead us to help Him accomplish His purposes in the last days.<\/p>\n<p data-aid=\"143140089\" id=\"p33\">While I was serving in the Presiding Bishopric many years ago, I was charged with overseeing the design and development group that created what we named FamilySearch. I am careful to say that I &#x201C;oversaw&#x201D; its creation rather than saying I &#x201C;directed&#x201D; it. Many brilliant people left careers and came to build what the Lord wanted.<\/p>\n<p data-aid=\"143140091\" id=\"p34\">The First Presidency had set a goal of reducing the duplication of ordinances. Their major concern was our being unable to know whether a person&#x2019;s ordinances had already been performed. For years&#xFEFF;&#x2014;or what seemed like years&#xFEFF;&#x2014;the First Presidency asked me, &#x201C;When will you have it done?&#x201D;<\/p>\n<p data-aid=\"143140092\" id=\"p35\">With prayer, diligence, and the personal sacrifice of people of great ability, the task was accomplished. It came step by step. The first task was to make FamilySearch user-friendly for those who were not comfortable with computers. More changes came, and I know they will continue to come, for whenever we proceed to resolve one inspired problem, we open the door for further revelation for advancements at least equally important but not yet seen. Even today, FamilySearch is becoming what the Lord needs for part of His Restoration&#xFEFF;&#x2014;and not just for avoiding duplication of ordinances.<\/p>\n<p data-aid=\"143140094\" id=\"p36\">The Lord let us make improvements to help people gain feelings of familiarity and even love for their ancestors and complete their temple ordinances. Now, as the Lord surely knew would happen, young people are becoming computer mentors to their parents and ward members. All have found great joy in this service.<\/p>\n<p data-aid=\"143140096\" id=\"p37\">The spirit of Elijah is changing the hearts of young and old, children and parents, grandchildren and grandparents. Temples will soon again be happily scheduling baptismal opportunities and other sacred ordinances. The desire to serve our ancestors and the bonding of parents and children are growing.<\/p>\n<p data-aid=\"143140099\" id=\"p38\">The Lord saw it all coming. He planned for it, step by step, as He has done with other changes in His Church. He has raised up and prepared faithful people who choose to do hard things well. He has always been lovingly patient in helping us learn &#x201C;line upon line, precept upon precept, here a little and there a little.&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> He is firm in the timing and the sequence of His intentions, yet He ensures that sacrifice often brings continuing blessings that we did not foresee.<\/p>\n<p data-aid=\"143140101\" id=\"p39\">I close by expressing my gratitude to the Lord&#xFEFF;&#x2014;He who inspired President Nelson to invite me to make a sacrifice to prepare for this conference. Every hour and every prayer during my preparation brought a blessing.<\/p>\n<p data-aid=\"143140102\" id=\"p40\">I invite all who hear this message or read these words to have faith that the Lord is leading the Restoration of His gospel and His Church. He goes before us. He knows the future perfectly. He invites you to the work. He joins you in it. He has in place a plan for your service. And even as you sacrifice, you will feel joy as you help others rise to be ready for His coming.<\/p>\n<p data-aid=\"143140104\" id=\"p41\">I testify to you that God the Father lives. Jesus is the Christ. This is His Church. He knows and loves you. He guides you. He has prepared the way for you. In the sacred name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": null,
+        "pid": "143140070",
+        "id": "note4",
+        "text": "<p data-aid=\"143140114\" id=\"note4_p1\">Given in the apostolic charge administered by Oliver Cowdery, in &#x201C;<a href=\"https://www.josephsmithpapers.org/paper-summary/minute-book-1/166\">Minute Book 1<\/a>,&#x201D; Feb. 21, 1835, 162, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/166",
+          "text": "Minute Book 1"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": null,
+        "pid": "143140072",
+        "id": "note5",
+        "text": "<p data-aid=\"143140115\" id=\"note5_p1\">Joseph Fielding Smith, <cite>Doctrines of Salvation,<\/cite> comp. Bruce&#xA0;R. McConkie (1955), 2:234.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "context": null,
+        "pid": "143140064",
+        "id": "note2",
+        "text": "<p data-aid=\"143140110\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.1-16?lang=eng#p1\">Doctrine and Covenants 110:1&#x2013;16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.1-16?lang=eng#p1",
+          "text": "Doctrine and Covenants 110:1\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": null,
+        "pid": "143140068",
+        "id": "note3",
+        "text": "<p data-aid=\"143140112\" id=\"note3_p1\">Karl Ricks Anderson, <cite>The Savior in Kirtland: Personal Accounts of Divine Manifestations<\/cite> (2012), 276; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38.33?lang=eng#p33\">Doctrine and Covenants 38:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/38.33?lang=eng#p33",
+          "text": "Doctrine and Covenants 38:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": null,
+        "pid": "143140084",
+        "id": "note8",
+        "text": "<p data-aid=\"143140120\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.14-16?lang=eng#p14\">Doctrine and Covenants 110:14&#x2013;16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110.14-16?lang=eng#p14",
+          "text": "Doctrine and Covenants 110:14\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": null,
+        "pid": "143140099",
+        "id": "note9",
+        "text": "<p data-aid=\"143140121\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.30?lang=eng#p30\">2&#xA0;Nephi 28:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/28.30?lang=eng#p30",
+          "text": "2 Nephi 28:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": null,
+        "pid": "143140072",
+        "id": "note6",
+        "text": "<p data-aid=\"143140118\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38.32?lang=eng#p32\">Doctrine and Covenants 38:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/38.32?lang=eng#p32",
+          "text": "Doctrine and Covenants 38:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": null,
+        "pid": "143140076",
+        "id": "note7",
+        "text": "<p data-aid=\"143140119\" id=\"note7_p1\">See James&#xA0;B. Allen, Ronald&#xA0;K. Esplin, and David&#xA0;J. Whittaker, <cite>Men with a Mission: The Quorum of the Twelve Apostles in the British Isles, 1837&#x2013;1841<\/cite> (1992), 53, 302; Brandon&#xA0;S. Plewe, ed., <cite>Mapping Mormonism: An Atlas of Latter-day Saint History<\/cite> (2012), 104.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "context": null,
+        "pid": "143140008",
+        "id": "note1",
+        "text": "<p data-aid=\"143140107\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110.study_intro1?lang=eng#study_intro1\">Doctrine and Covenants 110, section heading<\/a>; see also Joseph Smith, &#x201C;<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/181\">History, 1838&#x2013;1856, volume B-1 [1 September 1834&#x2013;2 November 1838]<\/a>,&#x201D; Apr. 3, 1836, 727, josephsmithpapers.org.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/110.study_intro1?lang=eng#study_intro1",
+            "text": "Doctrine and Covenants 110, section heading",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/181",
+            "text": "History, 1838\u20131856, volume B-1 [1 September 1834\u20132 November 1838]"
+          }
+        ]
+      }
+    }
+  }
+}

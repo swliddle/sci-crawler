@@ -1,27 +1,30 @@
 {
   "tableOfContentsUri": "/liahona/2020/05",
   "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2020/04/27tai?lang=spa",
     "pageAttributes": {
+      "data-asset-id": "4ccc169791954f5084214de213944bb5",
       "data-content-type": "general-conference-talk",
       "itemscope": "",
       "itemtype": "http://schema.org/Article",
-      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
       "data-uri": "/liahona/2020/05/27tai",
       "data-aid": "143141089",
       "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "lang": "spa",
-      "data-assetid": "4ccc169791954f5084214de213944bb5",
       "data-aid-version": "2",
       "data-orig-id": "3ecd3d1e4aa948ff90fdd1dc3743f1f0"
     },
     "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147138200001",
     "audio": [{
-      "voice": {"name": "audio"},
-      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-64k-spa.mp3"
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-64k-spa.mp3",
+      "variant": "audio"
     }],
     "title": "El poder del Libro de Mormón en la conversión",
-    "contentType": "text/html"
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2020-04-04T00:00:00.000Z\"}"
   },
+  "verified": true,
   "pids": [
     [
       "143141089",
@@ -266,7 +269,7 @@
       "links": [{
         "orig-type": "text/css",
         "rel": "stylesheet",
-        "href": "css/style_global-template-mobile_article.css",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
         "type": "array"
       }],
       "scripts": [],
@@ -281,14 +284,13 @@
         }
       }
     },
-    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/27tai?lang=spa\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147138200001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147138200001\" data-video-title=\"El poder del Libro de Morm&#xF3;n en la conversi&#xF3;n\" data-video-description=\"El &#xE9;lder Tai ense&#xF1;a que el Libro de Morm&#xF3;n contiene la doctrina de Cristo y nos ayuda a acercarnos m&#xE1;s a Dios.\" data-video-id=\"6147138200001\" data-ip=\"Download &amp; Streaming\" data-duration=\"541375\" data-assetid=\"D7F66295D7857E6BCB75345079D2A2FCD86E2622\" data-ref-id=\"D7F66295D7857E6BCB75345079D2A2FCD86E2622\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147138200001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"69836176\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"139672353\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"279344707\"><\/video><h1 data-aid=\"143190869\" id=\"title1\">El poder del Libro de Morm&#xF3;n en la conversi&#xF3;n<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143190871\" id=\"author1\">Por el &#xE9;lder Benjamin&#xA0;M.&#xA0;Z. Tai<\/p>\n<p class=\"author-role\" data-aid=\"143190872\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143190873\" id=\"kicker1\">El Libro de Morm&#xF3;n proporciona nutrici&#xF3;n espiritual, prescribe un plan de acci&#xF3;n y nos conecta con el Esp&#xED;ritu Santo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143190874\" id=\"p1\">Despu&#xE9;s de revisar el informe de un examen f&#xED;sico reciente, me enter&#xE9; de que deb&#xED;a efectuar ajustes a mi estilo de vida. Para ayudarme, mi m&#xE9;dico me recet&#xF3; un plan de nutrici&#xF3;n y ejercicio que, si yo decid&#xED;a seguirlo, me transformar&#xED;a en una persona m&#xE1;s sana.<\/p>\n<p data-aid=\"143190875\" id=\"p2\">Si cada uno nos someti&#xE9;ramos a un examen espiritual, &#xBF;qu&#xE9; aprender&#xED;amos sobre nosotros mismos? &#xBF;Qu&#xE9; ajustes prescribir&#xED;a nuestro m&#xE9;dico espiritual? Para que nos convirtamos en quienes necesitamos ser, es esencial que sepamos qu&#xE9; hacer y hacer lo que sabemos.<\/p>\n<p data-aid=\"143190876\" id=\"p3\">Jesucristo es el Gran M&#xE9;dico<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Mediante Su expiaci&#xF3;n, &#xC9;l venda nuestras heridas, toma sobre S&#xED; nuestras enfermedades y sana nuestro coraz&#xF3;n quebrantado<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. A trav&#xE9;s de Su gracia, nuestras debilidades pueden hacerse fuertes<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. &#xC9;l nos invita a seguirlo<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> al aprender de &#xC9;l, al escuchar Sus palabras y al caminar en la mansedumbre de Su Esp&#xED;ritu<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. &#xC9;l ha prometido ayudarnos<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> en este proceso de conversi&#xF3;n de toda la vida, el cual nos transforma y nos brinda felicidad eterna<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"143190877\" id=\"p4\">El Salvador nos ha dado el Libro de Morm&#xF3;n como una herramienta poderosa para ayudar en la conversi&#xF3;n. El Libro de Morm&#xF3;n proporciona nutrici&#xF3;n espiritual, prescribe un plan de acci&#xF3;n y nos conecta con el Esp&#xED;ritu Santo. Escrito para nosotros<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>, contiene la palabra de Dios con claridad<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> y nos habla de nuestra identidad, prop&#xF3;sito y destino<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Junto con la Biblia, el Libro de Morm&#xF3;n testifica de Jesucristo<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> y ense&#xF1;a c&#xF3;mo podemos conocer la verdad y llegar a ser como &#xC9;l.<\/p>\n<img id=\"img1\" src=\"https://assets.ldscdn.org/ec/82/ec828a8b507a3283b99f2957f96a4e1b87506873/saw_polo.png\" data-img-id=\"2349946\" srcset=\"https://assets.ldscdn.org/43/bc/43bc3dad5e6b7d9a52d86904b28b938e5fc0f020/saw_polo.png 60w,https://assets.ldscdn.org/5d/ae/5dae97af8dd3c64d6a38eef6b99c74630e2a8b2f/saw_polo.png 100w,https://assets.ldscdn.org/57/13/5713a67f4e21abfe7a1ed778a33d7d776ce64dc8/saw_polo.png 200w,https://assets.ldscdn.org/78/81/78813404bd1b05d63cff1ed10ed76ac146dc08ad/saw_polo.png 250w,https://assets.ldscdn.org/9e/19/9e192d353c87e486906d8a57492b4b1f64bde256/saw_polo.png 320w,https://assets.ldscdn.org/ec/82/ec828a8b507a3283b99f2957f96a4e1b87506873/saw_polo.png 500w,https://assets.ldscdn.org/ce/15/ce15472fbcb238b6c264d61873dcf1d66064f7cf/saw_polo.png 640w\" data-assetid=\"f56f6cdaa9b0f30ee9277a8a40250ac0bd3b036b\" data-missing-asset=\"false\" alt=\"Saw Polo\">\n<p data-aid=\"143190878\" id=\"p5\">El hermano Saw Polo ten&#xED;a cincuenta y ocho a&#xF1;os cuando se le dio a conocer el evangelio restaurado de Jesucristo. Cuando lo conoc&#xED;, hab&#xED;a estado sirviendo como presidente de rama durante varios a&#xF1;os, pero me enter&#xE9; de que nunca hab&#xED;a le&#xED;do el Libro de Morm&#xF3;n porque a&#xFA;n no estaba disponible en su lengua materna, el birmano. Cuando le pregunt&#xE9; c&#xF3;mo sab&#xED;a que el libro era verdadero sin haberlo le&#xED;do, respondi&#xF3; que hab&#xED;a estudiado el libro ilustrado <em>Historias del Libro de Morm&#xF3;n<\/em> todos los d&#xED;as mirando las ilustraciones, usando un diccionario para traducir las palabras en ingl&#xE9;s y tomando esmeradas notas de lo que aprend&#xED;a. &#xC9;l explic&#xF3;: &#x201C;Cada vez que estudiaba, oraba en cuanto a lo que aprend&#xED;a, y sent&#xED;a paz y gozo, mi mente estaba clara y mi coraz&#xF3;n se ablandaba. Sent&#xED; que el Esp&#xED;ritu Santo me testificaba que era verdad. Yo s&#xE9; que el Libro de Morm&#xF3;n es la palabra de Dios&#x201D;.<\/p>\n<p data-aid=\"143190879\" id=\"p21\">Al igual que el hermano Saw Polo, cada uno de nosotros puede estudiar el Libro de Morm&#xF3;n de acuerdo con nuestras circunstancias. Cuando deseamos creer y meditar en sus ense&#xF1;anzas en nuestro coraz&#xF3;n, podemos preguntarle a Dios con fe si las ense&#xF1;anzas son verdaderas<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Si somos sinceros en nuestro deseo de saber y tenemos una verdadera intenci&#xF3;n de actuar, &#xC9;l nos responder&#xE1; en nuestro coraz&#xF3;n por medio del Esp&#xED;ritu Santo. Es por el poder del Esp&#xED;ritu Santo que conoceremos la verdad de todas las cosas<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Cuando obtengamos un testimonio divino del Libro de Morm&#xF3;n, tambi&#xE9;n sabremos por el mismo poder que Jesucristo es el Salvador del mundo, que Jos&#xE9; Smith es Su profeta y que La&#xA0;Iglesia de Jesucristo de los Santos de los &#xDA;ltimos D&#xED;as es Su Iglesia restaurada<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"143190880\" id=\"p7\">Cuando era joven y comenzaba mi servicio misional, abord&#xE9; un avi&#xF3;n que se dirig&#xED;a a Australia. Sinti&#xE9;ndome muy solo, ansioso e inadecuado, pero habi&#xE9;ndome comprometido a servir, necesitaba desesperadamente sentir la certeza de que lo que cre&#xED;a era verdad. Or&#xE9; y le&#xED; las Escrituras con ah&#xED;nco, pero a medida que avanzaba el vuelo, mis dudas se intensificaban y mi estado f&#xED;sico se deterioraba. Despu&#xE9;s de esforzarme durante varias horas, un azafato vino por el pasillo y se detuvo junto a mi asiento. Tom&#xF3; de mis manos el Libro de Morm&#xF3;n que yo estaba leyendo. Mir&#xF3; la portada y dijo: &#x201C;&#xA1;Este es un gran libro!&#x201D;. Luego, me devolvi&#xF3; el libro y sigui&#xF3; caminando. Nunca m&#xE1;s lo volv&#xED; a ver.<\/p>\n<p data-aid=\"143190881\" id=\"p20\">Mientras sus palabras resonaban en mis o&#xED;dos, claramente escuch&#xE9; y sent&#xED; en mi coraz&#xF3;n: &#x201C;Estoy aqu&#xED; y s&#xE9; d&#xF3;nde est&#xE1;s. Haz simplemente lo mejor que puedas, porque Yo me encargar&#xE9; del resto&#x201D;. En ese avi&#xF3;n sobre el oc&#xE9;ano Pac&#xED;fico, recib&#xED; un testimonio personal, a trav&#xE9;s de mi estudio del Libro de Morm&#xF3;n y los susurros del Esp&#xED;ritu Santo, de que mi Salvador sab&#xED;a qui&#xE9;n era yo y que el Evangelio era verdadero.<\/p>\n<p data-aid=\"143190882\" id=\"p8\">El &#xE9;lder David&#xA0;A. Bednar ense&#xF1;&#xF3;: &#x201C;El saber que el Evangelio es verdadero es la esencia de un testimonio. El ser constantemente fieles al Evangelio es la esencia de la conversi&#xF3;n&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. La conversi&#xF3;n requiere que seamos &#x201C;hacedores de la palabra, y no tan solamente oidores&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. El plan de acci&#xF3;n del Se&#xF1;or para nosotros &#xFEFF;&#x2014;la doctrina de Cristo&#xFEFF;&#x2014; se ense&#xF1;a con la mayor claridad en el Libro de Morm&#xF3;n<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Este plan incluye:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"143190883\" id=\"p9\">Primero, <em>ejercer<\/em> fe en Jesucristo al <em>confiar<\/em> en &#xC9;l, <em>guardar<\/em> Sus mandamientos y <em>saber<\/em> que &#xC9;l nos ayudar&#xE1;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190884\" id=\"p10\">Segundo, <em>arrepentirnos<\/em> a diario de nuestras faltas y <em>experimentar<\/em> gozo y paz cuando &#xC9;l nos perdona<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. El arrepentimiento requiere que <em>perdonemos<\/em> a los dem&#xE1;s<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> y nos ayuda a avanzar. El Salvador ha prometido perdonarnos tantas veces como nos arrepintamos<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190885\" id=\"p11\">Tercero, <em>hacer y guardar<\/em> convenios con Dios a trav&#xE9;s de ordenanzas como el bautismo. Esto nos mantendr&#xE1; en la senda de los convenios que conduce a &#xC9;l<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190886\" id=\"p12\">Cuarto, <em>recibir<\/em> el don del Esp&#xED;ritu Santo. Este don nos permite tener la compa&#xF1;&#xED;a constante de Aquel que nos santifica, consuela y gu&#xED;a<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190887\" id=\"p13\">Y quinto, <em>perseverar<\/em> hasta el fin al <em>seguir adelante<\/em> con firmeza mientras <em>nos deleitamos<\/em> a diario en la palabra de Cristo<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Al deleitarnos en el Libro de Morm&#xF3;n y aferrarnos a sus ense&#xF1;anzas, podemos vencer las tentaciones y recibir gu&#xED;a y protecci&#xF3;n durante toda la vida<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. <\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"143190888\" id=\"p14\">Al poner en pr&#xE1;ctica constantemente la doctrina de Cristo en nuestra vida, venceremos la inercia que impide el cambio y el miedo que frustra la acci&#xF3;n. Recibiremos revelaci&#xF3;n personal, ya que el Esp&#xED;ritu Santo &#x201C;os <em>mostrar&#xE1;<\/em> todas las cosas que deb&#xE9;is hacer&#x201D;<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> y &#x201C;las palabras de Cristo os <em>dir&#xE1;n<\/em> todas las cosas que deb&#xE9;is hacer&#x201D;<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"143190889\" id=\"p15\">Durante veinte a&#xF1;os, el hermano Huang Juncong luch&#xF3; contra el alcohol, los cigarrillos y el juego compulsivo. Cuando se le dio a conocer sobre Jesucristo y Su evangelio restaurado, el hermano Huang dese&#xF3; cambiar por el bien de su joven familia. Su mayor desaf&#xED;o era el tabaco. Era un fumador empedernido, hab&#xED;a tratado de dejarlo muchas veces sin &#xE9;xito. Un d&#xED;a, estas palabras del Libro de Morm&#xF3;n se quedaron en su mente: &#x201C;&#x2026;&#xA0;con un coraz&#xF3;n sincero, con verdadera intenci&#xF3;n&#x201D;<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Aunque sus intentos anteriores hab&#xED;an fracasado, sinti&#xF3; que tal vez podr&#xED;a cambiar con la ayuda del Padre Celestial y Jesucristo.<\/p>\n<p data-aid=\"143190890\" id=\"p16\">Los misioneros de tiempo completo unieron su fe a la de &#xE9;l y proveyeron un plan de acci&#xF3;n de estrategias pr&#xE1;cticas, junto con fuertes dosis de oraci&#xF3;n y estudio de la palabra de Dios. Con sinceridad y verdadera intenci&#xF3;n, el hermano Huang actu&#xF3; con fiel determinaci&#xF3;n y descubri&#xF3; que al concentrarse m&#xE1;s en los nuevos h&#xE1;bitos que deseaba desarrollar, tal como estudiar el Libro de Morm&#xF3;n, se centraba menos en los h&#xE1;bitos que quer&#xED;a perder.<\/p>\n<p data-aid=\"143190892\" id=\"p17\">Al recordar su experiencia de hace quince a&#xF1;os, coment&#xF3;: &#x201C;No recuerdo exactamente cu&#xE1;ndo dej&#xE9; de fumar, pero a medida que me esforzaba cada d&#xED;a por hacer las cosas que sab&#xED;a que deb&#xED;a hacer para invitar al Esp&#xED;ritu del Se&#xF1;or a mi vida y al continuar haci&#xE9;ndolas, dejaron de atraerme los cigarrillos y nunca m&#xE1;s me atrajeron&#x201D;. Al poner en pr&#xE1;ctica las ense&#xF1;anzas del Libro de Morm&#xF3;n, la vida del hermano Huang se ha transformado y &#xE9;l se ha convertido en un mejor esposo y padre.<\/p>\n<img id=\"img2\" src=\"https://assets.ldscdn.org/27/3b/273b8a04dcdefce60bb6903e1542487656503dba/families_mothers_fathers_children.png\" data-img-id=\"2349947\" srcset=\"https://assets.ldscdn.org/9b/fd/9bfd5cb8a09e7f1384a545f21833528210a6709b/families_mothers_fathers_children.png 60w,https://assets.ldscdn.org/c9/2b/c92b55db876f1191d41c6eb10bedf6a0812c4277/families_mothers_fathers_children.png 100w,https://assets.ldscdn.org/46/84/4684183adb390e87af8d52c2770dcb45a8ac1670/families_mothers_fathers_children.png 200w,https://assets.ldscdn.org/9a/b9/9ab91b0be1e3625895e079cd2c365d59822b5bdf/families_mothers_fathers_children.png 250w,https://assets.ldscdn.org/99/9b/999b3bba00e56e8a15e62f1a715cba5c624495a4/families_mothers_fathers_children.png 320w,https://assets.ldscdn.org/27/3b/273b8a04dcdefce60bb6903e1542487656503dba/families_mothers_fathers_children.png 500w,https://assets.ldscdn.org/9e/80/9e80b4427c65cbb1591ff97cdeffb020756d2f79/families_mothers_fathers_children.png 640w\" data-assetid=\"c0d9dfc25ad9bdb21c85d2a5326422e67250d9f3\" data-missing-asset=\"false\" alt=\"Huang Juncong Family\">\n<p data-aid=\"143190894\" id=\"p18\">El presidente Russell&#xA0;M. Nelson prometi&#xF3;: &#x201C;&#x2026;&#xA0;si <em>cada d&#xED;a<\/em> estudian el Libro de Morm&#xF3;n con esp&#xED;ritu de oraci&#xF3;n, <em>cada d&#xED;a<\/em> tomar&#xE1;n mejores decisiones. Les prometo que cuando mediten en lo que estudien, se abrir&#xE1;n las ventanas de los cielos y recibir&#xE1;n respuestas a sus preguntas y direcci&#xF3;n para su vida. Les prometo que si cada d&#xED;a se sumergen en el Libro de Morm&#xF3;n, estar&#xE1;n vacunados contra los males de esta &#xE9;poca, incluso la plaga esclavizante de la pornograf&#xED;a y otras adicciones que entumecen la mente&#x201D;<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"143190895\" id=\"p19\">Queridos amigos, el Libro de Morm&#xF3;n es la palabra de Dios y nos acercaremos m&#xE1;s a &#xC9;l si lo estudiamos<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. Al experimentar con sus palabras, obtendremos un testimonio de su veracidad<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>. Conforme vivamos constantemente de acuerdo con sus ense&#xF1;anzas, &#x201C;no ten[dremos] m&#xE1;s deseos de hacer lo malo&#x201D;<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Nuestro coraz&#xF3;n, semblante y naturaleza ser&#xE1;n transformados para volvernos m&#xE1;s semejantes al Salvador<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>. Comparto mi testimonio de que Jes&#xFA;s es el Cristo, nuestro Salvador, Redentor y Amigo. En el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147138200001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147138200001\" data-video-title=\"El poder del Libro de Mormón en la conversión\" data-video-description=\"El élder Tai enseña que el Libro de Mormón contiene la doctrina de Cristo y nos ayuda a acercarnos más a Dios.\" data-video-id=\"6147138200001\" data-ip=\"Download and Streaming                            \" data-duration=\"541000\" data-assetId=\"D7F66295D7857E6BCB75345079D2A2FCD86E2622\" data-ref-id=\"D7F66295D7857E6BCB75345079D2A2FCD86E2622\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147138200001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"279344707\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"49394183\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"130509233\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2070-benjamin-m-z-tai-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"279344707\"/><\/video><h1 data-aid=\"143190869\" id=\"title1\">El poder del Libro de Mormón en la conversión<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143190871\" id=\"author1\">Por el élder Benjamin M. Z. Tai<\/p>\n<p class=\"author-role\" data-aid=\"143190872\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143190873\" id=\"kicker1\">El Libro de Mormón proporciona nutrición espiritual, prescribe un plan de acción y nos conecta con el Espíritu Santo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143190874\" id=\"p1\">Después de revisar el informe de un examen físico reciente, me enteré de que debía efectuar ajustes a mi estilo de vida. Para ayudarme, mi médico me recetó un plan de nutrición y ejercicio que, si yo decidía seguirlo, me transformaría en una persona más sana.<\/p>\n<p data-aid=\"143190875\" id=\"p2\">Si cada uno nos sometiéramos a un examen espiritual, ¿qué aprenderíamos sobre nosotros mismos? ¿Qué ajustes prescribiría nuestro médico espiritual? Para que nos convirtamos en quienes necesitamos ser, es esencial que sepamos qué hacer y hacer lo que sabemos.<\/p>\n<p data-aid=\"143190876\" id=\"p3\">Jesucristo es el Gran Médico<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Mediante Su expiación, Él venda nuestras heridas, toma sobre Sí nuestras enfermedades y sana nuestro corazón quebrantado<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. A través de Su gracia, nuestras debilidades pueden hacerse fuertes<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Él nos invita a seguirlo<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> al aprender de Él, al escuchar Sus palabras y al caminar en la mansedumbre de Su Espíritu<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Él ha prometido ayudarnos<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> en este proceso de conversión de toda la vida, el cual nos transforma y nos brinda felicidad eterna<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"143190877\" id=\"p4\">El Salvador nos ha dado el Libro de Mormón como una herramienta poderosa para ayudar en la conversión. El Libro de Mormón proporciona nutrición espiritual, prescribe un plan de acción y nos conecta con el Espíritu Santo. Escrito para nosotros<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>, contiene la palabra de Dios con claridad<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> y nos habla de nuestra identidad, propósito y destino<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Junto con la Biblia, el Libro de Mormón testifica de Jesucristo<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> y enseña cómo podemos conocer la verdad y llegar a ser como Él.<\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/ec/82/ec828a8b507a3283b99f2957f96a4e1b87506873/saw_polo.png\" data-img-id=\"2349946\" srcset=\"https://assets.churchofjesuschrist.org/43/bc/43bc3dad5e6b7d9a52d86904b28b938e5fc0f020/saw_polo.png 60w,https://assets.churchofjesuschrist.org/5d/ae/5dae97af8dd3c64d6a38eef6b99c74630e2a8b2f/saw_polo.png 100w,https://assets.churchofjesuschrist.org/57/13/5713a67f4e21abfe7a1ed778a33d7d776ce64dc8/saw_polo.png 200w,https://assets.churchofjesuschrist.org/78/81/78813404bd1b05d63cff1ed10ed76ac146dc08ad/saw_polo.png 250w,https://assets.churchofjesuschrist.org/9e/19/9e192d353c87e486906d8a57492b4b1f64bde256/saw_polo.png 320w,https://assets.churchofjesuschrist.org/ec/82/ec828a8b507a3283b99f2957f96a4e1b87506873/saw_polo.png 500w,https://assets.churchofjesuschrist.org/ce/15/ce15472fbcb238b6c264d61873dcf1d66064f7cf/saw_polo.png 640w\" data-assetId=\"f56f6cdaa9b0f30ee9277a8a40250ac0bd3b036b\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"775\" data-aspect-ratio=\"0.6451612903225806\"/>\n<p data-aid=\"143190878\" id=\"p5\">El hermano Saw Polo tenía cincuenta y ocho años cuando se le dio a conocer el evangelio restaurado de Jesucristo. Cuando lo conocí, había estado sirviendo como presidente de rama durante varios años, pero me enteré de que nunca había leído el Libro de Mormón porque aún no estaba disponible en su lengua materna, el birmano. Cuando le pregunté cómo sabía que el libro era verdadero sin haberlo leído, respondió que había estudiado el libro ilustrado <em>Historias del Libro de Mormón<\/em> todos los días mirando las ilustraciones, usando un diccionario para traducir las palabras en inglés y tomando esmeradas notas de lo que aprendía. Él explicó: \u201cCada vez que estudiaba, oraba en cuanto a lo que aprendía, y sentía paz y gozo, mi mente estaba clara y mi corazón se ablandaba. Sentí que el Espíritu Santo me testificaba que era verdad. Yo sé que el Libro de Mormón es la palabra de Dios\u201d.<\/p>\n<p data-aid=\"143190879\" id=\"p21\">Al igual que el hermano Saw Polo, cada uno de nosotros puede estudiar el Libro de Mormón de acuerdo con nuestras circunstancias. Cuando deseamos creer y meditar en sus enseñanzas en nuestro corazón, podemos preguntarle a Dios con fe si las enseñanzas son verdaderas<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Si somos sinceros en nuestro deseo de saber y tenemos una verdadera intención de actuar, Él nos responderá en nuestro corazón por medio del Espíritu Santo. Es por el poder del Espíritu Santo que conoceremos la verdad de todas las cosas<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Cuando obtengamos un testimonio divino del Libro de Mormón, también sabremos por el mismo poder que Jesucristo es el Salvador del mundo, que José Smith es Su profeta y que La Iglesia de Jesucristo de los Santos de los Últimos Días es Su Iglesia restaurada<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"143190880\" id=\"p7\">Cuando era joven y comenzaba mi servicio misional, abordé un avión que se dirigía a Australia. Sintiéndome muy solo, ansioso e inadecuado, pero habiéndome comprometido a servir, necesitaba desesperadamente sentir la certeza de que lo que creía era verdad. Oré y leí las Escrituras con ahínco, pero a medida que avanzaba el vuelo, mis dudas se intensificaban y mi estado físico se deterioraba. Después de esforzarme durante varias horas, un azafato vino por el pasillo y se detuvo junto a mi asiento. Tomó de mis manos el Libro de Mormón que yo estaba leyendo. Miró la portada y dijo: \u201c¡Este es un gran libro!\u201d. Luego, me devolvió el libro y siguió caminando. Nunca más lo volví a ver.<\/p>\n<p data-aid=\"143190881\" id=\"p20\">Mientras sus palabras resonaban en mis oídos, claramente escuché y sentí en mi corazón: \u201cEstoy aquí y sé dónde estás. Haz simplemente lo mejor que puedas, porque Yo me encargaré del resto\u201d. En ese avión sobre el océano Pacífico, recibí un testimonio personal, a través de mi estudio del Libro de Mormón y los susurros del Espíritu Santo, de que mi Salvador sabía quién era yo y que el Evangelio era verdadero.<\/p>\n<p data-aid=\"143190882\" id=\"p8\">El élder David A. Bednar enseñó: \u201cEl saber que el Evangelio es verdadero es la esencia de un testimonio. El ser constantemente fieles al Evangelio es la esencia de la conversión\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. La conversión requiere que seamos \u201chacedores de la palabra, y no tan solamente oidores\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. El plan de acción del Señor para nosotros \u2014la doctrina de Cristo\u2014 se enseña con la mayor claridad en el Libro de Mormón<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Este plan incluye:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"143190883\" id=\"p9\">Primero, <em>ejercer<\/em> fe en Jesucristo al <em>confiar<\/em> en Él, <em>guardar<\/em> Sus mandamientos y <em>saber<\/em> que Él nos ayudará<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190884\" id=\"p10\">Segundo, <em>arrepentirnos<\/em> a diario de nuestras faltas y <em>experimentar<\/em> gozo y paz cuando Él nos perdona<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. El arrepentimiento requiere que <em>perdonemos<\/em> a los demás<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> y nos ayuda a avanzar. El Salvador ha prometido perdonarnos tantas veces como nos arrepintamos<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190885\" id=\"p11\">Tercero, <em>hacer y guardar<\/em> convenios con Dios a través de ordenanzas como el bautismo. Esto nos mantendrá en la senda de los convenios que conduce a Él<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190886\" id=\"p12\">Cuarto, <em>recibir<\/em> el don del Espíritu Santo. Este don nos permite tener la compañía constante de Aquel que nos santifica, consuela y guía<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"143190887\" id=\"p13\">Y quinto, <em>perseverar<\/em> hasta el fin al <em>seguir adelante<\/em> con firmeza mientras <em>nos deleitamos<\/em> a diario en la palabra de Cristo<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Al deleitarnos en el Libro de Mormón y aferrarnos a sus enseñanzas, podemos vencer las tentaciones y recibir guía y protección durante toda la vida<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. <\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"143190888\" id=\"p14\">Al poner en práctica constantemente la doctrina de Cristo en nuestra vida, venceremos la inercia que impide el cambio y el miedo que frustra la acción. Recibiremos revelación personal, ya que el Espíritu Santo \u201cos <em>mostrará<\/em> todas las cosas que debéis hacer\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> y \u201clas palabras de Cristo os <em>dirán<\/em> todas las cosas que debéis hacer\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"143190889\" id=\"p15\">Durante veinte años, el hermano Huang Juncong luchó contra el alcohol, los cigarrillos y el juego compulsivo. Cuando se le dio a conocer sobre Jesucristo y Su evangelio restaurado, el hermano Huang deseó cambiar por el bien de su joven familia. Su mayor desafío era el tabaco. Era un fumador empedernido, había tratado de dejarlo muchas veces sin éxito. Un día, estas palabras del Libro de Mormón se quedaron en su mente: \u201c\u2026 con un corazón sincero, con verdadera intención\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Aunque sus intentos anteriores habían fracasado, sintió que tal vez podría cambiar con la ayuda del Padre Celestial y Jesucristo.<\/p>\n<p data-aid=\"143190890\" id=\"p16\">Los misioneros de tiempo completo unieron su fe a la de él y proveyeron un plan de acción de estrategias prácticas, junto con fuertes dosis de oración y estudio de la palabra de Dios. Con sinceridad y verdadera intención, el hermano Huang actuó con fiel determinación y descubrió que al concentrarse más en los nuevos hábitos que deseaba desarrollar, tal como estudiar el Libro de Mormón, se centraba menos en los hábitos que quería perder.<\/p>\n<p data-aid=\"143190892\" id=\"p17\">Al recordar su experiencia de hace quince años, comentó: \u201cNo recuerdo exactamente cuándo dejé de fumar, pero a medida que me esforzaba cada día por hacer las cosas que sabía que debía hacer para invitar al Espíritu del Señor a mi vida y al continuar haciéndolas, dejaron de atraerme los cigarrillos y nunca más me atrajeron\u201d. Al poner en práctica las enseñanzas del Libro de Mormón, la vida del hermano Huang se ha transformado y él se ha convertido en un mejor esposo y padre.<\/p>\n<img id=\"img2\" src=\"https://assets.churchofjesuschrist.org/27/3b/273b8a04dcdefce60bb6903e1542487656503dba/families_mothers_fathers_children.png\" data-img-id=\"2349947\" srcset=\"https://assets.churchofjesuschrist.org/9b/fd/9bfd5cb8a09e7f1384a545f21833528210a6709b/families_mothers_fathers_children.png 60w,https://assets.churchofjesuschrist.org/c9/2b/c92b55db876f1191d41c6eb10bedf6a0812c4277/families_mothers_fathers_children.png 100w,https://assets.churchofjesuschrist.org/46/84/4684183adb390e87af8d52c2770dcb45a8ac1670/families_mothers_fathers_children.png 200w,https://assets.churchofjesuschrist.org/9a/b9/9ab91b0be1e3625895e079cd2c365d59822b5bdf/families_mothers_fathers_children.png 250w,https://assets.churchofjesuschrist.org/99/9b/999b3bba00e56e8a15e62f1a715cba5c624495a4/families_mothers_fathers_children.png 320w,https://assets.churchofjesuschrist.org/27/3b/273b8a04dcdefce60bb6903e1542487656503dba/families_mothers_fathers_children.png 500w,https://assets.churchofjesuschrist.org/9e/80/9e80b4427c65cbb1591ff97cdeffb020756d2f79/families_mothers_fathers_children.png 640w\" data-assetId=\"c0d9dfc25ad9bdb21c85d2a5326422e67250d9f3\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"143190894\" id=\"p18\">El presidente Russell M. Nelson prometió: \u201c\u2026 si <em>cada día<\/em> estudian el Libro de Mormón con espíritu de oración, <em>cada día<\/em> tomarán mejores decisiones. Les prometo que cuando mediten en lo que estudien, se abrirán las ventanas de los cielos y recibirán respuestas a sus preguntas y dirección para su vida. Les prometo que si cada día se sumergen en el Libro de Mormón, estarán vacunados contra los males de esta época, incluso la plaga esclavizante de la pornografía y otras adicciones que entumecen la mente\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"143190895\" id=\"p19\">Queridos amigos, el Libro de Mormón es la palabra de Dios y nos acercaremos más a Él si lo estudiamos<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. Al experimentar con sus palabras, obtendremos un testimonio de su veracidad<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>. Conforme vivamos constantemente de acuerdo con sus enseñanzas, \u201cno ten[dremos] más deseos de hacer lo malo\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Nuestro corazón, semblante y naturaleza serán transformados para volvernos más semejantes al Salvador<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>. Comparto mi testimonio de que Jesús es el Cristo, nuestro Salvador, Redentor y Amigo. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"143190897\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"143190899\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2.17?lang=spa#p17\">Marcos 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"143190901\" id=\"note2_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo 147:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.4?lang=spa#p4\">Isaías 53:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.17?lang=spa#p17\">Mateo 8:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"143190904\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.7?lang=spa#p7\">Jacob 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=spa#p27\">Éter 12:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"143190906\" id=\"note4_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19.21?lang=spa#p21\">Mateo 19:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.21?lang=spa#p21\">Marcos 10:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.22?lang=spa#p22\">Lucas 18:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=spa#p10\">2 Nefi 31:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"143191908\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"143191910\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/41.10?lang=spa#p10\">Isaías 41:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"143191912\" id=\"note7_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"143191913\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.8,21-22?lang=spa#p8\">2 Nefi 25:8, 21\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/7.1?lang=spa#p1\">Mormón 7:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8.35?lang=spa#p35\">8:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"143191916\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.7?lang=spa#p7\">2 Nefi 25:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2-3?lang=spa#p2\">31:2\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"143191918\" id=\"note10_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.25?lang=spa#p25\">2 Nefi 2:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=spa\">Alma 40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"143191920\" id=\"note11_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/29.4,11-18?lang=spa#p4\">Isaías 29:4, 11\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/37.16-21?lang=spa#p16\">Ezequiel 37:16\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/13.1?lang=spa#p1\">2 Corintios 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.38-42?lang=spa#p38\">1 Nefi 13:38\u201342<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/3.12?lang=spa#p12\">2 Nefi 3:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=spa#p26\">25:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"143191922\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26\u201343<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"143191924\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3-5?lang=spa#p3\">Moroni 10:3\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"143191926\" id=\"note14_p1\">Véase la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">introducción del Libro de Mormón<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"143191928\" id=\"note15_p1\">David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;para=34#p34\">Convertidos al Señor<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2012, pág. 109.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"143191930\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1.22?lang=spa#p22\">Santiago 1:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"143191932\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-40?lang=spa#p31\">3 Nefi 11:31\u201340<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-22?lang=spa#p13\">27:13\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"143191934\" id=\"note18_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=spa#p7\">1 Nefi 3:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.33?lang=spa#p33\">Moroni 7:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"143191935\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=spa#p3\">Mosíah 4:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"143191938\" id=\"note20_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.21-35?lang=spa#p21\">Mateo 18:21\u201335<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.25-26?lang=spa#p25\">Marcos 11:25\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.37?lang=spa#p37\">Lucas 6:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/13.14-15?lang=spa#p14\">3 Nefi 13:14\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.10?lang=spa#p10\">Doctrina y Convenios 64:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.1?lang=spa#p1\">82:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"143191939\" id=\"note21_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=spa#p30\">Mosíah 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.8?lang=spa#p8\">Moroni 6:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"143191942\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.17-18?lang=spa#p17\">2 Nefi 31:17\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"143191944\" id=\"note23_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.19?lang=spa#p19\">1 Nefi 10:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.1?lang=spa#p1\">2 Nefi 33:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32?lang=spa#p32\">3 Nefi 11:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28.11?lang=spa#p11\">28:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"143191945\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"143191947\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.24?lang=spa#p24\">1 Nefi 15:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"143191950\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=spa#p5\">2 Nefi 32:5<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"143191951\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"143191954\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.4?lang=spa#p4\">Moroni 10:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"143191956\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;para=39#p39\">El Libro de Mormón: ¿Cómo sería su vida sin él?<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, pág. 62.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"143191957\" id=\"note30_p1\">Con respecto al Libro de Mormón, el profeta José Smith dijo que \u201cun hombre se acercaría más a Dios al seguir sus preceptos que los de cualquier otro libro\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducción del Libro de Mormón<\/a>).<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"143191960\" id=\"note31_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6.7?lang=spa#p7\">Jacob 6:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26\u201343<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"143191962\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/19.33?lang=spa#p33\">Alma 19:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"143191964\" id=\"note33_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=spa#p17\">2 Corintios 5:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">Mosíah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14,19?lang=spa#p14\">Alma 5:14, 19<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
     "footnotes": {
       "note4": {
         "marker": "4.",
-        "context": null,
         "pid": "143190876",
         "id": "note4",
-        "text": "<p data-aid=\"143190906\" id=\"note4_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19.21?lang=spa#p21\">Mateo 19:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.21?lang=spa#p21\">Marcos 10:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.22?lang=spa#p22\">Lucas 18:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=spa#p10\">2&#xA0;Nefi 31:10<\/a>.<\/p>",
+        "text": "<p data-aid=\"143190906\" id=\"note4_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19.21?lang=spa#p21\">Mateo 19:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10.21?lang=spa#p21\">Marcos 10:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18.22?lang=spa#p22\">Lucas 18:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.10?lang=spa#p10\">2 Nefi 31:10<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/nt/matt/19.21?lang=spa#p21",
@@ -314,10 +316,9 @@
       },
       "note5": {
         "marker": "5.",
-        "context": null,
         "pid": "143190876",
         "id": "note5",
-        "text": "<p data-aid=\"143191908\" id=\"note5_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191908\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.23?lang=spa#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/19.23?lang=spa#p23",
           "text": "Doctrina y Convenios 19:23",
@@ -326,10 +327,9 @@
       },
       "note2": {
         "marker": "2.",
-        "context": null,
         "pid": "143190876",
         "id": "note2",
-        "text": "<p data-aid=\"143190901\" id=\"note2_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo&#xA0;147:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.4?lang=spa#p4\">Isa&#xED;as 53:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.17?lang=spa#p17\">Mateo 8:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143190901\" id=\"note2_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo 147:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.4?lang=spa#p4\">Isaías 53:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.17?lang=spa#p17\">Mateo 8:17<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/ps/147.3?lang=spa#p3",
@@ -350,10 +350,9 @@
       },
       "note3": {
         "marker": "3.",
-        "context": null,
         "pid": "143190876",
         "id": "note3",
-        "text": "<p data-aid=\"143190904\" id=\"note3_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2&#xA0;Nefi 25:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.7?lang=spa#p7\">Jacob 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=spa#p27\">&#xC9;ter 12:27<\/a>.<\/p>",
+        "text": "<p data-aid=\"143190904\" id=\"note3_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.23?lang=spa#p23\">2 Nefi 25:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.7?lang=spa#p7\">Jacob 4:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=spa#p27\">Éter 12:27<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/2-ne/25.23?lang=spa#p23",
@@ -374,10 +373,9 @@
       },
       "note8": {
         "marker": "8.",
-        "context": null,
         "pid": "143190877",
         "id": "note8",
-        "text": "<p data-aid=\"143191913\" id=\"note8_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.8,21-22?lang=spa#p8\">2&#xA0;Nefi 25:8, 21&#x2013;22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/7.1?lang=spa#p1\">Morm&#xF3;n 7:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8.35?lang=spa#p35\">8:35<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191913\" id=\"note8_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.8,21-22?lang=spa#p8\">2 Nefi 25:8, 21\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/7.1?lang=spa#p1\">Mormón 7:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8.35?lang=spa#p35\">8:35<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/2-ne/25.8,21-22?lang=spa#p8",
@@ -398,10 +396,9 @@
       },
       "note9": {
         "marker": "9.",
-        "context": null,
         "pid": "143190877",
         "id": "note9",
-        "text": "<p data-aid=\"143191916\" id=\"note9_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.7?lang=spa#p7\">2&#xA0;Nefi 25:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2-3?lang=spa#p2\">31:2&#x2013;3<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191916\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.7?lang=spa#p7\">2 Nefi 25:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.2-3?lang=spa#p2\">31:2\u20133<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/2-ne/25.7?lang=spa#p7",
@@ -417,10 +414,9 @@
       },
       "note6": {
         "marker": "6.",
-        "context": null,
         "pid": "143190876",
         "id": "note6",
-        "text": "<p data-aid=\"143191910\" id=\"note6_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/41.10?lang=spa#p10\">Isa&#xED;as 41:10<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191910\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/41.10?lang=spa#p10\">Isaías 41:10<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/ot/isa/41.10?lang=spa#p10",
           "text": "Isaías 41:10",
@@ -429,10 +425,9 @@
       },
       "note7": {
         "marker": "7.",
-        "context": null,
         "pid": "143190876",
         "id": "note7",
-        "text": "<p data-aid=\"143191912\" id=\"note7_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mos&#xED;ah 2:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191912\" id=\"note7_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/mosiah/2.41?lang=spa#p41",
@@ -453,10 +448,9 @@
       },
       "note30": {
         "marker": "30.",
-        "context": null,
         "pid": "143190895",
         "id": "note30",
-        "text": "<p data-aid=\"143191957\" id=\"note30_p1\">Con respecto al Libro de Morm&#xF3;n, el profeta Jos&#xE9; Smith dijo que &#x201C;un hombre se acercar&#xED;a m&#xE1;s a Dios al seguir sus preceptos que los de cualquier otro libro&#x201D; (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducci&#xF3;n del Libro de Morm&#xF3;n<\/a>).<\/p>",
+        "text": "<p data-aid=\"143191957\" id=\"note30_p1\">Con respecto al Libro de Mormón, el profeta José Smith dijo que \u201cun hombre se acercaría más a Dios al seguir sus preceptos que los de cualquier otro libro\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducción del Libro de Mormón<\/a>).<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/introduction?lang=spa",
           "text": "Introducción del Libro de Mormón",
@@ -465,7 +459,6 @@
       },
       "note16": {
         "marker": "16.",
-        "context": null,
         "pid": "143190882",
         "id": "note16",
         "text": "<p data-aid=\"143191930\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1.22?lang=spa#p22\">Santiago 1:22<\/a>.<\/p>",
@@ -477,22 +470,20 @@
       },
       "note15": {
         "marker": "15.",
-        "context": null,
         "pid": "143190882",
         "id": "note15",
-        "text": "<p data-aid=\"143191928\" id=\"note15_p1\">David&#xA0;A. Bednar, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;para=34#p34\">Convertidos al Se&#xF1;or<\/a>&#x201D;, <cite>Liahona<\/cite>, noviembre de 2012, p&#xE1;g. 109.<\/p>",
+        "text": "<p data-aid=\"143191928\" id=\"note15_p1\">David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;para=34#p34\">Convertidos al Señor<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2012, pág. 109.<\/p>",
         "referenceUris": [{
-          "href": "/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&para=34#p34",
+          "href": "/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;para=34#p34",
           "text": "Convertidos al Señor",
           "type": "cross-ref"
         }]
       },
       "note14": {
         "marker": "14.",
-        "context": null,
         "pid": "143190879",
         "id": "note14",
-        "text": "<p data-aid=\"143191926\" id=\"note14_p1\">V&#xE9;ase la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">introducci&#xF3;n del Libro de Morm&#xF3;n<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191926\" id=\"note14_p1\">Véase la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">introducción del Libro de Mormón<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/introduction?lang=spa",
           "text": "introducción del Libro de Mormón",
@@ -501,10 +492,9 @@
       },
       "note13": {
         "marker": "13.",
-        "context": null,
         "pid": "143190879",
         "id": "note13",
-        "text": "<p data-aid=\"143191924\" id=\"note13_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3-5?lang=spa#p3\">Moroni 10:3&#x2013;5<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191924\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3-5?lang=spa#p3\">Moroni 10:3\u20135<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/moro/10.3-5?lang=spa#p3",
           "text": "Moroni 10:3\u20135",
@@ -513,10 +503,9 @@
       },
       "note12": {
         "marker": "12.",
-        "context": null,
         "pid": "143190879",
         "id": "note12",
-        "text": "<p data-aid=\"143191922\" id=\"note12_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26&#x2013;43<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191922\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26\u201343<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/alma/32.26-43?lang=spa#p26",
           "text": "Alma 32:26\u201343",
@@ -525,10 +514,9 @@
       },
       "note11": {
         "marker": "11.",
-        "context": null,
         "pid": "143190877",
         "id": "note11",
-        "text": "<p data-aid=\"143191920\" id=\"note11_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/29.4,11-18?lang=spa#p4\">Isa&#xED;as 29:4, 11&#x2013;18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/37.16-21?lang=spa#p16\">Ezequiel 37:16&#x2013;21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/13.1?lang=spa#p1\">2&#xA0;Corintios 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.38-42?lang=spa#p38\">1&#xA0;Nefi 13:38&#x2013;42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/3.12?lang=spa#p12\">2&#xA0;Nefi 3:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=spa#p26\">25:26<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191920\" id=\"note11_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/29.4,11-18?lang=spa#p4\">Isaías 29:4, 11\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/37.16-21?lang=spa#p16\">Ezequiel 37:16\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/13.1?lang=spa#p1\">2 Corintios 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13.38-42?lang=spa#p38\">1 Nefi 13:38\u201342<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/3.12?lang=spa#p12\">2 Nefi 3:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=spa#p26\">25:26<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/isa/29.4,11-18?lang=spa#p4",
@@ -564,10 +552,9 @@
       },
       "note33": {
         "marker": "33.",
-        "context": null,
         "pid": "143190895",
         "id": "note33",
-        "text": "<p data-aid=\"143191964\" id=\"note33_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=spa#p17\">2&#xA0;Corintios 5:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">Mos&#xED;ah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14,19?lang=spa#p14\">Alma 5:14,&#xA0;19<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191964\" id=\"note33_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/5.17?lang=spa#p17\">2 Corintios 5:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=spa#p19\">Mosíah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2?lang=spa#p2\">5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14,19?lang=spa#p14\">Alma 5:14, 19<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/nt/2-cor/5.17?lang=spa#p17",
@@ -593,10 +580,9 @@
       },
       "note10": {
         "marker": "10.",
-        "context": null,
         "pid": "143190877",
         "id": "note10",
-        "text": "<p data-aid=\"143191918\" id=\"note10_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.25?lang=spa#p25\">2&#xA0;Nefi 2:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=spa\">Alma 40<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191918\" id=\"note10_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.25?lang=spa#p25\">2 Nefi 2:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=spa\">Alma 40<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/2-ne/2.25?lang=spa#p25",
@@ -612,7 +598,6 @@
       },
       "note32": {
         "marker": "32.",
-        "context": null,
         "pid": "143190895",
         "id": "note32",
         "text": "<p data-aid=\"143191962\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/19.33?lang=spa#p33\">Alma 19:33<\/a>.<\/p>",
@@ -624,10 +609,9 @@
       },
       "note31": {
         "marker": "31.",
-        "context": null,
         "pid": "143190895",
         "id": "note31",
-        "text": "<p data-aid=\"143191960\" id=\"note31_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6.7?lang=spa#p7\">Jacob 6:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26&#x2013;43<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191960\" id=\"note31_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6.7?lang=spa#p7\">Jacob 6:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-43?lang=spa#p26\">Alma 32:26\u201343<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/jacob/6.7?lang=spa#p7",
@@ -643,10 +627,9 @@
       },
       "note19": {
         "marker": "19.",
-        "context": null,
         "pid": "143190884",
         "id": "note19",
-        "text": "<p data-aid=\"143191935\" id=\"note19_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=spa#p3\">Mos&#xED;ah 4:3<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191935\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.3?lang=spa#p3\">Mosíah 4:3<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/4.3?lang=spa#p3",
           "text": "Mosíah 4:3",
@@ -655,10 +638,9 @@
       },
       "note18": {
         "marker": "18.",
-        "context": null,
         "pid": "143190883",
         "id": "note18",
-        "text": "<p data-aid=\"143191934\" id=\"note18_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=spa#p7\">1&#xA0;Nefi 3:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.33?lang=spa#p33\">Moroni 7:33<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191934\" id=\"note18_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=spa#p7\">1 Nefi 3:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.33?lang=spa#p33\">Moroni 7:33<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/1-ne/3.7?lang=spa#p7",
@@ -674,10 +656,9 @@
       },
       "note17": {
         "marker": "17.",
-        "context": null,
         "pid": "143190882",
         "id": "note17",
-        "text": "<p data-aid=\"143191932\" id=\"note17_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2&#xA0;Nefi 31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-40?lang=spa#p31\">3&#xA0;Nefi 11:31&#x2013;40<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-22?lang=spa#p13\">27:13&#x2013;22<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191932\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa\">2 Nefi 31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.31-40?lang=spa#p31\">3 Nefi 11:31\u201340<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13-22?lang=spa#p13\">27:13\u201322<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/2-ne/31?lang=spa",
@@ -698,10 +679,9 @@
       },
       "note27": {
         "marker": "27.",
-        "context": null,
         "pid": "143190888",
         "id": "note27",
-        "text": "<p data-aid=\"143191951\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2&#xA0;Nefi 32:3<\/a>; cursiva agregada.<\/p>",
+        "text": "<p data-aid=\"143191951\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=spa#p3\">2 Nefi 32:3<\/a>; cursiva agregada.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/32.3?lang=spa#p3",
           "text": "2 Nefi 32:3",
@@ -710,10 +690,9 @@
       },
       "note26": {
         "marker": "26.",
-        "context": null,
         "pid": "143190888",
         "id": "note26",
-        "text": "<p data-aid=\"143191950\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=spa#p5\">2&#xA0;Nefi 32:5<\/a>; cursiva agregada.<\/p>",
+        "text": "<p data-aid=\"143191950\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.5?lang=spa#p5\">2 Nefi 32:5<\/a>; cursiva agregada.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/32.5?lang=spa#p5",
           "text": "2 Nefi 32:5",
@@ -722,10 +701,9 @@
       },
       "note25": {
         "marker": "25.",
-        "context": null,
         "pid": "143190887",
         "id": "note25",
-        "text": "<p data-aid=\"143191947\" id=\"note25_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.24?lang=spa#p24\">1&#xA0;Nefi 15:24<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191947\" id=\"note25_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.24?lang=spa#p24\">1 Nefi 15:24<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/1-ne/15.24?lang=spa#p24",
           "text": "1 Nefi 15:24",
@@ -734,10 +712,9 @@
       },
       "note24": {
         "marker": "24.",
-        "context": null,
         "pid": "143190887",
         "id": "note24",
-        "text": "<p data-aid=\"143191945\" id=\"note24_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191945\" id=\"note24_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/31.20?lang=spa#p20",
           "text": "2 Nefi 31:20",
@@ -746,10 +723,9 @@
       },
       "note23": {
         "marker": "23.",
-        "context": null,
         "pid": "143190886",
         "id": "note23",
-        "text": "<p data-aid=\"143191944\" id=\"note23_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.19?lang=spa#p19\">1&#xA0;Nefi 10:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.1?lang=spa#p1\">2&#xA0;Nefi 33:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32?lang=spa#p32\">3&#xA0;Nefi 11:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28.11?lang=spa#p11\">28:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191944\" id=\"note23_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.19?lang=spa#p19\">1 Nefi 10:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.1?lang=spa#p1\">2 Nefi 33:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32?lang=spa#p32\">3 Nefi 11:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28.11?lang=spa#p11\">28:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/1-ne/10.19?lang=spa#p19",
@@ -780,10 +756,9 @@
       },
       "note22": {
         "marker": "22.",
-        "context": null,
         "pid": "143190885",
         "id": "note22",
-        "text": "<p data-aid=\"143191942\" id=\"note22_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.17-18?lang=spa#p17\">2&#xA0;Nefi 31:17&#x2013;18<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191942\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.17-18?lang=spa#p17\">2 Nefi 31:17\u201318<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/31.17-18?lang=spa#p17",
           "text": "2 Nefi 31:17\u201318",
@@ -792,10 +767,9 @@
       },
       "note21": {
         "marker": "21.",
-        "context": null,
         "pid": "143190884",
         "id": "note21",
-        "text": "<p data-aid=\"143191939\" id=\"note21_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=spa#p30\">Mos&#xED;ah 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.8?lang=spa#p8\">Moroni 6:8<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191939\" id=\"note21_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.30?lang=spa#p30\">Mosíah 26:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.8?lang=spa#p8\">Moroni 6:8<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/mosiah/26.30?lang=spa#p30",
@@ -811,10 +785,9 @@
       },
       "note20": {
         "marker": "20.",
-        "context": null,
         "pid": "143190884",
         "id": "note20",
-        "text": "<p data-aid=\"143191938\" id=\"note20_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.21-35?lang=spa#p21\">Mateo 18:21&#x2013;35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.25-26?lang=spa#p25\">Marcos 11:25&#x2013;26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.37?lang=spa#p37\">Lucas 6:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/13.14-15?lang=spa#p14\">3&#xA0;Nefi 13:14&#x2013;15<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.10?lang=spa#p10\">Doctrina y Convenios 64:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.1?lang=spa#p1\">82:1<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191938\" id=\"note20_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/18.21-35?lang=spa#p21\">Mateo 18:21\u201335<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/11.25-26?lang=spa#p25\">Marcos 11:25\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.37?lang=spa#p37\">Lucas 6:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/13.14-15?lang=spa#p14\">3 Nefi 13:14\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.10?lang=spa#p10\">Doctrina y Convenios 64:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.1?lang=spa#p1\">82:1<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/nt/matt/18.21-35?lang=spa#p21",
@@ -850,10 +823,9 @@
       },
       "note1": {
         "marker": "1.",
-        "context": null,
         "pid": "143190876",
         "id": "note1",
-        "text": "<p data-aid=\"143190899\" id=\"note1_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2.17?lang=spa#p17\">Marcos&#xA0;2:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143190899\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2.17?lang=spa#p17\">Marcos 2:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/mark/2.17?lang=spa#p17",
           "text": "Marcos 2:17",
@@ -862,19 +834,17 @@
       },
       "note29": {
         "marker": "29.",
-        "context": null,
         "pid": "143190894",
         "id": "note29",
-        "text": "<p data-aid=\"143191956\" id=\"note29_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;para=39#p39\">El Libro de Morm&#xF3;n: &#xBF;C&#xF3;mo ser&#xED;a su vida sin &#xE9;l?<\/a>&#x201D;, <cite>Liahona<\/cite>, noviembre de 2017, p&#xE1;g. 62.<\/p>",
+        "text": "<p data-aid=\"143191956\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;para=39#p39\">El Libro de Mormón: ¿Cómo sería su vida sin él?<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, pág. 62.<\/p>",
         "referenceUris": [{
-          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&para=39#p39",
+          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;para=39#p39",
           "text": "El Libro de Mormón: ¿Cómo sería su vida sin él?",
           "type": "cross-ref"
         }]
       },
       "note28": {
         "marker": "28.",
-        "context": null,
         "pid": "143190889",
         "id": "note28",
         "text": "<p data-aid=\"143191954\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.4?lang=spa#p4\">Moroni 10:4<\/a>.<\/p>",

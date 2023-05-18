@@ -1,27 +1,30 @@
 {
   "tableOfContentsUri": "/liahona/2020/05",
   "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2020/04/26renlund?lang=spa",
     "pageAttributes": {
+      "data-asset-id": "d45467e83a414ac5ab9abb42ef1c8309",
       "data-content-type": "general-conference-talk",
       "itemscope": "",
       "itemtype": "http://schema.org/Article",
-      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
       "data-uri": "/liahona/2020/05/26renlund",
       "data-aid": "143141088",
       "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "lang": "spa",
-      "data-assetid": "d45467e83a414ac5ab9abb42ef1c8309",
       "data-aid-version": "2",
       "data-orig-id": "618b0939cf99414db47dc10c4e84f8e9"
     },
     "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147133691001",
     "audio": [{
-      "voice": {"name": "audio"},
-      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-64k-spa.mp3"
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-64k-spa.mp3",
+      "variant": "audio"
     }],
     "title": "Considerad la bondad y la grandeza de Dios",
-    "contentType": "text/html"
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2020-04-04T00:00:00.000Z\"}"
   },
+  "verified": true,
   "pids": [
     [
       "143141088",
@@ -322,7 +325,7 @@
       "links": [{
         "orig-type": "text/css",
         "rel": "stylesheet",
-        "href": "css/style_global-template-mobile_article.css",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
         "type": "array"
       }],
       "scripts": [],
@@ -337,14 +340,13 @@
         }
       }
     },
-    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/26renlund?lang=spa\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147133691001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147133691001\" data-video-title=\"Considerad la bondad y la grandeza de Dios\" data-video-description=\"El &#xE9;lder Renlund nos invita a recordar la bondad y la grandeza del Padre Celestial y de Jesucristo, y describe varias bendiciones que recibiremos por hacerlo.\" data-video-id=\"6147133691001\" data-ip=\"Download &amp; Streaming\" data-duration=\"879813\" data-assetid=\"E0CA2582061A39EC7D5BE25EC5FB889B60911AE0\" data-ref-id=\"E0CA2582061A39EC7D5BE25EC5FB889B60911AE0\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147133691001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"113346661\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"226693322\"><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"453386644\"><\/video><h1 data-aid=\"143191218\" id=\"title1\">Considerad la bondad y la grandeza de Dios<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143191219\" id=\"author1\">Por el &#xE9;lder Dale&#xA0;G. Renlund<\/p>\n<p class=\"author-role\" data-aid=\"143191220\" id=\"author2\">Del Cu&#xF3;rum de los Doce Ap&#xF3;stoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143191221\" id=\"kicker1\">Los invito a que recuerden cada d&#xED;a la grandeza del Padre Celestial y de Jesucristo, y lo que Ellos han hecho por ustedes.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143191222\" id=\"p1\">A trav&#xE9;s del tiempo, incluso en los momentos dif&#xED;ciles y especialmente en ellos, los profetas nos han alentado a recordar la grandeza de Dios y a considerar lo que &#xC9;l ha hecho por nosotros individualmente, como familias y como pueblo<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Hallamos esta instrucci&#xF3;n en todas las Escrituras, pero se destaca notablemente en el Libro de Morm&#xF3;n. La portada explica que uno de los prop&#xF3;sitos del Libro de Morm&#xF3;n es &#x201C;mostrar al resto de la casa de Israel cu&#xE1;n grandes cosas el Se&#xF1;or ha hecho por sus padres&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. La conclusi&#xF3;n del Libro de Morm&#xF3;n incluye la s&#xFA;plica de Moroni: &#x201C;He aqu&#xED;, quisiera exhortaros a que, cuando le&#xE1;is estas cosas&#xA0;[&#x2026;], record&#xE9;is cu&#xE1;n misericordioso ha sido el Se&#xF1;or con los hijos de los hombres&#xA0;[&#x2026;], y que lo medit&#xE9;is en vuestros corazones&#x201D;<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"143191223\" id=\"p2\">La constancia con que los profetas suplican que reflexionemos sobre la bondad de Dios es sorprendente<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Hijo Amado, no para Su propia gratificaci&#xF3;n, sino por la influencia que dicho recuerdo tiene en nosotros. Al considerar la bondad de Ellos, nuestra perspectiva y entendimiento se ampl&#xED;an. Al reflexionar en la compasi&#xF3;n que Ellos sienten, nos volvemos m&#xE1;s humildes, firmes y dedicados a la oraci&#xF3;n.<\/p>\n<p data-aid=\"143191224\" id=\"p3\">Una experiencia conmovedora con un antiguo paciente muestra c&#xF3;mo la gratitud por la generosidad y la compasi&#xF3;n puede transformarnos. En 1987, conoc&#xED; a Thomas Nielson, un hombre extraordinario que necesitaba un trasplante de coraz&#xF3;n. &#xC9;l ten&#xED;a 63 a&#xF1;os de edad y viv&#xED;a en Logan, Utah, en los Estados Unidos. Despu&#xE9;s de su servicio militar durante la Segunda Guerra Mundial, se cas&#xF3; con Donna Wilkes en el Templo de Logan, Utah. &#xC9;l lleg&#xF3; a ser un din&#xE1;mico y exitoso constructor. En los a&#xF1;os posteriores, a &#xE9;l le gustaba especialmente trabajar con su nieto mayor, Jonathan, durante las vacaciones de la escuela. Los dos desarrollaron un v&#xED;nculo especial, en parte porque Tom se ve&#xED;a muy reflejado en Jonathan.<\/p>\n<p data-aid=\"143191225\" id=\"p4\">A Tom le resultaba frustrante esperar que hubiera un donante de coraz&#xF3;n. &#xC9;l no era precisamente un hombre paciente. Siempre hab&#xED;a podido fijarse metas y lograrlas trabajando fuertemente con una determinaci&#xF3;n absoluta. Luchando con una insuficiencia card&#xED;aca y aferr&#xE1;ndose a la vida, Tom algunas veces me preguntaba qu&#xE9; estaba haciendo yo para apresurar el proceso. Bromeando, &#xE9;l me suger&#xED;a medidas que yo pod&#xED;a tomar para que &#xE9;l tuviera un donante disponible m&#xE1;s pronto.<\/p>\n<p data-aid=\"143191226\" id=\"p5\">Un feliz d&#xED;a, a la vez que devastador, se tuvo disponible un donante ideal para Tom. El tama&#xF1;o y el tipo de sangre coincid&#xED;an, y el donante era joven, de tan solo 16 a&#xF1;os de edad. El coraz&#xF3;n del donante era el de Jonathan, el nieto tan querido de Tom. Unas horas antes, ese mismo d&#xED;a, Jonathan hab&#xED;a fallecido al impactar un tren contra el auto en el que viajaba.<\/p>\n<p data-aid=\"143191227\" id=\"p6\">Cuando visit&#xE9; a Tom y a Donna en el hospital, estaban destrozados. Es dif&#xED;cil imaginar por lo que estaban pasando, sabiendo que la vida de Tom podr&#xED;a alargarse si se usaba el coraz&#xF3;n de su nieto. Al principio, se negaron a considerar el ofrecimiento del coraz&#xF3;n que le hac&#xED;an los afligidos padres de Jonathan, su hija y su yerno. Sin embargo, Tom y Donna sab&#xED;an que Jonathan ten&#xED;a muerte cerebral y lograron entender que sus oraciones pidiendo un donante de coraz&#xF3;n para Tom no hab&#xED;an causado el accidente de Jonathan. No, el coraz&#xF3;n de Jonathan era una d&#xE1;diva que pod&#xED;a bendecir a Tom en ese momento de necesidad. Se dieron cuenta de que algo bueno pod&#xED;a salir de esa tragedia y decidieron proceder.<\/p>\n<p data-aid=\"143191228\" id=\"p7\">El procedimiento del trasplante fue exitoso. Despu&#xE9;s de eso, Tom fue un hombre diferente. El cambio fue m&#xE1;s all&#xE1; de una mejora en su salud o incluso de sentir gratitud. &#xC9;l me dijo que todas las ma&#xF1;anas reflexionaba sobre Jonathan, sobre su hija y su yerno, sobre la d&#xE1;diva que &#xE9;l hab&#xED;a recibido y lo que esa d&#xE1;diva hab&#xED;a implicado. Aun cuando segu&#xED;a dando muestras de su buen humor y su determinaci&#xF3;n innatos, yo observaba que Tom era m&#xE1;s solemne, considerado y bondadoso de coraz&#xF3;n.<\/p>\n<p data-aid=\"143191229\" id=\"p8\">Tom vivi&#xF3; unos 13 a&#xF1;os m&#xE1;s despu&#xE9;s del trasplante, a&#xF1;os que, de otra manera, no habr&#xED;a tenido. Su obituario dec&#xED;a que esos a&#xF1;os le permitieron bendecir con generosidad y amor la vida de su familia y de otras personas. &#xC9;l hizo muchas obras de beneficencia en privado y fue un ejemplo de optimismo y determinaci&#xF3;n.<\/p>\n<p data-aid=\"143191230\" id=\"p9\">As&#xED; como Tom, cada uno de nosotros ha recibido d&#xE1;divas que no pod&#xED;amos adquirir por nosotros mismos, d&#xE1;divas de nuestro Padre Celestial y de Su Hijo Amado, incluso la redenci&#xF3;n por medio del sacrificio expiatorio de Jesucristo<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Hemos recibido vida en este mundo, recibiremos vida f&#xED;sica en la vida venidera, y salvaci&#xF3;n y exaltaci&#xF3;n eternas, si as&#xED; lo elegimos, todo gracias a nuestro Padre Celestial y a Jesucristo.<\/p>\n<p data-aid=\"143191231\" id=\"p10\">Cada vez que utilizamos o nos beneficiamos o incluso pensamos en estas d&#xE1;divas, deber&#xED;amos considerar el sacrificio, la generosidad y la compasi&#xF3;n de quienes nos las han brindado. Sentir reverencia por los dadores hace m&#xE1;s por nosotros que solo volvernos agradecidos. Reflexionar en Sus d&#xE1;divas puede y debe transformarnos.<\/p>\n<p data-aid=\"143191232\" id=\"p11\">Una transformaci&#xF3;n extraordinaria fue la de Alma, hijo. Mientras Alma iba &#x201C;aqu&#xED; y all&#xE1; rebel&#xE1;ndose contra Dios&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, un &#xE1;ngel se apareci&#xF3;. Con &#x201C;voz de trueno&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>, el &#xE1;ngel reprendi&#xF3; a Alma por perseguir a la Iglesia, &#x201C;granje&#xE1;ndose el coraz&#xF3;n del pueblo&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. El &#xE1;ngel a&#xF1;adi&#xF3; esta admonici&#xF3;n: &#x201C;Ve, y recuerda la cautividad de tus padres&#xA0;[&#x2026;]; y recuerda cu&#xE1;n grandes cosas [Dios] ha hecho por ellos&#x201D;<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. De todas las exhortaciones posibles, esta fue la que el &#xE1;ngel recalc&#xF3;.<\/p>\n<p data-aid=\"143191233\" id=\"p28\">Alma se arrepinti&#xF3; y record&#xF3;. Posteriormente, &#xE9;l comparti&#xF3; la admonici&#xF3;n del &#xE1;ngel con su hijo Helam&#xE1;n. Alma le aconsej&#xF3;: &#x201C;Quisiera que hicieses lo que yo he hecho, recordando el cautiverio de nuestros padres; porque estaban en el cautiverio, y nadie pod&#xED;a rescatarlos salvo que fuese el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob; y &#xE9;l de cierto, los libr&#xF3; en sus aflicciones&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Alma dijo sencillamente: &#x201C;Pongo mi confianza en &#xE9;l&#x201D;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Alma entend&#xED;a que por recordar el rescate del cautiverio y el sost&#xE9;n en &#x201C;tribulaciones y dificultades de todas clases&#x201D;, llegamos a conocer a Dios y la seguridad de Sus promesas<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"143191234\" id=\"p29\">Pocos hemos tenido una experiencia tan dram&#xE1;tica como la de Alma, no obstante, nuestra transformaci&#xF3;n puede ser igual de profunda. El Salvador prometi&#xF3; desde tiempos antiguos:<\/p>\n<p data-aid=\"143191235\" id=\"p23\">&#x201C;Y os dar&#xE9; un coraz&#xF3;n nuevo y pondr&#xE9; un esp&#xED;ritu nuevo dentro de vosotros; y quitar&#xE9;&#xA0;[&#x2026;] el coraz&#xF3;n de piedra y os dar&#xE9; un coraz&#xF3;n de carne.<\/p>\n<p data-aid=\"143191236\" id=\"p24\">&#x201C;Y pondr&#xE9; dentro de vosotros mi esp&#xED;ritu&#x2026;<\/p>\n<p data-aid=\"143191237\" id=\"p25\">&#x201C;&#x2026;&#xA0;y vosotros ser&#xE9;is mi pueblo, y yo ser&#xE9; vuestro Dios&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"143191238\" id=\"p12\">El Salvador resucitado dijo a los nefitas c&#xF3;mo empezar&#xED;a esta transformaci&#xF3;n. &#xC9;l identific&#xF3; una caracter&#xED;stica fundamental en el plan del Padre Celestial cuando dijo:<\/p>\n<p data-aid=\"143191239\" id=\"p26\">&#x201C;Y mi Padre me envi&#xF3; para que fuese levantado sobre la cruz; y que despu&#xE9;s de ser levantado sobre la cruz, pudiese <em>atraer<\/em> a m&#xED; mismo a todos los hombres.<\/p>\n<p data-aid=\"143191240\" id=\"p27\">&#x201C;Y por esta raz&#xF3;n he sido levantado; por consiguiente, de acuerdo con el poder del Padre, <em>atraer&#xE9;<\/em> a m&#xED; mismo a todos los hombres&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"143191241\" id=\"p13\">&#xBF;Qu&#xE9; se requiere para ser atra&#xED;dos al Salvador? Consideren la sujeci&#xF3;n de Jesucristo a la voluntad de Su Padre, Su victoria sobre la muerte, c&#xF3;mo tom&#xF3; sobre S&#xED; los pecados y errores de ustedes, c&#xF3;mo recibi&#xF3; poder del Padre para interceder por ustedes y la redenci&#xF3;n definitiva que &#xC9;l hace de ustedes<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. &#xBF;No son estas cosas suficientes para ser atra&#xED;dos a &#xC9;l? Para m&#xED; lo son. Jesucristo &#x201C;espera con los brazos abiertos, con la esperanza y disposici&#xF3;n de sanarnos, perdonarnos, limpiarnos, fortalecernos, purificarnos y santificarnos [a ustedes y a m&#xED;]&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"143191242\" id=\"p14\">Estas verdades deben darnos un coraz&#xF3;n nuevo e impulsarnos a elegir seguir al Padre Celestial y a Jesucristo. Sin embargo, aun un coraz&#xF3;n nuevo puede estar &#x201C;muy propenso a desviar[se] y [&#x2026;] desechar&#x201D; al Dios que amamos<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Para luchar contra esta tendencia, necesitamos reflexionar todos los d&#xED;as sobre las d&#xE1;divas que hemos recibido y lo que estas conllevan. El rey Benjam&#xED;n aconsej&#xF3;: &#x201C;&#x2026;&#xA0;quisiera que recordaseis y retuvieseis siempre en vuestra memoria la grandeza de Dios&#xA0;[&#x2026;], y su bondad y longanimidad para con vosotros&#x201D;<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Si lo hacemos, somos merecedores de bendiciones celestiales extraordinarias.<\/p>\n<p data-aid=\"143191243\" id=\"p15\">Reflexionar en la bondad y la misericordia de Dios nos ayuda a llegar a ser m&#xE1;s receptivos espiritualmente. A su vez, una mayor sensibilidad espiritual nos permite conocer la verdad de todas las cosas por el poder del Esp&#xED;ritu Santo<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Esto comprende un testimonio de la veracidad del Libro de Morm&#xF3;n, saber que Jes&#xFA;s es el Cristo, nuestro Salvador y Redentor personal, y aceptar que Su evangelio ha sido restaurado en estos &#xFA;ltimos d&#xED;as<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"143191244\" id=\"p16\">Cuando recordemos la grandeza de nuestro Padre Celestial y de Jesucristo y lo que Ellos han hecho por nosotros, no dejaremos de apreciarlos, as&#xED; como Tom no dej&#xF3; de apreciar el coraz&#xF3;n de Jonathan. De una manera feliz y reverente, Tom record&#xF3; cada d&#xED;a la tragedia que le prolong&#xF3; la vida. En medio de la emoci&#xF3;n de saber que podemos ser salvados y exaltados, debemos recordar que por la salvaci&#xF3;n y la exaltaci&#xF3;n se pag&#xF3; un alto precio<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Podemos ser felices y reverentes al reconocer que sin Jesucristo estamos condenados, pero con &#xC9;l, podemos recibir la mayor d&#xE1;diva que el Padre Celestial puede dar<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. De hecho, esta reverencia nos ayuda a disfrutar la promesa &#x201C;de vida eterna en esta vida&#x201D; y finalmente &#x201C;vida eterna&#xA0;[&#x2026;], s&#xED;, gloria inmortal&#x201D; en el mundo venidero<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"143191245\" id=\"p17\">Cuando consideramos la bondad de nuestro Padre Celestial y de Jesucristo, nuestra confianza en Ellos aumenta. Nuestras oraciones cambian porque sabemos que Dios es nuestro Padre y nosotros somos Sus hijos. No buscamos cambiar Su voluntad, sino alinear nuestra voluntad con la Suya y asegurar para nosotros las bendiciones que &#xC9;l quiere otorgar, siempre y cuando las pidamos<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Anhelamos ser m&#xE1;s mansos, m&#xE1;s puros, m&#xE1;s firmes, m&#xE1;s como Cristo<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. Estos cambios nos hacen merecedores de m&#xE1;s bendiciones celestiales.<\/p>\n<p data-aid=\"143191246\" id=\"p18\">Al reconocer que toda buena cosa viene de Jesucristo, nosotros comunicaremos m&#xE1;s eficazmente nuestra fe a otros<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Tendremos valor cuando afrontemos tareas y circunstancias aparentemente imposibles<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. Fortaleceremos nuestra resoluci&#xF3;n de guardar los convenios que hemos hecho de seguir al Salvador<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Seremos llenos del amor de Dios, querremos socorrer a los necesitados sin juzgarlos, amaremos a nuestros hijos y los criaremos en rectitud, retendremos la remisi&#xF3;n de nuestros pecados y nos regocijaremos siempre<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>. Estos son los frutos extraordinarios de recordar la bondad y misericordia de Dios.<\/p>\n<p data-aid=\"143191247\" id=\"p19\">En cambio, el Salvador advirti&#xF3;: &#x201C;Y en nada ofende el hombre a Dios, ni contra ninguno est&#xE1; encendida su ira, sino contra aquellos que no confiesan su mano en todas las cosas&#x201D;<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. No creo que Dios se ofenda cuando nos olvidamos de &#xC9;l. M&#xE1;s bien, yo creo que &#xC9;l se siente profundamente decepcionado. &#xC9;l sabe que nos hemos privado a nosotros mismos de la oportunidad de allegarnos m&#xE1;s a &#xC9;l al recordarle y recordar Su bondad. Entonces, nos perdemos que &#xC9;l se allegue m&#xE1;s a nosotros y las bendiciones espec&#xED;ficas que &#xC9;l ha prometido<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<p data-aid=\"143191248\" id=\"p20\">Los invito a que recuerden cada d&#xED;a la grandeza del Padre Celestial y de Jesucristo y lo que Ellos han hecho por ustedes. Dejen que su reflexi&#xF3;n sobre Su bondad una m&#xE1;s firmemente su coraz&#xF3;n errante a Ellos<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Mediten sobre la compasi&#xF3;n de Ellos y ser&#xE1;n bendecidos con m&#xE1;s sensibilidad espiritual y llegar&#xE1;n a ser m&#xE1;s como Cristo. Contemplar Su empat&#xED;a les ayudar&#xE1; a &#x201C;continuar fieles hasta el fin&#x201D;, hasta que &#x201C;sean recibidos en el cielo&#x201D; para &#x201C;que as&#xED; moren con Dios en un estado de interminable felicidad&#x201D;<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>.<\/p>\n<p data-aid=\"143191249\" id=\"p21\">Nuestro Padre Celestial, refiri&#xE9;ndose a Su Hijo Amado, dijo: &#x201C;&#xA1;Esc&#xFA;chalo!&#x201D;<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>. A medida que act&#xFA;en conforme a esas palabras y lo escuchen a &#xC9;l, recuerden llenos de gozo y de reverencia, que el Salvador ama restaurar lo que ustedes no pueden restaurar, que &#xC9;l ama sanar heridas que ustedes no pueden sanar, que &#xC9;l ama reparar lo que ha sido roto irreparablemente<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>, que &#xC9;l compensa cualquier injusticia infligida sobre ustedes<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a> y que &#xC9;l ama sanar permanentemente aun los corazones rotos<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a>.<\/p>\n<p data-aid=\"143191250\" id=\"p22\">A medida que he reflexionado sobre las d&#xE1;divas de nuestro Padre Celestial y de Jesucristo, he llegado a conocer Su infinito amor y Su compasi&#xF3;n incomprensible por todos los hijos del Padre Celestial<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\">38<\/sup><\/a>. Este conocimiento me ha cambiado a m&#xED;, y los cambiar&#xE1; a ustedes tambi&#xE9;n. En el nombre de Jesucristo. Am&#xE9;n.<\/p>\n<\/div>",
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147133691001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147133691001\" data-video-title=\"Considerad la bondad y la grandeza de Dios\" data-video-description=\"El élder Renlund nos invita a recordar la bondad y la grandeza del Padre Celestial y de Jesucristo, y describe varias bendiciones que recibiremos por hacerlo.\" data-video-id=\"6147133691001\" data-ip=\"Download and Streaming                            \" data-duration=\"879000\" data-assetId=\"E0CA2582061A39EC7D5BE25EC5FB889B60911AE0\" data-ref-id=\"E0CA2582061A39EC7D5BE25EC5FB889B60911AE0\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147133691001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"453386644\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"80431678\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"212139913\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2060-dale-g-renlund-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"453386644\"/><\/video><h1 data-aid=\"143191218\" id=\"title1\">Considerad la bondad y la grandeza de Dios<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143191219\" id=\"author1\">Por el élder Dale G. Renlund<\/p>\n<p class=\"author-role\" data-aid=\"143191220\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143191221\" id=\"kicker1\">Los invito a que recuerden cada día la grandeza del Padre Celestial y de Jesucristo, y lo que Ellos han hecho por ustedes.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143191222\" id=\"p1\">A través del tiempo, incluso en los momentos difíciles y especialmente en ellos, los profetas nos han alentado a recordar la grandeza de Dios y a considerar lo que Él ha hecho por nosotros individualmente, como familias y como pueblo<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Hallamos esta instrucción en todas las Escrituras, pero se destaca notablemente en el Libro de Mormón. La portada explica que uno de los propósitos del Libro de Mormón es \u201cmostrar al resto de la casa de Israel cuán grandes cosas el Señor ha hecho por sus padres\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. La conclusión del Libro de Mormón incluye la súplica de Moroni: \u201cHe aquí, quisiera exhortaros a que, cuando leáis estas cosas [\u2026], recordéis cuán misericordioso ha sido el Señor con los hijos de los hombres [\u2026], y que lo meditéis en vuestros corazones\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"143191223\" id=\"p2\">La constancia con que los profetas suplican que reflexionemos sobre la bondad de Dios es sorprendente<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Nuestro Padre Celestial quiere que recordemos Su bondad y la de Su Hijo Amado, no para Su propia gratificación, sino por la influencia que dicho recuerdo tiene en nosotros. Al considerar la bondad de Ellos, nuestra perspectiva y entendimiento se amplían. Al reflexionar en la compasión que Ellos sienten, nos volvemos más humildes, firmes y dedicados a la oración.<\/p>\n<p data-aid=\"143191224\" id=\"p3\">Una experiencia conmovedora con un antiguo paciente muestra cómo la gratitud por la generosidad y la compasión puede transformarnos. En 1987, conocí a Thomas Nielson, un hombre extraordinario que necesitaba un trasplante de corazón. Él tenía 63 años de edad y vivía en Logan, Utah, en los Estados Unidos. Después de su servicio militar durante la Segunda Guerra Mundial, se casó con Donna Wilkes en el Templo de Logan, Utah. Él llegó a ser un dinámico y exitoso constructor. En los años posteriores, a él le gustaba especialmente trabajar con su nieto mayor, Jonathan, durante las vacaciones de la escuela. Los dos desarrollaron un vínculo especial, en parte porque Tom se veía muy reflejado en Jonathan.<\/p>\n<p data-aid=\"143191225\" id=\"p4\">A Tom le resultaba frustrante esperar que hubiera un donante de corazón. Él no era precisamente un hombre paciente. Siempre había podido fijarse metas y lograrlas trabajando fuertemente con una determinación absoluta. Luchando con una insuficiencia cardíaca y aferrándose a la vida, Tom algunas veces me preguntaba qué estaba haciendo yo para apresurar el proceso. Bromeando, él me sugería medidas que yo podía tomar para que él tuviera un donante disponible más pronto.<\/p>\n<p data-aid=\"143191226\" id=\"p5\">Un feliz día, a la vez que devastador, se tuvo disponible un donante ideal para Tom. El tamaño y el tipo de sangre coincidían, y el donante era joven, de tan solo 16 años de edad. El corazón del donante era el de Jonathan, el nieto tan querido de Tom. Unas horas antes, ese mismo día, Jonathan había fallecido al impactar un tren contra el auto en el que viajaba.<\/p>\n<p data-aid=\"143191227\" id=\"p6\">Cuando visité a Tom y a Donna en el hospital, estaban destrozados. Es difícil imaginar por lo que estaban pasando, sabiendo que la vida de Tom podría alargarse si se usaba el corazón de su nieto. Al principio, se negaron a considerar el ofrecimiento del corazón que le hacían los afligidos padres de Jonathan, su hija y su yerno. Sin embargo, Tom y Donna sabían que Jonathan tenía muerte cerebral y lograron entender que sus oraciones pidiendo un donante de corazón para Tom no habían causado el accidente de Jonathan. No, el corazón de Jonathan era una dádiva que podía bendecir a Tom en ese momento de necesidad. Se dieron cuenta de que algo bueno podía salir de esa tragedia y decidieron proceder.<\/p>\n<p data-aid=\"143191228\" id=\"p7\">El procedimiento del trasplante fue exitoso. Después de eso, Tom fue un hombre diferente. El cambio fue más allá de una mejora en su salud o incluso de sentir gratitud. Él me dijo que todas las mañanas reflexionaba sobre Jonathan, sobre su hija y su yerno, sobre la dádiva que él había recibido y lo que esa dádiva había implicado. Aun cuando seguía dando muestras de su buen humor y su determinación innatos, yo observaba que Tom era más solemne, considerado y bondadoso de corazón.<\/p>\n<p data-aid=\"143191229\" id=\"p8\">Tom vivió unos 13 años más después del trasplante, años que, de otra manera, no habría tenido. Su obituario decía que esos años le permitieron bendecir con generosidad y amor la vida de su familia y de otras personas. Él hizo muchas obras de beneficencia en privado y fue un ejemplo de optimismo y determinación.<\/p>\n<p data-aid=\"143191230\" id=\"p9\">Así como Tom, cada uno de nosotros ha recibido dádivas que no podíamos adquirir por nosotros mismos, dádivas de nuestro Padre Celestial y de Su Hijo Amado, incluso la redención por medio del sacrificio expiatorio de Jesucristo<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Hemos recibido vida en este mundo, recibiremos vida física en la vida venidera, y salvación y exaltación eternas, si así lo elegimos, todo gracias a nuestro Padre Celestial y a Jesucristo.<\/p>\n<p data-aid=\"143191231\" id=\"p10\">Cada vez que utilizamos o nos beneficiamos o incluso pensamos en estas dádivas, deberíamos considerar el sacrificio, la generosidad y la compasión de quienes nos las han brindado. Sentir reverencia por los dadores hace más por nosotros que solo volvernos agradecidos. Reflexionar en Sus dádivas puede y debe transformarnos.<\/p>\n<p data-aid=\"143191232\" id=\"p11\">Una transformación extraordinaria fue la de Alma, hijo. Mientras Alma iba \u201caquí y allá rebelándose contra Dios\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, un ángel se apareció. Con \u201cvoz de trueno\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>, el ángel reprendió a Alma por perseguir a la Iglesia, \u201cgranjeándose el corazón del pueblo\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. El ángel añadió esta admonición: \u201cVe, y recuerda la cautividad de tus padres [\u2026]; y recuerda cuán grandes cosas [Dios] ha hecho por ellos\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. De todas las exhortaciones posibles, esta fue la que el ángel recalcó.<\/p>\n<p data-aid=\"143191233\" id=\"p28\">Alma se arrepintió y recordó. Posteriormente, él compartió la admonición del ángel con su hijo Helamán. Alma le aconsejó: \u201cQuisiera que hicieses lo que yo he hecho, recordando el cautiverio de nuestros padres; porque estaban en el cautiverio, y nadie podía rescatarlos salvo que fuese el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob; y él de cierto, los libró en sus aflicciones\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Alma dijo sencillamente: \u201cPongo mi confianza en él\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Alma entendía que por recordar el rescate del cautiverio y el sostén en \u201ctribulaciones y dificultades de todas clases\u201d, llegamos a conocer a Dios y la seguridad de Sus promesas<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"143191234\" id=\"p29\">Pocos hemos tenido una experiencia tan dramática como la de Alma, no obstante, nuestra transformación puede ser igual de profunda. El Salvador prometió desde tiempos antiguos:<\/p>\n<p data-aid=\"143191235\" id=\"p23\">\u201cY os daré un corazón nuevo y pondré un espíritu nuevo dentro de vosotros; y quitaré [\u2026] el corazón de piedra y os daré un corazón de carne.<\/p>\n<p data-aid=\"143191236\" id=\"p24\">\u201cY pondré dentro de vosotros mi espíritu\u2026<\/p>\n<p data-aid=\"143191237\" id=\"p25\">\u201c\u2026 y vosotros seréis mi pueblo, y yo seré vuestro Dios\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"143191238\" id=\"p12\">El Salvador resucitado dijo a los nefitas cómo empezaría esta transformación. Él identificó una característica fundamental en el plan del Padre Celestial cuando dijo:<\/p>\n<p data-aid=\"143191239\" id=\"p26\">\u201cY mi Padre me envió para que fuese levantado sobre la cruz; y que después de ser levantado sobre la cruz, pudiese <em>atraer<\/em> a mí mismo a todos los hombres.<\/p>\n<p data-aid=\"143191240\" id=\"p27\">\u201cY por esta razón he sido levantado; por consiguiente, de acuerdo con el poder del Padre, <em>atraeré<\/em> a mí mismo a todos los hombres\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"143191241\" id=\"p13\">¿Qué se requiere para ser atraídos al Salvador? Consideren la sujeción de Jesucristo a la voluntad de Su Padre, Su victoria sobre la muerte, cómo tomó sobre Sí los pecados y errores de ustedes, cómo recibió poder del Padre para interceder por ustedes y la redención definitiva que Él hace de ustedes<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. ¿No son estas cosas suficientes para ser atraídos a Él? Para mí lo son. Jesucristo \u201cespera con los brazos abiertos, con la esperanza y disposición de sanarnos, perdonarnos, limpiarnos, fortalecernos, purificarnos y santificarnos [a ustedes y a mí]\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"143191242\" id=\"p14\">Estas verdades deben darnos un corazón nuevo e impulsarnos a elegir seguir al Padre Celestial y a Jesucristo. Sin embargo, aun un corazón nuevo puede estar \u201cmuy propenso a desviar[se] y [\u2026] desechar\u201d al Dios que amamos<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Para luchar contra esta tendencia, necesitamos reflexionar todos los días sobre las dádivas que hemos recibido y lo que estas conllevan. El rey Benjamín aconsejó: \u201c\u2026 quisiera que recordaseis y retuvieseis siempre en vuestra memoria la grandeza de Dios [\u2026], y su bondad y longanimidad para con vosotros\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Si lo hacemos, somos merecedores de bendiciones celestiales extraordinarias.<\/p>\n<p data-aid=\"143191243\" id=\"p15\">Reflexionar en la bondad y la misericordia de Dios nos ayuda a llegar a ser más receptivos espiritualmente. A su vez, una mayor sensibilidad espiritual nos permite conocer la verdad de todas las cosas por el poder del Espíritu Santo<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Esto comprende un testimonio de la veracidad del Libro de Mormón, saber que Jesús es el Cristo, nuestro Salvador y Redentor personal, y aceptar que Su evangelio ha sido restaurado en estos últimos días<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"143191244\" id=\"p16\">Cuando recordemos la grandeza de nuestro Padre Celestial y de Jesucristo y lo que Ellos han hecho por nosotros, no dejaremos de apreciarlos, así como Tom no dejó de apreciar el corazón de Jonathan. De una manera feliz y reverente, Tom recordó cada día la tragedia que le prolongó la vida. En medio de la emoción de saber que podemos ser salvados y exaltados, debemos recordar que por la salvación y la exaltación se pagó un alto precio<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Podemos ser felices y reverentes al reconocer que sin Jesucristo estamos condenados, pero con Él, podemos recibir la mayor dádiva que el Padre Celestial puede dar<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. De hecho, esta reverencia nos ayuda a disfrutar la promesa \u201cde vida eterna en esta vida\u201d y finalmente \u201cvida eterna [\u2026], sí, gloria inmortal\u201d en el mundo venidero<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"143191245\" id=\"p17\">Cuando consideramos la bondad de nuestro Padre Celestial y de Jesucristo, nuestra confianza en Ellos aumenta. Nuestras oraciones cambian porque sabemos que Dios es nuestro Padre y nosotros somos Sus hijos. No buscamos cambiar Su voluntad, sino alinear nuestra voluntad con la Suya y asegurar para nosotros las bendiciones que Él quiere otorgar, siempre y cuando las pidamos<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Anhelamos ser más mansos, más puros, más firmes, más como Cristo<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. Estos cambios nos hacen merecedores de más bendiciones celestiales.<\/p>\n<p data-aid=\"143191246\" id=\"p18\">Al reconocer que toda buena cosa viene de Jesucristo, nosotros comunicaremos más eficazmente nuestra fe a otros<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Tendremos valor cuando afrontemos tareas y circunstancias aparentemente imposibles<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. Fortaleceremos nuestra resolución de guardar los convenios que hemos hecho de seguir al Salvador<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Seremos llenos del amor de Dios, querremos socorrer a los necesitados sin juzgarlos, amaremos a nuestros hijos y los criaremos en rectitud, retendremos la remisión de nuestros pecados y nos regocijaremos siempre<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>. Estos son los frutos extraordinarios de recordar la bondad y misericordia de Dios.<\/p>\n<p data-aid=\"143191247\" id=\"p19\">En cambio, el Salvador advirtió: \u201cY en nada ofende el hombre a Dios, ni contra ninguno está encendida su ira, sino contra aquellos que no confiesan su mano en todas las cosas\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. No creo que Dios se ofenda cuando nos olvidamos de Él. Más bien, yo creo que Él se siente profundamente decepcionado. Él sabe que nos hemos privado a nosotros mismos de la oportunidad de allegarnos más a Él al recordarle y recordar Su bondad. Entonces, nos perdemos que Él se allegue más a nosotros y las bendiciones específicas que Él ha prometido<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<p data-aid=\"143191248\" id=\"p20\">Los invito a que recuerden cada día la grandeza del Padre Celestial y de Jesucristo y lo que Ellos han hecho por ustedes. Dejen que su reflexión sobre Su bondad una más firmemente su corazón errante a Ellos<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Mediten sobre la compasión de Ellos y serán bendecidos con más sensibilidad espiritual y llegarán a ser más como Cristo. Contemplar Su empatía les ayudará a \u201ccontinuar fieles hasta el fin\u201d, hasta que \u201csean recibidos en el cielo\u201d para \u201cque así moren con Dios en un estado de interminable felicidad\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>.<\/p>\n<p data-aid=\"143191249\" id=\"p21\">Nuestro Padre Celestial, refiriéndose a Su Hijo Amado, dijo: \u201c¡Escúchalo!\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>. A medida que actúen conforme a esas palabras y lo escuchen a Él, recuerden llenos de gozo y de reverencia, que el Salvador ama restaurar lo que ustedes no pueden restaurar, que Él ama sanar heridas que ustedes no pueden sanar, que Él ama reparar lo que ha sido roto irreparablemente<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>, que Él compensa cualquier injusticia infligida sobre ustedes<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a> y que Él ama sanar permanentemente aun los corazones rotos<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a>.<\/p>\n<p data-aid=\"143191250\" id=\"p22\">A medida que he reflexionado sobre las dádivas de nuestro Padre Celestial y de Jesucristo, he llegado a conocer Su infinito amor y Su compasión incomprensible por todos los hijos del Padre Celestial<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\">38<\/sup><\/a>. Este conocimiento me ha cambiado a mí, y los cambiará a ustedes también. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"143191251\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"143191252\" id=\"note1_p1\">Véanse, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.16?lang=spa#p16\">Abraham 2:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/13.3?lang=spa#p3\">Éxodo 13:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.6-9?lang=spa#p6\">Josué 4:6\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.11-12?lang=spa#p11\">1 Samuel 7:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"143191253\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> del Libro de Mormón.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"143191254\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3?lang=spa#p3\">Moroni 10:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"143191255\" id=\"note4_p1\">Véanse por ejemplo <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/6.12?lang=spa#p12\">Deuteronomio 6:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/11.18?lang=spa#p18\">11:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.21-24?lang=spa#p21\">Josué 4:21\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.12?lang=spa#p12\">1 Samuel 7:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2.4?lang=spa#p4\">Romanos 2:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/11.22?lang=spa#p22\">11:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.10?lang=spa#p10\">2 Nefi 9:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.14?lang=spa#p14\">33:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/1.7?lang=spa#p7\">Jacob 1:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.3?lang=spa#p3\">Mosíah 5:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25.10?lang=spa#p10\">25:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.22?lang=spa#p22\">27:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.4?lang=spa#p4\">Alma 34:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12.2?lang=spa#p2\">Helamán 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/4.33?lang=spa#p33\">3 Nefi 4:33<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.11-12?lang=spa#p11\">18:11\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/2.13?lang=spa#p13\">Mormón 2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.52?lang=spa#p52\">Doctrina y Convenios 133:52<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.2?lang=spa#p2\">138:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"143191256\" id=\"note5_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.3-12?lang=spa#p3\">Isaías 53:3\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.44?lang=spa#p44\">Lucas 22:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=spa#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/2.20?lang=spa#p20\">Gálatas 2:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.5-11?lang=spa#p5\">Mosíah 3:5\u201311<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.10-13?lang=spa#p10\">Alma 7:10\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.16-19?lang=spa#p16\">Doctrina y Convenios 19:16\u201319<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"143191257\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mosíah 27:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"143191258\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mosíah 27:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"143191259\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.9?lang=spa#p9\">Mateo 27:9<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.13?lang=spa#p13\">versículo 13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"143191260\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.16?lang=spa#p16\">Mosíah 27:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"143191261\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.2?lang=spa#p2\">Alma 36:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"143191262\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.27?lang=spa#p27\">Alma 36:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"143191263\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.27-29?lang=spa#p27\">Alma 36:27\u201329<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"143191264\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/36.26-28?lang=spa#p26\">Ezequiel 36:26\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"143191265\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14\">3 Nefi 27:14\u201315<\/a>; cursiva agregada. Véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.32?lang=spa#p32\">Juan 12:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.24?lang=spa#p24\">2 Nefi 26:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"143191266\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7-9?lang=spa#p7\">Mosíah 15:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"143191267\" id=\"note16_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>\u201d, <cite>Liahona,<\/cite> mayo de 2019, pág. 67.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"143191268\" id=\"note17_p1\">\u201cCome, Thou Fount of Every Blessing\u201d [Ven a mí, bendito Padre], <cite>Hymns<\/cite>, 1948, nro. 70.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"143191269\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11?lang=spa#p11\">Mosíah 4:11<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.2,28-29?lang=spa#p2\">Alma 36:2, 28\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/7.27?lang=spa#p27\">Éter 7:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/10.2?lang=spa#p2\">10:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9.25?lang=spa#p25\">Moroni 9:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"143191270\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.4-5?lang=spa#p4\">Moroni 10:4\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"143191271\" id=\"note20_p1\">Véanse la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> e <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducción<\/a> del Libro de Mormón.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"143191272\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.18-19?lang=spa#p18\">Doctrina y Convenios 19:18\u201319<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"143191273\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14.7?lang=spa#p7\">Doctrina y Convenios 14:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"143191274\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59?lang=spa#p59\">Moisés 6:59<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.28?lang=spa#p28\">Alma 36:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"143191275\" id=\"note24_p1\">Véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/prayer?lang=spa\">Oración<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"143191276\" id=\"note25_p1\">Véase \u201cMás santidad dame\u201d, <cite>Himnos<\/cite>, nro. 71.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"143191277\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philem/1.6?lang=spa#p6\">Filemón 1:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"143191278\" id=\"note27_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17.37?lang=spa#p37\">1 Samuel 17:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/4.2?lang=spa#p2\">1 Nefi 4:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"143191279\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.6,13,26-28?lang=spa#p6\">Alma 5:6,13, 26\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"143191280\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11-26?lang=spa#p11\">Mosíah 4:11\u201326<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"143191281\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.21?lang=spa#p21\">Doctrina y Convenios 59:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"143191282\" id=\"note31_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63-64?lang=spa#p63\">Doctrina y Convenios 88:63\u201364<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"143191283\" id=\"note32_p1\">Véase \u201cCome Thou Fount of Every Blessing\u201d [Ven a mí, bendito Padre].<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"143191284\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"143191285\" id=\"note34_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=spa#p7\">Marcos 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/9.35?lang=spa#p35\">Lucas 9:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"143191286\" id=\"note35_p1\">Véase Boyd K. Packer, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/the-brilliant-morning-of-forgiveness?lang=spa\">La luminosa mañana del perdón<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 1995, págs. 20\u201321.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"143191287\" id=\"note36_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"143191288\" id=\"note37_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo 147:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"143191289\" id=\"note38_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=spa#p33\">2 Nefi 26:33.<\/a><\/p>\n<\/li>\n<\/ol>\n<\/footer>",
     "footnotes": {
       "note4": {
         "marker": "4.",
-        "context": null,
         "pid": "143191223",
         "id": "note4",
-        "text": "<p data-aid=\"143191255\" id=\"note4_p1\">V&#xE9;anse por ejemplo <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/6.12?lang=spa#p12\">Deuteronomio 6:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/11.18?lang=spa#p18\">11:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.21-24?lang=spa#p21\">Josu&#xE9; 4:21&#x2013;24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.12?lang=spa#p12\">1&#xA0;Samuel 7:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2.4?lang=spa#p4\">Romanos 2:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/11.22?lang=spa#p22\">11:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.10?lang=spa#p10\">2&#xA0;Nefi 9:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.14?lang=spa#p14\">33:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/1.7?lang=spa#p7\">Jacob 1:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.3?lang=spa#p3\">Mos&#xED;ah 5:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25.10?lang=spa#p10\">25:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.22?lang=spa#p22\">27:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.4?lang=spa#p4\">Alma 34:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12.2?lang=spa#p2\">Helam&#xE1;n 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/4.33?lang=spa#p33\">3&#xA0;Nefi 4:33<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.11-12?lang=spa#p11\">18:11&#x2013;12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/2.13?lang=spa#p13\">Morm&#xF3;n 2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.52?lang=spa#p52\">Doctrina y Convenios 133:52<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.2?lang=spa#p2\">138:2<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191255\" id=\"note4_p1\">Véanse por ejemplo <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/6.12?lang=spa#p12\">Deuteronomio 6:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/11.18?lang=spa#p18\">11:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.21-24?lang=spa#p21\">Josué 4:21\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.12?lang=spa#p12\">1 Samuel 7:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2.4?lang=spa#p4\">Romanos 2:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/11.22?lang=spa#p22\">11:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.10?lang=spa#p10\">2 Nefi 9:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.14?lang=spa#p14\">33:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/1.7?lang=spa#p7\">Jacob 1:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.3?lang=spa#p3\">Mosíah 5:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25.10?lang=spa#p10\">25:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.22?lang=spa#p22\">27:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.4?lang=spa#p4\">Alma 34:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12.2?lang=spa#p2\">Helamán 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/4.33?lang=spa#p33\">3 Nefi 4:33<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18.11-12?lang=spa#p11\">18:11\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/2.13?lang=spa#p13\">Mormón 2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.52?lang=spa#p52\">Doctrina y Convenios 133:52<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.2?lang=spa#p2\">138:2<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/deut/6.12?lang=spa#p12",
@@ -445,10 +447,9 @@
       },
       "note5": {
         "marker": "5.",
-        "context": null,
         "pid": "143191230",
         "id": "note5",
-        "text": "<p data-aid=\"143191256\" id=\"note5_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.3-12?lang=spa#p3\">Isa&#xED;as 53:3&#x2013;12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.44?lang=spa#p44\">Lucas 22:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=spa#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/2.20?lang=spa#p20\">G&#xE1;latas 2:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.5-11?lang=spa#p5\">Mos&#xED;ah 3:5&#x2013;11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.10-13?lang=spa#p10\">Alma 7:10&#x2013;13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.16-19?lang=spa#p16\">Doctrina y Convenios 19:16&#x2013;19<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191256\" id=\"note5_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53.3-12?lang=spa#p3\">Isaías 53:3\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.44?lang=spa#p44\">Lucas 22:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=spa#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/2.20?lang=spa#p20\">Gálatas 2:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.5-11?lang=spa#p5\">Mosíah 3:5\u201311<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.10-13?lang=spa#p10\">Alma 7:10\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.16-19?lang=spa#p16\">Doctrina y Convenios 19:16\u201319<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/isa/53.3-12?lang=spa#p3",
@@ -489,10 +490,9 @@
       },
       "note2": {
         "marker": "2.",
-        "context": null,
         "pid": "143191222",
         "id": "note2",
-        "text": "<p data-aid=\"143191253\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> del Libro de Morm&#xF3;n.<\/p>",
+        "text": "<p data-aid=\"143191253\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> del Libro de Mormón.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/bofm-title?lang=spa",
           "text": "Portada",
@@ -501,7 +501,6 @@
       },
       "note3": {
         "marker": "3.",
-        "context": null,
         "pid": "143191222",
         "id": "note3",
         "text": "<p data-aid=\"143191254\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3?lang=spa#p3\">Moroni 10:3<\/a>.<\/p>",
@@ -513,10 +512,9 @@
       },
       "note8": {
         "marker": "8.",
-        "context": null,
         "pid": "143191232",
         "id": "note8",
-        "text": "<p data-aid=\"143191259\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.9?lang=spa#p9\">Mateo 27:9<\/a>; v&#xE9;ase tambi&#xE9;n el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.13?lang=spa#p13\">vers&#xED;culo&#xA0;13<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191259\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.9?lang=spa#p9\">Mateo 27:9<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.13?lang=spa#p13\">versículo 13<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/mosiah/27.9?lang=spa#p9",
@@ -532,10 +530,9 @@
       },
       "note9": {
         "marker": "9.",
-        "context": null,
         "pid": "143191232",
         "id": "note9",
-        "text": "<p data-aid=\"143191260\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.16?lang=spa#p16\">Mos&#xED;ah 27:16<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191260\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.16?lang=spa#p16\">Mosíah 27:16<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/27.16?lang=spa#p16",
           "text": "Mosíah 27:16",
@@ -544,10 +541,9 @@
       },
       "note6": {
         "marker": "6.",
-        "context": null,
         "pid": "143191232",
         "id": "note6",
-        "text": "<p data-aid=\"143191257\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mos&#xED;ah 27:11<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191257\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mosíah 27:11<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/27.11?lang=spa#p11",
           "text": "Mosíah 27:11",
@@ -556,10 +552,9 @@
       },
       "note7": {
         "marker": "7.",
-        "context": null,
         "pid": "143191232",
         "id": "note7",
-        "text": "<p data-aid=\"143191258\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mos&#xED;ah 27:11<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191258\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27.11?lang=spa#p11\">Mosíah 27:11<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/27.11?lang=spa#p11",
           "text": "Mosíah 27:11",
@@ -568,7 +563,6 @@
       },
       "note30": {
         "marker": "30.",
-        "context": null,
         "pid": "143191247",
         "id": "note30",
         "text": "<p data-aid=\"143191281\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59.21?lang=spa#p21\">Doctrina y Convenios 59:21<\/a>.<\/p>",
@@ -580,10 +574,9 @@
       },
       "note16": {
         "marker": "16.",
-        "context": null,
         "pid": "143191241",
         "id": "note16",
-        "text": "<p data-aid=\"143191267\" id=\"note16_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>&#x201D;, <cite>Liahona,<\/cite> mayo de 2019, p&#xE1;g. 67.<\/p>",
+        "text": "<p data-aid=\"143191267\" id=\"note16_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=spa\">Podemos actuar mejor y ser mejores<\/a>\u201d, <cite>Liahona,<\/cite> mayo de 2019, pág. 67.<\/p>",
         "referenceUris": [{
           "href": "/study/general-conference/2019/04/36nelson?lang=spa",
           "text": "Podemos actuar mejor y ser mejores",
@@ -592,10 +585,9 @@
       },
       "note38": {
         "marker": "38.",
-        "context": null,
         "pid": "143191250",
         "id": "note38",
-        "text": "<p data-aid=\"143191289\" id=\"note38_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=spa#p33\">2&#xA0;Nefi 26:33.<\/a><\/p>",
+        "text": "<p data-aid=\"143191289\" id=\"note38_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=spa#p33\">2 Nefi 26:33.<\/a><\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/26.33?lang=spa#p33",
           "text": "2 Nefi 26:33.",
@@ -604,10 +596,9 @@
       },
       "note15": {
         "marker": "15.",
-        "context": null,
         "pid": "143191241",
         "id": "note15",
-        "text": "<p data-aid=\"143191266\" id=\"note15_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7-9?lang=spa#p7\">Mos&#xED;ah 15:7&#x2013;9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191266\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.7-9?lang=spa#p7\">Mosíah 15:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/mosiah/15.7-9?lang=spa#p7",
@@ -623,10 +614,9 @@
       },
       "note37": {
         "marker": "37.",
-        "context": null,
         "pid": "143191249",
         "id": "note37",
-        "text": "<p data-aid=\"143191288\" id=\"note37_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo 147:3<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191288\" id=\"note37_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/147.3?lang=spa#p3\">Salmo 147:3<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/ot/ps/147.3?lang=spa#p3",
           "text": "Salmo 147:3",
@@ -635,10 +625,9 @@
       },
       "note14": {
         "marker": "14.",
-        "context": null,
         "pid": "143191240",
         "id": "note14",
-        "text": "<p data-aid=\"143191265\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14\">3&#xA0;Nefi 27:14&#x2013;15<\/a>; cursiva agregada. V&#xE9;anse tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.32?lang=spa#p32\">Juan 12:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.24?lang=spa#p24\">2&#xA0;Nefi 26:24<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191265\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14\">3 Nefi 27:14\u201315<\/a>; cursiva agregada. Véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.32?lang=spa#p32\">Juan 12:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.24?lang=spa#p24\">2 Nefi 26:24<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/3-ne/27.14-15?lang=spa#p14",
@@ -659,10 +648,9 @@
       },
       "note36": {
         "marker": "36.",
-        "context": null,
         "pid": "143191249",
         "id": "note36",
-        "text": "<p data-aid=\"143191287\" id=\"note36_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191287\" id=\"note36_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/21.4?lang=spa#p4\">Apocalipsis 21:4<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/rev/21.4?lang=spa#p4",
           "text": "Apocalipsis 21:4",
@@ -671,10 +659,9 @@
       },
       "note13": {
         "marker": "13.",
-        "context": null,
         "pid": "143191237",
         "id": "note13",
-        "text": "<p data-aid=\"143191264\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/36.26-28?lang=spa#p26\">Ezequiel 36:26&#x2013;28<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191264\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/36.26-28?lang=spa#p26\">Ezequiel 36:26\u201328<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/ot/ezek/36.26-28?lang=spa#p26",
           "text": "Ezequiel 36:26\u201328",
@@ -683,10 +670,9 @@
       },
       "note35": {
         "marker": "35.",
-        "context": null,
         "pid": "143191249",
         "id": "note35",
-        "text": "<p data-aid=\"143191286\" id=\"note35_p1\">V&#xE9;ase Boyd&#xA0;K. Packer, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/the-brilliant-morning-of-forgiveness?lang=spa\">La luminosa ma&#xF1;ana del perd&#xF3;n<\/a>&#x201D;, <cite>Liahona<\/cite>, noviembre de&#xA0;1995, p&#xE1;gs.&#xA0;20&#x2013;21.<\/p>",
+        "text": "<p data-aid=\"143191286\" id=\"note35_p1\">Véase Boyd K. Packer, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/the-brilliant-morning-of-forgiveness?lang=spa\">La luminosa mañana del perdón<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 1995, págs. 20\u201321.<\/p>",
         "referenceUris": [{
           "href": "/study/general-conference/1995/10/the-brilliant-morning-of-forgiveness?lang=spa",
           "text": "La luminosa mañana del perdón",
@@ -695,10 +681,9 @@
       },
       "note12": {
         "marker": "12.",
-        "context": null,
         "pid": "143191233",
         "id": "note12",
-        "text": "<p data-aid=\"143191263\" id=\"note12_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.27-29?lang=spa#p27\">Alma 36:27&#x2013;29<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191263\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.27-29?lang=spa#p27\">Alma 36:27\u201329<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/alma/36.27-29?lang=spa#p27",
           "text": "Alma 36:27\u201329",
@@ -707,10 +692,9 @@
       },
       "note34": {
         "marker": "34.",
-        "context": null,
         "pid": "143191249",
         "id": "note34",
-        "text": "<p data-aid=\"143191285\" id=\"note34_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=spa#p7\">Marcos 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/9.35?lang=spa#p35\">Lucas 9:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3&#xA0;Nefi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">Jos&#xE9; Smith&#xFEFF;&#x2014;Historia 1:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191285\" id=\"note34_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/17.5?lang=spa#p5\">Mateo 17:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.7?lang=spa#p7\">Marcos 9:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/9.35?lang=spa#p35\">Lucas 9:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.7?lang=spa#p7\">3 Nefi 11:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.17?lang=spa#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/nt/matt/17.5?lang=spa#p5",
@@ -734,14 +718,13 @@
           },
           {
             "href": "/study/scriptures/pgp/js-h/1.17?lang=spa#p17",
-            "text": "José Smith﻿\u2014Historia 1:17",
+            "text": "José Smith\u2014Historia 1:17",
             "type": "scripture-ref"
           }
         ]
       },
       "note11": {
         "marker": "11.",
-        "context": null,
         "pid": "143191233",
         "id": "note11",
         "text": "<p data-aid=\"143191262\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.27?lang=spa#p27\">Alma 36:27<\/a>.<\/p>",
@@ -753,10 +736,9 @@
       },
       "note33": {
         "marker": "33.",
-        "context": null,
         "pid": "143191248",
         "id": "note33",
-        "text": "<p data-aid=\"143191284\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mos&#xED;ah 2:41<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191284\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/2.41?lang=spa#p41",
           "text": "Mosíah 2:41",
@@ -765,7 +747,6 @@
       },
       "note10": {
         "marker": "10.",
-        "context": null,
         "pid": "143191233",
         "id": "note10",
         "text": "<p data-aid=\"143191261\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.2?lang=spa#p2\">Alma 36:2<\/a>.<\/p>",
@@ -777,17 +758,15 @@
       },
       "note32": {
         "marker": "32.",
-        "context": null,
         "pid": "143191248",
         "id": "note32",
-        "text": "<p data-aid=\"143191283\" id=\"note32_p1\">V&#xE9;ase &#x201C;Come Thou Fount of Every Blessing&#x201D; [Ven a m&#xED;, bendito Padre].<\/p>"
+        "text": "<p data-aid=\"143191283\" id=\"note32_p1\">Véase \u201cCome Thou Fount of Every Blessing\u201d [Ven a mí, bendito Padre].<\/p>"
       },
       "note31": {
         "marker": "31.",
-        "context": null,
         "pid": "143191247",
         "id": "note31",
-        "text": "<p data-aid=\"143191282\" id=\"note31_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63-64?lang=spa#p63\">Doctrina y Convenios 88:63&#x2013;64<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191282\" id=\"note31_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.63-64?lang=spa#p63\">Doctrina y Convenios 88:63\u201364<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/88.63-64?lang=spa#p63",
           "text": "Doctrina y Convenios 88:63\u201364",
@@ -796,10 +775,9 @@
       },
       "note19": {
         "marker": "19.",
-        "context": null,
         "pid": "143191243",
         "id": "note19",
-        "text": "<p data-aid=\"143191270\" id=\"note19_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.4-5?lang=spa#p4\">Moroni 10:4&#x2013;5<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191270\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.4-5?lang=spa#p4\">Moroni 10:4\u20135<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/moro/10.4-5?lang=spa#p4",
           "text": "Moroni 10:4\u20135",
@@ -808,10 +786,9 @@
       },
       "note18": {
         "marker": "18.",
-        "context": null,
         "pid": "143191242",
         "id": "note18",
-        "text": "<p data-aid=\"143191269\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11?lang=spa#p11\">Mos&#xED;ah 4:11<\/a>; v&#xE9;anse tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.2,28-29?lang=spa#p2\">Alma 36:2, 28&#x2013;29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/7.27?lang=spa#p27\">&#xC9;ter 7:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/10.2?lang=spa#p2\">10:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9.25?lang=spa#p25\">Moroni 9:25<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191269\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11?lang=spa#p11\">Mosíah 4:11<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.2,28-29?lang=spa#p2\">Alma 36:2, 28\u201329<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/7.27?lang=spa#p27\">Éter 7:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/10.2?lang=spa#p2\">10:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9.25?lang=spa#p25\">Moroni 9:25<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/mosiah/4.11?lang=spa#p11",
@@ -842,17 +819,15 @@
       },
       "note17": {
         "marker": "17.",
-        "context": null,
         "pid": "143191242",
         "id": "note17",
-        "text": "<p data-aid=\"143191268\" id=\"note17_p1\">&#x201C;Come, Thou Fount of Every Blessing&#x201D; [Ven a m&#xED;, bendito Padre], <cite>Hymns<\/cite>, 1948, nro.&#xA0;70.<\/p>"
+        "text": "<p data-aid=\"143191268\" id=\"note17_p1\">\u201cCome, Thou Fount of Every Blessing\u201d [Ven a mí, bendito Padre], <cite>Hymns<\/cite>, 1948, nro. 70.<\/p>"
       },
       "note27": {
         "marker": "27.",
-        "context": null,
         "pid": "143191246",
         "id": "note27",
-        "text": "<p data-aid=\"143191278\" id=\"note27_p1\">V&#xE9;anse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17.37?lang=spa#p37\">1&#xA0;Samuel 17:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/4.2?lang=spa#p2\">1&#xA0;Nefi 4:2<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191278\" id=\"note27_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17.37?lang=spa#p37\">1 Samuel 17:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/4.2?lang=spa#p2\">1 Nefi 4:2<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/ot/1-sam/17.37?lang=spa#p37",
@@ -868,10 +843,9 @@
       },
       "note26": {
         "marker": "26.",
-        "context": null,
         "pid": "143191246",
         "id": "note26",
-        "text": "<p data-aid=\"143191277\" id=\"note26_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philem/1.6?lang=spa#p6\">Filem&#xF3;n 1:6<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191277\" id=\"note26_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philem/1.6?lang=spa#p6\">Filemón 1:6<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/philem/1.6?lang=spa#p6",
           "text": "Filemón 1:6",
@@ -880,17 +854,15 @@
       },
       "note25": {
         "marker": "25.",
-        "context": null,
         "pid": "143191245",
         "id": "note25",
-        "text": "<p data-aid=\"143191276\" id=\"note25_p1\">V&#xE9;ase &#x201C;M&#xE1;s santidad dame&#x201D;, <cite>Himnos<\/cite>, nro.&#xA0;71.<\/p>"
+        "text": "<p data-aid=\"143191276\" id=\"note25_p1\">Véase \u201cMás santidad dame\u201d, <cite>Himnos<\/cite>, nro. 71.<\/p>"
       },
       "note24": {
         "marker": "24.",
-        "context": null,
         "pid": "143191245",
         "id": "note24",
-        "text": "<p data-aid=\"143191275\" id=\"note24_p1\">V&#xE9;ase la Gu&#xED;a para el Estudio de las Escrituras, &#x201C;<a class=\"scripture-ref\" href=\"/study/scriptures/bd/prayer?lang=spa\">Oraci&#xF3;n<\/a>&#x201D;.<\/p>",
+        "text": "<p data-aid=\"143191275\" id=\"note24_p1\">Véase la Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/prayer?lang=spa\">Oración<\/a>\u201d.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bd/prayer?lang=spa",
           "text": "Oración",
@@ -899,10 +871,9 @@
       },
       "note23": {
         "marker": "23.",
-        "context": null,
         "pid": "143191244",
         "id": "note23",
-        "text": "<p data-aid=\"143191274\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59?lang=spa#p59\">Mois&#xE9;s 6:59<\/a>; v&#xE9;ase tambi&#xE9;n <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.28?lang=spa#p28\">Alma 36:28<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191274\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.59?lang=spa#p59\">Moisés 6:59<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.28?lang=spa#p28\">Alma 36:28<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/pgp/moses/6.59?lang=spa#p59",
@@ -918,10 +889,9 @@
       },
       "note22": {
         "marker": "22.",
-        "context": null,
         "pid": "143191244",
         "id": "note22",
-        "text": "<p data-aid=\"143191273\" id=\"note22_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14.7?lang=spa#p7\">Doctrina y Convenios 14:7<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191273\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14.7?lang=spa#p7\">Doctrina y Convenios 14:7<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/14.7?lang=spa#p7",
           "text": "Doctrina y Convenios 14:7",
@@ -930,10 +900,9 @@
       },
       "note21": {
         "marker": "21.",
-        "context": null,
         "pid": "143191244",
         "id": "note21",
-        "text": "<p data-aid=\"143191272\" id=\"note21_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.18-19?lang=spa#p18\">Doctrina y Convenios 19:18&#x2013;19<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191272\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.18-19?lang=spa#p18\">Doctrina y Convenios 19:18\u201319<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/dc-testament/dc/19.18-19?lang=spa#p18",
           "text": "Doctrina y Convenios 19:18\u201319",
@@ -942,10 +911,9 @@
       },
       "note20": {
         "marker": "20.",
-        "context": null,
         "pid": "143191243",
         "id": "note20",
-        "text": "<p data-aid=\"143191271\" id=\"note20_p1\">V&#xE9;anse la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> e <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducci&#xF3;n<\/a> del Libro de Morm&#xF3;n.<\/p>",
+        "text": "<p data-aid=\"143191271\" id=\"note20_p1\">Véanse la <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=spa\">Portada<\/a> e <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=spa\">Introducción<\/a> del Libro de Mormón.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/bofm/bofm-title?lang=spa",
@@ -961,10 +929,9 @@
       },
       "note1": {
         "marker": "1.",
-        "context": null,
         "pid": "143191222",
         "id": "note1",
-        "text": "<p data-aid=\"143191252\" id=\"note1_p1\">V&#xE9;anse, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.16?lang=spa#p16\">Abraham 2:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/13.3?lang=spa#p3\">&#xC9;xodo 13:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.6-9?lang=spa#p6\">Josu&#xE9; 4:6&#x2013;9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.11-12?lang=spa#p11\">1&#xA0;Samuel 7:11&#x2013;12<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191252\" id=\"note1_p1\">Véanse, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.16?lang=spa#p16\">Abraham 2:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/13.3?lang=spa#p3\">Éxodo 13:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/4.6-9?lang=spa#p6\">Josué 4:6\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/7.11-12?lang=spa#p11\">1 Samuel 7:11\u201312<\/a>.<\/p>",
         "referenceUris": [
           {
             "href": "/study/scriptures/pgp/abr/2.16?lang=spa#p16",
@@ -990,10 +957,9 @@
       },
       "note29": {
         "marker": "29.",
-        "context": null,
         "pid": "143191246",
         "id": "note29",
-        "text": "<p data-aid=\"143191280\" id=\"note29_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11-26?lang=spa#p11\">Mos&#xED;ah 4:11&#x2013;26<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191280\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.11-26?lang=spa#p11\">Mosíah 4:11\u201326<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/mosiah/4.11-26?lang=spa#p11",
           "text": "Mosíah 4:11\u201326",
@@ -1002,10 +968,9 @@
       },
       "note28": {
         "marker": "28.",
-        "context": null,
         "pid": "143191246",
         "id": "note28",
-        "text": "<p data-aid=\"143191279\" id=\"note28_p1\">V&#xE9;ase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.6,13,26-28?lang=spa#p6\">Alma 5:6,13, 26&#x2013;28<\/a>.<\/p>",
+        "text": "<p data-aid=\"143191279\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.6,13,26-28?lang=spa#p6\">Alma 5:6,13, 26\u201328<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/alma/5.6,13,26-28?lang=spa#p6",
           "text": "Alma 5:6,13, 26\u201328",

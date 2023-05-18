@@ -1,27 +1,30 @@
 {
   "tableOfContentsUri": "/ensign/2020/05",
   "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "canonicalUrl": "/general-conference/2020/04/24mccune?lang=eng",
     "pageAttributes": {
+      "data-asset-id": "ef308d2a27a64cfe91eb58aaa253c6fa",
       "data-content-type": "general-conference-talk",
       "itemscope": "",
       "itemtype": "http://schema.org/Article",
-      "xsi:nonamespaceschemalocation": "http://www.lds.org/schema/lds/html5.xsd",
       "data-uri": "/ensign/2020/05/24mccune",
       "data-aid": "143139426",
       "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
       "lang": "eng",
-      "data-assetid": "ef308d2a27a64cfe91eb58aaa253c6fa",
-      "data-aid-version": "1",
+      "data-aid-version": "9",
       "data-orig-id": "ef308d2a27a64cfe91eb58aaa253c6fa"
     },
-    "ogTagImageUrl": "https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147129480001",
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/23/d6/23d69675c87c00702b8b048c71d2fdab045522fd/23d69675c87c00702b8b048c71d2fdab045522fd.jpeg",
     "audio": [{
-      "voice": {"name": "audio"},
-      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2040-john-a-mccune-64k-eng.mp3"
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2040-john-a-mccune-64k-eng.mp3",
+      "variant": "audio"
     }],
     "title": "Come unto Christ\u2014Living as Latter-day Saints",
-    "contentType": "text/html"
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2020-04-04T00:00:00.000Z\"}"
   },
+  "verified": true,
   "pids": [
     [
       "143139426",
@@ -230,29 +233,28 @@
       "links": [{
         "orig-type": "text/css",
         "rel": "stylesheet",
-        "href": "css/style_global-template-mobile_article.css",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
         "type": "array"
       }],
       "scripts": [],
       "page-meta-social": {
         "pageMeta": {
-          "description": "Come unto Christ\u2014Living as Latter-day Saints",
+          "description": "Elder McCune teaches us how the restored gospel of Jesus Christ helps us to do difficult things and help others do the same.",
           "title": "Come unto Christ\u2014Living as Latter-day Saints"
         },
         "pageSocial": {
-          "description": "Come unto Christ\u2014Living as Latter-day Saints",
+          "description": "Elder McCune teaches us how the restored gospel of Jesus Christ helps us to do difficult things and help others do the same.",
           "title": "Come unto Christ\u2014Living as Latter-day Saints"
         }
       }
     },
-    "body": "<link rel=\"canonical\" href=\"/general-conference/2020/04/24mccune?lang=eng\">\n\n<header>\n\n<video controls=\"controls\" poster=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/videoStill/6147129480001\" thumbnail=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/thumbnail/6147129480001\" data-video-id=\"6147129480001\" data-video-title=\"John A. McCune\" data-ref-id=\"00C61AA6AB79F30E9D1E38B88BEEE19C1D5AE8A2\" data-ip=\"Download &amp; Streaming\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147129480001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147129480001/640/360/994000\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"68541034\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/size/6147129480001/1280/720/2122000\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"146182065\"><\/video><h1 data-aid=\"143139431\" id=\"title1\">Come unto Christ&#xFEFF;&#x2014;Living as Latter-day Saints<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143139434\" id=\"author1\">By Elder John&#xA0;A. McCune<\/p>\n<p class=\"author-role\" data-aid=\"143139437\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143139439\" id=\"kicker1\">We can do difficult things and help others do the same, because we know in whom we can trust.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143139442\" id=\"p1\">Thank you, Elder Soares, for your powerful and prophetic testimony of the Book of Mormon. Recently, I had the unique opportunity to hold a page of the original manuscript of the Book of Mormon. On this particular page, for the first time in this dispensation, these bold words of Nephi were recorded: &#x201C;I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.&#x201D;<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<img alt=\"Original Book of Mormon manuscript page\" id=\"img1\" src=\"https://assets.ldscdn.org/d9/42/d942f189cf5aa126a0539021f20a83808c2d0072/book_of_mormon.png\" data-img-id=\"2349941\" srcset=\"https://assets.ldscdn.org/36/4d/364dbf23ad4876a1dcafc25211d8d0acbf64918b/book_of_mormon.png 60w,https://assets.ldscdn.org/c1/c3/c1c3462c505a4b9930f538674719a18fcac60408/book_of_mormon.png 100w,https://assets.ldscdn.org/c9/43/c94321b5ad21bcbb421fa84c96316171827815ed/book_of_mormon.png 200w,https://assets.ldscdn.org/35/b5/35b540b4d48bf3376da1ca1e3219efa0e596799c/book_of_mormon.png 250w,https://assets.ldscdn.org/3d/6f/3d6f2b56aae139c2796962b0a4af431b9e89b7a6/book_of_mormon.png 320w,https://assets.ldscdn.org/d9/42/d942f189cf5aa126a0539021f20a83808c2d0072/book_of_mormon.png 500w,https://assets.ldscdn.org/3d/f3/3df3c5d20f10878e0073b5cd51bc979bef27d637/book_of_mormon.png 640w\" data-assetid=\"8a17901d178641fa56a4d6377e91edb3dde8ea06\" data-missing-asset=\"false\">\n<p data-aid=\"143139445\" id=\"p2\">As I held this page, I was filled with a profound appreciation for the efforts of the 23-year-old Joseph Smith, who translated the Book of Mormon by the &#x201C;gift and power of God.&#x201D;<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> I also felt appreciation for the words of a young Nephi, who had been asked to perform a very difficult task in obtaining the plates of brass from Laban.<\/p>\n<p data-aid=\"143139446\" id=\"p3\">Nephi knew that if he continued to stay focused on the Lord, he would be successful in fulfilling what the Lord commanded him. He remained focused on the Savior throughout his life even though he suffered temptations, physical trials, and even the betrayal of some in his immediate family.<\/p>\n<p data-aid=\"143139449\" id=\"p4\">Nephi knew in whom He could trust.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Shortly after exclaiming, &#x201C;O wretched man that I am! Yea, my heart sorroweth because of my flesh,&#x201D;<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Nephi stated, &#x201C;My God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.&#x201D;<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"143139451\" id=\"p5\">As followers of Christ, we are not spared challenges and trials in our lives. We are often required to do difficult things that, if attempted alone, would be overwhelming and maybe impossible. As we accept the Savior&#x2019;s invitation to &#x201C;come unto me,&#x201D;<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> He will provide the support, comfort, and peace that are necessary, just as He did for Nephi and Joseph. Even in our deepest trials, we can feel the warm embrace of His love as we trust Him and accept His will. We can experience the joy reserved for His faithful disciples, for &#x201C;Christ is joy.&#x201D;<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"143139452\" id=\"p6\">In 2014, while serving a full-time mission, our family experienced an unexpected turn of events. When riding down a steep hill on a longboard, our youngest son fell and sustained a life-threatening injury to his brain. As his situation deteriorated, medical personnel rushed him into emergency surgery.<\/p>\n<p data-aid=\"143139455\" id=\"p7\">Our family knelt on the floor of an otherwise empty hospital room, and we poured our hearts out to God. In the midst of this confusing and painful moment, we were filled with our Heavenly Father&#x2019;s love and peace.<\/p>\n<p data-aid=\"143139457\" id=\"p8\">We did not know what the future held or if we would see our son alive again. We did know very clearly that his life was in God&#x2019;s hands and the results, from an eternal perspective, would work out for his and our good. Through the gift of the Spirit, we were fully prepared to accept any outcome.<\/p>\n<p data-aid=\"143139461\" id=\"p9\">It was not easy! The accident resulted in a two-month hospital stay while we were presiding over 400 full-time missionaries. Our son experienced a significant loss of memory. His recovery included long and difficult physical, speech, and occupational therapy sessions. Challenges remain, but over time we have witnessed a miracle.<\/p>\n<p data-aid=\"143139463\" id=\"p10\">We understand clearly that not every trial we face will have a result we wish for. However, as we remain focused on Christ, we will feel peace and see God&#x2019;s miracles, whatever they may be, in His time and in His way.<\/p>\n<p data-aid=\"143139466\" id=\"p11\">There will be times when we will not be able to see any way that a current situation will end well and might even express, as Nephi, &#x201C;My heart sorroweth because of my flesh.&#x201D;<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> There may be times that the only hope we have <em>is<\/em> in Jesus Christ. What a blessing to have that hope and trust in Him. Christ is the one who will always keep His promises. His rest is assured for all who come unto Him.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"143139469\" id=\"p12\">Our leaders deeply desire all to feel the peace and comfort that come through trusting in and focusing on the Savior Jesus Christ.<\/p>\n<p data-aid=\"143139472\" id=\"p13\">Our living prophet, President Russell&#xA0;M. Nelson, has been communicating the Lord&#x2019;s vision for the world and for members of Christ&#x2019;s Church: &#x201C;Our message to the world is simple and sincere: we invite all of God&#x2019;s children on both sides of the veil to <em>come unto their Savior,<\/em> receive the blessings of the holy temple, have enduring joy, and qualify for eternal life.&#x201D;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143139474\" id=\"p14\">This invitation to &#x201C;come unto Christ&#x201D; has <em>specific<\/em> implications for Latter-day Saints.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> As members of the Savior&#x2019;s Church, we have made covenants with Him and have become His spiritually begotten sons and daughters.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> We have also been given the opportunity to labor with the Lord in inviting others to come unto Him.<\/p>\n<p data-aid=\"143139480\" id=\"p15\">As we labor with Christ, our most deeply focused efforts should be within our own homes. There will be times when family members and close friends will face challenges. The voices of the world, and maybe their own desires, might cause them to question truth. We should do everything we can to help them feel both the Savior&#x2019;s love and our love. I am reminded of the scripture verse that has become our beloved hymn &#x201C;Love One Another,&#x201D; which teaches us, &#x201C;By this shall &#x2026; men know &#x2026; ye are my disciples, if ye have love one to another.&#x201D;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"143139484\" id=\"p16\">In our love for those who are questioning truth, the enemy of all joy might try to make us feel that we betray those we love if <em>we<\/em> ourselves continue to live the fulness of the gospel and teach its truths.<\/p>\n<p data-aid=\"143139488\" id=\"p17\">Our ability to help others come unto Christ or return to Christ will largely be determined by the example we set through our own personal commitment to stay on the covenant path.<\/p>\n<p data-aid=\"143139492\" id=\"p18\">If our true desire is to rescue those we love, we ourselves must stay firmly with Christ by embracing His Church and the fulness of His gospel.<\/p>\n<p data-aid=\"143139496\" id=\"p19\">In returning to Nephi&#x2019;s story, we know that Nephi&#x2019;s inclination to trust in the Lord was influenced by his parents&#x2019; propensity to trust in the Lord and by their covenant-keeping example. This is beautifully exemplified in Lehi&#x2019;s vision of the tree of life. After partaking of the sweet and joyful fruit of the tree, Lehi &#x201C;cast [his] eyes round about, that perhaps [he] might discover [his] family.&#x201D;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> He saw Sariah, Sam, and Nephi standing &#x201C;as if they knew not whither they should go.&#x201D;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> Lehi then stated, &#x201C;I beckoned unto them; and I also did say unto them with a loud voice that they should come unto me, and partake of the fruit.&#x201D;<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Please note that Lehi did not leave the tree of life. He stayed spiritually with the Lord and invited his family to come where <em>he<\/em> was to partake of the fruit.<\/p>\n<p data-aid=\"143139500\" id=\"p20\">The adversary would entice some to leave the joy of the gospel by separating Christ&#x2019;s teachings from His Church. He would have us believe that we can stay firmly on the covenant path on our own, through our own spirituality, independent of His Church.<\/p>\n<p data-aid=\"143139504\" id=\"p21\">In these latter days, Christ&#x2019;s Church was restored in order to help Christ&#x2019;s covenant children stay on His covenant path.<\/p>\n<p data-aid=\"143139507\" id=\"p22\">In the Doctrine and Covenants we read, &#x201C;Behold, this is my doctrine&#xFEFF;&#x2014;whosoever repenteth and <em>cometh unto me,<\/em> the same <em>is<\/em> my church.&#x201D;<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"143139510\" id=\"p23\">Through Christ&#x2019;s Church, we are strengthened through our experiences as a community of Saints. We hear His voice through His prophets, seers, and revelators. Most importantly, through His Church we are provided with all the essential blessings of Christ&#x2019;s Atonement that can be realized only through participation in sacred ordinances.<\/p>\n<p data-aid=\"143139514\" id=\"p24\">The Church of Jesus Christ of Latter-day Saints is Christ&#x2019;s Church on the earth, restored in these latter days for the benefit of all of God&#x2019;s children.<\/p>\n<p data-aid=\"143139517\" id=\"p25\">I bear witness that as we come unto Christ and live as Latter-day Saints, we will be blessed with an added measure of His love, His joy, and His peace. Like Nephi, we can do difficult things and help others do the same, because we know in whom we can trust.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> Christ is our light, our life, and our salvation.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>",
+    "body": "<header>\n<span class=\"page-break\" data-page=\"36\"><\/span>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/23/d6/23d69675c87c00702b8b048c71d2fdab045522fd/23d69675c87c00702b8b048c71d2fdab045522fd.jpeg\" data-video-title=\"Come unto Christ\u2014Living as Latter-day Saints\" data-video-description=\"Elder McCune teaches us how the restored gospel of Jesus Christ helps us to do difficult things and help others do the same.\" data-video-id=\"6147129480001\" data-ip=\"Download and Streaming                            \" data-duration=\"550000\" data-assetId=\"00C61AA6AB79F30E9D1E38B88BEEE19C1D5AE8A2\" data-ref-id=\"00C61AA6AB79F30E9D1E38B88BEEE19C1D5AE8A2\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6147129480001/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"284541636\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2040-john-a-mccune-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"50226646\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2040-john-a-mccune-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"132889618\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2020-general-conference/2020-04-2040-john-a-mccune-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"284541636\"/><\/video><h1 data-aid=\"143139431\" id=\"title1\">Come unto Christ\u2014Living as Latter-day Saints<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"143139434\" id=\"author1\">By Elder John A. McCune<\/p>\n<p class=\"author-role\" data-aid=\"143139437\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"143139439\" id=\"kicker1\">We can do difficult things and help others do the same, because we know in whom we can trust.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"143139442\" id=\"p1\">Thank you, Elder Soares, for your powerful and prophetic testimony of the Book of Mormon. Recently, I had the unique opportunity to hold a page of the original manuscript of the Book of Mormon. On this particular page, for the first time in this dispensation, these bold words of Nephi were recorded: \u201cI will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<img id=\"img1\" src=\"https://assets.churchofjesuschrist.org/d9/42/d942f189cf5aa126a0539021f20a83808c2d0072/book_of_mormon.png\" data-img-id=\"2349941\" srcset=\"https://assets.churchofjesuschrist.org/36/4d/364dbf23ad4876a1dcafc25211d8d0acbf64918b/book_of_mormon.png 60w,https://assets.churchofjesuschrist.org/c1/c3/c1c3462c505a4b9930f538674719a18fcac60408/book_of_mormon.png 100w,https://assets.churchofjesuschrist.org/c9/43/c94321b5ad21bcbb421fa84c96316171827815ed/book_of_mormon.png 200w,https://assets.churchofjesuschrist.org/35/b5/35b540b4d48bf3376da1ca1e3219efa0e596799c/book_of_mormon.png 250w,https://assets.churchofjesuschrist.org/3d/6f/3d6f2b56aae139c2796962b0a4af431b9e89b7a6/book_of_mormon.png 320w,https://assets.churchofjesuschrist.org/d9/42/d942f189cf5aa126a0539021f20a83808c2d0072/book_of_mormon.png 500w,https://assets.churchofjesuschrist.org/3d/f3/3df3c5d20f10878e0073b5cd51bc979bef27d637/book_of_mormon.png 640w\" data-assetId=\"8a17901d178641fa56a4d6377e91edb3dde8ea06\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\" alt=\"Book of Mormon Manuscript\"/>\n<p data-aid=\"143139445\" id=\"p2\">As I held this page, I was filled with a profound appreciation for the efforts of the 23-year-old Joseph Smith, who translated the Book of Mormon by the \u201cgift and power of God.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> I also felt appreciation for the words of a young Nephi, who had been asked to perform a very difficult task in obtaining the plates of brass from Laban.<\/p>\n<p data-aid=\"143139446\" id=\"p3\">Nephi knew that if he continued to stay focused on the Lord, he would be successful in fulfilling what the Lord commanded him. He remained focused on the Savior throughout his life even though he suffered temptations, physical trials, and even the betrayal of some in his immediate family.<\/p>\n<p data-aid=\"143139449\" id=\"p4\">Nephi knew in whom He could trust.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Shortly after exclaiming, \u201cO wretched man that I am! Yea, my heart sorroweth because of my flesh,\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Nephi stated, \u201cMy God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"143139451\" id=\"p5\">As followers of Christ, we are not spared challenges and trials in our lives. We are often required to do difficult things that, if attempted alone, would be overwhelming and maybe impossible. As we accept the Savior\u2019s invitation to \u201ccome unto me,\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> He will provide the support, comfort, and peace that are necessary, just as He did for Nephi and Joseph. Even in our deepest trials, we can feel the warm embrace of His love as we trust Him and accept His will. We can experience the joy reserved for His faithful disciples, for \u201cChrist is joy.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"143139452\" id=\"p6\">In 2014, while serving a full-time mission, our family experienced an unexpected turn of events. When riding down a steep hill on a longboard, our youngest son fell and sustained a life-threatening injury to his brain. As his situation deteriorated, medical personnel rushed him into emergency surgery.<\/p>\n<p data-aid=\"143139455\" id=\"p7\">Our family knelt on the floor of an otherwise empty hospital room, and we poured our hearts out to God. In the midst of this confusing and painful moment, we were filled with our Heavenly Father\u2019s love and peace.<\/p>\n<p data-aid=\"143139457\" id=\"p8\">We did not know what the future held or if we would see our son alive again. We did know very clearly that his life was in God\u2019s hands and the <span class=\"page-break\" data-page=\"37\"><\/span>results, from an eternal perspective, would work out for his and our good. Through the gift of the Spirit, we were fully prepared to accept any outcome.<\/p>\n<p data-aid=\"143139461\" id=\"p9\">It was not easy! The accident resulted in a two-month hospital stay while we were presiding over 400 full-time missionaries. Our son experienced a significant loss of memory. His recovery included long and difficult physical, speech, and occupational therapy sessions. Challenges remain, but over time we have witnessed a miracle.<\/p>\n<p data-aid=\"143139463\" id=\"p10\">We understand clearly that not every trial we face will have a result we wish for. However, as we remain focused on Christ, we will feel peace and see God\u2019s miracles, whatever they may be, in His time and in His way.<\/p>\n<p data-aid=\"143139466\" id=\"p11\">There will be times when we will not be able to see any way that a current situation will end well and might even express, as Nephi, \u201cMy heart sorroweth because of my flesh.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> There may be times that the only hope we have <em>is<\/em> in Jesus Christ. What a blessing to have that hope and trust in Him. Christ is the one who will always keep His promises. His rest is assured for all who come unto Him.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"143139469\" id=\"p12\">Our leaders deeply desire all to feel the peace and comfort that come through trusting in and focusing on the Savior Jesus Christ.<\/p>\n<p data-aid=\"143139472\" id=\"p13\">Our living prophet, President Russell M. Nelson, has been communicating the Lord\u2019s vision for the world and for members of Christ\u2019s Church: \u201cOur message to the world is simple and sincere: we invite all of God\u2019s children on both sides of the veil to <em>come unto their Savior,<\/em> receive the blessings of the holy temple, have enduring joy, and qualify for eternal life.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"143139474\" id=\"p14\">This invitation to \u201ccome unto Christ\u201d has <em>specific<\/em> implications for Latter-day Saints.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> As members of the Savior\u2019s Church, we have made covenants with Him and have become His spiritually begotten sons and daughters.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> We have also been given the opportunity to labor with the Lord in inviting others to come unto Him.<\/p>\n<p data-aid=\"143139480\" id=\"p15\">As we labor with Christ, our most deeply focused efforts should be within our own homes. There will be times when family members and close friends will face challenges. The voices of the world, and maybe their own desires, might cause them to question truth. We should do everything we can to help them feel both the Savior\u2019s love and our love. I am reminded of the scripture verse that has become our beloved hymn \u201cLove One Another,\u201d which teaches us, \u201cBy this shall \u2026 men know \u2026 ye are my disciples, if ye have love one to another.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"143139484\" id=\"p16\">In our love for those who are questioning truth, the enemy of all joy might try to make us feel that we betray those we love if <em>we<\/em> ourselves continue to live the fulness of the gospel and teach its truths.<\/p>\n<p data-aid=\"143139488\" id=\"p17\">Our ability to help others come unto Christ or return to Christ will largely be determined by the example we set through our own personal commitment to stay on the covenant path.<\/p>\n<p data-aid=\"143139492\" id=\"p18\">If our true desire is to rescue those we love, we ourselves must stay firmly with Christ by embracing His Church and the fulness of His gospel.<\/p>\n<p data-aid=\"143139496\" id=\"p19\">In returning to Nephi\u2019s story, we know that Nephi\u2019s inclination to trust in the Lord was influenced by his parents\u2019 propensity to trust in the Lord and by their covenant-keeping example. This is beautifully exemplified in Lehi\u2019s vision of the tree of life. After partaking of the sweet and joyful fruit of the tree, Lehi \u201ccast [his] eyes round about, that perhaps [he] might discover [his] family.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> He saw Sariah, Sam, and Nephi standing \u201cas if they knew not whither they should go.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> Lehi then stated, \u201cI beckoned unto them; and I also did say unto them with a loud voice that they should come unto me, and partake of the fruit.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Please note that Lehi did not leave the tree of life. He stayed spiritually with the Lord and invited his family to come where <em>he<\/em> was to partake of the fruit.<\/p>\n<p data-aid=\"143139500\" id=\"p20\">The adversary would entice some to leave the joy of the gospel by separating Christ\u2019s teachings from His Church. He would have us believe that we can stay firmly on the covenant path on our own, through our own spirituality, independent of His Church.<\/p>\n<p data-aid=\"143139504\" id=\"p21\">In these latter days, Christ\u2019s Church was restored in order to help Christ\u2019s covenant children stay on His covenant path.<\/p>\n<p data-aid=\"143139507\" id=\"p22\">In the Doctrine and Covenants we read, \u201cBehold, this is my doctrine\u2014whosoever repenteth and <em>cometh unto me,<\/em> the same <em>is<\/em> my church.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<span class=\"page-break\" data-page=\"38\"><\/span>\n<p data-aid=\"143139510\" id=\"p23\">Through Christ\u2019s Church, we are strengthened through our experiences as a community of Saints. We hear His voice through His prophets, seers, and revelators. Most importantly, through His Church we are provided with all the essential blessings of Christ\u2019s Atonement that can be realized only through participation in sacred ordinances.<\/p>\n<p data-aid=\"143139514\" id=\"p24\">The Church of Jesus Christ of Latter-day Saints is Christ\u2019s Church on the earth, restored in these latter days for the benefit of all of God\u2019s children.<\/p>\n<p data-aid=\"143139517\" id=\"p25\">I bear witness that as we come unto Christ and live as Latter-day Saints, we will be blessed with an added measure of His love, His joy, and His peace. Like Nephi, we can do difficult things and help others do the same, because we know in whom we can trust.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> Christ is our light, our life, and our salvation.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"143139521\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"143139525\" id=\"note1_p2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=eng#p7\">1 Nephi 3:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"143139530\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">Title page of the Book of Mormon<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=eng\">introduction to the Book of Mormon<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"143139531\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2 Nephi 4:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"143139535\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2 Nephi 4:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"143139539\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.20?lang=eng#p20\">2 Nephi 4:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"143139543\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=eng#p28\">Matthew 11:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"143139547\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=15#p15\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2016, 82.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"143139551\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2 Nephi 4:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"143139555\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"143139560\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/let-us-all-press-on?lang=eng&amp;para=15#p15\">Let Us All Press On<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2018, 118\u201319; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"143139565\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.59?lang=eng#p59\">Doctrine and Covenants 20:59<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"143139570\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">Mosiah 5:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"143139573\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.35?lang=eng#p35\">John 13:35<\/a>; see also \u201cLove One Another,\u201d <cite>Hymns,<\/cite> no. 308.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"143139577\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.13?lang=eng#p13\">1 Nephi 8:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"143139581\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.14?lang=eng#p14\">1 Nephi 8:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"143139586\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.15?lang=eng#p15\">1 Nephi 8:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"143139589\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.67?lang=eng#p67\">Doctrine and Covenants 10:67<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"143139593\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2 Nephi 4:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"143139597\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.1?lang=eng#p1\">Psalm 27:1<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
     "footnotes": {
       "note4": {
         "marker": "4.",
-        "context": null,
         "pid": "143139449",
         "id": "note4",
-        "text": "<p data-aid=\"143139535\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2&#xA0;Nephi 4:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139535\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2 Nephi 4:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/4.17?lang=eng#p17",
           "text": "2 Nephi 4:17",
@@ -261,10 +263,9 @@
       },
       "note5": {
         "marker": "5.",
-        "context": null,
         "pid": "143139449",
         "id": "note5",
-        "text": "<p data-aid=\"143139539\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.20?lang=eng#p20\">2&#xA0;Nephi 4:20<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139539\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.20?lang=eng#p20\">2 Nephi 4:20<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/4.20?lang=eng#p20",
           "text": "2 Nephi 4:20",
@@ -273,7 +274,6 @@
       },
       "note2": {
         "marker": "2.",
-        "context": null,
         "pid": "143139445",
         "id": "note2",
         "text": "<p data-aid=\"143139530\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/bofm-title?lang=eng\">Title page of the Book of Mormon<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/introduction?lang=eng\">introduction to the Book of Mormon<\/a>.<\/p>",
@@ -292,10 +292,9 @@
       },
       "note3": {
         "marker": "3.",
-        "context": null,
         "pid": "143139449",
         "id": "note3",
-        "text": "<p data-aid=\"143139531\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2&#xA0;Nephi 4:19<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139531\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2 Nephi 4:19<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/4.19?lang=eng#p19",
           "text": "2 Nephi 4:19",
@@ -304,10 +303,9 @@
       },
       "note8": {
         "marker": "8.",
-        "context": null,
         "pid": "143139466",
         "id": "note8",
-        "text": "<p data-aid=\"143139551\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2&#xA0;Nephi 4:17<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139551\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.17?lang=eng#p17\">2 Nephi 4:17<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/4.17?lang=eng#p17",
           "text": "2 Nephi 4:17",
@@ -316,10 +314,9 @@
       },
       "note9": {
         "marker": "9.",
-        "context": null,
         "pid": "143139466",
         "id": "note9",
-        "text": "<p data-aid=\"143139555\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28&#x2013;30<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139555\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
           "text": "Matthew 11:28\u201330",
@@ -328,7 +325,6 @@
       },
       "note6": {
         "marker": "6.",
-        "context": null,
         "pid": "143139451",
         "id": "note6",
         "text": "<p data-aid=\"143139543\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=eng#p28\">Matthew 11:28<\/a>.<\/p>",
@@ -340,22 +336,20 @@
       },
       "note7": {
         "marker": "7.",
-        "context": null,
         "pid": "143139451",
         "id": "note7",
-        "text": "<p data-aid=\"143139547\" id=\"note7_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=15#p15\">Joy and Spiritual Survival<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2016, 82.<\/p>",
+        "text": "<p data-aid=\"143139547\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=15#p15\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> Nov. 2016, 82.<\/p>",
         "referenceUris": [{
-          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&para=15#p15",
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;para=15#p15",
           "text": "Joy and Spiritual Survival",
           "type": "cross-ref"
         }]
       },
       "note16": {
         "marker": "16.",
-        "context": null,
         "pid": "143139496",
         "id": "note16",
-        "text": "<p data-aid=\"143139586\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.15?lang=eng#p15\">1&#xA0;Nephi 8:15<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139586\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.15?lang=eng#p15\">1 Nephi 8:15<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/1-ne/8.15?lang=eng#p15",
           "text": "1 Nephi 8:15",
@@ -364,10 +358,9 @@
       },
       "note15": {
         "marker": "15.",
-        "context": null,
         "pid": "143139496",
         "id": "note15",
-        "text": "<p data-aid=\"143139581\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.14?lang=eng#p14\">1&#xA0;Nephi 8:14<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139581\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.14?lang=eng#p14\">1 Nephi 8:14<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/1-ne/8.14?lang=eng#p14",
           "text": "1 Nephi 8:14",
@@ -376,10 +369,9 @@
       },
       "note14": {
         "marker": "14.",
-        "context": null,
         "pid": "143139496",
         "id": "note14",
-        "text": "<p data-aid=\"143139577\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.13?lang=eng#p13\">1&#xA0;Nephi 8:13<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139577\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.13?lang=eng#p13\">1 Nephi 8:13<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/1-ne/8.13?lang=eng#p13",
           "text": "1 Nephi 8:13",
@@ -388,10 +380,9 @@
       },
       "note13": {
         "marker": "13.",
-        "context": null,
         "pid": "143139480",
         "id": "note13",
-        "text": "<p data-aid=\"143139573\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.35?lang=eng#p35\">John 13:35<\/a>; see also &#x201C;Love One Another,&#x201D; <cite>Hymns,<\/cite> no.&#xA0;308.<\/p>",
+        "text": "<p data-aid=\"143139573\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13.35?lang=eng#p35\">John 13:35<\/a>; see also \u201cLove One Another,\u201d <cite>Hymns,<\/cite> no. 308.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/nt/john/13.35?lang=eng#p35",
           "text": "John 13:35",
@@ -400,7 +391,6 @@
       },
       "note12": {
         "marker": "12.",
-        "context": null,
         "pid": "143139474",
         "id": "note12",
         "text": "<p data-aid=\"143139570\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.7?lang=eng#p7\">Mosiah 5:7<\/a>.<\/p>",
@@ -412,7 +402,6 @@
       },
       "note11": {
         "marker": "11.",
-        "context": null,
         "pid": "143139474",
         "id": "note11",
         "text": "<p data-aid=\"143139565\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.59?lang=eng#p59\">Doctrine and Covenants 20:59<\/a>.<\/p>",
@@ -424,22 +413,20 @@
       },
       "note10": {
         "marker": "10.",
-        "context": null,
         "pid": "143139472",
         "id": "note10",
-        "text": "<p data-aid=\"143139560\" id=\"note10_p1\">Russell&#xA0;M. Nelson, &#x201C;<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/let-us-all-press-on?lang=eng&amp;para=15#p15\">Let Us All Press On<\/a>,&#x201D; <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2018, 118&#x2013;19; emphasis added.<\/p>",
+        "text": "<p data-aid=\"143139560\" id=\"note10_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/let-us-all-press-on?lang=eng&amp;para=15#p15\">Let Us All Press On<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona,<\/cite> May 2018, 118\u201319; emphasis added.<\/p>",
         "referenceUris": [{
-          "href": "/study/general-conference/2018/04/let-us-all-press-on?lang=eng&para=15#p15",
+          "href": "/study/general-conference/2018/04/let-us-all-press-on?lang=eng&amp;para=15#p15",
           "text": "Let Us All Press On",
           "type": "cross-ref"
         }]
       },
       "note1": {
         "marker": "1.",
-        "context": null,
         "pid": "143139442",
         "id": "note1",
-        "text": "<p data-aid=\"143139525\" id=\"note1_p2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=eng#p7\">1&#xA0;Nephi 3:7<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139525\" id=\"note1_p2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3.7?lang=eng#p7\">1 Nephi 3:7<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/1-ne/3.7?lang=eng#p7",
           "text": "1 Nephi 3:7",
@@ -448,7 +435,6 @@
       },
       "note19": {
         "marker": "19.",
-        "context": null,
         "pid": "143139517",
         "id": "note19",
         "text": "<p data-aid=\"143139597\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.1?lang=eng#p1\">Psalm 27:1<\/a>.<\/p>",
@@ -460,10 +446,9 @@
       },
       "note18": {
         "marker": "18.",
-        "context": null,
         "pid": "143139517",
         "id": "note18",
-        "text": "<p data-aid=\"143139593\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2&#xA0;Nephi 4:19<\/a>.<\/p>",
+        "text": "<p data-aid=\"143139593\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4.19?lang=eng#p19\">2 Nephi 4:19<\/a>.<\/p>",
         "referenceUris": [{
           "href": "/study/scriptures/bofm/2-ne/4.19?lang=eng#p19",
           "text": "2 Nephi 4:19",
@@ -472,7 +457,6 @@
       },
       "note17": {
         "marker": "17.",
-        "context": null,
         "pid": "143139507",
         "id": "note17",
         "text": "<p data-aid=\"143139589\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.67?lang=eng#p67\">Doctrine and Covenants 10:67<\/a>; emphasis added.<\/p>",

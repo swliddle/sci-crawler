@@ -249,7 +249,7 @@ public class SciCrawler {
                         case "--writeContentToFiles":
                             writeContentToFiles = true;
                             break;
-                        case "--use-conference-site":
+                        case "--useConferenceSite":
                             useConferenceSite = true;
                             break;
                         default:
@@ -383,7 +383,7 @@ public class SciCrawler {
             entry.href = matcher.group(SCRIPTURE_REFERENCE_HREF);
             entry.text = matcher.group(SCRIPTURE_REFERENCE_TEXT);
             entry.isFootnote = isFootnote;
-            entry.footnoteKey = footnoteKey;
+            entry.footnoteKey = matcher.group().contains("uniq") ? "uniq" : footnoteKey;
             entry.sequence = sequence;
 
             sequence += 1;
@@ -619,8 +619,10 @@ public class SciCrawler {
         Matcher matcher = scriptureReferencePattern.matcher(content);
 
         while (matcher.find()) {
+            String key = matcher.group().contains("uniq") ? "uniq" : "body";
+
             addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF),
-                    matcher.group(SCRIPTURE_REFERENCE_TEXT), "body");
+                    matcher.group(SCRIPTURE_REFERENCE_TEXT), key);
         }
     }
 
@@ -949,7 +951,7 @@ public class SciCrawler {
                 Pattern.DOTALL + Pattern.MULTILINE)
                 .matcher(body).replaceFirst("");
 
-        collectMatch(entries, talkBody, scriptureReferencePattern, false, null, 0);
+        collectMatch(entries, talkBody, scriptureReferencePattern, false, "body", 0);
 
         if (footnotes != null) {
             for (String key : sortedKeys(footnotes)) {
@@ -1282,7 +1284,9 @@ public class SciCrawler {
         boolean isEqualTo(LinkEntry l) {
             return href.equals(l.href)
                     && text.equals(l.text)
-                    && sequence == l.sequence;
+                    && sequence == l.sequence
+                    && (footnoteKey.equals(l.footnoteKey) || footnoteKey.equals("body")
+                            || l.footnoteKey.equals("body"));
         }
     }
 }
