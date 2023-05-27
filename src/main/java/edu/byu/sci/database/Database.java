@@ -877,6 +877,16 @@ public class Database {
     public void updateTalkContents(boolean writeToDatabase, boolean replaceTalkBodies,
             Map<String, String> talkContents, String language) {
         talkContents.forEach((talkId, contents) -> {
+            if (replaceTalkBodies) {
+                // NEEDSWORK
+                // Check to see whether the talk body is different from the one in the database.
+                // If so, update the database.
+                // NEEDSWORK: this is a hack to replace just Elder Rasband's talk in April 2023
+                if (!talkId.equals("53rasband")) {
+                    return;
+                }
+            }
+
             logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());
 
             if (writeToDatabase || replaceTalkBodies) {
