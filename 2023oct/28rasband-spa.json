@@ -1,0 +1,610 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/28rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "066fabdd058040f99595901715968c26",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/28rasband",
+      "data-aid": "156927164",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "ec1426106b8347cf81467199e9b0a615"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/0e/df/0edf2c1314416b578d2b1adf8b3a20518aa05710/0edf2c1314416b578d2b1adf8b3a20518aa05710.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2080-ronald-a-rasband-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Cuán grande será su gozo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156927164",
+      {"key": "156927164"}
+    ],
+    [
+      "156991691",
+      {"key": "156991691"}
+    ],
+    [
+      "156991696",
+      {"key": "156991696"}
+    ],
+    [
+      "156991702",
+      {"key": "156991702"}
+    ],
+    [
+      "156991708",
+      {"key": "156991708"}
+    ],
+    [
+      "156991715",
+      {"key": "156991715"}
+    ],
+    [
+      "156991723",
+      {"key": "156991723"}
+    ],
+    [
+      "156991731",
+      {"key": "156991731"}
+    ],
+    [
+      "156991739",
+      {"key": "156991739"}
+    ],
+    [
+      "156991747",
+      {"key": "156991747"}
+    ],
+    [
+      "156991755",
+      {"key": "156991755"}
+    ],
+    [
+      "156991764",
+      {"key": "156991764"}
+    ],
+    [
+      "156991772",
+      {"key": "156991772"}
+    ],
+    [
+      "156991780",
+      {"key": "156991780"}
+    ],
+    [
+      "156991789",
+      {"key": "156991789"}
+    ],
+    [
+      "156991799",
+      {"key": "156991799"}
+    ],
+    [
+      "156991809",
+      {"key": "156991809"}
+    ],
+    [
+      "156991820",
+      {"key": "156991820"}
+    ],
+    [
+      "156992829",
+      {"key": "156992829"}
+    ],
+    [
+      "156992835",
+      {"key": "156992835"}
+    ],
+    [
+      "156992844",
+      {"key": "156992844"}
+    ],
+    [
+      "156992854",
+      {"key": "156992854"}
+    ],
+    [
+      "156992868",
+      {"key": "156992868"}
+    ],
+    [
+      "156992879",
+      {"key": "156992879"}
+    ],
+    [
+      "156992890",
+      {"key": "156992890"}
+    ],
+    [
+      "156992901",
+      {"key": "156992901"}
+    ],
+    [
+      "156992912",
+      {"key": "156992912"}
+    ],
+    [
+      "156992923",
+      {"key": "156992923"}
+    ],
+    [
+      "156992934",
+      {"key": "156992934"}
+    ],
+    [
+      "156992945",
+      {"key": "156992945"}
+    ],
+    [
+      "156992956",
+      {"key": "156992956"}
+    ],
+    [
+      "156992967",
+      {"key": "156992967"}
+    ],
+    [
+      "156992977",
+      {"key": "156992977"}
+    ],
+    [
+      "156992985",
+      {"key": "156992985"}
+    ],
+    [
+      "156992996",
+      {"key": "156992996"}
+    ],
+    [
+      "156993007",
+      {"key": "156993007"}
+    ],
+    [
+      "156993018",
+      {"key": "156993018"}
+    ],
+    [
+      "156993029",
+      {"key": "156993029"}
+    ],
+    [
+      "156993040",
+      {"key": "156993040"}
+    ],
+    [
+      "156993051",
+      {"key": "156993051"}
+    ],
+    [
+      "156993062",
+      {"key": "156993062"}
+    ],
+    [
+      "156993073",
+      {"key": "156993073"}
+    ],
+    [
+      "156993083",
+      {"key": "156993083"}
+    ],
+    [
+      "156993093",
+      {"key": "156993093"}
+    ],
+    [
+      "156993103",
+      {"key": "156993103"}
+    ],
+    [
+      "156993113",
+      {"key": "156993113"}
+    ],
+    [
+      "156993123",
+      {"key": "156993123"}
+    ],
+    [
+      "156993133",
+      {"key": "156993133"}
+    ],
+    [
+      "156993141",
+      {"key": "156993141"}
+    ],
+    [
+      "156993149",
+      {"key": "156993149"}
+    ],
+    [
+      "156993157",
+      {"key": "156993157"}
+    ],
+    [
+      "156993165",
+      {"key": "156993165"}
+    ],
+    [
+      "156993173",
+      {"key": "156993173"}
+    ],
+    [
+      "156993181",
+      {"key": "156993181"}
+    ],
+    [
+      "156993189",
+      {"key": "156993189"}
+    ],
+    [
+      "156993198",
+      {"key": "156993198"}
+    ],
+    [
+      "156993207",
+      {"key": "156993207"}
+    ],
+    [
+      "156993216",
+      {"key": "156993216"}
+    ],
+    [
+      "156993225",
+      {"key": "156993225"}
+    ],
+    [
+      "156993234",
+      {"key": "156993234"}
+    ],
+    [
+      "156993243",
+      {"key": "156993243"}
+    ],
+    [
+      "156993251",
+      {"key": "156993251"}
+    ],
+    [
+      "156993260",
+      {"key": "156993260"}
+    ],
+    [
+      "156993268",
+      {"key": "156993268"}
+    ],
+    [
+      "156993276",
+      {"key": "156993276"}
+    ],
+    [
+      "156993283",
+      {"key": "156993283"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/28rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña que para recoger a Israel se necesitan más misioneros e invita a los miembros mayores a que tomen el conocimiento y el testimonio que tienen y sirvan misiones.",
+          "title": "Cuán grande será su gozo"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña que para recoger a Israel se necesitan más misioneros e invita a los miembros mayores a que tomen el conocimiento y el testimonio que tienen y sirvan misiones.",
+          "title": "Cuán grande será su gozo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/0e/df/0edf2c1314416b578d2b1adf8b3a20518aa05710/0edf2c1314416b578d2b1adf8b3a20518aa05710.jpeg\" data-video-title=\"Cuán grande será su gozo\" data-video-description=\"El élder Rasband enseña que para recoger a Israel se necesitan más misioneros e invita a los miembros mayores a que tomen el conocimiento y el testimonio que tienen y sirvan misiones.\" data-video-id=\"6338166858112\" data-ip=\"Download and Streaming                            \" data-duration=\"827528\" data-assetId=\"3c36bcd45fdf11ee8ddbeeeeac1e2ab1ccb28702\" data-ref-id=\"2BA53EC8FFC9A962259E3B6844A5A3B96C340C00\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338166858112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276507338\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2080-ronald-a-rasband-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"76751826\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2080-ronald-a-rasband-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"199569765\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2080-ronald-a-rasband-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276507338\"/><\/video><h1 data-aid=\"156991691\" id=\"title1\">Cuán grande será su gozo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156991696\" id=\"author1\">Por el élder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"156991702\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156991708\" id=\"kicker1\">Los invito ahora a llevar sus conocimientos y experiencia, junto con sus testimonios, compartidos a lo largo del tiempo, y vayan a servir en una misión.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156991715\" id=\"p1\">Mis queridos hermanos y hermanas, hoy pienso en el recogimiento de Israel, lo que el presidente Russell M. Nelson llama \u201clo más importante que se está llevando a cabo hoy en la tierra. Nada se le compara en magnitud, nada se le compara en importancia, nada se le compara en majestad\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"156991723\" id=\"p2\">El recogimiento es el reconocimiento supremo de que \u201cel valor de las almas es grande a la vista de Dios\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Es así de sencillo. Estamos recogiendo a los hijos de Dios en estos últimos días para que se puedan derramar \u201cgrandes bendiciones sobre su cabeza\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> y reciban las promesas de \u201clas riquezas de la eternidad\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. De esto se deduce que para recoger a Israel necesitamos misioneros, muchos más de los que están sirviendo<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Hoy me dirijo a los muchos miembros mayores y experimentados de la Iglesia que podrían servir como misioneros. El Señor los necesita. Los necesitamos en Nueva York y en Chicago, en Australia y en África, en Tailandia y en México, y en cualquier otra parte del mundo.<\/p>\n<p data-aid=\"156991731\" id=\"p3\">Permitan que regresemos al año 2015, cuando acababa de ser llamado al Cuórum de los Doce Apóstoles. Una de las maravillosas responsabilidades que asumimos como Apóstoles es la de asignar a misioneros a sus lugares de servicio. Como Setenta, ya había participado en ese proceso<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, pero ahora, como Apóstol, sentía todo el peso de esa asignación. Con espíritu de oración, comencé por ubicar a un gran número de jóvenes élderes y hermanas, uno por uno, en misiones de todo el mundo. Luego me ocupé de los matrimonios mayores. Había diez en la lista; no eran muchos. Sorprendido, pregunté a mi compañero del Departamento Misional: \u201c¿A cuántos necesitamos esta semana para cubrir las solicitudes?\u201d.<\/p>\n<p data-aid=\"156991739\" id=\"p4\">Él respondió: \u201cTrescientos\u201d.<\/p>\n<p data-aid=\"156991747\" id=\"p5\">Todavía recuerdo aquel momento aleccionador: Diez matrimonios para cubrir trescientas solicitudes.<\/p>\n<p data-aid=\"156991755\" id=\"p6\">El presidente Russell M. Nelson ha alentado a los matrimonios a \u201carrodillarse y preguntar al Padre Celestial si el momento es apropiado para servir en una misión\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. De todos los requisitos, él dijo, \u201cel <em>deseo<\/em> de servir tal vez sea el más importante\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"156991764\" id=\"p7\">Como leemos en el pasaje de las Escrituras: \u201c\u2026 si tenéis deseos de servir a Dios, sois llamados a la obra\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Esa obra consiste sobre todo en la ley de la cosecha. En Juan leemos: \u201c\u2026 el que siembra también se regocij[a] juntamente con el que siega\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"156991772\" id=\"p8\">He visto cómo la ley de la cosecha se cumplía en mi propia familia.<\/p>\n<p data-aid=\"156991780\" id=\"p9\">Hace años estaba visitando a unos familiares cuando el obispo me pidió que concluyera el servicio sacramental<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Cuando bajaba del estrado, una mujer se me acercó con sus siete hijos y se presentó como la hermana Rebecca Guzmán.<\/p>\n<p data-aid=\"156991789\" id=\"p10\">Me preguntó: \u201cÉlder Rasband, ¿conoce a Rulon y Verda Rasband?\u201d.<\/p>\n<p data-aid=\"156991799\" id=\"p11\">Con una gran sonrisa le respondí: \u201cSon mis padres\u201d.<\/p>\n<p data-aid=\"156991809\" id=\"p12\">Ya pueden imaginarse lo que sucedió. Con permiso de Rebecca, que está aquí en el Centro de Conferencias con su familia, les cuento la historia de su familia<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<img alt=\"La hermana Verda y el élder Rulon Rasband.\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/500,/0/default\" data-img-id=\"9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2\" srcset=\"https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/60,/0/default 60w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/100,/0/default 100w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/200,/0/default 200w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/250,/0/default 250w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/320,/0/default 320w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/500,/0/default 500w,https://www.churchofjesuschrist.org/imgs/9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2/full/640,/0/default 640w\" data-assetId=\"9588d7695d8911eeb6e9eeeeac1eec9d6d2758c2\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"156991820\" id=\"p13\">Mis padres, el élder Rulon y la hermana Verda Rasband, estaban sirviendo como matrimonio misionero en la Misión Florida Fort Lauderdale<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Estaban haciendo proselitismo y, por intervención divina, tocaron a la puerta de la casa de Rebecca. Ella era una adolescente y le encantaba escuchar la música de los Osmond, y en particular la de nuestro amigo Donny, que hoy se encuentra con nosotros aquí<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Rebecca había escuchado sus entrevistas en los medios de comunicación y sabía que eran miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días. Sintió que tenían algo diferente y, creyendo que quizás se debía a su religión, pasó dos años investigando las creencias de la Iglesia en la biblioteca de la escuela. Así que, cuando un matrimonio de aspecto amable tocó a la puerta de su familia y se presentó como misioneros Santos de los Últimos Días, Rebecca se sorprendió.<\/p>\n<p data-aid=\"156992829\" id=\"p14\">\u201cMi madre me dijo que me librara de ellos\u201d, escribió Rebecca más adelante, pero \u201cmi corazón se resistió a hacerlo. Miré sus rostros y sentí mucho amor y cordialidad. Ese recuerdo todavía hace que se me salten las lágrimas y me emociona mucho\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"156992835\" id=\"p15\">Rebecca los invitó a entrar y mis padres misioneros compartieron un mensaje con ella, con sus dos hermanas menores y, a pesar de sus objeciones, con su madre.<\/p>\n<p data-aid=\"156992844\" id=\"p16\">Rebecca me lo describió así: \u201cSu padre y su madre fueron maravillosos y contestaron las preguntas que teníamos. Todavía puedo ver sus rostros, como si estuvieran rodeados de luz. Siempre abrazábamos a su madre cuando se iba y ella siempre se aseguraba de ayudar a mi madre a sentirse cómoda y respetada. A su padre siempre le brillaban los ojos cuando nos enseñaba acerca de Jesucristo. Él intentaba incluir a mi padre en las conversaciones y, con el tiempo, lo convenció. Mi padre era chef en un club de campo local y empezó a preparar cenas para sus padres, incluso pastel de lima, el favorito de su padre\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"156992854\" id=\"p17\">Cuando el élder y la hermana Rasband pidieron a Rebecca y su familia que leyeran el Libro de Mormón, Rebecca lo hizo en cinco días. Quiso ser bautizada de inmediato, pero el resto de los miembros de su familia no estaban listos. Después de cuatro meses, Rebecca insistió en ser bautizada y unirse a la Iglesia verdadera. Lo recordaba así: \u201cCada fibra de mi alma sabía que era verdad\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. El 5 de abril de 1979, los misioneros bautizaron a Rebecca, que tenía diecinueve años, a su madre y a dos de sus hermanas. Mi padre fue testigo del bautismo.<\/p>\n<p data-aid=\"156992868\" id=\"p18\">Cuando conocí a Rebecca y a su familia en la capilla, me tomé una fotografía con su familia. Llevé la fotografía a casa, a mi anciana madre; ella se la puso sobre el corazón y me dijo: \u201cRonnie, este es uno de los días más felices de mi vida\u201d.<\/p>\n<img alt=\"Los Guzmán, los Rasband y los Osmond.\" id=\"img2\" src=\"https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/500,/0/default\" data-img-id=\"05b4be3e63d111eebefeeeeeac1ed5a6235cb51e\" srcset=\"https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/60,/0/default 60w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/100,/0/default 100w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/200,/0/default 200w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/250,/0/default 250w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/320,/0/default 320w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/500,/0/default 500w,https://www.churchofjesuschrist.org/imgs/05b4be3e63d111eebefeeeeeac1ed5a6235cb51e/full/640,/0/default 640w\" data-assetId=\"05b4be3e63d111eebefeeeeeac1ed5a6235cb51e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"156992879\" id=\"p19\">La respuesta de mi madre lleva a formular la pregunta a nuestros miembros mayores: \u201c¿Qué están haciendo en esta etapa de su vida?\u201d. Hay muchas formas en las que los misioneros mayores pueden hacer lo que nadie más puede. Ustedes son una fuerza considerable para hacer el bien, con experiencia en la Iglesia y preparados para animar y rescatar a los hijos de Dios.<\/p>\n<p data-aid=\"156992890\" id=\"p20\">Algunos de ustedes quizás piensen: \u201cPero ¿qué pasa con dejar a los nietos? Nos perderíamos eventos familiares y cumpleaños, y extrañaríamos a los amigos, incluso a nuestras mascotas\u201d. Si hubiera preguntado a mi madre por qué ella y mi padre fueron a una misión, sé que ella me habría dicho esto: \u201cTengo nietos y quiero que ellos sepan que tu padre y yo servimos en el campo misional, que queríamos dar ejemplo a nuestra posteridad y que fuimos muy, muy bendecidos\u201d.<\/p>\n<p data-aid=\"156992901\" id=\"p21\">Al visitar misiones por todo el mundo, he visto el excelente servicio de nuestra legión de misioneros mayores. Es obvio que son felices haciendo la voluntad del Señor y estando en \u201cla obra del Señor\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"156992912\" id=\"p22\">Para algunos de ustedes, y esperamos que para miles, el servicio misional de tiempo completo en otro rincón del mundo será el lugar adecuado<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>; para otros podría ser preferible una misión de servicio a la Iglesia en casa. Debido a problemas de salud y otras circunstancias, hay personas que no pueden servir. Comprendemos esas situaciones y espero que puedan encontrar maneras de apoyar a quienes están sirviendo. Sigan el consejo del profeta y oren para saber lo que el Señor quiere que hagan.<\/p>\n<p data-aid=\"156992923\" id=\"p23\">Hay campos misionales en todo el mundo que suplican su ayuda. El presidente Nelson ha dicho de nuestros misioneros mayores: \u201cSon jóvenes de espíritu y prudentes y tienen el deseo de trabajar\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"156992934\" id=\"p24\">En el campo tienen toda una variedad de oportunidades: podrían servir en oficinas de misión o en templos, fortalecer a los misioneros jóvenes, impulsar las ramas pequeñas, trabajar en centros de FamilySearch o en sitios históricos, enseñar Instituto, prestar servicio humanitario, trabajar con los jóvenes adultos y ayudar en centros de empleo o en granjas de la Iglesia. Los detalles de las formas de servir, las opciones más adecuadas, los lugares en que los necesitan y cómo pueden prepararse para servir se tratan en el sitio web \u201cMisionero mayor\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. También pueden hablar con su obispo o presidente de rama.<\/p>\n<p data-aid=\"156992945\" id=\"p25\">He llamado a servir a muchos matrimonios y he visto cómo la luz de Cristo rebosa en sus rostros<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. Al regresar, han contado que se han acercado más al Señor y el uno al otro, han sentido que el Espíritu del Señor se derramaba sobre ellos y han sabido que estaban marcando la diferencia<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. ¿Quién no querría eso?<\/p>\n<p data-aid=\"156992956\" id=\"p26\">Una misión podría ser el capítulo más importante de la vida de un matrimonio. Un buen título para ello podría ser \u201cQue Cristo me quiera enviar\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Quizás se encuentren en un terreno desconocido; sin embargo, el poder del Espíritu hará que se sientan como en casa.<\/p>\n<p data-aid=\"156992967\" id=\"p27\">Mis padres, así como decenas de miles de matrimonios misioneros mayores que han vuelto a casa, han dado testimonio del gozo que hallaron en la obra misional. En las Escrituras de los postreros días, el Señor ha dicho: \u201cY si acontece que trabajáis todos vuestros días proclamando el arrepentimiento a este pueblo y me traéis aun cuando fuere una sola alma, ¡cuán grande será vuestro gozo con ella en el reino de mi Padre!\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"156992977\" id=\"p28\">Isaías describió de manera poética lo que significa servir en el \u201ccampo\u201d misional. En las Escrituras leemos que \u201cel campo es el mundo\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. Este gran profeta de la antigüedad escribió: \u201cPorque con alegría saldréis y en paz seréis conducidos; los montes y los collados prorrumpirán en cánticos delante de vosotros, y todos los árboles del campo darán palmadas de aplauso\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. Los montes, collados, campos y árboles se pueden comparar con los presidentes de misión, obispos, líderes de distrito y miembros, y aquellos que buscan la verdad, pero \u201cno saben dónde hallarla\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>; testificarán que los misioneros mayores cambian el paisaje mismo con su testimonio de nuestro Salvador y Redentor, Jesucristo.<\/p>\n<p data-aid=\"156992985\" id=\"p29\">Como apóstol del Señor Jesucristo, les pido que sirvan como misioneros en el recogimiento de Israel y que, tal vez, incluso sirvan de nuevo. Los necesitamos, los necesitamos. Les estamos agradecidos a ustedes, las personas mayores, por la vida que han llevado y el ejemplo que han dado en sus hogares, barrios y estacas. Los invito ahora a llevar sus conocimientos y experiencia, junto con sus testimonios, compartidos a lo largo del tiempo, y vayan a servir en una misión. Ruego que la próxima vez que me siente a asignar a matrimonios misioneros mayores, haya cientos de ustedes esperando con anhelo su llamamiento.<\/p>\n<p data-aid=\"156992996\" id=\"p30\">Les prometo también que, al servir, sentirán el amor del Señor en su vida, lo conocerán a Él, Él los conocerá a ustedes y qué \u201cgrande será [su] gozo\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>. Su servicio dedicado a Jesucristo inspirará y bendecirá a su familia, a sus nietos y a sus bisnietos. La \u201cpaz y [el] amor [les] ser[á]n multiplicados\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> en su vida en los años venideros. Lo prometo. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156993007\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156993018\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa\">Juventud de Israel<\/a>\u201d, devocional mundial para jóvenes, 3 de junio de 2018, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156993029\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.10?lang=spa#p10\">Doctrina y Convenios 18:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156993040\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/10.18?lang=spa#p18\">3 Nefi 10:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156993051\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18?lang=spa#p18\">Doctrina y Convenios 78:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156993062\" id=\"note5_p1\">La Iglesia tiene 71 000 misioneros de tiempo completo en 414 misiones de todo el mundo, desde Norteamérica y Sudamérica hasta Europa y África, así como Australia/Oceanía. Hay 34 000 misioneros mayores de servicio a la Iglesia; (Datos del Departamento Misional, septiembre de 2023.) <\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156993073\" id=\"note6_p1\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2010/04/the-divine-call-of-a-missionary?lang=spa\">El llamamiento divino de un misionero<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2010, págs. 52\u201353.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156993083\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2016/04/senior-missionary-moments?lang=spa\">Momentos misionales en la vida de los matrimonios mayores<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2016, págs. 26\u201327.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156993093\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa\">Los misioneros mayores y el Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2004, pág. 81.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156993103\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4.3?lang=spa#p3\">Doctrina y Convenios 4:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156993113\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.36?lang=spa#p36\">Juan 4:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156993123\" id=\"note11_p1\">En abril de 2006 me encontraba en Nueva York, EE. UU., asistiendo al bautismo de mi nieta Brooklyn y a la bendición de mi nieta Ella.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156993133\" id=\"note12_p1\">Carta de Rebecca Guzmán al élder Ronald A. Rasband, 8 de septiembre de 2009.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156993141\" id=\"note13_p1\">Mis padres sirvieron en la Misión Florida Fort Lauderdale en 1979.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156993149\" id=\"note14_p1\"><i>The Osmonds<\/i> fue un popular grupo musical estadounidense, conocido por sus canciones pop. El grupo alcanzó una enorme fama a mediados de la década de 1970, actuando en programas de variedades en la televisión. Donny y Marie continuaron en la televisión con sus carreras en los escenarios, mientras que los hermanos actuaron durante décadas como artistas de country en Branson, Misuri.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156993157\" id=\"note15_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156993165\" id=\"note16_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156993173\" id=\"note17_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156993181\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.29?lang=spa#p29\">Doctrina y Convenios 64:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156993189\" id=\"note19_p1\">Las oportunidades para misioneros mayores se dan en muchas formas y los matrimonios o las hermanas mayores podrán indicar sus preferencias, así como si quieren una asignación de tiempo completo o de servicio a la Iglesia. En última instancia, el profeta de la Iglesia expide el llamamiento de servir a tiempo completo. Los presidentes de estaca realizan las asignaciones de servicio a la Iglesia. El servicio puede durar de seis a veintitrés meses y los misioneros mayores tienen más flexibilidad y su actividad es menos ardua que la de los misioneros jóvenes. Véase <a href=\"https://seniormissionary.churchofjesuschrist.org\">seniormissionary.churchofjesuschrist.org/srsite/?lang=spa<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156993198\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa\">Los misioneros mayores y el Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2004, pág. 79.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156993207\" id=\"note21_p1\">Véase <a href=\"https://seniormissionary.churchofjesuschrist.org\">seniormissionary.churchofjesuschrist.org/srsite/?lang=spa<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156993216\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=spa#p14\">Alma 5:14<\/a>. El rostro se puede describir como el reflejo de la actitud espiritual y el estado mental de una persona.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156993225\" id=\"note23_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jude/1.22?lang=spa#p22\">Judas 1:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.20?lang=spa#p20\">Mosíah 4:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156993234\" id=\"note24_p1\">Véase \u201cA donde me mandes iré\u201d, <cite>Himnos<\/cite>, nro. 175.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156993243\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.15?lang=spa#p15\">Doctrina y Convenios 18:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156993251\" id=\"note26_p1\">El Señor explicó que \u201cel campo es el mundo [\u2026]; y la siega es el fin del mundo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.38-39?lang=spa#p38\">Mateo 13:38\u201339<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156993260\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55.12?lang=spa#p12\">Isaías 55:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156993268\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=spa#p12\">Doctrina y Convenios 123:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156993276\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.15?lang=spa#p15\">Doctrina y Convenios 18:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156993283\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/jude/1.2?lang=spa#p2\">Judas 1:2<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156991723",
+        "id": "note4",
+        "text": "<p data-aid=\"156993051\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/78.18?lang=spa#p18\">Doctrina y Convenios 78:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/78.18?lang=spa#p18",
+          "text": "Doctrina y Convenios 78:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156991723",
+        "id": "note5",
+        "text": "<p data-aid=\"156993062\" id=\"note5_p1\">La Iglesia tiene 71 000 misioneros de tiempo completo en 414 misiones de todo el mundo, desde Norteamérica y Sudamérica hasta Europa y África, así como Australia/Oceanía. Hay 34 000 misioneros mayores de servicio a la Iglesia; (Datos del Departamento Misional, septiembre de 2023.) <\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156991723",
+        "id": "note2",
+        "text": "<p data-aid=\"156993029\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.10?lang=spa#p10\">Doctrina y Convenios 18:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18.10?lang=spa#p10",
+          "text": "Doctrina y Convenios 18:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156991723",
+        "id": "note3",
+        "text": "<p data-aid=\"156993040\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/10.18?lang=spa#p18\">3 Nefi 10:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/10.18?lang=spa#p18",
+          "text": "3 Nefi 10:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156991755",
+        "id": "note8",
+        "text": "<p data-aid=\"156993093\" id=\"note8_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa\">Los misioneros mayores y el Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2004, pág. 81.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa",
+          "text": "Los misioneros mayores y el Evangelio",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156991764",
+        "id": "note9",
+        "text": "<p data-aid=\"156993103\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4.3?lang=spa#p3\">Doctrina y Convenios 4:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/4.3?lang=spa#p3",
+          "text": "Doctrina y Convenios 4:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156991731",
+        "id": "note6",
+        "text": "<p data-aid=\"156993073\" id=\"note6_p1\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2010/04/the-divine-call-of-a-missionary?lang=spa\">El llamamiento divino de un misionero<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2010, págs. 52\u201353.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2010/04/the-divine-call-of-a-missionary?lang=spa",
+          "text": "El llamamiento divino de un misionero",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156991755",
+        "id": "note7",
+        "text": "<p data-aid=\"156993083\" id=\"note7_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2016/04/senior-missionary-moments?lang=spa\">Momentos misionales en la vida de los matrimonios mayores<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2016, págs. 26\u201327.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2016/04/senior-missionary-moments?lang=spa",
+          "text": "Momentos misionales en la vida de los matrimonios mayores",
+          "type": "cross-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156992996",
+        "id": "note30",
+        "text": "<p data-aid=\"156993283\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/jude/1.2?lang=spa#p2\">Judas 1:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/jude/1.2?lang=spa#p2",
+          "text": "Judas 1:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156992844",
+        "id": "note16",
+        "text": "<p data-aid=\"156993165\" id=\"note16_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156992829",
+        "id": "note15",
+        "text": "<p data-aid=\"156993157\" id=\"note15_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156991820",
+        "id": "note14",
+        "text": "<p data-aid=\"156993149\" id=\"note14_p1\"><i>The Osmonds<\/i> fue un popular grupo musical estadounidense, conocido por sus canciones pop. El grupo alcanzó una enorme fama a mediados de la década de 1970, actuando en programas de variedades en la televisión. Donny y Marie continuaron en la televisión con sus carreras en los escenarios, mientras que los hermanos actuaron durante décadas como artistas de country en Branson, Misuri.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156991820",
+        "id": "note13",
+        "text": "<p data-aid=\"156993141\" id=\"note13_p1\">Mis padres sirvieron en la Misión Florida Fort Lauderdale en 1979.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156991809",
+        "id": "note12",
+        "text": "<p data-aid=\"156993133\" id=\"note12_p1\">Carta de Rebecca Guzmán al élder Ronald A. Rasband, 8 de septiembre de 2009.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156991780",
+        "id": "note11",
+        "text": "<p data-aid=\"156993123\" id=\"note11_p1\">En abril de 2006 me encontraba en Nueva York, EE. UU., asistiendo al bautismo de mi nieta Brooklyn y a la bendición de mi nieta Ella.<\/p>"
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156991764",
+        "id": "note10",
+        "text": "<p data-aid=\"156993113\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.36?lang=spa#p36\">Juan 4:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.36?lang=spa#p36",
+          "text": "Juan 4:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156992912",
+        "id": "note19",
+        "text": "<p data-aid=\"156993189\" id=\"note19_p1\">Las oportunidades para misioneros mayores se dan en muchas formas y los matrimonios o las hermanas mayores podrán indicar sus preferencias, así como si quieren una asignación de tiempo completo o de servicio a la Iglesia. En última instancia, el profeta de la Iglesia expide el llamamiento de servir a tiempo completo. Los presidentes de estaca realizan las asignaciones de servicio a la Iglesia. El servicio puede durar de seis a veintitrés meses y los misioneros mayores tienen más flexibilidad y su actividad es menos ardua que la de los misioneros jóvenes. Véase <a href=\"https://seniormissionary.churchofjesuschrist.org\">seniormissionary.churchofjesuschrist.org/srsite/?lang=spa<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "https://seniormissionary.churchofjesuschrist.org",
+          "text": "seniormissionary.churchofjesuschrist.org/srsite/?lang=spa"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156992901",
+        "id": "note18",
+        "text": "<p data-aid=\"156993181\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.29?lang=spa#p29\">Doctrina y Convenios 64:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/64.29?lang=spa#p29",
+          "text": "Doctrina y Convenios 64:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156992854",
+        "id": "note17",
+        "text": "<p data-aid=\"156993173\" id=\"note17_p1\">Carta de Rebecca Guzmán, 8 de septiembre de 2009.<\/p>"
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156992977",
+        "id": "note27",
+        "text": "<p data-aid=\"156993260\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55.12?lang=spa#p12\">Isaías 55:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/55.12?lang=spa#p12",
+          "text": "Isaías 55:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156992977",
+        "id": "note26",
+        "text": "<p data-aid=\"156993251\" id=\"note26_p1\">El Señor explicó que \u201cel campo es el mundo [\u2026]; y la siega es el fin del mundo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13.38-39?lang=spa#p38\">Mateo 13:38\u201339<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/13.38-39?lang=spa#p38",
+          "text": "Mateo 13:38\u201339",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156992967",
+        "id": "note25",
+        "text": "<p data-aid=\"156993243\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.15?lang=spa#p15\">Doctrina y Convenios 18:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18.15?lang=spa#p15",
+          "text": "Doctrina y Convenios 18:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156992956",
+        "id": "note24",
+        "text": "<p data-aid=\"156993234\" id=\"note24_p1\">Véase \u201cA donde me mandes iré\u201d, <cite>Himnos<\/cite>, nro. 175.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156992945",
+        "id": "note23",
+        "text": "<p data-aid=\"156993225\" id=\"note23_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/jude/1.22?lang=spa#p22\">Judas 1:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4.20?lang=spa#p20\">Mosíah 4:20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/jude/1.22?lang=spa#p22",
+            "text": "Judas 1:22",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4.20?lang=spa#p20",
+            "text": "Mosíah 4:20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156992945",
+        "id": "note22",
+        "text": "<p data-aid=\"156993216\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.14?lang=spa#p14\">Alma 5:14<\/a>. El rostro se puede describir como el reflejo de la actitud espiritual y el estado mental de una persona.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.14?lang=spa#p14",
+          "text": "Alma 5:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156992934",
+        "id": "note21",
+        "text": "<p data-aid=\"156993207\" id=\"note21_p1\">Véase <a href=\"https://seniormissionary.churchofjesuschrist.org\">seniormissionary.churchofjesuschrist.org/srsite/?lang=spa<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "https://seniormissionary.churchofjesuschrist.org",
+          "text": "seniormissionary.churchofjesuschrist.org/srsite/?lang=spa"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156992923",
+        "id": "note20",
+        "text": "<p data-aid=\"156993198\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa\">Los misioneros mayores y el Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2004, pág. 79.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=spa",
+          "text": "Los misioneros mayores y el Evangelio",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156991715",
+        "id": "note1",
+        "text": "<p data-aid=\"156993018\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa\">Juventud de Israel<\/a>\u201d, devocional mundial para jóvenes, 3 de junio de 2018, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa",
+          "text": "Juventud de Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156992996",
+        "id": "note29",
+        "text": "<p data-aid=\"156993276\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18.15?lang=spa#p15\">Doctrina y Convenios 18:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18.15?lang=spa#p15",
+          "text": "Doctrina y Convenios 18:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156992977",
+        "id": "note28",
+        "text": "<p data-aid=\"156993268\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=spa#p12\">Doctrina y Convenios 123:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/123.12?lang=spa#p12",
+          "text": "Doctrina y Convenios 123:12",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

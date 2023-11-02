@@ -1,0 +1,602 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/11bednar?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "391ca8abf5b34274ab0c30c17fac2044",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/11bednar",
+      "data-aid": "156931344",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "391ca8abf5b34274ab0c30c17fac2044"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/5c/72/5c722dfae8f0d8c13ac7b6b55998f86e5a77f9ff/5c722dfae8f0d8c13ac7b6b55998f86e5a77f9ff.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1010-david-a-bednar-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "In the Path of Their Duty",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156931344",
+      {"key": "156931344"}
+    ],
+    [
+      "156931347",
+      {"key": "156931347"}
+    ],
+    [
+      "156931349",
+      {"key": "156931349"}
+    ],
+    [
+      "156931351",
+      {"key": "156931351"}
+    ],
+    [
+      "156931353",
+      {"key": "156931353"}
+    ],
+    [
+      "156931355",
+      {"key": "156931355"}
+    ],
+    [
+      "156931357",
+      {"key": "156931357"}
+    ],
+    [
+      "156931360",
+      {"key": "156931360"}
+    ],
+    [
+      "156931362",
+      {"key": "156931362"}
+    ],
+    [
+      "156931364",
+      {"key": "156931364"}
+    ],
+    [
+      "156931365",
+      {"key": "156931365"}
+    ],
+    [
+      "156931368",
+      {"key": "156931368"}
+    ],
+    [
+      "156931370",
+      {"key": "156931370"}
+    ],
+    [
+      "156931373",
+      {"key": "156931373"}
+    ],
+    [
+      "156931376",
+      {"key": "156931376"}
+    ],
+    [
+      "156931378",
+      {"key": "156931378"}
+    ],
+    [
+      "156931380",
+      {"key": "156931380"}
+    ],
+    [
+      "156931382",
+      {"key": "156931382"}
+    ],
+    [
+      "156931384",
+      {"key": "156931384"}
+    ],
+    [
+      "156931385",
+      {"key": "156931385"}
+    ],
+    [
+      "156931387",
+      {"key": "156931387"}
+    ],
+    [
+      "156931390",
+      {"key": "156931390"}
+    ],
+    [
+      "156931392",
+      {"key": "156931392"}
+    ],
+    [
+      "156931394",
+      {"key": "156931394"}
+    ],
+    [
+      "156931397",
+      {"key": "156931397"}
+    ],
+    [
+      "156931399",
+      {"key": "156931399"}
+    ],
+    [
+      "156931402",
+      {"key": "156931402"}
+    ],
+    [
+      "156931405",
+      {"key": "156931405"}
+    ],
+    [
+      "156931408",
+      {"key": "156931408"}
+    ],
+    [
+      "156931411",
+      {"key": "156931411"}
+    ],
+    [
+      "156931414",
+      {"key": "156931414"}
+    ],
+    [
+      "156931417",
+      {"key": "156931417"}
+    ],
+    [
+      "156931421",
+      {"key": "156931421"}
+    ],
+    [
+      "156931423",
+      {"key": "156931423"}
+    ],
+    [
+      "156931427",
+      {"key": "156931427"}
+    ],
+    [
+      "156931430",
+      {"key": "156931430"}
+    ],
+    [
+      "156931433",
+      {"key": "156931433"}
+    ],
+    [
+      "156931436",
+      {"key": "156931436"}
+    ],
+    [
+      "156931439",
+      {"key": "156931439"}
+    ],
+    [
+      "156931443",
+      {"key": "156931443"}
+    ],
+    [
+      "156931448",
+      {"key": "156931448"}
+    ],
+    [
+      "156931451",
+      {"key": "156931451"}
+    ],
+    [
+      "156931456",
+      {"key": "156931456"}
+    ],
+    [
+      "156931460",
+      {"key": "156931460"}
+    ],
+    [
+      "156931464",
+      {"key": "156931464"}
+    ],
+    [
+      "156931468",
+      {"key": "156931468"}
+    ],
+    [
+      "156931471",
+      {"key": "156931471"}
+    ],
+    [
+      "156931475",
+      {"key": "156931475"}
+    ],
+    [
+      "156931482",
+      {"key": "156931482"}
+    ],
+    [
+      "156931485",
+      {"key": "156931485"}
+    ],
+    [
+      "156931489",
+      {"key": "156931489"}
+    ],
+    [
+      "156931493",
+      {"key": "156931493"}
+    ],
+    [
+      "156931498",
+      {"key": "156931498"}
+    ],
+    [
+      "156931502",
+      {"key": "156931502"}
+    ],
+    [
+      "156931507",
+      {"key": "156931507"}
+    ],
+    [
+      "156931511",
+      {"key": "156931511"}
+    ],
+    [
+      "156931517",
+      {"key": "156931517"}
+    ],
+    [
+      "156931522",
+      {"key": "156931522"}
+    ],
+    [
+      "156931527",
+      {"key": "156931527"}
+    ],
+    [
+      "156931531",
+      {"key": "156931531"}
+    ],
+    [
+      "156931536",
+      {"key": "156931536"}
+    ],
+    [
+      "156931541",
+      {"key": "156931541"}
+    ],
+    [
+      "156931546",
+      {"key": "156931546"}
+    ],
+    [
+      "156931551",
+      {"key": "156931551"}
+    ],
+    [
+      "156931557",
+      {"key": "156931557"}
+    ],
+    [
+      "156931563",
+      {"key": "156931563"}
+    ],
+    [
+      "156931569",
+      {"key": "156931569"}
+    ],
+    [
+      "156931575",
+      {"key": "156931575"}
+    ],
+    [
+      "156931581",
+      {"key": "156931581"}
+    ],
+    [
+      "156931587",
+      {"key": "156931587"}
+    ],
+    [
+      "156931592",
+      {"key": "156931592"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/11bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Bednar expresses his gratitude for Church members who serve throughout the world and are the strength of the Church.",
+          "title": "In the Path of Their Duty"
+        },
+        "pageSocial": {
+          "description": "Elder Bednar expresses his gratitude for Church members who serve throughout the world and are the strength of the Church.",
+          "title": "In the Path of Their Duty"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/5c/72/5c722dfae8f0d8c13ac7b6b55998f86e5a77f9ff/5c722dfae8f0d8c13ac7b6b55998f86e5a77f9ff.jpeg\" data-video-title=\"In the Path of Their Duty\" data-video-description=\"Elder Bednar expresses his gratitude for Church members who serve throughout the world and are the strength of the Church.\" data-video-id=\"6338153879112\" data-ip=\"Download and Streaming                            \" data-duration=\"869136\" data-assetId=\"5bfeb5d35fb611ee899deeeeac1e3d2223bae2cc\" data-ref-id=\"8D8B8702D6339ED519ECDDCB494BE265A92259DF\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338153879112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"289759762\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1010-david-a-bednar-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"80350780\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1010-david-a-bednar-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"209312760\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1010-david-a-bednar-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"289759762\"/><\/video><h1 data-aid=\"156931347\" id=\"title1\">In the Path of Their Duty<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156931349\" id=\"author1\">By Elder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"156931351\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156931353\" id=\"kicker1\">You who today are pressing forward in the path of your duty are the strength of the Savior\u2019s restored Church.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156931355\" id=\"p1\">I earnestly pray for the help of the Holy Ghost as I now express my love, admiration, and gratitude for the members of The Church of Jesus Christ of Latter-day Saints all around the world.<\/p>\n<section>\n<header>\n<h2 data-aid=\"156931357\" id=\"title2\">They of the Last Wagon<\/h2>\n<\/header>\n<p data-aid=\"156931360\" id=\"p2\">The year 1947 marked the 100th anniversary of the first Latter-day Saint pioneers arriving in the Salt Lake Valley. Many memorable celebrations were held during that year, and countless expressions of gratitude were offered for the devoted disciples of Jesus Christ who blazed trails, built homes, planted crops in the barren desert, and settled communities.<\/p>\n<p data-aid=\"156931362\" id=\"p3\">President J. Reuben Clark, First Counselor in the First Presidency, gave one of the most memorable and touching tributes to these faithful pioneers in the October 1947 general conference.<\/p>\n<p data-aid=\"156931364\" id=\"p4\">In his message, President Clark briefly acknowledged the well-known leaders who guided the westward migration, such as Brigham Young, Heber C. Kimball, Wilford Woodruff, Parley P. Pratt, and many others. However, his primary purpose was not to recount the accomplishments of these noteworthy individuals. Rather, he focused his remarks on the stalwart souls whose names are neither known nor officially recorded in Church history. The instructive title of his message is \u201cThey of the Last Wagon.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"156931365\" id=\"p5\">President Clark described in great detail the characteristics of and the challenges faced by the migrants who traveled in the last covered wagon in each of the long wagon trains that crossed the plains. He praised these anonymous and uncelebrated heroes who, day after day, week after week, and month after month, choked on the dust stirred up by all of the wagons rolling in front of them\u2014and who overcame the relentless obstacles they encountered along the way.<\/p>\n<p data-aid=\"156931368\" id=\"p6\">President Clark declared, \u201cThey of the last wagon pressed forward, worn and tired, footsore, sometimes almost disheartened, borne up by their faith that God loved them, that the restored gospel was true, and that the Lord led and directed the Brethren out in front.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"156931370\" id=\"p7\">He concluded his message with this stirring commendation: \u201cTo these humble souls, great in faith, great in work, great in righteous living, great in fashioning our priceless heritage, I humbly render my love, my respect, my reverent homage.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156931373\" id=\"title3\">No Less Serviceable<\/h2>\n<\/header>\n<p data-aid=\"156931376\" id=\"p8\">In 1990, President Howard W. Hunter, then President of the Quorum of the Twelve Apostles, delivered a message about the indispensable contributions of countless Church members who serve diligently and faithfully and who receive little or no public acknowledgment or acclaim.<\/p>\n<p data-aid=\"156931378\" id=\"p9\">President Hunter explained:<\/p>\n<p data-aid=\"156931380\" id=\"p35\">\u201cIt was said [about the young and valiant Captain Moroni]:<\/p>\n<p data-aid=\"156931382\" id=\"p10\">\u201c\u2018If all men had been, and were, and ever would be, like unto Moroni, behold, the very powers of hell would have been shaken forever; yea, the devil would never have power over the hearts of the children of men\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/48.17?lang=eng#p17\">Alma 48:17<\/a>).<\/p>\n<p data-aid=\"156931384\" id=\"p11\">\u201cWhat a compliment to a famous and powerful man. \u2026 Two verses later is a statement about Helaman and his brethren, who played a less conspicuous role than Moroni, that reads:<\/p>\n<p data-aid=\"156931385\" id=\"p12\">\u201c\u2018Now behold, Helaman and his brethren were no less serviceable unto the people than was Moroni\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/48.19?lang=eng#p19\">Alma 48:19<\/a>).\u201d<\/p>\n<p data-aid=\"156931387\" id=\"p13\">President Hunter continued, \u201cIn other words, even though Helaman was not as noticeable or conspicuous as Moroni, he was as serviceable; that is, he was as helpful or useful as Moroni.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"156931390\" id=\"p14\">President Hunter then counseled all of us to be no less serviceable. He said: \u201cIf you feel that much of what you do this year or in the years to come does not make you very famous, take heart. Most of the best people who ever lived weren\u2019t very famous either. Serve and grow, faithfully and quietly.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156931392\" id=\"title4\">In the Path of Their Duty<\/h2>\n<\/header>\n<p data-aid=\"156931394\" id=\"p15\">I am grateful for millions of Church members who today are coming unto the Savior<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> and pressing forward on the covenant path in the last wagons of our contemporary wagon trains\u2014and who truly are no less serviceable. Your strong faith in Heavenly Father and the Lord Jesus Christ and your unpretentious, consecrated lives inspire me to be a better man and disciple.<\/p>\n<p data-aid=\"156931397\" id=\"p16\">I love you. I admire you. I thank you. And I commend you.<\/p>\n<p data-aid=\"156931399\" id=\"p17\">A statement in the Book of Mormon by Samuel the Lamanite best summarizes my feelings for you.<\/p>\n<p data-aid=\"156931402\" id=\"p18\">\u201cBehold that the more part of them are <em>in the path of their duty<\/em>, and they do walk circumspectly before God, and they do observe to keep his commandments and his statutes. \u2026<\/p>\n<p data-aid=\"156931405\" id=\"p19\">\u201cYea, I say unto you, that the more part of them are doing this, and they are striving with unwearied diligence that they may bring the remainder of their brethren to the knowledge of the truth.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"156931408\" id=\"p20\">I believe the phrase \u201cin the path of their duty\u201d describes discerning brothers and sisters who look for and sit next to people who are alone in Church meetings and in a variety of other settings. They consistently strive to \u201ccomfort those that stand in need of comfort,\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> without expectations of acknowledgment or praise.<\/p>\n<p data-aid=\"156931411\" id=\"p21\">The phrase \u201cin the path of their duty\u201d describes spouses and children who support a companion, parent, or child who serves in a leadership position in the Lord\u2019s restored Church. Their steady, quiet, and typically unrecognized sustaining influence makes possible the blessing of many individuals and families in ways that will be fully known only in eternity.<\/p>\n<p data-aid=\"156931414\" id=\"p22\">The phrase \u201cin the path of their duty\u201d describes individuals who, having turned away from God, humbly are <em>re<\/em>-turning to Him once again,<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> repenting of their sins, and seeking the cleansing and healing power of the Savior\u2019s Atonement. Coming unto Christ<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> by returning to the covenant path from sinful detours into \u201cforbidden paths\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> is spiritually essential and righteously rigorous. As they press forward with faith and weary not in well-doing, they are laying the foundation of a great work in their individual lives,<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> \u201cto all generations and for eternity.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"156931417\" id=\"p23\">The phrase \u201cin the path of their duty\u201d describes righteous individuals who yearn to become yoked to the Savior through the authorized covenants and ordinances of His gospel\u2014but may be prohibited from doing so by factors beyond their control. I promise your personal anguish will be relieved and your obedience and faithfulness to patiently submit your will to God will be rewarded in \u201cthe own due time of the Lord.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> \u201cWeeping may endure for a night, but joy cometh in the morning.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"156931421\" id=\"p24\">The phrase \u201cin the path of their duty\u201d describes the inspired translators and interpreters around the world who serve the Lord by helping friends and members to \u201chear the fulness of the gospel in [their] own tongue, and in [their] own language.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Their voices, signed language, and translated documents convey eternal truths, yet few of us know their names or ever express appreciation. Through the gift of tongues with which they have been blessed, translators and interpreters serve diligently, selflessly, and, most often, anonymously to help people receive the spiritual gift of faith through reading and hearing the word of God.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"156931423\" id=\"p25\">The phrase \u201cin the path of their duty\u201d describes faithful married men and women who honor their covenant responsibility to multiply and replenish the earth and who are blessed with the strength and stamina to wrestle with their children in sacrament meetings. In an increasingly confused world beset with calamities and misplaced priorities, these courageous souls heed not the secular voices extolling self-centeredness; they reverence the sanctity and importance of life in Heavenly Father\u2019s plan of happiness for His children.<\/p>\n<p data-aid=\"156931427\" id=\"p26\">Many married couples also trust in God when the righteous desires of their hearts are not realized how or when they had hoped and dreamed. They \u201cwait upon the Lord\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> and do not demand that He meet their mortal deadlines. \u201cFor since the beginning of the world have not men heard nor perceived by the ear, neither hath any eye seen, O God, besides thee, how great things thou hast prepared for [them] that waiteth for thee.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"156931430\" id=\"p27\">The phrase \u201cin the path of their duty\u201d describes the thousands and thousands of nursery leaders and Primary teachers who love and instruct the children of the Church each Sabbath day.<\/p>\n<p data-aid=\"156931433\" id=\"p28\">Consider the eternal impact of the service rendered by these devoted disciples\u2014and the marvelous blessings promised to those who minister to children.<\/p>\n<p data-aid=\"156931436\" id=\"p36\">\u201cAnd [Jesus] took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,<\/p>\n<p data-aid=\"156931439\" id=\"p29\">\u201cWhosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"156931443\" id=\"p30\">The phrase \u201cin the path of their duty\u201d describes dedicated children tenderly caring for aged parents, a sleep-deprived mother comforting a frightened child while standing guard as a \u201clioness at the gate\u201d of her home,<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> Church members who arrive early and stay late to set up and take down chairs, and inspired individuals who invite family, friends, and associates to come and see, come and help, and come and stay.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"156931448\" id=\"p31\">I have described only a few selected examples of covenant-keeping and devoted disciples of Jesus Christ like you who are pressing forward \u201cin the path of [your] duty.\u201d Millions of additional examples of Latter-day Saints who offer their \u201cwhole souls\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> unto God are found in Christ-centered homes and in Church units around the world.<\/p>\n<p data-aid=\"156931451\" id=\"p32\">You love and serve, listen and learn, care and console, and teach and testify by the power of the Holy Ghost. You fast and pray often, wax stronger and stronger in humility, and grow firmer and firmer in the faith of Christ, \u201cunto the filling [your] souls with joy and consolation, yea, even to the purifying and the sanctification of [your] hearts, which sanctification cometh because of \u2026 yielding [your] hearts unto God.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156931456\" id=\"title5\">Promise and Testimony<\/h2>\n<\/header>\n<p data-aid=\"156931460\" id=\"p33\">They of the last wagon, all who are no less serviceable, and you who today are pressing forward in the path of your duty are the strength of the Savior\u2019s restored Church. And as the Lord has promised, \u201call thrones and dominions, principalities and powers, shall be revealed and set forth upon all who have endured valiantly for the gospel of Jesus Christ.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"156931464\" id=\"p34\">I joyfully witness that Heavenly Father and His Beloved Son live and Their promises are sure, in the sacred name of the Lord Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156931468\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156931471\" id=\"note1_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d <cite>Improvement Era<\/cite>, Nov. 1947, 704\u20135, 747\u201348; see also J. Reuben Clark, in Conference Report, Oct. 1947, 154\u201360; \u201c<a class=\"cross-ref\" href=\"/study/ensign/1997/07/to-them-of-the-last-wagon?lang=eng\">To Them of the Last Wagon<\/a>,\u201d <cite>Ensign<\/cite>, July 1997, 34\u201339.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156931475\" id=\"note2_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d 705.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156931482\" id=\"note3_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d 748.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156931485\" id=\"note4_p1\">Howard W. Hunter, \u201cNo Less Serviceable\u201d (Brigham Young University devotional, Sept. 2, 1990), 1\u20132, speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156931489\" id=\"note5_p1\">Howard W. Hunter, \u201cNo Less Serviceable,\u201d 6.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156931493\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32-33?lang=eng#p32\">Moroni 10:32\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156931498\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15.5-6?lang=eng#p5\">Helaman 15:5\u20136<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156931502\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=eng#p9\">Mosiah 18:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156931507\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7.17?lang=eng#p17\">Helaman 7:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156931511\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.30,32?lang=eng#p30\">Moroni 10:30, 32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156931517\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.28?lang=eng#p28\">1 Nephi 8:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156931522\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.33?lang=eng#p33\">Doctrine and Covenants 64:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156931527\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.24?lang=eng#p24\">Doctrine and Covenants 109:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156931531\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.3?lang=eng#p3\">1 Nephi 10:3<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/5.25?lang=eng#p25\">3 Nephi 5:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.29?lang=eng#p29\">20:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156931536\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/30.5?lang=eng#p5\">Psalm 30:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156931541\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90.11?lang=eng#p11\">Doctrine and Covenants 90:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156931546\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/10.17?lang=eng#p17\">Romans 10:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156931551\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/40.31?lang=eng#p31\">Isaiah 40:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156931557\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.45?lang=eng#p45\">Doctrine and Covenants 133:45<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156931563\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.36-37?lang=eng#p36\">Mark 9:36\u201337<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156931569\" id=\"note21_p1\">Julie B. Beck, \u201cChoose Ye This Day to Serve the Lord\u201d (Brigham Young University Women\u2019s Conference, Apr. 29, 2010), 4, womensconference.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156931575\" id=\"note22_p1\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/14uchtdorf?lang=eng\">Missionary Work: Sharing What Is in Your Heart<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 15\u201318.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156931581\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.26?lang=eng#p26\">Omni 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156931587\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.35?lang=eng#p35\">Helaman 3:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156931592\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.29?lang=eng#p29\">Doctrine and Covenants 121:29<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156931387",
+        "id": "note4",
+        "text": "<p data-aid=\"156931485\" id=\"note4_p1\">Howard W. Hunter, \u201cNo Less Serviceable\u201d (Brigham Young University devotional, Sept. 2, 1990), 1\u20132, speeches.byu.edu.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156931390",
+        "id": "note5",
+        "text": "<p data-aid=\"156931489\" id=\"note5_p1\">Howard W. Hunter, \u201cNo Less Serviceable,\u201d 6.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156931368",
+        "id": "note2",
+        "text": "<p data-aid=\"156931475\" id=\"note2_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d 705.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156931370",
+        "id": "note3",
+        "text": "<p data-aid=\"156931482\" id=\"note3_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d 748.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156931408",
+        "id": "note8",
+        "text": "<p data-aid=\"156931502\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.9?lang=eng#p9\">Mosiah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.9?lang=eng#p9",
+          "text": "Mosiah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156931414",
+        "id": "note9",
+        "text": "<p data-aid=\"156931507\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7.17?lang=eng#p17\">Helaman 7:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/7.17?lang=eng#p17",
+          "text": "Helaman 7:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156931394",
+        "id": "note6",
+        "text": "<p data-aid=\"156931493\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32-33?lang=eng#p32\">Moroni 10:32\u201333<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10.32-33?lang=eng#p32",
+          "text": "Moroni 10:32\u201333",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156931405",
+        "id": "note7",
+        "text": "<p data-aid=\"156931498\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15.5-6?lang=eng#p5\">Helaman 15:5\u20136<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/15.5-6?lang=eng#p5",
+          "text": "Helaman 15:5\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156931421",
+        "id": "note16",
+        "text": "<p data-aid=\"156931541\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90.11?lang=eng#p11\">Doctrine and Covenants 90:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/90.11?lang=eng#p11",
+          "text": "Doctrine and Covenants 90:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156931417",
+        "id": "note15",
+        "text": "<p data-aid=\"156931536\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/30.5?lang=eng#p5\">Psalm 30:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ps/30.5?lang=eng#p5",
+          "text": "Psalm 30:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156931417",
+        "id": "note14",
+        "text": "<p data-aid=\"156931531\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.3?lang=eng#p3\">1 Nephi 10:3<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/5.25?lang=eng#p25\">3 Nephi 5:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20.29?lang=eng#p29\">20:29<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/10.3?lang=eng#p3",
+            "text": "1 Nephi 10:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/5.25?lang=eng#p25",
+            "text": "3 Nephi 5:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/20.29?lang=eng#p29",
+            "text": "20:29",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156931414",
+        "id": "note13",
+        "text": "<p data-aid=\"156931527\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.24?lang=eng#p24\">Doctrine and Covenants 109:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109.24?lang=eng#p24",
+          "text": "Doctrine and Covenants 109:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156931414",
+        "id": "note12",
+        "text": "<p data-aid=\"156931522\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64.33?lang=eng#p33\">Doctrine and Covenants 64:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/64.33?lang=eng#p33",
+          "text": "Doctrine and Covenants 64:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156931414",
+        "id": "note11",
+        "text": "<p data-aid=\"156931517\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.28?lang=eng#p28\">1 Nephi 8:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8.28?lang=eng#p28",
+          "text": "1 Nephi 8:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156931414",
+        "id": "note10",
+        "text": "<p data-aid=\"156931511\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.30,32?lang=eng#p30\">Moroni 10:30, 32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10.30,32?lang=eng#p30",
+          "text": "Moroni 10:30, 32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156931427",
+        "id": "note19",
+        "text": "<p data-aid=\"156931557\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/133.45?lang=eng#p45\">Doctrine and Covenants 133:45<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/133.45?lang=eng#p45",
+          "text": "Doctrine and Covenants 133:45",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156931427",
+        "id": "note18",
+        "text": "<p data-aid=\"156931551\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/40.31?lang=eng#p31\">Isaiah 40:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/40.31?lang=eng#p31",
+          "text": "Isaiah 40:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156931421",
+        "id": "note17",
+        "text": "<p data-aid=\"156931546\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/10.17?lang=eng#p17\">Romans 10:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/10.17?lang=eng#p17",
+          "text": "Romans 10:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156931460",
+        "id": "note25",
+        "text": "<p data-aid=\"156931592\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.29?lang=eng#p29\">Doctrine and Covenants 121:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121.29?lang=eng#p29",
+          "text": "Doctrine and Covenants 121:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156931451",
+        "id": "note24",
+        "text": "<p data-aid=\"156931587\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3.35?lang=eng#p35\">Helaman 3:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/3.35?lang=eng#p35",
+          "text": "Helaman 3:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156931448",
+        "id": "note23",
+        "text": "<p data-aid=\"156931581\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1.26?lang=eng#p26\">Omni 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/omni/1.26?lang=eng#p26",
+          "text": "Omni 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156931443",
+        "id": "note22",
+        "text": "<p data-aid=\"156931575\" id=\"note22_p1\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/14uchtdorf?lang=eng\">Missionary Work: Sharing What Is in Your Heart<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 15\u201318.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/14uchtdorf?lang=eng",
+          "text": "Missionary Work: Sharing What Is in Your Heart",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156931443",
+        "id": "note21",
+        "text": "<p data-aid=\"156931569\" id=\"note21_p1\">Julie B. Beck, \u201cChoose Ye This Day to Serve the Lord\u201d (Brigham Young University Women\u2019s Conference, Apr. 29, 2010), 4, womensconference.byu.edu.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156931439",
+        "id": "note20",
+        "text": "<p data-aid=\"156931563\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/9.36-37?lang=eng#p36\">Mark 9:36\u201337<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/9.36-37?lang=eng#p36",
+          "text": "Mark 9:36\u201337",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156931364",
+        "id": "note1",
+        "text": "<p data-aid=\"156931471\" id=\"note1_p1\">J. Reuben Clark, \u201cThey of the Last Wagon,\u201d <cite>Improvement Era<\/cite>, Nov. 1947, 704\u20135, 747\u201348; see also J. Reuben Clark, in Conference Report, Oct. 1947, 154\u201360; \u201c<a class=\"cross-ref\" href=\"/study/ensign/1997/07/to-them-of-the-last-wagon?lang=eng\">To Them of the Last Wagon<\/a>,\u201d <cite>Ensign<\/cite>, July 1997, 34\u201339.<\/p>",
+        "referenceUris": [{
+          "href": "/study/ensign/1997/07/to-them-of-the-last-wagon?lang=eng",
+          "text": "To Them of the Last Wagon",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

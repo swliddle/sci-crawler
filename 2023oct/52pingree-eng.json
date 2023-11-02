@@ -1,0 +1,1943 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/52pingree?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "16f5f7883e19438d8ecaa691d9b1c43b",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/52pingree",
+      "data-aid": "156931793",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "16f5f7883e19438d8ecaa691d9b1c43b"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/87/05/8705fd1967d223f9a01fefe27a5353ba245d16db/8705fd1967d223f9a01fefe27a5353ba245d16db.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-5020-john-c-pingree-jr-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Eternal Truth",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156931793",
+      {"key": "156931793"}
+    ],
+    [
+      "156931807",
+      {"key": "156931807"}
+    ],
+    [
+      "156931816",
+      {"key": "156931816"}
+    ],
+    [
+      "156932825",
+      {"key": "156932825"}
+    ],
+    [
+      "156932834",
+      {"key": "156932834"}
+    ],
+    [
+      "156932843",
+      {"key": "156932843"}
+    ],
+    [
+      "156932852",
+      {"key": "156932852"}
+    ],
+    [
+      "156932863",
+      {"key": "156932863"}
+    ],
+    [
+      "156932871",
+      {"key": "156932871"}
+    ],
+    [
+      "156932880",
+      {"key": "156932880"}
+    ],
+    [
+      "156932889",
+      {"key": "156932889"}
+    ],
+    [
+      "156932897",
+      {"key": "156932897"}
+    ],
+    [
+      "156932904",
+      {"key": "156932904"}
+    ],
+    [
+      "156932911",
+      {"key": "156932911"}
+    ],
+    [
+      "156932918",
+      {"key": "156932918"}
+    ],
+    [
+      "156932926",
+      {"key": "156932926"}
+    ],
+    [
+      "156932936",
+      {"key": "156932936"}
+    ],
+    [
+      "156932946",
+      {"key": "156932946"}
+    ],
+    [
+      "156932957",
+      {"key": "156932957"}
+    ],
+    [
+      "156932963",
+      {"key": "156932963"}
+    ],
+    [
+      "156932974",
+      {"key": "156932974"}
+    ],
+    [
+      "156932983",
+      {"key": "156932983"}
+    ],
+    [
+      "156932992",
+      {"key": "156932992"}
+    ],
+    [
+      "156933001",
+      {"key": "156933001"}
+    ],
+    [
+      "156933010",
+      {"key": "156933010"}
+    ],
+    [
+      "156933020",
+      {"key": "156933020"}
+    ],
+    [
+      "156933029",
+      {"key": "156933029"}
+    ],
+    [
+      "156933037",
+      {"key": "156933037"}
+    ],
+    [
+      "156933045",
+      {"key": "156933045"}
+    ],
+    [
+      "156933053",
+      {"key": "156933053"}
+    ],
+    [
+      "156933061",
+      {"key": "156933061"}
+    ],
+    [
+      "156933070",
+      {"key": "156933070"}
+    ],
+    [
+      "156933077",
+      {"key": "156933077"}
+    ],
+    [
+      "156933084",
+      {"key": "156933084"}
+    ],
+    [
+      "156933091",
+      {"key": "156933091"}
+    ],
+    [
+      "156933098",
+      {"key": "156933098"}
+    ],
+    [
+      "156933105",
+      {"key": "156933105"}
+    ],
+    [
+      "156933112",
+      {"key": "156933112"}
+    ],
+    [
+      "156933119",
+      {"key": "156933119"}
+    ],
+    [
+      "156933126",
+      {"key": "156933126"}
+    ],
+    [
+      "156933132",
+      {"key": "156933132"}
+    ],
+    [
+      "156933138",
+      {"key": "156933138"}
+    ],
+    [
+      "156933143",
+      {"key": "156933143"}
+    ],
+    [
+      "156933149",
+      {"key": "156933149"}
+    ],
+    [
+      "156933155",
+      {"key": "156933155"}
+    ],
+    [
+      "156933162",
+      {"key": "156933162"}
+    ],
+    [
+      "156933168",
+      {"key": "156933168"}
+    ],
+    [
+      "156933173",
+      {"key": "156933173"}
+    ],
+    [
+      "156933178",
+      {"key": "156933178"}
+    ],
+    [
+      "156933181",
+      {"key": "156933181"}
+    ],
+    [
+      "156933186",
+      {"key": "156933186"}
+    ],
+    [
+      "156933191",
+      {"key": "156933191"}
+    ],
+    [
+      "156933196",
+      {"key": "156933196"}
+    ],
+    [
+      "156933201",
+      {"key": "156933201"}
+    ],
+    [
+      "156933206",
+      {"key": "156933206"}
+    ],
+    [
+      "156933211",
+      {"key": "156933211"}
+    ],
+    [
+      "156933216",
+      {"key": "156933216"}
+    ],
+    [
+      "156933221",
+      {"key": "156933221"}
+    ],
+    [
+      "156933226",
+      {"key": "156933226"}
+    ],
+    [
+      "156933231",
+      {"key": "156933231"}
+    ],
+    [
+      "156933236",
+      {"key": "156933236"}
+    ],
+    [
+      "156933241",
+      {"key": "156933241"}
+    ],
+    [
+      "156933246",
+      {"key": "156933246"}
+    ],
+    [
+      "156933251",
+      {"key": "156933251"}
+    ],
+    [
+      "156933256",
+      {"key": "156933256"}
+    ],
+    [
+      "156933261",
+      {"key": "156933261"}
+    ],
+    [
+      "156933265",
+      {"key": "156933265"}
+    ],
+    [
+      "156933269",
+      {"key": "156933269"}
+    ],
+    [
+      "156933273",
+      {"key": "156933273"}
+    ],
+    [
+      "156933277",
+      {"key": "156933277"}
+    ],
+    [
+      "156933278",
+      {"key": "156933278"}
+    ],
+    [
+      "156933279",
+      {"key": "156933279"}
+    ],
+    [
+      "156933280",
+      {"key": "156933280"}
+    ],
+    [
+      "156933281",
+      {"key": "156933281"}
+    ],
+    [
+      "156933282",
+      {"key": "156933282"}
+    ],
+    [
+      "156933283",
+      {"key": "156933283"}
+    ],
+    [
+      "156933284",
+      {"key": "156933284"}
+    ],
+    [
+      "156933285",
+      {"key": "156933285"}
+    ],
+    [
+      "156933286",
+      {"key": "156933286"}
+    ],
+    [
+      "156933287",
+      {"key": "156933287"}
+    ],
+    [
+      "156933288",
+      {"key": "156933288"}
+    ],
+    [
+      "156933289",
+      {"key": "156933289"}
+    ],
+    [
+      "156933290",
+      {"key": "156933290"}
+    ],
+    [
+      "156933291",
+      {"key": "156933291"}
+    ],
+    [
+      "156933292",
+      {"key": "156933292"}
+    ],
+    [
+      "156933293",
+      {"key": "156933293"}
+    ],
+    [
+      "156933294",
+      {"key": "156933294"}
+    ],
+    [
+      "156933295",
+      {"key": "156933295"}
+    ],
+    [
+      "156933296",
+      {"key": "156933296"}
+    ],
+    [
+      "156933297",
+      {"key": "156933297"}
+    ],
+    [
+      "156933298",
+      {"key": "156933298"}
+    ],
+    [
+      "156933299",
+      {"key": "156933299"}
+    ],
+    [
+      "156933300",
+      {"key": "156933300"}
+    ],
+    [
+      "156933301",
+      {"key": "156933301"}
+    ],
+    [
+      "156933302",
+      {"key": "156933302"}
+    ],
+    [
+      "156933303",
+      {"key": "156933303"}
+    ],
+    [
+      "156933304",
+      {"key": "156933304"}
+    ],
+    [
+      "156933305",
+      {"key": "156933305"}
+    ],
+    [
+      "156933306",
+      {"key": "156933306"}
+    ],
+    [
+      "156933307",
+      {"key": "156933307"}
+    ],
+    [
+      "156933308",
+      {"key": "156933308"}
+    ],
+    [
+      "156933309",
+      {"key": "156933309"}
+    ],
+    [
+      "156933310",
+      {"key": "156933310"}
+    ],
+    [
+      "156933311",
+      {"key": "156933311"}
+    ],
+    [
+      "156933312",
+      {"key": "156933312"}
+    ],
+    [
+      "156933313",
+      {"key": "156933313"}
+    ],
+    [
+      "156933314",
+      {"key": "156933314"}
+    ],
+    [
+      "156933315",
+      {"key": "156933315"}
+    ],
+    [
+      "156933316",
+      {"key": "156933316"}
+    ],
+    [
+      "156933317",
+      {"key": "156933317"}
+    ],
+    [
+      "156933318",
+      {"key": "156933318"}
+    ],
+    [
+      "156933319",
+      {"key": "156933319"}
+    ],
+    [
+      "156933320",
+      {"key": "156933320"}
+    ],
+    [
+      "156933321",
+      {"key": "156933321"}
+    ],
+    [
+      "156933322",
+      {"key": "156933322"}
+    ],
+    [
+      "156933323",
+      {"key": "156933323"}
+    ],
+    [
+      "156933324",
+      {"key": "156933324"}
+    ],
+    [
+      "156933325",
+      {"key": "156933325"}
+    ],
+    [
+      "156933326",
+      {"key": "156933326"}
+    ],
+    [
+      "156933327",
+      {"key": "156933327"}
+    ],
+    [
+      "156933328",
+      {"key": "156933328"}
+    ],
+    [
+      "156933329",
+      {"key": "156933329"}
+    ],
+    [
+      "156933330",
+      {"key": "156933330"}
+    ],
+    [
+      "156933331",
+      {"key": "156933331"}
+    ],
+    [
+      "156933332",
+      {"key": "156933332"}
+    ],
+    [
+      "156933333",
+      {"key": "156933333"}
+    ],
+    [
+      "156933334",
+      {"key": "156933334"}
+    ],
+    [
+      "156933335",
+      {"key": "156933335"}
+    ],
+    [
+      "156933336",
+      {"key": "156933336"}
+    ],
+    [
+      "156933337",
+      {"key": "156933337"}
+    ],
+    [
+      "156933338",
+      {"key": "156933338"}
+    ],
+    [
+      "156933339",
+      {"key": "156933339"}
+    ],
+    [
+      "156933340",
+      {"key": "156933340"}
+    ],
+    [
+      "156933341",
+      {"key": "156933341"}
+    ],
+    [
+      "156933342",
+      {"key": "156933342"}
+    ],
+    [
+      "156933343",
+      {"key": "156933343"}
+    ],
+    [
+      "156933344",
+      {"key": "156933344"}
+    ],
+    [
+      "156933345",
+      {"key": "156933345"}
+    ],
+    [
+      "156933346",
+      {"key": "156933346"}
+    ],
+    [
+      "156933347",
+      {"key": "156933347"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/52pingree",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Pingree explains what truth is, why it is important, how we can find it, and how we should share it with others.",
+          "title": "Eternal Truth"
+        },
+        "pageSocial": {
+          "description": "Elder Pingree explains what truth is, why it is important, how we can find it, and how we should share it with others.",
+          "title": "Eternal Truth"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/87/05/8705fd1967d223f9a01fefe27a5353ba245d16db/8705fd1967d223f9a01fefe27a5353ba245d16db.jpeg\" data-video-title=\"Eternal Truth\" data-video-description=\"Elder Pingree explains what truth is, why it is important, how we can find it, and how we should share it with others. \" data-video-id=\"6338207276112\" data-ip=\"Download and Streaming                            \" data-duration=\"640241\" data-assetId=\"491e40d6609f11ee87c3eeeeac1e2efb1e475245\" data-ref-id=\"7CE8989BFCA00203B6C54206075C3512DA2B6873\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338207276112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"214404055\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-5020-john-c-pingree-jr-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"59461768\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-5020-john-c-pingree-jr-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"154330019\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-5020-john-c-pingree-jr-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"214404055\"/><\/video><h1 data-aid=\"156931807\" id=\"title1\">Eternal Truth<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156931816\" id=\"author1\">By Elder John C. Pingree Jr.<\/p>\n<p class=\"author-role\" data-aid=\"156932825\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156932834\" id=\"kicker1\">Our need to recognize truth has never been more important!<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156932843\" id=\"p1\">Brothers and sisters, thank you for your devotion to God the Father and to His Son, Jesus Christ, and thank you for your love and service to each other. You truly are remarkable!<\/p>\n<section>\n<header>\n<h2 data-aid=\"156932852\" id=\"title2\">Introduction<\/h2>\n<\/header>\n<p data-aid=\"156932863\" id=\"p3\">After my wife, Anne, and I received a call to serve as full-time mission leaders, our family determined to learn each missionary\u2019s name before arriving in the field. We obtained photos, created flash cards, and began studying faces and memorizing names.<\/p>\n<p data-aid=\"156932871\" id=\"p51\">Once we arrived, we held introductory conferences with the missionaries. As we mingled, I overheard our nine-year-old son:<\/p>\n<p data-aid=\"156932880\" id=\"p52\">\u201cNice to meet you, Sam!\u201d<\/p>\n<p data-aid=\"156932889\" id=\"p53\">\u201cRachel, where are you from?\u201d<\/p>\n<p data-aid=\"156932897\" id=\"p54\">\u201cWow, David, you\u2019re tall!\u201d<\/p>\n<p data-aid=\"156932904\" id=\"p55\">Alarmed, I went to our son and whispered, \u201cHey, let\u2019s remember to refer to the missionaries as Elder or Sister.\u201d<\/p>\n<p data-aid=\"156932911\" id=\"p56\">He gave me a puzzled look and said, \u201cDad, I thought we were supposed to memorize their <em>names<\/em>.\u201d Our son did what he thought was right based on his understanding.<\/p>\n<p data-aid=\"156932918\" id=\"p57\">So, what is our understanding of truth in today\u2019s world? We are constantly bombarded with strong opinions, biased reporting, and incomplete data. At the same time, the volume and sources of this information are proliferating. Our need to recognize truth has never been more important!<\/p>\n<p data-aid=\"156932926\" id=\"p4\">Truth is critical for us to establish and strengthen our relationship with God, find peace and joy, and reach our divine potential. Today, let us consider the following questions:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"156932936\" id=\"p5\">What is truth, and why is it important?<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932946\" id=\"p6\">How do we find truth?<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932957\" id=\"p7\">When we find truth, how can we share it?<\/p>\n<\/li>\n<\/ul>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156932963\" id=\"title3\">Truth Is Eternal<\/h2>\n<\/header>\n<p data-aid=\"156932974\" id=\"p8\">The Lord has taught us in scripture that \u201ctruth is knowledge of things as they are, and as they were, and as they are to come\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.24?lang=eng#p24\">Doctrine and Covenants 93:24<\/a>). It \u201cwas not created or made\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.29?lang=eng#p29\">Doctrine and Covenants 93:29<\/a>) and has \u201cno end\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.66?lang=eng#p66\">Doctrine and Covenants 88:66<\/a>).<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> Truth is absolute, fixed, and immutable. In other words, truth is eternal.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"156932983\" id=\"p9\">Truth helps us avoid deception,<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> discern good from evil,<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> receive protection,<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> and find comfort and healing.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> Truth can also guide our actions,<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> make us free,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> sanctify us,<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> and lead us to eternal life.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156932992\" id=\"title4\">God Reveals Eternal Truth<\/h2>\n<\/header>\n<p data-aid=\"156933001\" id=\"p10\">God reveals eternal truth to us through a <em>network of revelatory relationships<\/em> involving Himself, Jesus Christ, the Holy Ghost, prophets, and us. Let us discuss the distinct yet interconnected roles each participant plays in this process.<\/p>\n<p data-aid=\"156933010\" id=\"p11\">First, God is <em>the<\/em> source of eternal truth.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> He and His Son, Jesus Christ,<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> have a perfect understanding of truth and always act in harmony with true principles and laws.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> This power allows Them to create and govern worlds<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> as well as to love, guide, and nurture each one of us perfectly.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> They want <em>us<\/em> to understand and apply truth so <em>we<\/em> can enjoy the blessings They do.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> They may impart truth in person or, more typically, through messengers such as the Holy Ghost, angels, or living prophets.<\/p>\n<p data-aid=\"156933020\" id=\"p12\">Second, the Holy Ghost testifies of all truth.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> He reveals truths to us directly and witnesses of truth taught by others. Impressions from the Spirit typically come as thoughts to our minds and feelings to our hearts.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"156933029\" id=\"p14\">Third, prophets receive truth from God and share that truth with us.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> We learn the truth from past prophets in the scriptures<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> and from living prophets at general conference and through other official channels.<\/p>\n<p data-aid=\"156933037\" id=\"p15\">Finally, you and I play a crucial role in this process. God expects us to seek, recognize, and act on truth. Our ability to receive and apply truth is dependent on the strength of our relationship with the Father and the Son, our responsiveness to the influence of the Holy Ghost, and our alignment with latter-day prophets.<\/p>\n<p data-aid=\"156933045\" id=\"p58\">We need to remember that Satan works to keep us from truth. He knows that without truth, we cannot gain eternal life. He weaves strands of truth with worldly philosophies to confuse us and distract us from what is communicated by God.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933053\" id=\"title5\">Seeking, Recognizing, and Applying Eternal Truth<\/h2>\n<\/header>\n<p data-aid=\"156933061\" id=\"p16\">As we seek eternal truth,<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> the following two questions can help us recognize whether a concept comes from God or from another source:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"156933070\" id=\"p17\">Is the concept taught consistently in the scriptures and by living prophets?<\/p>\n<\/li>\n<li>\n<p data-aid=\"156933077\" id=\"p18\">Is the concept confirmed by the witness of the Holy Ghost?<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"156933084\" id=\"p19\">God reveals doctrinal truths through prophets, and the Holy Ghost confirms those truths to us and helps us apply them.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> We must seek and be prepared to receive these spiritual impressions when they come.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> We are most receptive to the witness of the Spirit when we are humble,<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> pray sincerely and study God\u2019s words,<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> and keep His commandments.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"156933091\" id=\"p21\">Once the Holy Ghost confirms a specific truth to us, our understanding deepens as we put that principle into practice. Over time, as we consistently live the principle, we gain a sure knowledge of that truth.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"156933098\" id=\"p22\">For example, I have made mistakes and felt remorse for poor choices. But through prayer, study, and faith in Jesus Christ, I received a witness of the principle of repentance.<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> As I continued to repent, my understanding of repentance grew stronger. I felt closer to God and His Son. I now <em>know<\/em> that sin can be forgiven through Jesus Christ, because I experience the blessings of repentance each day.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933105\" id=\"title6\">Trusting God When Truth Is Not Yet Revealed<\/h2>\n<\/header>\n<p data-aid=\"156933112\" id=\"p23\">So, what should we do when we sincerely seek for truth not yet revealed? I have empathy for those of us who yearn for answers that do not seem to come.<\/p>\n<p data-aid=\"156933119\" id=\"p24\">To Joseph Smith, the Lord counseled, \u201cHold your peace until I shall see fit to make all things known \u2026 concerning the matter\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10.37?lang=eng#p37\">Doctrine and Covenants 10:37<\/a>).<\/p>\n<p data-aid=\"156933126\" id=\"p25\">And to Emma Smith, He explained, \u201cMurmur not because of the things which thou hast not seen, for they are withheld from thee and from the world, which is wisdom in me in a time to come\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/25.4?lang=eng#p4\">Doctrine and Covenants 25:4<\/a>).<\/p>\n<p data-aid=\"156933132\" id=\"p26\">I too have sought answers to heartfelt questions. Many answers have come; some have not.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> As we hold on\u2014trusting God\u2019s wisdom and love, keeping His commandments, and relying on what we <em>do<\/em> know\u2014He helps us find peace until He reveals the truth of all things.<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933138\" id=\"title7\">Understanding Doctrine and Policy<\/h2>\n<\/header>\n<p data-aid=\"156933143\" id=\"p28\">When seeking truth, it helps to understand the difference between doctrine and policy. Doctrine refers to eternal truths, such as the nature of the Godhead, the plan of salvation, and Jesus Christ\u2019s atoning sacrifice. Policy is the application of doctrine based on current circumstances. Policy helps us administer the Church in an orderly way.<\/p>\n<p data-aid=\"156933149\" id=\"p29\">While doctrine never changes, policy adjusts from time to time. The Lord works through His prophets to uphold His doctrine <em>and<\/em> to modify Church policies according to the needs of His children.<\/p>\n<p data-aid=\"156933155\" id=\"p30\">Unfortunately, we sometimes confuse policy with doctrine. If we do not understand the difference, we risk becoming disillusioned when policies change and may even begin to question God\u2019s wisdom or the revelatory role of prophets.<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933162\" id=\"title8\">Teaching Eternal Truth<\/h2>\n<\/header>\n<p data-aid=\"156933168\" id=\"p31\">When we obtain truth from God, He encourages us to share that knowledge with others.<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a> We do this when we teach a class, guide a child, or discuss gospel truths with a friend.<\/p>\n<p data-aid=\"156933173\" id=\"p32\"><em>Our aim is to teach truth in a way that invites the converting power of the Holy Ghost<\/em>.<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a> Let me share some simple invitations from the Lord and His prophets that can help.<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a><\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"156933178\" id=\"p33\">Center on Heavenly Father, Jesus Christ, and Their fundamental doctrine.<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"156933181\" id=\"p34\">Stay grounded in the scriptures and the teachings of latter-day prophets.<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\">38<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"156933186\" id=\"p35\">Rely on doctrine established through multiple authoritative witnesses.<a class=\"note-ref\" href=\"#note39\"><sup class=\"marker\">39<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"4.\">\n<p data-aid=\"156933191\" id=\"p36\">Avoid speculation, personal opinions, or worldly ideas.<a class=\"note-ref\" href=\"#note40\"><sup class=\"marker\">40<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"5.\">\n<p data-aid=\"156933196\" id=\"p37\">Teach a point of doctrine within the context of related gospel truths.<a class=\"note-ref\" href=\"#note41\"><sup class=\"marker\">41<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"6.\">\n<p data-aid=\"156933201\" id=\"p38\">Use teaching methods that invite the influence of the Spirit.<a class=\"note-ref\" href=\"#note42\"><sup class=\"marker\">42<\/sup><\/a><\/p>\n<\/li>\n<li data-marker=\"7.\">\n<p data-aid=\"156933206\" id=\"p39\">Communicate clearly to avoid misunderstanding.<a class=\"note-ref\" href=\"#note43\"><sup class=\"marker\">43<\/sup><\/a><\/p>\n<\/li>\n<\/ol>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933211\" id=\"title9\">Speaking Truth in Love<\/h2>\n<\/header>\n<p data-aid=\"156933216\" id=\"p42\">How we teach truth really matters. Paul encouraged us to speak \u201cthe truth in love\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.14-15?lang=eng#p14\">Ephesians 4:14\u201315<\/a>). Truth has the best chance of blessing another when conveyed with Christlike love.<a class=\"note-ref\" href=\"#note44\"><sup class=\"marker\">44<\/sup><\/a><\/p>\n<p data-aid=\"156933221\" id=\"p43\">Truth taught without love can cause feelings of judgment, discouragement, and loneliness. It often leads to resentment and division\u2014even conflict. On the other hand, love without truth is hollow and lacks the promise of growth.<\/p>\n<p data-aid=\"156933226\" id=\"p44\">Both truth and love are essential for our spiritual development.<a class=\"note-ref\" href=\"#note45\"><sup class=\"marker\">45<\/sup><\/a> Truth provides the doctrine, principles, and laws necessary to gain eternal life, while love engenders the motivation needed to embrace and act upon what is true.<\/p>\n<p data-aid=\"156933231\" id=\"p45\">I am forever grateful for others who patiently taught me eternal truth with love.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156933236\" id=\"title10\">Conclusion<\/h2>\n<\/header>\n<p data-aid=\"156933241\" id=\"p46\">In conclusion, let me share <em>eternal truths<\/em> that have become an anchor to my soul. I have come to know these truths by following the principles discussed today.<\/p>\n<p data-aid=\"156933246\" id=\"p47\">I know that God is our Heavenly Father.<a class=\"note-ref\" href=\"#note46\"><sup class=\"marker\">46<\/sup><\/a> He is all knowing,<a class=\"note-ref\" href=\"#note47\"><sup class=\"marker\">47<\/sup><\/a> all powerful,<a class=\"note-ref\" href=\"#note48\"><sup class=\"marker\">48<\/sup><\/a> and perfectly loving.<a class=\"note-ref\" href=\"#note49\"><sup class=\"marker\">49<\/sup><\/a> He created a plan for us to gain eternal life and become like Him.<a class=\"note-ref\" href=\"#note50\"><sup class=\"marker\">50<\/sup><\/a><\/p>\n<p data-aid=\"156933251\" id=\"p60\">As part of that plan, He sent His Son, Jesus Christ, to help us.<a class=\"note-ref\" href=\"#note51\"><sup class=\"marker\">51<\/sup><\/a> Jesus taught us to do the Father\u2019s will<a class=\"note-ref\" href=\"#note52\"><sup class=\"marker\">52<\/sup><\/a> and to love one another.<a class=\"note-ref\" href=\"#note53\"><sup class=\"marker\">53<\/sup><\/a> He atoned for our sins<a class=\"note-ref\" href=\"#note54\"><sup class=\"marker\">54<\/sup><\/a> and gave up His life on the cross.<a class=\"note-ref\" href=\"#note55\"><sup class=\"marker\">55<\/sup><\/a> He arose from the dead after three days.<a class=\"note-ref\" href=\"#note56\"><sup class=\"marker\">56<\/sup><\/a> Through Christ and His grace, we will be resurrected,<a class=\"note-ref\" href=\"#note57\"><sup class=\"marker\">57<\/sup><\/a> we can be forgiven,<a class=\"note-ref\" href=\"#note58\"><sup class=\"marker\">58<\/sup><\/a> and we can find strength in affliction.<a class=\"note-ref\" href=\"#note59\"><sup class=\"marker\">59<\/sup><\/a><\/p>\n<p data-aid=\"156933256\" id=\"p49\">During His earthly ministry, Jesus established His Church.<a class=\"note-ref\" href=\"#note60\"><sup class=\"marker\">60<\/sup><\/a> Over time, that Church was changed, and truths were lost.<a class=\"note-ref\" href=\"#note61\"><sup class=\"marker\">61<\/sup><\/a> Jesus Christ restored His Church and the truths of the gospel through the Prophet Joseph Smith.<a class=\"note-ref\" href=\"#note62\"><sup class=\"marker\">62<\/sup><\/a> And today, Christ continues to lead His Church through living prophets and apostles.<a class=\"note-ref\" href=\"#note63\"><sup class=\"marker\">63<\/sup><\/a><\/p>\n<p data-aid=\"156933261\" id=\"p50\">I know that as we come unto Christ, we can eventually \u201cbe perfected in him\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>), obtain \u201ca fulness of joy\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.33?lang=eng#p33\">Doctrine and Covenants 93:33<\/a>), and receive \u201call that [the] Father hath\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=eng#p38\">Doctrine and Covenants 84:38<\/a>). To these eternal truths I bear witness in the holy name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156933265\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156933269\" id=\"note1_p1\">See also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/117.2?lang=eng#p2\">Psalm 117:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.39?lang=eng#p39\">Doctrine and Covenants 1:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156933273\" id=\"note2_p1\">\u201cContrary to the doubts of some, there really <em>is<\/em> such a thing as right and wrong. There really <em>is<\/em> absolute truth\u2014eternal truth. One of the plagues of our day is that too few people know where to turn for truth\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156933277\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1.37?lang=eng#p37\">Joseph Smith\u2014Matthew 1:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156933278\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.19?lang=eng#p19\">Moroni 7:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156933279\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1.9?lang=eng#p9\">2 Nephi 1:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/17.8?lang=eng#p8\">Doctrine and Covenants 17:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156933280\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/2.8?lang=eng#p8\">Jacob 2:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156933281\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/119.105?lang=eng#p105\">Psalm 119:105<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156933282\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.32?lang=eng#p32\">John 8:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/98.8?lang=eng#p8\">Doctrine and Covenants 98:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156933283\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.17?lang=eng#p17\">John 17:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156933284\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156933285\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.11-13?lang=eng#p11\">Doctrine and Covenants 88:11\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.36?lang=eng#p36\">93:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156933286\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5.19-20?lang=eng#p19\">John 5:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.16?lang=eng#p16\">7:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.26?lang=eng#p26\">8:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.37?lang=eng#p37\">18:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.6?lang=eng#p6\">Moses 1:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156933287\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.12-26?lang=eng#p12\">Alma 42:12\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.41?lang=eng#p41\">Doctrine and Covenants 88:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156933288\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.30-39?lang=eng#p30\">Moses 1:30\u201339<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156933289\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.24?lang=eng#p24\">2 Nephi 26:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156933290\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.8-9?lang=eng#p8\">Doctrine and Covenants 82:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156933291\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.13?lang=eng#p13\">John 16:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.13?lang=eng#p13\">Jacob 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.5?lang=eng#p5\">Moroni 10:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.14?lang=eng#p14\">Doctrine and Covenants 50:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/75.10?lang=eng#p10\">75:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.12?lang=eng#p12\">76:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/91.4?lang=eng#p4\">91:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.97?lang=eng#p97\">124:97<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156933292\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.22-23?lang=eng#p22\">Doctrine and Covenants 6:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\">8:2\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156933293\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/1.5,7?lang=eng#p5\">Jeremiah 1:5, 7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/amos/3.7?lang=eng#p7\">Amos 3:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.16-20?lang=eng#p16\">Matthew 28:16\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.31?lang=eng#p31\">Moroni 7:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.38?lang=eng#p38\">Doctrine and Covenants 1:38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.1-6?lang=eng#p1\">21:1\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1\">43:1\u20137<\/a>. A prophet is \u201ca person who has been called by and speaks for God. As a messenger of God, a prophet receives commandments, prophecies, and revelations from God. His responsibility is to make known God\u2019s will and true character to mankind and to show the meaning of His dealings with them. A prophet denounces sin and foretells its consequences. He is a preacher of righteousness. On occasion, prophets may be inspired to foretell the future for the benefit of mankind. His primary responsibility, however, is to bear witness of Christ. The President of The Church of Jesus Christ of Latter-day Saints is God\u2019s prophet on earth today. Members of the First Presidency and the Twelve Apostles are sustained as prophets, seers, and revelators\u201d (Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/prophet?lang=eng\">Prophet<\/a>,\u201d Gospel Library). Examples of these principles are found in the lives of Adam (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.51-62?lang=eng#p51\">Moses 6:51\u201362<\/a>), Enoch (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.26-36?lang=eng#p26\">Moses 6:26\u201336<\/a>), Noah (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/8.19,23-24?lang=eng#p19\">Moses 8:19, 23\u201324<\/a>), Abraham (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/12.1-3?lang=eng#p1\">Genesis 12:1\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.8-9?lang=eng#p8\">Abraham 2:8\u20139<\/a>), Moses (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/3.1-15?lang=eng#p1\">Exodus 3:1\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.1-6,25-26?lang=eng#p1\">Moses 1:1\u20136, 25\u201326<\/a>), Peter (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.13-19?lang=eng#p13\">Matthew 16:13\u201319<\/a>), and Joseph Smith (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/5.6-10?lang=eng#p6\">Doctrine and Covenants 5:6\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.2?lang=eng#p2\">20:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.4-6?lang=eng#p4\">21:4\u20136<\/a>).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156933294\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3.16?lang=eng#p16\">2 Timothy 3:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156933295\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.44?lang=eng#p44\">John 8:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.18?lang=eng#p18\">2 Nephi 2:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.39?lang=eng#p39\">Doctrine and Covenants 93:39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4.4?lang=eng#p4\">Moses 4:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156933296\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.19?lang=eng#p19\">1 Nephi 10:19<\/a>. President Dallin H. Oaks instructed: \u201cWe need to be cautious as we seek [God\u2019s] truth and choose sources for that search. We should not consider secular prominence or authority as qualified sources. \u2026 When we seek the truth about religion, we should use spiritual methods appropriate for that search: prayer, the witness of the Holy Ghost, and study of the scriptures and the words of modern prophets\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/truth-and-the-plan?lang=eng\">Truth and the Plan<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 25).<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156933297\" id=\"note23_p1\">Elder D. Todd Christofferson taught: \u201cApostles and prophets \u2026 declare God\u2019s word, but in addition, we believe men and women generally and even children can learn from and be guided by divine inspiration in response to prayer and study of the scriptures. \u2026 Members of the Church of Jesus Christ are given the gift of the Holy Ghost, which facilitates an ongoing communication with their Heavenly Father. \u2026 This is not to say that every member speaks for the Church or can define its doctrines but that each can receive divine guidance in dealing with the challenges and opportunities of his or her life\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 89\u201390, note 2).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156933298\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.1-2?lang=eng#p1\">2 Nephi 33:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156933299\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.28?lang=eng#p28\">Doctrine and Covenants 1:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156933300\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3-5?lang=eng#p3\">Moroni 10:3\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/9.7-9?lang=eng#p7\">Doctrine and Covenants 9:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.85?lang=eng#p85\">84:85<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156933301\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/5.35?lang=eng#p35\">Doctrine and Covenants 5:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63.23?lang=eng#p23\">63:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.27-28?lang=eng#p27\">93:27\u201328<\/a>. Despite our earnest efforts, some of us may still struggle to feel the Spirit due to mental health challenges. Depression, anxiety, and other neurological conditions can add complexity to recognizing the Holy Ghost. In such cases, the Lord invites us to continue living the gospel, and He will bless us (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=eng#p41\">Mosiah 2:41<\/a>). We can look for additional activities\u2014such as listening to sacred music, engaging in service, or spending time in nature\u2014that help us feel the fruits of the Spirit (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/5.22-23?lang=eng#p22\">Galatians 5:22\u201323<\/a>) and strengthen our connection to God.<\/p>\n<p data-aid=\"156933302\" id=\"note27_p2\">Elder Jeffrey R. Holland expressed: \u201cSo how do you best respond when mental or emotional challenges confront you or those you love? Above all, never lose faith in your Father in Heaven, who loves you more than you can comprehend. \u2026 Faithfully pursue the time-tested devotional practices that bring the Spirit of the Lord into your life. Seek the counsel of those who hold keys for your spiritual well-being. Ask for and cherish priesthood blessings. Take the sacrament every week, and hold fast to the perfecting promises of the Atonement of Jesus Christ. Believe in miracles. I have seen so many of them come when every other indication would say that hope was lost. Hope is <em>never<\/em> lost\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/like-a-broken-vessel?lang=eng\">Like a Broken Vessel<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2013, 40\u201341).<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156933303\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=eng#p17\">John 7:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-34?lang=eng#p26\">Alma 32:26\u201334<\/a>. Ultimately, God desires for us to gain truth \u201cline upon line, precept upon precept,\u201d until we comprehend all things (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/28.5?lang=eng#p5\">Proverbs 28:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.30?lang=eng#p30\">2 Nephi 28:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.67?lang=eng#p67\">Doctrine and Covenants 88:67<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.28?lang=eng#p28\">93:28<\/a>).<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156933304\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1.9-10?lang=eng#p9\">1 John 1:9\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/2.1-2?lang=eng#p1\">2:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156933305\" id=\"note30_p1\">President Russell M. Nelson explained: \u201cNothing is more liberating, more ennobling, or more crucial to our individual progression than is a regular, daily focus on repentance. Repentance is not an event; it is a process. It is the key to happiness and peace of mind. When coupled with faith, repentance opens our access to the power of the Atonement of Jesus Christ\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=eng\">We Can Do Better and Be Better<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 67).<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"156933306\" id=\"note31_p1\">I do not know all the reasons that God withholds some eternal truths from us, but Elder Orson F. Whitney provided an interesting insight: \u201cIt is blessed to believe without seeing, since by the exercise of faith comes spiritual development, one of the great objects of man\u2019s earthly existence; while knowledge, by swallowing up faith, prevents its exercise, thus hindering that development. \u2018Knowledge is power;\u2019 and all things are to be known in due season. But premature knowledge\u2014knowing at the wrong time\u2014is fatal both to progress and to happiness\u201d (\u201c<a class=\"cross-ref\" href=\"/study/liahona/2003/12/the-divinity-of-jesus-christ?lang=eng\">The Divinity of Jesus Christ<\/a>,\u201d <cite>Improvement Era<\/cite>, Jan. 1926, 222; see also <cite>Ensign<\/cite>, Dec. 2003, 8\u20139; <cite>Liahona<\/cite>, Dec. 2003, 14\u201315).<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"156933307\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.5-10?lang=eng#p5\">Doctrine and Covenants 76:5\u201310<\/a>. The Lord also counseled Hyrum Smith to \u201cseek not to declare my word, but first seek to obtain my word. \u2026 Hold your peace [and] study my word\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.21-22?lang=eng#p21\">Doctrine and Covenants 11:21\u201322<\/a>). The prophet Alma provides an example for handling unanswered questions: \u201cThese mysteries are not yet fully made known unto me; therefore I shall forbear\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.11?lang=eng#p11\">Alma 37:11<\/a>). He also explained to his son Corianton that \u201cthere are many mysteries which are kept, that no one knoweth them save God himself\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.3?lang=eng#p3\">Alma 40:3<\/a>). I have also found strength from the response of Nephi when he was presented with a question he could not answer: \u201cI know that [God] loveth his children; nevertheless, I do not know the meaning of all things\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.17?lang=eng#p17\">1 Nephi 11:17<\/a>).<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"156933308\" id=\"note33_p1\">Similarly, cultural traditions are not doctrine or policy. They can be useful if they help us follow doctrine and policy, but they can also impede our spiritual growth if they are not based on true principles. We should avoid traditions that do not build our faith in Jesus Christ or help us progress toward eternal life.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"156933309\" id=\"note34_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/15.5?lang=eng#p5\">Doctrine and Covenants 15:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.77-78?lang=eng#p77\">88:77\u201378<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"156933310\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.21-23?lang=eng#p21\">Doctrine and Covenants 50:21\u201323<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"156933311\" id=\"note36_p1\">Adapted from the document \u201cPrinciples for Ensuring Doctrinal Purity,\u201d approved by the First Presidency and the Quorum of the Twelve Apostles in February 2023.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"156933312\" id=\"note37_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.14?lang=eng#p14\">1 Nephi 15:14<\/a>. The Lord directed His servants to avoid focusing on tenets, or concepts, that are not central to His gospel: \u201cAnd of tenets thou shalt not talk, but thou shalt declare repentance and faith on the Savior, and remission of sins by baptism, and by fire, yea, even the Holy Ghost\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.31?lang=eng#p31\">Doctrine and Covenants 19:31<\/a>).<\/p>\n<p data-aid=\"156933313\" id=\"note37_p2\">Elder Neil L. Andersen explained: \u201cLet us focus on the Savior Jesus Christ and the gift of His atoning sacrifice. This does not mean we cannot tell an experience from our own life or share thoughts from others. While our subject might be about families or service or temples or a recent mission, everything \u2026 should point to the Lord Jesus Christ\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/45andersen?lang=eng\">We Talk of Christ<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 89\u201390).<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"156933314\" id=\"note38_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/28.2-3,8?lang=eng#p2\">Doctrine and Covenants 28:2\u20133, 8<\/a>. The prophet Alma admonished those appointed to preach the gospel to \u201cteach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.19?lang=eng#p19\">Mosiah 18:19<\/a>).<\/p>\n<p data-aid=\"156933315\" id=\"note38_p3\">President Henry B. Eyring declared, \u201cWe must teach the fundamental doctrines of the Church as contained in the standard works and the teachings of the prophets, whose responsibility it is to declare doctrine\u201d (\u201c<a class=\"cross-ref\" href=\"/study/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-lord-will-multiply-the-harvest?lang=eng\">The Lord Will Multiply the Harvest<\/a>\u201d [evening with a General Authority, Feb. 6, 1998], in <cite>Teaching Seminary: Preservice Readings<\/cite> [2004], 96).<\/p>\n<p data-aid=\"156933316\" id=\"note38_p4\">Elder D. Todd Christofferson testified that \u201cin the Church today, just as anciently, establishing the doctrine of Christ or correcting doctrinal deviations is a matter of divine revelation to those the Lord endows with apostolic authority\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d 86).<\/p>\n<\/li>\n<li data-marker=\"39.\" id=\"note39\" data-full-marker=\"39.\">\n<p data-aid=\"156933317\" id=\"note39_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/13.1?lang=eng#p1\">2 Corinthians 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/11.3?lang=eng#p3\">2 Nephi 11:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/5.4?lang=eng#p4\">Ether 5:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.28?lang=eng#p28\">Doctrine and Covenants 6:28<\/a>. Elder Neil L. Andersen observed: \u201cA few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/trial-of-your-faith?lang=eng\">Trial of Your Faith<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2012, 41).<\/p>\n<p data-aid=\"156933318\" id=\"note39_p3\">Elder D. Todd Christofferson similarly taught: \u201cIt should be remembered that not every statement made by a Church leader, past or present, necessarily constitutes doctrine. It is commonly understood in the Church that a statement made by one leader on a single occasion often represents a personal, though well-considered, opinion, not meant to be official or binding for the whole Church\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d 88).<\/p>\n<\/li>\n<li data-marker=\"40.\" id=\"note40\" data-full-marker=\"40.\">\n<p data-aid=\"156933319\" id=\"note40_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32,40?lang=eng#p32\">3 Nephi 11:32, 40<\/a>. President Gordon B. Hinckley said: \u201cI have spoken before about the importance of keeping the doctrine of the Church pure. \u2026 I worry about this. Small aberrations in doctrinal teaching can lead to large and evil falsehoods\u201d (<cite>Teachings of Gordon B. Hinckley<\/cite> [1997], 620).<\/p>\n<p data-aid=\"156933320\" id=\"note40_p5\">President Dallin H. Oaks warned that there are some \u201cwho select a few sentences from the teachings of a prophet and use these to support their political agenda or other personal purposes. \u2026 To wrest the words of a prophet to support a private agenda, political or financial or otherwise, is to try to <em>manipulate<\/em> the prophet, not to <em>follow<\/em> him\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/dallin-h-oaks/strengths-can-become-downfall/\">Our Strengths Can Become Our Downfall<\/a>\u201d [Brigham Young University fireside, June 7, 1992], 7, speeches.byu.edu).<\/p>\n<p data-aid=\"156933321\" id=\"note40_p3\">President Henry B. Eyring cautioned: \u201cDoctrine gains its power as the Holy Ghost confirms that it is true. \u2026 Because we need the Holy Ghost, we must be cautious and careful not to go beyond teaching true doctrine. The Holy Ghost is the Spirit of Truth. His confirmation is invited by our avoiding speculation or personal interpretation. That can be hard to do. \u2026 It is tempting to try something new or sensational. But we invite the Holy Ghost as our companion when we are careful to teach only true doctrine. One of the surest ways to avoid even getting near false doctrine is to choose to be simple in our teaching. Safety is gained by that simplicity, and little is lost\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng\">The Power of Teaching Doctrine<\/a>,\u201d <cite>Ensign<\/cite>, May 1999, 74; <cite>Liahona<\/cite>, July 1999, 86).<\/p>\n<p data-aid=\"156933322\" id=\"note40_p4\">Elder Dale G. Renlund taught: \u201cSeeking greater understanding is an important part of our spiritual development, but please be cautious. Reason cannot replace revelation. Speculation will not lead to greater spiritual knowledge, but it can lead us to deception or divert our focus from what has been revealed\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/36renlund?lang=eng\">Your Divine Nature and Eternal Destiny<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 70).<\/p>\n<\/li>\n<li data-marker=\"41.\" id=\"note41\" data-full-marker=\"41.\">\n<p data-aid=\"156933323\" id=\"note41_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.23?lang=eng#p23\">Matthew 23:23<\/a>. President Joseph F. Smith warned: \u201cIt is very unwise to take a fragment of truth and treat it as if it were the whole thing. \u2026 All the revealed principles of the gospel of Christ are necessary and essential in the plan of salvation.\u201d He further explained: \u201cIt is neither good policy nor sound doctrine to take any one of these, single it out from the whole plan of gospel truth, make it a special hobby, and depend upon it for our salvation and progress. \u2026 They are all necessary\u201d (<cite>Gospel Doctrine<\/cite>, 5th ed. [1939], 122).<\/p>\n<p data-aid=\"156933324\" id=\"note41_p2\">Elder Neal A. Maxwell explained: \u201cThe gospel\u2019s principles \u2026 require synchronization. When pulled apart from each other or isolated, men\u2019s interpretations and implementations of these doctrines may be wild. Love, if not checked by the seventh commandment, could become carnal. The fifth commandment\u2019s laudable emphasis upon honoring parents, unless checked by the first commandment, could result in unconditional loyalty to errant parents rather than to God. \u2026 Even patience is balanced by \u2018reproving betimes with sharpness, when moved upon by the Holy Ghost\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.43?lang=eng#p43\">Doctrine and Covenants 121:43<\/a>]\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1993/04/behold-the-enemy-is-combined-d-c-38-12?lang=eng\">Behold, the Enemy Is Combined<\/a>,\u201d <cite>Ensign<\/cite>, May 1993, 78\u201379).<\/p>\n<p data-aid=\"156933325\" id=\"note41_p3\">President Marion G. Romney instructed, \u201cSearching [the scriptures] for the purpose of discovering what they teach as enjoined by Jesus is a far cry from hunting through them for the purpose of finding passages which can be pressed into service to support a predetermined conclusion\u201d (\u201c<a class=\"cross-ref\" href=\"/study/ensign/1980/09/records-of-great-worth?lang=eng\">Records of Great Worth<\/a>,\u201d <cite>Ensign<\/cite>, Sept. 1980, 3).<\/p>\n<\/li>\n<li data-marker=\"42.\" id=\"note42\" data-full-marker=\"42.\">\n<p data-aid=\"156933326\" id=\"note42_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/2.4?lang=eng#p4\">1 Corinthians 2:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.9?lang=eng#p9\">Moroni 6:9<\/a>. Elder Jeffrey R. Holland emphasized the need to communicate the gospel of Jesus Christ in a way that leads to spiritual edification through the power of the Holy Ghost: \u201cThe Lord has never given more emphatic counsel to the Church than that we are to teach the gospel \u2018by the Spirit, even the Comforter which was sent forth to teach the truth.\u2019 Do we teach the gospel \u2018by the Spirit of truth?\u2019 He has inquired. Or do we teach it \u2018some other way? And if it be by some other way,\u2019 He warns, \u2018it is not of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.14,17-18?lang=eng#p14\">Doctrine and Covenants 50:14, 17\u201318<\/a>]. \u2026 No eternal learning can take place without that quickening of the Spirit from heaven. \u2026 That is what our members really want. \u2026 They want their faith fortified and their hope renewed. They want, in short, to be nourished by the good word of God, to be strengthened by the powers of heaven\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1998/04/a-teacher-come-from-god?lang=eng\">A Teacher Come from God<\/a>,\u201d <cite>Ensign<\/cite>, May 1998, 26).<\/p>\n<\/li>\n<li data-marker=\"43.\" id=\"note43\" data-full-marker=\"43.\">\n<p data-aid=\"156933327\" id=\"note43_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.23?lang=eng#p23\">Alma 13:23<\/a>. Speaking of our Heavenly Father, President Russell M. Nelson testified, \u201cHe communicates simply, quietly, and with such stunning plainness that we cannot misunderstand Him\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 89).<\/p>\n<\/li>\n<li data-marker=\"44.\" id=\"note44\" data-full-marker=\"44.\">\n<p data-aid=\"156933328\" id=\"note44_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/26.3?lang=eng#p3\">Psalm 26:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13.10?lang=eng#p10\">Romans 13:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.1-8?lang=eng#p1\">1 Corinthians 13:1\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3.18?lang=eng#p18\">1 John 3:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"45.\" id=\"note45\" data-full-marker=\"45.\">\n<p data-aid=\"156933329\" id=\"note45_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/40.11?lang=eng#p11\">Psalm 40:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"46.\" id=\"note46\" data-full-marker=\"46.\">\n<p data-aid=\"156933330\" id=\"note46_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.16?lang=eng#p16\">Romans 8:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"47.\" id=\"note47\" data-full-marker=\"47.\">\n<p data-aid=\"156933331\" id=\"note47_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/2.3?lang=eng#p3\">1 Samuel 2:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.8?lang=eng#p8\">Matthew 6:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.24?lang=eng#p24\">2 Nephi 2:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.20?lang=eng#p20\">9:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"48.\" id=\"note48\" data-full-marker=\"48.\">\n<p data-aid=\"156933332\" id=\"note48_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/17.1?lang=eng#p1\">Genesis 17:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/32.17?lang=eng#p17\">Jeremiah 32:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7.12?lang=eng#p12\">1 Nephi 7:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.35?lang=eng#p35\">Alma 26:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"49.\" id=\"note49\" data-full-marker=\"49.\">\n<p data-aid=\"156933333\" id=\"note49_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.3?lang=eng#p3\">Jeremiah 31:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4.7-10?lang=eng#p7\">1 John 4:7\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.37?lang=eng#p37\">Alma 26:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"50.\" id=\"note50\" data-full-marker=\"50.\">\n<p data-aid=\"156933334\" id=\"note50_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9?lang=eng\">2 Nephi 9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.17-31?lang=eng#p17\">Doctrine and Covenants 20:17\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.52-62?lang=eng#p52\">Moses 6:52\u201362<\/a>.<\/p>\n<\/li>\n<li data-marker=\"51.\" id=\"note51\" data-full-marker=\"51.\">\n<p data-aid=\"156933335\" id=\"note51_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=eng#p16\">John 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4.9-10?lang=eng#p9\">1 John 4:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"52.\" id=\"note52\" data-full-marker=\"52.\">\n<p data-aid=\"156933336\" id=\"note52_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.29?lang=eng#p29\">John 8:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13?lang=eng#p13\">3 Nephi 27:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"53.\" id=\"note53\" data-full-marker=\"53.\">\n<p data-aid=\"156933337\" id=\"note53_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=eng#p12\">John 15:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3.11?lang=eng#p11\">1 John 3:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"54.\" id=\"note54\" data-full-marker=\"54.\">\n<p data-aid=\"156933338\" id=\"note54_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.39-46?lang=eng#p39\">Luke 22:39\u201346<\/a>.<\/p>\n<\/li>\n<li data-marker=\"55.\" id=\"note55\" data-full-marker=\"55.\">\n<p data-aid=\"156933339\" id=\"note55_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19.16-30?lang=eng#p16\">John 19:16\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"56.\" id=\"note56\" data-full-marker=\"56.\">\n<p data-aid=\"156933340\" id=\"note56_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.1-18?lang=eng#p1\">John 20:1\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"57.\" id=\"note57\" data-full-marker=\"57.\">\n<p data-aid=\"156933341\" id=\"note57_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.20-22?lang=eng#p20\">1 Corinthians 15:20\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.20-24?lang=eng#p20\">Mosiah 15:20\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16.7-9?lang=eng#p7\">16:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.16-17?lang=eng#p16\">Doctrine and Covenants 76:16\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"58.\" id=\"note58\" data-full-marker=\"58.\">\n<p data-aid=\"156933342\" id=\"note58_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/11.17-18?lang=eng#p17\">Acts 11:17\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/1.14-16?lang=eng#p14\">1 Timothy 1:14\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.8-10?lang=eng#p8\">Alma 34:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.2-3,8?lang=eng#p2\">Moroni 6:2\u20133, 8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.13-19?lang=eng#p13\">Doctrine and Covenants 19:13\u201319<\/a>.<\/p>\n<\/li>\n<li data-marker=\"59.\" id=\"note59\" data-full-marker=\"59.\">\n<p data-aid=\"156933343\" id=\"note59_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12.7-10?lang=eng#p7\">2 Corinthians 12:7\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.13?lang=eng#p13\">Philippians 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.11-13?lang=eng#p11\">Alma 26:11\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"60.\" id=\"note60\" data-full-marker=\"60.\">\n<p data-aid=\"156933344\" id=\"note60_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.18-19?lang=eng#p18\">Matthew 16:18\u201319<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2.20?lang=eng#p20\">Ephesians 2:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"61.\" id=\"note61\" data-full-marker=\"61.\">\n<p data-aid=\"156933345\" id=\"note61_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.24?lang=eng#p24\">Matthew 24:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20.28-30?lang=eng#p28\">Acts 20:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"62.\" id=\"note62\" data-full-marker=\"62.\">\n<p data-aid=\"156933346\" id=\"note62_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.1-4?lang=eng#p1\">Doctrine and Covenants 20:1\u20134<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.1-7?lang=eng#p1\">21:1\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27.12?lang=eng#p12\">27:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng\">110<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/135.3?lang=eng#p3\">135:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.1-20?lang=eng#p1\">Joseph Smith\u2014History 1:1\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"63.\" id=\"note63\" data-full-marker=\"63.\">\n<p data-aid=\"156933347\" id=\"note63_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14,38?lang=eng#p14\">Doctrine and Covenants 1:14, 38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1\">43:1\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.91-92?lang=eng#p91\">107:91\u201392<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note52": {
+        "marker": "52.",
+        "pid": "156933251",
+        "id": "note52",
+        "text": "<p data-aid=\"156933336\" id=\"note52_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.29?lang=eng#p29\">John 8:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27.13?lang=eng#p13\">3 Nephi 27:13<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/8.29?lang=eng#p29",
+            "text": "John 8:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27.13?lang=eng#p13",
+            "text": "3 Nephi 27:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note51": {
+        "marker": "51.",
+        "pid": "156933251",
+        "id": "note51",
+        "text": "<p data-aid=\"156933335\" id=\"note51_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3.16?lang=eng#p16\">John 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4.9-10?lang=eng#p9\">1 John 4:9\u201310<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/3.16?lang=eng#p16",
+            "text": "John 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/4.9-10?lang=eng#p9",
+            "text": "1 John 4:9\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note50": {
+        "marker": "50.",
+        "pid": "156933246",
+        "id": "note50",
+        "text": "<p data-aid=\"156933334\" id=\"note50_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9?lang=eng\">2 Nephi 9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.17-31?lang=eng#p17\">Doctrine and Covenants 20:17\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.52-62?lang=eng#p52\">Moses 6:52\u201362<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/9?lang=eng",
+            "text": "2 Nephi 9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.17-31?lang=eng#p17",
+            "text": "Doctrine and Covenants 20:17\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.52-62?lang=eng#p52",
+            "text": "Moses 6:52\u201362",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156933010",
+        "id": "note16",
+        "text": "<p data-aid=\"156933290\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82.8-9?lang=eng#p8\">Doctrine and Covenants 82:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/82.8-9?lang=eng#p8",
+          "text": "Doctrine and Covenants 82:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156933010",
+        "id": "note15",
+        "text": "<p data-aid=\"156933289\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.24?lang=eng#p24\">2 Nephi 26:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.24?lang=eng#p24",
+          "text": "2 Nephi 26:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note59": {
+        "marker": "59.",
+        "pid": "156933251",
+        "id": "note59",
+        "text": "<p data-aid=\"156933343\" id=\"note59_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12.7-10?lang=eng#p7\">2 Corinthians 12:7\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4.13?lang=eng#p13\">Philippians 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.11-13?lang=eng#p11\">Alma 26:11\u201313<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
+            "text": "Matthew 11:28\u201330",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/2-cor/12.7-10?lang=eng#p7",
+            "text": "2 Corinthians 12:7\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/philip/4.13?lang=eng#p13",
+            "text": "Philippians 4:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26.11-13?lang=eng#p11",
+            "text": "Alma 26:11\u201313",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156933010",
+        "id": "note14",
+        "text": "<p data-aid=\"156933288\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.30-39?lang=eng#p30\">Moses 1:30\u201339<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1.30-39?lang=eng#p30",
+          "text": "Moses 1:30\u201339",
+          "type": "scripture-ref"
+        }]
+      },
+      "note58": {
+        "marker": "58.",
+        "pid": "156933251",
+        "id": "note58",
+        "text": "<p data-aid=\"156933342\" id=\"note58_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/11.17-18?lang=eng#p17\">Acts 11:17\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-tim/1.14-16?lang=eng#p14\">1 Timothy 1:14\u201316<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.8-10?lang=eng#p8\">Alma 34:8\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.2-3,8?lang=eng#p2\">Moroni 6:2\u20133, 8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.13-19?lang=eng#p13\">Doctrine and Covenants 19:13\u201319<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/acts/11.17-18?lang=eng#p17",
+            "text": "Acts 11:17\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-tim/1.14-16?lang=eng#p14",
+            "text": "1 Timothy 1:14\u201316",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34.8-10?lang=eng#p8",
+            "text": "Alma 34:8\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6.2-3,8?lang=eng#p2",
+            "text": "Moroni 6:2\u20133, 8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/19.13-19?lang=eng#p13",
+            "text": "Doctrine and Covenants 19:13\u201319",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156933010",
+        "id": "note13",
+        "text": "<p data-aid=\"156933287\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.12-26?lang=eng#p12\">Alma 42:12\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.41?lang=eng#p41\">Doctrine and Covenants 88:41<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/42.12-26?lang=eng#p12",
+            "text": "Alma 42:12\u201326",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.41?lang=eng#p41",
+            "text": "Doctrine and Covenants 88:41",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note57": {
+        "marker": "57.",
+        "pid": "156933251",
+        "id": "note57",
+        "text": "<p data-aid=\"156933341\" id=\"note57_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.20-22?lang=eng#p20\">1 Corinthians 15:20\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15.20-24?lang=eng#p20\">Mosiah 15:20\u201324<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16.7-9?lang=eng#p7\">16:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.16-17?lang=eng#p16\">Doctrine and Covenants 76:16\u201317<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/15.20-22?lang=eng#p20",
+            "text": "1 Corinthians 15:20\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/15.20-24?lang=eng#p20",
+            "text": "Mosiah 15:20\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/16.7-9?lang=eng#p7",
+            "text": "16:7\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76.16-17?lang=eng#p16",
+            "text": "Doctrine and Covenants 76:16\u201317",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156933010",
+        "id": "note12",
+        "text": "<p data-aid=\"156933286\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5.19-20?lang=eng#p19\">John 5:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.16?lang=eng#p16\">7:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.26?lang=eng#p26\">8:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/18.37?lang=eng#p37\">18:37<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.6?lang=eng#p6\">Moses 1:6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/5.19-20?lang=eng#p19",
+            "text": "John 5:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/7.16?lang=eng#p16",
+            "text": "7:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/8.26?lang=eng#p26",
+            "text": "8:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/18.37?lang=eng#p37",
+            "text": "18:37",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.6?lang=eng#p6",
+            "text": "Moses 1:6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note56": {
+        "marker": "56.",
+        "pid": "156933251",
+        "id": "note56",
+        "text": "<p data-aid=\"156933340\" id=\"note56_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.1-18?lang=eng#p1\">John 20:1\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/20.1-18?lang=eng#p1",
+          "text": "John 20:1\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156933010",
+        "id": "note11",
+        "text": "<p data-aid=\"156933285\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.11-13?lang=eng#p11\">Doctrine and Covenants 88:11\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.36?lang=eng#p36\">93:36<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.11-13?lang=eng#p11",
+            "text": "Doctrine and Covenants 88:11\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.36?lang=eng#p36",
+            "text": "93:36",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note55": {
+        "marker": "55.",
+        "pid": "156933251",
+        "id": "note55",
+        "text": "<p data-aid=\"156933339\" id=\"note55_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19.16-30?lang=eng#p16\">John 19:16\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/19.16-30?lang=eng#p16",
+          "text": "John 19:16\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156932983",
+        "id": "note10",
+        "text": "<p data-aid=\"156933284\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+          "text": "2 Nephi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note54": {
+        "marker": "54.",
+        "pid": "156933251",
+        "id": "note54",
+        "text": "<p data-aid=\"156933338\" id=\"note54_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22.39-46?lang=eng#p39\">Luke 22:39\u201346<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22.39-46?lang=eng#p39",
+          "text": "Luke 22:39\u201346",
+          "type": "scripture-ref"
+        }]
+      },
+      "note53": {
+        "marker": "53.",
+        "pid": "156933251",
+        "id": "note53",
+        "text": "<p data-aid=\"156933337\" id=\"note53_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.12?lang=eng#p12\">John 15:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3.11?lang=eng#p11\">1 John 3:11<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/15.12?lang=eng#p12",
+            "text": "John 15:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/3.11?lang=eng#p11",
+            "text": "1 John 3:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156933029",
+        "id": "note19",
+        "text": "<p data-aid=\"156933293\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/1.5,7?lang=eng#p5\">Jeremiah 1:5, 7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/amos/3.7?lang=eng#p7\">Amos 3:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28.16-20?lang=eng#p16\">Matthew 28:16\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.31?lang=eng#p31\">Moroni 7:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.38?lang=eng#p38\">Doctrine and Covenants 1:38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.1-6?lang=eng#p1\">21:1\u20136<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1\">43:1\u20137<\/a>. A prophet is \u201ca person who has been called by and speaks for God. As a messenger of God, a prophet receives commandments, prophecies, and revelations from God. His responsibility is to make known God\u2019s will and true character to mankind and to show the meaning of His dealings with them. A prophet denounces sin and foretells its consequences. He is a preacher of righteousness. On occasion, prophets may be inspired to foretell the future for the benefit of mankind. His primary responsibility, however, is to bear witness of Christ. The President of The Church of Jesus Christ of Latter-day Saints is God\u2019s prophet on earth today. Members of the First Presidency and the Twelve Apostles are sustained as prophets, seers, and revelators\u201d (Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/prophet?lang=eng\">Prophet<\/a>,\u201d Gospel Library). Examples of these principles are found in the lives of Adam (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.51-62?lang=eng#p51\">Moses 6:51\u201362<\/a>), Enoch (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.26-36?lang=eng#p26\">Moses 6:26\u201336<\/a>), Noah (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/8.19,23-24?lang=eng#p19\">Moses 8:19, 23\u201324<\/a>), Abraham (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/12.1-3?lang=eng#p1\">Genesis 12:1\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2.8-9?lang=eng#p8\">Abraham 2:8\u20139<\/a>), Moses (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/3.1-15?lang=eng#p1\">Exodus 3:1\u201315<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1.1-6,25-26?lang=eng#p1\">Moses 1:1\u20136, 25\u201326<\/a>), Peter (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.13-19?lang=eng#p13\">Matthew 16:13\u201319<\/a>), and Joseph Smith (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/5.6-10?lang=eng#p6\">Doctrine and Covenants 5:6\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.2?lang=eng#p2\">20:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.4-6?lang=eng#p4\">21:4\u20136<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/1.5,7?lang=eng#p5",
+            "text": "Jeremiah 1:5, 7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/amos/3.7?lang=eng#p7",
+            "text": "Amos 3:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/28.16-20?lang=eng#p16",
+            "text": "Matthew 28:16\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7.31?lang=eng#p31",
+            "text": "Moroni 7:31",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/1.38?lang=eng#p38",
+            "text": "Doctrine and Covenants 1:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/21.1-6?lang=eng#p1",
+            "text": "21:1\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1",
+            "text": "43:1\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/prophet?lang=eng",
+            "text": "Prophet",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.51-62?lang=eng#p51",
+            "text": "Moses 6:51\u201362",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.26-36?lang=eng#p26",
+            "text": "Moses 6:26\u201336",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/8.19,23-24?lang=eng#p19",
+            "text": "Moses 8:19, 23\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/12.1-3?lang=eng#p1",
+            "text": "Genesis 12:1\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2.8-9?lang=eng#p8",
+            "text": "Abraham 2:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/3.1-15?lang=eng#p1",
+            "text": "Exodus 3:1\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1.1-6,25-26?lang=eng#p1",
+            "text": "Moses 1:1\u20136, 25\u201326",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/16.13-19?lang=eng#p13",
+            "text": "Matthew 16:13\u201319",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/5.6-10?lang=eng#p6",
+            "text": "Doctrine and Covenants 5:6\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.2?lang=eng#p2",
+            "text": "20:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/21.4-6?lang=eng#p4",
+            "text": "21:4\u20136",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156933020",
+        "id": "note18",
+        "text": "<p data-aid=\"156933292\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.22-23?lang=eng#p22\">Doctrine and Covenants 6:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2\">8:2\u20133<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/6.22-23?lang=eng#p22",
+            "text": "Doctrine and Covenants 6:22\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8.2-3?lang=eng#p2",
+            "text": "8:2\u20133",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156933020",
+        "id": "note17",
+        "text": "<p data-aid=\"156933291\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.13?lang=eng#p13\">John 16:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4.13?lang=eng#p13\">Jacob 4:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.5?lang=eng#p5\">Moroni 10:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.14?lang=eng#p14\">Doctrine and Covenants 50:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/75.10?lang=eng#p10\">75:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.12?lang=eng#p12\">76:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/91.4?lang=eng#p4\">91:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124.97?lang=eng#p97\">124:97<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/16.13?lang=eng#p13",
+            "text": "John 16:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/jacob/4.13?lang=eng#p13",
+            "text": "Jacob 4:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.5?lang=eng#p5",
+            "text": "Moroni 10:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/50.14?lang=eng#p14",
+            "text": "Doctrine and Covenants 50:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/75.10?lang=eng#p10",
+            "text": "75:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76.12?lang=eng#p12",
+            "text": "76:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/91.4?lang=eng#p4",
+            "text": "91:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/124.97?lang=eng#p97",
+            "text": "124:97",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note63": {
+        "marker": "63.",
+        "pid": "156933256",
+        "id": "note63",
+        "text": "<p data-aid=\"156933347\" id=\"note63_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14,38?lang=eng#p14\">Doctrine and Covenants 1:14, 38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1\">43:1\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107.91-92?lang=eng#p91\">107:91\u201392<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/1.14,38?lang=eng#p14",
+            "text": "Doctrine and Covenants 1:14, 38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/43.1-7?lang=eng#p1",
+            "text": "43:1\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107.91-92?lang=eng#p91",
+            "text": "107:91\u201392",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note62": {
+        "marker": "62.",
+        "pid": "156933256",
+        "id": "note62",
+        "text": "<p data-aid=\"156933346\" id=\"note62_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20.1-4?lang=eng#p1\">Doctrine and Covenants 20:1\u20134<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21.1-7?lang=eng#p1\">21:1\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27.12?lang=eng#p12\">27:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng\">110<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/135.3?lang=eng#p3\">135:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1.1-20?lang=eng#p1\">Joseph Smith\u2014History 1:1\u201320<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/20.1-4?lang=eng#p1",
+            "text": "Doctrine and Covenants 20:1\u20134",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/21.1-7?lang=eng#p1",
+            "text": "21:1\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/27.12?lang=eng#p12",
+            "text": "27:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/110?lang=eng",
+            "text": "110",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/135.3?lang=eng#p3",
+            "text": "135:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-h/1.1-20?lang=eng#p1",
+            "text": "Joseph Smith\u2014History 1:1\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note61": {
+        "marker": "61.",
+        "pid": "156933256",
+        "id": "note61",
+        "text": "<p data-aid=\"156933345\" id=\"note61_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24.24?lang=eng#p24\">Matthew 24:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20.28-30?lang=eng#p28\">Acts 20:28\u201330<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/24.24?lang=eng#p24",
+            "text": "Matthew 24:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/20.28-30?lang=eng#p28",
+            "text": "Acts 20:28\u201330",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note60": {
+        "marker": "60.",
+        "pid": "156933256",
+        "id": "note60",
+        "text": "<p data-aid=\"156933344\" id=\"note60_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16.18-19?lang=eng#p18\">Matthew 16:18\u201319<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2.20?lang=eng#p20\">Ephesians 2:20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/16.18-19?lang=eng#p18",
+            "text": "Matthew 16:18\u201319",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/2.20?lang=eng#p20",
+            "text": "Ephesians 2:20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156933084",
+        "id": "note27",
+        "text": "<p data-aid=\"156933301\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/5.35?lang=eng#p35\">Doctrine and Covenants 5:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63.23?lang=eng#p23\">63:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.27-28?lang=eng#p27\">93:27\u201328<\/a>. Despite our earnest efforts, some of us may still struggle to feel the Spirit due to mental health challenges. Depression, anxiety, and other neurological conditions can add complexity to recognizing the Holy Ghost. In such cases, the Lord invites us to continue living the gospel, and He will bless us (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=eng#p41\">Mosiah 2:41<\/a>). We can look for additional activities\u2014such as listening to sacred music, engaging in service, or spending time in nature\u2014that help us feel the fruits of the Spirit (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/5.22-23?lang=eng#p22\">Galatians 5:22\u201323<\/a>) and strengthen our connection to God.<\/p>\n<p data-aid=\"156933302\" id=\"note27_p2\">Elder Jeffrey R. Holland expressed: \u201cSo how do you best respond when mental or emotional challenges confront you or those you love? Above all, never lose faith in your Father in Heaven, who loves you more than you can comprehend. \u2026 Faithfully pursue the time-tested devotional practices that bring the Spirit of the Lord into your life. Seek the counsel of those who hold keys for your spiritual well-being. Ask for and cherish priesthood blessings. Take the sacrament every week, and hold fast to the perfecting promises of the Atonement of Jesus Christ. Believe in miracles. I have seen so many of them come when every other indication would say that hope was lost. Hope is <em>never<\/em> lost\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2013/10/like-a-broken-vessel?lang=eng\">Like a Broken Vessel<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2013, 40\u201341).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/5.35?lang=eng#p35",
+            "text": "Doctrine and Covenants 5:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/63.23?lang=eng#p23",
+            "text": "63:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.27-28?lang=eng#p27",
+            "text": "93:27\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/2.41?lang=eng#p41",
+            "text": "Mosiah 2:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/gal/5.22-23?lang=eng#p22",
+            "text": "Galatians 5:22\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2013/10/like-a-broken-vessel?lang=eng",
+            "text": "Like a Broken Vessel",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156933084",
+        "id": "note26",
+        "text": "<p data-aid=\"156933300\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.3-5?lang=eng#p3\">Moroni 10:3\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/9.7-9?lang=eng#p7\">Doctrine and Covenants 9:7\u20139<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.85?lang=eng#p85\">84:85<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/10.3-5?lang=eng#p3",
+            "text": "Moroni 10:3\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/9.7-9?lang=eng#p7",
+            "text": "Doctrine and Covenants 9:7\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84.85?lang=eng#p85",
+            "text": "84:85",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156933084",
+        "id": "note25",
+        "text": "<p data-aid=\"156933299\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.28?lang=eng#p28\">Doctrine and Covenants 1:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.28?lang=eng#p28",
+          "text": "Doctrine and Covenants 1:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156933084",
+        "id": "note24",
+        "text": "<p data-aid=\"156933298\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33.1-2?lang=eng#p1\">2 Nephi 33:1\u20132<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/33.1-2?lang=eng#p1",
+          "text": "2 Nephi 33:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156933084",
+        "id": "note23",
+        "text": "<p data-aid=\"156933297\" id=\"note23_p1\">Elder D. Todd Christofferson taught: \u201cApostles and prophets \u2026 declare God\u2019s word, but in addition, we believe men and women generally and even children can learn from and be guided by divine inspiration in response to prayer and study of the scriptures. \u2026 Members of the Church of Jesus Christ are given the gift of the Holy Ghost, which facilitates an ongoing communication with their Heavenly Father. \u2026 This is not to say that every member speaks for the Church or can define its doctrines but that each can receive divine guidance in dealing with the challenges and opportunities of his or her life\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 89\u201390, note 2).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng",
+          "text": "The Doctrine of Christ",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156933061",
+        "id": "note22",
+        "text": "<p data-aid=\"156933296\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/10.19?lang=eng#p19\">1 Nephi 10:19<\/a>. President Dallin H. Oaks instructed: \u201cWe need to be cautious as we seek [God\u2019s] truth and choose sources for that search. We should not consider secular prominence or authority as qualified sources. \u2026 When we seek the truth about religion, we should use spiritual methods appropriate for that search: prayer, the witness of the Holy Ghost, and study of the scriptures and the words of modern prophets\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/truth-and-the-plan?lang=eng\">Truth and the Plan<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 25).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/10.19?lang=eng#p19",
+            "text": "1 Nephi 10:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/10/truth-and-the-plan?lang=eng",
+            "text": "Truth and the Plan",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156933045",
+        "id": "note21",
+        "text": "<p data-aid=\"156933295\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.44?lang=eng#p44\">John 8:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.18?lang=eng#p18\">2 Nephi 2:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.39?lang=eng#p39\">Doctrine and Covenants 93:39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4.4?lang=eng#p4\">Moses 4:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/8.44?lang=eng#p44",
+            "text": "John 8:44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/2.18?lang=eng#p18",
+            "text": "2 Nephi 2:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.39?lang=eng#p39",
+            "text": "Doctrine and Covenants 93:39",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/4.4?lang=eng#p4",
+            "text": "Moses 4:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156933029",
+        "id": "note20",
+        "text": "<p data-aid=\"156933294\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3.16?lang=eng#p16\">2 Timothy 3:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-tim/3.16?lang=eng#p16",
+          "text": "2 Timothy 3:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156932974",
+        "id": "note1",
+        "text": "<p data-aid=\"156933269\" id=\"note1_p1\">See also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/117.2?lang=eng#p2\">Psalm 117:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.39?lang=eng#p39\">Doctrine and Covenants 1:39<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/117.2?lang=eng#p2",
+            "text": "Psalm 117:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/1.39?lang=eng#p39",
+            "text": "Doctrine and Covenants 1:39",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156933098",
+        "id": "note29",
+        "text": "<p data-aid=\"156933304\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1.9-10?lang=eng#p9\">1 John 1:9\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/2.1-2?lang=eng#p1\">2:1\u20132<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-jn/1.9-10?lang=eng#p9",
+            "text": "1 John 1:9\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/2.1-2?lang=eng#p1",
+            "text": "2:1\u20132",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156933091",
+        "id": "note28",
+        "text": "<p data-aid=\"156933303\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7.17?lang=eng#p17\">John 7:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32.26-34?lang=eng#p26\">Alma 32:26\u201334<\/a>. Ultimately, God desires for us to gain truth \u201cline upon line, precept upon precept,\u201d until we comprehend all things (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/28.5?lang=eng#p5\">Proverbs 28:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.30?lang=eng#p30\">2 Nephi 28:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.67?lang=eng#p67\">Doctrine and Covenants 88:67<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.28?lang=eng#p28\">93:28<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/7.17?lang=eng#p17",
+            "text": "John 7:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32.26-34?lang=eng#p26",
+            "text": "Alma 32:26\u201334",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/prov/28.5?lang=eng#p5",
+            "text": "Proverbs 28:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/28.30?lang=eng#p30",
+            "text": "2 Nephi 28:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.67?lang=eng#p67",
+            "text": "Doctrine and Covenants 88:67",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.28?lang=eng#p28",
+            "text": "93:28",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note4": {
+        "marker": "4.",
+        "pid": "156932983",
+        "id": "note4",
+        "text": "<p data-aid=\"156933278\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.19?lang=eng#p19\">Moroni 7:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.19?lang=eng#p19",
+          "text": "Moroni 7:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156932983",
+        "id": "note5",
+        "text": "<p data-aid=\"156933279\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1.9?lang=eng#p9\">2 Nephi 1:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/17.8?lang=eng#p8\">Doctrine and Covenants 17:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/1.9?lang=eng#p9",
+            "text": "2 Nephi 1:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/17.8?lang=eng#p8",
+            "text": "Doctrine and Covenants 17:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156932974",
+        "id": "note2",
+        "text": "<p data-aid=\"156933273\" id=\"note2_p1\">\u201cContrary to the doubts of some, there really <em>is<\/em> such a thing as right and wrong. There really <em>is<\/em> absolute truth\u2014eternal truth. One of the plagues of our day is that too few people know where to turn for truth\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=eng",
+          "text": "Pure Truth, Pure Doctrine, and Pure Revelation",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156932983",
+        "id": "note3",
+        "text": "<p data-aid=\"156933277\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1.37?lang=eng#p37\">Joseph Smith\u2014Matthew 1:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-m/1.37?lang=eng#p37",
+          "text": "Joseph Smith\u2014Matthew 1:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156932983",
+        "id": "note8",
+        "text": "<p data-aid=\"156933282\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.32?lang=eng#p32\">John 8:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/98.8?lang=eng#p8\">Doctrine and Covenants 98:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/8.32?lang=eng#p32",
+            "text": "John 8:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/98.8?lang=eng#p8",
+            "text": "Doctrine and Covenants 98:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156932983",
+        "id": "note9",
+        "text": "<p data-aid=\"156933283\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.17?lang=eng#p17\">John 17:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/17.17?lang=eng#p17",
+          "text": "John 17:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156932983",
+        "id": "note6",
+        "text": "<p data-aid=\"156933280\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/2.8?lang=eng#p8\">Jacob 2:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/2.8?lang=eng#p8",
+          "text": "Jacob 2:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156932983",
+        "id": "note7",
+        "text": "<p data-aid=\"156933281\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/119.105?lang=eng#p105\">Psalm 119:105<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.3?lang=eng#p3\">2 Nephi 32:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/119.105?lang=eng#p105",
+            "text": "Psalm 119:105",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.3?lang=eng#p3",
+            "text": "2 Nephi 32:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156933098",
+        "id": "note30",
+        "text": "<p data-aid=\"156933305\" id=\"note30_p1\">President Russell M. Nelson explained: \u201cNothing is more liberating, more ennobling, or more crucial to our individual progression than is a regular, daily focus on repentance. Repentance is not an event; it is a process. It is the key to happiness and peace of mind. When coupled with faith, repentance opens our access to the power of the Atonement of Jesus Christ\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/36nelson?lang=eng\">We Can Do Better and Be Better<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2019, 67).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/36nelson?lang=eng",
+          "text": "We Can Do Better and Be Better",
+          "type": "cross-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "pid": "156933181",
+        "id": "note38",
+        "text": "<p data-aid=\"156933314\" id=\"note38_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/28.2-3,8?lang=eng#p2\">Doctrine and Covenants 28:2\u20133, 8<\/a>. The prophet Alma admonished those appointed to preach the gospel to \u201cteach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.19?lang=eng#p19\">Mosiah 18:19<\/a>).<\/p>\n<p data-aid=\"156933315\" id=\"note38_p3\">President Henry B. Eyring declared, \u201cWe must teach the fundamental doctrines of the Church as contained in the standard works and the teachings of the prophets, whose responsibility it is to declare doctrine\u201d (\u201c<a class=\"cross-ref\" href=\"/study/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-lord-will-multiply-the-harvest?lang=eng\">The Lord Will Multiply the Harvest<\/a>\u201d [evening with a General Authority, Feb. 6, 1998], in <cite>Teaching Seminary: Preservice Readings<\/cite> [2004], 96).<\/p>\n<p data-aid=\"156933316\" id=\"note38_p4\">Elder D. Todd Christofferson testified that \u201cin the Church today, just as anciently, establishing the doctrine of Christ or correcting doctrinal deviations is a matter of divine revelation to those the Lord endows with apostolic authority\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d 86).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/28.2-3,8?lang=eng#p2",
+            "text": "Doctrine and Covenants 28:2\u20133, 8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.19?lang=eng#p19",
+            "text": "Mosiah 18:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-lord-will-multiply-the-harvest?lang=eng",
+            "text": "The Lord Will Multiply the Harvest",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng",
+            "text": "The Doctrine of Christ",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "156933178",
+        "id": "note37",
+        "text": "<p data-aid=\"156933312\" id=\"note37_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.14?lang=eng#p14\">1 Nephi 15:14<\/a>. The Lord directed His servants to avoid focusing on tenets, or concepts, that are not central to His gospel: \u201cAnd of tenets thou shalt not talk, but thou shalt declare repentance and faith on the Savior, and remission of sins by baptism, and by fire, yea, even the Holy Ghost\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19.31?lang=eng#p31\">Doctrine and Covenants 19:31<\/a>).<\/p>\n<p data-aid=\"156933313\" id=\"note37_p2\">Elder Neil L. Andersen explained: \u201cLet us focus on the Savior Jesus Christ and the gift of His atoning sacrifice. This does not mean we cannot tell an experience from our own life or share thoughts from others. While our subject might be about families or service or temples or a recent mission, everything \u2026 should point to the Lord Jesus Christ\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/45andersen?lang=eng\">We Talk of Christ<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 89\u201390).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/15.14?lang=eng#p14",
+            "text": "1 Nephi 15:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/19.31?lang=eng#p31",
+            "text": "Doctrine and Covenants 19:31",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/10/45andersen?lang=eng",
+            "text": "We Talk of Christ",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "156933173",
+        "id": "note36",
+        "text": "<p data-aid=\"156933311\" id=\"note36_p1\">Adapted from the document \u201cPrinciples for Ensuring Doctrinal Purity,\u201d approved by the First Presidency and the Quorum of the Twelve Apostles in February 2023.<\/p>"
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "156933173",
+        "id": "note35",
+        "text": "<p data-aid=\"156933310\" id=\"note35_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.21-23?lang=eng#p21\">Doctrine and Covenants 50:21\u201323<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/50.21-23?lang=eng#p21",
+          "text": "Doctrine and Covenants 50:21\u201323",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "156933168",
+        "id": "note34",
+        "text": "<p data-aid=\"156933309\" id=\"note34_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/15.5?lang=eng#p5\">Doctrine and Covenants 15:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.77-78?lang=eng#p77\">88:77\u201378<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/15.5?lang=eng#p5",
+            "text": "Doctrine and Covenants 15:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.77-78?lang=eng#p77",
+            "text": "88:77\u201378",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "156933155",
+        "id": "note33",
+        "text": "<p data-aid=\"156933308\" id=\"note33_p1\">Similarly, cultural traditions are not doctrine or policy. They can be useful if they help us follow doctrine and policy, but they can also impede our spiritual growth if they are not based on true principles. We should avoid traditions that do not build our faith in Jesus Christ or help us progress toward eternal life.<\/p>"
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "156933132",
+        "id": "note32",
+        "text": "<p data-aid=\"156933307\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.5-10?lang=eng#p5\">Doctrine and Covenants 76:5\u201310<\/a>. The Lord also counseled Hyrum Smith to \u201cseek not to declare my word, but first seek to obtain my word. \u2026 Hold your peace [and] study my word\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11.21-22?lang=eng#p21\">Doctrine and Covenants 11:21\u201322<\/a>). The prophet Alma provides an example for handling unanswered questions: \u201cThese mysteries are not yet fully made known unto me; therefore I shall forbear\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.11?lang=eng#p11\">Alma 37:11<\/a>). He also explained to his son Corianton that \u201cthere are many mysteries which are kept, that no one knoweth them save God himself\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40.3?lang=eng#p3\">Alma 40:3<\/a>). I have also found strength from the response of Nephi when he was presented with a question he could not answer: \u201cI know that [God] loveth his children; nevertheless, I do not know the meaning of all things\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.17?lang=eng#p17\">1 Nephi 11:17<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/76.5-10?lang=eng#p5",
+            "text": "Doctrine and Covenants 76:5\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/11.21-22?lang=eng#p21",
+            "text": "Doctrine and Covenants 11:21\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/37.11?lang=eng#p11",
+            "text": "Alma 37:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/40.3?lang=eng#p3",
+            "text": "Alma 40:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/11.17?lang=eng#p17",
+            "text": "1 Nephi 11:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "156933132",
+        "id": "note31",
+        "text": "<p data-aid=\"156933306\" id=\"note31_p1\">I do not know all the reasons that God withholds some eternal truths from us, but Elder Orson F. Whitney provided an interesting insight: \u201cIt is blessed to believe without seeing, since by the exercise of faith comes spiritual development, one of the great objects of man\u2019s earthly existence; while knowledge, by swallowing up faith, prevents its exercise, thus hindering that development. \u2018Knowledge is power;\u2019 and all things are to be known in due season. But premature knowledge\u2014knowing at the wrong time\u2014is fatal both to progress and to happiness\u201d (\u201c<a class=\"cross-ref\" href=\"/study/liahona/2003/12/the-divinity-of-jesus-christ?lang=eng\">The Divinity of Jesus Christ<\/a>,\u201d <cite>Improvement Era<\/cite>, Jan. 1926, 222; see also <cite>Ensign<\/cite>, Dec. 2003, 8\u20139; <cite>Liahona<\/cite>, Dec. 2003, 14\u201315).<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2003/12/the-divinity-of-jesus-christ?lang=eng",
+          "text": "The Divinity of Jesus Christ",
+          "type": "cross-ref"
+        }]
+      },
+      "note39": {
+        "marker": "39.",
+        "pid": "156933186",
+        "id": "note39",
+        "text": "<p data-aid=\"156933317\" id=\"note39_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/13.1?lang=eng#p1\">2 Corinthians 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/11.3?lang=eng#p3\">2 Nephi 11:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/5.4?lang=eng#p4\">Ether 5:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.28?lang=eng#p28\">Doctrine and Covenants 6:28<\/a>. Elder Neil L. Andersen observed: \u201cA few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/trial-of-your-faith?lang=eng\">Trial of Your Faith<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2012, 41).<\/p>\n<p data-aid=\"156933318\" id=\"note39_p3\">Elder D. Todd Christofferson similarly taught: \u201cIt should be remembered that not every statement made by a Church leader, past or present, necessarily constitutes doctrine. It is commonly understood in the Church that a statement made by one leader on a single occasion often represents a personal, though well-considered, opinion, not meant to be official or binding for the whole Church\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng\">The Doctrine of Christ<\/a>,\u201d 88).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-cor/13.1?lang=eng#p1",
+            "text": "2 Corinthians 13:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/11.3?lang=eng#p3",
+            "text": "2 Nephi 11:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/5.4?lang=eng#p4",
+            "text": "Ether 5:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/6.28?lang=eng#p28",
+            "text": "Doctrine and Covenants 6:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2012/10/trial-of-your-faith?lang=eng",
+            "text": "Trial of Your Faith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng",
+            "text": "The Doctrine of Christ",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note41": {
+        "marker": "41.",
+        "pid": "156933196",
+        "id": "note41",
+        "text": "<p data-aid=\"156933323\" id=\"note41_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.23?lang=eng#p23\">Matthew 23:23<\/a>. President Joseph F. Smith warned: \u201cIt is very unwise to take a fragment of truth and treat it as if it were the whole thing. \u2026 All the revealed principles of the gospel of Christ are necessary and essential in the plan of salvation.\u201d He further explained: \u201cIt is neither good policy nor sound doctrine to take any one of these, single it out from the whole plan of gospel truth, make it a special hobby, and depend upon it for our salvation and progress. \u2026 They are all necessary\u201d (<cite>Gospel Doctrine<\/cite>, 5th ed. [1939], 122).<\/p>\n<p data-aid=\"156933324\" id=\"note41_p2\">Elder Neal A. Maxwell explained: \u201cThe gospel\u2019s principles \u2026 require synchronization. When pulled apart from each other or isolated, men\u2019s interpretations and implementations of these doctrines may be wild. Love, if not checked by the seventh commandment, could become carnal. The fifth commandment\u2019s laudable emphasis upon honoring parents, unless checked by the first commandment, could result in unconditional loyalty to errant parents rather than to God. \u2026 Even patience is balanced by \u2018reproving betimes with sharpness, when moved upon by the Holy Ghost\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121.43?lang=eng#p43\">Doctrine and Covenants 121:43<\/a>]\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1993/04/behold-the-enemy-is-combined-d-c-38-12?lang=eng\">Behold, the Enemy Is Combined<\/a>,\u201d <cite>Ensign<\/cite>, May 1993, 78\u201379).<\/p>\n<p data-aid=\"156933325\" id=\"note41_p3\">President Marion G. Romney instructed, \u201cSearching [the scriptures] for the purpose of discovering what they teach as enjoined by Jesus is a far cry from hunting through them for the purpose of finding passages which can be pressed into service to support a predetermined conclusion\u201d (\u201c<a class=\"cross-ref\" href=\"/study/ensign/1980/09/records-of-great-worth?lang=eng\">Records of Great Worth<\/a>,\u201d <cite>Ensign<\/cite>, Sept. 1980, 3).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/23.23?lang=eng#p23",
+            "text": "Matthew 23:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/121.43?lang=eng#p43",
+            "text": "Doctrine and Covenants 121:43",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/1993/04/behold-the-enemy-is-combined-d-c-38-12?lang=eng",
+            "text": "Behold, the Enemy Is Combined",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/ensign/1980/09/records-of-great-worth?lang=eng",
+            "text": "Records of Great Worth",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note40": {
+        "marker": "40.",
+        "pid": "156933191",
+        "id": "note40",
+        "text": "<p data-aid=\"156933319\" id=\"note40_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11.32,40?lang=eng#p32\">3 Nephi 11:32, 40<\/a>. President Gordon B. Hinckley said: \u201cI have spoken before about the importance of keeping the doctrine of the Church pure. \u2026 I worry about this. Small aberrations in doctrinal teaching can lead to large and evil falsehoods\u201d (<cite>Teachings of Gordon B. Hinckley<\/cite> [1997], 620).<\/p>\n<p data-aid=\"156933320\" id=\"note40_p5\">President Dallin H. Oaks warned that there are some \u201cwho select a few sentences from the teachings of a prophet and use these to support their political agenda or other personal purposes. \u2026 To wrest the words of a prophet to support a private agenda, political or financial or otherwise, is to try to <em>manipulate<\/em> the prophet, not to <em>follow<\/em> him\u201d (\u201c<a href=\"https://speeches.byu.edu/talks/dallin-h-oaks/strengths-can-become-downfall/\">Our Strengths Can Become Our Downfall<\/a>\u201d [Brigham Young University fireside, June 7, 1992], 7, speeches.byu.edu).<\/p>\n<p data-aid=\"156933321\" id=\"note40_p3\">President Henry B. Eyring cautioned: \u201cDoctrine gains its power as the Holy Ghost confirms that it is true. \u2026 Because we need the Holy Ghost, we must be cautious and careful not to go beyond teaching true doctrine. The Holy Ghost is the Spirit of Truth. His confirmation is invited by our avoiding speculation or personal interpretation. That can be hard to do. \u2026 It is tempting to try something new or sensational. But we invite the Holy Ghost as our companion when we are careful to teach only true doctrine. One of the surest ways to avoid even getting near false doctrine is to choose to be simple in our teaching. Safety is gained by that simplicity, and little is lost\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng\">The Power of Teaching Doctrine<\/a>,\u201d <cite>Ensign<\/cite>, May 1999, 74; <cite>Liahona<\/cite>, July 1999, 86).<\/p>\n<p data-aid=\"156933322\" id=\"note40_p4\">Elder Dale G. Renlund taught: \u201cSeeking greater understanding is an important part of our spiritual development, but please be cautious. Reason cannot replace revelation. Speculation will not lead to greater spiritual knowledge, but it can lead us to deception or divert our focus from what has been revealed\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/36renlund?lang=eng\">Your Divine Nature and Eternal Destiny<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 70).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/11.32,40?lang=eng#p32",
+            "text": "3 Nephi 11:32, 40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/dallin-h-oaks/strengths-can-become-downfall/",
+            "text": "Our Strengths Can Become Our Downfall"
+          },
+          {
+            "href": "/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng",
+            "text": "The Power of Teaching Doctrine",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/36renlund?lang=eng",
+            "text": "Your Divine Nature and Eternal Destiny",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note49": {
+        "marker": "49.",
+        "pid": "156933246",
+        "id": "note49",
+        "text": "<p data-aid=\"156933333\" id=\"note49_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.3?lang=eng#p3\">Jeremiah 31:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4.7-10?lang=eng#p7\">1 John 4:7\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.37?lang=eng#p37\">Alma 26:37<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/31.3?lang=eng#p3",
+            "text": "Jeremiah 31:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/4.7-10?lang=eng#p7",
+            "text": "1 John 4:7\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26.37?lang=eng#p37",
+            "text": "Alma 26:37",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note48": {
+        "marker": "48.",
+        "pid": "156933246",
+        "id": "note48",
+        "text": "<p data-aid=\"156933332\" id=\"note48_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/17.1?lang=eng#p1\">Genesis 17:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/32.17?lang=eng#p17\">Jeremiah 32:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7.12?lang=eng#p12\">1 Nephi 7:12<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26.35?lang=eng#p35\">Alma 26:35<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/17.1?lang=eng#p1",
+            "text": "Genesis 17:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/jer/32.17?lang=eng#p17",
+            "text": "Jeremiah 32:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/7.12?lang=eng#p12",
+            "text": "1 Nephi 7:12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26.35?lang=eng#p35",
+            "text": "Alma 26:35",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note47": {
+        "marker": "47.",
+        "pid": "156933246",
+        "id": "note47",
+        "text": "<p data-aid=\"156933331\" id=\"note47_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/2.3?lang=eng#p3\">1 Samuel 2:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6.8?lang=eng#p8\">Matthew 6:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2.24?lang=eng#p24\">2 Nephi 2:24<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9.20?lang=eng#p20\">9:20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/1-sam/2.3?lang=eng#p3",
+            "text": "1 Samuel 2:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/6.8?lang=eng#p8",
+            "text": "Matthew 6:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/2.24?lang=eng#p24",
+            "text": "2 Nephi 2:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/9.20?lang=eng#p20",
+            "text": "9:20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note46": {
+        "marker": "46.",
+        "pid": "156933246",
+        "id": "note46",
+        "text": "<p data-aid=\"156933330\" id=\"note46_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.16?lang=eng#p16\">Romans 8:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8.16?lang=eng#p16",
+          "text": "Romans 8:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note45": {
+        "marker": "45.",
+        "pid": "156933226",
+        "id": "note45",
+        "text": "<p data-aid=\"156933329\" id=\"note45_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/40.11?lang=eng#p11\">Psalm 40:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ps/40.11?lang=eng#p11",
+          "text": "Psalm 40:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note44": {
+        "marker": "44.",
+        "pid": "156933216",
+        "id": "note44",
+        "text": "<p data-aid=\"156933328\" id=\"note44_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/26.3?lang=eng#p3\">Psalm 26:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13.10?lang=eng#p10\">Romans 13:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.1-8?lang=eng#p1\">1 Corinthians 13:1\u20138<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3.18?lang=eng#p18\">1 John 3:18<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/26.3?lang=eng#p3",
+            "text": "Psalm 26:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/13.10?lang=eng#p10",
+            "text": "Romans 13:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/13.1-8?lang=eng#p1",
+            "text": "1 Corinthians 13:1\u20138",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-jn/3.18?lang=eng#p18",
+            "text": "1 John 3:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note43": {
+        "marker": "43.",
+        "pid": "156933206",
+        "id": "note43",
+        "text": "<p data-aid=\"156933327\" id=\"note43_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.23?lang=eng#p23\">Alma 13:23<\/a>. Speaking of our Heavenly Father, President Russell M. Nelson testified, \u201cHe communicates simply, quietly, and with such stunning plainness that we cannot misunderstand Him\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 89).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/13.23?lang=eng#p23",
+            "text": "Alma 13:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/04/45nelson?lang=eng",
+            "text": "Hear Him",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note42": {
+        "marker": "42.",
+        "pid": "156933201",
+        "id": "note42",
+        "text": "<p data-aid=\"156933326\" id=\"note42_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/2.4?lang=eng#p4\">1 Corinthians 2:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.9?lang=eng#p9\">Moroni 6:9<\/a>. Elder Jeffrey R. Holland emphasized the need to communicate the gospel of Jesus Christ in a way that leads to spiritual edification through the power of the Holy Ghost: \u201cThe Lord has never given more emphatic counsel to the Church than that we are to teach the gospel \u2018by the Spirit, even the Comforter which was sent forth to teach the truth.\u2019 Do we teach the gospel \u2018by the Spirit of truth?\u2019 He has inquired. Or do we teach it \u2018some other way? And if it be by some other way,\u2019 He warns, \u2018it is not of God\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50.14,17-18?lang=eng#p14\">Doctrine and Covenants 50:14, 17\u201318<\/a>]. \u2026 No eternal learning can take place without that quickening of the Spirit from heaven. \u2026 That is what our members really want. \u2026 They want their faith fortified and their hope renewed. They want, in short, to be nourished by the good word of God, to be strengthened by the powers of heaven\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1998/04/a-teacher-come-from-god?lang=eng\">A Teacher Come from God<\/a>,\u201d <cite>Ensign<\/cite>, May 1998, 26).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/2.4?lang=eng#p4",
+            "text": "1 Corinthians 2:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6.9?lang=eng#p9",
+            "text": "Moroni 6:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/50.14,17-18?lang=eng#p14",
+            "text": "Doctrine and Covenants 50:14, 17\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/1998/04/a-teacher-come-from-god?lang=eng",
+            "text": "A Teacher Come from God",
+            "type": "cross-ref"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -4336,7 +4336,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "John C.",
         "lastNames": "Pingree Jr.",
         "id": 1516,
@@ -4728,7 +4728,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Clark G.",
         "lastNames": "Gilbert",
         "id": 1565,
@@ -4902,5 +4902,61 @@
         "id": 1586,
         "suffix": "",
         "abbr": "LRA"
+    },
+    {
+        "collision": false,
+        "givenNames": "J. Kimo",
+        "lastNames": "Esplin",
+        "id": 1587,
+        "suffix": "",
+        "abbr": "JKE"
+    },
+    {
+        "collision": false,
+        "givenNames": "Christophe G.",
+        "lastNames": "Giraud-Carrier",
+        "id": 1588,
+        "suffix": "",
+        "abbr": "CGC"
+    },
+    {
+        "collision": false,
+        "givenNames": "Alan T.",
+        "lastNames": "Phillips",
+        "id": 1589,
+        "suffix": "",
+        "abbr": "ATP"
+    },
+    {
+        "collision": false,
+        "givenNames": "Emily Belle",
+        "lastNames": "Freeman",
+        "id": 1590,
+        "suffix": "",
+        "abbr": "EBF"
+    },
+    {
+        "collision": false,
+        "givenNames": "Robert M.",
+        "lastNames": "Daines",
+        "id": 1591,
+        "suffix": "",
+        "abbr": "RMD"
+    },
+    {
+        "collision": false,
+        "givenNames": "Tamara W.",
+        "lastNames": "Runia",
+        "id": 1592,
+        "suffix": "",
+        "abbr": "TWR"
+    },
+    {
+        "collision": true,
+        "givenNames": "John C.",
+        "lastNames": "Pingree, Jr.",
+        "id": 1593,
+        "suffix": "",
+        "abbr": "JcP"
     }
 ]

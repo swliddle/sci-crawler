@@ -1,0 +1,962 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/13daines?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "4643833e8cad47828c91411a8791e0c5",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/13daines",
+      "data-aid": "156927042",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "aabbe016db0e4ccbbf5f6ebbd2162809"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/e3/9f/e39f5afe746cd8b82b43af351910cfb24ba31abc/e39f5afe746cd8b82b43af351910cfb24ba31abc.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Señor, nos gustaría ver a Jesús",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156927042",
+      {"key": "156927042"}
+    ],
+    [
+      "157002961",
+      {"key": "157002961"}
+    ],
+    [
+      "157002962",
+      {"key": "157002962"}
+    ],
+    [
+      "157002963",
+      {"key": "157002963"}
+    ],
+    [
+      "157002964",
+      {"key": "157002964"}
+    ],
+    [
+      "157002965",
+      {"key": "157002965"}
+    ],
+    [
+      "157002966",
+      {"key": "157002966"}
+    ],
+    [
+      "157002967",
+      {"key": "157002967"}
+    ],
+    [
+      "157002968",
+      {"key": "157002968"}
+    ],
+    [
+      "157002969",
+      {"key": "157002969"}
+    ],
+    [
+      "157002970",
+      {"key": "157002970"}
+    ],
+    [
+      "157002971",
+      {"key": "157002971"}
+    ],
+    [
+      "157002972",
+      {"key": "157002972"}
+    ],
+    [
+      "157002973",
+      {"key": "157002973"}
+    ],
+    [
+      "157002974",
+      {"key": "157002974"}
+    ],
+    [
+      "157002975",
+      {"key": "157002975"}
+    ],
+    [
+      "157002976",
+      {"key": "157002976"}
+    ],
+    [
+      "157002977",
+      {"key": "157002977"}
+    ],
+    [
+      "157002978",
+      {"key": "157002978"}
+    ],
+    [
+      "157002979",
+      {"key": "157002979"}
+    ],
+    [
+      "157002980",
+      {"key": "157002980"}
+    ],
+    [
+      "157002981",
+      {"key": "157002981"}
+    ],
+    [
+      "157002982",
+      {"key": "157002982"}
+    ],
+    [
+      "157002983",
+      {"key": "157002983"}
+    ],
+    [
+      "157002984",
+      {"key": "157002984"}
+    ],
+    [
+      "157002985",
+      {"key": "157002985"}
+    ],
+    [
+      "157002986",
+      {"key": "157002986"}
+    ],
+    [
+      "157002987",
+      {"key": "157002987"}
+    ],
+    [
+      "157002988",
+      {"key": "157002988"}
+    ],
+    [
+      "157002989",
+      {"key": "157002989"}
+    ],
+    [
+      "157002990",
+      {"key": "157002990"}
+    ],
+    [
+      "157002991",
+      {"key": "157002991"}
+    ],
+    [
+      "157002992",
+      {"key": "157002992"}
+    ],
+    [
+      "157002993",
+      {"key": "157002993"}
+    ],
+    [
+      "157002994",
+      {"key": "157002994"}
+    ],
+    [
+      "157002995",
+      {"key": "157002995"}
+    ],
+    [
+      "157002996",
+      {"key": "157002996"}
+    ],
+    [
+      "157002997",
+      {"key": "157002997"}
+    ],
+    [
+      "157002998",
+      {"key": "157002998"}
+    ],
+    [
+      "157002999",
+      {"key": "157002999"}
+    ],
+    [
+      "157003000",
+      {"key": "157003000"}
+    ],
+    [
+      "157003001",
+      {"key": "157003001"}
+    ],
+    [
+      "157003002",
+      {"key": "157003002"}
+    ],
+    [
+      "157003003",
+      {"key": "157003003"}
+    ],
+    [
+      "157003004",
+      {"key": "157003004"}
+    ],
+    [
+      "157003005",
+      {"key": "157003005"}
+    ],
+    [
+      "157003006",
+      {"key": "157003006"}
+    ],
+    [
+      "157003007",
+      {"key": "157003007"}
+    ],
+    [
+      "157003008",
+      {"key": "157003008"}
+    ],
+    [
+      "157003009",
+      {"key": "157003009"}
+    ],
+    [
+      "157003010",
+      {"key": "157003010"}
+    ],
+    [
+      "157003011",
+      {"key": "157003011"}
+    ],
+    [
+      "157003012",
+      {"key": "157003012"}
+    ],
+    [
+      "157003013",
+      {"key": "157003013"}
+    ],
+    [
+      "157003014",
+      {"key": "157003014"}
+    ],
+    [
+      "157003015",
+      {"key": "157003015"}
+    ],
+    [
+      "157003016",
+      {"key": "157003016"}
+    ],
+    [
+      "157003017",
+      {"key": "157003017"}
+    ],
+    [
+      "157003018",
+      {"key": "157003018"}
+    ],
+    [
+      "157003019",
+      {"key": "157003019"}
+    ],
+    [
+      "157003020",
+      {"key": "157003020"}
+    ],
+    [
+      "157003021",
+      {"key": "157003021"}
+    ],
+    [
+      "157003022",
+      {"key": "157003022"}
+    ],
+    [
+      "157003023",
+      {"key": "157003023"}
+    ],
+    [
+      "157003024",
+      {"key": "157003024"}
+    ],
+    [
+      "157003025",
+      {"key": "157003025"}
+    ],
+    [
+      "157003026",
+      {"key": "157003026"}
+    ],
+    [
+      "157003027",
+      {"key": "157003027"}
+    ],
+    [
+      "157003028",
+      {"key": "157003028"}
+    ],
+    [
+      "157003029",
+      {"key": "157003029"}
+    ],
+    [
+      "157003030",
+      {"key": "157003030"}
+    ],
+    [
+      "157003031",
+      {"key": "157003031"}
+    ],
+    [
+      "157003032",
+      {"key": "157003032"}
+    ],
+    [
+      "157003033",
+      {"key": "157003033"}
+    ],
+    [
+      "157003034",
+      {"key": "157003034"}
+    ],
+    [
+      "157003035",
+      {"key": "157003035"}
+    ],
+    [
+      "157003036",
+      {"key": "157003036"}
+    ],
+    [
+      "157003038",
+      {"key": "157003038"}
+    ],
+    [
+      "157003040",
+      {"key": "157003040"}
+    ],
+    [
+      "157003041",
+      {"key": "157003041"}
+    ],
+    [
+      "157003044",
+      {"key": "157003044"}
+    ],
+    [
+      "157003046",
+      {"key": "157003046"}
+    ],
+    [
+      "157003048",
+      {"key": "157003048"}
+    ],
+    [
+      "157003050",
+      {"key": "157003050"}
+    ],
+    [
+      "157003052",
+      {"key": "157003052"}
+    ],
+    [
+      "157003054",
+      {"key": "157003054"}
+    ],
+    [
+      "157003056",
+      {"key": "157003056"}
+    ],
+    [
+      "157003058",
+      {"key": "157003058"}
+    ],
+    [
+      "157003059",
+      {"key": "157003059"}
+    ],
+    [
+      "157003062",
+      {"key": "157003062"}
+    ],
+    [
+      "157003064",
+      {"key": "157003064"}
+    ],
+    [
+      "157003066",
+      {"key": "157003066"}
+    ],
+    [
+      "157003068",
+      {"key": "157003068"}
+    ],
+    [
+      "157003069",
+      {"key": "157003069"}
+    ],
+    [
+      "157003072",
+      {"key": "157003072"}
+    ],
+    [
+      "157003073",
+      {"key": "157003073"}
+    ],
+    [
+      "157003076",
+      {"key": "157003076"}
+    ],
+    [
+      "157003077",
+      {"key": "157003077"}
+    ],
+    [
+      "157003080",
+      {"key": "157003080"}
+    ],
+    [
+      "157003082",
+      {"key": "157003082"}
+    ],
+    [
+      "157003083",
+      {"key": "157003083"}
+    ],
+    [
+      "157003085",
+      {"key": "157003085"}
+    ],
+    [
+      "157003087",
+      {"key": "157003087"}
+    ],
+    [
+      "157003089",
+      {"key": "157003089"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/13daines",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Daines enseña principios para ayudarnos a ver mejor al Salvador y a entender el amor de Dios.",
+          "title": "Señor, nos gustaría ver a Jesús"
+        },
+        "pageSocial": {
+          "description": "El élder Daines enseña principios para ayudarnos a ver mejor al Salvador y a entender el amor de Dios.",
+          "title": "Señor, nos gustaría ver a Jesús"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/e3/9f/e39f5afe746cd8b82b43af351910cfb24ba31abc/e39f5afe746cd8b82b43af351910cfb24ba31abc.jpeg\" data-video-title=\"Señor, nos gustaría ver a Jesús\" data-video-description=\"El élder Daines enseña principios para ayudarnos a ver mejor al Salvador y a entender el amor de Dios.\" data-video-id=\"6338156534112\" data-ip=\"Download and Streaming                            \" data-duration=\"622757\" data-assetId=\"ba1a13075fbe11ee95cceeeeac1e299f595259b9\" data-ref-id=\"19BF29F2619DC52CBEEF36CDA701740163113666\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338156534112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"208483580\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57755808\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"149799724\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"208483580\"/><\/video><h1 data-aid=\"157002961\" id=\"title1\">Señor, nos gustaría ver a Jesús<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"157002962\" id=\"author1\">Por el élder Robert M. Daines<\/p>\n<p class=\"author-role\" data-aid=\"157002963\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"157002964\" id=\"kicker1\">Queremos ver a Jesús tal como Él es y sentir Su amor.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section>\n<header>\n<h2 data-aid=\"157002965\" id=\"title2\">Ceguera facial<\/h2>\n<\/header>\n<p data-aid=\"157002966\" id=\"p1\">Un día, en la primavera de 1945, un joven se despertó en un hospital militar; tenía la fortuna de estar vivo. Había recibido un disparo justo detrás de la oreja, pero los médicos lo habían operado y ahora podía caminar y hablar con normalidad.<\/p>\n<p data-aid=\"157002967\" id=\"p2\">Por desgracia, la bala había dañado la parte de su cerebro que reconocía los rostros. Ahora el joven miraba a su esposa sin poder identificarla y no podía reconocer a su propia madre. Hasta el rostro que veía en el espejo le resultaba extraño y no podía decir si era el rostro de un hombre o de una mujer<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"157002968\" id=\"p3\">Había desarrollado ceguera facial, un problema que afecta a millones de personas<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"157002969\" id=\"p4\">Las personas con ceguera facial grave intentan identificar a otras personas memorizando reglas: una regla para reconocer a una hija por la forma de sus pecas o a un amigo por la forma en que arrastra los pies al caminar.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002970\" id=\"title3\">Mientras crecía<\/h2>\n<\/header>\n<p data-aid=\"157002971\" id=\"p5\">Voy a contarles un segundo relato, mucho más personal: cuando yo era niño, solía pensar que mi mamá era quien fijaba las reglas. Ella decidía cuándo yo podía jugar y cuándo debía irme a la cama o, lo que era peor, arrancar las malas hierbas del jardín.<\/p>\n<p data-aid=\"157002972\" id=\"p6\">Obviamente, ella me quería, pero con demasiada frecuencia, y para mi vergüenza, la veía solamente como \u201cella, a quien se debe obedecer\u201d.<\/p>\n<p data-aid=\"157002973\" id=\"p7\">No fue hasta años más tarde que pude verla como una persona real. Me avergüenza decir que nunca vi su sacrificio ni me pregunté por qué, durante años, ella solamente usaba las dos mismas faldas viejas (aunque yo sí recibía ropa nueva para la escuela), ni por qué, al final del día, estaba tan cansada y ansiosa por que yo me fuera a la cama temprano.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002974\" id=\"title4\">Quizás tengamos ceguera facial<\/h2>\n<\/header>\n<p data-aid=\"157002975\" id=\"p8\">Quizás se hayan dado cuenta de que estos dos relatos, en realidad, son el mismo: durante demasiados años sufrí, en efecto, de ceguera facial. No fui capaz de ver a mi mamá como una persona real. Veía sus reglas, pero no percibía en ellas su amor.<\/p>\n<p data-aid=\"157002976\" id=\"p9\">Les cuento estos dos relatos para hacer una observación: supongo que ustedes conocen a alguien (quizás ustedes <em>sean<\/em> ese alguien) que sufre una especie de ceguera facial espiritual.<\/p>\n<p data-aid=\"157002977\" id=\"p10\">Quizás les cueste ver a Dios como un Padre amoroso. Quizás miren al cielo y no vean el rostro del amor y la misericordia, sino una maraña de reglas por las que deben abrirse paso. Quizás crean que Dios gobierna en Su cielo, habla a través de Sus profetas y ama a la hermana de ustedes, pero en secreto se preguntan si Él los ama a ustedes<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Quizás hayan sentido la barra de hierro en su mano, pero todavía no han sentido el amor de su Salvador al cual esta barra conduce<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"157002978\" id=\"p11\">Supongo que conocen a personas así porque, durante mucho tiempo, yo <em>fui<\/em> alguien así: tenía ceguera facial espiritual.<\/p>\n<p data-aid=\"157002979\" id=\"p12\">Creía que mi vida consistía en seguir reglas y estar a la altura de unos criterios abstractos. Sabía que Dios los amaba a <em>ustedes<\/em> perfectamente, pero yo no sentía ese amor. Me temo que pensaba más en cómo llegar al cielo que en estar con mi Padre Celestial.<\/p>\n<p data-aid=\"157002980\" id=\"p13\">Si ustedes, como yo, a veces solamente pueden mover los labios, pero no \u201ccantar la canción del amor que redime\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>, ¿qué podemos hacer?<\/p>\n<p data-aid=\"157002981\" id=\"p14\">La respuesta, tal como nos recuerda el presidente Russell M. Nelson, siempre es Jesús<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>; y esa es una muy buena noticia.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002982\" id=\"title5\">Señor, nos gustaría ver a Jesús<\/h2>\n<\/header>\n<p data-aid=\"157002983\" id=\"p16\">En Juan hay un breve versículo que me encanta. En él se habla de un grupo de extranjeros que se acercaron a un discípulo con una petición importante. \u201cSeñor\u201d, dijeron ellos, \u201c[nos gustaría] ver a Jesús\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"157002984\" id=\"p17\">Eso es lo que todos queremos: queremos ver a Jesús tal como Él es y sentir Su amor. Este debería ser el motivo para la mayoría de lo que hacemos en la Iglesia e indudablemente en cada reunión sacramental. Si alguna vez se preguntan qué tipo de lección deben enseñar, qué tipo de reunión deben planificar y si simplemente se rinden o no a los diáconos y van a jugar al fútbol con ellos, quizás podrían tomar ese versículo como guía: ¿ayudará eso a las personas a ver y a amar a Jesucristo? Si no es así, quizás deberían probar otra cosa.<\/p>\n<p data-aid=\"157002985\" id=\"p19\">Cuando me di cuenta de que sufría de ceguera facial espiritual, que veía reglas, pero no el rostro de la misericordia del Padre, sabía que eso no era culpa de la Iglesia, que no era culpa de Dios y que no significaba que todo estuviera perdido; es algo que <em>todos<\/em> tenemos que aprender. Incluso los primeros testigos de la Resurrección con frecuencia se encontraron cara a cara con el Señor resucitado, pero no lo reconocieron. Desde el huerto del sepulcro hasta la orilla del mar de Galilea, Sus primeros seguidos \u201cvi[eron] a Jesús que estaba allí; pero no sabía[n] que era Jesús\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Tuvieron que aprender a reconocerlo y nosotros también debemos aprender<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002986\" id=\"title6\">Caridad<\/h2>\n<\/header>\n<p data-aid=\"157002987\" id=\"p20\">Cuando me di cuenta de que sufría de ceguera facial espiritual, empecé a seguir el consejo de Mormón, de orar \u201ccon toda la energía de [mi] coraz[ón]\u201d para ser lleno del amor prometido a Sus discípulos \u2014mi amor por Él y el amor de Él por mí\u2014 y para \u201cver[lo] tal como es [\u2026] [y] ten[er] esa esperanza\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Oré durante años para ser capaz de seguir el primer gran mandamiento de amar a Dios y de sentir esa \u201cprimera gran <em>verdad<\/em> [\u2026] [de] que Dios <em>nos<\/em> ama con todo <em>Su<\/em> corazón, alma, mente y fuerza\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002988\" id=\"title7\">Los Evangelios<\/h2>\n<\/header>\n<p data-aid=\"157002989\" id=\"p21\">También leí y releí y volví a leer los cuatro Evangelios, esta vez ya no para extraer reglas, sino para ver quién es Él y qué ama Él. Y, con el tiempo, fui arrastrado por el río del amor que fluía desde Él.<\/p>\n<p data-aid=\"157002990\" id=\"p53\">Jesús anunció desde un principio que Él había venido a \u201csanar a los quebrantados de corazón, a pregonar libertad a los cautivos y dar vista a los ciegos\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"157002991\" id=\"p44\">Aquello no era simplemente una lista de tareas pendientes o buena publicidad, es la forma de Su amor.<\/p>\n<p data-aid=\"157002992\" id=\"p50\">Abran los Evangelios al azar; en casi cada página lo vemos cuidando de las personas que sufren, social, espiritual y físicamente. Él toca a personas consideradas sucias e impuras<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> y da de comer a los hambrientos<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"157002993\" id=\"p24\">¿Cuál es su relato favorito de Jesús? Supongo que es un relato que muestra al Hijo de Dios extendiendo los brazos a alguien marginado: el leproso<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, la samaritana detestada<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>, el pecador acusado y escandaloso<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> o el enemigo nacional<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Esa clase de gracia es asombrosa.<\/p>\n<p data-aid=\"157002994\" id=\"p51\">Si tratan de anotar todas las veces que Él elogia o sana a marginados, o come con ellos, se quedarán casi sin tinta antes de terminar Lucas.<\/p>\n<p data-aid=\"157002995\" id=\"p25\">Al ver esto, mi corazón dio un salto al reconocerme con amor entre ellos y empecé a sentir que es posible que Él me ame. Como enseñó el presidente Nelson: \u201cCuanto más aprendan acerca del Salvador, más fácil será confiar en Su misericordia, Su amor infinito\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Y más confiarán en su Padre Celestial y lo amarán.<\/p>\n<p data-aid=\"157002996\" id=\"p45\">El élder Jeffrey R. Holland nos ha enseñado que Jesús vino para \u201censeña[rnos] quién es y cómo es Dios nuestro Padre Eterno, cuán intensamente se dedica a Sus hijos\u201d de toda edad y nación<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"157002997\" id=\"p27\">Pablo dice que Dios es el \u201cPadre de [todas las] misericordias y Dios de toda consolación\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"157002998\" id=\"p46\">Si lo ven a Él de otra manera, por favor, sigan intentando verlo así.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157002999\" id=\"title8\">Los convenios y el abrazo de Dios<\/h2>\n<\/header>\n<p data-aid=\"157003000\" id=\"p28\">Los profetas nos invitan a buscar Su rostro<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. Considero esto un recordatorio de que adoramos a nuestro Padre, no una fórmula, y que no habremos terminado sino hasta que veamos a Jesús como el rostro del amor de nuestro Padre<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> y lo sigamos a Él, no solamente a Sus reglas<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"157003001\" id=\"p29\">Cuando los profetas y apóstoles hablan de los convenios, no lo hacen como entrenadores que nos gritan desde las gradas (de terciopelo rojo), diciéndonos que lo intentemos con más ahínco. Ellos quieren que veamos que nuestros convenios son fundamentalmente sobre las relaciones<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> y que pueden ser una cura para la ceguera facial espiritual<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. No son reglas para ganarnos Su amor; Él ya los ama a ustedes perfectamente. Nuestro desafío es entender y moldear nuestra vida a ese amor<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"157003002\" id=\"p52\">Tratamos de ver a través de nuestros convenios, como a través de una ventana, a la misericordia detrás del rostro del Padre.<\/p>\n<p data-aid=\"157003003\" id=\"p30\">Los convenios tienen la forma del abrazo de Dios.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"157003004\" id=\"p32\">El río del amor de Dios<\/h2>\n<\/header>\n<p data-aid=\"157003005\" id=\"p54\">Por último, podemos aprender a verlo por medio de nuestro servicio a Él. \u201cPorque ¿cómo conoce un hombre al amo a quien no ha servido?\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"157003006\" id=\"p33\">Hace unos años, se me dio un llamamiento para el cual no me sentía capacitado. Me desperté temprano y nervioso, pero con una frase en la mente que no había oído antes: que servir en esta Iglesia es como estar de pie en el río del amor de Dios por Sus hijos. Esta Iglesia es un equipo de trabajo con picos y palas, intentando retirar los obstáculos para que el río del amor de Dios fluya hasta llegar a Sus hijos.<\/p>\n<p data-aid=\"157003007\" id=\"p49\">Sean quienes sean, sea cual sea su pasado, hay un sitio para ustedes en esta Iglesia<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"157003008\" id=\"p34\">Tomen un pico y una pala y únanse al equipo. Ayuden a llevar Su amor a Sus hijos y algo de ese amor les llegará a ustedes<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>.<\/p>\n<p data-aid=\"157003009\" id=\"p35\">Busquemos Su rostro amoroso, Su abrazo al hacer convenios y luego caminemos del brazo con Sus hijos y juntos cantaremos \u201cOh Dios de Israel\u201d:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"157003010\" id=\"p36\">Mi Salvador, restaura<\/p>\n<p class=\"line\" data-aid=\"157003011\" id=\"p37\">la luz de Tu faz;<\/p>\n<p class=\"line\" data-aid=\"157003012\" id=\"p38\">infunde consuelo a mi ser.<\/p>\n<p class=\"line\" data-aid=\"157003013\" id=\"p39\">Que la dulce añoranza<\/p>\n<p class=\"line\" data-aid=\"157003014\" id=\"p40\">de Tu santo lugar<\/p>\n<p class=\"line\" data-aid=\"157003015\" id=\"p41\">esperanza a mi corazón dé<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"157003016\" id=\"p42\">Ruego que busquemos Su rostro amoroso y luego seamos vasos de Su misericordia para Sus hijos<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"157003017\" id=\"notetitle1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"157003018\" id=\"note1_p1\">Véase Hadyn D. Ellis y Melanie Florence, \u201cBodamer\u2019s (1947) Paper on Prosopagnosia\u201d, <cite>Cognitive Neuropsychology<\/cite>, tomo VII, nro. 2, 1990, págs. 84\u201391; Joshua Davis, \u201cFace Blind\u201d, <cite>Wired<\/cite>, 1 de noviembre de 2006, wired.com.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"157003019\" id=\"note2_p1\">Véase Dennis Nealon, \u201cHow Common Is Face Blindness?\u201d, <cite>Harvard Medical School<\/cite>, 24 de febrero de 2023, hms.harvard.edu; Oliver Sacks, \u201cFace-Blind\u201d, <cite>The New Yorker<\/cite>, 23 de agosto de 2010, newyorker.com.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"157003020\" id=\"note3_p1\">\u201cAlgunos miembros de la Iglesia aceptan como verdaderos la doctrina, los principios y los testimonios que se proclaman repetidamente desde este púlpito del Centro de Conferencias y en las congregaciones locales en todo el mundo. Sin embargo, puede que les cueste creer que esas verdades eternas se aplican específicamente a su vida y sus circunstancias\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/57bednar?lang=spa\">Permanec[e] en mí, y yo en ti; por tanto, anda conmigo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 125).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"157003021\" id=\"note4_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=spa#p19\">1 Nefi 8:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23?lang=spa#p23\">15:23<\/a>. \u201cEs difícil cumplir los mandamientos del Señor cuando no se tiene fe en Él ni se confía en Él\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/38eyring?lang=spa\">La fe para pedir y entonces actuar<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 75).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"157003022\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"157003023\" id=\"note6_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/58nelson?lang=spa\">La respuesta siempre es Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 127\u2013128.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"157003024\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.21?lang=spa#p21\">Juan 12:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"157003025\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=spa#p14\">Juan 20:14<\/a>. Vieron a Jesucristo, pero no lo reconocieron, en el camino a Emaús (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.16?lang=spa#p16\">Lucas 24:16<\/a>), en un cuarto cerrado (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.37?lang=spa#p37\">Lucas 24:37<\/a>), en la orilla del mar de Galilea (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21.4?lang=spa#p4\">Juan 21:4<\/a>) y en el huerto del sepulcro (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=spa#p14\">Juan 20:14<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"157003026\" id=\"note9_p1\">Si lo buscamos a Él con todo el corazón y seguimos adelante con fe, lo hallaremos.<\/p>\n<p data-aid=\"157003027\" id=\"note9_p4\">\u201cPorque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz y no de mal [\u2026];<\/p>\n<p data-aid=\"157003028\" id=\"note9_p5\">\u201cy me buscaréis y me hallaréis cuando me busquéis con todo vuestro corazón\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11,13?lang=spa#p11\">Jeremías 29:11, 13<\/a>).<\/p>\n<p data-aid=\"157003029\" id=\"note9_p2\">\u201cEl día vendrá en que comprenderéis aun a Dios, siendo vivificados en él y por él.<\/p>\n<p data-aid=\"157003030\" id=\"note9_p6\">Entonces sabréis que me habéis visto, que yo soy\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.49-50?lang=spa#p49\">Doctrina y Convenios 88:49\u201350<\/a>).<\/p>\n<p data-aid=\"157003031\" id=\"note9_p3\">\u201cToda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.1?lang=spa#p1\">Doctrina y Convenios 93:1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"157003032\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=spa#p48\">Moroni 7:48<\/a>. Pablo también relaciona la caridad con nuestra capacidad de ver claramente. Al concluir su gran sermón sobre la caridad, escribe que, aunque \u201cahora vemos por espejo, oscuramente\u201d, más adelante \u201cveremos cara a cara [\u2026]; entonces conoceré como fui conocido\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.12?lang=spa#p12\">1 Corintios 13:12<\/a>).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"157003033\" id=\"note11_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=spa\">Jehová hará mañana maravillas entre vosotros<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2016, pág. 127. \u201cLa definición más amplia del \u2018amor puro de Cristo\u2019 [\u2026] no es lo que nosotros como cristianos intentamos, la mayoría de las veces sin éxito, demostrar a los demás, sino lo que Cristo logró completamente demostrarnos a nosotros. La caridad <em>verdadera<\/em> se ha visto solo una vez. Quedó demostrada en forma perfecta y pura en el amor inagotable, supremo y expiatorio de Cristo por nosotros\u201d (Jeffrey R. Holland, <cite>Christ and the New Covenant: The Messianic Message of the Book of Mormon<\/cite>, 1997, pág. 336).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"157003034\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.18?lang=spa#p18\">Lucas 4:18</a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"157003035\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.3?lang=spa#p3\">Mateo 8:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.25?lang=spa#p25\">9:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"157003036\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.13-21?lang=spa#p13\">Mateo 14:13\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"157003038\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.1-3?lang=spa#p1\">Mateo 8:1\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"157003040\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7-10?lang=spa#p7\">Juan 4:7\u201310<\/a>; Él elogió al samaritano (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.25-37?lang=spa#p25\">Lucas 10:25\u201337<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"157003041\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.31?lang=spa#p31\">Mateo 21:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.27-50?lang=spa#p27\">Lucas 7:27\u201350<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15.1-10?lang=spa#p1\">15:1\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.2-12?lang=spa#p2\">Juan 8:2\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"157003044\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.5-13?lang=spa#p5\">Mateo 8:5\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"157003046\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=spa\">Cristo ha resucitado; la fe en Él moverá montes<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021, pág. 103.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"157003048\" id=\"note20_p1\">Véase Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/the-grandeur-of-god?lang=spa\">La grandiosidad de Dios<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2003, pág. 70. \u201cEl que me ha visto a mí, ha visto al Padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.9?lang=spa#p9\">Juan 14:9<\/a>).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"157003050\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1.3?lang=spa#p3\">2 Corintios 1:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"157003052\" id=\"note22_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.8?lang=spa#p8\">Salmo 27:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.68?lang=spa#p68\">Doctrina y Convenios 88:68<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"157003054\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4.6?lang=spa#p6\">2 Corintios 4:6<\/a>; papa Francisco, \u201cMisericordiae Vultus: Bull of Indiction of the Extraordinary Jubilee of Mercy\u201d, <cite>Cartas Apostólicas<\/cite>, vatican.va.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"157003056\" id=\"note24_p1\">Este es un tema importante. No se trata solamente de <em>la<\/em> obra de salvación y exaltación, sino de <em>Su<\/em> obra de salvación y exaltación (véase <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;para=title4#title4\">1.2<\/a>, Biblioteca del Evangelio). No voy simplemente a un templo, sino a la Casa del Señor; no es la Iglesia mormona, sino la Iglesia de Jesucristo (véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa\">El nombre correcto de la Iglesia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 87\u201389). Nuestros líderes nos señalan hacia Él e incluso nos recuerdan que \u201cno existe una entidad amorfa llamada \u2018la Expiación\u2019 a la que podamos acudir en busca de socorro, sanación, perdón o poder. Jesucristo es la fuente\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 40).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"157003058\" id=\"note25_p1\">\u201cLa senda de los convenios se trata ante todo de nuestra relación con Dios\u201d; es la \u201csenda de amor [\u2026], cuidar de forma compasiva unos de otros y tendernos la mano unos a otros\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 11).<\/p>\n<p data-aid=\"157003059\" id=\"note25_p2\">Véase David A. Bednar, \u201cThe Blessed and Happy State\u201d (discurso dado en el seminario para nuevos líderes de misión, 24 de junio de 2022); Scott Taylor, \u201cElder Bednar Shares 7 Lessons on \u2018the Blessed and Happy State\u2019 of Obedience\u201d, <em>Church News<\/em>, 27 de junio de 2022, thechurchnews.com.<\/p>\n<p data-aid=\"157003062\" id=\"note25_p3\">\u201cEl hacer convenios sagrados y recibir dignamente las ordenanzas del sacerdocio nos sujeta en un yugo con el Señor Jesucristo y el Padre Celestial, y nos une a Ellos. Esto, sencillamente, significa que confiamos en el Salvador como nuestro Abogado y Mediador, y que tenemos confianza en Sus méritos, misericordia y gracia durante la trayectoria de la vida [\u2026].<\/p>\n<p data-aid=\"157003064\" id=\"note25_p4\">\u201cEl vivir y amar los compromisos de los convenios crea una conexión con el Señor que es profundamente personal y espiritualmente poderosa [\u2026]. Entonces Jesús se convierte en mucho más que el personaje central de los relatos de las Escrituras: Su ejemplo y Sus enseñanzas influyen en todos nuestros deseos, pensamientos y acciones\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/14bednar?lang=spa\">Pero no les hicimos caso<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 15).<\/p>\n<p data-aid=\"157003066\" id=\"note25_p5\">Véase también D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/41christofferson?lang=spa\">Nuestra relación con Dios<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 78-80.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"157003068\" id=\"note26_p1\">\u201cY sin sus ordenanzas y la autoridad del sacerdocio, el poder de la divinidad no se manifiesta a los hombres en la carne;<\/p>\n<p data-aid=\"157003069\" id=\"note26_p2\">\u201cporque sin esto, ningún hombre puede ver la faz de Dios, sí, el Padre, y vivir\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.21-22?lang=spa#p21\">Doctrina y Convenios 84:21\u201322<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"157003072\" id=\"note27_p1\">Patricia Holland, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=spa\">Un futuro lleno de esperanza<\/a>\u201d, devocional mundial para jóvenes adultos, 8 de enero de 2023, Biblioteca del Evangelio.<\/p>\n<p data-aid=\"157003073\" id=\"note27_p2\">\u201cNo se tiene que correr detrás de [la esperanza en que Él los ayudará] y no se puede ni se tiene que fabricar. Como muchas cosas en el ámbito de la gracia, no lo obtendrán por confiar en su propia fortaleza ni en la de otras personas. No es cuestión de fórmulas secretas ni mantras mágicos [\u2026].<\/p>\n<p data-aid=\"157003076\" id=\"note27_p3\">\u201cDe hecho, la función que tenemos en ello es importante, pero en realidad muy pequeña; Dios tiene la porción más grande de la tarea. Nuestra parte consiste en venir a Él en humildad y simplicidad y luego en no preocuparnos ni temer\u201d.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"157003077\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.13?lang=spa#p13\">Mosíah 5:13<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.3?lang=spa#p3\">Juan 17:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"157003080\" id=\"note29_p1\">El presidente Nelson nos ha exhortado repetidamente a \u201censanchar nuestro círculo de amor para abarcar a toda la familia humana\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=spa\">Bienaventurados los pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2002, pág. 41). En mayo de 2022, dijo a los jóvenes adultos que las \u201cetiquetas nos llevan a juzgarnos unos a otros y a enemistarnos. ¡Cualquier forma de <em>abuso<\/em> o <em>prejuicio<\/em> hacia otra persona debido a su nacionalidad, raza, orientación sexual, sexo, nivel de educación, cultura o cualquier otro identificador importante es ofensivo para nuestro Hacedor!\u201d (\u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, [devocional mundial para jóvenes adultos, 15 de mayo de 2022], Biblioteca del Evangelio). Y solemnemente dijo: \u201cMe llena de pesar que nuestros hermanos y hermanas de raza negra de todo el mundo estén sufriendo los dolores del racismo y el prejuicio. Hago un llamado a nuestros miembros de todas partes para que pongan el ejemplo de abandonar las actitudes y acciones de prejuicio. Les ruego que promuevan el respeto hacia todos los hijos de Dios\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94).<\/p>\n<p data-aid=\"157003082\" id=\"note29_p2\">\u201cLos prejuicios no están en armonía con la palabra revelada de Dios. La aprobación o la desaprobación de Dios depende de nuestra devoción a Él y a Sus mandamientos, no del color de la piel ni de otros atributos. [\u2026]<\/p>\n<p data-aid=\"157003083\" id=\"note29_p3\">\u201cEso abarca los prejuicios que se basan en la raza, el origen étnico, la nacionalidad, la tribu, el sexo, la edad, la discapacidad, el nivel socioeconómico, las creencias religiosas o la falta de ellas, y la orientación sexual\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=spa&amp;para=title97#title97\">38.6.14<\/a>, Biblioteca del Evangelio).<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"157003085\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=spa#p25\">1 Nefi 11:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"157003087\" id=\"note31_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/hymns/redeemer-of-israel?lang=spa\">Redeemer of Israel<\/a>\u201d, <cite>Hymns<\/cite>, nro. 6.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"157003089\" id=\"note32_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/9.23?lang=spa#p23\">Romanos 9:23<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "157002977",
+        "id": "note4",
+        "text": "<p data-aid=\"157003021\" id=\"note4_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=spa#p19\">1 Nefi 8:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23?lang=spa#p23\">15:23<\/a>. \u201cEs difícil cumplir los mandamientos del Señor cuando no se tiene fe en Él ni se confía en Él\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/38eyring?lang=spa\">La fe para pedir y entonces actuar<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 75).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.19?lang=spa#p19",
+            "text": "1 Nefi 8:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/15.23?lang=spa#p23",
+            "text": "15:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2021/10/38eyring?lang=spa",
+            "text": "La fe para pedir y entonces actuar",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "157002980",
+        "id": "note5",
+        "text": "<p data-aid=\"157003022\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=spa#p26\">Alma 5:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.26?lang=spa#p26",
+          "text": "Alma 5:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "157002968",
+        "id": "note2",
+        "text": "<p data-aid=\"157003019\" id=\"note2_p1\">Véase Dennis Nealon, \u201cHow Common Is Face Blindness?\u201d, <cite>Harvard Medical School<\/cite>, 24 de febrero de 2023, hms.harvard.edu; Oliver Sacks, \u201cFace-Blind\u201d, <cite>The New Yorker<\/cite>, 23 de agosto de 2010, newyorker.com.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "157002977",
+        "id": "note3",
+        "text": "<p data-aid=\"157003020\" id=\"note3_p1\">\u201cAlgunos miembros de la Iglesia aceptan como verdaderos la doctrina, los principios y los testimonios que se proclaman repetidamente desde este púlpito del Centro de Conferencias y en las congregaciones locales en todo el mundo. Sin embargo, puede que les cueste creer que esas verdades eternas se aplican específicamente a su vida y sus circunstancias\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/57bednar?lang=spa\">Permanec[e] en mí, y yo en ti; por tanto, anda conmigo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 125).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/57bednar?lang=spa",
+          "text": "Permanec[e] en mí, y yo en ti; por tanto, anda conmigo",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "157002985",
+        "id": "note8",
+        "text": "<p data-aid=\"157003025\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=spa#p14\">Juan 20:14<\/a>. Vieron a Jesucristo, pero no lo reconocieron, en el camino a Emaús (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.16?lang=spa#p16\">Lucas 24:16<\/a>), en un cuarto cerrado (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.37?lang=spa#p37\">Lucas 24:37<\/a>), en la orilla del mar de Galilea (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21.4?lang=spa#p4\">Juan 21:4<\/a>) y en el huerto del sepulcro (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=spa#p14\">Juan 20:14<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/20.14?lang=spa#p14",
+            "text": "Juan 20:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/24.16?lang=spa#p16",
+            "text": "Lucas 24:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/24.37?lang=spa#p37",
+            "text": "Lucas 24:37",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/21.4?lang=spa#p4",
+            "text": "Juan 21:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/20.14?lang=spa#p14",
+            "text": "Juan 20:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "157002985",
+        "id": "note9",
+        "text": "<p data-aid=\"157003026\" id=\"note9_p1\">Si lo buscamos a Él con todo el corazón y seguimos adelante con fe, lo hallaremos.<\/p>\n<p data-aid=\"157003027\" id=\"note9_p4\">\u201cPorque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz y no de mal [\u2026];<\/p>\n<p data-aid=\"157003028\" id=\"note9_p5\">\u201cy me buscaréis y me hallaréis cuando me busquéis con todo vuestro corazón\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11,13?lang=spa#p11\">Jeremías 29:11, 13<\/a>).<\/p>\n<p data-aid=\"157003029\" id=\"note9_p2\">\u201cEl día vendrá en que comprenderéis aun a Dios, siendo vivificados en él y por él.<\/p>\n<p data-aid=\"157003030\" id=\"note9_p6\">Entonces sabréis que me habéis visto, que yo soy\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.49-50?lang=spa#p49\">Doctrina y Convenios 88:49\u201350<\/a>).<\/p>\n<p data-aid=\"157003031\" id=\"note9_p3\">\u201cToda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.1?lang=spa#p1\">Doctrina y Convenios 93:1<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/29.11,13?lang=spa#p11",
+            "text": "Jeremías 29:11, 13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.49-50?lang=spa#p49",
+            "text": "Doctrina y Convenios 88:49\u201350",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.1?lang=spa#p1",
+            "text": "Doctrina y Convenios 93:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "157002981",
+        "id": "note6",
+        "text": "<p data-aid=\"157003023\" id=\"note6_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/58nelson?lang=spa\">La respuesta siempre es Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 127\u2013128.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/58nelson?lang=spa",
+          "text": "La respuesta siempre es Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "157002983",
+        "id": "note7",
+        "text": "<p data-aid=\"157003024\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.21?lang=spa#p21\">Juan 12:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/12.21?lang=spa#p21",
+          "text": "Juan 12:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "157003008",
+        "id": "note30",
+        "text": "<p data-aid=\"157003085\" id=\"note30_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=spa#p25\">1 Nefi 11:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.25?lang=spa#p25",
+          "text": "1 Nefi 11:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "157002993",
+        "id": "note16",
+        "text": "<p data-aid=\"157003040\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7-10?lang=spa#p7\">Juan 4:7\u201310<\/a>; Él elogió al samaritano (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.25-37?lang=spa#p25\">Lucas 10:25\u201337<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/4.7-10?lang=spa#p7",
+            "text": "Juan 4:7\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/10.25-37?lang=spa#p25",
+            "text": "Lucas 10:25\u201337",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "157002993",
+        "id": "note15",
+        "text": "<p data-aid=\"157003038\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.1-3?lang=spa#p1\">Mateo 8:1\u20133<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.1-3?lang=spa#p1",
+          "text": "Mateo 8:1\u20133",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "157002992",
+        "id": "note14",
+        "text": "<p data-aid=\"157003036\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.13-21?lang=spa#p13\">Mateo 14:13\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/14.13-21?lang=spa#p13",
+          "text": "Mateo 14:13\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "157002992",
+        "id": "note13",
+        "text": "<p data-aid=\"157003035\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.3?lang=spa#p3\">Mateo 8:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.25?lang=spa#p25\">9:25<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/8.3?lang=spa#p3",
+            "text": "Mateo 8:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/9.25?lang=spa#p25",
+            "text": "9:25",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "157002990",
+        "id": "note12",
+        "text": "<p data-aid=\"157003034\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4.18?lang=spa#p18\">Lucas 4:18</a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/4.18?lang=spa#p18",
+            "text": "Lucas 4:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "157002987",
+        "id": "note11",
+        "text": "<p data-aid=\"157003033\" id=\"note11_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=spa\">Jehová hará mañana maravillas entre vosotros<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2016, pág. 127. \u201cLa definición más amplia del \u2018amor puro de Cristo\u2019 [\u2026] no es lo que nosotros como cristianos intentamos, la mayoría de las veces sin éxito, demostrar a los demás, sino lo que Cristo logró completamente demostrarnos a nosotros. La caridad <em>verdadera<\/em> se ha visto solo una vez. Quedó demostrada en forma perfecta y pura en el amor inagotable, supremo y expiatorio de Cristo por nosotros\u201d (Jeffrey R. Holland, <cite>Christ and the New Covenant: The Messianic Message of the Book of Mormon<\/cite>, 1997, pág. 336).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=spa",
+          "text": "Jehová hará mañana maravillas entre vosotros",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "157002987",
+        "id": "note10",
+        "text": "<p data-aid=\"157003032\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=spa#p48\">Moroni 7:48<\/a>. Pablo también relaciona la caridad con nuestra capacidad de ver claramente. Al concluir su gran sermón sobre la caridad, escribe que, aunque \u201cahora vemos por espejo, oscuramente\u201d, más adelante \u201cveremos cara a cara [\u2026]; entonces conoceré como fui conocido\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.12?lang=spa#p12\">1 Corintios 13:12<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7.48?lang=spa#p48",
+            "text": "Moroni 7:48",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/13.12?lang=spa#p12",
+            "text": "1 Corintios 13:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "157003016",
+        "id": "note32",
+        "text": "<p data-aid=\"157003089\" id=\"note32_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/9.23?lang=spa#p23\">Romanos 9:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/9.23?lang=spa#p23",
+          "text": "Romanos 9:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "157003015",
+        "id": "note31",
+        "text": "<p data-aid=\"157003087\" id=\"note31_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/hymns/redeemer-of-israel?lang=spa\">Redeemer of Israel<\/a>\u201d, <cite>Hymns<\/cite>, nro. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/hymns/redeemer-of-israel?lang=spa",
+          "text": "Redeemer of Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "157002995",
+        "id": "note19",
+        "text": "<p data-aid=\"157003046\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=spa\">Cristo ha resucitado; la fe en Él moverá montes<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021, pág. 103.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/49nelson?lang=spa",
+          "text": "Cristo ha resucitado; la fe en Él moverá montes",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "157002993",
+        "id": "note18",
+        "text": "<p data-aid=\"157003044\" id=\"note18_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.5-13?lang=spa#p5\">Mateo 8:5\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.5-13?lang=spa#p5",
+          "text": "Mateo 8:5\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "157002993",
+        "id": "note17",
+        "text": "<p data-aid=\"157003041\" id=\"note17_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.31?lang=spa#p31\">Mateo 21:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.27-50?lang=spa#p27\">Lucas 7:27\u201350<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15.1-10?lang=spa#p1\">15:1\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.2-12?lang=spa#p2\">Juan 8:2\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/21.31?lang=spa#p31",
+            "text": "Mateo 21:31",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/7.27-50?lang=spa#p27",
+            "text": "Lucas 7:27\u201350",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/15.1-10?lang=spa#p1",
+            "text": "15:1\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/8.2-12?lang=spa#p2",
+            "text": "Juan 8:2\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "157003001",
+        "id": "note27",
+        "text": "<p data-aid=\"157003072\" id=\"note27_p1\">Patricia Holland, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=spa\">Un futuro lleno de esperanza<\/a>\u201d, devocional mundial para jóvenes adultos, 8 de enero de 2023, Biblioteca del Evangelio.<\/p>\n<p data-aid=\"157003073\" id=\"note27_p2\">\u201cNo se tiene que correr detrás de [la esperanza en que Él los ayudará] y no se puede ni se tiene que fabricar. Como muchas cosas en el ámbito de la gracia, no lo obtendrán por confiar en su propia fortaleza ni en la de otras personas. No es cuestión de fórmulas secretas ni mantras mágicos [\u2026].<\/p>\n<p data-aid=\"157003076\" id=\"note27_p3\">\u201cDe hecho, la función que tenemos en ello es importante, pero en realidad muy pequeña; Dios tiene la porción más grande de la tarea. Nuestra parte consiste en venir a Él en humildad y simplicidad y luego en no preocuparnos ni temer\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=spa",
+          "text": "Un futuro lleno de esperanza",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "157003001",
+        "id": "note26",
+        "text": "<p data-aid=\"157003068\" id=\"note26_p1\">\u201cY sin sus ordenanzas y la autoridad del sacerdocio, el poder de la divinidad no se manifiesta a los hombres en la carne;<\/p>\n<p data-aid=\"157003069\" id=\"note26_p2\">\u201cporque sin esto, ningún hombre puede ver la faz de Dios, sí, el Padre, y vivir\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.21-22?lang=spa#p21\">Doctrina y Convenios 84:21\u201322<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.21-22?lang=spa#p21",
+          "text": "Doctrina y Convenios 84:21\u201322",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "157003001",
+        "id": "note25",
+        "text": "<p data-aid=\"157003058\" id=\"note25_p1\">\u201cLa senda de los convenios se trata ante todo de nuestra relación con Dios\u201d; es la \u201csenda de amor [\u2026], cuidar de forma compasiva unos de otros y tendernos la mano unos a otros\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 11).<\/p>\n<p data-aid=\"157003059\" id=\"note25_p2\">Véase David A. Bednar, \u201cThe Blessed and Happy State\u201d (discurso dado en el seminario para nuevos líderes de misión, 24 de junio de 2022); Scott Taylor, \u201cElder Bednar Shares 7 Lessons on \u2018the Blessed and Happy State\u2019 of Obedience\u201d, <em>Church News<\/em>, 27 de junio de 2022, thechurchnews.com.<\/p>\n<p data-aid=\"157003062\" id=\"note25_p3\">\u201cEl hacer convenios sagrados y recibir dignamente las ordenanzas del sacerdocio nos sujeta en un yugo con el Señor Jesucristo y el Padre Celestial, y nos une a Ellos. Esto, sencillamente, significa que confiamos en el Salvador como nuestro Abogado y Mediador, y que tenemos confianza en Sus méritos, misericordia y gracia durante la trayectoria de la vida [\u2026].<\/p>\n<p data-aid=\"157003064\" id=\"note25_p4\">\u201cEl vivir y amar los compromisos de los convenios crea una conexión con el Señor que es profundamente personal y espiritualmente poderosa [\u2026]. Entonces Jesús se convierte en mucho más que el personaje central de los relatos de las Escrituras: Su ejemplo y Sus enseñanzas influyen en todos nuestros deseos, pensamientos y acciones\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/14bednar?lang=spa\">Pero no les hicimos caso<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 15).<\/p>\n<p data-aid=\"157003066\" id=\"note25_p5\">Véase también D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/41christofferson?lang=spa\">Nuestra relación con Dios<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 78-80.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa",
+            "text": "El convenio sempiterno",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/14bednar?lang=spa",
+            "text": "Pero no les hicimos caso",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/41christofferson?lang=spa",
+            "text": "Nuestra relación con Dios",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "157003000",
+        "id": "note24",
+        "text": "<p data-aid=\"157003056\" id=\"note24_p1\">Este es un tema importante. No se trata solamente de <em>la<\/em> obra de salvación y exaltación, sino de <em>Su<\/em> obra de salvación y exaltación (véase <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;para=title4#title4\">1.2<\/a>, Biblioteca del Evangelio). No voy simplemente a un templo, sino a la Casa del Señor; no es la Iglesia mormona, sino la Iglesia de Jesucristo (véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa\">El nombre correcto de la Iglesia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 87\u201389). Nuestros líderes nos señalan hacia Él e incluso nos recuerdan que \u201cno existe una entidad amorfa llamada \u2018la Expiación\u2019 a la que podamos acudir en busca de socorro, sanación, perdón o poder. Jesucristo es la fuente\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 40).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;para=title4#title4",
+            "text": "1.2",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa",
+            "text": "El nombre correcto de la Iglesia",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa",
+            "text": "Cómo obtener el poder de Jesucristo en nuestra vida",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "157003000",
+        "id": "note23",
+        "text": "<p data-aid=\"157003054\" id=\"note23_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4.6?lang=spa#p6\">2 Corintios 4:6<\/a>; papa Francisco, \u201cMisericordiae Vultus: Bull of Indiction of the Extraordinary Jubilee of Mercy\u201d, <cite>Cartas Apostólicas<\/cite>, vatican.va.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/4.6?lang=spa#p6",
+          "text": "2 Corintios 4:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "157003000",
+        "id": "note22",
+        "text": "<p data-aid=\"157003052\" id=\"note22_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.8?lang=spa#p8\">Salmo 27:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.68?lang=spa#p68\">Doctrina y Convenios 88:68<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/27.8?lang=spa#p8",
+            "text": "Salmo 27:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.68?lang=spa#p68",
+            "text": "Doctrina y Convenios 88:68",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "157002997",
+        "id": "note21",
+        "text": "<p data-aid=\"157003050\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1.3?lang=spa#p3\">2 Corintios 1:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/1.3?lang=spa#p3",
+          "text": "2 Corintios 1:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "157002996",
+        "id": "note20",
+        "text": "<p data-aid=\"157003048\" id=\"note20_p1\">Véase Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/the-grandeur-of-god?lang=spa\">La grandiosidad de Dios<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2003, pág. 70. \u201cEl que me ha visto a mí, ha visto al Padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.9?lang=spa#p9\">Juan 14:9<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2003/10/the-grandeur-of-god?lang=spa",
+            "text": "La grandiosidad de Dios",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14.9?lang=spa#p9",
+            "text": "Juan 14:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "157002967",
+        "id": "note1",
+        "text": "<p data-aid=\"157003018\" id=\"note1_p1\">Véase Hadyn D. Ellis y Melanie Florence, \u201cBodamer\u2019s (1947) Paper on Prosopagnosia\u201d, <cite>Cognitive Neuropsychology<\/cite>, tomo VII, nro. 2, 1990, págs. 84\u201391; Joshua Davis, \u201cFace Blind\u201d, <cite>Wired<\/cite>, 1 de noviembre de 2006, wired.com.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "157003007",
+        "id": "note29",
+        "text": "<p data-aid=\"157003080\" id=\"note29_p1\">El presidente Nelson nos ha exhortado repetidamente a \u201censanchar nuestro círculo de amor para abarcar a toda la familia humana\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=spa\">Bienaventurados los pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2002, pág. 41). En mayo de 2022, dijo a los jóvenes adultos que las \u201cetiquetas nos llevan a juzgarnos unos a otros y a enemistarnos. ¡Cualquier forma de <em>abuso<\/em> o <em>prejuicio<\/em> hacia otra persona debido a su nacionalidad, raza, orientación sexual, sexo, nivel de educación, cultura o cualquier otro identificador importante es ofensivo para nuestro Hacedor!\u201d (\u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, [devocional mundial para jóvenes adultos, 15 de mayo de 2022], Biblioteca del Evangelio). Y solemnemente dijo: \u201cMe llena de pesar que nuestros hermanos y hermanas de raza negra de todo el mundo estén sufriendo los dolores del racismo y el prejuicio. Hago un llamado a nuestros miembros de todas partes para que pongan el ejemplo de abandonar las actitudes y acciones de prejuicio. Les ruego que promuevan el respeto hacia todos los hijos de Dios\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94).<\/p>\n<p data-aid=\"157003082\" id=\"note29_p2\">\u201cLos prejuicios no están en armonía con la palabra revelada de Dios. La aprobación o la desaprobación de Dios depende de nuestra devoción a Él y a Sus mandamientos, no del color de la piel ni de otros atributos. [\u2026]<\/p>\n<p data-aid=\"157003083\" id=\"note29_p3\">\u201cEso abarca los prejuicios que se basan en la raza, el origen étnico, la nacionalidad, la tribu, el sexo, la edad, la discapacidad, el nivel socioeconómico, las creencias religiosas o la falta de ellas, y la orientación sexual\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=spa&amp;para=title97#title97\">38.6.14<\/a>, Biblioteca del Evangelio).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=spa",
+            "text": "Bienaventurados los pacificadores",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa",
+            "text": "Decisiones para la eternidad",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/10/46nelson?lang=spa",
+            "text": "Que Dios prevalezca",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=spa&amp;para=title97#title97",
+            "text": "38.6.14",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "157003005",
+        "id": "note28",
+        "text": "<p data-aid=\"157003077\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.13?lang=spa#p13\">Mosíah 5:13<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.3?lang=spa#p3\">Juan 17:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.13?lang=spa#p13",
+            "text": "Mosíah 5:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/17.3?lang=spa#p3",
+            "text": "Juan 17:3",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

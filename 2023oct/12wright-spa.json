@@ -1,0 +1,724 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/12wright?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "fe97ddea001449f495b224baddacae33",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/12wright",
+      "data-aid": "156926510",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "347bd736d00044829dee4a82e0bca457"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/35/d3/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Aguantar el día en Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156926510",
+      {"key": "156926510"}
+    ],
+    [
+      "156992181",
+      {"key": "156992181"}
+    ],
+    [
+      "156992183",
+      {"key": "156992183"}
+    ],
+    [
+      "156992185",
+      {"key": "156992185"}
+    ],
+    [
+      "156992187",
+      {"key": "156992187"}
+    ],
+    [
+      "156992189",
+      {"key": "156992189"}
+    ],
+    [
+      "156992191",
+      {"key": "156992191"}
+    ],
+    [
+      "156992193",
+      {"key": "156992193"}
+    ],
+    [
+      "156992195",
+      {"key": "156992195"}
+    ],
+    [
+      "156992196",
+      {"key": "156992196"}
+    ],
+    [
+      "156992198",
+      {"key": "156992198"}
+    ],
+    [
+      "156992200",
+      {"key": "156992200"}
+    ],
+    [
+      "156992202",
+      {"key": "156992202"}
+    ],
+    [
+      "156992205",
+      {"key": "156992205"}
+    ],
+    [
+      "156992207",
+      {"key": "156992207"}
+    ],
+    [
+      "156992210",
+      {"key": "156992210"}
+    ],
+    [
+      "156992213",
+      {"key": "156992213"}
+    ],
+    [
+      "156992216",
+      {"key": "156992216"}
+    ],
+    [
+      "156992220",
+      {"key": "156992220"}
+    ],
+    [
+      "156992223",
+      {"key": "156992223"}
+    ],
+    [
+      "156992225",
+      {"key": "156992225"}
+    ],
+    [
+      "156992229",
+      {"key": "156992229"}
+    ],
+    [
+      "156992233",
+      {"key": "156992233"}
+    ],
+    [
+      "156992239",
+      {"key": "156992239"}
+    ],
+    [
+      "156992244",
+      {"key": "156992244"}
+    ],
+    [
+      "156992249",
+      {"key": "156992249"}
+    ],
+    [
+      "156992255",
+      {"key": "156992255"}
+    ],
+    [
+      "156992260",
+      {"key": "156992260"}
+    ],
+    [
+      "156992267",
+      {"key": "156992267"}
+    ],
+    [
+      "156992271",
+      {"key": "156992271"}
+    ],
+    [
+      "156992277",
+      {"key": "156992277"}
+    ],
+    [
+      "156992285",
+      {"key": "156992285"}
+    ],
+    [
+      "156992291",
+      {"key": "156992291"}
+    ],
+    [
+      "156992297",
+      {"key": "156992297"}
+    ],
+    [
+      "156992302",
+      {"key": "156992302"}
+    ],
+    [
+      "156992309",
+      {"key": "156992309"}
+    ],
+    [
+      "156992318",
+      {"key": "156992318"}
+    ],
+    [
+      "156992325",
+      {"key": "156992325"}
+    ],
+    [
+      "156992331",
+      {"key": "156992331"}
+    ],
+    [
+      "156992338",
+      {"key": "156992338"}
+    ],
+    [
+      "156992340",
+      {"key": "156992340"}
+    ],
+    [
+      "156992348",
+      {"key": "156992348"}
+    ],
+    [
+      "156992355",
+      {"key": "156992355"}
+    ],
+    [
+      "156992362",
+      {"key": "156992362"}
+    ],
+    [
+      "156992368",
+      {"key": "156992368"}
+    ],
+    [
+      "156992374",
+      {"key": "156992374"}
+    ],
+    [
+      "156992380",
+      {"key": "156992380"}
+    ],
+    [
+      "156992386",
+      {"key": "156992386"}
+    ],
+    [
+      "156992392",
+      {"key": "156992392"}
+    ],
+    [
+      "156992397",
+      {"key": "156992397"}
+    ],
+    [
+      "156992403",
+      {"key": "156992403"}
+    ],
+    [
+      "156992412",
+      {"key": "156992412"}
+    ],
+    [
+      "156992418",
+      {"key": "156992418"}
+    ],
+    [
+      "156992424",
+      {"key": "156992424"}
+    ],
+    [
+      "156992430",
+      {"key": "156992430"}
+    ],
+    [
+      "156992437",
+      {"key": "156992437"}
+    ],
+    [
+      "156992442",
+      {"key": "156992442"}
+    ],
+    [
+      "156992448",
+      {"key": "156992448"}
+    ],
+    [
+      "156992454",
+      {"key": "156992454"}
+    ],
+    [
+      "156992460",
+      {"key": "156992460"}
+    ],
+    [
+      "156992466",
+      {"key": "156992466"}
+    ],
+    [
+      "156992475",
+      {"key": "156992475"}
+    ],
+    [
+      "156992481",
+      {"key": "156992481"}
+    ],
+    [
+      "156992488",
+      {"key": "156992488"}
+    ],
+    [
+      "156992495",
+      {"key": "156992495"}
+    ],
+    [
+      "156992502",
+      {"key": "156992502"}
+    ],
+    [
+      "156992508",
+      {"key": "156992508"}
+    ],
+    [
+      "156992515",
+      {"key": "156992515"}
+    ],
+    [
+      "156992520",
+      {"key": "156992520"}
+    ],
+    [
+      "156992526",
+      {"key": "156992526"}
+    ],
+    [
+      "156992531",
+      {"key": "156992531"}
+    ],
+    [
+      "156992534",
+      {"key": "156992534"}
+    ],
+    [
+      "156992539",
+      {"key": "156992539"}
+    ],
+    [
+      "156992543",
+      {"key": "156992543"}
+    ],
+    [
+      "156992546",
+      {"key": "156992546"}
+    ],
+    [
+      "156992550",
+      {"key": "156992550"}
+    ],
+    [
+      "156992555",
+      {"key": "156992555"}
+    ],
+    [
+      "156992558",
+      {"key": "156992558"}
+    ],
+    [
+      "156992564",
+      {"key": "156992564"}
+    ],
+    [
+      "156992568",
+      {"key": "156992568"}
+    ],
+    [
+      "156992574",
+      {"key": "156992574"}
+    ],
+    [
+      "156992580",
+      {"key": "156992580"}
+    ],
+    [
+      "156992587",
+      {"key": "156992587"}
+    ],
+    [
+      "156992592",
+      {"key": "156992592"}
+    ],
+    [
+      "156992598",
+      {"key": "156992598"}
+    ],
+    [
+      "156992604",
+      {"key": "156992604"}
+    ],
+    [
+      "156992610",
+      {"key": "156992610"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/12wright",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "La hermana Wright enseña que con la ayuda de Jesucristo, todos podemos \u201caguantar el día\u201d y lidiar con los desafíos que enfrentamos y superarlos.",
+          "title": "Aguantar el día en Cristo"
+        },
+        "pageSocial": {
+          "description": "La hermana Wright enseña que con la ayuda de Jesucristo, todos podemos \u201caguantar el día\u201d y lidiar con los desafíos que enfrentamos y superarlos.",
+          "title": "Aguantar el día en Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/35/d3/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456.jpeg\" data-video-title=\"Aguantar el día en Cristo\" data-video-description=\"La hermana Wright enseña que con la ayuda de Jesucristo, todos podemos \u201caguantar el día\u201d y lidiar con los desafíos que enfrentamos y superarlos.\" data-video-id=\"6338171473112\" data-ip=\"Download and Streaming                            \" data-duration=\"633067\" data-assetId=\"57d49a875fbe11eeaa6ceeeeac1e1319e66e20f7\" data-ref-id=\"C0EB2E56E9751AA422DC8AABFE314C9BF71C7A22\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338171473112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"212960995\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"59110373\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"152586370\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"212960995\"/><\/video><h1 data-aid=\"156992181\" id=\"title1\">Aguantar el día en Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156992183\" id=\"author1\">Por la hermana Amy A. Wright<\/p>\n<p class=\"author-role\" data-aid=\"156992185\" id=\"author2\">Primera Consejera de la Presidencia General de la Primaria<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156992187\" id=\"kicker1\">Jesucristo hace posible que \u201caguant[emos] el día\u201d.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156992189\" id=\"p1\">Aquel fue un día repleto de parábolas punzantes y directas, de preguntas complejas y de doctrina profunda. Luego de pronunciar una dura reprimenda a quienes eran como \u201csepulcros blanqueados, que por fuera, a la verdad, se muestran hermosos, pero por dentro están llenos de huesos de muertos y de toda inmundicia\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, Jesús enseñó tres parábolas más sobre la preparación espiritual y el discipulado. Una de ellas fue la parábola de las diez vírgenes.<\/p>\n<p data-aid=\"156992191\" id=\"p2\">\u201cEntonces el reino de los cielos será semejante a diez vírgenes que, tomando sus lámparas, salieron a recibir al novio.<\/p>\n<p data-aid=\"156992193\" id=\"p3\">\u201cY cinco de ellas eran prudentes y cinco insensatas.<\/p>\n<p data-aid=\"156992195\" id=\"p4\">\u201cLas insensatas, tomando sus lámparas, no tomaron consigo aceite;<\/p>\n<p data-aid=\"156992196\" id=\"p5\">\u201cmas las prudentes tomaron aceite en sus vasijas, juntamente con sus lámparas.<\/p>\n<p data-aid=\"156992198\" id=\"p6\">\u201cY tardándose el novio, cabecearon todas y se durmieron.<\/p>\n<p data-aid=\"156992200\" id=\"p7\">\u201cY a la medianoche se oyó un clamor: He aquí el novio viene; salid a recibirle.<\/p>\n<p data-aid=\"156992202\" id=\"p8\">\u201cEntonces todas aquellas vírgenes se levantaron y arreglaron sus lámparas.<\/p>\n<p data-aid=\"156992205\" id=\"p9\">\u201cY las insensatas dijeron a las prudentes: Dadnos de vuestro aceite, porque nuestras lámparas se apagan.<\/p>\n<p data-aid=\"156992207\" id=\"p10\">\u201cPero las prudentes respondieron, diciendo: Para que no nos falte a nosotras y a vosotras, id más bien a los que venden y comprad para vosotras mismas.<\/p>\n<p data-aid=\"156992210\" id=\"p11\">\u201cY mientras ellas iban a comprar, vino el novio; y las que estaban preparadas entraron con él a las bodas; y se cerró la puerta.<\/p>\n<p data-aid=\"156992213\" id=\"p12\">\u201cY después vinieron también las otras vírgenes, diciendo: ¡Señor, Señor, ábrenos!\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"156992216\" id=\"p13\">\u201cMas respondiendo él, dijo: De cierto os digo, que no me conocéis<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"156992220\" id=\"p14\">\u201cVelad, pues, porque no sabéis el día ni la hora en que el Hijo del Hombre ha de venir\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"156992223\" id=\"p15\">El presidente Dallin H. Oaks planteó las siguientes preguntas que invitan a pensar con relación a la venida del Esposo<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>: \u201c¿Qué tal si el día de Su venida fuese mañana? Si supiéramos que mañana nos encontraríamos con el Señor, ya fuese por medio de nuestra muerte prematura o de Su inesperada venida, ¿qué haríamos hoy?\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"156992225\" id=\"p16\">He aprendido por experiencia personal, que la preparación espiritual para la venida del Señor no es solo esencial, sino la única manera de hallar paz y felicidad verdaderas.<\/p>\n<p data-aid=\"156992229\" id=\"p17\">Era un fresco día de otoño cuando escuché por primera vez las palabras: \u201cTienes cáncer\u201d. ¡Mi esposo y yo quedamos atónitos! Al conducir de vuelta a casa en silencio, procesando la noticia, mi corazón se centró en nuestros tres hijos.<\/p>\n<p data-aid=\"156992233\" id=\"p18\">En mi mente le pregunté al Padre Celestial: \u201c¿Voy a morir?\u201d.<\/p>\n<p data-aid=\"156992239\" id=\"p48\">El Espíritu Santo susurró: \u201cTodo va a estar bien\u201d.<\/p>\n<p data-aid=\"156992244\" id=\"p49\">Luego pregunté: \u201c¿Voy a vivir?\u201d.<\/p>\n<p data-aid=\"156992249\" id=\"p50\">Una vez más, vino la respuesta: \u201cTodo va a estar bien\u201d.<\/p>\n<p data-aid=\"156992255\" id=\"p51\">Estaba confundida. ¿Por qué recibía exactamente la misma respuesta a si viviría o moriría?<\/p>\n<p data-aid=\"156992260\" id=\"p19\">De repente, cada fibra de mi ser se llenó de una paz absoluta al recordar: No necesitábamos apresurarnos a llegar a casa para enseñar a nuestros hijos a orar, ellos sabían cómo recibir respuestas y consuelo de las oraciones. No necesitábamos apresurarnos a llegar a casa para enseñarles sobre las Escrituras o las palabras de los profetas vivientes, esas palabras ya eran una fuente conocida de fortaleza y comprensión. No necesitábamos apresurarnos a llegar a casa para enseñarles sobre el arrepentimiento, la Resurrección, la Restauración, el Plan de Salvación, las familias eternas o la doctrina misma de Jesucristo.<\/p>\n<p data-aid=\"156992267\" id=\"p20\">En ese momento cada lección de noche de hogar, cada sesión de estudio de las Escrituras, cada oración de fe ofrecida, cada bendición dada, cada testimonio compartido, cada convenio hecho y guardado, cada asistencia a la Casa del Señor y cada día de reposo observado importaban, ¡y cuánto importaban! Era demasiado tarde para poner aceite en nuestras lámparas. Necesitábamos cada gota, ¡y la necesitábamos ya!<\/p>\n<p data-aid=\"156992271\" id=\"p21\">Gracias a Jesucristo y a Su Evangelio restaurado, si yo moría, mi familia sería consolada, fortalecida y un día, restaurada. Si vivía, tendría acceso al poder más grande en esta tierra para ayudar a socorrerme, sostenerme y sanarme. Al final, gracias a Jesucristo, todo puede estar bien.<\/p>\n<p data-aid=\"156992277\" id=\"p22\">De un estudio atento de Doctrina y Convenios aprendemos lo que significa \u201cestar bien\u201d:<\/p>\n<p data-aid=\"156992285\" id=\"p23\">\u201cY en aquel día, cuando yo venga en mi gloria, se cumplirá la parábola que hablé acerca de las diez vírgenes.<\/p>\n<p data-aid=\"156992291\" id=\"p24\">\u201cPorque aquellos que son prudentes y han recibido la verdad, y han tomado al Santo Espíritu por guía, y no han sido engañados, de cierto os digo que estos no serán talados ni echados al fuego, sino que <em>aguantarán el día<\/em>\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"156992297\" id=\"p25\">Jesucristo hace posible que \u201caguant[emos] el día\u201d. Aguantar el día no significa sumarle más cosas a una lista de tareas pendientes cada vez más larga. Piensen en una lupa. Su propósito no es únicamente hacer que las cosas se vean más grandes. También puede captar y enfocar la luz para hacerla más poderosa. Debemos simplificar, enfocar nuestros esfuerzos y captar la luz de Jesucristo. Necesitamos más experiencias sagradas y reveladoras.<\/p>\n<p data-aid=\"156992302\" id=\"p26\">Ubicada al noroeste de Israel, hay una hermosa cadena montañosa, a menudo llamada la \u201cmontaña perenne\u201d. El monte Carmelo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> se conserva verde todo el año, debido en gran parte a las pequeñas cantidades de rocío, las cuales lo nutren cada día. Como sucede con \u201cel rocío del Carmelo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, al buscar nutrir nuestras almas \u201ccon cosas pertenecientes a la rectitud\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>, \u201ccosas pequeñas y sencillas\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>, ¡nuestro testimonio y el testimonio de nuestros hijos vivirán!<\/p>\n<p data-aid=\"156992309\" id=\"p27\">Quizás piensen: \u201cPero hermana Wright, usted no conoce a mi familia. Realmente nos esforzamos, pero nuestra situación en muy diferente\u201d. Tienen razón, no conozco a su familia, pero un Dios de amor, misericordia, poder, conocimiento y gloria infinitos sí la conoce.<\/p>\n<p data-aid=\"156992318\" id=\"p28\">Las preguntas que podrían hacerse son preguntas del corazón que duelen en lo profundo de su alma. Se encuentran preguntas similares en las Santas Escrituras:<\/p>\n<p data-aid=\"156992325\" id=\"p29\">\u201cMaestro, ¿no tienes cuidado que [mi familia] perec[e]?\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"156992331\" id=\"p30\">\u201c¿Dónde, pues, estará ahora mi esperanza?\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"156992338\" id=\"p31\">\u201c¿Qué har[é] para que sea quitada esta nube de tinieblas que [me] cubre?\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"156992340\" id=\"p32\">\u201cMas, ¿dónde se hallará la sabiduría? ¿Y dónde está el lugar del entendimiento?\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"156992348\" id=\"p33\">\u201c¿Cómo es posible que [me] aferr[e] a todo lo bueno?\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"156992355\" id=\"p34\">\u201cSeñor, ¿qué quieres que yo haga?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"156992362\" id=\"p35\">Y luego llegan las respuestas con tanta dulzura:<\/p>\n<p data-aid=\"156992368\" id=\"p36\">\u201c¿Crees en el poder de Cristo para salvar?\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"156992374\" id=\"p37\">\u201cHe aquí, ¿ha mandado el Señor a alguien que no participe de su bondad?\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"156992380\" id=\"p38\">\u201c¿Creéis que [Él] pued[e] hacer esto?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"156992386\" id=\"p39\">\u201c¿Crees [\u2026] a los profetas?\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"156992392\" id=\"p40\">\u201c¿Ejerc[es] la fe en la redención de aquel que [te] creó?\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"156992397\" id=\"p41\">\u201cEl Juez de toda la tierra, ¿no ha de hacer lo que es justo?\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"156992403\" id=\"p42\">Mis queridos amigos, no podemos compartir nuestro aceite, pero podemos compartir <em>Su<\/em> luz. El aceite en nuestra lámpara nos ayudará a \u201caguantar el día\u201d y puede ser el medio de iluminar la senda que lleva a aquellos que amamos hacia el Salvador, quien espera \u201ccon los brazos abiertos para recibir[los]\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"156992412\" id=\"p43\">\u201cAsí ha dicho Jehová: Reprime del llanto tu voz y de las lágrimas tus ojos, porque salario hay para tu trabajo [\u2026], y volverán de la tierra del enemigo.<\/p>\n<p data-aid=\"156992418\" id=\"p44\">\u201c<em>Esperanza también hay para tu porvenir<\/em>, dice Jehová, y los hijos volverán a su propio territorio\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"156992424\" id=\"p45\">Jesucristo es la \u201cesperanza [\u2026] para tu porvenir\u201d. Nada que hayamos o no hayamos hecho está más allá del alcance de Su infinito y eterno sacrificio. Él es la razón por la cual nunca es el fin de nuestra historia<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. \u201cPor tanto, deb[emos] seguir adelante con firmeza en Cristo, teniendo un fulgor perfecto de esperanza y amor por Dios y por todos los hombres. Por tanto, si march[amos] adelante, deleitándo[nos] en la palabra de Cristo, y persever[amos] hasta el fin, he aquí, así dice el Padre: Tendr[emos] la vida eterna\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"156992430\" id=\"p46\">La vida eterna es el gozo eterno. Gozo en esta vida, <em>ahora mismo<\/em> \u2014no a pesar de los desafíos de nuestro tiempo, sino gracias a la ayuda del Señor para aprender de ellos y finalmente superarlos\u2014 <em>y<\/em> gozo incalculable en la vida venidera. Las lágrimas se secarán, los corazones rotos sanarán, lo perdido será hallado, las preocupaciones se resolverán, las familias se restaurarán y todo lo que el Padre tiene nos será dado<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"156992437\" id=\"p47\">Acudan a Jesucristo para que vivan<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>, es mi testimonio. En el sagrado y santo nombre del amado \u201cPastor y Obispo de [n]uestras almas\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>, Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156992442\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156992448\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.27?lang=spa#p27\">Mateo 23:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156992454\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-11?lang=spa#p1\">Mateo 25:1\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156992460\" id=\"note3_p1\">Traducción de José Smith, Mateo 25:11 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.12?lang=spa#p12\">Mateo 25:12<\/a>, nota <em>a<\/em> al pie de página).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156992466\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.13?lang=spa#p13\">Mateo 25:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156992475\" id=\"note5_p1\">El élder James E. Talmage enseñó: \u201cEl Esposo es el Señor Jesús; la fiesta de bodas simboliza Su venida en gloria para recibir a Su Iglesia sobre la tierra a Sí mismo, en calidad de desposada. Las vírgenes representan a los que profesan creer en Cristo y, por ende, confiadamente esperan verse incluidos entre los bienaventurados participantes de la fiesta. La lámpara encendida que llevaba cada una de las doncellas es la manifestación exterior de la creencia y las prácticas cristianas; y en la reserva de aceite de las prudentes, podemos ver la fuerza y abundancia espirituales que solo la diligencia y la devoción en el servicio de Dios pueden asegurarnos\u201d (véase <cite>Jesús el Cristo<\/cite>, 1973, pág. 609).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156992481\" id=\"note6_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa&amp;para=41#p41\">La preparación para la Segunda Venida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2004, pág. 9.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156992488\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-57?lang=spa#p56\">Doctrina y Convenios 45:56\u201357<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156992495\" id=\"note8_p1\">\u201cEl rocío proporciona una cantidad limitada de humedad aun durante el seco verano y es importante para los cultivos de verano, como la sandía. Cuanto más cerca del mar, mayor es la probabilidad de que caiga rocío en las noches sin viento, cuando el suelo se torna más frío que el aire que toca su superficie. En general, la llanura costera tiene más rocío que las regiones del interior, siendo más abundante en el monte Carmelo, que tiene un promedio de 250 noches de rocío por año\u201d (Efraim Orni y Elisha Efrat, <cite>Geography of Israel<\/cite>, 3.ª edición revisada de 1971, pág. 147, traducción libre).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156992502\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128.19?lang=spa#p19\">Doctrina y Convenios 128:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156992508\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.18?lang=spa#p18\">Mosíah 23:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156992515\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.6?lang=spa#p6\">Alma 37:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156992520\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.38?lang=spa#p38\">Marcos 4:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156992526\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/17.15?lang=spa#p15\">Job 17:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156992531\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.40?lang=spa#p40\">Helamán 5:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156992534\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/28.12?lang=spa#p12\">Job 28:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156992539\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.20?lang=spa#p20\">Moroni 7:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156992543\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/9.6?lang=spa#p6\">Hechos 9:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156992546\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.6?lang=spa#p6\">Alma 15:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156992550\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.28?lang=spa#p28\">2 Nefi 26:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156992555\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.28?lang=spa#p28\">Mateo 9:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156992558\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/26.27?lang=spa#p27\">Hechos 26:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156992564\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.15?lang=spa#p15\">Alma 5:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156992568\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/18.25?lang=spa#p25\">Génesis 18:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156992574\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/6.17?lang=spa#p17\">Mormón 6:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156992580\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.16-17?lang=spa#p16\">Jeremías 31:16\u201317<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156992587\" id=\"note26_p1\">Véase Camille N. Johnson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/42johnson?lang=spa&amp;para=29#p29\">Inviten a Cristo a ser el autor de su historia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 82: \u201cPermitan que la adversidad y la aflicción que forman parte de toda buena historia sean un medio por el cual se acerquen más a Jesucristo y lleguen a ser más semejantes a Él\u201d.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156992592\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156992598\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=spa#p38\">Doctrina y Convenios 84:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156992604\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.47?lang=spa#p47\">Alma 37:47<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156992610\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.25?lang=spa#p25\">1 Pedro 2:25<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156992220",
+        "id": "note4",
+        "text": "<p data-aid=\"156992466\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.13?lang=spa#p13\">Mateo 25:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.13?lang=spa#p13",
+          "text": "Mateo 25:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156992223",
+        "id": "note5",
+        "text": "<p data-aid=\"156992475\" id=\"note5_p1\">El élder James E. Talmage enseñó: \u201cEl Esposo es el Señor Jesús; la fiesta de bodas simboliza Su venida en gloria para recibir a Su Iglesia sobre la tierra a Sí mismo, en calidad de desposada. Las vírgenes representan a los que profesan creer en Cristo y, por ende, confiadamente esperan verse incluidos entre los bienaventurados participantes de la fiesta. La lámpara encendida que llevaba cada una de las doncellas es la manifestación exterior de la creencia y las prácticas cristianas; y en la reserva de aceite de las prudentes, podemos ver la fuerza y abundancia espirituales que solo la diligencia y la devoción en el servicio de Dios pueden asegurarnos\u201d (véase <cite>Jesús el Cristo<\/cite>, 1973, pág. 609).<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156992213",
+        "id": "note2",
+        "text": "<p data-aid=\"156992454\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-11?lang=spa#p1\">Mateo 25:1\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.1-11?lang=spa#p1",
+          "text": "Mateo 25:1\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156992216",
+        "id": "note3",
+        "text": "<p data-aid=\"156992460\" id=\"note3_p1\">Traducción de José Smith, Mateo 25:11 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.12?lang=spa#p12\">Mateo 25:12<\/a>, nota <em>a<\/em> al pie de página).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.12?lang=spa#p12",
+          "text": "Mateo 25:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156992302",
+        "id": "note8",
+        "text": "<p data-aid=\"156992495\" id=\"note8_p1\">\u201cEl rocío proporciona una cantidad limitada de humedad aun durante el seco verano y es importante para los cultivos de verano, como la sandía. Cuanto más cerca del mar, mayor es la probabilidad de que caiga rocío en las noches sin viento, cuando el suelo se torna más frío que el aire que toca su superficie. En general, la llanura costera tiene más rocío que las regiones del interior, siendo más abundante en el monte Carmelo, que tiene un promedio de 250 noches de rocío por año\u201d (Efraim Orni y Elisha Efrat, <cite>Geography of Israel<\/cite>, 3.ª edición revisada de 1971, pág. 147, traducción libre).<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156992302",
+        "id": "note9",
+        "text": "<p data-aid=\"156992502\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128.19?lang=spa#p19\">Doctrina y Convenios 128:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128.19?lang=spa#p19",
+          "text": "Doctrina y Convenios 128:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156992223",
+        "id": "note6",
+        "text": "<p data-aid=\"156992481\" id=\"note6_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa&amp;para=41#p41\">La preparación para la Segunda Venida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2004, pág. 9.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa&amp;para=41#p41",
+          "text": "La preparación para la Segunda Venida",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156992291",
+        "id": "note7",
+        "text": "<p data-aid=\"156992488\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-57?lang=spa#p56\">Doctrina y Convenios 45:56\u201357<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.56-57?lang=spa#p56",
+          "text": "Doctrina y Convenios 45:56\u201357",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156992437",
+        "id": "note30",
+        "text": "<p data-aid=\"156992610\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.25?lang=spa#p25\">1 Pedro 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2.25?lang=spa#p25",
+          "text": "1 Pedro 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156992348",
+        "id": "note16",
+        "text": "<p data-aid=\"156992539\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.20?lang=spa#p20\">Moroni 7:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.20?lang=spa#p20",
+          "text": "Moroni 7:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156992340",
+        "id": "note15",
+        "text": "<p data-aid=\"156992534\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/28.12?lang=spa#p12\">Job 28:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/28.12?lang=spa#p12",
+          "text": "Job 28:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156992338",
+        "id": "note14",
+        "text": "<p data-aid=\"156992531\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.40?lang=spa#p40\">Helamán 5:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.40?lang=spa#p40",
+          "text": "Helamán 5:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156992331",
+        "id": "note13",
+        "text": "<p data-aid=\"156992526\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/17.15?lang=spa#p15\">Job 17:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/17.15?lang=spa#p15",
+          "text": "Job 17:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156992325",
+        "id": "note12",
+        "text": "<p data-aid=\"156992520\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.38?lang=spa#p38\">Marcos 4:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/4.38?lang=spa#p38",
+          "text": "Marcos 4:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156992302",
+        "id": "note11",
+        "text": "<p data-aid=\"156992515\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.6?lang=spa#p6\">Alma 37:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.6?lang=spa#p6",
+          "text": "Alma 37:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156992302",
+        "id": "note10",
+        "text": "<p data-aid=\"156992508\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.18?lang=spa#p18\">Mosíah 23:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/23.18?lang=spa#p18",
+          "text": "Mosíah 23:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156992374",
+        "id": "note19",
+        "text": "<p data-aid=\"156992550\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.28?lang=spa#p28\">2 Nefi 26:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.28?lang=spa#p28",
+          "text": "2 Nefi 26:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156992368",
+        "id": "note18",
+        "text": "<p data-aid=\"156992546\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.6?lang=spa#p6\">Alma 15:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/15.6?lang=spa#p6",
+          "text": "Alma 15:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156992355",
+        "id": "note17",
+        "text": "<p data-aid=\"156992543\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/9.6?lang=spa#p6\">Hechos 9:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/9.6?lang=spa#p6",
+          "text": "Hechos 9:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156992424",
+        "id": "note27",
+        "text": "<p data-aid=\"156992592\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=spa#p20\">2 Nefi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=spa#p20",
+          "text": "2 Nefi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156992424",
+        "id": "note26",
+        "text": "<p data-aid=\"156992587\" id=\"note26_p1\">Véase Camille N. Johnson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/42johnson?lang=spa&amp;para=29#p29\">Inviten a Cristo a ser el autor de su historia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 82: \u201cPermitan que la adversidad y la aflicción que forman parte de toda buena historia sean un medio por el cual se acerquen más a Jesucristo y lleguen a ser más semejantes a Él\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/42johnson?lang=spa&amp;para=29#p29",
+          "text": "Inviten a Cristo a ser el autor de su historia",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156992418",
+        "id": "note25",
+        "text": "<p data-aid=\"156992580\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.16-17?lang=spa#p16\">Jeremías 31:16\u201317<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/jer/31.16-17?lang=spa#p16",
+          "text": "Jeremías 31:16\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156992403",
+        "id": "note24",
+        "text": "<p data-aid=\"156992574\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/6.17?lang=spa#p17\">Mormón 6:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/6.17?lang=spa#p17",
+          "text": "Mormón 6:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156992397",
+        "id": "note23",
+        "text": "<p data-aid=\"156992568\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/18.25?lang=spa#p25\">Génesis 18:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/18.25?lang=spa#p25",
+          "text": "Génesis 18:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156992392",
+        "id": "note22",
+        "text": "<p data-aid=\"156992564\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.15?lang=spa#p15\">Alma 5:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.15?lang=spa#p15",
+          "text": "Alma 5:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156992386",
+        "id": "note21",
+        "text": "<p data-aid=\"156992558\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/26.27?lang=spa#p27\">Hechos 26:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/26.27?lang=spa#p27",
+          "text": "Hechos 26:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156992380",
+        "id": "note20",
+        "text": "<p data-aid=\"156992555\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.28?lang=spa#p28\">Mateo 9:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/9.28?lang=spa#p28",
+          "text": "Mateo 9:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156992189",
+        "id": "note1",
+        "text": "<p data-aid=\"156992448\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.27?lang=spa#p27\">Mateo 23:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/23.27?lang=spa#p27",
+          "text": "Mateo 23:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156992437",
+        "id": "note29",
+        "text": "<p data-aid=\"156992604\" id=\"note29_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.47?lang=spa#p47\">Alma 37:47<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.47?lang=spa#p47",
+          "text": "Alma 37:47",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156992430",
+        "id": "note28",
+        "text": "<p data-aid=\"156992598\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=spa#p38\">Doctrina y Convenios 84:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.38?lang=spa#p38",
+          "text": "Doctrina y Convenios 84:38",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

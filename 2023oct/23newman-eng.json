@@ -1,0 +1,483 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/23newman?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "aa9123688e3343c8ab8195951207c07d",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/23newman",
+      "data-aid": "156930713",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "aa9123688e3343c8ab8195951207c07d"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/b8/c4/b8c42b8a372f11f9d26afe2e759436093ec8201c/b8c42b8a372f11f9d26afe2e759436093ec8201c.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2030-jan-e-newman-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Preserving the Voice of the Covenant People in the Rising Generation",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156930713",
+      {"key": "156930713"}
+    ],
+    [
+      "156930716",
+      {"key": "156930716"}
+    ],
+    [
+      "156930719",
+      {"key": "156930719"}
+    ],
+    [
+      "156930722",
+      {"key": "156930722"}
+    ],
+    [
+      "156930725",
+      {"key": "156930725"}
+    ],
+    [
+      "156930728",
+      {"key": "156930728"}
+    ],
+    [
+      "156930732",
+      {"key": "156930732"}
+    ],
+    [
+      "156930735",
+      {"key": "156930735"}
+    ],
+    [
+      "156930738",
+      {"key": "156930738"}
+    ],
+    [
+      "156930741",
+      {"key": "156930741"}
+    ],
+    [
+      "156930744",
+      {"key": "156930744"}
+    ],
+    [
+      "156930746",
+      {"key": "156930746"}
+    ],
+    [
+      "156930749",
+      {"key": "156930749"}
+    ],
+    [
+      "156930752",
+      {"key": "156930752"}
+    ],
+    [
+      "156930755",
+      {"key": "156930755"}
+    ],
+    [
+      "156930759",
+      {"key": "156930759"}
+    ],
+    [
+      "156930762",
+      {"key": "156930762"}
+    ],
+    [
+      "156930764",
+      {"key": "156930764"}
+    ],
+    [
+      "156930766",
+      {"key": "156930766"}
+    ],
+    [
+      "156930770",
+      {"key": "156930770"}
+    ],
+    [
+      "156930773",
+      {"key": "156930773"}
+    ],
+    [
+      "156930776",
+      {"key": "156930776"}
+    ],
+    [
+      "156930779",
+      {"key": "156930779"}
+    ],
+    [
+      "156930782",
+      {"key": "156930782"}
+    ],
+    [
+      "156930785",
+      {"key": "156930785"}
+    ],
+    [
+      "156930788",
+      {"key": "156930788"}
+    ],
+    [
+      "156930791",
+      {"key": "156930791"}
+    ],
+    [
+      "156930793",
+      {"key": "156930793"}
+    ],
+    [
+      "156930797",
+      {"key": "156930797"}
+    ],
+    [
+      "156930800",
+      {"key": "156930800"}
+    ],
+    [
+      "156930803",
+      {"key": "156930803"}
+    ],
+    [
+      "156930806",
+      {"key": "156930806"}
+    ],
+    [
+      "156930808",
+      {"key": "156930808"}
+    ],
+    [
+      "156930811",
+      {"key": "156930811"}
+    ],
+    [
+      "156930813",
+      {"key": "156930813"}
+    ],
+    [
+      "156930817",
+      {"key": "156930817"}
+    ],
+    [
+      "156930820",
+      {"key": "156930820"}
+    ],
+    [
+      "156931822",
+      {"key": "156931822"}
+    ],
+    [
+      "156931825",
+      {"key": "156931825"}
+    ],
+    [
+      "156931828",
+      {"key": "156931828"}
+    ],
+    [
+      "156931831",
+      {"key": "156931831"}
+    ],
+    [
+      "156931834",
+      {"key": "156931834"}
+    ],
+    [
+      "156931837",
+      {"key": "156931837"}
+    ],
+    [
+      "156931840",
+      {"key": "156931840"}
+    ],
+    [
+      "156931843",
+      {"key": "156931843"}
+    ],
+    [
+      "156931846",
+      {"key": "156931846"}
+    ],
+    [
+      "156931848",
+      {"key": "156931848"}
+    ],
+    [
+      "156931851",
+      {"key": "156931851"}
+    ],
+    [
+      "156931854",
+      {"key": "156931854"}
+    ],
+    [
+      "156931857",
+      {"key": "156931857"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/23newman",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Brother Newman teaches that it is the responsibility of parents to teach their children to come unto Jesus Christ.",
+          "title": "Preserving the Voice of the Covenant People in the Rising Generation"
+        },
+        "pageSocial": {
+          "description": "Brother Newman teaches that it is the responsibility of parents to teach their children to come unto Jesus Christ.",
+          "title": "Preserving the Voice of the Covenant People in the Rising Generation"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/b8/c4/b8c42b8a372f11f9d26afe2e759436093ec8201c/b8c42b8a372f11f9d26afe2e759436093ec8201c.jpeg\" data-video-title=\"Preserving the Voice of the Covenant People in the Rising Generation\" data-video-description=\"Brother Newman teaches that it is the responsibility of parents to teach their children to come unto Jesus Christ.\" data-video-id=\"6338170445112\" data-ip=\"Download and Streaming                            \" data-duration=\"613014\" data-assetId=\"d22dfdae5fdb11ee868eeeeeac1e0677cb8c71ec\" data-ref-id=\"F496BE0D56AAD7DD760BA6CF5EED5AC542A6D314\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338170445112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"205820010\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2030-jan-e-newman-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"56945351\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2030-jan-e-newman-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"147490525\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-2030-jan-e-newman-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"205820010\"/><\/video><h1 data-aid=\"156930716\" id=\"title1\">Preserving the Voice of the Covenant People in the Rising Generation<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156930719\" id=\"author1\">By Brother Jan E. Newman<\/p>\n<p class=\"author-role\" data-aid=\"156930722\" id=\"author2\">Second Counselor in the Sunday School General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156930725\" id=\"kicker1\">One of our most sacred responsibilities is to help our children come to know deeply and specifically that Jesus is the Christ.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156930728\" id=\"p1\">One of the most touching moments in the Book of Mormon is the resurrected Savior\u2019s visit to the people at the temple in the land Bountiful. After a day of teaching, healing, and building faith, Jesus directed the people\u2019s attention to the rising generation: \u201cHe commanded that their little children should be brought.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> He prayed for them and blessed them one by one. The experience was so moving that the Savior Himself wept multiple times.<\/p>\n<p data-aid=\"156930732\" id=\"p2\">Then, speaking to the multitude, Jesus said:<\/p>\n<p data-aid=\"156930735\" id=\"p28\">\u201cBehold your little ones.<\/p>\n<p data-aid=\"156930738\" id=\"p29\">\u201cAnd as they looked \u2026 they saw the heavens open, and they saw angels descending out of heaven,\u201d ministering to their children.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"156930741\" id=\"p4\">I have often thought about this experience. It must have melted every person\u2019s heart! They saw the Savior. They felt Him. They knew Him. He taught them. He blessed them. And He loved them. It\u2019s no wonder that after this sacred event, these children grew up to help establish a society of peace, prosperity, and Christlike love that lasted for generations.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"156930744\" id=\"p5\">Wouldn\u2019t it be wonderful if our children could have experiences like that with Jesus Christ\u2014something that would bind their hearts to Him! He invites us, as He invited those parents in the Book of Mormon, to bring our little ones to Him. We can help them know their Savior and Redeemer the way these children did. We can show them how to find the Savior in the scriptures and build their foundations on Him.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"156930746\" id=\"p6\">Recently, a good friend taught me something I hadn\u2019t noticed before about the parable of the wise man who built his house upon a rock. According to the account in Luke, as the wise man laid the foundation for his house, he \u201cdigged deep.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> It wasn\u2019t a casual or simple endeavor\u2014it took effort!<\/p>\n<p data-aid=\"156930749\" id=\"p7\">To build our lives on the rock of our Redeemer, Jesus Christ, we need to dig deep. We remove anything that is sandy or superfluous in our lives. We keep digging until we find Him. And we teach our children to bind themselves to Him through sacred ordinances and covenants so that when the oppositional storms and floods come, as they surely will, they will have little effect upon them \u201cbecause of the rock upon which [they] are built.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"156930752\" id=\"p8\">This kind of strength doesn\u2019t just happen. It is not passed on to the next generation like a spiritual inheritance. Each person must dig deep to find the rock.<\/p>\n<p data-aid=\"156930755\" id=\"p9\">We learn this lesson from another account in the Book of Mormon. When King Benjamin gave his final address to his people, they gathered as families to hear his words.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> King Benjamin bore powerful witness of Jesus Christ, and the people were deeply moved by his testimony. They declared:<\/p>\n<p data-aid=\"156930759\" id=\"p23\">\u201cThe Spirit \u2026 has wrought a mighty change in us, or in our hearts. \u2026<\/p>\n<p data-aid=\"156930762\" id=\"p24\">\u201cAnd we are willing to enter into a covenant with our God to do his will \u2026 all the remainder of our days.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"156930764\" id=\"p10\">One might expect that little children with such deeply converted parents would eventually become converted and make covenants themselves. And yet, for some reason not mentioned in the record, the covenant made by the parents did not get traction with some of their children. Several years later \u201cthere were many of the rising generation that could not understand the words of king Benjamin, being little children at the time he spake unto his people; and they did not believe the tradition of their fathers.<\/p>\n<p data-aid=\"156930766\" id=\"p11\">\u201cThey did not believe what had been said concerning the resurrection of the dead, neither did they believe concerning the coming of Christ. \u2026<\/p>\n<p data-aid=\"156930770\" id=\"p12\">\u201cAnd they would not be baptized; neither would they join the church. And they were a separate people as to their faith.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"156930773\" id=\"p13\">What a sobering thought! For the rising generation, it\u2019s not enough for faith in Jesus Christ to be \u201cthe tradition of their fathers.\u201d They need to own faith in Christ for themselves. As the covenant people of God, how can we instill within the hearts of our children a desire to make and keep covenants with Him?<\/p>\n<p data-aid=\"156930776\" id=\"p14\">We can start by following the example of Nephi: \u201cWe talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ, and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Nephi\u2019s words imply a constant, ongoing effort to teach our children about Christ. We can ensure that the voice of the covenant people is not silent in the ears of the rising generation and that Jesus is not a Sunday-only topic.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"156930779\" id=\"p15\">The voice of the covenant people is found in our own words of testimony. It is found in the words of living prophets. And it is preserved powerfully in the scriptures. It is there that our children will come to know Jesus and find answers to their questions. It is there they will learn for themselves the doctrine of Christ. It is there they will find hope. This will prepare them for a lifetime of seeking truth and living on the covenant path.<\/p>\n<p data-aid=\"156930782\" id=\"p16\">I love this counsel from President Russell M. Nelson:<\/p>\n<p data-aid=\"156930785\" id=\"p26\">\u201cWhere <em>can<\/em> we go to hear Him?<\/p>\n<p data-aid=\"156930788\" id=\"p27\">\u201cWe can go to the scriptures. They teach us about Jesus Christ and His gospel, the magnitude of His Atonement, and our Father\u2019s great plan of happiness and redemption. Daily immersion in the word of God is crucial for spiritual survival, especially in these days of increasing upheaval. As we feast on the words of Christ daily, the words of Christ will tell us how to respond to difficulties we never thought we would face.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"156930791\" id=\"p17\">So what does it look like to feast on the words of Christ and hear Him? Well, it looks like whatever works best for you! It might be gathering with your family to talk about the things the Holy Ghost taught you in your scripture study using <cite>Come, Follow Me<\/cite>. It might be gathering each day with your children to read a few verses from the scriptures and then looking for opportunities to discuss what you learned as you spend time together. Just find what works for you and your family; then try to do a little better each day.<\/p>\n<p data-aid=\"156930793\" id=\"p18\">Consider this insight from <cite>Teaching in the Savior\u2019s Way<\/cite>: \u201cTaken individually, a single home evening, scripture study session, or gospel conversation may not seem like it is accomplishing much. But the accumulation of small, simple efforts, repeated consistently over time, can be more powerful and strengthening than an occasional monumental moment or landmark lesson. \u2026 So don\u2019t give up, and don\u2019t worry about accomplishing something grand every time. Just be consistent in your efforts.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"156930797\" id=\"p19\">One of our most sacred responsibilities is to help our children come to know deeply and specifically that Jesus is the Christ, the Son of the living God, their personal Savior and Redeemer, who stands at the head of His Church! We cannot allow our covenant voice to become muted or silent when it comes to Him.<\/p>\n<p data-aid=\"156930800\" id=\"p20\">You may feel a bit inadequate in this role, but you should never feel alone. For example, ward councils are authorized to organize teacher council meetings for parents. In these quarterly meetings, parents can gather to learn from each other\u2019s experiences, discuss how they are strengthening their families, and learn key principles of Christlike teaching. This meeting should be held in the second hour of church.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> It is led by a ward member selected by the bishop and follows the format of regular teacher council meetings, using <cite>Teaching in the Savior\u2019s Way<\/cite> as the primary resource.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> Bishops, if your ward is not currently holding teacher council meetings for parents, work with your Sunday School president and ward council to organize yourselves.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"156930803\" id=\"p21\">My dear friends in Christ, you are doing much better than you think. Just keep working at it. Your children are watching, listening, and learning. As you teach them, you will come to know their true nature as beloved sons and daughters of God. They may forget the Savior for a season, but I promise you He will never forget them! Those moments when the Holy Ghost speaks to them will persist in their hearts and minds. And one day your children will echo the testimony of Enos: I know my parents are just, \u201cfor [they] taught me \u2026 in the nurture and admonition of the Lord\u2014and blessed be the name of my God for it.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"156930806\" id=\"p22\">Let us accept the Savior\u2019s invitation and bring our children to Him. As we do so, they will see Him. They will feel Him. They will know Him. He will teach them. He will bless them. And, oh, how He will love them. And, oh, how I love Him. In His holy name, Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156930808\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156930811\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.11?lang=eng#p11\">3 Nephi 17:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156930813\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.23-24?lang=eng#p23\">3 Nephi 17:23\u201324<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.11-22?lang=eng#p11\">3 Nephi 17:11\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156930817\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.1-22?lang=eng#p1\">4 Nephi 1:1\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156930820\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.47-49?lang=eng#p47\">Luke 6:47\u201349<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156931822\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.48?lang=eng#p48\">Luke 6:48<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156931825\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156931828\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.5?lang=eng#p5\">Mosiah 2:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156931831\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2,5?lang=eng#p2\">Mosiah 5:2, 5<\/a>. Note that \u201cthere was not one soul, except it were little children, but who had entered into the covenant and had taken upon them the name of Christ\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/6.2?lang=eng#p2\">Mosiah 6:2<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156931834\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.1-2,4?lang=eng#p1\">Mosiah 26:1\u20132, 4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156931837\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=eng#p26\">2 Nephi 25:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156931840\" id=\"note11_p1\">\u201cThere are many things to teach about in the restored gospel of Jesus Christ\u2014principles, commandments, prophecies, and scripture stories. But all of these are branches of the same tree, for they all have one purpose: to help all people come unto Christ and be perfected in Him (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jarom/1.11?lang=eng#p11\">Jarom 1:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>). So no matter what you are teaching, remember that you are really teaching about Jesus Christ and how to become like Him\u201d (<cite>Teaching in the Savior\u2019s Way: For All Who Teach in the Home and in the Church<\/cite> [2022], <a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng&amp;para=1#p1\">6<\/a>).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156931843\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng&amp;para=23-24#p23\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 89.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156931846\" id=\"note13_p1\"><cite>Teaching in the Savior\u2019s Way<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng&amp;para=8#p8\">31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156931848\" id=\"note14_p1\">Special accommodations can be made for parents who teach in Primary, such as meeting during the 20-minute Primary singing time or holding a separate meeting at another time (see <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&amp;para=title_number41#title_number41\">17.4<\/a>, Gospel Library).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156931851\" id=\"note15_p1\">Members and leaders can order <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022?lang=eng\">Teaching in the Savior\u2019s Way<\/a><\/cite> through Distribution Services. It is also available digitally in the Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156931854\" id=\"note16_p1\">See <cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/13-sunday-school?lang=eng&amp;para=title_number18#title_number18\">13.5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156931857\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1.1?lang=eng#p1\">Enos 1:1<\/a>. Remember that among the rising generation of unbelievers in the Book of Mormon were Alma the Younger and the sons of Mosiah. When Alma the Younger finally recognized his need to change his life, he remembered what his father had taught about Jesus Christ\u2014teachings that Alma had apparently ignored in the past. But the memory of it remained, and that memory saved Alma spiritually (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.17-20?lang=eng#p17\">Alma 36:17\u201320<\/a>).<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156930744",
+        "id": "note4",
+        "text": "<p data-aid=\"156930820\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.47-49?lang=eng#p47\">Luke 6:47\u201349<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/6.47-49?lang=eng#p47",
+            "text": "Luke 6:47\u201349",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5.12?lang=eng#p12",
+            "text": "Helaman 5:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156930746",
+        "id": "note5",
+        "text": "<p data-aid=\"156931822\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6.48?lang=eng#p48\">Luke 6:48<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6.48?lang=eng#p48",
+          "text": "Luke 6:48",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156930738",
+        "id": "note2",
+        "text": "<p data-aid=\"156930813\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.23-24?lang=eng#p23\">3 Nephi 17:23\u201324<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.11-22?lang=eng#p11\">3 Nephi 17:11\u201322<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/17.23-24?lang=eng#p23",
+            "text": "3 Nephi 17:23\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/17.11-22?lang=eng#p11",
+            "text": "3 Nephi 17:11\u201322",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156930741",
+        "id": "note3",
+        "text": "<p data-aid=\"156930817\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.1-22?lang=eng#p1\">4 Nephi 1:1\u201322<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/4-ne/1.1-22?lang=eng#p1",
+          "text": "4 Nephi 1:1\u201322",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156930762",
+        "id": "note8",
+        "text": "<p data-aid=\"156931831\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.2,5?lang=eng#p2\">Mosiah 5:2, 5<\/a>. Note that \u201cthere was not one soul, except it were little children, but who had entered into the covenant and had taken upon them the name of Christ\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/6.2?lang=eng#p2\">Mosiah 6:2<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.2,5?lang=eng#p2",
+            "text": "Mosiah 5:2, 5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/6.2?lang=eng#p2",
+            "text": "Mosiah 6:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156930770",
+        "id": "note9",
+        "text": "<p data-aid=\"156931834\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26.1-2,4?lang=eng#p1\">Mosiah 26:1\u20132, 4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/26.1-2,4?lang=eng#p1",
+          "text": "Mosiah 26:1\u20132, 4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156930749",
+        "id": "note6",
+        "text": "<p data-aid=\"156931825\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.12?lang=eng#p12\">Helaman 5:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.12?lang=eng#p12",
+          "text": "Helaman 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156930755",
+        "id": "note7",
+        "text": "<p data-aid=\"156931828\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.5?lang=eng#p5\">Mosiah 2:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.5?lang=eng#p5",
+          "text": "Mosiah 2:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156930800",
+        "id": "note16",
+        "text": "<p data-aid=\"156931854\" id=\"note16_p1\">See <cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/13-sunday-school?lang=eng&amp;para=title_number18#title_number18\">13.5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/13-sunday-school?lang=eng&amp;para=title_number18#title_number18",
+          "text": "13.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156930800",
+        "id": "note15",
+        "text": "<p data-aid=\"156931851\" id=\"note15_p1\">Members and leaders can order <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022?lang=eng\">Teaching in the Savior\u2019s Way<\/a><\/cite> through Distribution Services. It is also available digitally in the Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022?lang=eng",
+          "text": "Teaching in the Savior\u2019s Way",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156930800",
+        "id": "note14",
+        "text": "<p data-aid=\"156931848\" id=\"note14_p1\">Special accommodations can be made for parents who teach in Primary, such as meeting during the 20-minute Primary singing time or holding a separate meeting at another time (see <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&amp;para=title_number41#title_number41\">17.4<\/a>, Gospel Library).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/17-teaching-the-gospel?lang=eng&amp;para=title_number41#title_number41",
+          "text": "17.4",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156930793",
+        "id": "note13",
+        "text": "<p data-aid=\"156931846\" id=\"note13_p1\"><cite>Teaching in the Savior\u2019s Way<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng&amp;para=8#p8\">31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/12-part-3/13-suggestions-for-a-variety-of-teaching?lang=eng&amp;para=8#p8",
+          "text": "31",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156930788",
+        "id": "note12",
+        "text": "<p data-aid=\"156931843\" id=\"note12_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng&amp;para=23-24#p23\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 89.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/04/45nelson?lang=eng&amp;para=23-24#p23",
+          "text": "Hear Him",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156930776",
+        "id": "note11",
+        "text": "<p data-aid=\"156931840\" id=\"note11_p1\">\u201cThere are many things to teach about in the restored gospel of Jesus Christ\u2014principles, commandments, prophecies, and scripture stories. But all of these are branches of the same tree, for they all have one purpose: to help all people come unto Christ and be perfected in Him (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jarom/1.11?lang=eng#p11\">Jarom 1:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10.32?lang=eng#p32\">Moroni 10:32<\/a>). So no matter what you are teaching, remember that you are really teaching about Jesus Christ and how to become like Him\u201d (<cite>Teaching in the Savior\u2019s Way: For All Who Teach in the Home and in the Church<\/cite> [2022], <a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng&amp;para=1#p1\">6<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/jarom/1.11?lang=eng#p11",
+            "text": "Jarom 1:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10.32?lang=eng#p32",
+            "text": "Moroni 10:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=eng&amp;para=1#p1",
+            "text": "6",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156930776",
+        "id": "note10",
+        "text": "<p data-aid=\"156931837\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25.26?lang=eng#p26\">2 Nephi 25:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25.26?lang=eng#p26",
+          "text": "2 Nephi 25:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156930728",
+        "id": "note1",
+        "text": "<p data-aid=\"156930811\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17.11?lang=eng#p11\">3 Nephi 17:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17.11?lang=eng#p11",
+          "text": "3 Nephi 17:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156930803",
+        "id": "note17",
+        "text": "<p data-aid=\"156931857\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1.1?lang=eng#p1\">Enos 1:1<\/a>. Remember that among the rising generation of unbelievers in the Book of Mormon were Alma the Younger and the sons of Mosiah. When Alma the Younger finally recognized his need to change his life, he remembered what his father had taught about Jesus Christ\u2014teachings that Alma had apparently ignored in the past. But the memory of it remained, and that memory saved Alma spiritually (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36.17-20?lang=eng#p17\">Alma 36:17\u201320<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/enos/1.1?lang=eng#p1",
+            "text": "Enos 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/36.17-20?lang=eng#p17",
+            "text": "Alma 36:17\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

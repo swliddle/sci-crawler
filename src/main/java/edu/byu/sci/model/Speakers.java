@@ -27,9 +27,9 @@ public class Speakers {
     public static final String KEY_LASTNAMES = "lastNames";
     public static final String KEY_SUFFIX = "suffix";
     public static final String KEY_COLLISION = "collision";
-    
+
     private static final String SPEAKERS_FILE = "speakers.json";
-    private static final String[] SUFFIXES = {"Jr.", "Sr.", "I", "II", "III", "IV", "V"};
+    private static final String[] SUFFIXES = { "Jr.", "Sr.", "I", "II", "III", "IV", "V" };
 
     private static final Collator collator = Collator.getInstance(Locale.US);
     private final Logger logger = Logger.getLogger(Speakers.class.getName());
@@ -70,20 +70,27 @@ public class Speakers {
 
     private String abbreviationForName(String givenNames, String lastNames) {
         String[] givenParts = givenNames.split(" ");
-        String[] lastParts = lastNames.split(" ");
+        String[] lastParts = lastNames.split("( |\\-)");
 
         if (givenParts.length + lastParts.length <= 3) {
             return abbreviationForParts(Stream.of(givenParts, lastParts).flatMap(Stream::of)
                     .toArray(String[]::new), 3);
         }
 
-        if (lastParts.length < 2 || givenParts.length > 1) {
+        if (lastParts.length < 2 && givenParts.length > 1) {
             return abbreviationForParts(givenParts, 2) + abbreviationForParts(lastParts, 1);
         }
 
-        String abbr = abbreviationForParts(givenParts, 2);
+        if (lastNames.contains("-")) {
+            String abbr = abbreviationForParts(lastParts, 2);
 
-        return abbr + abbreviationForParts(lastParts, 3 - abbr.length());
+            return abbreviationForParts(givenParts, 3 - abbr.length()) + abbr;
+
+        } else {
+            String abbr = abbreviationForParts(givenParts, 2);
+
+            return abbr + abbreviationForParts(lastParts, 3 - abbr.length());
+        }
     }
 
     private String abbreviationForParts(String[] parts, int maxIndex) {
@@ -133,7 +140,7 @@ public class Speakers {
 
             speakerRecords.write(file, 4, 0);
             file.close();
-        } catch (JSONException|IOException e) {
+        } catch (JSONException | IOException e) {
             logger.log(Level.SEVERE, "Unable to write JSON file", e);
             System.exit(-1);
         }
@@ -265,7 +272,8 @@ public class Speakers {
                     newAbbr = abbr.substring(0, 2).toLowerCase() + abbr.substring(2, 3);
                     break;
                 case 6:
-                    newAbbr = abbr.substring(0, 1).toLowerCase() + abbr.substring(1, 2) + abbr.substring(2, 3).toLowerCase();
+                    newAbbr = abbr.substring(0, 1).toLowerCase() + abbr.substring(1, 2)
+                            + abbr.substring(2, 3).toLowerCase();
                     break;
                 default:
                     newAbbr = abbr.substring(0, 1) + abbr.substring(1, 3).toLowerCase();
@@ -301,7 +309,7 @@ public class Speakers {
 
                     logger.log(Level.WARNING,
                             () -> "Matching speaker without suffix: <" + name
-                            + "> to <" + fullName + ">");
+                                    + "> to <" + fullName + ">");
                 }
             }
         }
@@ -370,7 +378,7 @@ public class Speakers {
             }
         }
 
-        return new String[]{givenNames.toString(), lastNames, suffix};
+        return new String[] { givenNames.toString(), lastNames, suffix };
     }
 
     public JSONObject speakerForAbbreviation(String abbreviation) {
@@ -390,9 +398,8 @@ public class Speakers {
 
         return StringUtils.decodedEntities(
                 speaker.getString(KEY_GIVENNAMES)
-                + " " + speaker.getString(KEY_LASTNAMES)
-                + suffix
-        );
+                        + " " + speaker.getString(KEY_LASTNAMES)
+                        + suffix);
     }
 
     public static String speakerFullNameLessSuffix(JSONObject speaker) {
@@ -424,8 +431,7 @@ public class Speakers {
 
         return StringUtils.decodedEntities(
                 speaker.getString(KEY_LASTNAMES)
-                + ", " + speaker.getString(KEY_GIVENNAMES)
-                + suffix
-        );
+                        + ", " + speaker.getString(KEY_GIVENNAMES)
+                        + suffix);
     }
 }

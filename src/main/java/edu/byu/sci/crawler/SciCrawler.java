@@ -223,16 +223,19 @@ public class SciCrawler {
                 .compile("<a\\s+class=\"scripture-ref\"\\s+href=\"(" + hrefPattern + ")\"[^>]*>(.*?)</a>");
     }
 
+    // Static properties for command-line parameters
+
+    static int requestedYear = -1;
+    static int requestedMonth = -1;
+    static String requestedLanguage = "";
+    static boolean invalidCommandLine = false;
+    static boolean replaceTalkBodies = false;
+    static boolean writeContentToFiles = false;
+    static boolean writeToDatabase = false;
+    static boolean useConferenceSite = false;
+
     public static void main(String[] args) {
-        int year = -1;
-        int month = -1;
-        String language = "";
         Logger logger = Logger.getLogger(SciCrawler.class.getName());
-        boolean invalidCommandLine = false;
-        boolean replaceTalkBodies = false;
-        boolean writeContentToFiles = false;
-        boolean writeToDatabase = false;
-        boolean useConferenceSite = false;
 
         if (args.length >= 3) {
             int requiredArgCount = 0;
@@ -262,13 +265,13 @@ public class SciCrawler {
                     try {
                         switch (requiredArgCount) {
                             case 0:
-                                year = Integer.parseInt(args[i]);
+                                requestedYear = Integer.parseInt(args[i]);
                                 break;
                             case 1:
-                                month = Integer.parseInt(args[i]);
+                                requestedMonth = Integer.parseInt(args[i]);
                                 break;
                             case 2:
-                                language = args[i];
+                                requestedLanguage = args[i];
                                 break;
                             default:
                                 String badParameter = args[i];
@@ -285,15 +288,19 @@ public class SciCrawler {
             }
         }
 
-        if (year < 1971 || month < 0 || (month != 4 && month != 10) || year > 2050
-                || (!language.equals("eng") && !language.equals("spa")) || invalidCommandLine) {
+        if (requestedYear < 1971 || requestedMonth < 0 || (requestedMonth != 4 && requestedMonth != 10) || requestedYear > 2050
+                || (!requestedLanguage.equals("eng") && !requestedLanguage.equals("spa")) || invalidCommandLine) {
             logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
             logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
             logger.log(Level.SEVERE, "    and language is either eng or spa");
             System.exit(-1);
         }
 
-        SciCrawler crawler = new SciCrawler(year, month, language);
+        crawl();
+    }
+
+    private static void crawl() {
+        SciCrawler crawler = new SciCrawler(requestedYear, requestedMonth, requestedLanguage);
 
         crawler.getTableOfContents(useConferenceSite);
         crawler.readPageRanges();
@@ -965,37 +972,7 @@ public class SciCrawler {
         }
 
         if (entries.size() != citations.length) {
-            for (int i = 0; i < entries.size() && i < citations.length; i++) {
-                LinkEntry entry = entries.get(i);
-                Link link = citations[i];
-
-                if (!entry.href.equalsIgnoreCase(link.href)) {
-                    final int index = i;
-
-                    logger.log(Level.SEVERE, () -> "First mismatch at position "
-                            + index + " for " + entry.href + " link href " + link.href);
-                    break;
-                }
-            }
-
-            StringBuilder entriesText = new StringBuilder("Hyperlink list:\n");
-
-            entries.forEach(entry -> {
-                entriesText.append(entry.href);
-                entriesText.append("\n");
-            });
-
-            entriesText.append("\nCitations list:\n");
-
-            for (int i = 0; i < citations.length; i++) {
-                entriesText.append(citations[i].href);
-                entriesText.append("\n");
-            }
-
-            logger.log(Level.SEVERE, entriesText::toString);
-            logger.log(Level.SEVERE, () -> "Hyperlink list size doesn't match citations list size");
-            logger.log(Level.SEVERE, () -> "Correct this mismatch in " + talkId + " before proceeding");
-            System.exit(-1);
+            findMismatchedHyperlinkEntry(entries, citations, talkId);
         } else {
             for (int i = entries.size() - 1; i >= 0; i--) {
                 LinkEntry entry = entries.get(i);
@@ -1033,6 +1010,40 @@ public class SciCrawler {
         }
 
         return body.toString();
+    }
+
+    private void findMismatchedHyperlinkEntry(List<LinkEntry> entries, Link[] citations, String talkId) {
+        for (int i = 0; i < entries.size() && i < citations.length; i++) {
+            LinkEntry entry = entries.get(i);
+            Link link = citations[i];
+
+            if (!entry.href.equalsIgnoreCase(link.href)) {
+                final int index = i;
+
+                logger.log(Level.SEVERE, () -> "First mismatch at position "
+                        + index + " for " + entry.href + " link href " + link.href);
+                break;
+            }
+        }
+
+        StringBuilder entriesText = new StringBuilder("Hyperlink list:\n");
+
+        entries.forEach(entry -> {
+            entriesText.append(entry.href);
+            entriesText.append("\n");
+        });
+
+        entriesText.append("\nCitations list:\n");
+
+        for (int i = 0; i < citations.length; i++) {
+            entriesText.append(citations[i].href);
+            entriesText.append("\n");
+        }
+
+        logger.log(Level.SEVERE, entriesText::toString);
+        logger.log(Level.SEVERE, () -> "Hyperlink list size doesn't match citations list size");
+        logger.log(Level.SEVERE, () -> "Correct this mismatch in " + talkId + " before proceeding");
+        System.exit(-1);
     }
 
     private void showTables() {

@@ -1,0 +1,724 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/12wright?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "347bd736d00044829dee4a82e0bca457",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/12wright",
+      "data-aid": "156931345",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "347bd736d00044829dee4a82e0bca457"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/35/d3/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Abide the Day in Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156931345",
+      {"key": "156931345"}
+    ],
+    [
+      "156931346",
+      {"key": "156931346"}
+    ],
+    [
+      "156931348",
+      {"key": "156931348"}
+    ],
+    [
+      "156931350",
+      {"key": "156931350"}
+    ],
+    [
+      "156931352",
+      {"key": "156931352"}
+    ],
+    [
+      "156931354",
+      {"key": "156931354"}
+    ],
+    [
+      "156931356",
+      {"key": "156931356"}
+    ],
+    [
+      "156931358",
+      {"key": "156931358"}
+    ],
+    [
+      "156931359",
+      {"key": "156931359"}
+    ],
+    [
+      "156931361",
+      {"key": "156931361"}
+    ],
+    [
+      "156931363",
+      {"key": "156931363"}
+    ],
+    [
+      "156931366",
+      {"key": "156931366"}
+    ],
+    [
+      "156931367",
+      {"key": "156931367"}
+    ],
+    [
+      "156931369",
+      {"key": "156931369"}
+    ],
+    [
+      "156931371",
+      {"key": "156931371"}
+    ],
+    [
+      "156931372",
+      {"key": "156931372"}
+    ],
+    [
+      "156931374",
+      {"key": "156931374"}
+    ],
+    [
+      "156931375",
+      {"key": "156931375"}
+    ],
+    [
+      "156931377",
+      {"key": "156931377"}
+    ],
+    [
+      "156931379",
+      {"key": "156931379"}
+    ],
+    [
+      "156931381",
+      {"key": "156931381"}
+    ],
+    [
+      "156931383",
+      {"key": "156931383"}
+    ],
+    [
+      "156931386",
+      {"key": "156931386"}
+    ],
+    [
+      "156931388",
+      {"key": "156931388"}
+    ],
+    [
+      "156931389",
+      {"key": "156931389"}
+    ],
+    [
+      "156931391",
+      {"key": "156931391"}
+    ],
+    [
+      "156931393",
+      {"key": "156931393"}
+    ],
+    [
+      "156931396",
+      {"key": "156931396"}
+    ],
+    [
+      "156931398",
+      {"key": "156931398"}
+    ],
+    [
+      "156931401",
+      {"key": "156931401"}
+    ],
+    [
+      "156931404",
+      {"key": "156931404"}
+    ],
+    [
+      "156931407",
+      {"key": "156931407"}
+    ],
+    [
+      "156931409",
+      {"key": "156931409"}
+    ],
+    [
+      "156931412",
+      {"key": "156931412"}
+    ],
+    [
+      "156931415",
+      {"key": "156931415"}
+    ],
+    [
+      "156931418",
+      {"key": "156931418"}
+    ],
+    [
+      "156931420",
+      {"key": "156931420"}
+    ],
+    [
+      "156931424",
+      {"key": "156931424"}
+    ],
+    [
+      "156931426",
+      {"key": "156931426"}
+    ],
+    [
+      "156931428",
+      {"key": "156931428"}
+    ],
+    [
+      "156931431",
+      {"key": "156931431"}
+    ],
+    [
+      "156931434",
+      {"key": "156931434"}
+    ],
+    [
+      "156931437",
+      {"key": "156931437"}
+    ],
+    [
+      "156931440",
+      {"key": "156931440"}
+    ],
+    [
+      "156931444",
+      {"key": "156931444"}
+    ],
+    [
+      "156931447",
+      {"key": "156931447"}
+    ],
+    [
+      "156931452",
+      {"key": "156931452"}
+    ],
+    [
+      "156931455",
+      {"key": "156931455"}
+    ],
+    [
+      "156931459",
+      {"key": "156931459"}
+    ],
+    [
+      "156931463",
+      {"key": "156931463"}
+    ],
+    [
+      "156931467",
+      {"key": "156931467"}
+    ],
+    [
+      "156931472",
+      {"key": "156931472"}
+    ],
+    [
+      "156931476",
+      {"key": "156931476"}
+    ],
+    [
+      "156931479",
+      {"key": "156931479"}
+    ],
+    [
+      "156931483",
+      {"key": "156931483"}
+    ],
+    [
+      "156931487",
+      {"key": "156931487"}
+    ],
+    [
+      "156931491",
+      {"key": "156931491"}
+    ],
+    [
+      "156931495",
+      {"key": "156931495"}
+    ],
+    [
+      "156931500",
+      {"key": "156931500"}
+    ],
+    [
+      "156931505",
+      {"key": "156931505"}
+    ],
+    [
+      "156931509",
+      {"key": "156931509"}
+    ],
+    [
+      "156931514",
+      {"key": "156931514"}
+    ],
+    [
+      "156931519",
+      {"key": "156931519"}
+    ],
+    [
+      "156931525",
+      {"key": "156931525"}
+    ],
+    [
+      "156931530",
+      {"key": "156931530"}
+    ],
+    [
+      "156931534",
+      {"key": "156931534"}
+    ],
+    [
+      "156931539",
+      {"key": "156931539"}
+    ],
+    [
+      "156931544",
+      {"key": "156931544"}
+    ],
+    [
+      "156931549",
+      {"key": "156931549"}
+    ],
+    [
+      "156931555",
+      {"key": "156931555"}
+    ],
+    [
+      "156931561",
+      {"key": "156931561"}
+    ],
+    [
+      "156931567",
+      {"key": "156931567"}
+    ],
+    [
+      "156931573",
+      {"key": "156931573"}
+    ],
+    [
+      "156931579",
+      {"key": "156931579"}
+    ],
+    [
+      "156931585",
+      {"key": "156931585"}
+    ],
+    [
+      "156931591",
+      {"key": "156931591"}
+    ],
+    [
+      "156931597",
+      {"key": "156931597"}
+    ],
+    [
+      "156931603",
+      {"key": "156931603"}
+    ],
+    [
+      "156931608",
+      {"key": "156931608"}
+    ],
+    [
+      "156931614",
+      {"key": "156931614"}
+    ],
+    [
+      "156931620",
+      {"key": "156931620"}
+    ],
+    [
+      "156931626",
+      {"key": "156931626"}
+    ],
+    [
+      "156931632",
+      {"key": "156931632"}
+    ],
+    [
+      "156931638",
+      {"key": "156931638"}
+    ],
+    [
+      "156931644",
+      {"key": "156931644"}
+    ],
+    [
+      "156931651",
+      {"key": "156931651"}
+    ],
+    [
+      "156931657",
+      {"key": "156931657"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/12wright",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Sister Wright teaches that with the help of Jesus Christ, we can all \u201cabide the day\u201d and meet and overcome the challenges we face.",
+          "title": "Abide the Day in Christ"
+        },
+        "pageSocial": {
+          "description": "Sister Wright teaches that with the help of Jesus Christ, we can all \u201cabide the day\u201d and meet and overcome the challenges we face.",
+          "title": "Abide the Day in Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/35/d3/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456/35d3dc4b6e4db1c95835c97dbaaafb5bda40e456.jpeg\" data-video-title=\"Abide the Day in Christ\" data-video-description=\"Sister Wright teaches that with the help of Jesus Christ, we can all \u201cabide the day\u201d and meet and overcome the challenges we face.\" data-video-id=\"6338158540112\" data-ip=\"Download and Streaming                            \" data-duration=\"633067\" data-assetId=\"feb5f7a85fbd11ee9f3feeeeac1e81db9e56d085\" data-ref-id=\"3BFE88C1F103B68293B0D5ACC48A6494DEFBA95E\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338158540112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"212879452\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"59028815\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"152504787\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1020-amy-a-wright-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"212879452\"/><\/video><h1 data-aid=\"156931346\" id=\"title1\">Abide the Day in Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156931348\" id=\"author1\">By Sister Amy A. Wright<\/p>\n<p class=\"author-role\" data-aid=\"156931350\" id=\"author2\">First Counselor in the Primary General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156931352\" id=\"kicker1\">Jesus Christ makes it possible for us to \u201cabide the day.\u201d<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156931354\" id=\"p1\">It was a day filled with pointed and direct parables, complex questions, and profound doctrine. After delivering a scathing rebuke of those who were like \u201cwhited sepulchres, which indeed appear beautiful outward, but are within full of dead men\u2019s bones, and of all uncleanness,\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> Jesus taught three more parables about spiritual preparedness and discipleship. One of these was the parable of the ten virgins.<\/p>\n<p data-aid=\"156931356\" id=\"p2\">\u201cThen shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.<\/p>\n<p data-aid=\"156931358\" id=\"p3\">\u201cAnd five of them were wise, and five were foolish.<\/p>\n<p data-aid=\"156931359\" id=\"p4\">\u201cThey that were foolish took their lamps, and took no oil with them:<\/p>\n<p data-aid=\"156931361\" id=\"p5\">\u201cBut the wise took oil in their vessels with their lamps.<\/p>\n<p data-aid=\"156931363\" id=\"p6\">\u201cWhile the bridegroom tarried, they all slumbered and slept.<\/p>\n<p data-aid=\"156931366\" id=\"p7\">\u201cAnd at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.<\/p>\n<p data-aid=\"156931367\" id=\"p8\">\u201cThen all those virgins arose, and trimmed their lamps.<\/p>\n<p data-aid=\"156931369\" id=\"p9\">\u201cAnd the foolish said unto the wise, Give us of your oil; for our lamps are gone out.<\/p>\n<p data-aid=\"156931371\" id=\"p10\">\u201cBut the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.<\/p>\n<p data-aid=\"156931372\" id=\"p11\">\u201cAnd while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.<\/p>\n<p data-aid=\"156931374\" id=\"p12\">\u201cAfterward came also the other virgins, saying, Lord, Lord, open to us.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"156931375\" id=\"p13\">\u201cBut he answered and said, Verily I say unto you, Ye know me not.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"156931377\" id=\"p14\">\u201cWatch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"156931379\" id=\"p15\">President Dallin H. Oaks posed the following thought-provoking questions in relation to the coming of the Bridegroom:<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> \u201cWhat if the day of His coming were tomorrow? If we knew that we would meet the Lord tomorrow\u2014through our premature death or through His unexpected coming\u2014what would we do today?\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"156931381\" id=\"p16\">I have learned from personal experience that spiritual preparation for the coming of the Lord is not only essential but the only way to find true peace and happiness.<\/p>\n<p data-aid=\"156931383\" id=\"p17\">It was a crisp fall day when I first heard the words \u201cYou have cancer.\u201d My husband and I were stunned! As we drove home in silence, processing the news, my heart turned to our three sons.<\/p>\n<p data-aid=\"156931386\" id=\"p18\">In my mind I asked Heavenly Father, \u201cAm I going to die?\u201d<\/p>\n<p data-aid=\"156931388\" id=\"p48\">The Holy Ghost whispered, \u201cEverything is going to be OK.\u201d<\/p>\n<p data-aid=\"156931389\" id=\"p49\">Then I asked, \u201cAm I going to live?\u201d<\/p>\n<p data-aid=\"156931391\" id=\"p50\">Again, the answer came: \u201cEverything is going to be OK.\u201d<\/p>\n<p data-aid=\"156931393\" id=\"p51\">I was confused. Why did I receive the exact same answer whether I lived or died?<\/p>\n<p data-aid=\"156931396\" id=\"p19\">Then suddenly every fiber of my being filled with absolute peace as I was reminded: We did not need to hurry home and teach our children how to pray. They knew how to receive answers and comfort from prayer. We did not need to hurry home and teach them about the scriptures or words of living prophets. Those words were already a familiar source of strength and understanding. We did not need to hurry home and teach them about repentance, the Resurrection, the Restoration, the plan of salvation, eternal families, or the very doctrine of Jesus Christ.<\/p>\n<p data-aid=\"156931398\" id=\"p20\">In that moment every family home evening lesson, scripture study session, prayer of faith offered, blessing given, testimony shared, covenant made and kept, house of the Lord attended, and Sabbath day observed mattered\u2014oh, how it mattered! It was too late to put oil in our lamps. We needed every single drop, and we needed it right now!<\/p>\n<p data-aid=\"156931401\" id=\"p21\">Because of Jesus Christ and His restored gospel, if I died, my family would be comforted, strengthened, and one day restored. If I lived, I would have access to the greatest power on this earth to help succor, sustain, and heal me. In the end, because of Jesus Christ, everything can be OK.<\/p>\n<p data-aid=\"156931404\" id=\"p22\">We learn from a careful study of the Doctrine and Covenants what \u201cOK\u201d looks like:<\/p>\n<p data-aid=\"156931407\" id=\"p23\">\u201cAnd at that day, when I shall come in my glory, shall the parable be fulfilled which I spake concerning the ten virgins.<\/p>\n<p data-aid=\"156931409\" id=\"p24\">\u201cFor they that are wise and have received the truth, and have taken the Holy Spirit for their guide, and have not been deceived\u2014verily I say unto you, they shall not be hewn down and cast into the fire, but shall <em>abide the day<\/em>.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"156931412\" id=\"p25\">Jesus Christ makes it possible for us to \u201cabide the day.\u201d Abiding the day does not mean adding to an ever-increasing to-do list. Think of a magnifying glass. Its sole purpose is not simply to make things appear bigger. It can also gather and focus light to make it more powerful. We need to simplify, focus our efforts, and be gatherers of the Light of Jesus Christ. We need more holy and revelatory experiences.<\/p>\n<p data-aid=\"156931415\" id=\"p26\">Located in northwestern Israel is a beautiful mountain range often referred to as the \u201cevergreen mountain.\u201d Mount Carmel<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> stays green year-round due largely in part to tiny amounts of dew. Nourishment happens daily. Like \u201cthe dews of Carmel,\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> as we seek to nourish our souls \u201cwith things pertaining to righteousness,\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> \u201csmall and simple things,\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> our testimonies and the testimonies of our children will live!<\/p>\n<p data-aid=\"156931418\" id=\"p27\">Now, you may be thinking, \u201cBut Sister Wright, you do not know my family. We are really struggling and do not look anything like this.\u201d You are correct. I do not know your family. But a God with infinite love, mercy, power, knowledge, and glory does.<\/p>\n<p data-aid=\"156931420\" id=\"p28\">The questions you may be asking are questions of the heart that ache in the depths of your soul. Similar questions are found in the holy scriptures:<\/p>\n<p data-aid=\"156931424\" id=\"p29\">\u201cMaster, carest thou not that [my family] perish?\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"156931426\" id=\"p30\">\u201cWhere is now my hope?\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"156931428\" id=\"p31\">\u201cWhat shall [I] do, that this cloud of darkness may be removed from overshadowing [me]?\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"156931431\" id=\"p32\">\u201cWhere shall wisdom be found? and where is the place of understanding?\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"156931434\" id=\"p33\">\u201cHow is it possible that [I] can lay hold upon every good thing?\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a><\/p>\n<p data-aid=\"156931437\" id=\"p34\">\u201cLord, what wilt thou have me to do?\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"156931440\" id=\"p35\">And then ever so sweetly come the answers:<\/p>\n<p data-aid=\"156931444\" id=\"p36\">\u201cBelievest thou in the power of Christ unto salvation?\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"156931447\" id=\"p37\">\u201cHath the Lord commanded any that they should not partake of his goodness?\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"156931452\" id=\"p38\">\u201cBelieve ye that [He is] able to do this?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"156931455\" id=\"p39\">\u201cBelievest thou the prophets?\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"156931459\" id=\"p40\">\u201cDo ye exercise faith in the redemption of him who created you?\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"156931463\" id=\"p41\">\u201cShall not the Judge of all the earth do right?\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"156931467\" id=\"p42\">My dear friends, we cannot share our oil, but we can share <em>His<\/em> light. Oil in our lamps will not only help us \u201cabide the day\u201d but can also be the means of illuminating the path that leads those we love to the Savior, who stands ready \u201cwith open arms to receive\u201d them.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"156931472\" id=\"p43\">\u201cThus saith the Lord; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, \u2026 and they shall come again from the land of the enemy.<\/p>\n<p data-aid=\"156931476\" id=\"p44\">\u201cAnd there is <em>hope in thine end<\/em>, saith the Lord, that thy children shall come again to their own border.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"156931479\" id=\"p45\">Jesus Christ is the \u201chope in thine end.\u201d Nothing we have or have not done is beyond the reach of His infinite and eternal sacrifice. He is the reason why it is never the end of our story.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> Therefore we \u201cmust press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if [we] shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: [We] shall have eternal life.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"156931483\" id=\"p46\">Eternal life is eternal joy. Joy in this life, <em>right now<\/em>\u2014not despite the challenges of our day but because of the Lord\u2019s help to learn from and ultimately overcome them\u2014<em>and<\/em> immeasurable joy in the life to come. Tears will dry up, broken hearts will be mended, what is lost shall be found, concerns shall be resolved, families will be restored, and all that the Father hath will be ours.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"156931487\" id=\"p47\">Look to Jesus Christ and live<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> is my testimony in the sacred and holy name of the beloved \u201cShepherd and Bishop of [our] souls,\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156931491\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156931495\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.27?lang=eng#p27\">Matthew 23:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156931500\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-11?lang=eng#p1\">Matthew 25:1\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156931505\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25.11?lang=eng#p11\">Joseph Smith Translation, Matthew 25:11<\/a> (in Matthew 25:12, footnote <em>a<\/em>).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156931509\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.13?lang=eng#p13\">Matthew 25:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156931514\" id=\"note5_p1\">Elder James E. Talmage taught: \u201cThe Bridegroom is the Lord Jesus; the marriage feast symbolizes His coming in glory, to receive unto Himself the Church on earth as His bride. The virgins typify those who profess a belief in Christ, and who, therefore, confidently expect to be included among the blessed participants at the feast. The lighted lamp, which each of the maidens carried, is the outward profession of Christian belief and practise; and in the oil reserves of the wiser ones we may see the spiritual strength and abundance which diligence and devotion in God\u2019s service alone can insure\u201d (<cite>Jesus the Christ<\/cite> [1916], 578\u201379).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156931519\" id=\"note6_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&amp;para=41#p41\">Preparation for the Second Coming<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 9.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156931525\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-57?lang=eng#p56\">Doctrine and Covenants 45:56\u201357<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156931530\" id=\"note8_p1\">\u201cDewfall provides a limited amount of moisture even during the dry summer, and is important to summer crops such as watermelon. The nearer the area to the sea, the better are its prospects for dewfall on windless nights when the soil grows colder than the air which touches its surface. In general, the Coastal Plain has more dew than inland regions; richest is Mount Carmel, which has an average 250 nights of dew per year\u201d (Efraim Orni and Elisha Efrat, <cite>Geography of Israel<\/cite>, 3rd rev. ed. [1971], 147).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156931534\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128.19?lang=eng#p19\">Doctrine and Covenants 128:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156931539\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.18?lang=eng#p18\">Mosiah 23:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156931544\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.6?lang=eng#p6\">Alma 37:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156931549\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.38?lang=eng#p38\">Mark 4:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156931555\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/17.15?lang=eng#p15\">Job 17:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156931561\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.40?lang=eng#p40\">Helaman 5:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156931567\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/28.12?lang=eng#p12\">Job 28:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156931573\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.20?lang=eng#p20\">Moroni 7:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156931579\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/9.6?lang=eng#p6\">Acts 9:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156931585\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.6?lang=eng#p6\">Alma 15:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156931591\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.28?lang=eng#p28\">2 Nephi 26:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156931597\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.28?lang=eng#p28\">Matthew 9:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156931603\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/26.27?lang=eng#p27\">Acts 26:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156931608\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.15?lang=eng#p15\">Alma 5:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156931614\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/18.25?lang=eng#p25\">Genesis 18:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156931620\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/6.17?lang=eng#p17\">Mormon 6:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156931626\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.16-17?lang=eng#p16\">Jeremiah 31:16\u201317<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156931632\" id=\"note26_p1\">See Camille N. Johnson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/42johnson?lang=eng&amp;para=29#p29\">Invite Christ to Author Your Story<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 82: \u201cLet the adversity and affliction that are part of every good story be a means by which you draw closer to, and become more like, Jesus Christ.\u201d<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156931638\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156931644\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=eng#p38\">Doctrine and Covenants 84:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156931651\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.47?lang=eng#p47\">Alma 37:47<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156931657\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.25?lang=eng#p25\">1 Peter 2:25<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156931377",
+        "id": "note4",
+        "text": "<p data-aid=\"156931509\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.13?lang=eng#p13\">Matthew 25:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.13?lang=eng#p13",
+          "text": "Matthew 25:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156931379",
+        "id": "note5",
+        "text": "<p data-aid=\"156931514\" id=\"note5_p1\">Elder James E. Talmage taught: \u201cThe Bridegroom is the Lord Jesus; the marriage feast symbolizes His coming in glory, to receive unto Himself the Church on earth as His bride. The virgins typify those who profess a belief in Christ, and who, therefore, confidently expect to be included among the blessed participants at the feast. The lighted lamp, which each of the maidens carried, is the outward profession of Christian belief and practise; and in the oil reserves of the wiser ones we may see the spiritual strength and abundance which diligence and devotion in God\u2019s service alone can insure\u201d (<cite>Jesus the Christ<\/cite> [1916], 578\u201379).<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156931374",
+        "id": "note2",
+        "text": "<p data-aid=\"156931500\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25.1-11?lang=eng#p1\">Matthew 25:1\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25.1-11?lang=eng#p1",
+          "text": "Matthew 25:1\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156931375",
+        "id": "note3",
+        "text": "<p data-aid=\"156931505\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25.11?lang=eng#p11\">Joseph Smith Translation, Matthew 25:11<\/a> (in Matthew 25:12, footnote <em>a<\/em>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/jst/jst-matt/25.11?lang=eng#p11",
+          "text": "Joseph Smith Translation, Matthew 25:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156931415",
+        "id": "note8",
+        "text": "<p data-aid=\"156931530\" id=\"note8_p1\">\u201cDewfall provides a limited amount of moisture even during the dry summer, and is important to summer crops such as watermelon. The nearer the area to the sea, the better are its prospects for dewfall on windless nights when the soil grows colder than the air which touches its surface. In general, the Coastal Plain has more dew than inland regions; richest is Mount Carmel, which has an average 250 nights of dew per year\u201d (Efraim Orni and Elisha Efrat, <cite>Geography of Israel<\/cite>, 3rd rev. ed. [1971], 147).<\/p>"
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156931415",
+        "id": "note9",
+        "text": "<p data-aid=\"156931534\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128.19?lang=eng#p19\">Doctrine and Covenants 128:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128.19?lang=eng#p19",
+          "text": "Doctrine and Covenants 128:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156931379",
+        "id": "note6",
+        "text": "<p data-aid=\"156931519\" id=\"note6_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&amp;para=41#p41\">Preparation for the Second Coming<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2004, 9.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&amp;para=41#p41",
+          "text": "Preparation for the Second Coming",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156931409",
+        "id": "note7",
+        "text": "<p data-aid=\"156931525\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45.56-57?lang=eng#p56\">Doctrine and Covenants 45:56\u201357<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45.56-57?lang=eng#p56",
+          "text": "Doctrine and Covenants 45:56\u201357",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156931487",
+        "id": "note30",
+        "text": "<p data-aid=\"156931657\" id=\"note30_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2.25?lang=eng#p25\">1 Peter 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2.25?lang=eng#p25",
+          "text": "1 Peter 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156931434",
+        "id": "note16",
+        "text": "<p data-aid=\"156931573\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.20?lang=eng#p20\">Moroni 7:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.20?lang=eng#p20",
+          "text": "Moroni 7:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156931431",
+        "id": "note15",
+        "text": "<p data-aid=\"156931567\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/28.12?lang=eng#p12\">Job 28:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/28.12?lang=eng#p12",
+          "text": "Job 28:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156931428",
+        "id": "note14",
+        "text": "<p data-aid=\"156931561\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5.40?lang=eng#p40\">Helaman 5:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5.40?lang=eng#p40",
+          "text": "Helaman 5:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156931426",
+        "id": "note13",
+        "text": "<p data-aid=\"156931555\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/17.15?lang=eng#p15\">Job 17:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/17.15?lang=eng#p15",
+          "text": "Job 17:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156931424",
+        "id": "note12",
+        "text": "<p data-aid=\"156931549\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/4.38?lang=eng#p38\">Mark 4:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/4.38?lang=eng#p38",
+          "text": "Mark 4:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156931415",
+        "id": "note11",
+        "text": "<p data-aid=\"156931544\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.6?lang=eng#p6\">Alma 37:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.6?lang=eng#p6",
+          "text": "Alma 37:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156931415",
+        "id": "note10",
+        "text": "<p data-aid=\"156931539\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23.18?lang=eng#p18\">Mosiah 23:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/23.18?lang=eng#p18",
+          "text": "Mosiah 23:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156931447",
+        "id": "note19",
+        "text": "<p data-aid=\"156931591\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.28?lang=eng#p28\">2 Nephi 26:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.28?lang=eng#p28",
+          "text": "2 Nephi 26:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156931444",
+        "id": "note18",
+        "text": "<p data-aid=\"156931585\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/15.6?lang=eng#p6\">Alma 15:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/15.6?lang=eng#p6",
+          "text": "Alma 15:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156931437",
+        "id": "note17",
+        "text": "<p data-aid=\"156931579\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/9.6?lang=eng#p6\">Acts 9:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/9.6?lang=eng#p6",
+          "text": "Acts 9:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156931479",
+        "id": "note27",
+        "text": "<p data-aid=\"156931638\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+          "text": "2 Nephi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156931479",
+        "id": "note26",
+        "text": "<p data-aid=\"156931632\" id=\"note26_p1\">See Camille N. Johnson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/42johnson?lang=eng&amp;para=29#p29\">Invite Christ to Author Your Story<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 82: \u201cLet the adversity and affliction that are part of every good story be a means by which you draw closer to, and become more like, Jesus Christ.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/42johnson?lang=eng&amp;para=29#p29",
+          "text": "Invite Christ to Author Your Story",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156931476",
+        "id": "note25",
+        "text": "<p data-aid=\"156931626\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/31.16-17?lang=eng#p16\">Jeremiah 31:16\u201317<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/jer/31.16-17?lang=eng#p16",
+          "text": "Jeremiah 31:16\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156931467",
+        "id": "note24",
+        "text": "<p data-aid=\"156931620\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/6.17?lang=eng#p17\">Mormon 6:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/6.17?lang=eng#p17",
+          "text": "Mormon 6:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156931463",
+        "id": "note23",
+        "text": "<p data-aid=\"156931614\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/18.25?lang=eng#p25\">Genesis 18:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/18.25?lang=eng#p25",
+          "text": "Genesis 18:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156931459",
+        "id": "note22",
+        "text": "<p data-aid=\"156931608\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.15?lang=eng#p15\">Alma 5:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.15?lang=eng#p15",
+          "text": "Alma 5:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156931455",
+        "id": "note21",
+        "text": "<p data-aid=\"156931603\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/26.27?lang=eng#p27\">Acts 26:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/26.27?lang=eng#p27",
+          "text": "Acts 26:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156931452",
+        "id": "note20",
+        "text": "<p data-aid=\"156931597\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.28?lang=eng#p28\">Matthew 9:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/9.28?lang=eng#p28",
+          "text": "Matthew 9:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156931354",
+        "id": "note1",
+        "text": "<p data-aid=\"156931495\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23.27?lang=eng#p27\">Matthew 23:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/23.27?lang=eng#p27",
+          "text": "Matthew 23:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156931487",
+        "id": "note29",
+        "text": "<p data-aid=\"156931651\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37.47?lang=eng#p47\">Alma 37:47<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37.47?lang=eng#p47",
+          "text": "Alma 37:47",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156931483",
+        "id": "note28",
+        "text": "<p data-aid=\"156931644\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.38?lang=eng#p38\">Doctrine and Covenants 84:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.38?lang=eng#p38",
+          "text": "Doctrine and Covenants 84:38",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

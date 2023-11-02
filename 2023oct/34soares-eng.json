@@ -1,0 +1,682 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/34soares?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "f82222d4d5284f7aa9a9e30d370c1f3f",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/34soares",
+      "data-aid": "156931903",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "f82222d4d5284f7aa9a9e30d370c1f3f"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/21/d3/21d339dda755874683abd5fe1233237a623f027c/21d339dda755874683abd5fe1233237a623f027c.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-3040-ulisses-soares-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Brothers and Sisters in Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156931903",
+      {"key": "156931903"}
+    ],
+    [
+      "156931909",
+      {"key": "156931909"}
+    ],
+    [
+      "156931913",
+      {"key": "156931913"}
+    ],
+    [
+      "156931917",
+      {"key": "156931917"}
+    ],
+    [
+      "156931922",
+      {"key": "156931922"}
+    ],
+    [
+      "156931927",
+      {"key": "156931927"}
+    ],
+    [
+      "156931932",
+      {"key": "156931932"}
+    ],
+    [
+      "156931937",
+      {"key": "156931937"}
+    ],
+    [
+      "156931942",
+      {"key": "156931942"}
+    ],
+    [
+      "156931945",
+      {"key": "156931945"}
+    ],
+    [
+      "156931950",
+      {"key": "156931950"}
+    ],
+    [
+      "156931954",
+      {"key": "156931954"}
+    ],
+    [
+      "156931959",
+      {"key": "156931959"}
+    ],
+    [
+      "156931964",
+      {"key": "156931964"}
+    ],
+    [
+      "156931969",
+      {"key": "156931969"}
+    ],
+    [
+      "156931973",
+      {"key": "156931973"}
+    ],
+    [
+      "156931978",
+      {"key": "156931978"}
+    ],
+    [
+      "156931985",
+      {"key": "156931985"}
+    ],
+    [
+      "156931991",
+      {"key": "156931991"}
+    ],
+    [
+      "156931996",
+      {"key": "156931996"}
+    ],
+    [
+      "156932002",
+      {"key": "156932002"}
+    ],
+    [
+      "156932009",
+      {"key": "156932009"}
+    ],
+    [
+      "156932016",
+      {"key": "156932016"}
+    ],
+    [
+      "156932021",
+      {"key": "156932021"}
+    ],
+    [
+      "156932028",
+      {"key": "156932028"}
+    ],
+    [
+      "156932034",
+      {"key": "156932034"}
+    ],
+    [
+      "156932042",
+      {"key": "156932042"}
+    ],
+    [
+      "156932049",
+      {"key": "156932049"}
+    ],
+    [
+      "156932055",
+      {"key": "156932055"}
+    ],
+    [
+      "156932062",
+      {"key": "156932062"}
+    ],
+    [
+      "156932070",
+      {"key": "156932070"}
+    ],
+    [
+      "156932078",
+      {"key": "156932078"}
+    ],
+    [
+      "156932085",
+      {"key": "156932085"}
+    ],
+    [
+      "156932093",
+      {"key": "156932093"}
+    ],
+    [
+      "156932101",
+      {"key": "156932101"}
+    ],
+    [
+      "156932109",
+      {"key": "156932109"}
+    ],
+    [
+      "156932118",
+      {"key": "156932118"}
+    ],
+    [
+      "156932125",
+      {"key": "156932125"}
+    ],
+    [
+      "156932135",
+      {"key": "156932135"}
+    ],
+    [
+      "156932145",
+      {"key": "156932145"}
+    ],
+    [
+      "156932154",
+      {"key": "156932154"}
+    ],
+    [
+      "156932162",
+      {"key": "156932162"}
+    ],
+    [
+      "156932172",
+      {"key": "156932172"}
+    ],
+    [
+      "156932180",
+      {"key": "156932180"}
+    ],
+    [
+      "156932190",
+      {"key": "156932190"}
+    ],
+    [
+      "156932199",
+      {"key": "156932199"}
+    ],
+    [
+      "156932208",
+      {"key": "156932208"}
+    ],
+    [
+      "156932220",
+      {"key": "156932220"}
+    ],
+    [
+      "156932228",
+      {"key": "156932228"}
+    ],
+    [
+      "156932236",
+      {"key": "156932236"}
+    ],
+    [
+      "156932244",
+      {"key": "156932244"}
+    ],
+    [
+      "156932249",
+      {"key": "156932249"}
+    ],
+    [
+      "156932256",
+      {"key": "156932256"}
+    ],
+    [
+      "156932261",
+      {"key": "156932261"}
+    ],
+    [
+      "156932266",
+      {"key": "156932266"}
+    ],
+    [
+      "156932273",
+      {"key": "156932273"}
+    ],
+    [
+      "156932280",
+      {"key": "156932280"}
+    ],
+    [
+      "156932286",
+      {"key": "156932286"}
+    ],
+    [
+      "156932291",
+      {"key": "156932291"}
+    ],
+    [
+      "156932298",
+      {"key": "156932298"}
+    ],
+    [
+      "156932304",
+      {"key": "156932304"}
+    ],
+    [
+      "156932309",
+      {"key": "156932309"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/34soares",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Soares teaches how to guard against prejudice and treat each other as brothers and sisters in Jesus Christ.",
+          "title": "Brothers and Sisters in Christ"
+        },
+        "pageSocial": {
+          "description": "Elder Soares teaches how to guard against prejudice and treat each other as brothers and sisters in Jesus Christ.",
+          "title": "Brothers and Sisters in Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/21/d3/21d339dda755874683abd5fe1233237a623f027c/21d339dda755874683abd5fe1233237a623f027c.jpeg\" data-video-title=\"Brothers and Sisters in Christ\" data-video-description=\"Elder Soares teaches how to guard against prejudice and treat each other as brothers and sisters in Jesus Christ. \" data-video-id=\"6338174228112\" data-ip=\"Download and Streaming                            \" data-duration=\"972239\" data-assetId=\"12ac55ca5ffe11eebffceeeeac1ee0bc9caff381\" data-ref-id=\"D0ABD3FEABBF26C117F067E9C96CEC6DCAA12A13\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338174228112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"324101013\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-3040-ulisses-soares-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"89980864\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-3040-ulisses-soares-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"234552691\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-3040-ulisses-soares-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"324101013\"/><\/video><h1 data-aid=\"156931909\" id=\"title1\">Brothers and Sisters in Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156931913\" id=\"author1\">By Elder Ulisses Soares<\/p>\n<p class=\"author-role\" data-aid=\"156931917\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156931922\" id=\"kicker1\">May we enjoy more the spiritual kinship that exists between us and value the different attributes and varied gifts we all have.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156931927\" id=\"p1\">My dear friends, we have had marvelous conference sessions today. We have all felt the Spirit of the Lord and His love through the wonderful messages shared by our leaders. I feel privileged to address you this evening as the concluding speaker of this session. I pray that the Spirit of the Lord continues with us as we rejoice together as true brothers and sisters in Christ.<\/p>\n<p data-aid=\"156931932\" id=\"p2\">Our dear prophet, Russell M. Nelson, declared: \u201cI call upon our members everywhere to lead out in abandoning attitudes and actions of prejudice. I plead with you to promote respect for all of God\u2019s children.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> As a global and ever-growing Church, following this invitation from our prophet is a vital prerequisite for building the Savior\u2019s kingdom in every nation of the world.<\/p>\n<p data-aid=\"156931937\" id=\"p3\">The gospel of Jesus Christ teaches that we are all begotten spirit sons and daughters of heavenly parents who truly love us<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> and that we lived as a family in God\u2019s presence before we were born on this earth. The gospel also teaches that we were all created in the image and likeness of God.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Therefore, we are equal before Him,<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> for He \u201chath made of one blood all nations of men [and women].\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> Therefore, we all have divine nature, heritage, and potential, for there is \u201cone God and Father of all, who is above all, and through all, and in [us] all.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<p data-aid=\"156931942\" id=\"p4\">As disciples of Christ, we are invited to increase our faith in, and love for, our spiritual brother- and sisterhood by genuinely knitting our hearts together in unity and love, regardless of our differences, thereby increasing our ability to promote respect for the dignity of all the sons and daughters of God.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"156931945\" id=\"p5\">Wasn\u2019t that exactly the condition that the people of Nephi experienced for almost two centuries after Christ ministered to them?<\/p>\n<p data-aid=\"156931950\" id=\"p19\">\u201cAnd surely there could not be a happier people among all the people who had been created by the hand of God. \u2026<\/p>\n<p data-aid=\"156931954\" id=\"p20\">\u201cNeither were there Lamanites, nor any manner of -ites; but they were in one, the children of Christ, and heirs to the kingdom of God.<\/p>\n<p data-aid=\"156931959\" id=\"p21\">\u201cAnd how blessed were they!\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"156931964\" id=\"p6\">President Nelson further emphasized the importance of spreading dignity and respect for our fellow beings when he stated: \u201cThe Creator of us all calls on each of us to abandon attitudes of prejudice against any group of God\u2019s children. Any of us who has prejudice toward another race needs to repent! \u2026 It behooves each of us to do whatever we can in our spheres of influence to preserve the dignity and respect every son and daughter of God deserves.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> In reality, human dignity presupposes respect for our differences.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"156931969\" id=\"p7\">Considering the sacred bond that unifies us with God as His children, this prophetic direction given by President Nelson is undoubtedly a fundamental step toward building bridges of understanding rather than creating walls of prejudice and segregation among us.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> However, as Paul warned the Ephesians, we must recognize that in order to achieve this purpose, it will be required to make an individual and collective effort to act with lowliness, meekness, and long-suffering toward one another.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"156931973\" id=\"p8\">There is a tale of a certain Jewish rabbi who was enjoying the sunrise with two friends. He asked them, \u201cHow do you know when the night is over and a new day has begun?\u201d<\/p>\n<p data-aid=\"156931978\" id=\"p22\">One of them replied, \u201cWhen you can look into the east and can distinguish a sheep from a goat.\u201d<\/p>\n<p data-aid=\"156931985\" id=\"p23\">The other then responded, \u201cWhen you can look into the horizon and distinguish an olive tree from a fig tree.\u201d<\/p>\n<p data-aid=\"156931991\" id=\"p24\">They then turned to the wise rabbi and asked him the same question. After long reflection, he replied, \u201cWhen you can look into the east and see the face of a woman or the face of a man and can say, \u2018She is my sister; he is my brother.\u2019\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"156931996\" id=\"p25\">My dear friends, I can assure you that the light of a new day shines brighter in our lives when we see and treat our fellow beings with respect and dignity and as true brothers and sisters in Christ.<\/p>\n<p data-aid=\"156932002\" id=\"p9\">During His earthly ministry, Jesus so perfectly exemplified this principle as He \u201cwent about doing good\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> unto all people, inviting them to come unto Him and partake of His goodness regardless of their origin, social class, or cultural characteristics. He ministered, healed, and was always attentive to everyone\u2019s needs, especially those who at the time were considered different, belittled, or excluded. He denied <em>none<\/em> but treated them with equity and love, for He saw them as His brothers and sisters, sons and daughters of the same Father.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"156932009\" id=\"p10\">One of the most striking occasions when this occurred was when the Savior traveled to Galilee, purposely taking the route which passed through Samaria.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Jesus then decided to sit by Jacob\u2019s well to rest. While there, a Samaritan woman approached to fill her pitcher with water. In His omniscience, Jesus addressed her, saying, \u201cGive me to drink.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"156932016\" id=\"p26\">This woman was amazed that a Jew had asked a Samaritan woman for assistance and expressed her surprise, saying, \u201cHow is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"156932021\" id=\"p27\">But Jesus, abandoning the long-held traditions of animosity between Samaritans and Jews, lovingly ministered to this woman, helping her to understand who He truly was\u2014that is, the Messiah, who would tell all things and whose coming she was awaiting.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> The impact of that tender ministry caused the woman to run into the city to announce to the people what had happened, saying, \u201cIs not this the Christ?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"156932028\" id=\"p11\">I have deep compassion for those who have been mistreated, belittled, or persecuted by unfeeling and thoughtless people, because, in the course of my life, I have seen firsthand the pain good people suffer from being judged or dismissed because they happened to speak, look, or live differently. I also feel genuine sorrow in my heart for those whose minds remain darkened, whose vision is limited, and whose hearts remain hardened by the belief in the inferiority of those who are different from them. Their limited view of others actually obstructs their ability to see who they are as children of God.<\/p>\n<p data-aid=\"156932034\" id=\"p12\">As foretold by the prophets, we are living in the perilous days leading up to the Second Coming of the Savior.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> The world in general is polarized by strong divisions, accentuated by racial, political, and socioeconomic lines. Such divisions sometimes end up influencing people\u2019s way of thinking and acting in relation to their fellow beings. For this reason, it is not uncommon to see people characterizing the way of thinking, acting, and speaking of other cultures, races, and ethnicities as inferior, making use of preconceived, mistaken, and often sarcastic ideas, generating attitudes of contempt, indifference, disrespect, and even prejudice against them. Such attitudes have their roots in pride, arrogance, envy, and jealousy, characteristics of a carnal nature,<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> which are totally contrary to Christlike attributes. This conduct is improper for those who are striving to become His true disciples.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> In fact, my dear brothers and sisters, there is no place for prejudiced thoughts or actions in the community of Saints.<\/p>\n<p data-aid=\"156932042\" id=\"p13\">As sons and daughters of the covenant, we can help to eliminate this kind of behavior by looking at the apparent differences that exist between us with the Savior\u2019s eyes<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> and based on what we have in common\u2014our divine identity and kinship. Moreover, we can strive to see ourselves reflected in the dreams, hopes, sorrows, and pains of our neighbor. We are all fellow travelers as God\u2019s children, equal in our imperfect state and in our ability to grow. We are invited to walk together, peaceably, with our hearts filled with love toward God and all men\u2014or, as Abraham Lincoln noted, \u201cwith malice toward none; with charity for all.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a><\/p>\n<p data-aid=\"156932049\" id=\"p14\">Have you ever pondered on how the principle of respect for human dignity and equality is demonstrated through the simple way we dress in the house of the Lord? We all come to the temple united in one purpose and filled with the desire to be pure and holy in His holy presence. Dressed in white, all of us are received by the Lord Himself as His beloved children, men and women of God, progeny of Christ.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> We are privileged to perform the same ordinances, make the same covenants, commit ourselves to live higher and holier lives, and receive the same eternal promises. United in purpose, we see one another with new eyes, and in our oneness, we celebrate our differences as divine children of God.<\/p>\n<p data-aid=\"156932055\" id=\"p15\">I recently helped guide dignitaries and government officials through the open house for the Brasília Brazil Temple. I paused in the changing area with the vice president of Brazil, and we discussed the white clothing that everyone wears inside the temple. I explained to him that this universal use of white clothing symbolizes that we are all alike unto God and that, in the temple, our identities were not vice president of a country or a church leader but our eternal identity as sons of a loving Heavenly Father.<\/p>\n<img alt=\"Iguaçú Falls.\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/500,/0/default\" data-img-id=\"9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e\" srcset=\"https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/60,/0/default 60w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/100,/0/default 100w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/200,/0/default 200w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/250,/0/default 250w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/320,/0/default 320w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/500,/0/default 500w,https://www.churchofjesuschrist.org/imgs/9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e/full/640,/0/default 640w\" data-assetId=\"9e2f0b595d8911eebc7ceeeeac1eef190dea6f1e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"323\" data-aspect-ratio=\"1.5479876160990713\"/>\n<p data-aid=\"156932062\" id=\"p16\">The Iguaçú River flows through southern Brazil and empties into a plateau that forms a system of waterfalls known worldwide as the Iguaçú Falls\u2014one of the most beautiful and impressive of God\u2019s creations on earth, considered one of the seven wonders of the world. A colossal volume of water flows into a single river and then separates, forming hundreds of unparalleled waterfalls. Metaphorically speaking, this phenomenal system of waterfalls is a reflection of God\u2019s family on earth, for we share the same spiritual origin and substance, derived from our divine heritage and kinship. However, each of us flows in different cultures, ethnicities, and nationalities, with different opinions, experiences, and feelings. Despite this, we move forward as God\u2019s children and as brothers and sisters in Christ, without losing our divine connection, which makes us a unique people and a beloved community.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"156932070\" id=\"p17\">My dear brothers and sisters, may we align our hearts and minds with the knowledge and testimony that we are all equal before God, that we are all fully endowed with the same eternal potential and inheritance. May we enjoy more the spiritual kinship that exists between us and value the different attributes and varied gifts we all have. If we do so, I promise you that we will flow in our own way, as does the water of the Iguaçú Falls, without losing our divine connection that identifies us as a peculiar people, \u201cthe children of Christ, and heirs to the kingdom of God.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"156932078\" id=\"p18\">I testify to you that as we continue to flow this way during our mortal life, a new day will begin with a new light that will brighten our lives and illuminate wonderful opportunities to value more, and be more fully blessed by, the diversity created by God among His children.<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> We will surely become instruments in His hands to promote respect and dignity among all His sons and daughters. God lives. Jesus is the Savior of the world. President Nelson is the prophet of God in our day. I bear witness of these truths in the sacred name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156932085\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156932093\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94; see also <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title227#title227\">38.6.14<\/a>, Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156932101\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.24?lang=eng#p24\">Doctrine and Covenants 76:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156932109\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1.26-27?lang=eng#p26\">Genesis 1:26\u201327<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/7.27?lang=eng#p27\">Mosiah 7:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/3.14-17?lang=eng#p14\">Ether 3:14\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.26-28?lang=eng#p26\">Moses 2:26\u201328<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.9-10?lang=eng#p9\">6:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156932118\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>; see also M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/28ballard?lang=eng\">Hope in Christ<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 53.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156932125\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.26?lang=eng#p26\">Acts 17:26<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.33-35?lang=eng#p33\">Doctrine and Covenants 93:33\u201335<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156932135\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.6?lang=eng#p6\">Ephesians 4:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156932145\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=eng#p21\">Mosiah 18:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156932154\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.16-18?lang=eng#p16\">4 Nephi 1:16\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156932162\" id=\"note9_p1\">Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/we-are-all-children-of-god\">We Are All Children of God<\/a>,\u201d <cite>Inspiration<\/cite> (blog), May 25, 2021, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156932172\" id=\"note10_p1\">See \u201cPunta del Este Declaration on Human Dignity for Everyone Everywhere,\u201d 2018.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156932180\" id=\"note11_p1\">See \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility\">President Nelson Shares Social Post about Racism and Calls for Respect for Human Dignity<\/a>\u201d (news release, June 1, 2020), newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156932190\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.2-3?lang=eng#p2\">Ephesians 4:2\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156932199\" id=\"note13_p1\">See Boyd Matheson, \u201cHow You Know When a New Day Has Dawned in 2020,\u201d <cite>Deseret News<\/cite>, Dec. 30, 2019, deseret.com.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156932208\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=eng#p38\">Acts 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156932220\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156932228\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.4?lang=eng#p4\">John 4:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156932236\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7?lang=eng#p7\">John 4:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156932244\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.9?lang=eng#p9\">John 4:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156932249\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.25?lang=eng#p25\">John 4:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156932256\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.29?lang=eng#p29\">John 4:29<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.6-30?lang=eng#p6\">John 4:6\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156932261\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.14-30?lang=eng#p14\">2 Nephi 26:14\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156932266\" id=\"note22_p1\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/natural-man?lang=eng\">Natural Man<\/a>,\u201d Gospel Library; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/2.14?lang=eng#p14\">1 Corinthians 2:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16.5?lang=eng#p5\">Mosiah 16:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.7-24?lang=eng#p7\">Alma 42:7\u201324<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156932273\" id=\"note23_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng\">Seek Christlike Attributes<\/a>,\u201d <cite>Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ<\/cite> (2023), 123\u201338; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/disciple?lang=eng\">Disciple<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156932280\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/16.7?lang=eng#p7\">1 Samuel 16:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156932286\" id=\"note25_p1\">Abraham Lincoln, \u201cSecond Inaugural Address,\u201d Mar. 4, 1865, loc.gov.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156932291\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.17?lang=eng#p17\">4 Nephi 1:17<\/a>; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/children-of-christ?lang=eng\">Children of Christ<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156932298\" id=\"note27_p1\">See Martin Luther King Jr., \u201cFacing the Challenge of a New Age,\u201d speech given Dec. 3, 1956.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156932304\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.17?lang=eng#p17\">4 Nephi 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156932309\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.26?lang=eng#p26\">Acts 17:26<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156931937",
+        "id": "note4",
+        "text": "<p data-aid=\"156932118\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>; see also M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/28ballard?lang=eng\">Hope in Christ<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 53.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26.33?lang=eng#p33",
+            "text": "2 Nephi 26:33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2021/04/28ballard?lang=eng",
+            "text": "Hope in Christ",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156931937",
+        "id": "note5",
+        "text": "<p data-aid=\"156932125\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.26?lang=eng#p26\">Acts 17:26<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.33-35?lang=eng#p33\">Doctrine and Covenants 93:33\u201335<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/acts/17.26?lang=eng#p26",
+            "text": "Acts 17:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.33-35?lang=eng#p33",
+            "text": "Doctrine and Covenants 93:33\u201335",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156931937",
+        "id": "note2",
+        "text": "<p data-aid=\"156932101\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.24?lang=eng#p24\">Doctrine and Covenants 76:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.24?lang=eng#p24",
+          "text": "Doctrine and Covenants 76:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156931937",
+        "id": "note3",
+        "text": "<p data-aid=\"156932109\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1.26-27?lang=eng#p26\">Genesis 1:26\u201327<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/7.27?lang=eng#p27\">Mosiah 7:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/3.14-17?lang=eng#p14\">Ether 3:14\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2.26-28?lang=eng#p26\">Moses 2:26\u201328<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.9-10?lang=eng#p9\">6:9\u201310<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/1.26-27?lang=eng#p26",
+            "text": "Genesis 1:26\u201327",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/7.27?lang=eng#p27",
+            "text": "Mosiah 7:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/3.14-17?lang=eng#p14",
+            "text": "Ether 3:14\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/2.26-28?lang=eng#p26",
+            "text": "Moses 2:26\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.9-10?lang=eng#p9",
+            "text": "6:9\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156931959",
+        "id": "note8",
+        "text": "<p data-aid=\"156932154\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.16-18?lang=eng#p16\">4 Nephi 1:16\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/4-ne/1.16-18?lang=eng#p16",
+          "text": "4 Nephi 1:16\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156931964",
+        "id": "note9",
+        "text": "<p data-aid=\"156932162\" id=\"note9_p1\">Russell M. Nelson, \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/we-are-all-children-of-god\">We Are All Children of God<\/a>,\u201d <cite>Inspiration<\/cite> (blog), May 25, 2021, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/inspiration/we-are-all-children-of-god",
+          "text": "We Are All Children of God"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156931937",
+        "id": "note6",
+        "text": "<p data-aid=\"156932135\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.6?lang=eng#p6\">Ephesians 4:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.6?lang=eng#p6",
+          "text": "Ephesians 4:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156931942",
+        "id": "note7",
+        "text": "<p data-aid=\"156932145\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.21?lang=eng#p21\">Mosiah 18:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18.21?lang=eng#p21",
+          "text": "Mosiah 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156932009",
+        "id": "note16",
+        "text": "<p data-aid=\"156932228\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.4?lang=eng#p4\">John 4:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.4?lang=eng#p4",
+          "text": "John 4:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156932002",
+        "id": "note15",
+        "text": "<p data-aid=\"156932220\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.33?lang=eng#p33\">2 Nephi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.33?lang=eng#p33",
+          "text": "2 Nephi 26:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156932002",
+        "id": "note14",
+        "text": "<p data-aid=\"156932208\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=eng#p38\">Acts 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10.38?lang=eng#p38",
+          "text": "Acts 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156931991",
+        "id": "note13",
+        "text": "<p data-aid=\"156932199\" id=\"note13_p1\">See Boyd Matheson, \u201cHow You Know When a New Day Has Dawned in 2020,\u201d <cite>Deseret News<\/cite>, Dec. 30, 2019, deseret.com.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156931969",
+        "id": "note12",
+        "text": "<p data-aid=\"156932190\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.2-3?lang=eng#p2\">Ephesians 4:2\u20133<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.2-3?lang=eng#p2",
+          "text": "Ephesians 4:2\u20133",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156931969",
+        "id": "note11",
+        "text": "<p data-aid=\"156932180\" id=\"note11_p1\">See \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility\">President Nelson Shares Social Post about Racism and Calls for Respect for Human Dignity<\/a>\u201d (news release, June 1, 2020), newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility",
+          "text": "President Nelson Shares Social Post about Racism and Calls for Respect for Human Dignity"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156931964",
+        "id": "note10",
+        "text": "<p data-aid=\"156932172\" id=\"note10_p1\">See \u201cPunta del Este Declaration on Human Dignity for Everyone Everywhere,\u201d 2018.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156932021",
+        "id": "note19",
+        "text": "<p data-aid=\"156932249\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.25?lang=eng#p25\">John 4:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.25?lang=eng#p25",
+          "text": "John 4:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156932016",
+        "id": "note18",
+        "text": "<p data-aid=\"156932244\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.9?lang=eng#p9\">John 4:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.9?lang=eng#p9",
+          "text": "John 4:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156932009",
+        "id": "note17",
+        "text": "<p data-aid=\"156932236\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7?lang=eng#p7\">John 4:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.7?lang=eng#p7",
+          "text": "John 4:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156932062",
+        "id": "note27",
+        "text": "<p data-aid=\"156932298\" id=\"note27_p1\">See Martin Luther King Jr., \u201cFacing the Challenge of a New Age,\u201d speech given Dec. 3, 1956.<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156932049",
+        "id": "note26",
+        "text": "<p data-aid=\"156932291\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.17?lang=eng#p17\">4 Nephi 1:17<\/a>; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/children-of-christ?lang=eng\">Children of Christ<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/4-ne/1.17?lang=eng#p17",
+            "text": "4 Nephi 1:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/children-of-christ?lang=eng",
+            "text": "Children of Christ",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156932042",
+        "id": "note25",
+        "text": "<p data-aid=\"156932286\" id=\"note25_p1\">Abraham Lincoln, \u201cSecond Inaugural Address,\u201d Mar. 4, 1865, loc.gov.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156932042",
+        "id": "note24",
+        "text": "<p data-aid=\"156932280\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/16.7?lang=eng#p7\">1 Samuel 16:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/16.7?lang=eng#p7",
+          "text": "1 Samuel 16:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156932034",
+        "id": "note23",
+        "text": "<p data-aid=\"156932273\" id=\"note23_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng\">Seek Christlike Attributes<\/a>,\u201d <cite>Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ<\/cite> (2023), 123\u201338; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/disciple?lang=eng\">Disciple<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng",
+            "text": "Seek Christlike Attributes",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/disciple?lang=eng",
+            "text": "Disciple",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156932034",
+        "id": "note22",
+        "text": "<p data-aid=\"156932266\" id=\"note22_p1\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/natural-man?lang=eng\">Natural Man<\/a>,\u201d Gospel Library; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/2.14?lang=eng#p14\">1 Corinthians 2:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16.5?lang=eng#p5\">Mosiah 16:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42.7-24?lang=eng#p7\">Alma 42:7\u201324<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/gs/natural-man?lang=eng",
+            "text": "Natural Man",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/2.14?lang=eng#p14",
+            "text": "1 Corinthians 2:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/16.5?lang=eng#p5",
+            "text": "Mosiah 16:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/42.7-24?lang=eng#p7",
+            "text": "Alma 42:7\u201324",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156932034",
+        "id": "note21",
+        "text": "<p data-aid=\"156932261\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26.14-30?lang=eng#p14\">2 Nephi 26:14\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26.14-30?lang=eng#p14",
+          "text": "2 Nephi 26:14\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156932021",
+        "id": "note20",
+        "text": "<p data-aid=\"156932256\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.29?lang=eng#p29\">John 4:29<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.6-30?lang=eng#p6\">John 4:6\u201330<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/4.29?lang=eng#p29",
+            "text": "John 4:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/4.6-30?lang=eng#p6",
+            "text": "John 4:6\u201330",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156931932",
+        "id": "note1",
+        "text": "<p data-aid=\"156932093\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94; see also <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title227#title227\">38.6.14<\/a>, Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2020/10/46nelson?lang=eng",
+            "text": "Let God Prevail",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title227#title227",
+            "text": "38.6.14",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156932078",
+        "id": "note29",
+        "text": "<p data-aid=\"156932309\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.26?lang=eng#p26\">Acts 17:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/17.26?lang=eng#p26",
+          "text": "Acts 17:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156932070",
+        "id": "note28",
+        "text": "<p data-aid=\"156932304\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1.17?lang=eng#p17\">4 Nephi 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/4-ne/1.17?lang=eng#p17",
+          "text": "4 Nephi 1:17",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,810 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/42freeman?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "a847971b9b2e4bc9a96ae07e0bce3874",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/42freeman",
+      "data-aid": "156931988",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "4",
+      "data-orig-id": "a847971b9b2e4bc9a96ae07e0bce3874"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/b8/6d/b86dd6e65f16340387aae922778dfb7bae2b11c8/b86dd6e65f16340387aae922778dfb7bae2b11c8.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4020-emily-belle-freeman-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Walking in Covenant Relationship with Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156931988",
+      {"key": "156931988"}
+    ],
+    [
+      "156931995",
+      {"key": "156931995"}
+    ],
+    [
+      "156932006",
+      {"key": "156932006"}
+    ],
+    [
+      "156932019",
+      {"key": "156932019"}
+    ],
+    [
+      "156932026",
+      {"key": "156932026"}
+    ],
+    [
+      "156932033",
+      {"key": "156932033"}
+    ],
+    [
+      "156932040",
+      {"key": "156932040"}
+    ],
+    [
+      "156932048",
+      {"key": "156932048"}
+    ],
+    [
+      "156932057",
+      {"key": "156932057"}
+    ],
+    [
+      "156932068",
+      {"key": "156932068"}
+    ],
+    [
+      "156932077",
+      {"key": "156932077"}
+    ],
+    [
+      "156932087",
+      {"key": "156932087"}
+    ],
+    [
+      "156932098",
+      {"key": "156932098"}
+    ],
+    [
+      "156932105",
+      {"key": "156932105"}
+    ],
+    [
+      "156932112",
+      {"key": "156932112"}
+    ],
+    [
+      "156932120",
+      {"key": "156932120"}
+    ],
+    [
+      "156932128",
+      {"key": "156932128"}
+    ],
+    [
+      "156932138",
+      {"key": "156932138"}
+    ],
+    [
+      "156932147",
+      {"key": "156932147"}
+    ],
+    [
+      "156932157",
+      {"key": "156932157"}
+    ],
+    [
+      "156932167",
+      {"key": "156932167"}
+    ],
+    [
+      "156932176",
+      {"key": "156932176"}
+    ],
+    [
+      "156932186",
+      {"key": "156932186"}
+    ],
+    [
+      "156932195",
+      {"key": "156932195"}
+    ],
+    [
+      "156932205",
+      {"key": "156932205"}
+    ],
+    [
+      "156932215",
+      {"key": "156932215"}
+    ],
+    [
+      "156932219",
+      {"key": "156932219"}
+    ],
+    [
+      "156932229",
+      {"key": "156932229"}
+    ],
+    [
+      "156932237",
+      {"key": "156932237"}
+    ],
+    [
+      "156932243",
+      {"key": "156932243"}
+    ],
+    [
+      "156932248",
+      {"key": "156932248"}
+    ],
+    [
+      "156932254",
+      {"key": "156932254"}
+    ],
+    [
+      "156932260",
+      {"key": "156932260"}
+    ],
+    [
+      "156932267",
+      {"key": "156932267"}
+    ],
+    [
+      "156932272",
+      {"key": "156932272"}
+    ],
+    [
+      "156932277",
+      {"key": "156932277"}
+    ],
+    [
+      "156932283",
+      {"key": "156932283"}
+    ],
+    [
+      "156932289",
+      {"key": "156932289"}
+    ],
+    [
+      "156932295",
+      {"key": "156932295"}
+    ],
+    [
+      "156932300",
+      {"key": "156932300"}
+    ],
+    [
+      "156932307",
+      {"key": "156932307"}
+    ],
+    [
+      "156932313",
+      {"key": "156932313"}
+    ],
+    [
+      "156932319",
+      {"key": "156932319"}
+    ],
+    [
+      "156932324",
+      {"key": "156932324"}
+    ],
+    [
+      "156932330",
+      {"key": "156932330"}
+    ],
+    [
+      "156932334",
+      {"key": "156932334"}
+    ],
+    [
+      "156932340",
+      {"key": "156932340"}
+    ],
+    [
+      "156932344",
+      {"key": "156932344"}
+    ],
+    [
+      "156932349",
+      {"key": "156932349"}
+    ],
+    [
+      "156932355",
+      {"key": "156932355"}
+    ],
+    [
+      "156932359",
+      {"key": "156932359"}
+    ],
+    [
+      "156932362",
+      {"key": "156932362"}
+    ],
+    [
+      "156932367",
+      {"key": "156932367"}
+    ],
+    [
+      "156932371",
+      {"key": "156932371"}
+    ],
+    [
+      "156932376",
+      {"key": "156932376"}
+    ],
+    [
+      "156932380",
+      {"key": "156932380"}
+    ],
+    [
+      "156932383",
+      {"key": "156932383"}
+    ],
+    [
+      "156932386",
+      {"key": "156932386"}
+    ],
+    [
+      "156932387",
+      {"key": "156932387"}
+    ],
+    [
+      "156932390",
+      {"key": "156932390"}
+    ],
+    [
+      "156932393",
+      {"key": "156932393"}
+    ],
+    [
+      "156932397",
+      {"key": "156932397"}
+    ],
+    [
+      "156932401",
+      {"key": "156932401"}
+    ],
+    [
+      "156932407",
+      {"key": "156932407"}
+    ],
+    [
+      "156932410",
+      {"key": "156932410"}
+    ],
+    [
+      "156932414",
+      {"key": "156932414"}
+    ],
+    [
+      "156932418",
+      {"key": "156932418"}
+    ],
+    [
+      "156932421",
+      {"key": "156932421"}
+    ],
+    [
+      "156932425",
+      {"key": "156932425"}
+    ],
+    [
+      "156932430",
+      {"key": "156932430"}
+    ],
+    [
+      "156932434",
+      {"key": "156932434"}
+    ],
+    [
+      "156932438",
+      {"key": "156932438"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/42freeman",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "President Freeman compares walking the covenant path with walking the Jesus Trail in Israel. ",
+          "title": "Walking in Covenant Relationship with Christ"
+        },
+        "pageSocial": {
+          "description": "President Freeman compares walking the covenant path with walking the Jesus Trail in Israel. ",
+          "title": "Walking in Covenant Relationship with Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/b8/6d/b86dd6e65f16340387aae922778dfb7bae2b11c8/b86dd6e65f16340387aae922778dfb7bae2b11c8.jpeg\" data-video-title=\"Walking in Covenant Relationship with Christ\" data-video-description=\"President Freeman compares walking the covenant path with walking the Jesus Trail in Israel. \" data-video-id=\"6338200929112\" data-ip=\"Download and Streaming                            \" data-duration=\"624325\" data-assetId=\"86da38bf608111ee851aeeeeac1e3795e92cbc27\" data-ref-id=\"70A66219FF9E9418846A69DE5CB90AC933729155\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338200929112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"209214492\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4020-emily-belle-freeman-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57994094\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4020-emily-belle-freeman-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"150281045\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4020-emily-belle-freeman-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"209214492\"/><\/video><h1 data-aid=\"156931995\" id=\"title1\">Walking in Covenant Relationship with Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156932006\" id=\"author1\">By President Emily Belle Freeman<\/p>\n<p class=\"author-role\" data-aid=\"156932019\" id=\"author2\">Young Women General President<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156932026\" id=\"kicker1\">The One who was bruised and broken for us will allow mortality to do its work in us, but He doesn\u2019t ask us to face those challenges alone.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156932033\" id=\"p1\">I was introduced to a trail in Israel by my good friend Ilan. \u201cIt\u2019s called the Jesus Trail,\u201d he said, \u201cbecause it\u2019s the path from Nazareth to Capernaum that many believe Jesus walked.\u201d I decided right then and there I wanted to walk that trail, so I began planning a trip to Israel.<\/p>\n<p data-aid=\"156932040\" id=\"p27\">Six weeks before the trip, I broke my ankle. My husband worried about the injury; my greatest concern was how I would walk the Jesus Trail one month later. I am stubborn by nature, so I didn\u2019t cancel the plane tickets.<\/p>\n<p data-aid=\"156932048\" id=\"p2\">I remember meeting our Israeli guide that beautiful June morning. I hopped out of the van and then pulled out a set of crutches and a knee scooter. Mya, our guide, took one look at my cast and said, \u201cUh, I don\u2019t think you can walk this trail in that condition.\u201d<\/p>\n<p data-aid=\"156932057\" id=\"p3\">\u201cMaybe not,\u201d I replied. \u201cBut there\u2019s nothing that prevents me from trying.\u201d She gave a slight nod, and we began. I love her for that, for believing I could walk the trail broken.<\/p>\n<p data-aid=\"156932068\" id=\"p4\">I navigated the steep path and the boulders for a time on my own. Then, moved by the sincerity of my commitment, Mya pulled out a thin rope, tied it to the handlebars of my scooter, and began to pull. She pulled me up the hills, through lemon orchards, and along the banks of the Sea of Galilee. At the journey\u2019s end, I expressed gratitude for my sweet guide, who had helped me accomplish something I could have never accomplished on my own.<\/p>\n<p data-aid=\"156932077\" id=\"p5\">When the Lord called Enoch to journey through the land and testify of Him, Enoch hesitated.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> He was just a lad, slow of speech. How could he walk that path in his condition? He was blinded by what was broken in him. The Lord\u2019s answer to what hindered him was simple and immediate: \u201cWalk with me.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Like Enoch, we must remember that the One who was bruised and broken for us<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> will allow mortality to do its work in us, but He doesn\u2019t ask us to face those challenges alone.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> No matter the heaviness of our story or the current course of our path, He will invite us to walk with Him.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"156932087\" id=\"p6\">Think of the young man in a spot of trouble who met the Lord in a wilderness place. Jacob had journeyed far from home. In the dark of night, he had a dream that not only contained a ladder but also held significant covenant promises, including what I like to call the five-finger promise.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> On that night, the Lord stood beside Jacob, introduced Himself as the God of Jacob\u2019s father, and then promised:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"156932098\" id=\"p7\">I am with you.<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932105\" id=\"p8\">I will keep you safe.<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932112\" id=\"p9\">I will bring you home again.<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932120\" id=\"p10\">I will not leave you.<\/p>\n<\/li>\n<li>\n<p data-aid=\"156932128\" id=\"p11\">I will keep my promise to you.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"156932138\" id=\"p12\">Jacob had a choice to make. He could choose to live his life simply acquainted with the God of his father, or He could choose to live life in committed covenant relationship with Him. Years later, Jacob testified of a life lived within the Lord\u2019s covenant promises: \u201cGod \u2026 answered me in the day of my distress, and <em>was with me<\/em> in the way which I went.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> Just as He did for Jacob, the Lord will answer each of us in our day of distress if we choose to tether our life with His. He has promised to walk <em>with us<\/em> in the way.<\/p>\n<p data-aid=\"156932147\" id=\"p13\">We call this walking the covenant path\u2014a path that begins with the covenant of baptism and leads to deeper covenants we make in the temple. Perhaps you hear those words and think of checkboxes. Maybe all you see is a path of requirements. A closer look reveals something more compelling. A covenant is not only about a contract, although that is important. It\u2019s about a relationship. President Russell M. Nelson taught, \u201cThe covenant path is all about our relationship with God.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<p data-aid=\"156932157\" id=\"p24\">Consider a marriage covenant. The wedding date is important, but equally important is the relationship forged through the life lived together afterward. The same is true with a covenant relationship with God. Conditions have been set, and there will be expectations along the way. And yet He invites each of us to come as we are able, with full purpose of heart, and to \u201cpress forward\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> with Him at our side, trusting that His promised blessings will come. Scripture reminds us that often those blessings come in His own time and in His own way: 38 years,<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> 12 years,<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> immediately.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> As your trail will demand, so His succor will be.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"156932167\" id=\"p14\">His is a mission of condescension. Jesus Christ will meet us where we are as we are. This is the <em>why<\/em> of the garden, the cross, and the tomb. The Savior was sent to help us overcome.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> But staying where we are won\u2019t bring the deliverance we seek. Just as He didn\u2019t leave Jacob there in the dirt, the Lord doesn\u2019t intend to leave any of us where we are.<\/p>\n<p data-aid=\"156932176\" id=\"p28\">His is also a mission of ascension. He will work within us<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> to lift us up to where He is and, in the process, enable us to become as He is. Jesus Christ came to lift us.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> He wants to help us become. This is the <em>why<\/em> of the temple.<\/p>\n<p data-aid=\"156932186\" id=\"p29\">We must remember: it\u2019s not the course alone that will exalt us; it\u2019s the companion\u2014our Savior. And <em>this<\/em> is the why of covenant relationship.<\/p>\n<p data-aid=\"156932195\" id=\"p15\">When I was in Israel, I visited the Western Wall. For the Jews, this is the most holy site in Israel. It is all that remains of their temple. Most wear their finest when they visit this sacred place; their choice of garment is a symbol of their devotion to their relationship with God. They visit the wall to read scripture, to worship, and to pour out their prayers. The plea for a temple in their midst consumes their every day, their every prayer, this longing for a house of covenant. I admire their devotion.<\/p>\n<p data-aid=\"156932205\" id=\"p16\">When I returned home from Israel, I listened more closely to the conversations around me regarding covenants. I noticed people asking, <em>Why should I walk a covenant path? Do I need to enter a house for making covenants? Why do I wear the holy garment?<\/em> <em>Should I invest in a covenant relationship with the Lord?<\/em> The answer to these good and important questions is simple: it depends on what degree of relationship you want to experience with Jesus Christ.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> Each of us will have to discover our own response to those deeply personal questions.<\/p>\n<p data-aid=\"156932215\" id=\"p30\">Here is mine: I walk this path as a \u201c<em>beloved<\/em> daughter of heavenly parents,\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> divinely <em>known<\/em><a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> and deeply <em>trusted<\/em>.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> As a child of the covenant, I am eligible to receive <em>promised<\/em><a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> blessings. I have <em>chosen<\/em><a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> to walk with the Lord. I have been <em>called<\/em><a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> to stand as a witness of Christ. When the path feels overwhelming, I am <em>strengthened<\/em><a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> with enabling grace. Each time I cross the threshold of His house, I experience deeper covenant relationship with Him. I am <em>sanctified<\/em><a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> with His Spirit, <em>endowed<\/em><a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> with His power, and <em>set apart<\/em><a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a> to build His kingdom. Through a process of daily repentance and weekly partaking of the sacrament, I am learning to become <em>steadfast<\/em><a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> and to go about doing <em>good<\/em>.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a> I walk this path with Jesus Christ, looking forward to the promised day when He will come again. Then I will be <em>sealed His<\/em><a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> and lifted up as a <em>holy<\/em><a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a> daughter of God.<\/p>\n<p data-aid=\"156932219\" id=\"p18\">This is why I walk the covenant path.<\/p>\n<p data-aid=\"156932229\" id=\"p19\">This is why I cling to covenant promises.<\/p>\n<p data-aid=\"156932237\" id=\"p20\">This is why I enter His covenant house.<\/p>\n<p data-aid=\"156932243\" id=\"p21\">This is why I wear the holy garment as a constant reminder.<\/p>\n<p data-aid=\"156932248\" id=\"p22\">Because I want to live in committed covenant relationship with Him.<\/p>\n<p data-aid=\"156932254\" id=\"p23\">Perhaps you do too. Begin where you are.<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a> Don\u2019t let your condition hinder you. Remember, pace or placement on the path are not as important as progress.<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a> Ask someone you trust who is on the covenant path to introduce you to the Savior they have come to know. Learn more of Him. Invest in the relationship by entering into covenant with Him. It doesn\u2019t matter your age or your condition. You can walk with Him.<\/p>\n<p data-aid=\"156932260\" id=\"p25\">After we finished walking the Jesus Trail, Mya did not take back her rope. She left it tied to my scooter. For the next few days, my teenage nephews and their friend took turns pulling me through the streets of Jerusalem.<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a> They made sure I did not miss out on the stories of Jesus. I was reminded of the strength of the rising generation. We can learn from you. You have a genuine desire to know the guide, Jesus Christ. You trust the strength of the rope that tethers us to Him. You are unusually gifted in gathering others to Him.<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a><\/p>\n<p data-aid=\"156932267\" id=\"p26\">Thankfully, we walk this path together, calling out encouragement along the way.<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\">37<\/sup><\/a> As we share our personal experience with Christ, we will strengthen personal devotion. Of this I bear witness in the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156932272\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156932277\" id=\"note1_p1\">The people of Enoch had gone astray, they had denied Christ, and they \u201csought their own counsels in the dark\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.27-28?lang=eng#p27\">Moses 6:27\u201328<\/a>). In a time when he had lost faith in humanity, Enoch turned to the Lord for guidance. This call to Enoch is the same call the Lord extends to all of us: \u201cWalk with me\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=eng#p28\">Matthew 11:28<\/a>). But maybe, like Enoch, you are unsure if you can walk this path in your condition. Maybe you feel hindered in some way. Perhaps the very reason we need to walk the covenant path is because of our condition, because we are hindered in some way and we need His help.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156932283\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.23-34?lang=eng#p23\">Moses 6:23\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156932289\" id=\"note3_p1\">See \u201cJesus of Nazareth, Savior and King,\u201d <cite>Hymns<\/cite>, no. 181.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156932295\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=eng#p27\">Ether 12:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156932300\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156932307\" id=\"note6_p1\">My girls want to whisper this five-finger promise to their children (my grandchildren) every morning\u2014a reminder of a Father in Heaven who is divinely aware of each of His children.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156932313\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.10-22?lang=eng#p10\">Genesis 28:10\u201322<\/a>. The Abrahamic covenant was also a significant emphasis of that night. These elements of the Abrahamic covenant play a central role in our lives and in the gospel of Jesus Christ: (1) the promise of an eternal inheritance (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.13?lang=eng#p13\">verse 13<\/a>); (2) eternal posterity (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.14?lang=eng#p14\">verse 14<\/a>); and (3) the blessing and responsibility to bless all nations of the earth (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.14?lang=eng#p14\">verse 14<\/a>).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156932319\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/35.3?lang=eng#p3\">Genesis 35:3<\/a>; emphasis added. Jacob\u2019s parents directed him to leave home to distance himself from Esau, who had threatened to kill him, and to have the opportunity to meet someone whom he could marry in the covenant (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/27.41-45?lang=eng#p41\">Genesis 27:41\u201345<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.1-2,5?lang=eng#p1\">28:1\u20132, 5<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156932324\" id=\"note9_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;para=57#p57\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 11.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156932330\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156932334\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5.5?lang=eng#p5\">John 5:5<\/a>, the story of the pool of Bethesda.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156932340\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5.25?lang=eng#p25\">Mark 5:25<\/a>, the story of the woman who touched Christ\u2019s robe.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156932344\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.31?lang=eng#p31\">Matthew 14:31<\/a>, the story of Peter walking on water.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156932349\" id=\"note14_p1\">See \u201cHow Firm a Foundation,\u201d <cite>Hymns<\/cite>, no. 85.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156932355\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.16-33?lang=eng#p16\">1 Nephi 11:16\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156932359\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/1.6?lang=eng#p6\">Philippians 1:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/2.13?lang=eng#p13\">2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/w-of-m/1.7?lang=eng#p7\">Words of Mormon 1:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156932362\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.32?lang=eng#p32\">John 12:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156932367\" id=\"note18_p1\">A path is often defined by key characteristics such as guideposts or mile markers. It is a way to make sure you are on the right trail or making progress in the right direction. A relationship also can be defined by key characteristics. Some of these include expectation (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11?lang=eng#p11\">Jeremiah 29:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.7?lang=eng#p7\">Doctrine and Covenants 132:7<\/a>); submissiveness (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=eng#p19\">Mosiah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.23?lang=eng#p23\">Alma 7:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.28?lang=eng#p28\">13:28<\/a>); humility; obedience; patience; yielding; trust (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5?lang=eng#p5\">Proverbs 3:5<\/a>); and love (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.31-39?lang=eng#p31\">Romans 8:31\u201339<\/a>).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156932371\" id=\"note19_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>,\u201d Gospel Library, emphasis added; see also Bonnie H. Cordon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/33cordon?lang=eng&amp;para=title2#title2\">Beloved Daughters<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 67.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156932376\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.1-29?lang=eng#p1\">John 4:1\u201329<\/a>, the story of the woman at the well.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156932380\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38.1-3?lang=eng#p1\">Alma 38:1\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156932383\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/num/6.23-27?lang=eng#p23\">Numbers 6:23\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156932386\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/24.22?lang=eng#p22\">Joshua 24:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156932387\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/25.3?lang=eng#p3\">Doctrine and Covenants 25:3<\/a>, the story of Emma Smith.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156932390\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.9-10?lang=eng#p9\">1 Corinthians 15:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156932393\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-chr/20.1-17?lang=eng#p1\">2 Chronicles 20:1\u201317<\/a>, especially <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-chr/20.14?lang=eng#p14\">verse 14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156932397\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.1-46?lang=eng#p1\">Doctrine and Covenants 109:1\u201346<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156932401\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/16.11-13?lang=eng#p11\">1 Samuel 16:11\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156932407\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/esth/4.16?lang=eng#p16\">Esther 4:16<\/a>, the story of Esther.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156932410\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=eng#p38\">Acts 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"156932414\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/43.1-5?lang=eng#p1\">Isaiah 43:1\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"156932418\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-9?lang=eng#p1\">Deuteronomy 28:1\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"156932421\" id=\"note33_p1\">A good friend reminded me that a call to action is important in any relationship.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"156932425\" id=\"note34_p1\">Conversation with Kristen Olsen, Sept. 2023.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"156932430\" id=\"note35_p1\">To Mack Oswald, Camden Oswald, Ashton Matheny, and Jack Butler, thanks for pulling me along.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"156932434\" id=\"note36_p1\">\u201cYou will remember that I have invited the youth of The Church of Jesus Christ of Latter-day Saints to enlist in the Lord\u2019s youth battalion to participate in the greatest cause on earth today\u2014the gathering of Israel. I issued this invitation to our youth because they are unusually gifted in reaching out to others and sharing what they believe in a convincing fashion\u201d (Russell M. Nelson, \u201cWitnesses, Aaronic Priesthood Quorums, and Young Women,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 39).<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"156932438\" id=\"note37_p1\">\u201cThe kingdom of God \u2026 is like a besieged city surrounded on all sides by death. Each man has his place on the wall to defend and no one can stand where another stands, but \u2018nothing prevents us from calling encouragement to one another\u2019\u201d (Martin Luther, in Lewis William Spitz, <cite>The Renaissance and Reformation Movements<\/cite> [1987], 335). <\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156932077",
+        "id": "note4",
+        "text": "<p data-aid=\"156932295\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12.27?lang=eng#p27\">Ether 12:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12.27?lang=eng#p27",
+          "text": "Ether 12:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156932077",
+        "id": "note5",
+        "text": "<p data-aid=\"156932300\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28-30?lang=eng#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11.28-30?lang=eng#p28",
+          "text": "Matthew 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156932077",
+        "id": "note2",
+        "text": "<p data-aid=\"156932283\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.23-34?lang=eng#p23\">Moses 6:23\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6.23-34?lang=eng#p23",
+          "text": "Moses 6:23\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156932077",
+        "id": "note3",
+        "text": "<p data-aid=\"156932289\" id=\"note3_p1\">See \u201cJesus of Nazareth, Savior and King,\u201d <cite>Hymns<\/cite>, no. 181.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156932138",
+        "id": "note8",
+        "text": "<p data-aid=\"156932319\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/35.3?lang=eng#p3\">Genesis 35:3<\/a>; emphasis added. Jacob\u2019s parents directed him to leave home to distance himself from Esau, who had threatened to kill him, and to have the opportunity to meet someone whom he could marry in the covenant (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/27.41-45?lang=eng#p41\">Genesis 27:41\u201345<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.1-2,5?lang=eng#p1\">28:1\u20132, 5<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/35.3?lang=eng#p3",
+            "text": "Genesis 35:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/27.41-45?lang=eng#p41",
+            "text": "Genesis 27:41\u201345",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/28.1-2,5?lang=eng#p1",
+            "text": "28:1\u20132, 5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156932147",
+        "id": "note9",
+        "text": "<p data-aid=\"156932324\" id=\"note9_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;para=57#p57\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 11.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;para=57#p57",
+          "text": "The Everlasting Covenant",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156932087",
+        "id": "note6",
+        "text": "<p data-aid=\"156932307\" id=\"note6_p1\">My girls want to whisper this five-finger promise to their children (my grandchildren) every morning\u2014a reminder of a Father in Heaven who is divinely aware of each of His children.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156932128",
+        "id": "note7",
+        "text": "<p data-aid=\"156932313\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.10-22?lang=eng#p10\">Genesis 28:10\u201322<\/a>. The Abrahamic covenant was also a significant emphasis of that night. These elements of the Abrahamic covenant play a central role in our lives and in the gospel of Jesus Christ: (1) the promise of an eternal inheritance (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.13?lang=eng#p13\">verse 13<\/a>); (2) eternal posterity (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.14?lang=eng#p14\">verse 14<\/a>); and (3) the blessing and responsibility to bless all nations of the earth (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/28.14?lang=eng#p14\">verse 14<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/28.10-22?lang=eng#p10",
+            "text": "Genesis 28:10\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/28.13?lang=eng#p13",
+            "text": "verse 13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/28.14?lang=eng#p14",
+            "text": "verse 14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/28.14?lang=eng#p14",
+            "text": "verse 14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156932215",
+        "id": "note30",
+        "text": "<p data-aid=\"156932410\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10.38?lang=eng#p38\">Acts 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10.38?lang=eng#p38",
+          "text": "Acts 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156932176",
+        "id": "note16",
+        "text": "<p data-aid=\"156932359\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/1.6?lang=eng#p6\">Philippians 1:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/2.13?lang=eng#p13\">2:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/w-of-m/1.7?lang=eng#p7\">Words of Mormon 1:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/philip/1.6?lang=eng#p6",
+            "text": "Philippians 1:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/philip/2.13?lang=eng#p13",
+            "text": "2:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/w-of-m/1.7?lang=eng#p7",
+            "text": "Words of Mormon 1:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156932167",
+        "id": "note15",
+        "text": "<p data-aid=\"156932355\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.16-33?lang=eng#p16\">1 Nephi 11:16\u201333<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.16-33?lang=eng#p16",
+          "text": "1 Nephi 11:16\u201333",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "156932267",
+        "id": "note37",
+        "text": "<p data-aid=\"156932438\" id=\"note37_p1\">\u201cThe kingdom of God \u2026 is like a besieged city surrounded on all sides by death. Each man has his place on the wall to defend and no one can stand where another stands, but \u2018nothing prevents us from calling encouragement to one another\u2019\u201d (Martin Luther, in Lewis William Spitz, <cite>The Renaissance and Reformation Movements<\/cite> [1987], 335). <\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156932157",
+        "id": "note14",
+        "text": "<p data-aid=\"156932349\" id=\"note14_p1\">See \u201cHow Firm a Foundation,\u201d <cite>Hymns<\/cite>, no. 85.<\/p>"
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "156932260",
+        "id": "note36",
+        "text": "<p data-aid=\"156932434\" id=\"note36_p1\">\u201cYou will remember that I have invited the youth of The Church of Jesus Christ of Latter-day Saints to enlist in the Lord\u2019s youth battalion to participate in the greatest cause on earth today\u2014the gathering of Israel. I issued this invitation to our youth because they are unusually gifted in reaching out to others and sharing what they believe in a convincing fashion\u201d (Russell M. Nelson, \u201cWitnesses, Aaronic Priesthood Quorums, and Young Women,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 39).<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156932157",
+        "id": "note13",
+        "text": "<p data-aid=\"156932344\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.31?lang=eng#p31\">Matthew 14:31<\/a>, the story of Peter walking on water.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/14.31?lang=eng#p31",
+          "text": "Matthew 14:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "156932260",
+        "id": "note35",
+        "text": "<p data-aid=\"156932430\" id=\"note35_p1\">To Mack Oswald, Camden Oswald, Ashton Matheny, and Jack Butler, thanks for pulling me along.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156932157",
+        "id": "note12",
+        "text": "<p data-aid=\"156932340\" id=\"note12_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5.25?lang=eng#p25\">Mark 5:25<\/a>, the story of the woman who touched Christ\u2019s robe.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/5.25?lang=eng#p25",
+          "text": "Mark 5:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "156932254",
+        "id": "note34",
+        "text": "<p data-aid=\"156932425\" id=\"note34_p1\">Conversation with Kristen Olsen, Sept. 2023.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156932157",
+        "id": "note11",
+        "text": "<p data-aid=\"156932334\" id=\"note11_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5.5?lang=eng#p5\">John 5:5<\/a>, the story of the pool of Bethesda.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/5.5?lang=eng#p5",
+          "text": "John 5:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "156932254",
+        "id": "note33",
+        "text": "<p data-aid=\"156932421\" id=\"note33_p1\">A good friend reminded me that a call to action is important in any relationship.<\/p>"
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156932157",
+        "id": "note10",
+        "text": "<p data-aid=\"156932330\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31.20?lang=eng#p20\">2 Nephi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31.20?lang=eng#p20",
+          "text": "2 Nephi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "156932215",
+        "id": "note32",
+        "text": "<p data-aid=\"156932418\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/28.1-9?lang=eng#p1\">Deuteronomy 28:1\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/deut/28.1-9?lang=eng#p1",
+          "text": "Deuteronomy 28:1\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "156932215",
+        "id": "note31",
+        "text": "<p data-aid=\"156932414\" id=\"note31_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/43.1-5?lang=eng#p1\">Isaiah 43:1\u20135<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/43.1-5?lang=eng#p1",
+          "text": "Isaiah 43:1\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156932215",
+        "id": "note19",
+        "text": "<p data-aid=\"156932371\" id=\"note19_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>,\u201d Gospel Library, emphasis added; see also Bonnie H. Cordon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/33cordon?lang=eng&amp;para=title2#title2\">Beloved Daughters<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 67.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/young-women-theme/young-women-theme?lang=eng",
+            "text": "Young Women Theme",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2019/10/33cordon?lang=eng&amp;para=title2#title2",
+            "text": "Beloved Daughters",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156932205",
+        "id": "note18",
+        "text": "<p data-aid=\"156932367\" id=\"note18_p1\">A path is often defined by key characteristics such as guideposts or mile markers. It is a way to make sure you are on the right trail or making progress in the right direction. A relationship also can be defined by key characteristics. Some of these include expectation (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11?lang=eng#p11\">Jeremiah 29:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.7?lang=eng#p7\">Doctrine and Covenants 132:7<\/a>); submissiveness (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3.19?lang=eng#p19\">Mosiah 3:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.23?lang=eng#p23\">Alma 7:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/13.28?lang=eng#p28\">13:28<\/a>); humility; obedience; patience; yielding; trust (see <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3.5?lang=eng#p5\">Proverbs 3:5<\/a>); and love (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8.31-39?lang=eng#p31\">Romans 8:31\u201339<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/29.11?lang=eng#p11",
+            "text": "Jeremiah 29:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132.7?lang=eng#p7",
+            "text": "Doctrine and Covenants 132:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/3.19?lang=eng#p19",
+            "text": "Mosiah 3:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/7.23?lang=eng#p23",
+            "text": "Alma 7:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/13.28?lang=eng#p28",
+            "text": "13:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/prov/3.5?lang=eng#p5",
+            "text": "Proverbs 3:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/8.31-39?lang=eng#p31",
+            "text": "Romans 8:31\u201339",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156932176",
+        "id": "note17",
+        "text": "<p data-aid=\"156932362\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.32?lang=eng#p32\">John 12:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/12.32?lang=eng#p32",
+          "text": "John 12:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156932215",
+        "id": "note27",
+        "text": "<p data-aid=\"156932397\" id=\"note27_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109.1-46?lang=eng#p1\">Doctrine and Covenants 109:1\u201346<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109.1-46?lang=eng#p1",
+          "text": "Doctrine and Covenants 109:1\u201346",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156932215",
+        "id": "note26",
+        "text": "<p data-aid=\"156932393\" id=\"note26_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-chr/20.1-17?lang=eng#p1\">2 Chronicles 20:1\u201317<\/a>, especially <a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-chr/20.14?lang=eng#p14\">verse 14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/2-chr/20.1-17?lang=eng#p1",
+            "text": "2 Chronicles 20:1\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/2-chr/20.14?lang=eng#p14",
+            "text": "verse 14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156932215",
+        "id": "note25",
+        "text": "<p data-aid=\"156932390\" id=\"note25_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.9-10?lang=eng#p9\">1 Corinthians 15:9\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/15.9-10?lang=eng#p9",
+          "text": "1 Corinthians 15:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156932215",
+        "id": "note24",
+        "text": "<p data-aid=\"156932387\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/25.3?lang=eng#p3\">Doctrine and Covenants 25:3<\/a>, the story of Emma Smith.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/25.3?lang=eng#p3",
+          "text": "Doctrine and Covenants 25:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156932215",
+        "id": "note23",
+        "text": "<p data-aid=\"156932386\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/josh/24.22?lang=eng#p22\">Joshua 24:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/josh/24.22?lang=eng#p22",
+          "text": "Joshua 24:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156932215",
+        "id": "note22",
+        "text": "<p data-aid=\"156932383\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/num/6.23-27?lang=eng#p23\">Numbers 6:23\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/num/6.23-27?lang=eng#p23",
+          "text": "Numbers 6:23\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156932215",
+        "id": "note21",
+        "text": "<p data-aid=\"156932380\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38.1-3?lang=eng#p1\">Alma 38:1\u20133<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/38.1-3?lang=eng#p1",
+          "text": "Alma 38:1\u20133",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156932215",
+        "id": "note20",
+        "text": "<p data-aid=\"156932376\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.1-29?lang=eng#p1\">John 4:1\u201329<\/a>, the story of the woman at the well.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4.1-29?lang=eng#p1",
+          "text": "John 4:1\u201329",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156932077",
+        "id": "note1",
+        "text": "<p data-aid=\"156932277\" id=\"note1_p1\">The people of Enoch had gone astray, they had denied Christ, and they \u201csought their own counsels in the dark\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.27-28?lang=eng#p27\">Moses 6:27\u201328<\/a>). In a time when he had lost faith in humanity, Enoch turned to the Lord for guidance. This call to Enoch is the same call the Lord extends to all of us: \u201cWalk with me\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6.34?lang=eng#p34\">Moses 6:34<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=eng#p28\">Matthew 11:28<\/a>). But maybe, like Enoch, you are unsure if you can walk this path in your condition. Maybe you feel hindered in some way. Perhaps the very reason we need to walk the covenant path is because of our condition, because we are hindered in some way and we need His help.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/6.27-28?lang=eng#p27",
+            "text": "Moses 6:27\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6.34?lang=eng#p34",
+            "text": "Moses 6:34",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/11.28?lang=eng#p28",
+            "text": "Matthew 11:28",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156932215",
+        "id": "note29",
+        "text": "<p data-aid=\"156932407\" id=\"note29_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/esth/4.16?lang=eng#p16\">Esther 4:16<\/a>, the story of Esther.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/esth/4.16?lang=eng#p16",
+          "text": "Esther 4:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156932215",
+        "id": "note28",
+        "text": "<p data-aid=\"156932401\" id=\"note28_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/16.11-13?lang=eng#p11\">1 Samuel 16:11\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/16.11-13?lang=eng#p11",
+          "text": "1 Samuel 16:11\u201313",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

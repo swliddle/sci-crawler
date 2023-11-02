@@ -1,0 +1,955 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/13daines?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "aabbe016db0e4ccbbf5f6ebbd2162809",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/13daines",
+      "data-aid": "156930558",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "aabbe016db0e4ccbbf5f6ebbd2162809"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/e3/9f/e39f5afe746cd8b82b43af351910cfb24ba31abc/e39f5afe746cd8b82b43af351910cfb24ba31abc.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Sir, We Would Like to See Jesus",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156930558",
+      {"key": "156930558"}
+    ],
+    [
+      "156930559",
+      {"key": "156930559"}
+    ],
+    [
+      "156930560",
+      {"key": "156930560"}
+    ],
+    [
+      "156930561",
+      {"key": "156930561"}
+    ],
+    [
+      "156930562",
+      {"key": "156930562"}
+    ],
+    [
+      "156930563",
+      {"key": "156930563"}
+    ],
+    [
+      "156930564",
+      {"key": "156930564"}
+    ],
+    [
+      "156930565",
+      {"key": "156930565"}
+    ],
+    [
+      "156930566",
+      {"key": "156930566"}
+    ],
+    [
+      "156930567",
+      {"key": "156930567"}
+    ],
+    [
+      "156930569",
+      {"key": "156930569"}
+    ],
+    [
+      "156930571",
+      {"key": "156930571"}
+    ],
+    [
+      "156930573",
+      {"key": "156930573"}
+    ],
+    [
+      "156930575",
+      {"key": "156930575"}
+    ],
+    [
+      "156930576",
+      {"key": "156930576"}
+    ],
+    [
+      "156930578",
+      {"key": "156930578"}
+    ],
+    [
+      "156930581",
+      {"key": "156930581"}
+    ],
+    [
+      "156930583",
+      {"key": "156930583"}
+    ],
+    [
+      "156930584",
+      {"key": "156930584"}
+    ],
+    [
+      "156930586",
+      {"key": "156930586"}
+    ],
+    [
+      "156930589",
+      {"key": "156930589"}
+    ],
+    [
+      "156930590",
+      {"key": "156930590"}
+    ],
+    [
+      "156930592",
+      {"key": "156930592"}
+    ],
+    [
+      "156930594",
+      {"key": "156930594"}
+    ],
+    [
+      "156930596",
+      {"key": "156930596"}
+    ],
+    [
+      "156930598",
+      {"key": "156930598"}
+    ],
+    [
+      "156930600",
+      {"key": "156930600"}
+    ],
+    [
+      "156930603",
+      {"key": "156930603"}
+    ],
+    [
+      "156930605",
+      {"key": "156930605"}
+    ],
+    [
+      "156930606",
+      {"key": "156930606"}
+    ],
+    [
+      "156930609",
+      {"key": "156930609"}
+    ],
+    [
+      "156930612",
+      {"key": "156930612"}
+    ],
+    [
+      "156930614",
+      {"key": "156930614"}
+    ],
+    [
+      "156930618",
+      {"key": "156930618"}
+    ],
+    [
+      "156930620",
+      {"key": "156930620"}
+    ],
+    [
+      "156930624",
+      {"key": "156930624"}
+    ],
+    [
+      "156930628",
+      {"key": "156930628"}
+    ],
+    [
+      "156930630",
+      {"key": "156930630"}
+    ],
+    [
+      "156930633",
+      {"key": "156930633"}
+    ],
+    [
+      "156930636",
+      {"key": "156930636"}
+    ],
+    [
+      "156930638",
+      {"key": "156930638"}
+    ],
+    [
+      "156930640",
+      {"key": "156930640"}
+    ],
+    [
+      "156930643",
+      {"key": "156930643"}
+    ],
+    [
+      "156930645",
+      {"key": "156930645"}
+    ],
+    [
+      "156930647",
+      {"key": "156930647"}
+    ],
+    [
+      "156930650",
+      {"key": "156930650"}
+    ],
+    [
+      "156930652",
+      {"key": "156930652"}
+    ],
+    [
+      "156930655",
+      {"key": "156930655"}
+    ],
+    [
+      "156930659",
+      {"key": "156930659"}
+    ],
+    [
+      "156930662",
+      {"key": "156930662"}
+    ],
+    [
+      "156930665",
+      {"key": "156930665"}
+    ],
+    [
+      "156930668",
+      {"key": "156930668"}
+    ],
+    [
+      "156930670",
+      {"key": "156930670"}
+    ],
+    [
+      "156930674",
+      {"key": "156930674"}
+    ],
+    [
+      "156930678",
+      {"key": "156930678"}
+    ],
+    [
+      "156930681",
+      {"key": "156930681"}
+    ],
+    [
+      "156930684",
+      {"key": "156930684"}
+    ],
+    [
+      "156930687",
+      {"key": "156930687"}
+    ],
+    [
+      "156930690",
+      {"key": "156930690"}
+    ],
+    [
+      "156930693",
+      {"key": "156930693"}
+    ],
+    [
+      "156930696",
+      {"key": "156930696"}
+    ],
+    [
+      "156930698",
+      {"key": "156930698"}
+    ],
+    [
+      "156930700",
+      {"key": "156930700"}
+    ],
+    [
+      "156930702",
+      {"key": "156930702"}
+    ],
+    [
+      "156930704",
+      {"key": "156930704"}
+    ],
+    [
+      "156930706",
+      {"key": "156930706"}
+    ],
+    [
+      "156930708",
+      {"key": "156930708"}
+    ],
+    [
+      "156930710",
+      {"key": "156930710"}
+    ],
+    [
+      "156930712",
+      {"key": "156930712"}
+    ],
+    [
+      "156930714",
+      {"key": "156930714"}
+    ],
+    [
+      "156930717",
+      {"key": "156930717"}
+    ],
+    [
+      "156930720",
+      {"key": "156930720"}
+    ],
+    [
+      "156930723",
+      {"key": "156930723"}
+    ],
+    [
+      "156930726",
+      {"key": "156930726"}
+    ],
+    [
+      "156930729",
+      {"key": "156930729"}
+    ],
+    [
+      "156930731",
+      {"key": "156930731"}
+    ],
+    [
+      "156930733",
+      {"key": "156930733"}
+    ],
+    [
+      "156930737",
+      {"key": "156930737"}
+    ],
+    [
+      "156930740",
+      {"key": "156930740"}
+    ],
+    [
+      "156930743",
+      {"key": "156930743"}
+    ],
+    [
+      "156930747",
+      {"key": "156930747"}
+    ],
+    [
+      "156930750",
+      {"key": "156930750"}
+    ],
+    [
+      "156930753",
+      {"key": "156930753"}
+    ],
+    [
+      "156930756",
+      {"key": "156930756"}
+    ],
+    [
+      "156930758",
+      {"key": "156930758"}
+    ],
+    [
+      "156930761",
+      {"key": "156930761"}
+    ],
+    [
+      "156930765",
+      {"key": "156930765"}
+    ],
+    [
+      "156930767",
+      {"key": "156930767"}
+    ],
+    [
+      "156930769",
+      {"key": "156930769"}
+    ],
+    [
+      "156930772",
+      {"key": "156930772"}
+    ],
+    [
+      "156930775",
+      {"key": "156930775"}
+    ],
+    [
+      "156930777",
+      {"key": "156930777"}
+    ],
+    [
+      "156930780",
+      {"key": "156930780"}
+    ],
+    [
+      "156930783",
+      {"key": "156930783"}
+    ],
+    [
+      "156930787",
+      {"key": "156930787"}
+    ],
+    [
+      "156930790",
+      {"key": "156930790"}
+    ],
+    [
+      "156930794",
+      {"key": "156930794"}
+    ],
+    [
+      "156930796",
+      {"key": "156930796"}
+    ],
+    [
+      "156930799",
+      {"key": "156930799"}
+    ],
+    [
+      "156930802",
+      {"key": "156930802"}
+    ],
+    [
+      "156930805",
+      {"key": "156930805"}
+    ],
+    [
+      "156930809",
+      {"key": "156930809"}
+    ],
+    [
+      "156930812",
+      {"key": "156930812"}
+    ],
+    [
+      "156930815",
+      {"key": "156930815"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/13daines",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Daines teaches principles to help us better see the Savior and understand God\u2019s love.",
+          "title": "Sir, We Would Like to See Jesus"
+        },
+        "pageSocial": {
+          "description": "Elder Daines teaches principles to help us better see the Savior and understand God\u2019s love.",
+          "title": "Sir, We Would Like to See Jesus"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/e3/9f/e39f5afe746cd8b82b43af351910cfb24ba31abc/e39f5afe746cd8b82b43af351910cfb24ba31abc.jpeg\" data-video-title=\"Sir, We Would Like to See Jesus\" data-video-description=\"Elder Daines teaches principles to help us better see the Savior and understand God\u2019s love.\" data-video-id=\"6338156042112\" data-ip=\"Download and Streaming                            \" data-duration=\"622757\" data-assetId=\"bd4e63055fbe11eebf21eeeeac1e324c8846b7a3\" data-ref-id=\"E46A4637A29C38926B95E7AA10D5C6AF0D47A0F8\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338156042112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"208398418\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"57670606\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"149714522\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1030-robert-m-daines-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"208398418\"/><\/video><h1 data-aid=\"156930559\" id=\"title1\">Sir, We Would Like to See Jesus<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156930560\" id=\"author1\">By Elder Robert M. Daines<\/p>\n<p class=\"author-role\" data-aid=\"156930561\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156930562\" id=\"kicker1\">We want to see Jesus for who He is and to feel His love.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section>\n<header>\n<h2 data-aid=\"156930563\" id=\"title2\">Face Blindness<\/h2>\n<\/header>\n<p data-aid=\"156930564\" id=\"p1\">One day in the spring of 1945, a young man awoke in a military hospital. He was fortunate to be alive\u2014he\u2019d been shot just behind the ear, but doctors had operated, and he could now walk and talk normally.<\/p>\n<p data-aid=\"156930565\" id=\"p2\">Tragically, the bullet had damaged the part of his brain that recognized faces. He now looked at his wife without a spark of recognition; he couldn\u2019t recognize his own mother. Even the face in the mirror was foreign to him\u2014he couldn\u2019t tell if it was a man or a woman.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/p>\n<p data-aid=\"156930566\" id=\"p3\">He\u2019d become face-blind\u2014a condition that affects millions of people.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"156930567\" id=\"p4\">People who are severely face-blind try to identify others by memorizing rules\u2014a rule for recognizing a daughter by the pattern of her freckles or a friend by her shuffling gait.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930569\" id=\"title3\">Growing Up<\/h2>\n<\/header>\n<p data-aid=\"156930571\" id=\"p5\">Here\u2019s a second story, closer to home: As a young boy, I often saw my mom as the rule maker. She decided when I could play and when I had to go to bed or, worse, pull weeds in the yard.<\/p>\n<p data-aid=\"156930573\" id=\"p6\">She obviously loved me. But too often and to my shame, I saw her only as \u201cShe Who Must Be Obeyed.\u201d<\/p>\n<p data-aid=\"156930575\" id=\"p7\">Only years later did I come to see her as a real person. I am embarrassed that I never really noticed her sacrifice or wondered why for years she only ever wore the same two old skirts (while I got new school clothes) or why, at the end of the day, she was so tired and eager for me to go to bed early.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930576\" id=\"title4\">We May Be Face-Blind<\/h2>\n<\/header>\n<p data-aid=\"156930578\" id=\"p8\">Perhaps you\u2019ve noticed that these two stories are really one story\u2014for too many years, I was, in effect, face-blind. I failed to see my mom as a real person. I saw her rules but didn\u2019t see in them her love.<\/p>\n<p data-aid=\"156930581\" id=\"p9\">I tell you these two stories to make one point: I suspect you know someone (perhaps you <em>are<\/em> someone) who suffers from a kind of spiritual face blindness.<\/p>\n<p data-aid=\"156930583\" id=\"p10\">You may struggle to see God as a loving Father. You may look heavenward and see not the face of love and mercy but a thicket of rules through which you must wend your way. Perhaps you believe God rules in His heavens, speaks through His prophets, and loves your sister, but you secretly wonder whether He loves you.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Perhaps you have felt the iron rod in your hand but not yet felt your Savior\u2019s love to which it leads.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"156930584\" id=\"p11\">I suspect you know people like this because for a long time, I <em>was<\/em> someone like this\u2014I was spiritually face-blind.<\/p>\n<p data-aid=\"156930586\" id=\"p12\">I thought my life was about following rules and measuring up to abstract standards. I knew God loved <em>you<\/em> perfectly but didn\u2019t feel it myself. I\u2019m afraid I thought more about getting into heaven than being with my Heavenly Father.<\/p>\n<p data-aid=\"156930589\" id=\"p13\">If you, like me, can sometimes only lip-synch but not \u201csing the song of redeeming love,\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> what can we do?<\/p>\n<p data-aid=\"156930590\" id=\"p14\">The answer, as President Russell M. Nelson reminds us, is always Jesus.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> And that is very good news.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930592\" id=\"title5\">Sir, We Would Like to See Jesus<\/h2>\n<\/header>\n<p data-aid=\"156930594\" id=\"p16\">There\u2019s a short verse in John that I love. It tells of a group of outsiders who make their way to a disciple with an important request. \u201cSir,\u201d they say, \u201cwe would [like to] see Jesus.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"156930596\" id=\"p17\">That is what we all want\u2014we want to see Jesus for who He is and to feel His love. This should be the reason for most of what we do in the Church\u2014and certainly of every sacrament meeting. If you\u2019re ever wondering what kind of lesson to teach, what kind of meeting to plan, and whether to just give up on the deacons and play dodgeball, you might take this verse as your guide: will this help people see and love Jesus Christ? If not, maybe try something else.<\/p>\n<p data-aid=\"156930598\" id=\"p19\">When I realized that I was spiritually face-blind, that I saw rules but not the face of the Father\u2019s mercy, I knew it wasn\u2019t the Church\u2019s fault. It wasn\u2019t God\u2019s, and it didn\u2019t mean everything was lost; it\u2019s something we <em>all<\/em> have to learn. Even the early witnesses to the Resurrection often came face-to-face with the resurrected Lord but did not recognize Him; from the Garden Tomb to the shores of Galilee, His first followers \u201csaw Jesus standing, and knew not that it was Jesus.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> They had to learn to recognize Him, and so do we.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930600\" id=\"title6\">Charity<\/h2>\n<\/header>\n<p data-aid=\"156930603\" id=\"p20\">When I realized I was spiritually face-blind, I started to follow Mormon\u2019s counsel to pray \u201cwith all the energy of heart\u201d to be filled with the love promised His disciples\u2014my love for Him and His love for me\u2014and to \u201csee him as he is \u2026 and have this hope.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> I prayed for years to be able to follow the first great commandment to love God and to feel that \u201cfirst great <em>truth<\/em> \u2026 that God loves <em>us<\/em> with all of <em>His<\/em> heart, might, mind, and strength.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930605\" id=\"title7\">The Gospels<\/h2>\n<\/header>\n<p data-aid=\"156930606\" id=\"p21\">I also read and reread and reread the four Gospels\u2014this time reading not to extract rules but to see who He is and what He loves. And, in time, I was swept away by the river of love that flowed from Him.<\/p>\n<p data-aid=\"156930609\" id=\"p53\">Jesus announced at the outset that He had come \u201cto heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"156930612\" id=\"p44\">This wasn\u2019t just a to-do list or good PR; it is the shape of His love.<\/p>\n<p data-aid=\"156930614\" id=\"p50\">Open the Gospels at random; on almost every page we see Him caring for people who suffer\u2014socially, spiritually, and physically. He touches people considered polluted and unclean<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> and feeds the hungry.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"156930618\" id=\"p24\">What is your favorite story of Jesus? I suspect it shows the Son of God reaching out to embrace or offer hope to someone on the margins\u2014the leper,<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> the hated Samaritan,<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> the accused and scandalous sinner,<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> or the national enemy.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> That kind of grace is amazing.<\/p>\n<p data-aid=\"156930620\" id=\"p51\">Try writing down every time He praises or heals or eats with an outsider, and you will run low on ink before you leave Luke.<\/p>\n<p data-aid=\"156930624\" id=\"p25\">As I saw this, my heart leapt in loving recognition, and I began to feel that He might love me. As President Nelson taught, \u201cThe more you learn about the Savior, the easier it will be to trust in His mercy, His infinite love.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> And the more you will trust and love your Heavenly Father.<\/p>\n<p data-aid=\"156930628\" id=\"p45\">Elder Jeffrey R. Holland has taught us that Jesus came to show \u201cus who and what God our Eternal Father is like, how completely devoted He is to His children in every age and nation.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"156930630\" id=\"p27\">Paul says God is \u201cthe Father of [all] mercies, and the God of all comfort.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"156930633\" id=\"p46\">If you see Him differently, please keep trying.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930636\" id=\"title8\">Covenants and God\u2019s Embrace<\/h2>\n<\/header>\n<p data-aid=\"156930638\" id=\"p28\">Prophets invite us to seek His face.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> I take this as a reminder that we worship our Father, not a formula, and that we\u2019re not finished until we see Jesus as the face of our Father\u2019s love<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> and follow Him, not just His rules.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"156930640\" id=\"p29\">When prophets and apostles talk of covenants, they aren\u2019t like coaches yelling out from (red velvet) bleachers, telling us to \u201ctry harder!\u201d They want us to see our covenants are fundamentally about relationships<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> and can be a cure for spiritual face blindness.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> They are not rules to earn His love; He already loves you perfectly. Our challenge is to understand and shape our life to that love.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<p data-aid=\"156930643\" id=\"p52\">We try to see through our covenants, as if through a window, to the face of the Father\u2019s mercy behind.<\/p>\n<p data-aid=\"156930645\" id=\"p30\">Covenants are the shape of God\u2019s embrace.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156930647\" id=\"p32\">The River of God\u2019s Love<\/h2>\n<\/header>\n<p data-aid=\"156930650\" id=\"p54\">Finally, we can learn to see Him by serving Him. \u201cFor how knoweth a man the master whom he has not served?\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/p>\n<p data-aid=\"156930652\" id=\"p33\">A few years ago, I got a calling I didn\u2019t feel up to. I awoke early, nervous\u2014but with a phrase in mind I had not heard before: that to serve in this Church is to stand in the river of God\u2019s love for His children. This Church is a work party of people with picks and shovels trying to help clear the channel for the river of God\u2019s love to reach His children at the end of the row.<\/p>\n<p data-aid=\"156930655\" id=\"p49\">Whoever you are, whatever your past, there is room for you in this Church.<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a><\/p>\n<p data-aid=\"156930659\" id=\"p34\">Grab a pick and shovel and join the team. Help carry His love to His children, and some of it will splash on you.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a><\/p>\n<p data-aid=\"156930662\" id=\"p35\">Let us seek His loving face, His covenant embrace, and then join arm in arm with His children, and together we will sing \u201cRedeemer of Israel\u201d:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"156930665\" id=\"p36\">Restore, my dear Savior,<\/p>\n<p class=\"line\" data-aid=\"156930668\" id=\"p37\">The light of thy face;<\/p>\n<p class=\"line\" data-aid=\"156930670\" id=\"p38\">Thy soul-cheering comfort impart;<\/p>\n<p class=\"line\" data-aid=\"156930674\" id=\"p39\">And let the sweet longing<\/p>\n<p class=\"line\" data-aid=\"156930678\" id=\"p40\">For thy holy place<\/p>\n<p class=\"line\" data-aid=\"156930681\" id=\"p41\">Bring hope to my desolate heart.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a><\/p>\n<\/div>\n<\/div>\n<p data-aid=\"156930684\" id=\"p42\">May we seek His loving face and then be vessels of His mercy to His children.<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156930687\" id=\"notetitle1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156930690\" id=\"note1_p1\">See Hadyn D. Ellis and Melanie Florence, \u201cBodamer\u2019s (1947) Paper on Prosopagnosia,\u201d <cite>Cognitive Neuropsychology<\/cite>, vol. 7, no. 2 (1990), 84\u201391; Joshua Davis, \u201cFace Blind,\u201d <cite>Wired<\/cite>, Nov. 1, 2006, wired.com.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156930693\" id=\"note2_p1\">See Dennis Nealon, \u201cHow Common Is Face Blindness?,\u201d <cite>Harvard Medical School<\/cite>, Feb. 24, 2023, hms.harvard.edu; Oliver Sacks, \u201cFace-Blind,\u201d <cite>New Yorker<\/cite>, Aug. 23, 2010, newyorker.com.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156930696\" id=\"note3_p1\">\u201cSome Church members accept as true the doctrine, principles, and testimonies proclaimed repeatedly from this pulpit in the Conference Center and in local congregations around the world\u2014and yet may struggle to believe these eternal truths apply specifically in their lives and to their circumstances\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/57bednar?lang=eng\">Abide in Me, and I in You; Therefore Walk with Me<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 125).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156930698\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=eng#p19\">1 Nephi 8:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23?lang=eng#p23\">15:23<\/a>. \u201cIt is hard to keep the Lord\u2019s commandments without faith and trust in Him\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/38eyring?lang=eng\">The Faith to Ask and Then to Act<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 75).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156930700\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=eng#p26\">Alma 5:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156930702\" id=\"note6_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/58nelson?lang=eng\">The Answer Is Always Jesus Christ<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 127\u201328.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156930704\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.21?lang=eng#p21\">John 12:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156930706\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=eng#p14\">John 20:14<\/a>. They saw but did not know Him on the road to Emmaus (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.16?lang=eng#p16\">Luke 24:16<\/a>), in a locked room (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.37?lang=eng#p37\">Luke 24:37<\/a>), on the shores of Galilee (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21.4?lang=eng#p4\">John 21:4<\/a>), and at the Garden Tomb (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=eng#p14\">John 20:14<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156930708\" id=\"note9_p1\">If we seek Him with all our heart and keep going with faith, He will be found.<\/p>\n<p data-aid=\"156930710\" id=\"note9_p4\">\u201cFor I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil. \u2026<\/p>\n<p data-aid=\"156930712\" id=\"note9_p5\">\u201cAnd ye shall seek me, and find me, when ye shall search for me with all your heart\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11,13?lang=eng#p11\">Jeremiah 29:11, 13<\/a>).<\/p>\n<p data-aid=\"156930714\" id=\"note9_p2\">\u201cThe day shall come when you shall comprehend even God, being quickened in him and by him.<\/p>\n<p data-aid=\"156930717\" id=\"note9_p6\">\u201cThen shall ye know that ye have seen me, that I am\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.49-50?lang=eng#p49\">Doctrine and Covenants 88:49\u201350<\/a>).<\/p>\n<p data-aid=\"156930720\" id=\"note9_p3\">\u201cEvery soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.1?lang=eng#p1\">Doctrine and Covenants 93:1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156930723\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=eng#p48\">Moroni 7:48<\/a>. Paul also connects charity with our ability to see clearly. At the conclusion of his great sermon on charity, he writes that though \u201cnow we see through a glass, darkly,\u201d we will later see \u201cface to face: \u2026 then shall I know even as also I am known\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.12?lang=eng#p12\">1 Corinthians 13:12<\/a>).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156930726\" id=\"note11_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=eng\">Tomorrow the Lord Will Do Wonders among You<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2016, 127. \u201cThe greater definition of \u2018the pure love of Christ\u2019 \u2026 is not what we as Christians try but largely fail to demonstrate toward others but rather what Christ totally succeeded in demonstrating toward us. <em>True<\/em> charity has been known only once. It is shown perfectly and purely in Christ\u2019s unfailing, ultimate, and atoning love for us\u201d (Jeffrey R. Holland, <cite>Christ and the New Covenant: The Messianic Message of the Book of Mormon<\/cite> [1997], 336).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156930729\" id=\"note12_p1\">Luke 4:18, New King James Version.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156930731\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.3?lang=eng#p3\">Matthew 8:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.25?lang=eng#p25\">9:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156930733\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.13-21?lang=eng#p13\">Matthew 14:13\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156930737\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.1-3?lang=eng#p1\">Matthew 8:1\u20133.<\/a><\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156930740\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7-10?lang=eng#p7\">John 4:7\u201310<\/a>; He praised the Samaritan (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.25-37?lang=eng#p25\">Luke 10:25\u201337<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156930743\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.31?lang=eng#p31\">Matthew 21:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.27-50?lang=eng#p27\">Luke 7:27\u201350<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15.1-10?lang=eng#p1\">15:1\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.2-12?lang=eng#p2\">John 8:2\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156930747\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.5-13?lang=eng#p5\">Matthew 8:5\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156930750\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=eng\">Christ Is Risen; Faith in Him Will Move Mountains<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 103.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156930753\" id=\"note20_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/the-grandeur-of-god?lang=eng\">The Grandeur of God<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2003, 70. \u201cHe that hath seen me hath seen the Father\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.9?lang=eng#p9\">John 14:9<\/a>).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156930756\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1.3?lang=eng#p3\">2 Corinthians 1:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156930758\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.8?lang=eng#p8\">Psalm 27:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.68?lang=eng#p68\">Doctrine and Covenants 88:68<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156930761\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4.6?lang=eng#p6\">2 Corinthians 4:6<\/a>; Pope Francis, \u201cMisericordiae Vultus: Bull of Indiction of the Extraordinary Jubilee of Mercy,\u201d <cite>Apostolic Letters<\/cite>, vatican.va.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156930765\" id=\"note24_p1\">This is an important theme. It\u2019s not just <em>the<\/em> work of salvation and exaltation but <em>His<\/em> work of salvation and exaltation (see <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&amp;para=title4#title4\">1.2<\/a>, Gospel Library). I don\u2019t just go to a temple but to the house of the Lord; it\u2019s not the Mormon Church but the Church of Jesus Christ (see Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng\">The Correct Name of the Church<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 87\u201389). Our leaders point us to Him and even remind us that there \u201cis no amorphous entity called \u2018the Atonement\u2019 upon which we may call for succor, healing, forgiveness, or power. Jesus Christ is the source\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 40).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156930767\" id=\"note25_p1\">\u201cThe covenant path is all about our relationship with God\u201d; it is the \u201cpath of love\u2014 \u2026 compassionate caring for and reaching out to each other\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 11).<\/p>\n<p data-aid=\"156930769\" id=\"note25_p2\">See David A. Bednar, \u201cThe Blessed and Happy State\u201d (address given at the seminar for new mission leaders, June 24, 2022); Scott Taylor, \u201cElder Bednar Shares 7 Lessons on \u2018the Blessed and Happy State\u2019 of Obedience,\u201d <em>Church News<\/em>, June 27, 2022, thechurchnews.com.<\/p>\n<p data-aid=\"156930772\" id=\"note25_p3\">\u201cEntering into sacred covenants and worthily receiving priesthood ordinances yoke us with and bind us to the Lord Jesus Christ and Heavenly Father. This simply means that we trust in the Savior as our Advocate and Mediator and rely on His merits, mercy, and grace during the journey of life. \u2026<\/p>\n<p data-aid=\"156930775\" id=\"note25_p4\">\u201cLiving and loving covenant commitments creates a connection with the Lord that is deeply personal and spiritually powerful. \u2026 Jesus then becomes much more than the central character in scripture stories; His example and teachings influence our every desire, thought, and action\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/14bednar?lang=eng\">But We Heeded Them Not<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 15).<\/p>\n<p data-aid=\"156930777\" id=\"note25_p5\">See also D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/41christofferson?lang=eng\">Our Relationship with God<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 78\u201380.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156930780\" id=\"note26_p1\">\u201cAnd without the ordinances thereof, and the authority of the priesthood, the power of godliness is not manifest unto men in the flesh;<\/p>\n<p data-aid=\"156930783\" id=\"note26_p2\">\u201cFor without this no man can see the face of God, even the Father, and live\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.21-22?lang=eng#p21\">Doctrine and Covenants 84:21\u201322<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156930787\" id=\"note27_p1\">Patricia Holland, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=eng\">A Future Filled with Hope<\/a>\u201d (worldwide devotional for young adults, Jan. 8, 2023), Gospel Library:<\/p>\n<p data-aid=\"156930790\" id=\"note27_p2\">\u201cYou don\u2019t have to run around chasing after [the hope that He will help you]; you don\u2019t and you can\u2019t manufacture it. Like so much in the realm of grace, you won\u2019t acquire it by leaning on your own strength or on that of another person. There are no secret formulas or any magical mantras involved. \u2026<\/p>\n<p data-aid=\"156930794\" id=\"note27_p3\">\u201cIn fact, the part we play is important but actually very small; God has the larger portion of the task. Our part is to come unto Him in lowliness and simplicity, then we should worry not and fear not.\u201d<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156930796\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.13?lang=eng#p13\">Mosiah 5:13<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.3?lang=eng#p3\">John 17:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156930799\" id=\"note29_p1\">President Nelson has repeatedly called on us to \u201cexpand our circle of love to embrace the whole human family\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=eng\">Blessed Are the Peacemakers<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2002, 41). In May 2022 he told young adults that \u201clabels can lead to judging and animosity. Any <em>abuse<\/em> or <em>prejudice<\/em> toward another because of nationality, race, sexual orientation, gender, educational degrees, culture, or other significant identifiers is offensive to our Maker\u201d (\u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng\">Choices for Eternity<\/a>\u201d [worldwide devotional for young adults, May 15, 2022], Gospel Library). And importantly, he said: \u201cI grieve that our Black brothers and sisters the world over are enduring the pains of racism and prejudice. Today I call upon our members everywhere to lead out in abandoning attitudes and actions of prejudice. I plead with you to promote respect for all of God\u2019s children\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94).<\/p>\n<p data-aid=\"156930802\" id=\"note29_p2\">\u201cPrejudice is not consistent with the revealed word of God. Favor or disfavor with God depends on devotion to Him and His commandments, not on the color of a person\u2019s skin or other attributes.<\/p>\n<p data-aid=\"156930805\" id=\"note29_p3\">\u201c\u2026 This includes prejudice based on race, ethnicity, nationality, tribe, gender, age, disability, socioeconomic status, religious belief or nonbelief, and sexual orientation\u201d (<cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title97#title97\">38.6.14<\/a>, Gospel Library).<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156930809\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=eng#p25\">1 Nephi 11:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"156930812\" id=\"note31_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/hymns/redeemer-of-israel?lang=eng\">Redeemer of Israel<\/a>,\u201d <cite>Hymns<\/cite>, no. 6.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"156930815\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/9.23?lang=eng#p23\">Romans 9:23<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156930583",
+        "id": "note4",
+        "text": "<p data-aid=\"156930698\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8.19?lang=eng#p19\">1 Nephi 8:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15.23?lang=eng#p23\">15:23<\/a>. \u201cIt is hard to keep the Lord\u2019s commandments without faith and trust in Him\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/38eyring?lang=eng\">The Faith to Ask and Then to Act<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 75).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/8.19?lang=eng#p19",
+            "text": "1 Nephi 8:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/15.23?lang=eng#p23",
+            "text": "15:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2021/10/38eyring?lang=eng",
+            "text": "The Faith to Ask and Then to Act",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156930589",
+        "id": "note5",
+        "text": "<p data-aid=\"156930700\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5.26?lang=eng#p26\">Alma 5:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/5.26?lang=eng#p26",
+          "text": "Alma 5:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156930566",
+        "id": "note2",
+        "text": "<p data-aid=\"156930693\" id=\"note2_p1\">See Dennis Nealon, \u201cHow Common Is Face Blindness?,\u201d <cite>Harvard Medical School<\/cite>, Feb. 24, 2023, hms.harvard.edu; Oliver Sacks, \u201cFace-Blind,\u201d <cite>New Yorker<\/cite>, Aug. 23, 2010, newyorker.com.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156930583",
+        "id": "note3",
+        "text": "<p data-aid=\"156930696\" id=\"note3_p1\">\u201cSome Church members accept as true the doctrine, principles, and testimonies proclaimed repeatedly from this pulpit in the Conference Center and in local congregations around the world\u2014and yet may struggle to believe these eternal truths apply specifically in their lives and to their circumstances\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/57bednar?lang=eng\">Abide in Me, and I in You; Therefore Walk with Me<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 125).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/57bednar?lang=eng",
+          "text": "Abide in Me, and I in You; Therefore Walk with Me",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156930598",
+        "id": "note8",
+        "text": "<p data-aid=\"156930706\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=eng#p14\">John 20:14<\/a>. They saw but did not know Him on the road to Emmaus (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.16?lang=eng#p16\">Luke 24:16<\/a>), in a locked room (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/24.37?lang=eng#p37\">Luke 24:37<\/a>), on the shores of Galilee (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21.4?lang=eng#p4\">John 21:4<\/a>), and at the Garden Tomb (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20.14?lang=eng#p14\">John 20:14<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/20.14?lang=eng#p14",
+            "text": "John 20:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/24.16?lang=eng#p16",
+            "text": "Luke 24:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/24.37?lang=eng#p37",
+            "text": "Luke 24:37",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/21.4?lang=eng#p4",
+            "text": "John 21:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/20.14?lang=eng#p14",
+            "text": "John 20:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156930598",
+        "id": "note9",
+        "text": "<p data-aid=\"156930708\" id=\"note9_p1\">If we seek Him with all our heart and keep going with faith, He will be found.<\/p>\n<p data-aid=\"156930710\" id=\"note9_p4\">\u201cFor I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil. \u2026<\/p>\n<p data-aid=\"156930712\" id=\"note9_p5\">\u201cAnd ye shall seek me, and find me, when ye shall search for me with all your heart\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/29.11,13?lang=eng#p11\">Jeremiah 29:11, 13<\/a>).<\/p>\n<p data-aid=\"156930714\" id=\"note9_p2\">\u201cThe day shall come when you shall comprehend even God, being quickened in him and by him.<\/p>\n<p data-aid=\"156930717\" id=\"note9_p6\">\u201cThen shall ye know that ye have seen me, that I am\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.49-50?lang=eng#p49\">Doctrine and Covenants 88:49\u201350<\/a>).<\/p>\n<p data-aid=\"156930720\" id=\"note9_p3\">\u201cEvery soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93.1?lang=eng#p1\">Doctrine and Covenants 93:1<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/29.11,13?lang=eng#p11",
+            "text": "Jeremiah 29:11, 13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.49-50?lang=eng#p49",
+            "text": "Doctrine and Covenants 88:49\u201350",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93.1?lang=eng#p1",
+            "text": "Doctrine and Covenants 93:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156930590",
+        "id": "note6",
+        "text": "<p data-aid=\"156930702\" id=\"note6_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/58nelson?lang=eng\">The Answer Is Always Jesus Christ<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 127\u201328.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/58nelson?lang=eng",
+          "text": "The Answer Is Always Jesus Christ",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156930594",
+        "id": "note7",
+        "text": "<p data-aid=\"156930704\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12.21?lang=eng#p21\">John 12:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/12.21?lang=eng#p21",
+          "text": "John 12:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156930659",
+        "id": "note30",
+        "text": "<p data-aid=\"156930809\" id=\"note30_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11.25?lang=eng#p25\">1 Nephi 11:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/11.25?lang=eng#p25",
+          "text": "1 Nephi 11:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156930618",
+        "id": "note16",
+        "text": "<p data-aid=\"156930740\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4.7-10?lang=eng#p7\">John 4:7\u201310<\/a>; He praised the Samaritan (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10.25-37?lang=eng#p25\">Luke 10:25\u201337<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/4.7-10?lang=eng#p7",
+            "text": "John 4:7\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/10.25-37?lang=eng#p25",
+            "text": "Luke 10:25\u201337",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156930618",
+        "id": "note15",
+        "text": "<p data-aid=\"156930737\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.1-3?lang=eng#p1\">Matthew 8:1\u20133.<\/a><\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.1-3?lang=eng#p1",
+          "text": "Matthew 8:1\u20133.",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156930614",
+        "id": "note14",
+        "text": "<p data-aid=\"156930733\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14.13-21?lang=eng#p13\">Matthew 14:13\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/14.13-21?lang=eng#p13",
+          "text": "Matthew 14:13\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156930614",
+        "id": "note13",
+        "text": "<p data-aid=\"156930731\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.3?lang=eng#p3\">Matthew 8:3<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9.25?lang=eng#p25\">9:25<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/8.3?lang=eng#p3",
+            "text": "Matthew 8:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/9.25?lang=eng#p25",
+            "text": "9:25",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156930609",
+        "id": "note12",
+        "text": "<p data-aid=\"156930729\" id=\"note12_p1\">Luke 4:18, New King James Version.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156930603",
+        "id": "note11",
+        "text": "<p data-aid=\"156930726\" id=\"note11_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=eng\">Tomorrow the Lord Will Do Wonders among You<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2016, 127. \u201cThe greater definition of \u2018the pure love of Christ\u2019 \u2026 is not what we as Christians try but largely fail to demonstrate toward others but rather what Christ totally succeeded in demonstrating toward us. <em>True<\/em> charity has been known only once. It is shown perfectly and purely in Christ\u2019s unfailing, ultimate, and atoning love for us\u201d (Jeffrey R. Holland, <cite>Christ and the New Covenant: The Messianic Message of the Book of Mormon<\/cite> [1997], 336).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/04/tomorrow-the-lord-will-do-wonders-among-you?lang=eng",
+          "text": "Tomorrow the Lord Will Do Wonders among You",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156930603",
+        "id": "note10",
+        "text": "<p data-aid=\"156930723\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.48?lang=eng#p48\">Moroni 7:48<\/a>. Paul also connects charity with our ability to see clearly. At the conclusion of his great sermon on charity, he writes that though \u201cnow we see through a glass, darkly,\u201d we will later see \u201cface to face: \u2026 then shall I know even as also I am known\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13.12?lang=eng#p12\">1 Corinthians 13:12<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7.48?lang=eng#p48",
+            "text": "Moroni 7:48",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/13.12?lang=eng#p12",
+            "text": "1 Corinthians 13:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "156930684",
+        "id": "note32",
+        "text": "<p data-aid=\"156930815\" id=\"note32_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/9.23?lang=eng#p23\">Romans 9:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/9.23?lang=eng#p23",
+          "text": "Romans 9:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "156930681",
+        "id": "note31",
+        "text": "<p data-aid=\"156930812\" id=\"note31_p1\">\u201c<a class=\"cross-ref\" href=\"/study/manual/hymns/redeemer-of-israel?lang=eng\">Redeemer of Israel<\/a>,\u201d <cite>Hymns<\/cite>, no. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/hymns/redeemer-of-israel?lang=eng",
+          "text": "Redeemer of Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156930624",
+        "id": "note19",
+        "text": "<p data-aid=\"156930750\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=eng\">Christ Is Risen; Faith in Him Will Move Mountains<\/a>,\u201d <cite>Liahona<\/cite>, May 2021, 103.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/49nelson?lang=eng",
+          "text": "Christ Is Risen; Faith in Him Will Move Mountains",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156930618",
+        "id": "note18",
+        "text": "<p data-aid=\"156930747\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8.5-13?lang=eng#p5\">Matthew 8:5\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/8.5-13?lang=eng#p5",
+          "text": "Matthew 8:5\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156930618",
+        "id": "note17",
+        "text": "<p data-aid=\"156930743\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/21.31?lang=eng#p31\">Matthew 21:31<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/7.27-50?lang=eng#p27\">Luke 7:27\u201350<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15.1-10?lang=eng#p1\">15:1\u201310<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8.2-12?lang=eng#p2\">John 8:2\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/21.31?lang=eng#p31",
+            "text": "Matthew 21:31",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/7.27-50?lang=eng#p27",
+            "text": "Luke 7:27\u201350",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/15.1-10?lang=eng#p1",
+            "text": "15:1\u201310",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/8.2-12?lang=eng#p2",
+            "text": "John 8:2\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156930640",
+        "id": "note27",
+        "text": "<p data-aid=\"156930787\" id=\"note27_p1\">Patricia Holland, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=eng\">A Future Filled with Hope<\/a>\u201d (worldwide devotional for young adults, Jan. 8, 2023), Gospel Library:<\/p>\n<p data-aid=\"156930790\" id=\"note27_p2\">\u201cYou don\u2019t have to run around chasing after [the hope that He will help you]; you don\u2019t and you can\u2019t manufacture it. Like so much in the realm of grace, you won\u2019t acquire it by leaning on your own strength or on that of another person. There are no secret formulas or any magical mantras involved. \u2026<\/p>\n<p data-aid=\"156930794\" id=\"note27_p3\">\u201cIn fact, the part we play is important but actually very small; God has the larger portion of the task. Our part is to come unto Him in lowliness and simplicity, then we should worry not and fear not.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2023/01/14holland?lang=eng",
+          "text": "A Future Filled with Hope",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156930640",
+        "id": "note26",
+        "text": "<p data-aid=\"156930780\" id=\"note26_p1\">\u201cAnd without the ordinances thereof, and the authority of the priesthood, the power of godliness is not manifest unto men in the flesh;<\/p>\n<p data-aid=\"156930783\" id=\"note26_p2\">\u201cFor without this no man can see the face of God, even the Father, and live\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84.21-22?lang=eng#p21\">Doctrine and Covenants 84:21\u201322<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84.21-22?lang=eng#p21",
+          "text": "Doctrine and Covenants 84:21\u201322",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156930640",
+        "id": "note25",
+        "text": "<p data-aid=\"156930767\" id=\"note25_p1\">\u201cThe covenant path is all about our relationship with God\u201d; it is the \u201cpath of love\u2014 \u2026 compassionate caring for and reaching out to each other\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 11).<\/p>\n<p data-aid=\"156930769\" id=\"note25_p2\">See David A. Bednar, \u201cThe Blessed and Happy State\u201d (address given at the seminar for new mission leaders, June 24, 2022); Scott Taylor, \u201cElder Bednar Shares 7 Lessons on \u2018the Blessed and Happy State\u2019 of Obedience,\u201d <em>Church News<\/em>, June 27, 2022, thechurchnews.com.<\/p>\n<p data-aid=\"156930772\" id=\"note25_p3\">\u201cEntering into sacred covenants and worthily receiving priesthood ordinances yoke us with and bind us to the Lord Jesus Christ and Heavenly Father. This simply means that we trust in the Savior as our Advocate and Mediator and rely on His merits, mercy, and grace during the journey of life. \u2026<\/p>\n<p data-aid=\"156930775\" id=\"note25_p4\">\u201cLiving and loving covenant commitments creates a connection with the Lord that is deeply personal and spiritually powerful. \u2026 Jesus then becomes much more than the central character in scripture stories; His example and teachings influence our every desire, thought, and action\u201d (David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/14bednar?lang=eng\">But We Heeded Them Not<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 15).<\/p>\n<p data-aid=\"156930777\" id=\"note25_p5\">See also D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/41christofferson?lang=eng\">Our Relationship with God<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 78\u201380.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng",
+            "text": "The Everlasting Covenant",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/14bednar?lang=eng",
+            "text": "But We Heeded Them Not",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/41christofferson?lang=eng",
+            "text": "Our Relationship with God",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156930638",
+        "id": "note24",
+        "text": "<p data-aid=\"156930765\" id=\"note24_p1\">This is an important theme. It\u2019s not just <em>the<\/em> work of salvation and exaltation but <em>His<\/em> work of salvation and exaltation (see <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&amp;para=title4#title4\">1.2<\/a>, Gospel Library). I don\u2019t just go to a temple but to the house of the Lord; it\u2019s not the Mormon Church but the Church of Jesus Christ (see Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng\">The Correct Name of the Church<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 87\u201389). Our leaders point us to Him and even remind us that there \u201cis no amorphous entity called \u2018the Atonement\u2019 upon which we may call for succor, healing, forgiveness, or power. Jesus Christ is the source\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 40).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&amp;para=title4#title4",
+            "text": "1.2",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng",
+            "text": "The Correct Name of the Church",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng",
+            "text": "Drawing the Power of Jesus Christ into Our Lives",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156930638",
+        "id": "note23",
+        "text": "<p data-aid=\"156930761\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4.6?lang=eng#p6\">2 Corinthians 4:6<\/a>; Pope Francis, \u201cMisericordiae Vultus: Bull of Indiction of the Extraordinary Jubilee of Mercy,\u201d <cite>Apostolic Letters<\/cite>, vatican.va.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/4.6?lang=eng#p6",
+          "text": "2 Corinthians 4:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156930638",
+        "id": "note22",
+        "text": "<p data-aid=\"156930758\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/27.8?lang=eng#p8\">Psalm 27:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.68?lang=eng#p68\">Doctrine and Covenants 88:68<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/27.8?lang=eng#p8",
+            "text": "Psalm 27:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88.68?lang=eng#p68",
+            "text": "Doctrine and Covenants 88:68",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156930630",
+        "id": "note21",
+        "text": "<p data-aid=\"156930756\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1.3?lang=eng#p3\">2 Corinthians 1:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/1.3?lang=eng#p3",
+          "text": "2 Corinthians 1:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156930628",
+        "id": "note20",
+        "text": "<p data-aid=\"156930753\" id=\"note20_p1\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/the-grandeur-of-god?lang=eng\">The Grandeur of God<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2003, 70. \u201cHe that hath seen me hath seen the Father\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.9?lang=eng#p9\">John 14:9<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2003/10/the-grandeur-of-god?lang=eng",
+            "text": "The Grandeur of God",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14.9?lang=eng#p9",
+            "text": "John 14:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156930565",
+        "id": "note1",
+        "text": "<p data-aid=\"156930690\" id=\"note1_p1\">See Hadyn D. Ellis and Melanie Florence, \u201cBodamer\u2019s (1947) Paper on Prosopagnosia,\u201d <cite>Cognitive Neuropsychology<\/cite>, vol. 7, no. 2 (1990), 84\u201391; Joshua Davis, \u201cFace Blind,\u201d <cite>Wired<\/cite>, Nov. 1, 2006, wired.com.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156930655",
+        "id": "note29",
+        "text": "<p data-aid=\"156930799\" id=\"note29_p1\">President Nelson has repeatedly called on us to \u201cexpand our circle of love to embrace the whole human family\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=eng\">Blessed Are the Peacemakers<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2002, 41). In May 2022 he told young adults that \u201clabels can lead to judging and animosity. Any <em>abuse<\/em> or <em>prejudice<\/em> toward another because of nationality, race, sexual orientation, gender, educational degrees, culture, or other significant identifiers is offensive to our Maker\u201d (\u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng\">Choices for Eternity<\/a>\u201d [worldwide devotional for young adults, May 15, 2022], Gospel Library). And importantly, he said: \u201cI grieve that our Black brothers and sisters the world over are enduring the pains of racism and prejudice. Today I call upon our members everywhere to lead out in abandoning attitudes and actions of prejudice. I plead with you to promote respect for all of God\u2019s children\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94).<\/p>\n<p data-aid=\"156930802\" id=\"note29_p2\">\u201cPrejudice is not consistent with the revealed word of God. Favor or disfavor with God depends on devotion to Him and His commandments, not on the color of a person\u2019s skin or other attributes.<\/p>\n<p data-aid=\"156930805\" id=\"note29_p3\">\u201c\u2026 This includes prejudice based on race, ethnicity, nationality, tribe, gender, age, disability, socioeconomic status, religious belief or nonbelief, and sexual orientation\u201d (<cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title97#title97\">38.6.14<\/a>, Gospel Library).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2002/10/blessed-are-the-peacemakers?lang=eng",
+            "text": "Blessed Are the Peacemakers",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng",
+            "text": "Choices for Eternity",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/10/46nelson?lang=eng",
+            "text": "Let God Prevail",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&amp;para=title97#title97",
+            "text": "38.6.14",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156930650",
+        "id": "note28",
+        "text": "<p data-aid=\"156930796\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5.13?lang=eng#p13\">Mosiah 5:13<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17.3?lang=eng#p3\">John 17:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5.13?lang=eng#p13",
+            "text": "Mosiah 5:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/17.3?lang=eng#p3",
+            "text": "John 17:3",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

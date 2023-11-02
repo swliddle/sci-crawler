@@ -1,0 +1,685 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/44cook?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "cc8916a004b04e86adb9209334bb3bc3",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/44cook",
+      "data-aid": "156927278",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "d800618754c64ef08c14279e7f10ed82"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/4d/3d/4d3d35569d3d248b62f2bc613d35ee82689f0f97/4d3d35569d3d248b62f2bc613d35ee82689f0f97.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4040-quentin-l-cook-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Ser los pacíficos discípulos de Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-01T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156927278",
+      {"key": "156927278"}
+    ],
+    [
+      "156991788",
+      {"key": "156991788"}
+    ],
+    [
+      "156991798",
+      {"key": "156991798"}
+    ],
+    [
+      "156991808",
+      {"key": "156991808"}
+    ],
+    [
+      "156991816",
+      {"key": "156991816"}
+    ],
+    [
+      "156992825",
+      {"key": "156992825"}
+    ],
+    [
+      "156992839",
+      {"key": "156992839"}
+    ],
+    [
+      "156992849",
+      {"key": "156992849"}
+    ],
+    [
+      "156992859",
+      {"key": "156992859"}
+    ],
+    [
+      "156992866",
+      {"key": "156992866"}
+    ],
+    [
+      "156992878",
+      {"key": "156992878"}
+    ],
+    [
+      "156992889",
+      {"key": "156992889"}
+    ],
+    [
+      "156992900",
+      {"key": "156992900"}
+    ],
+    [
+      "156992910",
+      {"key": "156992910"}
+    ],
+    [
+      "156992921",
+      {"key": "156992921"}
+    ],
+    [
+      "156992933",
+      {"key": "156992933"}
+    ],
+    [
+      "156992944",
+      {"key": "156992944"}
+    ],
+    [
+      "156992955",
+      {"key": "156992955"}
+    ],
+    [
+      "156992966",
+      {"key": "156992966"}
+    ],
+    [
+      "156992979",
+      {"key": "156992979"}
+    ],
+    [
+      "156992990",
+      {"key": "156992990"}
+    ],
+    [
+      "156993003",
+      {"key": "156993003"}
+    ],
+    [
+      "156993014",
+      {"key": "156993014"}
+    ],
+    [
+      "156993025",
+      {"key": "156993025"}
+    ],
+    [
+      "156993036",
+      {"key": "156993036"}
+    ],
+    [
+      "156993047",
+      {"key": "156993047"}
+    ],
+    [
+      "156993058",
+      {"key": "156993058"}
+    ],
+    [
+      "156993070",
+      {"key": "156993070"}
+    ],
+    [
+      "156993080",
+      {"key": "156993080"}
+    ],
+    [
+      "156993090",
+      {"key": "156993090"}
+    ],
+    [
+      "156993100",
+      {"key": "156993100"}
+    ],
+    [
+      "156993110",
+      {"key": "156993110"}
+    ],
+    [
+      "156993120",
+      {"key": "156993120"}
+    ],
+    [
+      "156993129",
+      {"key": "156993129"}
+    ],
+    [
+      "156993138",
+      {"key": "156993138"}
+    ],
+    [
+      "156993146",
+      {"key": "156993146"}
+    ],
+    [
+      "156993154",
+      {"key": "156993154"}
+    ],
+    [
+      "156993162",
+      {"key": "156993162"}
+    ],
+    [
+      "156993170",
+      {"key": "156993170"}
+    ],
+    [
+      "156993178",
+      {"key": "156993178"}
+    ],
+    [
+      "156993186",
+      {"key": "156993186"}
+    ],
+    [
+      "156993195",
+      {"key": "156993195"}
+    ],
+    [
+      "156993204",
+      {"key": "156993204"}
+    ],
+    [
+      "156993213",
+      {"key": "156993213"}
+    ],
+    [
+      "156993222",
+      {"key": "156993222"}
+    ],
+    [
+      "156993231",
+      {"key": "156993231"}
+    ],
+    [
+      "156993241",
+      {"key": "156993241"}
+    ],
+    [
+      "156993249",
+      {"key": "156993249"}
+    ],
+    [
+      "156993258",
+      {"key": "156993258"}
+    ],
+    [
+      "156993266",
+      {"key": "156993266"}
+    ],
+    [
+      "156993273",
+      {"key": "156993273"}
+    ],
+    [
+      "156993280",
+      {"key": "156993280"}
+    ],
+    [
+      "156993285",
+      {"key": "156993285"}
+    ],
+    [
+      "156993293",
+      {"key": "156993293"}
+    ],
+    [
+      "156993299",
+      {"key": "156993299"}
+    ],
+    [
+      "156993305",
+      {"key": "156993305"}
+    ],
+    [
+      "156993311",
+      {"key": "156993311"}
+    ],
+    [
+      "156993317",
+      {"key": "156993317"}
+    ],
+    [
+      "156993326",
+      {"key": "156993326"}
+    ],
+    [
+      "156993332",
+      {"key": "156993332"}
+    ],
+    [
+      "156993337",
+      {"key": "156993337"}
+    ],
+    [
+      "156993341",
+      {"key": "156993341"}
+    ],
+    [
+      "156993346",
+      {"key": "156993346"}
+    ],
+    [
+      "156993356",
+      {"key": "156993356"}
+    ],
+    [
+      "156993360",
+      {"key": "156993360"}
+    ],
+    [
+      "156993365",
+      {"key": "156993365"}
+    ],
+    [
+      "156993371",
+      {"key": "156993371"}
+    ],
+    [
+      "156993379",
+      {"key": "156993379"}
+    ],
+    [
+      "156993384",
+      {"key": "156993384"}
+    ],
+    [
+      "156993389",
+      {"key": "156993389"}
+    ],
+    [
+      "156993394",
+      {"key": "156993394"}
+    ],
+    [
+      "156993399",
+      {"key": "156993399"}
+    ],
+    [
+      "156993404",
+      {"key": "156993404"}
+    ],
+    [
+      "156993409",
+      {"key": "156993409"}
+    ],
+    [
+      "156993414",
+      {"key": "156993414"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/44cook",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Cook enseña que los pacíficos discípulos de Cristo que guardan Sus mandamientos serán bendecidos con paz al afrontar las pruebas y tener la expectativa de un futuro mejor.",
+          "title": "Ser los pacíficos discípulos de Cristo"
+        },
+        "pageSocial": {
+          "description": "El élder Cook enseña que los pacíficos discípulos de Cristo que guardan Sus mandamientos serán bendecidos con paz al afrontar las pruebas y tener la expectativa de un futuro mejor.",
+          "title": "Ser los pacíficos discípulos de Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/4d/3d/4d3d35569d3d248b62f2bc613d35ee82689f0f97/4d3d35569d3d248b62f2bc613d35ee82689f0f97.jpeg\" data-video-title=\"Ser los pacíficos discípulos de Cristo\" data-video-description=\"El élder Cook enseña que los pacíficos discípulos de Cristo que guardan Sus mandamientos serán bendecidos con paz al afrontar las pruebas y tener la expectativa de un futuro mejor.\" data-video-id=\"6338204310112\" data-ip=\"Download and Streaming                            \" data-duration=\"827561\" data-assetId=\"abfeadaf608711ee8c81eeeeac1e10c905e9c45b\" data-ref-id=\"DE505B5D65F38BAC69D4AD7C663F1295A80DB5EB\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338204310112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276106565\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4040-quentin-l-cook-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"76608170\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4040-quentin-l-cook-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"199392687\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-4040-quentin-l-cook-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276106565\"/><\/video><h1 data-aid=\"156991788\" id=\"title1\">Ser los pacíficos discípulos de Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156991798\" id=\"author1\">Por el élder Quentin L. Cook<\/p>\n<p class=\"author-role\" data-aid=\"156991808\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156991816\" id=\"kicker1\">Testifico que los \u201cpacíficos discípulos de Cristo\u201d hallarán paz personal en esta vida y una reunión gloriosa en el cielo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156992825\" id=\"p41\">Vivimos en una época en la que los pacíficos discípulos de Cristo <a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> enfrentan retos singulares. Quienes creen en Jesucristo y testifican de Él, y lo adoran con humildad, siempre han enfrentado pruebas, tribulación y adversidades<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Mi esposa, Mary, y yo no somos una excepción. En los últimos años hemos sabido del fallecimiento \u2014o como dice el presidente Russell M. Nelson, la graduación hacia el otro lado del velo\u2014 de muchos amigos íntimos de la secundaria, de compañeros de misión, de algunas de sus preciadas esposas y de antiguos socios de trabajo. Hemos visto a algunas personas que se criaron en la fe apartarse de la senda de los convenios.<\/p>\n<p data-aid=\"156992839\" id=\"p40\">Lamentablemente, perdimos a un nieto de veintitrés años en un trágico accidente automovilístico que involucró solo a un auto. Algunos queridos amigos, familiares y colegas han soportado significativos problemas de salud.<\/p>\n<p data-aid=\"156992849\" id=\"p3\">Siempre que hay pruebas, lloramos y procuramos llevar la carga los unos de los otros<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Lamentamos las cosas que no se podrán lograr y las canciones que no se podrán cantar<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. Cosas malas les suceden a personas buenas en el transcurso de la mortalidad. Los incendios devastadores de Maui en Hawái, en el sur de Chile y en Canadá son ejemplos de sucesos horrendos que a veces afrontan las personas buenas.<\/p>\n<p data-aid=\"156992859\" id=\"p4\">En la Perla de Gran Precio leemos que el Señor reveló a Abraham la naturaleza eterna de los espíritus. Abraham aprendió sobre la vida preterrenal, la preordenación, la Creación, la elección de un Redentor y esta vida mortal, que es el segundo estado del hombre<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. El Redentor declaró:<\/p>\n<p data-aid=\"156992866\" id=\"p5\">\u201cHaremos una tierra sobre la cual estos puedan morar;<\/p>\n<p data-aid=\"156992878\" id=\"p6\">\u201cy con esto los probaremos, para ver si harán todas las cosas que el Señor su Dios les mandare\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"156992889\" id=\"p7\">Todos nosotros nos hallamos ahora en el segundo estado de nuestro progreso hacia un reino de gloria como parte del gran Plan de Salvación y de exaltación de Dios. Somos bendecidos con el albedrío y estamos sujetos a las pruebas de la mortalidad. Este es el tiempo que se nos concede a fin de prepararnos para presentarnos ante Dios<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. Somos bendecidos al saber de Jesucristo y de Su función en el plan. Tenemos el privilegio de llegar a ser miembros de Su Iglesia restaurada: La Iglesia de Jesucristo de los Santos de los Últimos Días. En calidad de pacíficos discípulos de Cristo, nos esforzamos por vivir Sus mandamientos. Eso nunca ha sido fácil para Sus discípulos, como tampoco fue fácil para el Salvador cumplir Su misión terrenal fielmente.<\/p>\n<p data-aid=\"156992900\" id=\"p8\">Las Escrituras son claras: muchos sucumbirán a una actitud de \u201ccome[r], bebe[r] y divert[irse], porque mañana morir[án]\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Otros incrédulos se retiran a enclaves sombríos con otros como ellos que abogan por \u201cla última novedad\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> y las filosofías de los hombres<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. No saben dónde hallar la verdad<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"156992910\" id=\"p9\">Los pacíficos discípulos de Cristo no siguen ninguna de esas sendas. Somos miembros afectuosos e involucrados en las comunidades donde vivimos. Amamos, compartimos e invitamos a todos los hijos de Dios a seguir las enseñanzas de Cristo<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Seguimos el consejo de nuestro amado profeta, el presidente Nelson: elegimos ser pacificadores, ahora y siempre<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Este enfoque inspirado es coherente tanto con las Escrituras como con la dirección profética.<\/p>\n<p data-aid=\"156992921\" id=\"p10\">En 1829 aún no se había organizado la Iglesia restaurada ni se había publicado el Libro de Mormón. Un pequeño grupo de personas que pasaban por dificultades, inducidas por el Espíritu de Dios, seguían al profeta José Smith. El Señor reveló a José un consejo para los tiempos difíciles: \u201cNo temáis, rebañito; haced lo bueno; aunque se combinen en contra de vosotros la tierra y el infierno, pues si estáis edificados sobre mi roca, no pueden prevalecer\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Además, también les aconsejó:<\/p>\n<p data-aid=\"156992933\" id=\"p38\">\u201cMirad hacia mí en todo pensamiento; no dudéis; no temáis.<\/p>\n<p data-aid=\"156992944\" id=\"p39\">\u201cSed fieles; guardad mis mandamientos y heredaréis el reino de los cielos\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"156992955\" id=\"p11\">Es evidente que nuestro destino celestial no se ve alterado cuando padecemos adversidad. En Hebreos se nos aconseja: \u201cAcerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Jesucristo es \u201cel autor de eterna salvación\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"156992966\" id=\"p12\">Me encantan las palabras de Mormón, que cita su hijo Moroni, con las que felicita a \u201clos pacíficos discípulos de Cristo [\u2026] por razón de [su] conducta pacífica para con los hijos de los hombres\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"156992979\" id=\"p13\">A aquellos de nosotros en la Iglesia que nos esforzamos por ser pacíficos discípulos de Cristo nos aguarda un día mejor si nos centramos en nuestro Señor y Salvador, Jesucristo. Las pruebas forman parte de la mortalidad y se presentan en la vida de cualquiera en todo el mundo, e incluyo aquí los grandes conflictos que estallan entre los países y entre las personas.<\/p>\n<p data-aid=\"156992990\" id=\"p14\">Con frecuencia se pregunta a los líderes de la Iglesia: \u201c¿Por qué un Dios justo permite que sucedan cosas malas, en especial a las personas buenas?\u201d y \u201c¿Por qué aquellos que son justos y están al servicio del Señor no son inmunes a esas tragedias?\u201d.<\/p>\n<p data-aid=\"156993003\" id=\"p15\">Aunque no tenemos todas las respuestas, conocemos principios importantes que nos permiten afrontar las pruebas, la tribulación y las adversidades con fe y confianza en que a cada uno de nosotros le aguarda un futuro mejor. Qué mejor ejemplo en las Escrituras en cuanto a tener tribulaciones que las palabras del Señor a José Smith, el Profeta, cuando él se hallaba preso en la cárcel de Liberty.<\/p>\n<p data-aid=\"156993014\" id=\"p16\">El Señor declaró en parte:<\/p>\n<p data-aid=\"156993025\" id=\"p17\">\u201cSi las puertas mismas del infierno se abren de par en par para tragarte, entiende, hijo mío, que todas estas cosas te servirán de experiencia, y serán para tu bien.<\/p>\n<p data-aid=\"156993036\" id=\"p18\">\u201cEl Hijo del Hombre ha descendido debajo de todo ello. ¿Eres tú mayor que él?<\/p>\n<p data-aid=\"156993047\" id=\"p19\">\u201cNo temas [\u2026] lo que pueda hacer el hombre, porque Dios estará contigo para siempre jamás\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"156993058\" id=\"p20\">Es evidente que tenemos un Padre Celestial que nos conoce y nos ama personalmente y entiende nuestro sufrimiento a la perfección. Su Hijo, Jesucristo, es nuestro Salvador y Redentor.<\/p>\n<p data-aid=\"156993070\" id=\"p21\">El presidente Russell M. Nelson y el presidente M. Russell Ballard han hecho, los dos, gran hincapié en la importancia de la reciente segunda edición de <cite>Predicad Mi Evangelio<\/cite><a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>; y yo comparto su entusiasmo. Esta nueva edición, que magnifica las sagradas Escrituras, proclama con poder:<\/p>\n<p data-aid=\"156993080\" id=\"p22\">\u201cEn Su sacrificio expiatorio, Jesucristo tomó sobre Sí nuestros dolores, aflicciones y debilidades. Es por ello que sabe \u2018según la carne [\u2026] cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.12?lang=spa#p12\">Alma 7:12<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7.11?lang=spa#p11\">versículo 11<\/a>). Él nos invita: \u2018Venid a mí\u2019 y, a medida que lo hagamos, Él nos dará descanso, esperanza, fortaleza, perspectiva y sanación (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.28?lang=spa#p28\">Mateo 11:28<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11.29-30?lang=spa#p29\">versículos 29\u201330<\/a>).<\/p>\n<p data-aid=\"156993090\" id=\"p23\">\u201cConforme confiamos en Jesucristo y Su Expiación, Él puede ayudarnos a sobrellevar nuestras pruebas, enfermedades y dolores. Podemos ser llenos de gozo, paz y consuelo. Todo lo que es injusto en la vida se puede remediar por medio de la expiación de Jesucristo\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"156993100\" id=\"p24\">Con gozo, podemos ser pacíficos discípulos de Cristo.<\/p>\n<p data-aid=\"156993110\" id=\"p25\">El plan de felicidad de nuestro Padre para Sus hijos no solo incluye la vida premortal y la mortal, sino también la posibilidad de la vida eterna, incluso una gran y gloriosa reunión con aquellos que hemos perdido. Todas las injusticias serán enmendadas, y veremos con perfecta claridad y con una perspectiva y entendimiento impecables.<\/p>\n<p data-aid=\"156993120\" id=\"p26\">Los líderes de la Iglesia han comparado esta perspectiva con la de alguien que entra en la mitad de una obra teatral de tres actos<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. Quienes desconocen el plan del Padre no entienden lo que sucedió en el primer acto (o la existencia premortal) ni los objetivos que se decidieron allí; y tampoco entienden la aclaración y la resolución que llegan con el tercer acto, que es el glorioso cumplimiento del plan del Padre.<\/p>\n<p data-aid=\"156993129\" id=\"p27\">Muchos no aprecian que, bajo Su plan amoroso y exhaustivo, los que parecen estar en desventaja, sin tener culpa de ello, en última instancia no son penalizados<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"156993138\" id=\"p28\">Las Escrituras son claras: los pacíficos discípulos de Cristo que son rectos, siguen al Salvador y guardan Sus mandamientos serán bendecidos. Uno de los pasajes de las Escrituras más importantes para los que son justos, con independencia de su situación en la vida, es una parte del discurso del rey Benjamín a su pueblo. Él promete que los que guardan los mandamientos fielmente son bendecidos en todas las cosas de esta vida y \u201cson recibidos en el cielo [\u2026], [y] mor[a]n con Dios en un estado de interminable felicidad\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"156993146\" id=\"p29\">Reconocemos que casi todos hemos padecido tormentas físicas y espirituales en la vida, algunas de ellas devastadoras. Un Padre Celestial amoroso y Su Hijo, Jesucristo, que está a la cabeza de Su Iglesia restaurada, nos han dado Escrituras y profetas para prepararnos, advertirnos de los peligros y guiarnos en cuanto a la manera de prepararnos y estar protegidos. Algunas de las indicaciones requieren una acción inmediata; otras nos brindan protección durante muchos años futuros. En el prefacio del Señor a Doctrina y Convenios, en la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa\">sección 1<\/a>, Él nos amonesta a \u201c[prestar] atención a las palabras de los profetas\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"156993154\" id=\"p30\">En la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa\">sección 1<\/a> también nos advierte: \u201cPreparaos, preparaos para lo que ha de venir\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>. El Señor da a Su pueblo la oportunidad de prepararse para los desafíos que afrontarán.<\/p>\n<p data-aid=\"156993162\" id=\"p31\">El Señor dio una revelación poderosa al presidente Brigham Young el 14 de enero de 1847 en Winter Quarters<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>. Se trata de un ejemplo típico de cómo el Señor prepara a Su pueblo para lo que ha de venir. Los santos fieles habían comenzado el éxodo hacia el santuario montañoso del valle del Lago Salado. Habían edificado con éxito el Templo de Nauvoo y habían recibido sagradas ordenanzas de salvación. Habían sido expulsados de Misuri y sus perseguidores los habían echado de Nauvoo durante la terrible estación invernal. La revelación que recibió Brigham consistió en un consejo práctico en cuanto a cómo prepararse para el éxodo. El Señor hizo especial hincapié en el cuidado de los pobres, las viudas, los huérfanos y las familias de quienes estaban prestando servicio en el Batallón Mormón, a la vez que el cuerpo principal de los santos proseguía con el viaje peligroso.<\/p>\n<p data-aid=\"156993170\" id=\"p32\">Además de ofrecer otros consejos en cuanto a vivir en rectitud, el Señor recalcó dos principios que siguen vigentes en la actualidad.<\/p>\n<p data-aid=\"156993178\" id=\"p42\">Primero, los instó a \u201calaba[r] al Señor con cantos, con música, con baile y con oración de alabanza y acción de gracias\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>.<\/p>\n<p data-aid=\"156993186\" id=\"p33\">Segundo, les aconsejó que si se sentían \u201ctriste[s], clama[ran] al Señor [s]u Dios con súplicas, a fin de que [s]u alma se regocije\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"156993195\" id=\"p34\">Ambas amonestaciones son un gran consejo para nuestra época. Las vidas que rebosan de alabanza, música y acción de gracias reciben bendiciones únicas. El tener gozo y confiar en la ayuda celestial por medio de la oración es una manera poderosa de ser discípulos de Cristo pacíficos. Esforzarse siempre por ser de buen ánimo contribuye a evitar que se abata nuestro espíritu.<\/p>\n<p data-aid=\"156993204\" id=\"p35\">La última línea de un sabio himno comunica hermosamente la respuesta definitiva: \u201cNo hay pesar en la tierra que el cielo no pueda sanar\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>.<\/p>\n<p data-aid=\"156993213\" id=\"p37\">Como Apóstol del Señor Jesucristo, testifico que los \u201cpacíficos discípulos de Cristo\u201d hallarán paz personal en esta vida y una reunión gloriosa en el cielo. Les doy mi certero testimonio de la divinidad del Salvador y de la realidad de Su Expiación. Él es nuestro Salvador y Redentor. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156993222\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156993231\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=spa#p3\">Moroni 7:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156993241\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.33?lang=spa#p33\">Juan 16:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156993249\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8-9?lang=spa#p8\">Mosíah 18:8\u20139<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.7?lang=spa#p7\">2 Nefi 32:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156993258\" id=\"note4_p1\">Véase Quentin L. Cook, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/10/the-songs-they-could-not-sing?lang=spa\">Las canciones que no pudieron cantar<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2011, págs. 104\u2013107.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156993266\" id=\"note5_p1\">Véase el encabezamiento de <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa\">Abraham 3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156993273\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.24-25?lang=spa#p24\">Abraham 3:24\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156993280\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/12.24?lang=spa#p24\">Alma 12:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156993285\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.7-9?lang=spa#p7\">2 Nefi 28:7\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156993293\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.21?lang=spa#p21\">Hechos 17:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156993299\" id=\"note10_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156993305\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=spa#p12\">Doctrina y Convenios 123:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156993311\" id=\"note12_p1\">Los misioneros regresan a casa con amor por las personas a las que han servido y enseñado. Son embajadores verdaderos que manifiestan su buena voluntad por la gente de los países en los que han vivido y trabajado. No les preocupan los niveles de ingresos ni tienen un sesgo racista. No van a edificar reinos del mundo. Son, en palabras de Mormón, \u2018los pacíficos discípulos de Cristo\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=spa#p3\">Moroni 7:3<\/a>]\u201d (L. Tom Perry, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1989/10/the-peaceable-followers-of-christ.html\">Los pacíficos discípulos de Cristo<\/span>\u201d, <cite>Liahona<\/cite>, enero de 1990, pág. 69).<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156993317\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 100.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156993326\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.34?lang=spa#p34\">Doctrina y Convenios 6:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156993332\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.36-37?lang=spa#p36\">Doctrina y Convenios 6:36\u201337<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156993337\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4.16?lang=spa#p16\">Hebreos 4:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156993341\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.9?lang=spa#p9\">Hebreos 5:9<\/a>; véase también el encabezamiento del capítulo.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156993346\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3-4?lang=spa#p3\">Moroni 7:3\u20134<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156993356\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.7-9?lang=spa#p7\">Doctrina y Convenios 122:7\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156993360\" id=\"note20_p1\">Véase Scott Taylor, \u201cEl presidente Nelson presenta una nueva edición de \u2018Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo\u2019\u201d, <cite>Church News<\/cite>, 22 de junio de 2023, thechurchnews.com; véase también Sarah Jane Weaver, \u201cVideo: 3 Apóstoles hablan sobre el impacto de \u2018Predicad Mi Evangelio\u2019\u201d, <cite>Church News<\/cite>, 10 de agosto de 2023, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156993365\" id=\"note21_p1\"><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;para=86#p86\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a>, 2023, pág. 56.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156993371\" id=\"note22_p1\">Véase Boyd K. Packer, \u201cThe Play and the Plan\u201d, (Charla fogonera del Sistema Educativo de la Iglesia para jóvenes adultos, 7 de mayo de 1995, impresa en 1997), pág. 2: \u201cEn la mortalidad, somos como actores que entran en un teatro cuando ya se ha subido el telón para el segundo acto. Nos hemos perdido el primer acto. [\u2026] \u2018Y todos vivieron felices para siempre\u2019 nunca está escrito en el segundo acto. Esa frase pertenece al tercer acto, cuando los misterios se resuelvan y todo se ponga en orden\u201d. Véase también Neal A. Maxwell, <cite>All These Things Shall Give Thee Experience<\/cite>, 1979, pág. 37: \u201c[Dios] ve el comienzo desde el final. [\u2026] La aritmética [\u2026] es algo que nosotros los mortales no podemos comprender. No podemos hacer los cálculos, porque no tenemos todos los números. Estamos atrapados en la dimensión del tiempo y estamos limitados por la estrecha perspectiva de este segundo estado\u201d.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156993379\" id=\"note23_p1\">Los que murieron antes de alcanzar la edad de responsabilidad se salvan en el Reino Celestial (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/137.10?lang=spa#p10\">Doctrina y Convenios 137:10<\/a>). Los que fallecieron sin conocer el Evangelio, y que lo habrían recibido de haber tenido la oportunidad, también serán herederos del Reino Celestial (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/137.7?lang=spa#p7\">Doctrina y Convenios 137:7<\/a>).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156993384\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156993389\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14?lang=spa#p14\">Doctrina y Convenios 1:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156993394\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.12?lang=spa#p12\">Doctrina y Convenios 1:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156993399\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136?lang=spa\">Doctrina y Convenios 136<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156993404\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.28?lang=spa#p28\">Doctrina y Convenios 136:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156993409\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.29?lang=spa#p29\">Doctrina y Convenios 136:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"156993414\" id=\"note30_p1\">\u201cCome, Ye Disconsolate\u201d, <cite>Hymns<\/cite>, nro. 115.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156992849",
+        "id": "note4",
+        "text": "<p data-aid=\"156993258\" id=\"note4_p1\">Véase Quentin L. Cook, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/10/the-songs-they-could-not-sing?lang=spa\">Las canciones que no pudieron cantar<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2011, págs. 104\u2013107.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2011/10/the-songs-they-could-not-sing?lang=spa",
+          "text": "Las canciones que no pudieron cantar",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156992859",
+        "id": "note5",
+        "text": "<p data-aid=\"156993266\" id=\"note5_p1\">Véase el encabezamiento de <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa\">Abraham 3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/3?lang=spa",
+          "text": "Abraham 3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156992825",
+        "id": "note2",
+        "text": "<p data-aid=\"156993241\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16.33?lang=spa#p33\">Juan 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16.33?lang=spa#p33",
+          "text": "Juan 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156992849",
+        "id": "note3",
+        "text": "<p data-aid=\"156993249\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18.8-9?lang=spa#p8\">Mosíah 18:8\u20139<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32.7?lang=spa#p7\">2 Nefi 32:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18.8-9?lang=spa#p8",
+            "text": "Mosíah 18:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32.7?lang=spa#p7",
+            "text": "2 Nefi 32:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156992900",
+        "id": "note8",
+        "text": "<p data-aid=\"156993285\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28.7-9?lang=spa#p7\">2 Nefi 28:7\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/28.7-9?lang=spa#p7",
+          "text": "2 Nefi 28:7\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156992900",
+        "id": "note9",
+        "text": "<p data-aid=\"156993293\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17.21?lang=spa#p21\">Hechos 17:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/17.21?lang=spa#p21",
+          "text": "Hechos 17:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156992878",
+        "id": "note6",
+        "text": "<p data-aid=\"156993273\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3.24-25?lang=spa#p24\">Abraham 3:24\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/3.24-25?lang=spa#p24",
+          "text": "Abraham 3:24\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156992889",
+        "id": "note7",
+        "text": "<p data-aid=\"156993280\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/12.24?lang=spa#p24\">Alma 12:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/12.24?lang=spa#p24",
+          "text": "Alma 12:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "156993204",
+        "id": "note30",
+        "text": "<p data-aid=\"156993414\" id=\"note30_p1\">\u201cCome, Ye Disconsolate\u201d, <cite>Hymns<\/cite>, nro. 115.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156992955",
+        "id": "note16",
+        "text": "<p data-aid=\"156993337\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4.16?lang=spa#p16\">Hebreos 4:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/4.16?lang=spa#p16",
+          "text": "Hebreos 4:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156992944",
+        "id": "note15",
+        "text": "<p data-aid=\"156993332\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.36-37?lang=spa#p36\">Doctrina y Convenios 6:36\u201337<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6.36-37?lang=spa#p36",
+          "text": "Doctrina y Convenios 6:36\u201337",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156992921",
+        "id": "note14",
+        "text": "<p data-aid=\"156993326\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6.34?lang=spa#p34\">Doctrina y Convenios 6:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6.34?lang=spa#p34",
+          "text": "Doctrina y Convenios 6:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156992910",
+        "id": "note13",
+        "text": "<p data-aid=\"156993317\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 100.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=spa",
+          "text": "Se necesitan pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156992910",
+        "id": "note12",
+        "text": "<p data-aid=\"156993311\" id=\"note12_p1\">Los misioneros regresan a casa con amor por las personas a las que han servido y enseñado. Son embajadores verdaderos que manifiestan su buena voluntad por la gente de los países en los que han vivido y trabajado. No les preocupan los niveles de ingresos ni tienen un sesgo racista. No van a edificar reinos del mundo. Son, en palabras de Mormón, \u2018los pacíficos discípulos de Cristo\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=spa#p3\">Moroni 7:3<\/a>]\u201d (L. Tom Perry, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1989/10/the-peaceable-followers-of-christ.html\">Los pacíficos discípulos de Cristo<\/span>\u201d, <cite>Liahona<\/cite>, enero de 1990, pág. 69).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.3?lang=spa#p3",
+          "text": "Moroni 7:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156992900",
+        "id": "note11",
+        "text": "<p data-aid=\"156993305\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/123.12?lang=spa#p12\">Doctrina y Convenios 123:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/123.12?lang=spa#p12",
+          "text": "Doctrina y Convenios 123:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156992900",
+        "id": "note10",
+        "text": "<p data-aid=\"156993299\" id=\"note10_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156993047",
+        "id": "note19",
+        "text": "<p data-aid=\"156993356\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122.7-9?lang=spa#p7\">Doctrina y Convenios 122:7\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122.7-9?lang=spa#p7",
+          "text": "Doctrina y Convenios 122:7\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156992966",
+        "id": "note18",
+        "text": "<p data-aid=\"156993346\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3-4?lang=spa#p3\">Moroni 7:3\u20134<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.3-4?lang=spa#p3",
+          "text": "Moroni 7:3\u20134",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156992955",
+        "id": "note17",
+        "text": "<p data-aid=\"156993341\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/5.9?lang=spa#p9\">Hebreos 5:9<\/a>; véase también el encabezamiento del capítulo.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/5.9?lang=spa#p9",
+          "text": "Hebreos 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156993162",
+        "id": "note27",
+        "text": "<p data-aid=\"156993399\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136?lang=spa\">Doctrina y Convenios 136<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/136?lang=spa",
+          "text": "Doctrina y Convenios 136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156993154",
+        "id": "note26",
+        "text": "<p data-aid=\"156993394\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.12?lang=spa#p12\">Doctrina y Convenios 1:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.12?lang=spa#p12",
+          "text": "Doctrina y Convenios 1:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156993146",
+        "id": "note25",
+        "text": "<p data-aid=\"156993389\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1.14?lang=spa#p14\">Doctrina y Convenios 1:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1.14?lang=spa#p14",
+          "text": "Doctrina y Convenios 1:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156993138",
+        "id": "note24",
+        "text": "<p data-aid=\"156993384\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2.41?lang=spa#p41\">Mosíah 2:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2.41?lang=spa#p41",
+          "text": "Mosíah 2:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156993129",
+        "id": "note23",
+        "text": "<p data-aid=\"156993379\" id=\"note23_p1\">Los que murieron antes de alcanzar la edad de responsabilidad se salvan en el Reino Celestial (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/137.10?lang=spa#p10\">Doctrina y Convenios 137:10<\/a>). Los que fallecieron sin conocer el Evangelio, y que lo habrían recibido de haber tenido la oportunidad, también serán herederos del Reino Celestial (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/137.7?lang=spa#p7\">Doctrina y Convenios 137:7<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/137.10?lang=spa#p10",
+            "text": "Doctrina y Convenios 137:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/137.7?lang=spa#p7",
+            "text": "Doctrina y Convenios 137:7",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156993120",
+        "id": "note22",
+        "text": "<p data-aid=\"156993371\" id=\"note22_p1\">Véase Boyd K. Packer, \u201cThe Play and the Plan\u201d, (Charla fogonera del Sistema Educativo de la Iglesia para jóvenes adultos, 7 de mayo de 1995, impresa en 1997), pág. 2: \u201cEn la mortalidad, somos como actores que entran en un teatro cuando ya se ha subido el telón para el segundo acto. Nos hemos perdido el primer acto. [\u2026] \u2018Y todos vivieron felices para siempre\u2019 nunca está escrito en el segundo acto. Esa frase pertenece al tercer acto, cuando los misterios se resuelvan y todo se ponga en orden\u201d. Véase también Neal A. Maxwell, <cite>All These Things Shall Give Thee Experience<\/cite>, 1979, pág. 37: \u201c[Dios] ve el comienzo desde el final. [\u2026] La aritmética [\u2026] es algo que nosotros los mortales no podemos comprender. No podemos hacer los cálculos, porque no tenemos todos los números. Estamos atrapados en la dimensión del tiempo y estamos limitados por la estrecha perspectiva de este segundo estado\u201d.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156993090",
+        "id": "note21",
+        "text": "<p data-aid=\"156993365\" id=\"note21_p1\"><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;para=86#p86\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a>, 2023, pág. 56.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;para=86#p86",
+          "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156993070",
+        "id": "note20",
+        "text": "<p data-aid=\"156993360\" id=\"note20_p1\">Véase Scott Taylor, \u201cEl presidente Nelson presenta una nueva edición de \u2018Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo\u2019\u201d, <cite>Church News<\/cite>, 22 de junio de 2023, thechurchnews.com; véase también Sarah Jane Weaver, \u201cVideo: 3 Apóstoles hablan sobre el impacto de \u2018Predicad Mi Evangelio\u2019\u201d, <cite>Church News<\/cite>, 10 de agosto de 2023, thechurchnews.com.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156992825",
+        "id": "note1",
+        "text": "<p data-aid=\"156993231\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7.3?lang=spa#p3\">Moroni 7:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7.3?lang=spa#p3",
+          "text": "Moroni 7:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156993186",
+        "id": "note29",
+        "text": "<p data-aid=\"156993409\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.29?lang=spa#p29\">Doctrina y Convenios 136:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/136.29?lang=spa#p29",
+          "text": "Doctrina y Convenios 136:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156993178",
+        "id": "note28",
+        "text": "<p data-aid=\"156993404\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/136.28?lang=spa#p28\">Doctrina y Convenios 136:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/136.28?lang=spa#p28",
+          "text": "Doctrina y Convenios 136:28",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

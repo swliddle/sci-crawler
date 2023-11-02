@@ -1,0 +1,661 @@
+{
+  "tableOfContentsUri": "/general-conference/2023/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2023/10/17oaks?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "304f7b3a50d54911a7a15977f7ca32aa",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2023/10/17oaks",
+      "data-aid": "156926548",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "9918068e45684611a109ccd91208a6fd"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/b3/b2/b3b286016da34d719d0ccb8c818a0ee2de7cf145/b3b286016da34d719d0ccb8c818a0ee2de7cf145.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1070-dallin-h-oaks-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Reinos de gloria",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2023-10-30T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "156926548",
+      {"key": "156926548"}
+    ],
+    [
+      "156991646",
+      {"key": "156991646"}
+    ],
+    [
+      "156991648",
+      {"key": "156991648"}
+    ],
+    [
+      "156991650",
+      {"key": "156991650"}
+    ],
+    [
+      "156991652",
+      {"key": "156991652"}
+    ],
+    [
+      "156991654",
+      {"key": "156991654"}
+    ],
+    [
+      "156991656",
+      {"key": "156991656"}
+    ],
+    [
+      "156991659",
+      {"key": "156991659"}
+    ],
+    [
+      "156991662",
+      {"key": "156991662"}
+    ],
+    [
+      "156991666",
+      {"key": "156991666"}
+    ],
+    [
+      "156991670",
+      {"key": "156991670"}
+    ],
+    [
+      "156991674",
+      {"key": "156991674"}
+    ],
+    [
+      "156991678",
+      {"key": "156991678"}
+    ],
+    [
+      "156991682",
+      {"key": "156991682"}
+    ],
+    [
+      "156991686",
+      {"key": "156991686"}
+    ],
+    [
+      "156991690",
+      {"key": "156991690"}
+    ],
+    [
+      "156991695",
+      {"key": "156991695"}
+    ],
+    [
+      "156991700",
+      {"key": "156991700"}
+    ],
+    [
+      "156991706",
+      {"key": "156991706"}
+    ],
+    [
+      "156991712",
+      {"key": "156991712"}
+    ],
+    [
+      "156991720",
+      {"key": "156991720"}
+    ],
+    [
+      "156991728",
+      {"key": "156991728"}
+    ],
+    [
+      "156991736",
+      {"key": "156991736"}
+    ],
+    [
+      "156991744",
+      {"key": "156991744"}
+    ],
+    [
+      "156991752",
+      {"key": "156991752"}
+    ],
+    [
+      "156991760",
+      {"key": "156991760"}
+    ],
+    [
+      "156991768",
+      {"key": "156991768"}
+    ],
+    [
+      "156991776",
+      {"key": "156991776"}
+    ],
+    [
+      "156991785",
+      {"key": "156991785"}
+    ],
+    [
+      "156991795",
+      {"key": "156991795"}
+    ],
+    [
+      "156991805",
+      {"key": "156991805"}
+    ],
+    [
+      "156991814",
+      {"key": "156991814"}
+    ],
+    [
+      "156992827",
+      {"key": "156992827"}
+    ],
+    [
+      "156992834",
+      {"key": "156992834"}
+    ],
+    [
+      "156992843",
+      {"key": "156992843"}
+    ],
+    [
+      "156992853",
+      {"key": "156992853"}
+    ],
+    [
+      "156992863",
+      {"key": "156992863"}
+    ],
+    [
+      "156992873",
+      {"key": "156992873"}
+    ],
+    [
+      "156992884",
+      {"key": "156992884"}
+    ],
+    [
+      "156992895",
+      {"key": "156992895"}
+    ],
+    [
+      "156992906",
+      {"key": "156992906"}
+    ],
+    [
+      "156992917",
+      {"key": "156992917"}
+    ],
+    [
+      "156992928",
+      {"key": "156992928"}
+    ],
+    [
+      "156992939",
+      {"key": "156992939"}
+    ],
+    [
+      "156992950",
+      {"key": "156992950"}
+    ],
+    [
+      "156992961",
+      {"key": "156992961"}
+    ],
+    [
+      "156992973",
+      {"key": "156992973"}
+    ],
+    [
+      "156992987",
+      {"key": "156992987"}
+    ],
+    [
+      "156992999",
+      {"key": "156992999"}
+    ],
+    [
+      "156993010",
+      {"key": "156993010"}
+    ],
+    [
+      "156993021",
+      {"key": "156993021"}
+    ],
+    [
+      "156993032",
+      {"key": "156993032"}
+    ],
+    [
+      "156993043",
+      {"key": "156993043"}
+    ],
+    [
+      "156993054",
+      {"key": "156993054"}
+    ],
+    [
+      "156993065",
+      {"key": "156993065"}
+    ],
+    [
+      "156993075",
+      {"key": "156993075"}
+    ],
+    [
+      "156993085",
+      {"key": "156993085"}
+    ],
+    [
+      "156993095",
+      {"key": "156993095"}
+    ],
+    [
+      "156993105",
+      {"key": "156993105"}
+    ],
+    [
+      "156993115",
+      {"key": "156993115"}
+    ],
+    [
+      "156993125",
+      {"key": "156993125"}
+    ]
+  ],
+  "uri": "/general-conference/2023/10/17oaks",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El presidente Oaks enseña sobre los reinos de gloria después de esta vida y sobre el objetivo de la Iglesia para ayudarnos a ser merecedores del grado más alto del Reino Celestial.",
+          "title": "Reinos de gloria"
+        },
+        "pageSocial": {
+          "description": "El presidente Oaks enseña sobre los reinos de gloria después de esta vida y sobre el objetivo de la Iglesia para ayudarnos a ser merecedores del grado más alto del Reino Celestial.",
+          "title": "Reinos de gloria"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/b3/b2/b3b286016da34d719d0ccb8c818a0ee2de7cf145/b3b286016da34d719d0ccb8c818a0ee2de7cf145.jpeg\" data-video-title=\"Reinos de gloria\" data-video-description=\"El presidente Oaks enseña sobre los reinos de gloria después de esta vida y sobre el objetivo de la Iglesia para ayudarnos a ser merecedores del grado más alto del Reino Celestial.\" data-video-id=\"6338177888112\" data-ip=\"Download and Streaming                            \" data-duration=\"973074\" data-assetId=\"45d666eb601611eebec3eeeeac1e8d8fda973f80\" data-ref-id=\"12141D9EA7DA37959E03B8B9ECC98283176C0BFA\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338177888112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"324232909\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1070-dallin-h-oaks-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"89966684\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1070-dallin-h-oaks-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"234538962\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/october-2023-general-conference/2023-10-1070-dallin-h-oaks-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"324232909\"/><\/video><h1 data-aid=\"156991646\" id=\"title1\">Reinos de gloria<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"156991648\" id=\"author1\">Por el presidente Dallin H. Oaks<\/p>\n<p class=\"author-role\" data-aid=\"156991650\" id=\"author2\">Primer Consejero de la Primera Presidencia<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"156991652\" id=\"kicker1\">Tenemos un amoroso Padre Celestial que se asegurará de que recibamos todas las bendiciones y todas las ventajas que nuestros propios deseos y decisiones lo permitan.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"156991654\" id=\"p1\">Con frecuencia se pregunta a los miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días \u201c¿cuál es la diferencia entre su iglesia y las otras iglesias cristianas?\u201d. Una de las respuestas que damos es \u201cla plenitud de la doctrina de Jesucristo\u201d. Lo más importante de esa doctrina es el hecho de que nuestro Padre Celestial ama tanto a cada uno de Sus hijos que desea que todos vivamos en un reino de gloria para siempre. Además, Él desea que vivamos eternamente con Él y con Su Hijo Jesucristo. Su plan nos da las enseñanzas y la oportunidad de tomar las decisiones que nos asegurarán el destino y la vida que escojamos.<\/p>\n<section>\n<header>\n<h2 data-aid=\"156991656\" id=\"title2\">I.<\/h2>\n<\/header>\n<p data-aid=\"156991659\" id=\"p2\">Gracias a la revelación moderna sabemos que el destino final de quienes vivan en la tierra no es la inadecuada idea del cielo para los justos y el sufrimiento eterno del infierno para los demás. El amoroso plan de Dios para Sus hijos incluye esta realidad que enseñó nuestro Salvador Jesucristo: \u201cEn la casa de mi Padre muchas moradas hay\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"156991662\" id=\"p3\">La doctrina revelada de la restaurada Iglesia de Jesucristo de los Santos de los Últimos Días enseña que <em>todos los hijos de Dios<\/em> \u2014con excepciones demasiado limitadas para considerarlas aquí\u2014 finalmente heredarán uno de los tres reinos de gloria, de los que el menor \u201csobrepuja a toda comprensión\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Después de un período en el que los desobedientes sufran por sus pecados, sufrimiento que los prepara para lo que está por venir, todos resucitarán y proseguirán al Juicio Final del Señor Jesucristo. Allí, nuestro amoroso Salvador, quien, como se nos ha enseñado, \u201cglorifica al Padre y salva todas las obras de sus manos\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>, enviará a todos los hijos de Dios a uno de esos reinos de gloria de acuerdo con los deseos manifestados mediante sus decisiones.<\/p>\n<p data-aid=\"156991666\" id=\"p4\">Otra doctrina y práctica singulares de la Iglesia restaurada son los mandamientos y los convenios revelados que ofrecen a <em>todos los hijos de Dios<\/em> el sagrado privilegio de ser merecedores del más alto grado de gloria en el Reino Celestial. Ese destino máximo \u2014la exaltación en el Reino Celestial\u2014 es el objetivo de La Iglesia de Jesucristo de los Santos de los Últimos Días.<\/p>\n<p data-aid=\"156991670\" id=\"p5\">Por medio de la revelación moderna, los Santos de los Últimos Días tienen esa comprensión única del plan de felicidad de Dios para Sus hijos. Ese plan comienza con nuestra vida como espíritus antes de nacer y revela el propósito y las condiciones del trayecto que hemos escogido en la vida terrenal y el destino que deseamos a partir de ahí.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156991674\" id=\"title3\">II.<\/h2>\n<\/header>\n<p data-aid=\"156991678\" id=\"p6\">Por la revelación moderna sabemos que \u201ca todos los reinos se ha dado una ley\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> y que el reino de gloria que recibimos en el Juicio Final está determinado por las leyes que escogemos seguir en nuestro trayecto terrenal. Según ese amoroso plan, hay múltiples reinos \u2014muchas moradas\u2014 para que todos los hijos de Dios hereden un reino de gloria cuyas leyes ellos puedan \u201cobedecer\u201d fácilmente.<\/p>\n<p data-aid=\"156991682\" id=\"p7\">Al describir la naturaleza y los requisitos de cada uno de los tres reinos del plan del Padre, comenzamos con el más alto, que es el centro de los mandamientos y de las ordenanzas divinos que Dios ha revelado mediante La Iglesia de Jesucristo de los Santos de los Últimos Días. En la gloria \u201ccelestial\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> hay tres niveles<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, de los cuales el más alto es la exaltación en el Reino Celestial. Esa es la morada de quienes \u201chan recibido de su plenitud y de su gloria\u201d, de modo que, \u201cson dioses, sí, los hijos [e hijas] de Dios\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> y \u201cmor[an] en la presencia de Dios y de su Cristo para siempre jamás\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Mediante la revelación, Dios ha manifestado las leyes, las ordenanzas y los convenios eternos que se deben observar a fin de desarrollar los atributos divinos necesarios para lograr ese potencial divino. La Iglesia de Jesucristo de los Santos de los Últimos Días se centra en ellos porque el propósito de esta Iglesia restaurada es preparar a los hijos de Dios para la salvación en la gloria celestial y, más particularmente, para la exaltación en su grado máximo.<\/p>\n<p data-aid=\"156991686\" id=\"p8\">El plan de Dios, basado en la verdad eterna, requiere que la exaltación solo se pueda lograr mediante la fidelidad a los convenios de un matrimonio eterno entre un hombre y una mujer en el santo templo<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, dicho matrimonio finalmente estará al alcance de todos los fieles. Por eso enseñamos que \u201cel ser hombre o el ser mujer es una característica esencial de la identidad y del propósito premortales, mortales y eternos de la persona\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"156991690\" id=\"p9\">Una enseñanza especialmente valiosa que nos ayuda a prepararnos para la exaltación es la proclamación de 1995 sobre la familia<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Sus declaraciones aclaran los requisitos que nos preparan para vivir con Dios el Padre y con Su Hijo Jesucristo. Quienes no comprenden plenamente el plan amoroso del Padre para Sus hijos tal vez consideren que esta proclamación sobre la familia no es más que una declaración de normas sujeta a cambios. Por el contrario, afirmamos que la proclamación sobre la familia, que se fundamenta en doctrina irrevocable, define la relación familiar terrenal donde puede ocurrir la parte más importante de nuestro desarrollo eterno.<\/p>\n<p data-aid=\"156991695\" id=\"p10\">El apóstol Pablo describe los tres grados de gloria, comparándolos con las glorias del sol, de la luna y de las estrellas<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Al más alto da el nombre de \u201ccelestial\u201d y al segundo, \u201cterrestre\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. No nombra al más bajo, pero en una revelación dada a José Smith se añadió su nombre: \u201ctelestial\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Otra revelación también describe la naturaleza de las personas que se asignará a cada uno de estos reinos de gloria. Quienes no elijan \u201cobedecer la ley de un reino celestial\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> heredarán otro reino de gloria, menor que el celestial, pero adaptado a las leyes que hayan escogido y puedan \u201cobedecer\u201d fácilmente. En inglés, la palabra usada para <i>obedecer<\/i>, que es muy común en las Escrituras, también puede significar \u201cperseverar\u201d o \u201cpermanecer\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Por ejemplo, quienes estén en el Reino Terrestre \u2014comparable al conocido concepto de cielo\u2014 \u201cson los que reciben de la presencia del Hijo, mas no de la plenitud del Padre\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Eran \u201chombres honorables de la tierra que fueron cegados por las artimañas de los hombres\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>, pero no eran \u201cvalientes en el testimonio de Jesús\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"156991700\" id=\"p11\">La reveladora descripción de aquel a quien se asigne al menor de los reinos de gloria, el telestial, es \u201cel que no puede obedecer la ley de un reino terrestre\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Eso describe a quienes rechazan al Salvador y no han respetado los límites divinos de su comportamiento. Ese es el reino donde moran los inicuos después de haber padecido por sus pecados. Estos se describen en la revelación moderna como \u201clos que no recibieron el evangelio de Cristo ni el testimonio de Jesús [\u2026].<\/p>\n<p data-aid=\"156991706\" id=\"p13\">\u201cEstos son los mentirosos y los hechiceros, los adúlteros y los fornicarios, y quienquiera que ama y obra mentira\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"156991712\" id=\"p14\">Al referirse a los tres reinos de gloria y haciendo uso de su visión profética, el presidente Russell M. Nelson escribió hace poco: \u201cLa duración de la vida terrenal no llega a ser ni un nanosegundo comparada con la eternidad; pero [\u2026], ¡es un nanosegundo crucial! Consideren detenidamente cómo funciona: Durante esta vida mortal decidimos qué leyes estamos dispuestos a obedecer \u2014las del Reino Celestial, las del Reino Terrestre o las del Reino Telestial\u2014 y, como consecuencia, en qué reino de gloria viviremos para siempre. ¡Qué grandioso plan! Es un plan que respeta completamente el albedrío <em>de ustedes<\/em>\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156991720\" id=\"title4\">III.<\/h2>\n<\/header>\n<p data-aid=\"156991728\" id=\"p16\">El apóstol Pablo enseñó que se nos han dado las enseñanzas y los mandamientos del Señor para que todos podamos alcanzar \u201cla medida de la estatura de la plenitud de Cristo\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Ese proceso requiere mucho más que la adquisición de conocimiento. No es siquiera suficiente estar <em>convencidos<\/em> de la veracidad del Evangelio; debemos actuar a fin de ser <em>convertidos<\/em> por medio de él. A diferencia de otras denominaciones que nos enseñan a <em>saber<\/em> algo, el Evangelio de Jesucristo nos desafía a <em>llegar a ser<\/em> algo.<\/p>\n<p data-aid=\"156991736\" id=\"p17\">De tales enseñanzas concluimos que el Juicio Final no es simplemente una evaluación de la suma total de las obras buenas y malas, o sea, lo que hemos <em>hecho<\/em>. Se basa en el efecto final que tienen nuestros hechos y pensamientos, o sea, lo que hemos <em>llegado a ser<\/em>. Nos hacemos merecedores de la vida eterna mediante un proceso de <em>conversión<\/em>. En este contexto, esta palabra de muchos significados implica un profundo cambio de naturaleza. No es suficiente que la persona tan solo actúe sin pensarlo. Los mandamientos, las ordenanzas y los convenios del Evangelio no son una lista de depósitos requeridos en alguna cuenta celestial. El Evangelio de Jesucristo es un plan que nos muestra cómo llegar a ser lo que nuestro Padre Celestial desea que lleguemos a ser<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"156991744\" id=\"title5\">IV.<\/h2>\n<\/header>\n<p data-aid=\"156991752\" id=\"p18\">Gracias a Jesucristo y a Su Expiación, cuando nos equivocamos en esta vida podemos arrepentirnos y regresar a la senda de los convenios que conduce a lo que nuestro Padre Celestial desea para nosotros.<\/p>\n<p data-aid=\"156991760\" id=\"p19\">En el Libro de Mormón se nos enseña que \u201cesta vida es cuando [nosotros] debe[mos] preparar[nos] para comparecer ante Dios\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>. Sin embargo, a esa difícil limitación de \u201cesta vida\u201d se le dio un contexto esperanzador (al menos hasta cierto punto para algunas personas), mediante lo que el Señor reveló al presidente Joseph F. Smith, actualmente registrado en <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138?lang=spa\">Doctrina y Convenios sección 138<\/a>. El profeta escribió: \u201cVi que los fieles élderes de esta dispensación, cuando salen de la vida terrenal, continúan sus obras en la predicación del evangelio de arrepentimiento y redención, mediante el sacrificio del Unigénito Hijo de Dios, entre aquellos que están en tinieblas y bajo la servidumbre del pecado en el gran mundo de los espíritus de los muertos.<\/p>\n<p data-aid=\"156991768\" id=\"p21\">\u201cLos muertos que se arrepientan serán redimidos, mediante su obediencia a las ordenanzas de la casa de Dios,<\/p>\n<p data-aid=\"156991776\" id=\"p22\">\u201cy después que hayan padecido el castigo por sus transgresiones, y sean lavados y purificados, recibirán una recompensa según sus obras, porque son herederos de salvación\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<p data-aid=\"156991785\" id=\"p23\">Además, sabemos que el Milenio, los mil años que siguen a la segunda venida del Salvador, será un tiempo para efectuar las ordenanzas requeridas por quienes no las hayan recibido en su vida terrenal<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"156991795\" id=\"p24\">Hay mucho que desconocemos acerca de los tres períodos principales del Plan de Salvación y la relación entre ellos: (1) el mundo preterrenal de los espíritus, (2) la vida terrenal y (3) la vida venidera. Sin embargo, sí conocemos estas verdades eternas: \u201cLa salvación es un asunto personal, la exaltación es un asunto familiar\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Tenemos un amoroso Padre Celestial que se asegurará de que recibamos todas las bendiciones y todas las ventajas que nuestros propios deseos y decisiones nos permitan. También sabemos que Él no impondrá a nadie una relación de sellamiento en contra de su voluntad. Las bendiciones de una relación bajo sellamiento están aseguradas para todos aquellos que guardan sus convenios, pero nunca imponiendo una relación bajo sellamiento a otra persona que no sea digna o que no esté dispuesta.<\/p>\n<p data-aid=\"156991805\" id=\"p25\">Mis queridos hermanos y hermanas, testifico de la veracidad de estas cosas. Testifico de nuestro Señor Jesucristo, \u201cel autor y perfeccionador de [nuestra] fe\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>, cuya Expiación, según el plan de nuestro Padre Celestial, lo hace todo posible. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"156991814\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"156992827\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.2?lang=spa#p2\">Juan 14:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"156992834\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.89?lang=spa#p89\">Doctrina y Convenios 76:89<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"156992843\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.43?lang=spa#p43\">Doctrina y Convenios 76:43<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"156992853\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.36?lang=spa#p36\">Doctrina y Convenios 88:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"156992863\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40\">Traducción de José Smith, 1 Corintios 15:40<\/a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>, nota <em>a<\/em> al pie de página).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"156992873\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/131.1?lang=spa#p1\">Doctrina y Convenios 131:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"156992884\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.56,58?lang=spa#p56\">Doctrina y Convenios 76:56, 58<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"156992895\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.62?lang=spa#p62\">Doctrina y Convenios 76:62<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"156992906\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/11.11?lang=spa#p11\">1 Corintios 11:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.19-20?lang=spa#p19\">Doctrina y Convenios 132:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"156992917\" id=\"note10_p1\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=2#p2\">La Familia: Una Proclamación para el Mundo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"156992928\" id=\"note11_p1\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=title1#title1\">La Familia: Una Proclamación para el Mundo<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"156992939\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.41?lang=spa#p41\">1 Corintios 15:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"156992950\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"156992961\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40\">Traducción de José Smith, 1 Corintios 15:40<\/a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>, nota <em>a<\/em> al pie de página).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"156992973\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.22?lang=spa#p22\">Doctrina y Convenios 88:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"156992987\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/tg/abide?lang=spa\">Guía para el Estudio de las Escrituras, Perseverar<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-7,10?lang=spa#p4\">Juan 15:4\u20137, 10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"156992999\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.77?lang=spa#p77\">Doctrina y Convenios 76:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"156993010\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.75?lang=spa#p75\">Doctrina y Convenios 76:75<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"156993021\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.79?lang=spa#p79\">Doctrina y Convenios 76:79<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"156993032\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.23?lang=spa#p23\">Doctrina y Convenios 88:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"156993043\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.82,103?lang=spa#p82\">Doctrina y Convenios 76:82, 103<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"156993054\" id=\"note22_p1\">Russell M. Nelson, <cite>Heart of the Matter<\/cite>, 2023, pág. 45.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"156993065\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.13?lang=spa#p13\">Efesios 4:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"156993075\" id=\"note24_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/the-challenge-to-become?lang=spa\">El desafío de lo que debemos llegar a ser<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, págs. 40\u201343.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"156993085\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.32?lang=spa#p32\">Alma 34:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"156993095\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.57-59?lang=spa#p57\">Doctrina y Convenios 138:57\u201359<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"156993105\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29.11?lang=spa#p11\">Doctrina y Convenios 29:11<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/chapter-46?lang=spa&amp;para=27#p27\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 1998, pág. 442.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"156993115\" id=\"note28_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/46nelson?lang=spa&amp;para=19#p19\">Ven, sígueme<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, pág. 89.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"156993125\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12.2?lang=spa#p2\">Hebreos 12:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "156991678",
+        "id": "note4",
+        "text": "<p data-aid=\"156992853\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.36?lang=spa#p36\">Doctrina y Convenios 88:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.36?lang=spa#p36",
+          "text": "Doctrina y Convenios 88:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "156991682",
+        "id": "note5",
+        "text": "<p data-aid=\"156992863\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40\">Traducción de José Smith, 1 Corintios 15:40<\/a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>, nota <em>a<\/em> al pie de página).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/15.40?lang=spa#p40",
+            "text": "1 Corintios 15:40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40",
+            "text": "Traducción de José Smith, 1 Corintios 15:40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/15.40?lang=spa#p40",
+            "text": "1 Corintios 15:40",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "156991662",
+        "id": "note2",
+        "text": "<p data-aid=\"156992834\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.89?lang=spa#p89\">Doctrina y Convenios 76:89<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.89?lang=spa#p89",
+          "text": "Doctrina y Convenios 76:89",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "156991662",
+        "id": "note3",
+        "text": "<p data-aid=\"156992843\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.43?lang=spa#p43\">Doctrina y Convenios 76:43<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.43?lang=spa#p43",
+          "text": "Doctrina y Convenios 76:43",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "156991682",
+        "id": "note8",
+        "text": "<p data-aid=\"156992895\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.62?lang=spa#p62\">Doctrina y Convenios 76:62<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.62?lang=spa#p62",
+          "text": "Doctrina y Convenios 76:62",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "156991686",
+        "id": "note9",
+        "text": "<p data-aid=\"156992906\" id=\"note9_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/11.11?lang=spa#p11\">1 Corintios 11:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132.19-20?lang=spa#p19\">Doctrina y Convenios 132:19\u201320<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/11.11?lang=spa#p11",
+            "text": "1 Corintios 11:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132.19-20?lang=spa#p19",
+            "text": "Doctrina y Convenios 132:19\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "156991682",
+        "id": "note6",
+        "text": "<p data-aid=\"156992873\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/131.1?lang=spa#p1\">Doctrina y Convenios 131:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/131.1?lang=spa#p1",
+          "text": "Doctrina y Convenios 131:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "156991682",
+        "id": "note7",
+        "text": "<p data-aid=\"156992884\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.56,58?lang=spa#p56\">Doctrina y Convenios 76:56, 58<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.56,58?lang=spa#p56",
+          "text": "Doctrina y Convenios 76:56, 58",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "156991695",
+        "id": "note16",
+        "text": "<p data-aid=\"156992987\" id=\"note16_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/tg/abide?lang=spa\">Guía para el Estudio de las Escrituras, Perseverar<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15.4-7,10?lang=spa#p4\">Juan 15:4\u20137, 10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/tg/abide?lang=spa",
+            "text": "Guía para el Estudio de las Escrituras, Perseverar",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/15.4-7,10?lang=spa#p4",
+            "text": "Juan 15:4\u20137, 10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "156991695",
+        "id": "note15",
+        "text": "<p data-aid=\"156992973\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.22?lang=spa#p22\">Doctrina y Convenios 88:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.22?lang=spa#p22",
+          "text": "Doctrina y Convenios 88:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "156991695",
+        "id": "note14",
+        "text": "<p data-aid=\"156992961\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40\">Traducción de José Smith, 1 Corintios 15:40<\/a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>, nota <em>a<\/em> al pie de página).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-1-cor/15.40?lang=spa#p40",
+            "text": "Traducción de José Smith, 1 Corintios 15:40",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/15.40?lang=spa#p40",
+            "text": "1 Corintios 15:40",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "156991695",
+        "id": "note13",
+        "text": "<p data-aid=\"156992950\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.40?lang=spa#p40\">1 Corintios 15:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/15.40?lang=spa#p40",
+          "text": "1 Corintios 15:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "156991695",
+        "id": "note12",
+        "text": "<p data-aid=\"156992939\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15.41?lang=spa#p41\">1 Corintios 15:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/15.41?lang=spa#p41",
+          "text": "1 Corintios 15:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "156991690",
+        "id": "note11",
+        "text": "<p data-aid=\"156992928\" id=\"note11_p1\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=title1#title1\">La Familia: Una Proclamación para el Mundo<\/a>\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=title1#title1",
+          "text": "La Familia: Una Proclamación para el Mundo",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "156991686",
+        "id": "note10",
+        "text": "<p data-aid=\"156992917\" id=\"note10_p1\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=2#p2\">La Familia: Una Proclamación para el Mundo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa&amp;verse=2#p2",
+          "text": "La Familia: Una Proclamación para el Mundo",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "156991695",
+        "id": "note19",
+        "text": "<p data-aid=\"156993021\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.79?lang=spa#p79\">Doctrina y Convenios 76:79<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.79?lang=spa#p79",
+          "text": "Doctrina y Convenios 76:79",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "156991695",
+        "id": "note18",
+        "text": "<p data-aid=\"156993010\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.75?lang=spa#p75\">Doctrina y Convenios 76:75<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.75?lang=spa#p75",
+          "text": "Doctrina y Convenios 76:75",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "156991695",
+        "id": "note17",
+        "text": "<p data-aid=\"156992999\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.77?lang=spa#p77\">Doctrina y Convenios 76:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.77?lang=spa#p77",
+          "text": "Doctrina y Convenios 76:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "156991785",
+        "id": "note27",
+        "text": "<p data-aid=\"156993105\" id=\"note27_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29.11?lang=spa#p11\">Doctrina y Convenios 29:11<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/chapter-46?lang=spa&amp;para=27#p27\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 1998, pág. 442.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/29.11?lang=spa#p11",
+            "text": "Doctrina y Convenios 29:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-joseph-f-smith/chapter-46?lang=spa&amp;para=27#p27",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "156991776",
+        "id": "note26",
+        "text": "<p data-aid=\"156993095\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/138.57-59?lang=spa#p57\">Doctrina y Convenios 138:57\u201359<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/138.57-59?lang=spa#p57",
+          "text": "Doctrina y Convenios 138:57\u201359",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "156991760",
+        "id": "note25",
+        "text": "<p data-aid=\"156993085\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34.32?lang=spa#p32\">Alma 34:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/34.32?lang=spa#p32",
+          "text": "Alma 34:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "156991736",
+        "id": "note24",
+        "text": "<p data-aid=\"156993075\" id=\"note24_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/the-challenge-to-become?lang=spa\">El desafío de lo que debemos llegar a ser<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, págs. 40\u201343.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2000/10/the-challenge-to-become?lang=spa",
+          "text": "El desafío de lo que debemos llegar a ser",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "156991728",
+        "id": "note23",
+        "text": "<p data-aid=\"156993065\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4.13?lang=spa#p13\">Efesios 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4.13?lang=spa#p13",
+          "text": "Efesios 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "156991712",
+        "id": "note22",
+        "text": "<p data-aid=\"156993054\" id=\"note22_p1\">Russell M. Nelson, <cite>Heart of the Matter<\/cite>, 2023, pág. 45.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "156991706",
+        "id": "note21",
+        "text": "<p data-aid=\"156993043\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76.82,103?lang=spa#p82\">Doctrina y Convenios 76:82, 103<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76.82,103?lang=spa#p82",
+          "text": "Doctrina y Convenios 76:82, 103",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "156991700",
+        "id": "note20",
+        "text": "<p data-aid=\"156993032\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88.23?lang=spa#p23\">Doctrina y Convenios 88:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88.23?lang=spa#p23",
+          "text": "Doctrina y Convenios 88:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "156991659",
+        "id": "note1",
+        "text": "<p data-aid=\"156992827\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14.2?lang=spa#p2\">Juan 14:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14.2?lang=spa#p2",
+          "text": "Juan 14:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "156991805",
+        "id": "note29",
+        "text": "<p data-aid=\"156993125\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12.2?lang=spa#p2\">Hebreos 12:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6.4?lang=spa#p4\">Moroni 6:4<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/heb/12.2?lang=spa#p2",
+            "text": "Hebreos 12:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6.4?lang=spa#p4",
+            "text": "Moroni 6:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "156991795",
+        "id": "note28",
+        "text": "<p data-aid=\"156993115\" id=\"note28_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/46nelson?lang=spa&amp;para=19#p19\">Ven, sígueme<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, pág. 89.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/46nelson?lang=spa&amp;para=19#p19",
+          "text": "Ven, sígueme",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}
