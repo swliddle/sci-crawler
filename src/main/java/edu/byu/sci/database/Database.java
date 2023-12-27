@@ -16,6 +16,9 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.MatchResult;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -208,6 +211,59 @@ public class Database {
         }
 
         return saturdayDate;
+    }
+
+    public Map<Integer, Boolean> citationIdsInTable() {
+        Statement stmt = null;
+        ResultSet rs = null;
+        HashMap<Integer, Boolean> citationIds = new HashMap<>();
+
+        try {
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery("SELECT ID FROM citation ORDER BY ID");
+
+            while (rs.next()) {
+                citationIds.put(rs.getInt(1), true);
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return citationIds;
+    }
+
+    public Map<Integer, Boolean> citationIdsInTalks() {
+        Statement stmt = null;
+        ResultSet rs = null;
+        Map<Integer, Boolean> citationIds = new HashMap<>();
+
+        try {
+            Pattern pattern = Pattern.compile("=\"gs\\((\\d+)\\)\"");
+
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery("SELECT Text FROM talkbody");
+
+            while (rs.next()) {
+                String text = rs.getString(1);
+                Matcher matcher = pattern.matcher(text);
+
+                while (matcher.find()) {
+                    String idString = matcher.group(1);
+
+                    if (idString != null) {
+                        citationIds.put(Integer.parseInt(idString), true);
+                    }
+                }
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return citationIds;
     }
 
     private List<Link> citationsForTalk(int talkId) {
@@ -684,7 +740,8 @@ public class Database {
                     logger.log(Level.INFO, () -> "Already have citation record for " + citation.citationId);
                     talkCitations.remove(index);
                 } else {
-                    logger.log(Level.INFO, () -> "Need to create citation record for " + citation.book + " " + citation.chapter + " " + citation.verses + " " + citation.page);
+                    logger.log(Level.INFO, () -> "Need to create citation record for " + citation.book + " "
+                            + citation.chapter + " " + citation.verses + " " + citation.page);
                     maxCitationId = addCitation(citation, citationsToWrite, maxCitationId);
                 }
             }
@@ -878,9 +935,9 @@ public class Database {
             Map<String, String> talkContents, String language) {
         talkContents.forEach((talkId, contents) -> {
             // if (replaceTalkBodies) {
-                // NEEDSWORK
-                // Check to see whether the talk body is different from the one in the database.
-                // If so, update the database.
+            // NEEDSWORK
+            // Check to see whether the talk body is different from the one in the database.
+            // If so, update the database.
             // }
 
             logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());

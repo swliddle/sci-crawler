@@ -228,6 +228,8 @@ public class SciCrawler {
     static int requestedYear = -1;
     static int requestedMonth = -1;
     static String requestedLanguage = "";
+
+    static boolean checkCitationConsistency = false;
     static boolean invalidCommandLine = false;
     static boolean replaceTalkBodies = false;
     static boolean writeContentToFiles = false;
@@ -254,6 +256,9 @@ public class SciCrawler {
                             break;
                         case "--useConferenceSite":
                             useConferenceSite = true;
+                            break;
+                        case "--checkCitationConsistency":
+                            checkCitationConsistency = true;
                             break;
                         default:
                             String badParameter = args[i];
@@ -296,7 +301,37 @@ public class SciCrawler {
             System.exit(-1);
         }
 
-        crawl();
+        if (checkCitationConsistency) {
+            checkCitationConsistency();
+        } else {
+            crawl();
+        }
+    }
+
+    private static void checkCitationConsistency() {
+        Database database = new Database();
+        boolean foundInconsistency = false;
+
+        Map<Integer, Boolean> citationIdsInTalks = database.citationIdsInTalks();
+        Map<Integer, Boolean> citationIdsInTable = database.citationIdsInTable();
+
+        for (Integer key: citationIdsInTalks.keySet()) {
+            if (!citationIdsInTable.containsKey(key)) {
+                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the talks but not in the table");
+                foundInconsistency = true;
+            }
+        }
+
+        for (Integer key : citationIdsInTable.keySet()) {
+            if (!citationIdsInTalks.containsKey(key)) {
+                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the table but not in the talks");
+                foundInconsistency = true;
+            }
+        }
+
+        if (!foundInconsistency) {
+            logger.log(Level.INFO, () -> "All citation IDs are used consistently in talks and the citation table");
+        }
     }
 
     private static void crawl() {
