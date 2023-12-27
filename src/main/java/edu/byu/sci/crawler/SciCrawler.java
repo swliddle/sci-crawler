@@ -1061,7 +1061,7 @@ public class SciCrawler {
         logger.log(Level.INFO, () -> "Sunday: " + year + "-" + (sundayDate.get(Calendar.MONTH) + 1) + "-"
                 + sundayDate.get(Calendar.DAY_OF_MONTH));
 
-        logger.log(Level.INFO, () -> year + (annual.equals("A") ? " Annual" : "Semi-Annual") + " General Conference"
+        logger.log(Level.INFO, () -> year + (annual.equals("A") ? " Annual" : " Semi-Annual") + " General Conference"
                 + ", " + issueDate);
     }
 

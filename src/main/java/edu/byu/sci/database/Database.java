@@ -680,11 +680,11 @@ public class Database {
                 int index = indexOfMatch(talkCitations, citation);
 
                 if (index >= 0) {
-                    logger.log(Level.INFO, () -> "Already have citation record for " + citation.citationId);
                     citation.citationId = talkCitations.get(index).citationId;
+                    logger.log(Level.INFO, () -> "Already have citation record for " + citation.citationId);
                     talkCitations.remove(index);
                 } else {
-                    logger.log(Level.INFO, () -> "Need to create citation record for " + citation.citationId);
+                    logger.log(Level.INFO, () -> "Need to create citation record for " + citation.book + " " + citation.chapter + " " + citation.verses + " " + citation.page);
                     maxCitationId = addCitation(citation, citationsToWrite, maxCitationId);
                 }
             }
@@ -877,15 +877,11 @@ public class Database {
     public void updateTalkContents(boolean writeToDatabase, boolean replaceTalkBodies,
             Map<String, String> talkContents, String language) {
         talkContents.forEach((talkId, contents) -> {
-            if (replaceTalkBodies) {
+            // if (replaceTalkBodies) {
                 // NEEDSWORK
                 // Check to see whether the talk body is different from the one in the database.
                 // If so, update the database.
-                // NEEDSWORK: this is a hack to replace just Elder Rasband's talk in April 2023
-                if (!talkId.equals("53rasband")) {
-                    return;
-                }
-            }
+            // }
 
             logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());
 
