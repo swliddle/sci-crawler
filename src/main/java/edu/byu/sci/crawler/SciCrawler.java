@@ -117,8 +117,6 @@ public class SciCrawler {
         this.language = language;
         String conferencePath;
 
-        // logger.log(Level.INFO, () -> "Count of verses: " + verses.count());
-
         switch (year) {
             case 1971:
                 // Published in June and December
@@ -293,7 +291,8 @@ public class SciCrawler {
             }
         }
 
-        if (requestedYear < 1971 || requestedMonth < 0 || (requestedMonth != 4 && requestedMonth != 10) || requestedYear > 2050
+        if (requestedYear < 1971 || requestedMonth < 0 || (requestedMonth != 4 && requestedMonth != 10)
+                || requestedYear > 2050
                 || (!requestedLanguage.equals("eng") && !requestedLanguage.equals("spa")) || invalidCommandLine) {
             logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
             logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
@@ -315,7 +314,7 @@ public class SciCrawler {
         Map<Integer, Boolean> citationIdsInTalks = database.citationIdsInTalks();
         Map<Integer, Boolean> citationIdsInTable = database.citationIdsInTable();
 
-        for (Integer key: citationIdsInTalks.keySet()) {
+        for (Integer key : citationIdsInTalks.keySet()) {
             if (!citationIdsInTable.containsKey(key)) {
                 logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the talks but not in the table");
                 foundInconsistency = true;
@@ -461,13 +460,6 @@ public class SciCrawler {
 
     private boolean containsLink(List<Link> links, Link link) {
         for (Link l : links) {
-            // if (link.talkId.equals("41uchtdorf") && l.talkId.equals(link.talkId)) {
-            // logger.log(Level.INFO, () -> "41uchtdorf: " + link.href);
-            // logger.log(Level.INFO, () -> "hrefs " + (link.href.equals(l.href) ? "match" :
-            // "don't match"));
-            // logger.log(Level.INFO, () -> "texts " + (link.text.equals(l.text) ? "match" :
-            // "don't match"));
-            // }
             if (link.isEqualTo(l)) {
                 return true;
             }
@@ -661,6 +653,9 @@ public class SciCrawler {
         Matcher matcher = scriptureReferencePattern.matcher(content);
 
         while (matcher.find()) {
+            // NOTE: if the same scripture appears twice, once in the body and once in the
+            // footnotes, then we need to mark it as unique so the two can be distinguished.
+            // Add "uniq" to the end of the <a> tag as in D&C 42:12 in 56bednar April 2021.
             String key = matcher.group().contains("uniq") ? "uniq" : "body";
 
             addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF),
@@ -914,9 +909,10 @@ public class SciCrawler {
                     if (fields.length != 4 || !link.href.contains(fields[0])) {
                         final int line = i + 1;
                         final String lineText = lines[i];
-                        logger.log(Level.SEVERE, () -> "Incorrect line format at line " + line);
+                        logger.log(Level.SEVERE, () -> "Incorrect line format or field mismatch at line " + line);
                         logger.log(Level.SEVERE, () -> "Line: [" + lineText + "]");
                         logger.log(Level.SEVERE, () -> "Link is " + link.text + ", " + link.href);
+                        logger.log(Level.SEVERE, () -> "fields[0] [" + fields[0] + "] is not in link.href");
                         System.exit(-1);
                         return;
                     }
@@ -937,7 +933,7 @@ public class SciCrawler {
                 System.exit(-1);
             }
         } else {
-            logger.log(Level.INFO, () -> "Need updated citations file (" + paths.updatedCitationsFile() + ")");
+            logger.log(Level.WARNING, () -> "Need updated citations file (" + paths.updatedCitationsFile() + ")");
         }
     }
 

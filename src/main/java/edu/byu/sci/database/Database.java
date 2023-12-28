@@ -243,10 +243,14 @@ public class Database {
             Pattern pattern = Pattern.compile("=\"gs\\((\\d+)\\)\"");
 
             stmt = conn.createStatement();
-            rs = stmt.executeQuery("SELECT Text FROM talkbody");
+            rs = stmt.executeQuery(
+                    "select Text, ProcessedText from talkbody union select Text, ProcessedText from talkbody_es");
 
             while (rs.next()) {
                 String text = rs.getString(1);
+
+                text += rs.getString(2);
+
                 Matcher matcher = pattern.matcher(text);
 
                 while (matcher.find()) {
@@ -314,6 +318,16 @@ public class Database {
             } catch (SQLException sqlEx) {
                 // ignore
             }
+        }
+    }
+
+    private boolean comparesSame(String value1, String value2) {
+        if (value1 == null) {
+            return value2 == null || value2.isEmpty() || value2.equals("0");
+        } else if (value2 == null) {
+            return value1.isEmpty() || value1.equals("0");
+        } else {
+            return value1.equals(value2);
         }
     }
 
@@ -530,8 +544,11 @@ public class Database {
         String candidateTalkId = "" + talkIdsForKeys.get(link1.talkId);
         String candidateBookId = "" + BookFinder.sInstance.bookIdForBook(link1.book);
 
-        return link2.talkId.equals(candidateTalkId) && link2.book.equals(candidateBookId)
-                && link2.chapter.equals(link1.chapter) && link2.verses.equals(link1.verses) && link2.page == link1.page
+        return link2.talkId.equals(candidateTalkId)
+                && link2.book.equals(candidateBookId)
+                && comparesSame(link2.chapter, link1.chapter)
+                && comparesSame(link2.verses, link1.verses)
+                && link2.page == link1.page
                 && link2.isJst == link1.isJst;
     }
 
