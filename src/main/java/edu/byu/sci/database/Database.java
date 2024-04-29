@@ -11,12 +11,13 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -77,9 +78,7 @@ public class Database {
 
     public Database() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3307/sci2p?user=sci2puser&password=sci44access");
-            // conn =
-            // DriverManager.getConnection("jdbc:mysql://localhost/sci3?user=sci3user&password=vt43by8c89nvn3");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/sci2p?user=sci2puser&password=sci44access");
         } catch (SQLException e) {
             logError(e);
         }
@@ -470,6 +469,58 @@ public class Database {
         }
 
         return existingTalkId;
+    }
+
+    public Map<Integer, List<String>> externalLinksForTalks() {
+        Statement stmt = null;
+        ResultSet rs = null;
+        Map<Integer, List<String>> externalLinks = new HashMap<>();
+
+        try {
+            Pattern pattern = Pattern.compile("(<a[^>]*>)", Pattern.CASE_INSENSITIVE + Pattern.DOTALL);
+
+            stmt = conn.createStatement();
+            rs = stmt.executeQuery(
+                    "select TalkID, Text, ProcessedText from talkbody union select TalkID, Text, ProcessedText from talkbody_es");
+
+            while (rs.next()) {
+                int talkId = rs.getInt(1);
+                Set<String> links = new HashSet<>();
+                String text = rs.getString(2) + rs.getString(3);
+                Matcher matcher = pattern.matcher(text);
+
+                while (matcher.find()) {
+                    String linkText = matcher.group(1);
+
+                    if (linkText != null
+                            && !linkText.contains("onclick=\"gs(")
+                            && !linkText.contains("onclick=\"sx(")
+                            && !linkText.contains("#note")
+                            && !linkText.contains("#footnote")
+                            && !linkText.contains("href=\"stpjs")
+                            && !linkText.contains("href=\"/jod/pdf/")
+                            && !linkText.contains("href=\"https://contentdm.lib.byu.edu/utils/")
+                            && !linkText.contains("class=\"nolink\"")
+                            && !linkText.contains("class=\"cross-ref nolink\"")
+                            && !linkText.trim().startsWith("<a name=")) {
+                        links.add(linkText);
+                    }
+                }
+
+                if (!links.isEmpty()) {
+                    List<String> hrefs = new ArrayList<>();
+
+                    links.forEach(hrefs::add);
+                    externalLinks.put(talkId, hrefs);
+                }
+            }
+        } catch (SQLException e) {
+            logError(e);
+        } finally {
+            cleanupStatement(stmt, rs);
+        }
+
+        return externalLinks;
     }
 
     private String fullTalkUrl(String url) {

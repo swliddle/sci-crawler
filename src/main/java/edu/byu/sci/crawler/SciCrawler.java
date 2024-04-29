@@ -8,6 +8,7 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
@@ -228,6 +229,7 @@ public class SciCrawler {
     static String requestedLanguage = "";
 
     static boolean checkCitationConsistency = false;
+    static boolean checkExternalLinks = false;
     static boolean invalidCommandLine = false;
     static boolean replaceTalkBodies = false;
     static boolean writeContentToFiles = false;
@@ -235,15 +237,118 @@ public class SciCrawler {
     static boolean useConferenceSite = false;
 
     public static void main(String[] args) {
-        Logger logger = Logger.getLogger(SciCrawler.class.getName());
+        parseArguments(args);
 
-        if (args.length >= 3) {
+        if (invalidCommandLine) {
+            System.exit(-1);
+        }
+
+        if (args.length > 1) {
+            checkYearMonthLanguage();
+        }
+
+        execute();
+    }
+
+    private static void checkCitationConsistency() {
+        Database database = new Database();
+        boolean foundInconsistency = false;
+
+        Map<Integer, Boolean> citationIdsInTalks = database.citationIdsInTalks();
+        Map<Integer, Boolean> citationIdsInTable = database.citationIdsInTable();
+
+        for (Integer key : citationIdsInTalks.keySet()) {
+            if (!citationIdsInTable.containsKey(key)) {
+                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the talks but not in the table");
+                foundInconsistency = true;
+            }
+        }
+
+        for (Integer key : citationIdsInTable.keySet()) {
+            if (!citationIdsInTalks.containsKey(key)) {
+                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the table but not in the talks");
+                foundInconsistency = true;
+            }
+        }
+
+        if (!foundInconsistency) {
+            logger.log(Level.INFO, () -> "All citation IDs are used consistently in talks and the citation table");
+        }
+    }
+
+    private static void checkExternalLinks() {
+        Database database = new Database();
+        Map<Integer, List<String>> externalHrefs = database.externalLinksForTalks();
+        Iterator<Map.Entry<Integer, List<String>>> iterator = externalHrefs.entrySet().iterator();
+        boolean foundExternalLink = false;
+
+        while (iterator.hasNext()) {
+            Map.Entry<Integer, List<String>> entry = iterator.next();
+
+            logger.log(Level.WARNING, () -> "Talk " + entry.getKey() + " has the following external links:");
+            foundExternalLink = true;
+
+            entry.getValue().forEach(href -> logger.log(Level.WARNING, () -> "    " + href));
+        }
+
+        if (!foundExternalLink) {
+            logger.log(Level.INFO, () -> "No external links found in talks");
+        }
+    }
+
+    private static void checkYearMonthLanguage() {
+        if (requestedYear < 1971 || requestedMonth < 0 || (requestedMonth != 4 && requestedMonth != 10)
+                || requestedYear > 2050
+                || (!requestedLanguage.equals("eng") && !requestedLanguage.equals("spa")) || invalidCommandLine) {
+            logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
+            logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
+            logger.log(Level.SEVERE, "    and language is either eng or spa");
+            System.exit(-1);
+        }
+    }
+
+    private static void crawl() {
+        SciCrawler crawler = new SciCrawler(requestedYear, requestedMonth, requestedLanguage);
+
+        crawler.getTableOfContents(useConferenceSite);
+        crawler.readPageRanges();
+        List<Link> scriptureCitations = crawler.crawlTalks(writeContentToFiles);
+        crawler.checkSpeakers();
+        crawler.writeCitationsToFile(scriptureCitations);
+        crawler.showTables();
+        crawler.processUpdatedCitations(scriptureCitations);
+
+        crawler.updateDatabase(writeToDatabase, scriptureCitations);
+        crawler.rewriteUrls(writeContentToFiles, scriptureCitations);
+        crawler.updateTalkContents(writeToDatabase, replaceTalkBodies);
+    }
+
+    private static void execute() {
+        if (checkCitationConsistency) {
+            checkCitationConsistency();
+        } else if (checkExternalLinks) {
+            checkExternalLinks();
+        } else {
+            crawl();
+        }
+    }
+
+    public static void parseArguments(String[] args) {
+        if (args.length == 1) {
+            if (args[0].equals("--checkCitationConsistency")) {
+                checkCitationConsistency = true;
+            } else if (args[0].equals("--checkExternalLinks")) {
+                checkExternalLinks = true;
+            } else {
+                invalidCommandLine = true;
+            }
+        } else if (args.length >= 3) {
             int requiredArgCount = 0;
 
             for (int i = 0; i < args.length; i++) {
                 if (args[i].startsWith("--")) {
                     switch (args[i]) {
-                        case "--writeToDatabase":
+                         case "--writeToDatabase":
                             writeToDatabase = true;
                             break;
                         case "--replaceTalkBodies":
@@ -254,9 +359,6 @@ public class SciCrawler {
                             break;
                         case "--useConferenceSite":
                             useConferenceSite = true;
-                            break;
-                        case "--checkCitationConsistency":
-                            checkCitationConsistency = true;
                             break;
                         default:
                             String badParameter = args[i];
@@ -286,67 +388,13 @@ public class SciCrawler {
                         requiredArgCount += 1;
                     } catch (NumberFormatException e) {
                         logger.log(Level.SEVERE, () -> "'" + args[0] + "' or '" + args[1] + "' is not an integer");
+                        invalidCommandLine = true;
                     }
                 }
             }
-        }
-
-        if (requestedYear < 1971 || requestedMonth < 0 || (requestedMonth != 4 && requestedMonth != 10)
-                || requestedYear > 2050
-                || (!requestedLanguage.equals("eng") && !requestedLanguage.equals("spa")) || invalidCommandLine) {
-            logger.log(Level.SEVERE, "Usage: SciCrawler year month language");
-            logger.log(Level.SEVERE, "    where year is 1971 to 2050, month is either 4 or 10,");
-            logger.log(Level.SEVERE, "    and language is either eng or spa");
-            System.exit(-1);
-        }
-
-        if (checkCitationConsistency) {
-            checkCitationConsistency();
         } else {
-            crawl();
+            invalidCommandLine = true;
         }
-    }
-
-    private static void checkCitationConsistency() {
-        Database database = new Database();
-        boolean foundInconsistency = false;
-
-        Map<Integer, Boolean> citationIdsInTalks = database.citationIdsInTalks();
-        Map<Integer, Boolean> citationIdsInTable = database.citationIdsInTable();
-
-        for (Integer key : citationIdsInTalks.keySet()) {
-            if (!citationIdsInTable.containsKey(key)) {
-                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the talks but not in the table");
-                foundInconsistency = true;
-            }
-        }
-
-        for (Integer key : citationIdsInTable.keySet()) {
-            if (!citationIdsInTalks.containsKey(key)) {
-                logger.log(Level.WARNING, () -> "Citation ID " + key + " is in the table but not in the talks");
-                foundInconsistency = true;
-            }
-        }
-
-        if (!foundInconsistency) {
-            logger.log(Level.INFO, () -> "All citation IDs are used consistently in talks and the citation table");
-        }
-    }
-
-    private static void crawl() {
-        SciCrawler crawler = new SciCrawler(requestedYear, requestedMonth, requestedLanguage);
-
-        crawler.getTableOfContents(useConferenceSite);
-        crawler.readPageRanges();
-        List<Link> scriptureCitations = crawler.crawlTalks(writeContentToFiles);
-        crawler.checkSpeakers();
-        crawler.writeCitationsToFile(scriptureCitations);
-        crawler.showTables();
-        crawler.processUpdatedCitations(scriptureCitations);
-
-        crawler.updateDatabase(writeToDatabase, scriptureCitations);
-        crawler.rewriteUrls(writeContentToFiles, scriptureCitations);
-        crawler.updateTalkContents(writeToDatabase, replaceTalkBodies);
     }
 
     /*
