@@ -1,0 +1,600 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/33spannaus?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "98453c5d38534eecadf58978565ee439",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/33spannaus",
+      "data-aid": "159169061",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "7e686005784e45f7926e511211df589e"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/be/a1/bea127aada7087b3800ad0bc7101b51a78b8af01/bea127aada7087b3800ad0bc7101b51a78b8af01.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Fiel hasta el fin",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159169061",
+      {"key": "159169061"}
+    ],
+    [
+      "159221443",
+      {"key": "159221443"}
+    ],
+    [
+      "159221447",
+      {"key": "159221447"}
+    ],
+    [
+      "159221449",
+      {"key": "159221449"}
+    ],
+    [
+      "159221455",
+      {"key": "159221455"}
+    ],
+    [
+      "159221459",
+      {"key": "159221459"}
+    ],
+    [
+      "159221463",
+      {"key": "159221463"}
+    ],
+    [
+      "159221467",
+      {"key": "159221467"}
+    ],
+    [
+      "159221469",
+      {"key": "159221469"}
+    ],
+    [
+      "159221475",
+      {"key": "159221475"}
+    ],
+    [
+      "159221479",
+      {"key": "159221479"}
+    ],
+    [
+      "159221486",
+      {"key": "159221486"}
+    ],
+    [
+      "159221491",
+      {"key": "159221491"}
+    ],
+    [
+      "159221495",
+      {"key": "159221495"}
+    ],
+    [
+      "159221499",
+      {"key": "159221499"}
+    ],
+    [
+      "159221503",
+      {"key": "159221503"}
+    ],
+    [
+      "159221507",
+      {"key": "159221507"}
+    ],
+    [
+      "159221512",
+      {"key": "159221512"}
+    ],
+    [
+      "159221517",
+      {"key": "159221517"}
+    ],
+    [
+      "159221522",
+      {"key": "159221522"}
+    ],
+    [
+      "159221528",
+      {"key": "159221528"}
+    ],
+    [
+      "159221534",
+      {"key": "159221534"}
+    ],
+    [
+      "159221541",
+      {"key": "159221541"}
+    ],
+    [
+      "159221548",
+      {"key": "159221548"}
+    ],
+    [
+      "159221552",
+      {"key": "159221552"}
+    ],
+    [
+      "159221559",
+      {"key": "159221559"}
+    ],
+    [
+      "159221566",
+      {"key": "159221566"}
+    ],
+    [
+      "159221573",
+      {"key": "159221573"}
+    ],
+    [
+      "159221580",
+      {"key": "159221580"}
+    ],
+    [
+      "159221586",
+      {"key": "159221586"}
+    ],
+    [
+      "159221593",
+      {"key": "159221593"}
+    ],
+    [
+      "159221599",
+      {"key": "159221599"}
+    ],
+    [
+      "159221606",
+      {"key": "159221606"}
+    ],
+    [
+      "159221613",
+      {"key": "159221613"}
+    ],
+    [
+      "159221620",
+      {"key": "159221620"}
+    ],
+    [
+      "159221627",
+      {"key": "159221627"}
+    ],
+    [
+      "159221634",
+      {"key": "159221634"}
+    ],
+    [
+      "159221641",
+      {"key": "159221641"}
+    ],
+    [
+      "159221648",
+      {"key": "159221648"}
+    ],
+    [
+      "159221655",
+      {"key": "159221655"}
+    ],
+    [
+      "159221662",
+      {"key": "159221662"}
+    ],
+    [
+      "159221669",
+      {"key": "159221669"}
+    ],
+    [
+      "159221676",
+      {"key": "159221676"}
+    ],
+    [
+      "159221683",
+      {"key": "159221683"}
+    ],
+    [
+      "159221689",
+      {"key": "159221689"}
+    ],
+    [
+      "159221696",
+      {"key": "159221696"}
+    ],
+    [
+      "159221703",
+      {"key": "159221703"}
+    ],
+    [
+      "159221710",
+      {"key": "159221710"}
+    ],
+    [
+      "159221717",
+      {"key": "159221717"}
+    ],
+    [
+      "159221724",
+      {"key": "159221724"}
+    ],
+    [
+      "159221738",
+      {"key": "159221738"}
+    ],
+    [
+      "159221744",
+      {"key": "159221744"}
+    ],
+    [
+      "159221751",
+      {"key": "159221751"}
+    ],
+    [
+      "159221758",
+      {"key": "159221758"}
+    ],
+    [
+      "159221765",
+      {"key": "159221765"}
+    ],
+    [
+      "159221771",
+      {"key": "159221771"}
+    ],
+    [
+      "159221779",
+      {"key": "159221779"}
+    ],
+    [
+      "159221784",
+      {"key": "159221784"}
+    ],
+    [
+      "159221791",
+      {"key": "159221791"}
+    ],
+    [
+      "159221798",
+      {"key": "159221798"}
+    ],
+    [
+      "159221805",
+      {"key": "159221805"}
+    ],
+    [
+      "159224812",
+      {"key": "159224812"}
+    ],
+    [
+      "159224819",
+      {"key": "159224819"}
+    ],
+    [
+      "159224826",
+      {"key": "159224826"}
+    ],
+    [
+      "159224833",
+      {"key": "159224833"}
+    ],
+    [
+      "159224840",
+      {"key": "159224840"}
+    ],
+    [
+      "159224847",
+      {"key": "159224847"}
+    ],
+    [
+      "159224854",
+      {"key": "159224854"}
+    ],
+    [
+      "159224861",
+      {"key": "159224861"}
+    ],
+    [
+      "159224867",
+      {"key": "159224867"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/33spannaus",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "La hermana Spannaus enseña seis maneras en las que podemos prepararnos para enfrentar al mundo y ser fieles hasta el fin.",
+          "title": "Fiel hasta el fin"
+        },
+        "pageSocial": {
+          "description": "La hermana Spannaus enseña seis maneras en las que podemos prepararnos para enfrentar al mundo y ser fieles hasta el fin.",
+          "title": "Fiel hasta el fin"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/be/a1/bea127aada7087b3800ad0bc7101b51a78b8af01/bea127aada7087b3800ad0bc7101b51a78b8af01.jpeg\" data-video-title=\"Fiel hasta el fin\" data-video-description=\"La hermana Spannaus enseña seis maneras en las que podemos prepararnos para enfrentar al mundo y ser fieles hasta el fin.\" data-video-id=\"6350439566112\" data-ip=\"Download and Streaming                            \" data-duration=\"685353\" data-assetId=\"9f10be94f48011ee8379eeeeac1e3728a797d931\" data-ref-id=\"7919482B6151D8446BDD64FFA6D00AFA3F7B740A\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350439566112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352357612\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"63714211\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"164791215\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352357612\"/><\/video><h1 data-aid=\"159221443\" id=\"title1\">Fiel hasta el fin<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159221447\" id=\"author1\">Por la hermana Andrea Muñoz Spannaus<\/p>\n<p class=\"author-role\" data-aid=\"159221449\" id=\"author2\">Segunda Consejera de la Presidencia General de Mujeres Jóvenes<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159221455\" id=\"kicker1\">De Su mano, podrán derribar cada uno de los \u201cGoliats\u201d que aparezcan en sus vidas.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159221459\" id=\"p1\">Queridos jóvenes amigos, hoy me gustaría dirigirme a ustedes, los jóvenes de la Iglesia.<\/p>\n<p data-aid=\"159221463\" id=\"p2\">Ya hace un año que fuimos llamadas a servir en la Presidencia General de las Mujeres Jóvenes. ¡Y cuántas cosas han pasado en este año!<\/p>\n<p data-aid=\"159221467\" id=\"p3\">Conocimos a muchos de ustedes y estudiamos las enseñanzas de Cristo juntos. Cantamos canciones, hicimos nuevos amigos y servimos juntos en nuestras comunidades. Nos fortalecimos al escuchar sus testimonios en las conferencias para la juventud y en los eventos mundiales, y adoramos juntos en la Casa del Señor.<\/p>\n<p data-aid=\"159221469\" id=\"p4\">En cada uno de esos encuentros les hemos compartido un mensaje de nuestro Señor Jesucristo. Esta noche no será diferente, tengo un mensaje para ustedes, los jóvenes de la Iglesia de Jesucristo.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159221475\" id=\"title2\">Preguntas importantes<\/h2>\n<\/header>\n<p data-aid=\"159221479\" id=\"p5\">¿Alguna vez se preguntaron cómo podemos ser fieles a Dios cuando estamos viviendo en un mundo de pecado? ¿De dónde podemos sacar la fuerza para ir adelante y seguir haciendo lo bueno? ¿Cómo experimentamos el gozo verdadero?<\/p>\n<p data-aid=\"159221486\" id=\"p6\">Creo que la experiencia de David y Goliat<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> nos puede ayudar.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159221491\" id=\"title3\">David y Goliat<\/h2>\n<\/header>\n<p data-aid=\"159221495\" id=\"p7\">En el Antiguo Testamento, el ejército de los filisteos estaba atacando a los israelitas, y cada mañana y cada tarde, un filisteo gigante llamado Goliat desafiaba a cualquier israelita a pelear con él.<\/p>\n<img alt=\"David y Goliat. \" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/500%2C/0/default\" data-img-id=\"0ac9722bf38811ee9e29eeeeac1e969806e3adb6\" srcset=\"https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/640%2C/0/default 640w\" data-assetId=\"0ac9722bf38811ee9e29eeeeac1e969806e3adb6\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159221499\" id=\"p8\">En el pueblo israelita vivía David, un pastor joven, de tamaño mucho más pequeño que Goliat, ¡pero con una fe en Jesucristo gigante! David se ofreció a pelear. Hasta el mismo rey quiso disuadirlo, pero David eligió poner su confianza en Jesucristo.<\/p>\n<p data-aid=\"159221503\" id=\"p9\">En otras oportunidades, David había peleado con un león y también con un oso. Por propia experiencia, él sabía que Dios lo había protegido y le había dado la victoria. Para David, <em>la causa de Dios era la causa más importante<\/em>. Así que, lleno de fe en un Dios que no lo abandonaría, juntó cinco piedras lisas, agarró su honda y fue a enfrentarse con el gigante.<\/p>\n<img alt=\"Las cinco piedras de David.\" id=\"img4\" src=\"https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/500%2C/0/default\" data-img-id=\"1219b311f38811eebb71eeeeac1e920553f614dd\" srcset=\"https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/640%2C/0/default 640w\" data-assetId=\"1219b311f38811eebb71eeeeac1e920553f614dd\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159221507\" id=\"p10\">En las Escrituras se cuenta que la primera piedra que David tiró dio justo en medio de la frente de Goliat, acabando con su vida<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159221512\" id=\"title4\">Buscando la respuesta<\/h2>\n<\/header>\n<p data-aid=\"159221517\" id=\"p11\">Si bien David utilizó solo una piedra para matar a Goliat, él estaba preparado con cinco. ¡Con cinco! Esto me hace pensar en cómo puedo prepararme yo para enfrentar al mundo.<\/p>\n<p data-aid=\"159221522\" id=\"p12\">¿Y si cada una de las piedras de David representara una fortaleza para salir victoriosos? ¿Cuáles podrían ser nuestras cinco piedras? Yo pensé en estas posibilidades:<\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"159221528\" id=\"p13\">La piedra de <em>mi amor por Dios<\/em>.<\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"159221534\" id=\"p14\">La piedra de <em>mi fe en nuestro Salvador Jesucristo<\/em>.<\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"159221541\" id=\"p15\">La piedra del <em>conocimiento de mi verdadera identidad<\/em>.<\/p>\n<\/li>\n<li data-marker=\"4.\">\n<p data-aid=\"159221548\" id=\"p16\">La piedra de <em>mi arrepentimiento diario<\/em>.<\/p>\n<\/li>\n<li data-marker=\"5.\">\n<p data-aid=\"159221552\" id=\"p17\">La piedra de <em>mi acceso al poder de Dios.<\/em><\/p>\n<\/li>\n<\/ol>\n<p data-aid=\"159221559\" id=\"p18\">Analicemos cómo estas fortalezas nos bendicen.<\/p>\n<p data-aid=\"159221566\" id=\"p19\">La primera, la piedra de <em>mi amor por Dios<\/em>. Amar a Dios es el primer gran mandamiento<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. La guía <cite>Para la Fortaleza de la Juventud<\/cite> nos enseña: \u201cDios te ama. Él es tu Padre, Su amor perfecto puede inspirarte a amarlo a Él. Cuando tu amor por el Padre Celestial es la influencia más importante en tu vida, muchas decisiones se vuelven más fáciles\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"159221573\" id=\"p20\">El amor que sentimos por Dios y nuestra estrecha relación con Él nos darán la fuerza que necesitamos para transformar nuestro corazón y vencer más fácilmente nuestros desafíos.<\/p>\n<p data-aid=\"159221580\" id=\"p21\">La segunda, la piedra de <em>mi fe en nuestro Salvador Jesucristo<\/em>. Cuando Jesucristo vino a la tierra sufrió por nuestros pecados<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> y tomó sobre Sí nuestras tristezas, nuestros dolores, nuestras debilidades y nuestras enfermedades físicas y mentales. Por eso Él sabe cómo ayudarnos. Tener fe en Jesucristo significa confiar plenamente en Su sabiduría, en Sus tiempos, en Su amor y en Su poder para expiar nuestros pecados. La piedra de la fe en Jesucristo vencerá cualquier \u201cgigante\u201d que aparezca en nuestras vidas<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. Nosotros podemos vencer este mundo caído porque Él lo venció primero<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"159221586\" id=\"p22\">La número tres, la piedra del <em>conocimiento de mi verdadera identidad<\/em>. Nuestro querido profeta, el presidente Russell M. Nelson, nos enseñó cuáles son nuestras identidades más importantes: somos hijos de Dios, hijos del convenio y discípulos de Jesucristo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"159221593\" id=\"p23\">Todo cambia cuando realmente sé quién soy<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Muchas veces, en momentos en que dudo de mi propia capacidad me repito en la mente o en voz alta: \u201cSoy una hija de Dios, soy una hija de Dios\u201d todas las veces que necesito hasta que vuelvo a sentir confianza para seguir adelante.<\/p>\n<p data-aid=\"159221599\" id=\"p24\">La cuarta, es la piedra de <em>mi arrepentimiento diario<\/em>. En la guía <cite>Para la Fortaleza de la Juventud<\/cite> leemos: \u201cEl arrepentimiento no es un castigo por el pecado, es la manera en que el Salvador nos libera del pecado. Arrepentirse significa cambiar: alejarse del pecado y volvernos a Dios. Significa mejorar y recibir el perdón. Este tipo de cambio no ocurre de una sola vez, es un proceso continuo\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"159221606\" id=\"p25\">No hay nada más liberador que sentir el perdón de Dios y saber que estamos limpios, reconciliados con Él. El perdón es posible para todos.<\/p>\n<p data-aid=\"159221613\" id=\"p26\">La quinta piedra es la piedra de <em>mi acceso al poder de Dios<\/em>. Los convenios que hacemos con Dios, como por ejemplo los que hacemos en la ordenanza del bautismo, nos brindan acceso al poder de la divinidad<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. El poder de Dios es un poder real que nos ayuda a enfrentar nuestros desafíos, a tomar buenas decisiones y a aumentar nuestra capacidad para sobrellevar situaciones difíciles; es un poder con el cual podemos desarrollar las habilidades específicas que necesitamos<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"159221620\" id=\"p27\">En la guía <cite>Para la Fortaleza de la Juventud<\/cite> dice: \u201cLos convenios te <em>conectan<\/em> con el Padre Celestial y el Salvador, <em>incrementan el poder<\/em> de Dios en tu vida\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"159221627\" id=\"p28\">Hablemos de esa conexión. ¿Recuerdan cuando Cristo enseñó la diferencia entre una casa construida sobre la roca y otra sobre la arena?<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. El élder Dieter F. Uchtdorf explicó: \u201cUna casa no se mantiene en pie en medio de una tormenta porque la casa sea fuerte. Tampoco se mantiene en pie solamente porque la roca sea sólida. La casa se mantiene en pie en medio de la tormenta porque está firmemente sujeta a una roca sólida. Lo que importa es la solidez de la <em>conexión<\/em> con la roca\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<img alt=\"Una casa edificada sobre una roca.\" id=\"img3\" src=\"https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/500%2C/0/default\" data-img-id=\"4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9\" srcset=\"https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/640%2C/0/default 640w\" data-assetId=\"4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159221634\" id=\"p29\">Nuestra conexión personal con Jesucristo es lo que nos dará el valor y la confianza para tomar la decisión de seguir adelante cuando nos encontramos con personas que no respetan nuestras creencias o que se burlan de nosotros. Cristo nos invita a tenerlo en nuestros pensamientos constantemente; nos dice: \u201cMirad hacia mí <em>en todo<\/em> pensamiento\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Pensar en Cristo nos da claridad mental para tomar decisiones, para ir adelante sin miedo, para decir no a lo que es contrario a lo que Dios nos enseñó<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Cuando el día se me presenta muy difícil y me parece que ya no puedo más, pensar en Cristo me trae paz y me da esperanza.<\/p>\n<p data-aid=\"159221641\" id=\"p30\">¿Cómo podemos invocar este poder de Jesucristo? Obedecer nuestros convenios y aumentar nuestra fe en Jesucristo es clave.<\/p>\n<p data-aid=\"159221648\" id=\"p31\">La verdad es que me hubiera gustado que David tuviese una piedra más; esa sería la piedra de <i>mi testimonio<\/i>. Nuestro testimonio se va formando con las experiencias espirituales personales que vivimos, en donde percibimos la influencia divina en nuestra vida<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Nadie nos puede quitar ese conocimiento. Saber lo que sabemos por haber vivido las experiencias espirituales que vivimos, no tiene precio. Ser fieles a ese conocimiento nos da libertad. ¡Nos da gozo! Si amamos la verdad, la buscaremos, y una vez que la encontremos la defenderemos<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159221655\" id=\"title5\">Una invitación<\/h2>\n<\/header>\n<p data-aid=\"159221662\" id=\"p32\">Así como yo elegí una sexta piedra, los invito a reunirse con su clase, su cuórum o su familia, y a pensar en cuáles podrían ser otras fortalezas necesarias que tendríamos que adquirir para continuar fieles a Dios y así vencer al mundo.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159221669\" id=\"title6\">Una promesa<\/h2>\n<\/header>\n<p data-aid=\"159221676\" id=\"p33\">Queridos amigos, Cristo está deseoso de acompañarnos en el camino de nuestras vidas. Les prometo que, al caminar agarrados a la barra de hierro, caminarán de la mano de Jesucristo<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. <em>Él<\/em> los estará guiando y <em>Él<\/em> estará enseñándoles<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. De <em>Su<\/em> mano, podrán derribar cada uno de los \u201cGoliats\u201d que aparezcan en sus vidas.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159221683\" id=\"title7\">Testimonio<\/h2>\n<\/header>\n<p data-aid=\"159221689\" id=\"p34\">Les testifico que nos trae gozo orar todos los días, leer el Libro de Mormón todos los días, participar de la Santa Cena cada domingo e ir a Seminario, ¡aunque sea tempranito en las mañanas! Hacer lo bueno nos da gozo.<\/p>\n<p data-aid=\"159221696\" id=\"p35\">Nos da gozo ser fieles al Dios del universo, al Salvador del mundo, al Rey de reyes. Ser un discípulo de Jesucristo nos da gozo.<\/p>\n<p data-aid=\"159221703\" id=\"p36\">Dios es nuestro Padre. Él conoce los deseos de su corazón y también conoce sus posibilidades, y confía en ustedes.<\/p>\n<p data-aid=\"159221710\" id=\"p37\">Queridos jóvenes, Jesucristo los ayudará a ser fieles hasta el fin. De estas verdades les doy mi testimonio en el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159221717\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159221724\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=spa\">1 Samuel 17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159221738\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=spa&amp;id=p40%2C45-p49#p40\">1 Samuel 17:40, 45\u201349<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159221744\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36\">Mateo 22:36\u201338<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159221751\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p2#p2\">Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/a><\/cite>, 2022, pág. 11.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159221758\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p14#p11\">Alma 7:11\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159221765\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7?lang=spa&amp;id=p12#p12\">1 Nefi 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159221771\" id=\"note7_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 95\u201398.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159221779\" id=\"note8_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159221784\" id=\"note9_p1\">Véase el <a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=spa\">\u201cLema de las Mujeres Jóvenes<\/a>\u201d y el \u201c<a class=\"cross-ref\" href=\"/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=spa\">Lema de los cuórums del Sacerdocio Aarónico<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159221791\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/03-help?lang=spa&amp;id=p4#p4\">Para la Fortaleza de la Juventud<\/a><\/cite>, pág. 7.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159221798\" id=\"note11_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97\u2013100; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159221805\" id=\"note12_p1\">Véase <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=title_number16#title_number16\">3.5<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159224812\" id=\"note13_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/08-joy?lang=spa&amp;id=p2#p2\">Para la Fortaleza de la Juventud<\/a><\/cite>, pág. 34; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159224819\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14?lang=spa&amp;id=p24-p27#p24\">3 Nefi 14:24\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159224826\" id=\"note15_p1\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=spa\"><em>Para la Fortaleza de la Juventud:<\/em> El mensaje del Salvador para ti<\/a>\u201d, <cite>Para la Fortaleza de la Juventud<\/cite>, marzo de 2024, pág. 38.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159224833\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159224840\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p33-p34#p33\">Doctrina y Convenios 6:33\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159224847\" id=\"note18_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/testimony?lang=spa\">Testimonio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, pág. 26; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46#p46\">Alma 5:46<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159224854\" id=\"note19_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/07-truth?lang=spa&amp;id=p6#p6\">Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/a><\/cite>, pág. 32: \u201cAma la verdad, de tal manera, que nunca tengas deseos de robar, mentir, hacer trampa o engañar de ninguna forma: ni en la escuela, el trabajo, en línea, ni en ninguna parte. Sé el mismo seguidor fiel de Jesucristo en público y en privado\u201d.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159224861\" id=\"note20_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=spa&amp;id=p19%2C30#p19\">1 Nefi 8:19, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p24-p25#p24\">15:24\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p29-p30#p29\">Helamán 3:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159224867\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p13#p13\">3 Nefi 22:13<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159221566",
+        "id": "note4",
+        "text": "<p data-aid=\"159221751\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p2#p2\">Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/a><\/cite>, 2022, pág. 11.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p2#p2",
+          "text": "Para la Fortaleza de la Juventud: Una guía para tomar decisiones",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159221580",
+        "id": "note5",
+        "text": "<p data-aid=\"159221758\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p14#p11\">Alma 7:11\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p14#p11",
+          "text": "Alma 7:11\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159221507",
+        "id": "note2",
+        "text": "<p data-aid=\"159221738\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=spa&amp;id=p40%2C45-p49#p40\">1 Samuel 17:40, 45\u201349<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/17?lang=spa&amp;id=p40%2C45-p49#p40",
+          "text": "1 Samuel 17:40, 45\u201349",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159221566",
+        "id": "note3",
+        "text": "<p data-aid=\"159221744\" id=\"note3_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36\">Mateo 22:36\u201338<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36",
+          "text": "Mateo 22:36\u201338",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159221586",
+        "id": "note8",
+        "text": "<p data-aid=\"159221779\" id=\"note8_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159221593",
+        "id": "note9",
+        "text": "<p data-aid=\"159221784\" id=\"note9_p1\">Véase el <a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=spa\">\u201cLema de las Mujeres Jóvenes<\/a>\u201d y el \u201c<a class=\"cross-ref\" href=\"/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=spa\">Lema de los cuórums del Sacerdocio Aarónico<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/young-women-theme/young-women-theme?lang=spa",
+            "text": "\u201cLema de las Mujeres Jóvenes",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=spa",
+            "text": "Lema de los cuórums del Sacerdocio Aarónico",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159221580",
+        "id": "note6",
+        "text": "<p data-aid=\"159221765\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7?lang=spa&amp;id=p12#p12\">1 Nefi 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/7?lang=spa&amp;id=p12#p12",
+          "text": "1 Nefi 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159221580",
+        "id": "note7",
+        "text": "<p data-aid=\"159221771\" id=\"note7_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 95\u201398.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159221634",
+        "id": "note16",
+        "text": "<p data-aid=\"159224833\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36",
+          "text": "Doctrina y Convenios 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159221627",
+        "id": "note15",
+        "text": "<p data-aid=\"159224826\" id=\"note15_p1\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=spa\"><em>Para la Fortaleza de la Juventud:<\/em> El mensaje del Salvador para ti<\/a>\u201d, <cite>Para la Fortaleza de la Juventud<\/cite>, marzo de 2024, pág. 38.<\/p>",
+        "referenceUris": [{
+          "href": "/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=spa",
+          "text": "Para la Fortaleza de la Juventud: El mensaje del Salvador para ti",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159221627",
+        "id": "note14",
+        "text": "<p data-aid=\"159224819\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14?lang=spa&amp;id=p24-p27#p24\">3 Nefi 14:24\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14?lang=spa&amp;id=p24-p27#p24",
+          "text": "3 Nefi 14:24\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159221620",
+        "id": "note13",
+        "text": "<p data-aid=\"159224812\" id=\"note13_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/08-joy?lang=spa&amp;id=p2#p2\">Para la Fortaleza de la Juventud<\/a><\/cite>, pág. 34; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/08-joy?lang=spa&amp;id=p2#p2",
+          "text": "Para la Fortaleza de la Juventud",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159221613",
+        "id": "note12",
+        "text": "<p data-aid=\"159221805\" id=\"note12_p1\">Véase <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=title_number16#title_number16\">3.5<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=title_number16#title_number16",
+          "text": "3.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159221613",
+        "id": "note11",
+        "text": "<p data-aid=\"159221798\" id=\"note11_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97\u2013100; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2022/04/47nelson?lang=spa",
+            "text": "El poder del ímpetu espiritual",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19",
+            "text": "Doctrina y Convenios 84:19\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159221599",
+        "id": "note10",
+        "text": "<p data-aid=\"159221791\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/03-help?lang=spa&amp;id=p4#p4\">Para la Fortaleza de la Juventud<\/a><\/cite>, pág. 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/03-help?lang=spa&amp;id=p4#p4",
+          "text": "Para la Fortaleza de la Juventud",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159221676",
+        "id": "note21",
+        "text": "<p data-aid=\"159224867\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p13#p13\">3 Nefi 22:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p13#p13",
+          "text": "3 Nefi 22:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159221676",
+        "id": "note20",
+        "text": "<p data-aid=\"159224861\" id=\"note20_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=spa&amp;id=p19%2C30#p19\">1 Nefi 8:19, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p24-p25#p24\">15:24\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p29-p30#p29\">Helamán 3:29\u201330<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/8?lang=spa&amp;id=p19%2C30#p19",
+            "text": "1 Nefi 8:19, 30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p24-p25#p24",
+            "text": "15:24\u201325",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3?lang=spa&amp;id=p29-p30#p29",
+            "text": "Helamán 3:29\u201330",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159221486",
+        "id": "note1",
+        "text": "<p data-aid=\"159221724\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=spa\">1 Samuel 17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/17?lang=spa",
+          "text": "1 Samuel 17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159221648",
+        "id": "note19",
+        "text": "<p data-aid=\"159224854\" id=\"note19_p1\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/07-truth?lang=spa&amp;id=p6#p6\">Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/a><\/cite>, pág. 32: \u201cAma la verdad, de tal manera, que nunca tengas deseos de robar, mentir, hacer trampa o engañar de ninguna forma: ni en la escuela, el trabajo, en línea, ni en ninguna parte. Sé el mismo seguidor fiel de Jesucristo en público y en privado\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/07-truth?lang=spa&amp;id=p6#p6",
+          "text": "Para la Fortaleza de la Juventud: Una guía para tomar decisiones",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159221648",
+        "id": "note18",
+        "text": "<p data-aid=\"159224847\" id=\"note18_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/testimony?lang=spa\">Testimonio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, pág. 26; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46#p46\">Alma 5:46<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2008/04/testimony?lang=spa",
+            "text": "Testimonio",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46#p46",
+            "text": "Alma 5:46",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159221634",
+        "id": "note17",
+        "text": "<p data-aid=\"159224840\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p33-p34#p33\">Doctrina y Convenios 6:33\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p33-p34#p33",
+          "text": "Doctrina y Convenios 6:33\u201334",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

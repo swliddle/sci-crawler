@@ -1,0 +1,601 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/17gerard?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "def4b4d0071e4337af1d96b9fee49519",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/17gerard",
+      "data-aid": "159162722",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "def4b4d0071e4337af1d96b9fee49519"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/25/f2/25f2af459e04aeb775e5c8d6a51ea19f33d4724b/25f2af459e04aeb775e5c8d6a51ea19f33d4724b.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1070-jack-n-gerard-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Integrity: A Christlike Attribute",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159162722",
+      {"key": "159162722"}
+    ],
+    [
+      "159162725",
+      {"key": "159162725"}
+    ],
+    [
+      "159162728",
+      {"key": "159162728"}
+    ],
+    [
+      "159162730",
+      {"key": "159162730"}
+    ],
+    [
+      "159162733",
+      {"key": "159162733"}
+    ],
+    [
+      "159162735",
+      {"key": "159162735"}
+    ],
+    [
+      "159162737",
+      {"key": "159162737"}
+    ],
+    [
+      "159162740",
+      {"key": "159162740"}
+    ],
+    [
+      "159162743",
+      {"key": "159162743"}
+    ],
+    [
+      "159162746",
+      {"key": "159162746"}
+    ],
+    [
+      "159162749",
+      {"key": "159162749"}
+    ],
+    [
+      "159162752",
+      {"key": "159162752"}
+    ],
+    [
+      "159162757",
+      {"key": "159162757"}
+    ],
+    [
+      "159162759",
+      {"key": "159162759"}
+    ],
+    [
+      "159162763",
+      {"key": "159162763"}
+    ],
+    [
+      "159162765",
+      {"key": "159162765"}
+    ],
+    [
+      "159162768",
+      {"key": "159162768"}
+    ],
+    [
+      "159162771",
+      {"key": "159162771"}
+    ],
+    [
+      "159162774",
+      {"key": "159162774"}
+    ],
+    [
+      "159162777",
+      {"key": "159162777"}
+    ],
+    [
+      "159162780",
+      {"key": "159162780"}
+    ],
+    [
+      "159162783",
+      {"key": "159162783"}
+    ],
+    [
+      "159162786",
+      {"key": "159162786"}
+    ],
+    [
+      "159162788",
+      {"key": "159162788"}
+    ],
+    [
+      "159162796",
+      {"key": "159162796"}
+    ],
+    [
+      "159162798",
+      {"key": "159162798"}
+    ],
+    [
+      "159162801",
+      {"key": "159162801"}
+    ],
+    [
+      "159162804",
+      {"key": "159162804"}
+    ],
+    [
+      "159162808",
+      {"key": "159162808"}
+    ],
+    [
+      "159162813",
+      {"key": "159162813"}
+    ],
+    [
+      "159162817",
+      {"key": "159162817"}
+    ],
+    [
+      "159162822",
+      {"key": "159162822"}
+    ],
+    [
+      "159162825",
+      {"key": "159162825"}
+    ],
+    [
+      "159162831",
+      {"key": "159162831"}
+    ],
+    [
+      "159162835",
+      {"key": "159162835"}
+    ],
+    [
+      "159162836",
+      {"key": "159162836"}
+    ],
+    [
+      "159162841",
+      {"key": "159162841"}
+    ],
+    [
+      "159162844",
+      {"key": "159162844"}
+    ],
+    [
+      "159162849",
+      {"key": "159162849"}
+    ],
+    [
+      "159162851",
+      {"key": "159162851"}
+    ],
+    [
+      "159162856",
+      {"key": "159162856"}
+    ],
+    [
+      "159162860",
+      {"key": "159162860"}
+    ],
+    [
+      "159162864",
+      {"key": "159162864"}
+    ],
+    [
+      "159162868",
+      {"key": "159162868"}
+    ],
+    [
+      "159162872",
+      {"key": "159162872"}
+    ],
+    [
+      "159162876",
+      {"key": "159162876"}
+    ],
+    [
+      "159162880",
+      {"key": "159162880"}
+    ],
+    [
+      "159162882",
+      {"key": "159162882"}
+    ],
+    [
+      "159162885",
+      {"key": "159162885"}
+    ],
+    [
+      "159162888",
+      {"key": "159162888"}
+    ],
+    [
+      "159162895",
+      {"key": "159162895"}
+    ],
+    [
+      "159162899",
+      {"key": "159162899"}
+    ],
+    [
+      "159162901",
+      {"key": "159162901"}
+    ],
+    [
+      "159162903",
+      {"key": "159162903"}
+    ],
+    [
+      "159162905",
+      {"key": "159162905"}
+    ],
+    [
+      "159162910",
+      {"key": "159162910"}
+    ],
+    [
+      "159162911",
+      {"key": "159162911"}
+    ],
+    [
+      "159162913",
+      {"key": "159162913"}
+    ],
+    [
+      "159162915",
+      {"key": "159162915"}
+    ],
+    [
+      "159162919",
+      {"key": "159162919"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/17gerard",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Gerard teaches that living a life of integrity means being true to God, to each other, and to our divine identity.",
+          "title": "Integrity: A Christlike Attribute"
+        },
+        "pageSocial": {
+          "description": "Elder Gerard teaches that living a life of integrity means being true to God, to each other, and to our divine identity.",
+          "title": "Integrity: A Christlike Attribute"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/25/f2/25f2af459e04aeb775e5c8d6a51ea19f33d4724b/25f2af459e04aeb775e5c8d6a51ea19f33d4724b.jpeg\" data-video-title=\"Integrity: A Christlike Attribute\" data-video-description=\"Elder Gerard teaches that living a life of integrity means being true to God, to each other, and to our divine identity.\" data-video-id=\"6350419821112\" data-ip=\"Download and Streaming                            \" data-duration=\"684719\" data-assetId=\"4dbde950f44011ee9a78eeeeac1eb9e5be520383\" data-ref-id=\"68957057DFAD1E7572968FEB58725FBDB6FE4A37\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350419821112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352111163\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1070-jack-n-gerard-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"63537947\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1070-jack-n-gerard-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"164607946\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1070-jack-n-gerard-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352111163\"/><\/video><h1 data-aid=\"159162725\" id=\"title1\">Integrity: A Christlike Attribute<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159162728\" id=\"author1\">By Elder Jack N. Gerard<\/p>\n<p class=\"author-role\" data-aid=\"159162730\" id=\"author2\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159162733\" id=\"kicker1\">Living a life of integrity requires us to be true to God, to each other, and to our divine identity. <\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159162735\" id=\"p1\">In the closing hours of the Savior\u2019s ministry, He went to the Mount of Olives into a garden called Gethsemane and invited His disciples to wait.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> Now alone, He petitioned His Father, \u201cIf thou be willing, remove this cup from me.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Being in agony, His suffering caused Him, \u201ceven God, the greatest of all, to tremble because of pain, and to bleed at every pore, \u2026 and would that [He] might not drink the bitter cup, and shrink.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> Yet in the moment of deep despair, the Savior did not shrink \u201cbut partook and finished [His] preparations unto the children of men.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"159162737\" id=\"p2\">As the Only Begotten of the Father, Jesus Christ had power over death, pain, and suffering but did not shrink. He fulfilled the covenant He had made with His Father and, in doing so, manifested a Christlike attribute increasingly important in the world in which we live\u2014the attribute of integrity. He remained true to God, to each of us, and to His divine identity.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159162740\" id=\"title2\">Integrity<\/h2>\n<\/header>\n<p data-aid=\"159162743\" id=\"p3\">Jesus Christ is our Exemplar. Living a life of integrity requires us to be true to God, to each other, and to our divine identity. Integrity flows from the first great commandment to love God. Because you love God, you are true to Him at all times. You understand that there is right and wrong and there is absolute truth\u2014God\u2019s truth. Integrity means we do not lower our standards or behavior to impress or to be accepted by others.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> You \u201cdo what is right\u201d and \u201clet the consequence follow.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> Recent revisions to the <cite>Preach My Gospel<\/cite> missionary manual notably added integrity as a Christlike attribute.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"159162746\" id=\"p4\">A number of years ago, Elder Uchtdorf was assigned to reorganize our stake. During our interview, he asked me a question I have not forgotten: \u201cHas there been anything in your life that, if brought to the attention of the public, would be an embarrassment to you or the Church?\u201d Surprised, my mind quickly raced over my entire life, trying to recall those moments when I may have fallen short and asking myself, \u201cIf others knew everything I had done, what would they think of me or the Church?\u201d<\/p>\n<p data-aid=\"159162749\" id=\"p5\">In the moment, I thought Elder Uchtdorf was only asking about worthiness, but I\u2019ve come to understand it was really a question about integrity. Was I true to what I professed? Would the world see consistency between my words and my deeds? Would others see God through my conduct?<\/p>\n<p data-aid=\"159162752\" id=\"p6\">President Spencer W. Kimball taught, \u201cIntegrity\u201d is our \u201cwillingness and ability to live by our beliefs and commitments.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159162757\" id=\"title3\">True to God<\/h2>\n<\/header>\n<p data-aid=\"159162759\" id=\"p7\">A life of integrity requires us to first and foremost be true to God.<\/p>\n<p data-aid=\"159162763\" id=\"p8\">From our early childhood, we learned the story of Daniel in the lions\u2019 den. Daniel was always true to God. His jealous peers \u201csought to find occasion against [him]\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> and contrived a decree mandating prayers to their gods alone. Daniel knew of the decree but went home and\u2014with \u201chis windows being open\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>\u2014knelt and prayed three times a day to the God of Israel. As a result, Daniel was cast into the lions\u2019 den. On the morn, the king found Daniel\u2019s God had delivered him and issued a new decree that all should \u201ctremble and fear before the God of Daniel: for he is the living God.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"159162765\" id=\"p9\">The king came to know God through Daniel\u2019s integrity. Others see God through ours\u2014words and deeds. Just like Daniel, being true to God will increasingly set us apart from the world.<\/p>\n<p data-aid=\"159162768\" id=\"p10\">The Savior reminds us, \u201cIn the world ye shall have tribulation: but be of good cheer; I have overcome the world.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> President Russell M. Nelson counseled: \u201c[Overcoming the world] means overcoming the temptation to care more about the things of this world than the things of God. It means trusting the doctrine of Christ more than the philosophies of men.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Likewise, we must resist the temptation to walk \u201cin [our] own way, and after the image of [our] own god, whose image is in the likeness of the world.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a><\/p>\n<p data-aid=\"159162771\" id=\"p11\">The oppositional pull of this world is an essential part of God\u2019s plan of salvation. How we respond to the pull is the essence of who we are\u2014a measure of our integrity. The worldly pull can be as direct as to destroy fidelity in marriage or as subtle as posting anonymous comments critical of Church doctrine or culture. Exercising integrity in our choices is an outward expression of an inner commitment to follow the Savior Jesus Christ.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159162774\" id=\"title4\">True to Others<\/h2>\n<\/header>\n<p data-aid=\"159162777\" id=\"p12\">Just as integrity flows from the first great commandment to love God, being true to each other flows from the second, to love our neighbors as ourselves. A life of integrity is not a life of perfection; it is a life in which we strive every day to foremost be true to God and within that context to be true to others. President Oaks reminds us, \u201cOur zeal to keep [the] second commandment must not cause us to forget the first.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"159162780\" id=\"p13\">The world increasingly grapples with integrity by imposing codes of conduct or ethical rules that govern the relationships between people and institutions. While good, these rules are generally not anchored in absolute truth and tend to evolve based on cultural acceptance. Similar to the question posed by Elder Uchtdorf, some organizations train employees to consider what their decisions or decision-making process would look like if published online or on the front page of a major newspaper. As the Church comes out of obscurity and darkness,<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> we, like Daniel, must rise above the worldly expectations and become the face of the true and living God at all times and in all places.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"159162783\" id=\"p14\">Saying we have integrity is insufficient if our actions are inconsistent with our words. Likewise, Christian kindness is not a substitute for integrity. As a covenant people, and as leaders of His Church, we must be beyond reproach and aligned with the standards the Lord has set.<\/p>\n<p data-aid=\"159162786\" id=\"p15\">Acting with integrity builds faith and trust and reassures others that we seek only to do the will of the Lord. In our councils, we resist outside influences and follow the Lord\u2019s revealed process, seeking insights from each woman and man and acting consistent with the inspired counsel received.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a><\/p>\n<p data-aid=\"159162788\" id=\"p16\">Our focus is on the Savior, and we are careful to avoid actions that may be perceived as serving our own interests, benefiting our family, or favoring someone at the expense of another. We go out of our way to avoid any perception that our actions may be influenced by the honors of men,<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> to receive personal recognition, generate more likes, be quoted or published.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159162796\" id=\"title5\">True to Our Divine Identity<\/h2>\n<\/header>\n<p data-aid=\"159162798\" id=\"p17\">Finally, a life of integrity requires us to be true to our divine identity.<\/p>\n<p data-aid=\"159162801\" id=\"p18\">We know some who were not. Of particular significance is the anti-Christ Korihor, who led away the hearts of many, appealing to their \u201ccarnal mind.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> Yet, in the final moments of his life, he confessed, \u201cI always knew that there was a God.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> President Henry B. Eyring has taught that lying \u201cis contrary to the nature of our spirits,\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> our divine identity. Korihor deceived himself, and the truth was not in him.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"159162804\" id=\"p19\">In contrast, the Prophet Joseph Smith confidently proclaimed, \u201cI knew it, and I knew that God knew it, and I could not deny it.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"159162808\" id=\"p20\">Joseph\u2019s brother Hyrum was loved by the Lord \u201cbecause of the integrity of his heart.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> He and Joseph remained true to the end\u2014true to their divine identity, the light and knowledge they received, and true to the person they knew they could become.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159162813\" id=\"title6\">Conclusion<\/h2>\n<\/header>\n<p data-aid=\"159162817\" id=\"p21\">May we reconcile ourselves \u201cto the will of God\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> and develop the Christlike attribute of integrity. May we follow our Exemplar, the Savior of the world, and not shrink but live a life that is true to God, to each other, and to our divine identity.<\/p>\n<p data-aid=\"159162822\" id=\"p22\">As Job said, \u201cLet me be weighed in an even balance, that God may know mine integrity.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a> In the sacred name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159162825\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159162831\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=eng&amp;id=p30%2C36#p30\">Matthew 26:30, 36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p39-p41#p39\">Luke 22:39\u201341<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159162835\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42\">Luke 22:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159162836\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p18#p18\">Doctrine and Covenants 19:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159162841\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p19#p19\">Doctrine and Covenants 19:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159162844\" id=\"note5_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=p39#p39\">Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ<\/a><\/cite> (2023), 129.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159162849\" id=\"note6_p1\">\u201cDo What Is Right,\u201d <cite>Hymns<\/cite>, no. 237.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159162851\" id=\"note7_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=title17#title17\">Preach My Gospel<\/a><\/cite>, 128\u201329.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159162856\" id=\"note8_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-spencer-w-kimball/chapter-12?lang=eng&amp;id=p4#p4\">Teachings of Presidents of the Church: Spencer W. Kimball<\/a><\/cite> (2006), 126.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159162860\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p4#p4\">Daniel 6:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159162864\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p10#p10\">Daniel 6:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159162868\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p26#p26\">Daniel 6:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159162872\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159162876\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159162880\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p16#p16\">Doctrine and Covenants 1:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159162882\" id=\"note15_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/35oaks?lang=eng\"><em>Two<\/em> Great Commandments<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 73.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159162885\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p30#p30\">Doctrine and Covenants 1:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159162888\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9\">Mosiah 18:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159162895\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p2-p3#p2\">Doctrine and Covenants 42:2\u20133<\/a>; see also <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&amp;id=title12#title12\">4.3<\/a>, Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159162899\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p35#p35\">Doctrine and Covenants 121:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159162901\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p53#p53\">Alma 30:53<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159162903\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p52#p52\">Alma 30:52<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159162905\" id=\"note22_p1\">Henry B. Eyring, \u201c<a href=\"https://speeches.byu.edu/talks/henry-b-eyring/going-home\">Going Home<\/a>\u201d (Brigham Young University devotional, Nov. 18, 1986), 5, speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159162910\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1?lang=eng&amp;id=p8#p8\">1 John 1:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159162911\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p25#p25\">Joseph Smith\u2014History 1:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159162913\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124?lang=eng&amp;id=p15#p15\">Doctrine and Covenants 124:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159162915\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24\">2 Nephi 10:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"159162919\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/31?lang=eng&amp;id=p6#p6\">Job 31:6<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159162735",
+        "id": "note4",
+        "text": "<p data-aid=\"159162841\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p19#p19\">Doctrine and Covenants 19:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p19#p19",
+          "text": "Doctrine and Covenants 19:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159162743",
+        "id": "note5",
+        "text": "<p data-aid=\"159162844\" id=\"note5_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=p39#p39\">Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ<\/a><\/cite> (2023), 129.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=p39#p39",
+          "text": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159162735",
+        "id": "note2",
+        "text": "<p data-aid=\"159162835\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42\">Luke 22:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42",
+          "text": "Luke 22:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159162735",
+        "id": "note3",
+        "text": "<p data-aid=\"159162836\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p18#p18\">Doctrine and Covenants 19:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p18#p18",
+          "text": "Doctrine and Covenants 19:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159162752",
+        "id": "note8",
+        "text": "<p data-aid=\"159162856\" id=\"note8_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-spencer-w-kimball/chapter-12?lang=eng&amp;id=p4#p4\">Teachings of Presidents of the Church: Spencer W. Kimball<\/a><\/cite> (2006), 126.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-spencer-w-kimball/chapter-12?lang=eng&amp;id=p4#p4",
+          "text": "Teachings of Presidents of the Church: Spencer W. Kimball",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159162763",
+        "id": "note9",
+        "text": "<p data-aid=\"159162860\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p4#p4\">Daniel 6:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/6?lang=eng&amp;id=p4#p4",
+          "text": "Daniel 6:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159162743",
+        "id": "note6",
+        "text": "<p data-aid=\"159162849\" id=\"note6_p1\">\u201cDo What Is Right,\u201d <cite>Hymns<\/cite>, no. 237.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159162743",
+        "id": "note7",
+        "text": "<p data-aid=\"159162851\" id=\"note7_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=title17#title17\">Preach My Gospel<\/a><\/cite>, 128\u201329.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=title17#title17",
+          "text": "Preach My Gospel",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159162780",
+        "id": "note16",
+        "text": "<p data-aid=\"159162885\" id=\"note16_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p30#p30\">Doctrine and Covenants 1:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p30#p30",
+          "text": "Doctrine and Covenants 1:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159162777",
+        "id": "note15",
+        "text": "<p data-aid=\"159162882\" id=\"note15_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/35oaks?lang=eng\"><em>Two<\/em> Great Commandments<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 73.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/35oaks?lang=eng",
+          "text": "Two Great Commandments",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159162768",
+        "id": "note14",
+        "text": "<p data-aid=\"159162880\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p16#p16\">Doctrine and Covenants 1:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p16#p16",
+          "text": "Doctrine and Covenants 1:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159162768",
+        "id": "note13",
+        "text": "<p data-aid=\"159162876\" id=\"note13_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159162768",
+        "id": "note12",
+        "text": "<p data-aid=\"159162872\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33",
+          "text": "John 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159162763",
+        "id": "note11",
+        "text": "<p data-aid=\"159162868\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p26#p26\">Daniel 6:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/6?lang=eng&amp;id=p26#p26",
+          "text": "Daniel 6:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159162763",
+        "id": "note10",
+        "text": "<p data-aid=\"159162864\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/6?lang=eng&amp;id=p10#p10\">Daniel 6:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/6?lang=eng&amp;id=p10#p10",
+          "text": "Daniel 6:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159162788",
+        "id": "note19",
+        "text": "<p data-aid=\"159162899\" id=\"note19_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p35#p35\">Doctrine and Covenants 121:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p35#p35",
+          "text": "Doctrine and Covenants 121:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159162786",
+        "id": "note18",
+        "text": "<p data-aid=\"159162895\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p2-p3#p2\">Doctrine and Covenants 42:2\u20133<\/a>; see also <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&amp;id=title12#title12\">4.3<\/a>, Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p2-p3#p2",
+            "text": "Doctrine and Covenants 42:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&amp;id=title12#title12",
+            "text": "4.3",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159162780",
+        "id": "note17",
+        "text": "<p data-aid=\"159162888\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9\">Mosiah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9",
+          "text": "Mosiah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "159162822",
+        "id": "note27",
+        "text": "<p data-aid=\"159162919\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/31?lang=eng&amp;id=p6#p6\">Job 31:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/31?lang=eng&amp;id=p6#p6",
+          "text": "Job 31:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159162817",
+        "id": "note26",
+        "text": "<p data-aid=\"159162915\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24\">2 Nephi 10:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24",
+          "text": "2 Nephi 10:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159162808",
+        "id": "note25",
+        "text": "<p data-aid=\"159162913\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124?lang=eng&amp;id=p15#p15\">Doctrine and Covenants 124:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/124?lang=eng&amp;id=p15#p15",
+          "text": "Doctrine and Covenants 124:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159162804",
+        "id": "note24",
+        "text": "<p data-aid=\"159162911\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p25#p25\">Joseph Smith\u2014History 1:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p25#p25",
+          "text": "Joseph Smith\u2014History 1:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159162801",
+        "id": "note23",
+        "text": "<p data-aid=\"159162910\" id=\"note23_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/1?lang=eng&amp;id=p8#p8\">1 John 1:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-jn/1?lang=eng&amp;id=p8#p8",
+          "text": "1 John 1:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159162801",
+        "id": "note22",
+        "text": "<p data-aid=\"159162905\" id=\"note22_p1\">Henry B. Eyring, \u201c<a href=\"https://speeches.byu.edu/talks/henry-b-eyring/going-home\">Going Home<\/a>\u201d (Brigham Young University devotional, Nov. 18, 1986), 5, speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/henry-b-eyring/going-home",
+          "text": "Going Home"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159162801",
+        "id": "note21",
+        "text": "<p data-aid=\"159162903\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p52#p52\">Alma 30:52<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p52#p52",
+          "text": "Alma 30:52",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159162801",
+        "id": "note20",
+        "text": "<p data-aid=\"159162901\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p53#p53\">Alma 30:53<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p53#p53",
+          "text": "Alma 30:53",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159162735",
+        "id": "note1",
+        "text": "<p data-aid=\"159162831\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=eng&amp;id=p30%2C36#p30\">Matthew 26:30, 36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p39-p41#p39\">Luke 22:39\u201341<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/26?lang=eng&amp;id=p30%2C36#p30",
+            "text": "Matthew 26:30, 36",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/22?lang=eng&amp;id=p39-p41#p39",
+            "text": "Luke 22:39\u201341",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

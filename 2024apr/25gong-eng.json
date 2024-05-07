@@ -1,0 +1,686 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/25gong?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "68f0d7ebc3f742c1b4c1624515f06589",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/25gong",
+      "data-aid": "159162932",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "68f0d7ebc3f742c1b4c1624515f06589"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/07/0a/070a7e14deae2394140bf5c6408aba3deb0c191c/070a7e14deae2394140bf5c6408aba3deb0c191c.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2050-gerrit-w-gong-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "All Things for Our Good",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159162932",
+      {"key": "159162932"}
+    ],
+    [
+      "159162941",
+      {"key": "159162941"}
+    ],
+    [
+      "159162948",
+      {"key": "159162948"}
+    ],
+    [
+      "159162952",
+      {"key": "159162952"}
+    ],
+    [
+      "159162956",
+      {"key": "159162956"}
+    ],
+    [
+      "159162961",
+      {"key": "159162961"}
+    ],
+    [
+      "159162972",
+      {"key": "159162972"}
+    ],
+    [
+      "159162978",
+      {"key": "159162978"}
+    ],
+    [
+      "159162984",
+      {"key": "159162984"}
+    ],
+    [
+      "159162990",
+      {"key": "159162990"}
+    ],
+    [
+      "159162996",
+      {"key": "159162996"}
+    ],
+    [
+      "159163002",
+      {"key": "159163002"}
+    ],
+    [
+      "159163007",
+      {"key": "159163007"}
+    ],
+    [
+      "159163012",
+      {"key": "159163012"}
+    ],
+    [
+      "159163019",
+      {"key": "159163019"}
+    ],
+    [
+      "159163024",
+      {"key": "159163024"}
+    ],
+    [
+      "159163028",
+      {"key": "159163028"}
+    ],
+    [
+      "159163034",
+      {"key": "159163034"}
+    ],
+    [
+      "159163040",
+      {"key": "159163040"}
+    ],
+    [
+      "159163045",
+      {"key": "159163045"}
+    ],
+    [
+      "159163051",
+      {"key": "159163051"}
+    ],
+    [
+      "159163055",
+      {"key": "159163055"}
+    ],
+    [
+      "159163060",
+      {"key": "159163060"}
+    ],
+    [
+      "159163066",
+      {"key": "159163066"}
+    ],
+    [
+      "159163075",
+      {"key": "159163075"}
+    ],
+    [
+      "159163081",
+      {"key": "159163081"}
+    ],
+    [
+      "159163086",
+      {"key": "159163086"}
+    ],
+    [
+      "159163093",
+      {"key": "159163093"}
+    ],
+    [
+      "159163098",
+      {"key": "159163098"}
+    ],
+    [
+      "159163102",
+      {"key": "159163102"}
+    ],
+    [
+      "159163107",
+      {"key": "159163107"}
+    ],
+    [
+      "159163112",
+      {"key": "159163112"}
+    ],
+    [
+      "159163117",
+      {"key": "159163117"}
+    ],
+    [
+      "159163121",
+      {"key": "159163121"}
+    ],
+    [
+      "159163125",
+      {"key": "159163125"}
+    ],
+    [
+      "159163130",
+      {"key": "159163130"}
+    ],
+    [
+      "159163135",
+      {"key": "159163135"}
+    ],
+    [
+      "159163140",
+      {"key": "159163140"}
+    ],
+    [
+      "159163146",
+      {"key": "159163146"}
+    ],
+    [
+      "159163152",
+      {"key": "159163152"}
+    ],
+    [
+      "159163159",
+      {"key": "159163159"}
+    ],
+    [
+      "159163165",
+      {"key": "159163165"}
+    ],
+    [
+      "159163172",
+      {"key": "159163172"}
+    ],
+    [
+      "159163179",
+      {"key": "159163179"}
+    ],
+    [
+      "159163186",
+      {"key": "159163186"}
+    ],
+    [
+      "159163192",
+      {"key": "159163192"}
+    ],
+    [
+      "159163199",
+      {"key": "159163199"}
+    ],
+    [
+      "159163204",
+      {"key": "159163204"}
+    ],
+    [
+      "159163211",
+      {"key": "159163211"}
+    ],
+    [
+      "159163218",
+      {"key": "159163218"}
+    ],
+    [
+      "159163225",
+      {"key": "159163225"}
+    ],
+    [
+      "159163230",
+      {"key": "159163230"}
+    ],
+    [
+      "159163237",
+      {"key": "159163237"}
+    ],
+    [
+      "159163240",
+      {"key": "159163240"}
+    ],
+    [
+      "159163248",
+      {"key": "159163248"}
+    ],
+    [
+      "159163254",
+      {"key": "159163254"}
+    ],
+    [
+      "159163261",
+      {"key": "159163261"}
+    ],
+    [
+      "159163268",
+      {"key": "159163268"}
+    ],
+    [
+      "159163274",
+      {"key": "159163274"}
+    ],
+    [
+      "159163280",
+      {"key": "159163280"}
+    ],
+    [
+      "159163286",
+      {"key": "159163286"}
+    ],
+    [
+      "159163292",
+      {"key": "159163292"}
+    ],
+    [
+      "159163295",
+      {"key": "159163295"}
+    ],
+    [
+      "159163304",
+      {"key": "159163304"}
+    ],
+    [
+      "159163306",
+      {"key": "159163306"}
+    ],
+    [
+      "159163313",
+      {"key": "159163313"}
+    ],
+    [
+      "159163317",
+      {"key": "159163317"}
+    ],
+    [
+      "159163322",
+      {"key": "159163322"}
+    ],
+    [
+      "159163327",
+      {"key": "159163327"}
+    ],
+    [
+      "159163334",
+      {"key": "159163334"}
+    ],
+    [
+      "159163339",
+      {"key": "159163339"}
+    ],
+    [
+      "159163346",
+      {"key": "159163346"}
+    ],
+    [
+      "159163352",
+      {"key": "159163352"}
+    ],
+    [
+      "159163359",
+      {"key": "159163359"}
+    ],
+    [
+      "159163366",
+      {"key": "159163366"}
+    ],
+    [
+      "159163374",
+      {"key": "159163374"}
+    ],
+    [
+      "159163381",
+      {"key": "159163381"}
+    ],
+    [
+      "159163388",
+      {"key": "159163388"}
+    ],
+    [
+      "159163403",
+      {"key": "159163403"}
+    ],
+    [
+      "159163412",
+      {"key": "159163412"}
+    ],
+    [
+      "159163420",
+      {"key": "159163420"}
+    ],
+    [
+      "159163429",
+      {"key": "159163429"}
+    ],
+    [
+      "159163438",
+      {"key": "159163438"}
+    ],
+    [
+      "159163446",
+      {"key": "159163446"}
+    ],
+    [
+      "159163456",
+      {"key": "159163456"}
+    ],
+    [
+      "159163464",
+      {"key": "159163464"}
+    ],
+    [
+      "159163472",
+      {"key": "159163472"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/25gong",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Gong offers reassurance that in our Heavenly Father\u2019s plan, even tragedies and other difficult trials can be for our good. ",
+          "title": "All Things for Our Good"
+        },
+        "pageSocial": {
+          "description": "Elder Gong offers reassurance that in our Heavenly Father\u2019s plan, even tragedies and other difficult trials can be for our good. ",
+          "title": "All Things for Our Good"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/07/0a/070a7e14deae2394140bf5c6408aba3deb0c191c/070a7e14deae2394140bf5c6408aba3deb0c191c.jpeg\" data-video-title=\"All Things for Our Good\" data-video-description=\"Elder Gong offers reassurance that in our Heavenly Father\u2019s plan, even tragedies and other difficult trials can be for our good.\" data-video-id=\"6350431028112\" data-ip=\"Download and Streaming                            \" data-duration=\"853621\" data-assetId=\"bee783eff46211ee8652eeeeac1e0c794f195d84\" data-ref-id=\"A5FD71BD1FACE260F59B65FAB85A700EEFF5E291\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350431028112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"439182415\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2050-gerrit-w-gong-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"79009433\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2050-gerrit-w-gong-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"205398215\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2050-gerrit-w-gong-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"439182415\"/><\/video><h1 data-aid=\"159162941\" id=\"title1\">All Things for Our Good<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159162948\" id=\"author1\">By Elder Gerrit W. Gong<\/p>\n<p class=\"author-role\" data-aid=\"159162952\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159162956\" id=\"kicker1\">In time and eternity, the purpose of Creation and the nature of God Himself are to bring all things together for our good.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159162961\" id=\"p1\">Today is April 6, the anniversary of Jesus Christ restoring His latter-day Church\u2014and part of the Easter season, when we joyfully testify of Jesus Christ\u2019s perfect life, atoning sacrifice, and glorious Resurrection.<\/p>\n<p data-aid=\"159162972\" id=\"p2\">A Chinese story begins as a man\u2019s son finds a beautiful horse.<\/p>\n<p data-aid=\"159162978\" id=\"p3\">\u201cHow fortunate,\u201d the neighbors say.<\/p>\n<p data-aid=\"159162984\" id=\"p4\">\u201cWe\u2019ll see,\u201d says the man.<\/p>\n<p data-aid=\"159162990\" id=\"p5\">Then the son falls off the horse and is permanently injured.<\/p>\n<p data-aid=\"159162996\" id=\"p6\">\u201cHow unfortunate,\u201d the neighbors say.<\/p>\n<p data-aid=\"159163002\" id=\"p7\">\u201cWe\u2019ll see,\u201d says the man.<\/p>\n<p data-aid=\"159163007\" id=\"p8\">A conscripting army comes but doesn\u2019t take the injured son.<\/p>\n<p data-aid=\"159163012\" id=\"p9\">\u201cHow fortunate,\u201d the neighbors say.<\/p>\n<p data-aid=\"159163019\" id=\"p10\">\u201cWe\u2019ll see,\u201d says the man.<\/p>\n<p data-aid=\"159163024\" id=\"p11\">This fickle world often feels tempest tossed, uncertain, sometimes fortunate, and\u2014too often\u2014unfortunate. Yet, in this world of tribulation,<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> \u201cwe know that all things work together for good to them that love God.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a> Indeed, as we walk uprightly and remember our covenants, \u201call things shall work together for your good.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"159163028\" id=\"p12\">All things for our good.<\/p>\n<p data-aid=\"159163034\" id=\"p13\">A remarkable promise! Comforting assurance from God Himself! In a miraculous way, the purpose of Creation and the nature of God are to know beginning and end,<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> to bring about all that is for our good, and to help us become sanctified and holy through Jesus Christ\u2019s grace and Atonement.<\/p>\n<p data-aid=\"159163040\" id=\"p14\">Jesus Christ\u2019s Atonement can deliver and redeem us from sin. But Jesus Christ also intimately understands our every pain, affliction, sickness,<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> sorrow, separation. In time and eternity, His triumph over death and hell can make all things right.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> He helps heal the broken and disparaged, reconcile the angry and divided, comfort the lonely and isolated, encourage the uncertain and imperfect, and bring forth miracles possible only with God.<\/p>\n<p data-aid=\"159163045\" id=\"p15\">We sing hallelujah and shout hosanna! With eternal power and infinite goodness, in God\u2019s plan of happiness all things can work together for our good. We can face life with confidence and not fear.<\/p>\n<p data-aid=\"159163051\" id=\"p16\">Left on our own, we may not know our own good. When \u201cI choose me,\u201d I am also choosing my own limitations, weaknesses, inadequacies. Ultimately, to do the most good, we must be good.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> Since none save God is good,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> we seek perfection in Jesus Christ.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> We become our truest, best selves only as we put off the natural man or woman and become a child before God.<\/p>\n<p data-aid=\"159163055\" id=\"p17\">With our trust and faith in God, trials and afflictions can be consecrated for our good. Joseph, sold into slavery in Egypt, later saved his family and people. The Prophet Joseph Smith\u2019s incarceration in Liberty Jail taught him \u201cthese things shall give thee experience, and shall be for thy good.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> Lived with faith, trials and sacrifices we would never choose can bless us and others in ways never imagined.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"159163060\" id=\"p18\">We increase faith and trust in the Lord that all things can work together for our good as we gain eternal perspective;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> understand our trials may be \u201cbut for a small moment\u201d;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> recognize affliction can be consecrated for our gain;<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> acknowledge accidents, untimely death, debilitating illness, and disease are part of mortality; and trust loving Heavenly Father does not give trials to punish or judge. He would not give a stone to someone asking for bread nor a serpent to one asking for a fish.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"159163066\" id=\"p19\">When trials come, often what we most want is for someone to listen and be with us.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> In the moment, cliché answers can be unhelpful, however comforting their intent. Sometimes we yearn for someone who will grieve, ache, and weep with us; let us express pain, frustration, sometimes even anger; and acknowledge with us there are things we do not know.<\/p>\n<p data-aid=\"159163075\" id=\"p20\">When we trust God and His love for us, even our greatest heartbreaks can, in the end, work together for our good.<\/p>\n<p data-aid=\"159163081\" id=\"p21\">I remember the day I received word of a serious car accident which involved those I love. At such times, in anguish and faith, we can only say with Job, \u201cThe Lord gave, and the Lord hath taken away; blessed be the name of the Lord.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/p>\n<p data-aid=\"159163086\" id=\"p22\">Across the worldwide Church, some 3,500 stakes and districts and some 30,000 wards and branches provide refuge and safety.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> But within our stakes and wards, many faithful families and individuals confront difficult challenges, even while knowing that (without yet knowing how) things will work together for our good.<\/p>\n<p data-aid=\"159163093\" id=\"p23\">In Huddersfield, England, Brother Samuel Bridgstock was diagnosed with stage-four cancer shortly before the calling of a new stake president. Given his dire diagnosis, he asked his wife, Anna, why he would even go to be interviewed.<\/p>\n<p data-aid=\"159163098\" id=\"p24\">\u201cBecause,\u201d Sister Bridgstock said, \u201cyou\u2019re going to be called as stake president.\u201d<\/p>\n<img alt=\"Bridgstock family.\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/500%2C/0/default\" data-img-id=\"3873be9df38a11eeabf1eeeeac1e392d02d15c32\" srcset=\"https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/3873be9df38a11eeabf1eeeeac1e392d02d15c32/full/640%2C/0/default 640w\" data-assetId=\"3873be9df38a11eeabf1eeeeac1e392d02d15c32\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"374\" data-aspect-ratio=\"1.3368983957219251\"/>\n<p data-aid=\"159163102\" id=\"p25\">Initially given a year or two to live, President Bridgstock (who is here today) is now in his fourth year of service. He has good and hard days. His stake is rallying with increased faith, service, and kindness. It is not easy, but his wife and family live with faith, gratitude, and understandable sadness they trust will become eternal joy through Jesus Christ\u2019s restoring Atonement.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"159163107\" id=\"p26\">When we are still, open, and reverent, we may feel the beauty, purpose, and serenity of the covenant belonging the Lord offers. In sacred moments, He may let us glimpse the larger eternal reality of which our daily lives are part, where small and simple things work together for the good of givers and receivers.<\/p>\n<p data-aid=\"159163112\" id=\"p27\">Rebekah, the daughter of my first mission president, shared how the Lord answered her prayer for comfort with an unexpected opportunity to answer someone else\u2019s prayer.<\/p>\n<img alt=\"Rebekah gave the woman her mother\u2019s oxygen machine.\" id=\"img2\" src=\"https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/500%2C/0/default\" data-img-id=\"39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe\" srcset=\"https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe/full/640%2C/0/default 640w\" data-assetId=\"39266ccdf38a11eeb6b4eeeeac1e59cab8e34afe\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159163117\" id=\"p28\">Late one evening, Rebekah, grieving her mother\u2019s recent passing, had a clear impression to go buy gas for her car. When she arrived at the station, she met an elderly woman struggling to breathe with a large oxygen tank. Later, Rebekah was able to give the woman her mother\u2019s portable oxygen machine. This sister gratefully said, \u201cYou\u2019ve given me back my freedom.\u201d Things work together for good when we minister as Jesus Christ would.<\/p>\n<p data-aid=\"159163121\" id=\"p29\">A father assigned with his teacher-age son as ministering companions explained, \u201cMinistering is when we go from being neighbors who bring cookies to trusted friends, spiritual first responders.\u201d Covenant belonging in Jesus Christ comforts, connects, consecrates.<\/p>\n<p data-aid=\"159163125\" id=\"p30\">Even in tragedy, spiritual preparation may remind us Heavenly Father knew when we felt most vulnerable and alone. For example, a family whose child was taken to the hospital later found comfort in remembering the Holy Ghost had whispered in advance what to expect.<\/p>\n<p data-aid=\"159163130\" id=\"p31\">Sometimes the larger eternal reality the Lord lets us feel includes family across the veil. A sister found joy in conversion to Jesus Christ\u2019s restored gospel. Yet two traumas had deeply impacted her life\u2014seeing a boating accident and tragically losing her mother, who had taken her own life.<\/p>\n<img alt=\"Sister overcame her fear and was baptized.\" id=\"img3\" src=\"https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/500%2C/0/default\" data-img-id=\"35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816\" srcset=\"https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816/full/640%2C/0/default 640w\" data-assetId=\"35c9fb66f38a11ee99b2eeeeac1ebab3ccf30816\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"374\" data-aspect-ratio=\"1.3368983957219251\"/>\n<p data-aid=\"159163135\" id=\"p32\">Yet this sister overcame her fear of water enough to be baptized by immersion. And on what became a very happy day, she witnessed someone, acting as proxy for her deceased mother, be baptized in the temple. \u201cTemple baptism healed my mother, and it freed me,\u201d the sister said. \u201cIt was the first time I felt peace since my mother died.\u201d<\/p>\n<p data-aid=\"159163140\" id=\"p33\">Our sacred music echoes His assurance that all things can work together for our good.<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"159163146\" id=\"p34\">Be still, my soul: Thy God doth undertake<\/p>\n<p class=\"line\" data-aid=\"159163152\" id=\"p35\">To guide the future as he has the past.<\/p>\n<p class=\"line\" data-aid=\"159163159\" id=\"p36\">Thy hope, thy confidence let nothing shake;<\/p>\n<p class=\"line\" data-aid=\"159163165\" id=\"p37\">All now mysterious shall be bright at last.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<\/div>\n<\/div>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"159163172\" id=\"p38\">Come, come, ye Saints, no toil nor labor fear;<\/p>\n<p class=\"line\" data-aid=\"159163179\" id=\"p39\">But with joy wend your way.<\/p>\n<p class=\"line\" data-aid=\"159163186\" id=\"p40\">Though hard to you this journey may appear,<\/p>\n<p class=\"line\" data-aid=\"159163192\" id=\"p41\">Grace shall be as your day. \u2026<\/p>\n<p class=\"line\" data-aid=\"159163199\" id=\"p42\">And should we die before our journey\u2019s through,<\/p>\n<p class=\"line\" data-aid=\"159163204\" id=\"p43\">Happy day! All is well!<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<\/div>\n<\/div>\n<p data-aid=\"159163211\" id=\"p44\">The Book of Mormon is evidence we can hold in our hand that Jesus is the Christ and God fulfills His prophecies. Written by inspired prophets who saw our day, the Book of Mormon begins with raw drama\u2014a family dealing with deep differences. Yet, as we study and ponder 1 Nephi 1 through to Moroni 10, we are drawn to Jesus Christ with a firm testimony that what happened there and then can bless us here and now.<\/p>\n<p data-aid=\"159163218\" id=\"p45\">As the Lord, through His living prophet, brings more houses of the Lord closer in more places, temple blessings work together for our good. We come by covenant and ordinance to God our Father and Jesus Christ and gain eternal perspective on mortality. One by one, name by name, we offer beloved family members\u2014ancestors\u2014sacred ordinances and covenant blessings in the Lord\u2019s pattern of saviors on Mount Zion.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/p>\n<p data-aid=\"159163225\" id=\"p46\">As temples come closer to us in many places, a temple sacrifice we can offer is to seek holiness in the house of the Lord more frequently. For many years, we have saved, planned, and sacrificed to come to the temple. Now, as circumstances permit, please come even more often to the Lord in His holy house. Let regular temple worship and service bless, protect, and inspire you and your family\u2014the family you have or the family you will have and become someday.<\/p>\n<img alt=\"Grandmother outside the temple.\" id=\"img4\" src=\"https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/500%2C/0/default\" data-img-id=\"70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed\" srcset=\"https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed/full/640%2C/0/default 640w\" data-assetId=\"70f0a6ccf38a11ee94ddeeeeac1edf971b7c49ed\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"374\" data-aspect-ratio=\"1.3368983957219251\"/>\n<p data-aid=\"159163230\" id=\"p47\">Also, where your circumstances permit, please consider the blessing of owning your own temple clothes.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a> A grandmother from a humble family said of anything in the world, what she most wanted were her own temple clothes. Her grandson said, \u201cGrandma whispered, \u2018I will serve in my own temple clothes, and after I die, I will be buried in them.\u2019\u201d And when the time came, she was.<\/p>\n<p data-aid=\"159163237\" id=\"p48\">As President Russell M. Nelson teaches, \u201c<em>Everything<\/em> we believe and <em>every<\/em> promise God has made to His covenant people come together in the temple.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a><\/p>\n<p data-aid=\"159163240\" id=\"p49\">In time and eternity, the purpose of Creation and the nature of God Himself are to bring all things together for our good.<\/p>\n<p data-aid=\"159163248\" id=\"p50\">This is the Lord\u2019s eternal purpose. It is His eternal perspective. It is His eternal promise.<\/p>\n<p data-aid=\"159163254\" id=\"p51\">When life is cluttered and purpose isn\u2019t clear, when you want to live better but don\u2019t know how, please come to God our Father and Jesus Christ. Trust They live, love you, and want all things for your good. I testify They do, infinitely and eternally, in the sacred and holy name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159163261\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159163268\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159163274\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p28#p28\">Romans 8:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159163280\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90?lang=eng&amp;id=p24#p24\">Doctrine and Covenants 90:24<\/a>. The popular phrase \u201cIt\u2019s all good\u201d often implies things are OK and in order, without necessarily meaning they are actually for our good.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159163286\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3#p3\">Moses 1:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159163292\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11#p11\">Alma 7:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159163295\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p10-p12#p10\">2 Nephi 9:10\u201312<\/a>. God respects moral agency, sometimes allowing even the unrighteous acts of others to affect us. But as we willingly seek to do all we can, Jesus Christ\u2019s grace and His enabling and atoning power can cleanse, heal, bind up, reconcile us with ourselves and each other, on both sides of the veil.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159163304\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p6%2C10-p12#p6\">Moroni 7:6, 10\u201312<\/a>. Professor Terry Warner writes perceptively on this topic.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159163306\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/3?lang=eng&amp;id=p10#p10\">Romans 3:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p25#p25\">Moroni 10:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159163313\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159163317\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4%2C7#p4\">Doctrine and Covenants 122:4, 7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159163322\" id=\"note11_p1\">We learn by experiences we would never choose. Sometimes bearing burdens with the Lord\u2019s help can increase our capacity to bear those burdens; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p10-p15#p10\">Mosiah 24:10\u201315<\/a> illustrates the Lord\u2019s promise to \u201cvisit my people in their afflictions\u201d and to \u201cstrengthen them that they could bear up their burdens.\u201d <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=eng&amp;id=p23#p23\">Alma 33:23<\/a> teaches that our \u201cburdens may be light, through the joy of his Son.\u201d <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8\">Mosiah 18:8<\/a> reminds us that when we are \u201cwilling to bear one another\u2019s burdens \u2026 they may be light.\u201d<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159163327\" id=\"note12_p1\">The prophet Isaiah speaks of the Messiah: \u201cThe Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, \u2026 to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=eng&amp;id=p1-p3#p1\">Isaiah 61:1\u20133<\/a>). Likewise, the psalmist offers the Lord\u2019s promised perspective: \u201cWeeping may endure for a night, but joy cometh in the morning\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/30?lang=eng&amp;id=p5#p5\">Psalm 30:5<\/a>). This includes the glorious promises for the righteous on the morning of the First Resurrection.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159163334\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4#p4\">Doctrine and Covenants 122:4<\/a>. Believing trials may be for what is in eternity a \u201csmall moment\u201d does not mean to downplay or make less trying or challenging the agonizing pain or suffering we may experience day after day in this life, the unbearable sleepless nights, or the excruciating uncertainties of each new day. Perhaps the promise of being able to look back and see our mortal suffering in light of God\u2019s compassion and eternal view adds some perspective to our understanding of mortality and our hope to endure with faith and trust in Him to the end. Also, when we have eyes to see, there is often good in the now; we need not necessarily wait for a future time to see good.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159163339\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p2#p2\">2 Nephi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159163346\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p9-p10#p9\">Matthew 7:9\u201310<\/a>. Letting God prevail in our lives is not passively to accept whatever comes. It is actively to believe that Heavenly Father and our Savior, Jesus Christ, want only and always what is best for us. When tragedy strikes, we can ask with faith, not \u201cWhy me?\u201d but \u201cWhat can I learn?\u201d And we can mourn with broken hearts and contrite spirits, knowing, in His time and way, compensating blessings and opportunities will come.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159163352\" id=\"note16_p1\">We have covenanted to mourn with those who mourn and comfort those who stand in need of comfort (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9\">Mosiah 18:9<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159163359\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/1?lang=eng&amp;id=p21#p21\">Job 1:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159163366\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p6#p6\">Doctrine and Covenants 115:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159163374\" id=\"note19_p1\">Faith in the face of difficulty is the opposite of the existential anguish and despair the Book of Mormon describes of those who \u201ccurse God, and wish to die\u201d but who \u201cnevertheless \u2026 would struggle with the sword for their lives\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/2?lang=eng&amp;id=p14#p14\">Mormon 2:14<\/a>).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159163381\" id=\"note20_p1\">\u201cBe Still, My Soul,\u201d <cite>Hymns<\/cite>, no. 124.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159163388\" id=\"note21_p1\">\u201cCome, Come, Ye Saints,\u201d <cite>Hymns<\/cite>, no. 30. Consider also:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"159163403\" id=\"note21_p2\">How great the wisdom and the love. \u2026<\/p>\n<p class=\"line\" data-aid=\"159163412\" id=\"note21_p3\">Redemption\u2019s grand design,<\/p>\n<p class=\"line\" data-aid=\"159163420\" id=\"note21_p4\">Where justice, love, and mercy meet<\/p>\n<p class=\"line\" data-aid=\"159163429\" id=\"note21_p5\">In harmony divine!<\/p>\n<p class=\"line\" data-aid=\"159163438\" id=\"note21_p7\">(\u201cHow Great the Wisdom and the Love,\u201d <cite>Hymns<\/cite>, no. 195.)<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"159163446\" id=\"note21_p6\">Amid life\u2019s uncertainties, we know redemption\u2019s grand design will bring justice, love, and mercy together for our good.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159163456\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/obad/1?lang=eng&amp;id=p21#p21\">Obadiah 1:21<\/a>. The Prophet Joseph Smith taught: \u201cHow are they [the Latter-day Saints] to become saviors on Mount Zion? By building their temples, erecting their baptismal fonts, and going forth and receiving all the ordinances \u2026 in behalf of all their progenitors who are dead\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-41?lang=eng&amp;id=p18#p18\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> [2007], 473).<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159163464\" id=\"note23_p1\">Members attending the temple for the first time can purchase temple clothes at a significant discount.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159163472\" id=\"note24_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p14#p14\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 94.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159163034",
+        "id": "note4",
+        "text": "<p data-aid=\"159163286\" id=\"note4_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3#p3\">Moses 1:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3#p3",
+          "text": "Moses 1:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159163040",
+        "id": "note5",
+        "text": "<p data-aid=\"159163292\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11#p11\">Alma 7:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11#p11",
+          "text": "Alma 7:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159163024",
+        "id": "note2",
+        "text": "<p data-aid=\"159163274\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p28#p28\">Romans 8:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8?lang=eng&amp;id=p28#p28",
+          "text": "Romans 8:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159163024",
+        "id": "note3",
+        "text": "<p data-aid=\"159163280\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90?lang=eng&amp;id=p24#p24\">Doctrine and Covenants 90:24<\/a>. The popular phrase \u201cIt\u2019s all good\u201d often implies things are OK and in order, without necessarily meaning they are actually for our good.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/90?lang=eng&amp;id=p24#p24",
+          "text": "Doctrine and Covenants 90:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159163051",
+        "id": "note8",
+        "text": "<p data-aid=\"159163306\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/3?lang=eng&amp;id=p10#p10\">Romans 3:10<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p25#p25\">Moroni 10:25<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rom/3?lang=eng&amp;id=p10#p10",
+            "text": "Romans 3:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p25#p25",
+            "text": "Moroni 10:25",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159163051",
+        "id": "note9",
+        "text": "<p data-aid=\"159163313\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32",
+          "text": "Moroni 10:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159163040",
+        "id": "note6",
+        "text": "<p data-aid=\"159163295\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p10-p12#p10\">2 Nephi 9:10\u201312<\/a>. God respects moral agency, sometimes allowing even the unrighteous acts of others to affect us. But as we willingly seek to do all we can, Jesus Christ\u2019s grace and His enabling and atoning power can cleanse, heal, bind up, reconcile us with ourselves and each other, on both sides of the veil.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p10-p12#p10",
+          "text": "2 Nephi 9:10\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159163051",
+        "id": "note7",
+        "text": "<p data-aid=\"159163304\" id=\"note7_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p6%2C10-p12#p6\">Moroni 7:6, 10\u201312<\/a>. Professor Terry Warner writes perceptively on this topic.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p6%2C10-p12#p6",
+          "text": "Moroni 7:6, 10\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159163066",
+        "id": "note16",
+        "text": "<p data-aid=\"159163352\" id=\"note16_p1\">We have covenanted to mourn with those who mourn and comfort those who stand in need of comfort (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9\">Mosiah 18:9<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9",
+          "text": "Mosiah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159163060",
+        "id": "note15",
+        "text": "<p data-aid=\"159163346\" id=\"note15_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p9-p10#p9\">Matthew 7:9\u201310<\/a>. Letting God prevail in our lives is not passively to accept whatever comes. It is actively to believe that Heavenly Father and our Savior, Jesus Christ, want only and always what is best for us. When tragedy strikes, we can ask with faith, not \u201cWhy me?\u201d but \u201cWhat can I learn?\u201d And we can mourn with broken hearts and contrite spirits, knowing, in His time and way, compensating blessings and opportunities will come.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7?lang=eng&amp;id=p9-p10#p9",
+          "text": "Matthew 7:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159163060",
+        "id": "note14",
+        "text": "<p data-aid=\"159163339\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p2#p2\">2 Nephi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p2#p2",
+          "text": "2 Nephi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159163060",
+        "id": "note13",
+        "text": "<p data-aid=\"159163334\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4#p4\">Doctrine and Covenants 122:4<\/a>. Believing trials may be for what is in eternity a \u201csmall moment\u201d does not mean to downplay or make less trying or challenging the agonizing pain or suffering we may experience day after day in this life, the unbearable sleepless nights, or the excruciating uncertainties of each new day. Perhaps the promise of being able to look back and see our mortal suffering in light of God\u2019s compassion and eternal view adds some perspective to our understanding of mortality and our hope to endure with faith and trust in Him to the end. Also, when we have eyes to see, there is often good in the now; we need not necessarily wait for a future time to see good.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4#p4",
+          "text": "Doctrine and Covenants 122:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159163237",
+        "id": "note24",
+        "text": "<p data-aid=\"159163472\" id=\"note24_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p14#p14\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 94.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p14#p14",
+          "text": "The Temple and Your Spiritual Foundation",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159163060",
+        "id": "note12",
+        "text": "<p data-aid=\"159163327\" id=\"note12_p1\">The prophet Isaiah speaks of the Messiah: \u201cThe Spirit of the Lord God is upon me; because the Lord hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, \u2026 to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=eng&amp;id=p1-p3#p1\">Isaiah 61:1\u20133<\/a>). Likewise, the psalmist offers the Lord\u2019s promised perspective: \u201cWeeping may endure for a night, but joy cometh in the morning\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/30?lang=eng&amp;id=p5#p5\">Psalm 30:5<\/a>). This includes the glorious promises for the righteous on the morning of the First Resurrection.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/61?lang=eng&amp;id=p1-p3#p1",
+            "text": "Isaiah 61:1\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/30?lang=eng&amp;id=p5#p5",
+            "text": "Psalm 30:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159163230",
+        "id": "note23",
+        "text": "<p data-aid=\"159163464\" id=\"note23_p1\">Members attending the temple for the first time can purchase temple clothes at a significant discount.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159163055",
+        "id": "note11",
+        "text": "<p data-aid=\"159163322\" id=\"note11_p1\">We learn by experiences we would never choose. Sometimes bearing burdens with the Lord\u2019s help can increase our capacity to bear those burdens; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p10-p15#p10\">Mosiah 24:10\u201315<\/a> illustrates the Lord\u2019s promise to \u201cvisit my people in their afflictions\u201d and to \u201cstrengthen them that they could bear up their burdens.\u201d <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=eng&amp;id=p23#p23\">Alma 33:23<\/a> teaches that our \u201cburdens may be light, through the joy of his Son.\u201d <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8\">Mosiah 18:8<\/a> reminds us that when we are \u201cwilling to bear one another\u2019s burdens \u2026 they may be light.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p10-p15#p10",
+            "text": "Mosiah 24:10\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/33?lang=eng&amp;id=p23#p23",
+            "text": "Alma 33:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8",
+            "text": "Mosiah 18:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159163218",
+        "id": "note22",
+        "text": "<p data-aid=\"159163456\" id=\"note22_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/obad/1?lang=eng&amp;id=p21#p21\">Obadiah 1:21<\/a>. The Prophet Joseph Smith taught: \u201cHow are they [the Latter-day Saints] to become saviors on Mount Zion? By building their temples, erecting their baptismal fonts, and going forth and receiving all the ordinances \u2026 in behalf of all their progenitors who are dead\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-41?lang=eng&amp;id=p18#p18\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> [2007], 473).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/obad/1?lang=eng&amp;id=p21#p21",
+            "text": "Obadiah 1:21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-41?lang=eng&amp;id=p18#p18",
+            "text": "Teachings of Presidents of the Church: Joseph Smith",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159163055",
+        "id": "note10",
+        "text": "<p data-aid=\"159163317\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4%2C7#p4\">Doctrine and Covenants 122:4, 7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p4%2C7#p4",
+          "text": "Doctrine and Covenants 122:4, 7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159163204",
+        "id": "note21",
+        "text": "<p data-aid=\"159163388\" id=\"note21_p1\">\u201cCome, Come, Ye Saints,\u201d <cite>Hymns<\/cite>, no. 30. Consider also:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"159163403\" id=\"note21_p2\">How great the wisdom and the love. \u2026<\/p>\n<p class=\"line\" data-aid=\"159163412\" id=\"note21_p3\">Redemption\u2019s grand design,<\/p>\n<p class=\"line\" data-aid=\"159163420\" id=\"note21_p4\">Where justice, love, and mercy meet<\/p>\n<p class=\"line\" data-aid=\"159163429\" id=\"note21_p5\">In harmony divine!<\/p>\n<p class=\"line\" data-aid=\"159163438\" id=\"note21_p7\">(\u201cHow Great the Wisdom and the Love,\u201d <cite>Hymns<\/cite>, no. 195.)<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"159163446\" id=\"note21_p6\">Amid life\u2019s uncertainties, we know redemption\u2019s grand design will bring justice, love, and mercy together for our good.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159163165",
+        "id": "note20",
+        "text": "<p data-aid=\"159163381\" id=\"note20_p1\">\u201cBe Still, My Soul,\u201d <cite>Hymns<\/cite>, no. 124.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159163024",
+        "id": "note1",
+        "text": "<p data-aid=\"159163268\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33",
+          "text": "John 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159163102",
+        "id": "note19",
+        "text": "<p data-aid=\"159163374\" id=\"note19_p1\">Faith in the face of difficulty is the opposite of the existential anguish and despair the Book of Mormon describes of those who \u201ccurse God, and wish to die\u201d but who \u201cnevertheless \u2026 would struggle with the sword for their lives\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/2?lang=eng&amp;id=p14#p14\">Mormon 2:14<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/2?lang=eng&amp;id=p14#p14",
+          "text": "Mormon 2:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159163086",
+        "id": "note18",
+        "text": "<p data-aid=\"159163366\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p6#p6\">Doctrine and Covenants 115:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p6#p6",
+          "text": "Doctrine and Covenants 115:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159163081",
+        "id": "note17",
+        "text": "<p data-aid=\"159163359\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/job/1?lang=eng&amp;id=p21#p21\">Job 1:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/job/1?lang=eng&amp;id=p21#p21",
+          "text": "Job 1:21",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

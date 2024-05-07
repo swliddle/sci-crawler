@@ -1,0 +1,589 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/55andersen?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "ad95d75105224554953ad70c7ada732e",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/55andersen",
+      "data-aid": "159168323",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "747488f21a854ea084c1d5ef4c73fb69"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/46/b3/46b367f69355fffa3e89dd0f137de1c19f1bee0c/46b367f69355fffa3e89dd0f137de1c19f1bee0c.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5050-neil-l-andersen-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Los templos: Casas del Señor por toda la tierra",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-07T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159168323",
+      {"key": "159168323"}
+    ],
+    [
+      "159223601",
+      {"key": "159223601"}
+    ],
+    [
+      "159223610",
+      {"key": "159223610"}
+    ],
+    [
+      "159223621",
+      {"key": "159223621"}
+    ],
+    [
+      "159223630",
+      {"key": "159223630"}
+    ],
+    [
+      "159223640",
+      {"key": "159223640"}
+    ],
+    [
+      "159223650",
+      {"key": "159223650"}
+    ],
+    [
+      "159223661",
+      {"key": "159223661"}
+    ],
+    [
+      "159223669",
+      {"key": "159223669"}
+    ],
+    [
+      "159223679",
+      {"key": "159223679"}
+    ],
+    [
+      "159223686",
+      {"key": "159223686"}
+    ],
+    [
+      "159223697",
+      {"key": "159223697"}
+    ],
+    [
+      "159223710",
+      {"key": "159223710"}
+    ],
+    [
+      "159223720",
+      {"key": "159223720"}
+    ],
+    [
+      "159223729",
+      {"key": "159223729"}
+    ],
+    [
+      "159223739",
+      {"key": "159223739"}
+    ],
+    [
+      "159223749",
+      {"key": "159223749"}
+    ],
+    [
+      "159223757",
+      {"key": "159223757"}
+    ],
+    [
+      "159223764",
+      {"key": "159223764"}
+    ],
+    [
+      "159223772",
+      {"key": "159223772"}
+    ],
+    [
+      "159223780",
+      {"key": "159223780"}
+    ],
+    [
+      "159223788",
+      {"key": "159223788"}
+    ],
+    [
+      "159223795",
+      {"key": "159223795"}
+    ],
+    [
+      "159223802",
+      {"key": "159223802"}
+    ],
+    [
+      "159223809",
+      {"key": "159223809"}
+    ],
+    [
+      "159223815",
+      {"key": "159223815"}
+    ],
+    [
+      "159223823",
+      {"key": "159223823"}
+    ],
+    [
+      "159223829",
+      {"key": "159223829"}
+    ],
+    [
+      "159223834",
+      {"key": "159223834"}
+    ],
+    [
+      "159223843",
+      {"key": "159223843"}
+    ],
+    [
+      "159223852",
+      {"key": "159223852"}
+    ],
+    [
+      "159223858",
+      {"key": "159223858"}
+    ],
+    [
+      "159223865",
+      {"key": "159223865"}
+    ],
+    [
+      "159223872",
+      {"key": "159223872"}
+    ],
+    [
+      "159223878",
+      {"key": "159223878"}
+    ],
+    [
+      "159223883",
+      {"key": "159223883"}
+    ],
+    [
+      "159223887",
+      {"key": "159223887"}
+    ],
+    [
+      "159223892",
+      {"key": "159223892"}
+    ],
+    [
+      "159223897",
+      {"key": "159223897"}
+    ],
+    [
+      "159223901",
+      {"key": "159223901"}
+    ],
+    [
+      "159223905",
+      {"key": "159223905"}
+    ],
+    [
+      "159223911",
+      {"key": "159223911"}
+    ],
+    [
+      "159223915",
+      {"key": "159223915"}
+    ],
+    [
+      "159223920",
+      {"key": "159223920"}
+    ],
+    [
+      "159223925",
+      {"key": "159223925"}
+    ],
+    [
+      "159223930",
+      {"key": "159223930"}
+    ],
+    [
+      "159223936",
+      {"key": "159223936"}
+    ],
+    [
+      "159223942",
+      {"key": "159223942"}
+    ],
+    [
+      "159223949",
+      {"key": "159223949"}
+    ],
+    [
+      "159223956",
+      {"key": "159223956"}
+    ],
+    [
+      "159223961",
+      {"key": "159223961"}
+    ],
+    [
+      "159223968",
+      {"key": "159223968"}
+    ],
+    [
+      "159223975",
+      {"key": "159223975"}
+    ],
+    [
+      "159223980",
+      {"key": "159223980"}
+    ],
+    [
+      "159223985",
+      {"key": "159223985"}
+    ],
+    [
+      "159223993",
+      {"key": "159223993"}
+    ],
+    [
+      "159223998",
+      {"key": "159223998"}
+    ],
+    [
+      "159224005",
+      {"key": "159224005"}
+    ],
+    [
+      "159224038",
+      {"key": "159224038"}
+    ],
+    [
+      "159224044",
+      {"key": "159224044"}
+    ],
+    [
+      "159224049",
+      {"key": "159224049"}
+    ],
+    [
+      "159224055",
+      {"key": "159224055"}
+    ],
+    [
+      "159224058",
+      {"key": "159224058"}
+    ],
+    [
+      "159224063",
+      {"key": "159224063"}
+    ],
+    [
+      "159224069",
+      {"key": "159224069"}
+    ],
+    [
+      "159224073",
+      {"key": "159224073"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/55andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Andersen testifica que los templos preservarán, protegerán y nos prepararán para el regreso de Jesucristo.",
+          "title": "Los templos: Casas del Señor por toda la tierra"
+        },
+        "pageSocial": {
+          "description": "El élder Andersen testifica que los templos preservarán, protegerán y nos prepararán para el regreso de Jesucristo.",
+          "title": "Los templos: Casas del Señor por toda la tierra"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/46/b3/46b367f69355fffa3e89dd0f137de1c19f1bee0c/46b367f69355fffa3e89dd0f137de1c19f1bee0c.jpeg\" data-video-title=\"Los templos: Casas del Señor por toda la tierra\" data-video-description=\"El élder Andersen testifica que los templos preservarán, protegerán y nos prepararán para el regreso de Jesucristo.\" data-video-id=\"6350486955112\" data-ip=\"Download and Streaming                            \" data-duration=\"835536\" data-assetId=\"f0dd3d10f54a11eea4dfeeeeac1eb9c4fec601d1\" data-ref-id=\"103E844C8E31387744793C7465B56B7C54E34EC1\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350486955112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"429832192\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5050-neil-l-andersen-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"77340955\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5050-neil-l-andersen-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"200983527\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5050-neil-l-andersen-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"429832192\"/><\/video><h1 data-aid=\"159223601\" id=\"title1\">Los templos: Casas del Señor por toda la tierra<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159223610\" id=\"author1\">Por el élder Neil L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"159223621\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159223630\" id=\"kicker1\">Al asistir dignamente y con oración a Su santa casa, serán fortalecidos con Su poder.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159223640\" id=\"p1\">¿No les encantan las hermosas palabras que acabamos de cantar? \u201cY fuerza y vida y paz os daré [\u2026] y salvos de males vosotros seréis<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. El Señor está fortaleciendo a Sus santos de todas las edades conforme acuden a Su santa casa. De Kinshasa a Zollikofen, de Fukuoka a Oakland, los jóvenes, por iniciativa propia, están inundando los bautisterios de los templos. En el pasado, la mayoría de los queridos obreros de las ordenanzas tenían el cabello gris, pero ya no. Los misioneros llamados, los misioneros de servicio y los exmisioneros están en cada rincón. En todo el mundo, hay un sentimiento cada vez mayor que nos acerca a la Casa del Señor.<\/p>\n<p data-aid=\"159223650\" id=\"p2\">Hace poco más de un año, una querida amiga de la familia, de noventa y cinco años, que vivía en la costa este de los Estados Unidos y a la que los misioneros habían enseñado durante setenta años, le dijo a su hija: \u201cQuiero ir al templo contigo\u201d.<\/p>\n<p data-aid=\"159223661\" id=\"p3\">Su hija respondió: \u201cBueno, madre, primero necesita ser bautizada\u201d.<\/p>\n<img alt=\"Bautismo de hermana de edad avanzada.\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/500%2C/0/default\" data-img-id=\"0b0fffcbf38211eeabf1eeeeac1e392d5451c41c\" srcset=\"https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0b0fffcbf38211eeabf1eeeeac1e392d5451c41c/full/640%2C/0/default 640w\" data-assetId=\"0b0fffcbf38211eeabf1eeeeac1e392d5451c41c\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"668\" data-aspect-ratio=\"0.7485029940119761\"/>\n<p data-aid=\"159223669\" id=\"p4\">\u201cEstá bien\u201d, respondió ella, \u201centonces, quiero ser bautizada\u201d, y fue bautizada. Unos días más tarde, ella entró reverentemente al bautisterio del templo, y hace poco más de un mes, recibió su propia investidura y fue sellada. \u201cEl conocimiento de Dios se extiende; el velo del mundo se ve descorrer\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<img alt=\"Hermana de edad avanzada afuera del templo.\" id=\"img2\" src=\"https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/500%2C/0/default\" data-img-id=\"0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8\" srcset=\"https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8/full/640%2C/0/default 640w\" data-assetId=\"0c5d8e74f38211eeb98eeeeeac1e6d8ed3618fe8\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159223679\" id=\"p6\">¿Se han preguntado por qué el Señor mandó a Su profeta para que ahora Sus santos templos se encuentren por toda la tierra?<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. ¿Por qué Él, en este momento específico, le daría la prosperidad necesaria a Su pueblo del convenio para que, a través de los diezmos sagrados, pudieran construirse cientos de Casas del Señor?<\/p>\n<p data-aid=\"159223686\" id=\"p7\">Esta mañana, el presidente Dallin H. Oaks nos mostró una imagen de los templos que se están construyendo en todo el mundo. Kathy y yo visitamos Filipinas recientemente. Piensen en este milagro: el Templo de Manila se dedicó en 1984. Pasaron veintiséis años antes de que se terminara el segundo templo, en la ciudad de Cebú en 2010. Ahora, catorce años más tarde, se están construyendo, diseñando o preparando para su dedicación once templos, desde el norte hasta el sur: Laoag, Tuguegarao, Santiago, Urdaneta, Alabang, Naga, la ciudad de Tacloban, Iloilo, Bacolod, Cagayán de Oro y Davao. ¡Es impresionante ver las maravillas de Dios!<\/p>\n<img alt=\"Templos en las Filipinas\" id=\"img3\" src=\"https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/500%2C/0/default\" data-img-id=\"0fa406dbf38211ee9d19eeeeac1e29e5f90d8985\" srcset=\"https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0fa406dbf38211ee9d19eeeeac1e29e5f90d8985/full/640%2C/0/default 640w\" data-assetId=\"0fa406dbf38211ee9d19eeeeac1e29e5f90d8985\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"280\" data-aspect-ratio=\"1.7857142857142858\"/>\n<p data-aid=\"159223697\" id=\"p8\">Por todo el mundo tenemos Casas del Señor cada vez más cerca de nosotros. ¿Por qué en nuestros días?<\/p>\n<section>\n<header>\n<h2 data-aid=\"159223710\" id=\"title2\">Los últimos días<\/h2>\n<\/header>\n<p data-aid=\"159223720\" id=\"p9\">El Señor advirtió que en los últimos días habría angustia entre las naciones<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>, las personas serían \u201camador[a]s de sí mism[a]s\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>, \u201ctodas las cosas estarán en conmoción\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, abundaría la confusión<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> y \u201cdesmayar[ía] el corazón de los hombres\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. Ciertamente hemos visto cómo desmaya el corazón de hombres y mujeres ante los atractivos del mundo, la distracción de voces seductoras, el descuido del alimento espiritual o la fatiga de las exigencias del discipulado<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Tal vez se hayan entristecido al ver que alguien a quien aman, que en otro momento habló sinceramente de su fe en Jesucristo, dio testimonio del Libro de Mormón y con entusiasmo ayudó a edificar el Reino de Dios, de pronto se aleja, al menos por ahora, de sus creencias y está al margen de la Iglesia. Mi consejo para ustedes es ¡no se desesperen! Todo está bien. Porque ninguna cosa es imposible para Dios<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"159223729\" id=\"p10\">Con esta conmoción profetizada y la incredulidad en el mundo, el Señor prometió que habría un pueblo del convenio, un pueblo que esperaría ávido Su regreso; un pueblo que se mantendría en lugares santos y no sería movido de su sitio<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Habló de un pueblo justo que resistiría los engaños del adversario, disciplinaría su fe, pensaría celestialmente y confiaría de pleno en el Salvador Jesucristo.<\/p>\n<p data-aid=\"159223739\" id=\"p11\">¿Por qué el Señor ahora nos está acercando a cientos de Sus templos? Una razón es que, en medio del tumulto y las tentaciones del mundo, Él ha prometido fortalecer y bendecir a Sus santos del convenio ¡y Sus promesas se están cumpliendo!<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223749\" id=\"title3\">Promesas del Templo de Kirtland<\/h2>\n<\/header>\n<p data-aid=\"159223757\" id=\"p12\">¿Cómo nos fortalecen, consuelan y protegen estas santas casas? Encontramos una respuesta en las súplicas del profeta José Smith durante la dedicación del Templo de Kirtland. Fue en este templo donde los santos cantaron: \u201cCantemos, gritemos, con huestes del cielo\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. El Salvador mismo se apareció y regresaron profetas del pasado para conferir llaves del sacerdocio adicionales al Evangelio restaurado<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"159223764\" id=\"p13\">En esa sagrada ocasión en el Templo de Kirtland, el Profeta oró para que en la santa Casa del Señor los Santos fueran armados con el poder de Dios, que el nombre de Jesucristo estuviera sobre ellos, que Sus ángeles los guardaran, que crecieran en el Señor y \u201crecib[ieran] la plenitud del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Estas poderosas súplicas se cumplen en nuestra vida cuando adoramos fielmente en la Casa del Señor.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223772\" id=\"title4\">Armados con poder<\/h2>\n<\/header>\n<p data-aid=\"159223780\" id=\"p14\">En Su casa somos, literalmente, investidos con poder divino<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Nuestra fe en Jesucristo y nuestro amor por Él se confirman y fortalecen. Se nos aseguran espiritualmente nuestra verdadera identidad y los propósitos de la vida<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Al ser fieles, somos bendecidos con protección contra las tentaciones y las distracciones; sentimos el amor de nuestro Salvador mientras Él nos eleva de nuestras dificultades y desafíos. Somos armados con el poder de Dios.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223788\" id=\"title5\">Su nombre sobre nosotros<\/h2>\n<\/header>\n<p data-aid=\"159223795\" id=\"p15\">En Su santa casa tomamos Su nombre más plenamente sobre nosotros. Cuando somos bautizados, profesamos nuestra creencia en Él y nuestra voluntad de guardar Sus mandamientos. En el templo, prometemos sagradamente, por medio de nuestros convenios seguirlo para siempre.<\/p>\n<img alt=\"Representación del Templo Heber Valley, Utah.\" id=\"img4\" src=\"https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/500%2C/0/default\" data-img-id=\"109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84\" srcset=\"https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84/full/640%2C/0/default 640w\" data-assetId=\"109f7de1f38211ee9eb8eeeeac1ebfe98ee5fc84\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"376\" data-aspect-ratio=\"1.3297872340425532\"/>\n<p data-aid=\"159223802\" id=\"p16\">Los jóvenes de esta Iglesia son increíbles, pues toman sobre sí el nombre de Cristo en un mundo difícil. En Heber City, Utah, se celebró una reunión pública para analizar los detalles de un templo cuya construcción estaba planeada. Trescientos jóvenes llenaron el parque adyacente para mostrar su apoyo al templo propuesto. Uno de ellos, hablando ante líderes gubernamentales en un foro abierto, explicó con valentía: \u201cEspero casarme en este templo. [El templo me ayudará] a mantenerme limpio y puro\u201d. Otro describió el templo como un símbolo de luz y esperanza. Los hombres y las mujeres jóvenes de la Iglesia en todo el mundo están adoptando el nombre de Jesucristo<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<img alt=\"Jóvenes ocupando un parque en Heber City.\" id=\"img5\" src=\"https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/500%2C/0/default\" data-img-id=\"0e36460cf38211eeabf1eeeeac1e392d193abae1\" srcset=\"https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0e36460cf38211eeabf1eeeeac1e392d193abae1/full/640%2C/0/default 640w\" data-assetId=\"0e36460cf38211eeabf1eeeeac1e392d193abae1\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223809\" id=\"title6\">Ángeles con nosotros<\/h2>\n<\/header>\n<p data-aid=\"159223815\" id=\"p17\">En el Templo de Kirtland, el profeta José oró para que los \u201cángeles [\u2026] guarden [a Sus santos]\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. El efectuar a menudo ordenanzas por nuestros antepasados en el templo nos confirma de manera dulce y segura que la vida prosigue más allá del velo.<\/p>\n<p data-aid=\"159223823\" id=\"p18\">Aunque muchas de nuestras experiencias en la Casa del Señor son demasiado sagradas para compartirlas en público, algunas sí podemos compartirlas. Hace cuarenta años, mientras vivíamos en Florida, Kathy y yo viajamos al templo en Atlanta, Georgia. La noche del jueves, 9 de mayo de 1984, al finalizar una sesión, un obrero del templo se me acercó y me preguntó si tenía tiempo para hacer una ordenanza iniciatoria y preparatoria más. El nombre de la persona a la que representaba era inusual. Se llamaba Eleazer Cercy.<\/p>\n<p data-aid=\"159223829\" id=\"p19\">Al día siguiente el templo estaba lleno de santos. Mientras me preparaba para realizar mi segunda investidura del día, se me dio el nombre de la persona a la que iba a representar. Para mi sorpresa, el nombre era el de la misma persona de la noche anterior: Eleazer Cercy. Sentí el Espíritu del Señor al efectuar la investidura. Esa tarde, estando todavía en el templo, Kathy vio a una amiga de la familia de edad avanzada, la hermana Dolly Fernandez, que vivía en Atlanta. Sin tener miembros varones de la familia que la acompañasen, me preguntó si podría ayudar en el sellamiento de su padre a los padres de él. Por supuesto, fue un honor para mí.<\/p>\n<p data-aid=\"159223834\" id=\"p27\">Al arrodillarme en el extremo del altar para esa sagrada ordenanza, escuché una vez más el nombre que ahora estaba inscrito en mi mente, el de su padre: Eleazer Cercy. Creo firmemente que después de esta vida conoceré y abrazaré a un hombre conocido en su vida mortal como Eleazer Cercy.<\/p>\n<p data-aid=\"159223843\" id=\"p26\">La mayoría de nuestras experiencias en la Casa del Señor nos brindan paz con gozo y revelación con calma más que una intervención dramática. Sin embargo, tengan la certeza: ¡los ángeles nos guardan!<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223852\" id=\"title7\">La plenitud del Espíritu Santo<\/h2>\n<\/header>\n<p data-aid=\"159223858\" id=\"p20\">Se nos confiere el don del Espíritu Santo al ser confirmados miembros de la Iglesia. Cada semana, al participar dignamente del pan y del agua en memoria de nuestro Salvador, se nos promete que Su Espíritu estará siempre con nosotros<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. Si vamos con corazones dispuestos a la Casa del Señor, el lugar más santo de la tierra, crecemos en el Señor y podemos \u201crecib[ir] la plenitud del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Por el poder del Espíritu Santo somos llenos de paz y gozo y de una esperanza inefable<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Recibimos la fortaleza para seguir siendo Sus discípulos incluso cuando nos hallemos fuera de esos lugares santos.<\/p>\n<p data-aid=\"159223865\" id=\"p21\">El presidente Russell M. Nelson declaró: \u201cNuestro Salvador y Redentor, Jesucristo, llevará a cabo algunas de Sus obras más maravillosas entre ahora y cuando vuelva de nuevo. Veremos indicios milagrosos de que Dios el Padre y [\u2026] Jesucristo, presiden esta Iglesia en majestad y gloria\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. El cubrir la tierra con Casas del Señor es una obra poderosa y un indicio milagroso<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"159223872\" id=\"p22\">Mis amados amigos, si somos capaces y aún no hemos aumentado nuestra asistencia al templo, busquemos con regularidad más tiempo para adorar en la Casa del Señor. Oremos por los templos que se han anunciado para que se puedan comprar propiedades, que los gobiernos aprueben los planes, que los trabajadores talentosos vean sus dones magnificados y que las sagradas dedicaciones traigan consigo la aprobación del cielo y la visita de ángeles.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223878\" id=\"title8\">Las promesas<\/h2>\n<\/header>\n<p data-aid=\"159223883\" id=\"p23\">El templo es, literalmente, la Casa del Señor. Les prometo que al asistir dignamente y con oración a Su santa casa, serán fortalecidos con Su poder, Su nombre estará sobre ustedes, Sus ángeles velarán por ustedes y crecerán en la bendición del Espíritu Santo.<\/p>\n<p data-aid=\"159223887\" id=\"p24\">El Señor prometió: \u201cToda alma que deseche sus pecados y venga a mí, invoque mi nombre, obedezca mi voz y guarde mis mandamientos, verá mi faz y sabrá que yo soy\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Hay muchas formas diferentes de ver la faz de Cristo, y no hay mejor lugar para ello que en Su santa casa<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"159223892\" id=\"p25\">En esta época de confusión y conmoción, testifico que el templo es Su santa casa y nos ayudará a preservarnos, protegernos y prepararnos para el glorioso día cuando, con todos Sus santos ángeles, nuestro Salvador vuelva en majestad, poder y gran gloria. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159223897\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159223901\" id=\"note1_p1\">\u201cQué firmes cimientos\u201d, <cite>Himnos<\/cite>, nro. 40.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159223905\" id=\"note2_p1\">\u201cEl Espíritu de Dios\u201d, <cite>Himnos<\/cite>, nro. 2.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159223911\" id=\"note3_p1\">Actualmente hay 182 templos en funcionamiento. Seis se encuentran en renovación, siete están esperando la dedicación y uno más está a la espera de la rededicación. Hay cuarenta y cinco en construcción y noventa y cuatro más que han sido anunciados o están en fase de planificación y diseño.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159223915\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/21?lang=spa&amp;id=p10#p10\">Lucas 21:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159223920\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3?lang=spa&amp;id=p2#p2\">2 Timoteo 3:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159223925\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p91#p91\">Doctrina y Convenios 88:91<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159223930\" id=\"note7_p1\">El élder David A. Bednar dijo: \u201cLos principios del Evangelio son para mí y para ustedes lo que un timón es para un barco. Los principios correctos nos permiten encontrar el camino y permanecer firmes, constantes e inmutables para no perder el equilibrio y caer en las furiosas tormentas de tinieblas y confusión de los últimos días\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/56bednar?lang=spa\">Los principios de Mi Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159223936\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26\">Doctrina y Convenios 45:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159223942\" id=\"note9_p1\">\u201cSi alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz y sígame\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p24#p24\">Mateo 16:24<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159223949\" id=\"note10_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p37#p37\">Lucas 1:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159223956\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 87:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159223961\" id=\"note12_p1\"><cite>Hymns<\/cite>, nro. 2.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159223968\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa\">Doctrina y Convenios 110<\/a>. Antes de esa ocasión, el profeta José Smith había recibido el Sacerdocio Aarónico y sus llaves de Juan el Bautista, y había recibido el Sacerdocio de Melquisedec y sus llaves de los apóstoles Pedro, Santiago y Juan (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">27:12\u201313<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159223975\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15\">Doctrina y Convenios 109:15<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">versículo 22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159223980\" id=\"note15_p1\">El presidente Russell M. Nelson dijo: \u201cEl templo puede ayudarnos en nuestro objetivo. Allí somos investidos con el poder de Dios, que nos da la capacidad de vencer a Satanás, el incitador de <em>toda<\/em> contención\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 101).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159223985\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159223993\" id=\"note17_p1\">Élder Colin Stauffer, correspondencia personal, 30 de enero de 2024.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159223998\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 109:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159224005\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77\">Doctrina y Convenios 20:77, 79<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159224038\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15\">Doctrina y Convenios 109:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159224044\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159224049\" id=\"note22_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159224055\" id=\"note23_p1\">El presidente Brigham Young dijo: \u201cTendremos centenares de templos y millares de hombres y mujeres oficiando en ellos por aquellos que murieron sin haber tenido el privilegio de recibir y obedecer el Evangelio\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/a>, 1995, pág. 328<\/cite>). Y el presidente Ezra Taft Benson dijo: \u201cNuestros antecesores profetizaron que habrá templos en Norteamérica, Sudamérica, las islas del Pacífico, Europa y por todas partes. Si esta obra de redención se ha de llevar a cabo en la escala en que debe efectuarse, se necesitarán cientos de templos\u201d (<cite>The Teachings of Ezra Taft Benson<\/cite>, 1988, pág. 247).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159224058\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 93:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159224063\" id=\"note25_p1\">El élder David B. Haight dijo:<\/p>\n<p data-aid=\"159224069\" id=\"note25_p3\">\u201cEs cierto que algunos en realidad han visto al Salvador, pero al consultar el diccionario nos damos cuenta de que la palabra <em>ver<\/em> tiene muchos otros significados, tales como llegar a conocerlo, comprenderlo, reconocerlo a Él y a Su obra, percibir Su importancia y llegar a entenderlo mejor.<\/p>\n<p data-aid=\"159224073\" id=\"note25_p2\">\u201cEsta clase de iluminación y de bendiciones celestiales está a disposición de cada uno de nosotros\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1990/10/temples-and-work-therein?lang=spa\">Los templos y la obra que se efectúa en ellos<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1991, pág. 70).<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159223720",
+        "id": "note4",
+        "text": "<p data-aid=\"159223915\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/21?lang=spa&amp;id=p10#p10\">Lucas 21:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/21?lang=spa&amp;id=p10#p10",
+          "text": "Lucas 21:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159223720",
+        "id": "note5",
+        "text": "<p data-aid=\"159223920\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-tim/3?lang=spa&amp;id=p2#p2\">2 Timoteo 3:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-tim/3?lang=spa&amp;id=p2#p2",
+          "text": "2 Timoteo 3:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159223669",
+        "id": "note2",
+        "text": "<p data-aid=\"159223905\" id=\"note2_p1\">\u201cEl Espíritu de Dios\u201d, <cite>Himnos<\/cite>, nro. 2.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159223679",
+        "id": "note3",
+        "text": "<p data-aid=\"159223911\" id=\"note3_p1\">Actualmente hay 182 templos en funcionamiento. Seis se encuentran en renovación, siete están esperando la dedicación y uno más está a la espera de la rededicación. Hay cuarenta y cinco en construcción y noventa y cuatro más que han sido anunciados o están en fase de planificación y diseño.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159223720",
+        "id": "note8",
+        "text": "<p data-aid=\"159223936\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26\">Doctrina y Convenios 45:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26",
+          "text": "Doctrina y Convenios 45:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159223720",
+        "id": "note9",
+        "text": "<p data-aid=\"159223942\" id=\"note9_p1\">\u201cSi alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz y sígame\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p24#p24\">Mateo 16:24<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/16?lang=spa&amp;id=p24#p24",
+          "text": "Mateo 16:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159223720",
+        "id": "note6",
+        "text": "<p data-aid=\"159223925\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p91#p91\">Doctrina y Convenios 88:91<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p91#p91",
+          "text": "Doctrina y Convenios 88:91",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159223720",
+        "id": "note7",
+        "text": "<p data-aid=\"159223930\" id=\"note7_p1\">El élder David A. Bednar dijo: \u201cLos principios del Evangelio son para mí y para ustedes lo que un timón es para un barco. Los principios correctos nos permiten encontrar el camino y permanecer firmes, constantes e inmutables para no perder el equilibrio y caer en las furiosas tormentas de tinieblas y confusión de los últimos días\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/56bednar?lang=spa\">Los principios de Mi Evangelio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/04/56bednar?lang=spa",
+          "text": "Los principios de Mi Evangelio",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159223780",
+        "id": "note16",
+        "text": "<p data-aid=\"159223985\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159223780",
+        "id": "note15",
+        "text": "<p data-aid=\"159223980\" id=\"note15_p1\">El presidente Russell M. Nelson dijo: \u201cEl templo puede ayudarnos en nuestro objetivo. Allí somos investidos con el poder de Dios, que nos da la capacidad de vencer a Satanás, el incitador de <em>toda<\/em> contención\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 101).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=spa",
+          "text": "Se necesitan pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159223764",
+        "id": "note14",
+        "text": "<p data-aid=\"159223975\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15\">Doctrina y Convenios 109:15<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">versículo 22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15",
+            "text": "Doctrina y Convenios 109:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22",
+            "text": "versículo 22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159223757",
+        "id": "note13",
+        "text": "<p data-aid=\"159223968\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa\">Doctrina y Convenios 110<\/a>. Antes de esa ocasión, el profeta José Smith había recibido el Sacerdocio Aarónico y sus llaves de Juan el Bautista, y había recibido el Sacerdocio de Melquisedec y sus llaves de los apóstoles Pedro, Santiago y Juan (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 13:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">27:12\u201313<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/110?lang=spa",
+            "text": "Doctrina y Convenios 110",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1",
+            "text": "Doctrina y Convenios 13:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12",
+            "text": "27:12\u201313",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159223757",
+        "id": "note12",
+        "text": "<p data-aid=\"159223961\" id=\"note12_p1\"><cite>Hymns<\/cite>, nro. 2.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159223729",
+        "id": "note11",
+        "text": "<p data-aid=\"159223956\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 87:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/87?lang=spa&amp;id=p8#p8",
+          "text": "Doctrina y Convenios 87:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159223720",
+        "id": "note10",
+        "text": "<p data-aid=\"159223949\" id=\"note10_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p37#p37\">Lucas 1:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/1?lang=spa&amp;id=p37#p37",
+          "text": "Lucas 1:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159223858",
+        "id": "note19",
+        "text": "<p data-aid=\"159224005\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77\">Doctrina y Convenios 20:77, 79<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77",
+          "text": "Doctrina y Convenios 20:77, 79",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159223815",
+        "id": "note18",
+        "text": "<p data-aid=\"159223998\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 109:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22",
+          "text": "Doctrina y Convenios 109:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159223802",
+        "id": "note17",
+        "text": "<p data-aid=\"159223993\" id=\"note17_p1\">Élder Colin Stauffer, correspondencia personal, 30 de enero de 2024.<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159223887",
+        "id": "note25",
+        "text": "<p data-aid=\"159224063\" id=\"note25_p1\">El élder David B. Haight dijo:<\/p>\n<p data-aid=\"159224069\" id=\"note25_p3\">\u201cEs cierto que algunos en realidad han visto al Salvador, pero al consultar el diccionario nos damos cuenta de que la palabra <em>ver<\/em> tiene muchos otros significados, tales como llegar a conocerlo, comprenderlo, reconocerlo a Él y a Su obra, percibir Su importancia y llegar a entenderlo mejor.<\/p>\n<p data-aid=\"159224073\" id=\"note25_p2\">\u201cEsta clase de iluminación y de bendiciones celestiales está a disposición de cada uno de nosotros\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1990/10/temples-and-work-therein?lang=spa\">Los templos y la obra que se efectúa en ellos<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1991, pág. 70).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1990/10/temples-and-work-therein?lang=spa",
+          "text": "Los templos y la obra que se efectúa en ellos",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159223887",
+        "id": "note24",
+        "text": "<p data-aid=\"159224058\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 93:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p1#p1",
+          "text": "Doctrina y Convenios 93:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159223865",
+        "id": "note23",
+        "text": "<p data-aid=\"159224055\" id=\"note23_p1\">El presidente Brigham Young dijo: \u201cTendremos centenares de templos y millares de hombres y mujeres oficiando en ellos por aquellos que murieron sin haber tenido el privilegio de recibir y obedecer el Evangelio\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/a>, 1995, pág. 328<\/cite>). Y el presidente Ezra Taft Benson dijo: \u201cNuestros antecesores profetizaron que habrá templos en Norteamérica, Sudamérica, las islas del Pacífico, Europa y por todas partes. Si esta obra de redención se ha de llevar a cabo en la escala en que debe efectuarse, se necesitarán cientos de templos\u201d (<cite>The Teachings of Ezra Taft Benson<\/cite>, 1988, pág. 247).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p24#p24",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: Brigham Young",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159223865",
+        "id": "note22",
+        "text": "<p data-aid=\"159224049\" id=\"note22_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159223858",
+        "id": "note21",
+        "text": "<p data-aid=\"159224044\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13",
+          "text": "Romanos 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159223858",
+        "id": "note20",
+        "text": "<p data-aid=\"159224038\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15\">Doctrina y Convenios 109:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p15#p15",
+          "text": "Doctrina y Convenios 109:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159223640",
+        "id": "note1",
+        "text": "<p data-aid=\"159223901\" id=\"note1_p1\">\u201cQué firmes cimientos\u201d, <cite>Himnos<\/cite>, nro. 40.<\/p>"
+      }
+    }
+  }
+}

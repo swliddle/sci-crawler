@@ -1,0 +1,797 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/51christofferson?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "4b4d96e230af4834ad88643f23d04b56",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/51christofferson",
+      "data-aid": "159168321",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "1c8d2fb55c8c4d7e95201b0ea4effd2d"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/0f/24/0f24db7db7d5deb21c4b3dcfeb64aa075af848dc/0f24db7db7d5deb21c4b3dcfeb64aa075af848dc.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5010-d-todd-christofferson-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "El testimonio de Jesús",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-07T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159168321",
+      {"key": "159168321"}
+    ],
+    [
+      "159191895",
+      {"key": "159191895"}
+    ],
+    [
+      "159191899",
+      {"key": "159191899"}
+    ],
+    [
+      "159191902",
+      {"key": "159191902"}
+    ],
+    [
+      "159191915",
+      {"key": "159191915"}
+    ],
+    [
+      "159191918",
+      {"key": "159191918"}
+    ],
+    [
+      "159191921",
+      {"key": "159191921"}
+    ],
+    [
+      "159191924",
+      {"key": "159191924"}
+    ],
+    [
+      "159191927",
+      {"key": "159191927"}
+    ],
+    [
+      "159191930",
+      {"key": "159191930"}
+    ],
+    [
+      "159191933",
+      {"key": "159191933"}
+    ],
+    [
+      "159191936",
+      {"key": "159191936"}
+    ],
+    [
+      "159191938",
+      {"key": "159191938"}
+    ],
+    [
+      "159191940",
+      {"key": "159191940"}
+    ],
+    [
+      "159191942",
+      {"key": "159191942"}
+    ],
+    [
+      "159191946",
+      {"key": "159191946"}
+    ],
+    [
+      "159191949",
+      {"key": "159191949"}
+    ],
+    [
+      "159191952",
+      {"key": "159191952"}
+    ],
+    [
+      "159191955",
+      {"key": "159191955"}
+    ],
+    [
+      "159191958",
+      {"key": "159191958"}
+    ],
+    [
+      "159191961",
+      {"key": "159191961"}
+    ],
+    [
+      "159191964",
+      {"key": "159191964"}
+    ],
+    [
+      "159191967",
+      {"key": "159191967"}
+    ],
+    [
+      "159191970",
+      {"key": "159191970"}
+    ],
+    [
+      "159191973",
+      {"key": "159191973"}
+    ],
+    [
+      "159191976",
+      {"key": "159191976"}
+    ],
+    [
+      "159191979",
+      {"key": "159191979"}
+    ],
+    [
+      "159191982",
+      {"key": "159191982"}
+    ],
+    [
+      "159191985",
+      {"key": "159191985"}
+    ],
+    [
+      "159191987",
+      {"key": "159191987"}
+    ],
+    [
+      "159191989",
+      {"key": "159191989"}
+    ],
+    [
+      "159191991",
+      {"key": "159191991"}
+    ],
+    [
+      "159191995",
+      {"key": "159191995"}
+    ],
+    [
+      "159191997",
+      {"key": "159191997"}
+    ],
+    [
+      "159192000",
+      {"key": "159192000"}
+    ],
+    [
+      "159192003",
+      {"key": "159192003"}
+    ],
+    [
+      "159192006",
+      {"key": "159192006"}
+    ],
+    [
+      "159192009",
+      {"key": "159192009"}
+    ],
+    [
+      "159192012",
+      {"key": "159192012"}
+    ],
+    [
+      "159192015",
+      {"key": "159192015"}
+    ],
+    [
+      "159192019",
+      {"key": "159192019"}
+    ],
+    [
+      "159192022",
+      {"key": "159192022"}
+    ],
+    [
+      "159192027",
+      {"key": "159192027"}
+    ],
+    [
+      "159192029",
+      {"key": "159192029"}
+    ],
+    [
+      "159192031",
+      {"key": "159192031"}
+    ],
+    [
+      "159192033",
+      {"key": "159192033"}
+    ],
+    [
+      "159192035",
+      {"key": "159192035"}
+    ],
+    [
+      "159192037",
+      {"key": "159192037"}
+    ],
+    [
+      "159192040",
+      {"key": "159192040"}
+    ],
+    [
+      "159192042",
+      {"key": "159192042"}
+    ],
+    [
+      "159192045",
+      {"key": "159192045"}
+    ],
+    [
+      "159192048",
+      {"key": "159192048"}
+    ],
+    [
+      "159192051",
+      {"key": "159192051"}
+    ],
+    [
+      "159192054",
+      {"key": "159192054"}
+    ],
+    [
+      "159192056",
+      {"key": "159192056"}
+    ],
+    [
+      "159192059",
+      {"key": "159192059"}
+    ],
+    [
+      "159192062",
+      {"key": "159192062"}
+    ],
+    [
+      "159192065",
+      {"key": "159192065"}
+    ],
+    [
+      "159192068",
+      {"key": "159192068"}
+    ],
+    [
+      "159192071",
+      {"key": "159192071"}
+    ],
+    [
+      "159192074",
+      {"key": "159192074"}
+    ],
+    [
+      "159192077",
+      {"key": "159192077"}
+    ],
+    [
+      "159192080",
+      {"key": "159192080"}
+    ],
+    [
+      "159192083",
+      {"key": "159192083"}
+    ],
+    [
+      "159192086",
+      {"key": "159192086"}
+    ],
+    [
+      "159192089",
+      {"key": "159192089"}
+    ],
+    [
+      "159192091",
+      {"key": "159192091"}
+    ],
+    [
+      "159192093",
+      {"key": "159192093"}
+    ],
+    [
+      "159192095",
+      {"key": "159192095"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/51christofferson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Christofferson enseña lo que significa ser valientes en el testimonio de Jesús y nos invita a dar los pasos ahora para ser contados entre aquellos que son valientes.",
+          "title": "El testimonio de Jesús"
+        },
+        "pageSocial": {
+          "description": "El élder Christofferson enseña lo que significa ser valientes en el testimonio de Jesús y nos invita a dar los pasos ahora para ser contados entre aquellos que son valientes.",
+          "title": "El testimonio de Jesús"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/0f/24/0f24db7db7d5deb21c4b3dcfeb64aa075af848dc/0f24db7db7d5deb21c4b3dcfeb64aa075af848dc.jpeg\" data-video-title=\"El testimonio de Jesús\" data-video-description=\"El élder Christofferson enseña lo que significa ser valientes en el testimonio de Jesús y nos invita a dar los pasos ahora para ser contados entre aquellos que son valientes.\" data-video-id=\"6350486284112\" data-ip=\"Download and Streaming                            \" data-duration=\"859393\" data-assetId=\"bfdebc8ff54811eea63ceeeeac1edab10fb30954\" data-ref-id=\"DA978F7CB5ADFD0B279A38BC331F0B7BC190A792\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350486284112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"442758108\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5010-d-todd-christofferson-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"79965778\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5010-d-todd-christofferson-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"207416202\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5010-d-todd-christofferson-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"442758108\"/><\/video><h1 data-aid=\"159191895\" id=\"title1\">El testimonio de Jesús<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159191899\" id=\"author1\">Por el élder D. Todd Christofferson<\/p>\n<p class=\"author-role\" data-aid=\"159191902\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159191915\" id=\"kicker1\">Mi invitación es a que actúen ahora para asegurar su lugar como alguien que es valiente en el testimonio de Jesús.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159191918\" id=\"p1\">En 1832, José Smith y Sidney Rigdon recibieron una extraordinaria visión concerniente al destino eterno de los hijos de Dios. En esa revelación se hablaba de tres reinos en los cielos. El presidente Dallin H. Oaks habló sobre esos \u201creinos de gloria\u201d el pasado mes de octubre<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> y señaló que, \u201cmediante el triunfo y la gloria del Cordero\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>, todas las personas, salvo unas pocas relativamente, serán finalmente redimidas para entrar en uno de estos reinos, \u201cde acuerdo con los deseos manifestados mediante sus decisiones\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. El plan de redención de Dios constituye una oportunidad universal para todos Sus hijos, dondequiera y cuandoquiera que hayan vivido en la tierra.<\/p>\n<p data-aid=\"159191921\" id=\"p2\">Mientras que la gloria de incluso el menor de los tres reinos, el telestial, \u201csobrepuja a toda comprensión\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>, la esperanza de nuestro Padre es que escojamos \u2014y, mediante la gracia de Su Hijo, reunamos los requisitos para obtener\u2014 el más elevado y glorioso de estos reinos, el celestial, donde podremos disfrutar de la vida eterna como \u201ccoherederos con Cristo\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. El presidente Russell M. Nelson nos ha instado a \u201cpensar de manera celestial\u201d, que consiste en hacer del Reino Celestial nuestra meta eterna y luego \u201cpensar detenidamente a dónde [n]os llevará en el mundo venidero cada una de las decisiones que tome[mos] mientras est[amos] aquí en la tierra\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"159191924\" id=\"p3\">Los que están en el Reino Celestial son \u201c<em>los que recibieron el testimonio de Jesús<\/em>, [\u2026] hombres justos hechos perfectos mediante Jesús, el mediador del nuevo convenio\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. A los habitantes del segundo reino, o Reino Terrestre, se los describe como esencialmente buenos, e incluyen a los \u201chombres honorables de la tierra que fueron cegados por las artimañas de los hombres\u201d. El principal rasgo que los limita es que \u201c<em>no son valientes en el testimonio de Jesús<\/em>\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>. En contraste, los del reino inferior, el Reino Telestial, son los que \u201cno recibieron el evangelio, <em>ni el testimonio de Jesús<\/em>\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"159191927\" id=\"p4\">Nótese que la característica distintiva de los habitantes de cada reino es cómo ellos se relacionan con \u201cel testimonio de Jesús\u201d; relación que varía desde (1) tener una devoción incondicional a (2) no ser valientes a (3) rechazarlo rotundamente. De la reacción de cada persona depende su futuro eterno.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159191930\" id=\"title2\">I.<\/h2>\n<\/header>\n<p data-aid=\"159191933\" id=\"p5\">¿Qué es el testimonio de Jesús?<\/p>\n<p data-aid=\"159191936\" id=\"p6\">Es el testimonio del Santo Espíritu de que Él es el Hijo divino de Dios, el Mesías y Redentor. Es el testimonio de Juan de que Jesús estaba con Dios en el principio, de que Él es el Creador del cielo y de la tierra, y que \u201cen él estaba el evangelio, y el evangelio era la vida, y la vida era la luz de los hombres\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Es \u201cel testimonio de los apóstoles y de los profetas [\u2026]: que murió, fue sepultado, se levantó al tercer día y ascendió a los cielos\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. Es el conocimiento de que \u201cno hay otro nombre dado por el cual venga la salvación\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Es el \u201ctestimonio, el último de todos\u201d, dado por el profeta José Smith: \u201c¡Que vive! [\u2026] Que él es el Unigénito del Padre; que por él, por medio de él y de él los mundos son y fueron creados, y sus habitantes son engendrados hijos e hijas para Dios\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159191938\" id=\"title3\">II.<\/h2>\n<\/header>\n<p data-aid=\"159191940\" id=\"p7\">Más allá de este testimonio está la pregunta: ¿Qué hacemos al respecto?<\/p>\n<p data-aid=\"159191942\" id=\"p8\">Los herederos del Reino Celestial \u201creciben\u201d el testimonio de Jesús en el sentido más pleno al ser bautizados, recibir el Espíritu Santo y vencer por la fe<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. Los principios y las verdades del Evangelio de Jesucristo rigen sus prioridades y elecciones. El testimonio de Jesús se manifiesta en lo que son y en lo que llegan a ser. Su motivación es la caridad, \u201cel amor puro de Cristo\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Se centran en alcanzar \u201cla medida de la estatura de la plenitud de Cristo\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"159191946\" id=\"p9\">Al menos algunos de los que se encontrarán en el Reino Terrestre también aceptan el testimonio de Jesús, pero se distinguen por lo que <em>no<\/em> hacen al respecto. El no ser valientes en el testimonio del Salvador sugiere un grado de apatía o despreocupación \u2014ser \u201ctibios\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>\u2014 a diferencia del pueblo de Ammón en el Libro de Mormón, por ejemplo, que \u201cse distinguían por su celo para con Dios\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"159191949\" id=\"p10\">Los habitantes del Reino Telestial son los que rechazan el testimonio de Jesús junto con Su Evangelio, Sus convenios y Sus profetas. Abinadí los describe como \u201chabiendo obrado según su propia voluntad y deseos carnales; nunca habiendo invocado al Señor mientras los brazos de la misericordia se extendían hacia ellos; porque los brazos de la misericordia se extendieron hacia ellos, y no quisieron\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159191952\" id=\"title4\">III.<\/h2>\n<\/header>\n<p data-aid=\"159191955\" id=\"p11\">¿Qué significa ser valiente en el testimonio de Jesús?<\/p>\n<p data-aid=\"159191958\" id=\"p12\">Hay varias posibilidades que podrían considerarse para responder esta pregunta. Mencionaré algunas. Ser valiente en el testimonio de Jesús ciertamente incluye nutrir y fortalecer ese testimonio. Los verdaderos discípulos no pasan por alto las cosas aparentemente pequeñas que sostienen y fortalecen su testimonio de Jesús, tales como la oración, el estudio de las Escrituras, la observancia del día de reposo, el participar de la Santa Cena, el arrepentimiento, ministrar y adorar en la Casa del Señor. El presidente Nelson nos recuerda que \u201cun testimonio que no es nutrido diariamente \u2018por la buena palabra de Dios\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6?lang=spa&amp;id=p4#p4\">Moroni 6:4<\/a>] puede desmoronarse a una velocidad aterradora. Por tanto, [\u2026] necesitamos experiencias cotidianas de adoración al Señor y estudio de Su evangelio\u201d. Luego agregó: \u201cLes ruego que dejen que Dios prevalezca en su vida. Dedíquenle una buena parte de su tiempo y, conforme lo hagan, fíjense en lo que sucede con su ímpetu espiritual positivo\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>.<\/p>\n<p data-aid=\"159191961\" id=\"p13\">Ser valiente también sugiere dar a conocer nuestro testimonio de forma franca y pública. En el bautismo, confirmamos nuestra disposición a \u201cser testigos de Dios en todo tiempo, y en todas las cosas y en todo lugar en que est[emos], aun hasta la muerte\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Especialmente en esta época de Pascua de Resurrección, proclamamos con gozo, públicamente y sin reservas nuestro testimonio del Cristo resucitado y viviente.<\/p>\n<p data-aid=\"159191964\" id=\"p14\">Un aspecto de ser valientes en el testimonio de Jesús es dar oído a Sus mensajeros. Dios no nos obliga a seguir el mejor camino, la senda de los convenios, pero instruye a Sus profetas para que nos hagan saber plenamente las consecuencias de nuestras elecciones. Y lo hace no solo con los miembros de Su Iglesia. Por medio de Sus profetas y apóstoles, Él suplica amorosamente a todo el mundo que dé oído a la verdad que los hará libres<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>, les evitará sufrimientos innecesarios y les brindará gozo duradero.<\/p>\n<p data-aid=\"159191967\" id=\"p15\">Ser valiente en el testimonio de Jesús significa animar a otras personas, mediante la palabra y el ejemplo, a ser igualmente valientes; en especial a los de nuestra propia familia. El élder Neal A. Maxwell se refirió una vez a \u201clos miembros básicamente \u2018honorables\u2019 [de la Iglesia], que apenas rozan la superficie sin profundizar su discipulado y que participan de manera despreocupada en lugar de estar \u2018anhelosamente consagrados\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p75#p75\">Doctrina y Convenios 76:75<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p27#p27\">58:27<\/a>]<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Señalando que todos tienen la libertad de escoger, el élder Maxwell se lamentó: \u201cPero, desafortunadamente, cuando algunos escogen la indiferencia, no solo escogen para sí mismos, sino también para la generación que sigue y aun para la otra. ¡Las pequeñas ambigüedades de los padres pueden producir grandes extravíos en los hijos! Las generaciones anteriores de una familia pueden haber manifestado dedicación, pero algunos de la generación actual manifiestan ambigüedad. Es triste, pero algunos de la próxima generación tal vez escojan la disensión conforme la erosión haga mella\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"159191970\" id=\"p16\">Hace años, el élder John H. Groberg relató la historia de una joven familia que vivía en una pequeña rama de Hawái a principios del siglo XX. Llevaban unos dos años de miembros de la Iglesia cuando una de sus hijas enfermó de una afección no diagnosticada y fue internada en el hospital. El domingo siguiente, en la iglesia, el padre y su hijo prepararon la Santa Cena como lo hacían casi todas las semanas, pero cuando el joven padre se arrodilló para bendecir el pan, el presidente de la rama, dándose cuenta de repente quién estaba en la mesa sacramental, se levantó de un salto y exclamó: \u201c¡Alto! No pueden tocar la Santa Cena. Su hija tiene una enfermedad desconocida. Salgan de inmediato mientras otra persona prepara otro pan para la Santa Cena. No podemos tenerlos aquí. ¡Váyanse!\u201d. El atónito padre miró inquisitivamente al presidente de rama y luego a la congregación y, percibiendo la profunda ansiedad y vergüenza de todos, hizo un gesto a su familia y silenciosamente salieron de la capilla en fila.<\/p>\n<p data-aid=\"159191973\" id=\"p17\">No se pronunció ni una palabra mientras la familia caminaba abatida por el sendero hacia su pequeña casa. Allí se sentaron en círculo y el padre dijo: \u201cPor favor, guarden silencio hasta que esté listo para hablar\u201d. El hijo joven se preguntaba qué harían para vengarse de la vergüenza que habían pasado: ¿matarían a los cerdos del presidente de rama, o le quemarían su casa, o se unirían a otra iglesia? Pasaron cinco, diez, quince, veinticinco minutos en silencio.<\/p>\n<p data-aid=\"159191976\" id=\"p24\">Los puños cerrados del padre empezaron a relajarse y surgieron lágrimas. La madre comenzó a llorar y pronto cada uno de los hijos lloraba en silencio. El padre se volvió hacia su esposa y le dijo: \u201cTe amo\u201d, y luego repitió esas palabras a cada uno de sus hijos. \u201cLos amo a todos y quiero que estemos juntos, para siempre, como familia. Y la única manera de que eso pueda suceder es que todos seamos buenos miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días y seamos sellados por el santo sacerdocio en el templo. Esta no es la iglesia del presidente de rama; es la Iglesia de Jesucristo. No permitiremos que ningún hombre ni ningún agravio, vergüenza u orgullo nos impidan estar juntos para siempre. El próximo domingo volveremos a la iglesia. Nos quedaremos aparte hasta que se conozca la enfermedad de nuestra hija, pero volveremos\u201d.<\/p>\n<p data-aid=\"159191979\" id=\"p18\">Volvieron, su hija se recuperó y la familia fue sellada en el Templo de Laie, Hawái, cuando este se terminó. Actualmente, más de cien almas llaman bienaventurado a su padre, abuelo y bisabuelo, porque mantuvo sus ojos fijos en la eternidad<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"159191982\" id=\"p19\">Un último aspecto que mencionaré de ser valientes en el testimonio de Jesús es nuestra búsqueda individual de la santidad personal. Jesús es nuestro Redentor imprescindible<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> y nos ruega: \u201cArrepentíos, todos vosotros, extremos de la tierra, y venid a mí y sed bautizados en mi nombre, para que seáis santificados por la recepción del Espíritu Santo, a fin de que en el postrer día os presentéis ante mí sin mancha\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"159191985\" id=\"p20\">El profeta Mormón describe a un grupo de santos que perseveraron de esa manera a pesar de haber tenido que \u201cpasa[r] muchas aflicciones\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>:<\/p>\n<p data-aid=\"159191987\" id=\"p21\">\u201cNo obstante, ayunaron y oraron frecuentemente, y se volvieron más y más fuertes en su humildad, y más y más firmes en la fe de Cristo, hasta henchir sus almas de gozo y de consolación; sí, hasta la purificación y santificación de sus corazones, santificación que viene de entregar el corazón a Dios\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>. Lo que buscamos es este poderoso cambio en el corazón, entregar nuestro corazón a Dios y renacer espiritualmente mediante la gracia del Salvador<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>.<\/p>\n<p data-aid=\"159191989\" id=\"p22\">Mi invitación es a que actúen ahora para asegurar su lugar como alguien que es valiente en el testimonio de Jesús. A medida que pueda ser necesario el arrepentimiento, \u201cno demoréis el día de vuestro arrepentimiento\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a>, no sea que \u201ca la hora en que menos lo penséis, el verano ha[ya] pasado, y la siega ha[ya] terminado, y vuestras almas est[én] sin salvar\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Sean diligentes en cumplir sus convenios con Dios. No se sientan \u201cofendido[s] a causa de lo estricto de la palabra\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a>. \u201cAcorda[os] de conservar siempre escrito [el] nombre [de Cristo] en vuestros corazones para que [\u2026] oigáis y conozcáis <em>la voz<\/em> por la cual seréis llamados, y también <em>el nombre<\/em> por el cual él os llamará\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>. Y finalmente, \u201cproponed esto en vuestros corazones: que haréis lo que yo os enseñaré y os mandaré\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>.<\/p>\n<p data-aid=\"159191991\" id=\"p23\">Nuestro Padre desea que todos Sus hijos que quieren disfrutar de la vida eterna estén con Él en Su Reino Celestial. Jesús sufrió, murió y resucitó para hacerlo posible. Él \u201cha subido a los cielos, y se ha sentado a la diestra de Dios para reclamar del Padre sus derechos de misericordia que él tiene sobre los hijos de los hombres\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a>. Ruego que todos seamos bendecidos con un testimonio ferviente del Señor Jesucristo, que nos regocijemos y seamos valientes en ese testimonio, y que disfrutemos de los frutos de Su gracia continuamente en nuestra vida. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159191995\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159191997\" id=\"note1_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/17oaks?lang=spa\">Reinos de gloria<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 26\u201329.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159192000\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p39#p39\">Doctrina y Convenios 76:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159192003\" id=\"note3_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/17oaks?lang=spa&amp;id=p3#p3\">Reinos de gloria<\/a>\u201d, pág. 26.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159192006\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p89#p89\">Doctrina y Convenios 76:89<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159192009\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17\">Romanos 8:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159192012\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8-p9#p8\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, pág. 118.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159192015\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51%2C69#p51\">Doctrina y Convenios 76:51, 69<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159192019\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p75%2C79#p75\">Doctrina y Convenios 76:75, 79<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159192022\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p101#p101\">Doctrina y Convenios 76:101<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159192027\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-john/1?lang=spa&amp;id=p4#p4\">Traducción de José Smith, Juan 1:4<\/a> (en el Apéndice de la Biblia); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p1-p3#p1\">Juan 1:1\u20133<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159192029\" id=\"note11_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, págs. 51\u201352.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159192031\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p8#p8\">Mosíah 5:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159192033\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p22-p24#p22\">Doctrina y Convenios 76:22\u201324<\/a>. El testimonio de Jesús se recibe por el Espíritu Santo, el espíritu de profecía y revelación (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19?lang=spa&amp;id=p10#p10\">Apocalipsis 19:10<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-33?lang=spa&amp;id=p22-p26#p22\">Enseñanzas: José Smith<\/a><\/cite>, pág. 409).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159192035\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51-p53#p51\">Doctrina y Convenios 76:51\u201353<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159192037\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159192040\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p13#p13\">Efesios 4:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159192042\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/3?lang=spa&amp;id=p15-p16#p15\">Apocalipsis 3:15\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159192045\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/27?lang=spa&amp;id=p27#p27\">Alma 27:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159192048\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p12#p12\">Mosíah 16:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159192051\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p40#p40\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159192054\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9\">Mosíah 18:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159192056\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p31-p32#p31\">Juan 8:31\u201332<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159192059\" id=\"note23_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa&amp;id=p6#p6\">Resolved esto en vuestros corazones<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1993, pág. 73. Además de estas palabras del élder Maxwell, otros discursantes de conferencia general han tratado este tema en los últimos años, entre ellos Quentin L. Cook (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/valiant-in-the-testimony-of-jesus?lang=spa\">Valientes en el testimonio de Jesús<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, págs. 40\u201345) y Rebecca L. Craven (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/12craven?lang=spa\">Cuidadosos vs. despreocupados<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, págs. 9\u201311).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159192062\" id=\"note24_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa\">Resolved esto en vuestros corazones<\/a>\u201d, pág. 73.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159192065\" id=\"note25_p1\">Véase John H. Groberg, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/writing-your-personal-and-family-history.html\">Writing Your Personal and Family History<\/span>\u201d, <cite>Ensign<\/cite>, mayo de 1980, págs. 48\u201349.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159192068\" id=\"note26_p1\">\u201cHa recibido poder, que le ha sido dado del Padre, para redimir[nos] [\u2026] de [nuestros] pecados por motivo del arrepentimiento; por tanto, ha enviado a sus ángeles para declarar las [gozosas] nuevas de las condiciones del arrepentimiento, el cual conduce al poder del Redentor, para la salvación de [nuestras] almas\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p11#p11\">Helamán 5:11<\/a>). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p10#p10\">Helamán 5:10<\/a>: Jesús nos redime <em>de<\/em> nuestros pecados, no <em>en<\/em> nuestros pecados.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"159192071\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p20#p20\">3 Nefi 27:20<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16-p21#p16\">los versículos 16\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p31-p36#p31\">3 Nefi 11:31\u201336<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"159192074\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p34#p34\">Helamán 3:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"159192077\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p35#p35\">Helamán 3:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"159192080\" id=\"note30_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p7#p7\">Mosíah 5:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p24-p31#p24\">27:24\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p11-p15%2C26#p11\">Alma 5:11\u201315, 26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p59-p60#p59\">Moisés 6:59\u201360<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"159192083\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p33#p33\">Alma 34:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"159192086\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 45:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=spa&amp;id=p38#p38\">Helamán 13:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"159192089\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/35?lang=spa&amp;id=p15#p15\">Alma 35:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"159192091\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p12#p12\">Mosíah 5:12<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"159192093\" id=\"note35_p1\">Traducción de José Smith, Lucas 14:28 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/14?lang=spa&amp;id=p27#p27\">Lucas 14:27<\/a>, nota <em>b<\/em> al pie de página).<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"159192095\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27#p27\">Moroni 7:27<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159191921",
+        "id": "note4",
+        "text": "<p data-aid=\"159192006\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p89#p89\">Doctrina y Convenios 76:89<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p89#p89",
+          "text": "Doctrina y Convenios 76:89",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159191921",
+        "id": "note5",
+        "text": "<p data-aid=\"159192009\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17\">Romanos 8:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17",
+          "text": "Romanos 8:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159191918",
+        "id": "note2",
+        "text": "<p data-aid=\"159192000\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p39#p39\">Doctrina y Convenios 76:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p39#p39",
+          "text": "Doctrina y Convenios 76:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159191918",
+        "id": "note3",
+        "text": "<p data-aid=\"159192003\" id=\"note3_p1\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/17oaks?lang=spa&amp;id=p3#p3\">Reinos de gloria<\/a>\u201d, pág. 26.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/17oaks?lang=spa&amp;id=p3#p3",
+          "text": "Reinos de gloria",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159191924",
+        "id": "note8",
+        "text": "<p data-aid=\"159192019\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p75%2C79#p75\">Doctrina y Convenios 76:75, 79<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p75%2C79#p75",
+          "text": "Doctrina y Convenios 76:75, 79",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159191924",
+        "id": "note9",
+        "text": "<p data-aid=\"159192022\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p101#p101\">Doctrina y Convenios 76:101<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p101#p101",
+          "text": "Doctrina y Convenios 76:101",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159191921",
+        "id": "note6",
+        "text": "<p data-aid=\"159192012\" id=\"note6_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8-p9#p8\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, pág. 118.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8-p9#p8",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159191924",
+        "id": "note7",
+        "text": "<p data-aid=\"159192015\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51%2C69#p51\">Doctrina y Convenios 76:51, 69<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51%2C69#p51",
+          "text": "Doctrina y Convenios 76:51, 69",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "159191987",
+        "id": "note30",
+        "text": "<p data-aid=\"159192080\" id=\"note30_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p7#p7\">Mosíah 5:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p24-p31#p24\">27:24\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p11-p15%2C26#p11\">Alma 5:11\u201315, 26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p59-p60#p59\">Moisés 6:59\u201360<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p7#p7",
+            "text": "Mosíah 5:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p24-p31#p24",
+            "text": "27:24\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p11-p15%2C26#p11",
+            "text": "Alma 5:11\u201315, 26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6?lang=spa&amp;id=p59-p60#p59",
+            "text": "Moisés 6:59\u201360",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159191942",
+        "id": "note16",
+        "text": "<p data-aid=\"159192040\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p13#p13\">Efesios 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4?lang=spa&amp;id=p13#p13",
+          "text": "Efesios 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159191942",
+        "id": "note15",
+        "text": "<p data-aid=\"159192037\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47",
+          "text": "Moroni 7:47",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159191942",
+        "id": "note14",
+        "text": "<p data-aid=\"159192035\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51-p53#p51\">Doctrina y Convenios 76:51\u201353<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p51-p53#p51",
+          "text": "Doctrina y Convenios 76:51\u201353",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "159191991",
+        "id": "note36",
+        "text": "<p data-aid=\"159192095\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27#p27\">Moroni 7:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27#p27",
+          "text": "Moroni 7:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159191936",
+        "id": "note13",
+        "text": "<p data-aid=\"159192033\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p22-p24#p22\">Doctrina y Convenios 76:22\u201324<\/a>. El testimonio de Jesús se recibe por el Espíritu Santo, el espíritu de profecía y revelación (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/19?lang=spa&amp;id=p10#p10\">Apocalipsis 19:10<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-33?lang=spa&amp;id=p22-p26#p22\">Enseñanzas: José Smith<\/a><\/cite>, pág. 409).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p22-p24#p22",
+            "text": "Doctrina y Convenios 76:22\u201324",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/19?lang=spa&amp;id=p10#p10",
+            "text": "Apocalipsis 19:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-33?lang=spa&amp;id=p22-p26#p22",
+            "text": "Enseñanzas: José Smith",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "159191989",
+        "id": "note35",
+        "text": "<p data-aid=\"159192093\" id=\"note35_p1\">Traducción de José Smith, Lucas 14:28 (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/14?lang=spa&amp;id=p27#p27\">Lucas 14:27<\/a>, nota <em>b<\/em> al pie de página).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/14?lang=spa&amp;id=p27#p27",
+          "text": "Lucas 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159191936",
+        "id": "note12",
+        "text": "<p data-aid=\"159192031\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p8#p8\">Mosíah 5:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p8#p8",
+          "text": "Mosíah 5:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "159191989",
+        "id": "note34",
+        "text": "<p data-aid=\"159192091\" id=\"note34_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p12#p12\">Mosíah 5:12<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p12#p12",
+          "text": "Mosíah 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159191936",
+        "id": "note11",
+        "text": "<p data-aid=\"159192029\" id=\"note11_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, págs. 51\u201352.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "159191989",
+        "id": "note33",
+        "text": "<p data-aid=\"159192089\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/35?lang=spa&amp;id=p15#p15\">Alma 35:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/35?lang=spa&amp;id=p15#p15",
+          "text": "Alma 35:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159191936",
+        "id": "note10",
+        "text": "<p data-aid=\"159192027\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-john/1?lang=spa&amp;id=p4#p4\">Traducción de José Smith, Juan 1:4<\/a> (en el Apéndice de la Biblia); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p1-p3#p1\">Juan 1:1\u20133<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/jst/jst-john/1?lang=spa&amp;id=p4#p4",
+            "text": "Traducción de José Smith, Juan 1:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/1?lang=spa&amp;id=p1-p3#p1",
+            "text": "Juan 1:1\u20133",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "159191989",
+        "id": "note32",
+        "text": "<p data-aid=\"159192086\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 45:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=spa&amp;id=p38#p38\">Helamán 13:38<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p2#p2",
+            "text": "Doctrina y Convenios 45:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/13?lang=spa&amp;id=p38#p38",
+            "text": "Helamán 13:38",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "159191989",
+        "id": "note31",
+        "text": "<p data-aid=\"159192083\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p33#p33\">Alma 34:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p33#p33",
+          "text": "Alma 34:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159191949",
+        "id": "note19",
+        "text": "<p data-aid=\"159192048\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p12#p12\">Mosíah 16:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p12#p12",
+          "text": "Mosíah 16:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159191946",
+        "id": "note18",
+        "text": "<p data-aid=\"159192045\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/27?lang=spa&amp;id=p27#p27\">Alma 27:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/27?lang=spa&amp;id=p27#p27",
+          "text": "Alma 27:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159191946",
+        "id": "note17",
+        "text": "<p data-aid=\"159192042\" id=\"note17_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/3?lang=spa&amp;id=p15-p16#p15\">Apocalipsis 3:15\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rev/3?lang=spa&amp;id=p15-p16#p15",
+          "text": "Apocalipsis 3:15\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "159191982",
+        "id": "note27",
+        "text": "<p data-aid=\"159192071\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p20#p20\">3 Nefi 27:20<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16-p21#p16\">los versículos 16\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p31-p36#p31\">3 Nefi 11:31\u201336<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p20#p20",
+            "text": "3 Nefi 27:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16-p21#p16",
+            "text": "los versículos 16\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p31-p36#p31",
+            "text": "3 Nefi 11:31\u201336",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159191982",
+        "id": "note26",
+        "text": "<p data-aid=\"159192068\" id=\"note26_p1\">\u201cHa recibido poder, que le ha sido dado del Padre, para redimir[nos] [\u2026] de [nuestros] pecados por motivo del arrepentimiento; por tanto, ha enviado a sus ángeles para declarar las [gozosas] nuevas de las condiciones del arrepentimiento, el cual conduce al poder del Redentor, para la salvación de [nuestras] almas\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p11#p11\">Helamán 5:11<\/a>). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p10#p10\">Helamán 5:10<\/a>: Jesús nos redime <em>de<\/em> nuestros pecados, no <em>en<\/em> nuestros pecados.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p11#p11",
+            "text": "Helamán 5:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p10#p10",
+            "text": "Helamán 5:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159191979",
+        "id": "note25",
+        "text": "<p data-aid=\"159192065\" id=\"note25_p1\">Véase John H. Groberg, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/writing-your-personal-and-family-history.html\">Writing Your Personal and Family History<\/span>\u201d, <cite>Ensign<\/cite>, mayo de 1980, págs. 48\u201349.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159191967",
+        "id": "note24",
+        "text": "<p data-aid=\"159192062\" id=\"note24_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa\">Resolved esto en vuestros corazones<\/a>\u201d, pág. 73.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa",
+          "text": "Resolved esto en vuestros corazones",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159191967",
+        "id": "note23",
+        "text": "<p data-aid=\"159192059\" id=\"note23_p1\">Véase Neal A. Maxwell, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa&amp;id=p6#p6\">Resolved esto en vuestros corazones<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1993, pág. 73. Además de estas palabras del élder Maxwell, otros discursantes de conferencia general han tratado este tema en los últimos años, entre ellos Quentin L. Cook (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/valiant-in-the-testimony-of-jesus?lang=spa\">Valientes en el testimonio de Jesús<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, págs. 40\u201345) y Rebecca L. Craven (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/12craven?lang=spa\">Cuidadosos vs. despreocupados<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2019, págs. 9\u201311).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/1992/10/settle-this-in-your-hearts?lang=spa&amp;id=p6#p6",
+            "text": "Resolved esto en vuestros corazones",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2016/10/valiant-in-the-testimony-of-jesus?lang=spa",
+            "text": "Valientes en el testimonio de Jesús",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2019/04/12craven?lang=spa",
+            "text": "Cuidadosos vs. despreocupados",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159191964",
+        "id": "note22",
+        "text": "<p data-aid=\"159192056\" id=\"note22_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p31-p32#p31\">Juan 8:31\u201332<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/8?lang=spa&amp;id=p31-p32#p31",
+          "text": "Juan 8:31\u201332",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159191961",
+        "id": "note21",
+        "text": "<p data-aid=\"159192054\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9\">Mosíah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9",
+          "text": "Mosíah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159191958",
+        "id": "note20",
+        "text": "<p data-aid=\"159192051\" id=\"note20_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p40#p40\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p40#p40",
+          "text": "El poder del ímpetu espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159191918",
+        "id": "note1",
+        "text": "<p data-aid=\"159191997\" id=\"note1_p1\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/17oaks?lang=spa\">Reinos de gloria<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 26\u201329.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/17oaks?lang=spa",
+          "text": "Reinos de gloria",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "159191987",
+        "id": "note29",
+        "text": "<p data-aid=\"159192077\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p35#p35\">Helamán 3:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/3?lang=spa&amp;id=p35#p35",
+          "text": "Helamán 3:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "159191985",
+        "id": "note28",
+        "text": "<p data-aid=\"159192074\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=spa&amp;id=p34#p34\">Helamán 3:34<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/3?lang=spa&amp;id=p34#p34",
+          "text": "Helamán 3:34",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

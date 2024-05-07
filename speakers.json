@@ -792,7 +792,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Adhemar",
         "lastNames": "Damiani",
         "id": 1072,
@@ -4958,5 +4958,29 @@
         "id": 1593,
         "suffix": "",
         "abbr": "JcP"
+    },
+    {
+        "collision": false,
+        "givenNames": "Andrea Muñoz",
+        "lastNames": "Spannaus",
+        "id": 1594,
+        "suffix": "",
+        "abbr": "AMS"
+    },
+    {
+        "collision": false,
+        "givenNames": "Michael T.",
+        "lastNames": "Nelson",
+        "id": 1595,
+        "suffix": "",
+        "abbr": "MTN"
+    },
+    {
+        "collision": true,
+        "givenNames": "Alexander",
+        "lastNames": "Dushku",
+        "id": 1596,
+        "suffix": "",
+        "abbr": "Ad"
     }
 ]

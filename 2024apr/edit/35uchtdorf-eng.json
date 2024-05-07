@@ -1,0 +1,795 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/35uchtdorf?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "86161cdb9d2b4d5992de723eabfbf118",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/35uchtdorf",
+      "data-aid": "159161561",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "86161cdb9d2b4d5992de723eabfbf118"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/6e/71/6e714f45706e276cdf10e47eea3c630a782d03be/6e714f45706e276cdf10e47eea3c630a782d03be.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3050-dieter-f-uchtdorf-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "A Higher Joy",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159161561",
+      {"key": "159161561"}
+    ],
+    [
+      "159161570",
+      {"key": "159161570"}
+    ],
+    [
+      "159161578",
+      {"key": "159161578"}
+    ],
+    [
+      "159161586",
+      {"key": "159161586"}
+    ],
+    [
+      "159161595",
+      {"key": "159161595"}
+    ],
+    [
+      "159161601",
+      {"key": "159161601"}
+    ],
+    [
+      "159161609",
+      {"key": "159161609"}
+    ],
+    [
+      "159161617",
+      {"key": "159161617"}
+    ],
+    [
+      "159161626",
+      {"key": "159161626"}
+    ],
+    [
+      "159161636",
+      {"key": "159161636"}
+    ],
+    [
+      "159161653",
+      {"key": "159161653"}
+    ],
+    [
+      "159161664",
+      {"key": "159161664"}
+    ],
+    [
+      "159161675",
+      {"key": "159161675"}
+    ],
+    [
+      "159161686",
+      {"key": "159161686"}
+    ],
+    [
+      "159161697",
+      {"key": "159161697"}
+    ],
+    [
+      "159161708",
+      {"key": "159161708"}
+    ],
+    [
+      "159161719",
+      {"key": "159161719"}
+    ],
+    [
+      "159161730",
+      {"key": "159161730"}
+    ],
+    [
+      "159161741",
+      {"key": "159161741"}
+    ],
+    [
+      "159161752",
+      {"key": "159161752"}
+    ],
+    [
+      "159161764",
+      {"key": "159161764"}
+    ],
+    [
+      "159161773",
+      {"key": "159161773"}
+    ],
+    [
+      "159161783",
+      {"key": "159161783"}
+    ],
+    [
+      "159161793",
+      {"key": "159161793"}
+    ],
+    [
+      "159161802",
+      {"key": "159161802"}
+    ],
+    [
+      "159164811",
+      {"key": "159164811"}
+    ],
+    [
+      "159164820",
+      {"key": "159164820"}
+    ],
+    [
+      "159164833",
+      {"key": "159164833"}
+    ],
+    [
+      "159164842",
+      {"key": "159164842"}
+    ],
+    [
+      "159164851",
+      {"key": "159164851"}
+    ],
+    [
+      "159164860",
+      {"key": "159164860"}
+    ],
+    [
+      "159164869",
+      {"key": "159164869"}
+    ],
+    [
+      "159164877",
+      {"key": "159164877"}
+    ],
+    [
+      "159164886",
+      {"key": "159164886"}
+    ],
+    [
+      "159164895",
+      {"key": "159164895"}
+    ],
+    [
+      "159164904",
+      {"key": "159164904"}
+    ],
+    [
+      "159164913",
+      {"key": "159164913"}
+    ],
+    [
+      "159164922",
+      {"key": "159164922"}
+    ],
+    [
+      "159164931",
+      {"key": "159164931"}
+    ],
+    [
+      "159164940",
+      {"key": "159164940"}
+    ],
+    [
+      "159164949",
+      {"key": "159164949"}
+    ],
+    [
+      "159164958",
+      {"key": "159164958"}
+    ],
+    [
+      "159164967",
+      {"key": "159164967"}
+    ],
+    [
+      "159164976",
+      {"key": "159164976"}
+    ],
+    [
+      "159164985",
+      {"key": "159164985"}
+    ],
+    [
+      "159164992",
+      {"key": "159164992"}
+    ],
+    [
+      "159164999",
+      {"key": "159164999"}
+    ],
+    [
+      "159165006",
+      {"key": "159165006"}
+    ],
+    [
+      "159165013",
+      {"key": "159165013"}
+    ],
+    [
+      "159165020",
+      {"key": "159165020"}
+    ],
+    [
+      "159165027",
+      {"key": "159165027"}
+    ],
+    [
+      "159165034",
+      {"key": "159165034"}
+    ],
+    [
+      "159165040",
+      {"key": "159165040"}
+    ],
+    [
+      "159165046",
+      {"key": "159165046"}
+    ],
+    [
+      "159165052",
+      {"key": "159165052"}
+    ],
+    [
+      "159165058",
+      {"key": "159165058"}
+    ],
+    [
+      "159165064",
+      {"key": "159165064"}
+    ],
+    [
+      "159165069",
+      {"key": "159165069"}
+    ],
+    [
+      "159165074",
+      {"key": "159165074"}
+    ],
+    [
+      "159165079",
+      {"key": "159165079"}
+    ],
+    [
+      "159165084",
+      {"key": "159165084"}
+    ],
+    [
+      "159165089",
+      {"key": "159165089"}
+    ],
+    [
+      "159165094",
+      {"key": "159165094"}
+    ],
+    [
+      "159165099",
+      {"key": "159165099"}
+    ],
+    [
+      "159165104",
+      {"key": "159165104"}
+    ],
+    [
+      "159165108",
+      {"key": "159165108"}
+    ],
+    [
+      "159165113",
+      {"key": "159165113"}
+    ],
+    [
+      "159165116",
+      {"key": "159165116"}
+    ],
+    [
+      "159165120",
+      {"key": "159165120"}
+    ],
+    [
+      "159165123",
+      {"key": "159165123"}
+    ],
+    [
+      "159165126",
+      {"key": "159165126"}
+    ],
+    [
+      "159165129",
+      {"key": "159165129"}
+    ],
+    [
+      "159165132",
+      {"key": "159165132"}
+    ],
+    [
+      "159165135",
+      {"key": "159165135"}
+    ],
+    [
+      "159165136",
+      {"key": "159165136"}
+    ],
+    [
+      "159165140",
+      {"key": "159165140"}
+    ],
+    [
+      "159165141",
+      {"key": "159165141"}
+    ],
+    [
+      "159165142",
+      {"key": "159165142"}
+    ],
+    [
+      "159165143",
+      {"key": "159165143"}
+    ],
+    [
+      "159165144",
+      {"key": "159165144"}
+    ],
+    [
+      "159165145",
+      {"key": "159165145"}
+    ],
+    [
+      "159165146",
+      {"key": "159165146"}
+    ],
+    [
+      "159165147",
+      {"key": "159165147"}
+    ],
+    [
+      "159165148",
+      {"key": "159165148"}
+    ],
+    [
+      "159165149",
+      {"key": "159165149"}
+    ],
+    [
+      "159165150",
+      {"key": "159165150"}
+    ],
+    [
+      "159165151",
+      {"key": "159165151"}
+    ],
+    [
+      "159165152",
+      {"key": "159165152"}
+    ],
+    [
+      "159165153",
+      {"key": "159165153"}
+    ],
+    [
+      "159165154",
+      {"key": "159165154"}
+    ],
+    [
+      "159165155",
+      {"key": "159165155"}
+    ],
+    [
+      "159165156",
+      {"key": "159165156"}
+    ],
+    [
+      "159165157",
+      {"key": "159165157"}
+    ],
+    [
+      "159165158",
+      {"key": "159165158"}
+    ],
+    [
+      "159165159",
+      {"key": "159165159"}
+    ],
+    [
+      "159165160",
+      {"key": "159165160"}
+    ],
+    [
+      "159165161",
+      {"key": "159165161"}
+    ],
+    [
+      "159165162",
+      {"key": "159165162"}
+    ],
+    [
+      "159165163",
+      {"key": "159165163"}
+    ],
+    [
+      "159165164",
+      {"key": "159165164"}
+    ],
+    [
+      "159165165",
+      {"key": "159165165"}
+    ],
+    [
+      "159165166",
+      {"key": "159165166"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/35uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Uchtdorf teaches that we can experience higher joy as we draw near to God, strive to follow Jesus Christ, and seek to bring joy to those around us.",
+          "title": "A Higher Joy"
+        },
+        "pageSocial": {
+          "description": "Elder Uchtdorf teaches that we can experience higher joy as we draw near to God, strive to follow Jesus Christ, and seek to bring joy to those around us.",
+          "title": "A Higher Joy"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/6e/71/6e714f45706e276cdf10e47eea3c630a782d03be/6e714f45706e276cdf10e47eea3c630a782d03be.jpeg\" data-video-title=\"A Higher Joy\" data-video-description=\"Elder Uchtdorf teaches that we can experience higher joy as we draw near to God, strive to follow Jesus Christ, and seek to bring joy to those around us.\" data-video-id=\"6350441173112\" data-ip=\"Download and Streaming                            \" data-duration=\"937104\" data-assetId=\"b892930af48711ee9b67eeeeac1e190e660f108d\" data-ref-id=\"739E42548D1C613EFB01BCC4173AE26033187B97\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350441173112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"482683670\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3050-dieter-f-uchtdorf-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"86712105\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3050-dieter-f-uchtdorf-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"225683017\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3050-dieter-f-uchtdorf-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"482683670\"/><\/video><h1 data-aid=\"159161570\" id=\"title1\">A Higher Joy<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159161578\" id=\"author1\">By Elder Dieter F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"159161586\" id=\"author2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159161595\" id=\"kicker1\">May we all seek and find the higher joy that comes from devoting our lives to our Heavenly Father and His Beloved Son.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159161601\" id=\"p1\">I have had the great blessing of speaking at general conference for three decades now. During that time, I have been asked questions relating to these messages by many around the world. Lately, one particular question keeps coming up. It usually goes something like this: \u201cElder Uchtdorf, I listened carefully to your last talk, but \u2026 I didn\u2019t hear anything about aviation.\u201d<\/p>\n<p data-aid=\"159161609\" id=\"p2\">Well, after today, I might not hear that question for a while.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159161617\" id=\"title2\">On \u201cthe Tumbling Mirth of Sun-Split Clouds\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"159161626\" id=\"p3\">It\u2019s hard to believe it was only 120 years ago when Wilbur and Orville Wright first lifted off and flew over the sands of Kitty Hawk, North Carolina. Four short flights on that December day changed the world and opened the door to one of the greatest inventions in the world\u2019s history.<\/p>\n<p data-aid=\"159161636\" id=\"p4\">Flying was risky in those early days. The brothers knew this. And so did their father, Milton. In fact, he was so terrified of losing both of his sons in a flying accident that they promised him they would never fly together.<\/p>\n<p data-aid=\"159161653\" id=\"p5\">And they never did\u2014with one exception. Seven years after that historic day at Kitty Hawk, Milton Wright finally gave his consent and watched as Wilbur and Orville flew together for the first time. After landing, Orville convinced his father to take his first and only flight and to see for himself what it was like.<\/p>\n<p data-aid=\"159161664\" id=\"p6\">As the plane lifted from the ground, the 82-year-old Milton got so caught up in the exhilaration of flight that all fear left him. Orville rejoiced as his father shouted with delight, \u201cHigher, Orville, higher!\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<p data-aid=\"159161675\" id=\"p7\">This was a man after my own heart!<\/p>\n<p data-aid=\"159161686\" id=\"p8\">Perhaps the reason I speak about aviation occasionally is that I know something of what the Wrights felt. I too have \u201cslipped the surly bonds of Earth and danced the skies on laughter-silvered wings.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a><\/p>\n<p data-aid=\"159161697\" id=\"p9\">The Wright brothers\u2019 first flight, which happened a mere 37 years before my birth, opened doors of adventure, wonder, and pure joy into my life.<\/p>\n<p data-aid=\"159161708\" id=\"p10\">And yet, as amazing as that joy is, there is an even higher kind of joy. Today, in the spirit of Milton Wright\u2019s delighted cry, \u201cHigher, Orville, higher,\u201d I would like to speak about this higher joy\u2014where it comes from, how it enters our hearts, and how we can experience it in greater measure.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159161719\" id=\"title3\">The Whole Aim of Human Existence<\/h2>\n<\/header>\n<p data-aid=\"159161730\" id=\"p11\">It probably goes without saying that everyone wants to be happy.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> Nevertheless, it also goes without saying that not everyone is happy. Sadly, it seems that for many people, happiness is hard to find.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a><\/p>\n<p data-aid=\"159161741\" id=\"p12\">Why is that? If happiness is the one thing we humans desire most, why are we so unsuccessful at finding it? To paraphrase a country song, maybe we\u2019ve been looking for joy in all the wrong places.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159161752\" id=\"title4\">Where Can We Find Happiness?<\/h2>\n<\/header>\n<p data-aid=\"159161764\" id=\"p13\">Before we discuss how to find joy, allow me to acknowledge that depression and other difficult mental and emotional challenges are real, and the answer is not simply \u201cTry to be happier.\u201d My purpose today is not to diminish or trivialize mental health issues. If you face such challenges, I mourn with you, and I stand beside you. For some people, finding joy may include seeking help from trained mental health professionals who devote their lives to practicing their very important art. We should be thankful for such help.<\/p>\n<p data-aid=\"159161773\" id=\"p14\">Life is not an endless sequence of emotional highs. \u201cFor it must needs be, that there is an opposition in all things.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> And if God Himself weeps, as the scriptures affirm He does,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> then of course you and I will weep as well. Feeling sad is not a sign of failure. In this life, at least, joy and sorrow are inseparable companions.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> Like all of you, I have felt my share of disappointment, sorrow, sadness, and remorse.<\/p>\n<p data-aid=\"159161783\" id=\"p15\">However, I have also experienced for myself the glorious dawn that fills the soul with joy so profound that it can scarcely be kept in. I have discovered for myself that this peaceful confidence comes from following the Savior and walking in His Way.<\/p>\n<p data-aid=\"159161793\" id=\"p16\">The peace He gives us is not like what the world gives.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> It\u2019s better. It\u2019s higher and holier. Jesus said, \u201cI am come that they might have life, and that they might have it more abundantly.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a><\/p>\n<p data-aid=\"159161802\" id=\"p17\">The gospel of Jesus Christ is truly the \u201cgood news of great joy\u201d!<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a> It is a message of matchless hope! A message of yoke-bearing and burden-lifting.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> Of light-gathering. Of heavenly favor, higher understanding, holier covenants, eternal security, and everlasting glory!<\/p>\n<p data-aid=\"159164811\" id=\"p18\">Joy is the very purpose of God\u2019s plan for His children. It\u2019s what you were created for\u2014\u201cthat [you] might have joy\u201d!<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> You were built for this!<\/p>\n<p data-aid=\"159164820\" id=\"p19\">Our Father in Heaven has not hidden the path to happiness. It is not a secret. It is available to all!<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<p data-aid=\"159164833\" id=\"p20\">It is promised to those who walk the path of discipleship, follow the teachings and example of the Savior, keep His commandments, and honor covenants they make with God. What a remarkable promise!<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159164842\" id=\"title5\">God Has Something More to Offer<\/h2>\n<\/header>\n<p data-aid=\"159164851\" id=\"p21\">We all know people who say that they don\u2019t need God to be happy, that they are happy enough without religion.<\/p>\n<p data-aid=\"159164860\" id=\"p22\">I acknowledge and respect these feelings. Our beloved Father in Heaven wants all His children to have as much happiness as possible, so He has filled this world with beautiful, wholesome pleasures and delights, \u201cboth to please the eye and \u2026 gladden the heart.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> For me, flying brought great happiness. Others find it in music, in art, in hobbies, or in nature.<\/p>\n<p data-aid=\"159164869\" id=\"p23\">By inviting everyone and sharing the Savior\u2019s good news of great joy, we do not discount any of these sources of joy. We\u2019re simply saying that God has something more to give. A higher and more profound joy\u2014a joy that transcends anything this world offers. It is a joy that endures heartbreak, penetrates sorrow, and diminishes loneliness.<\/p>\n<p data-aid=\"159164877\" id=\"p24\">Worldly happiness, by contrast, does not last. It cannot. It is the nature of all earthly things to grow old, decay, wear out, or become stale. But godly joy is eternal, because God is eternal. Jesus Christ came to lift us out of the temporal and replace corruption with incorruption. Only He has that power, and only His joy is perpetual.<\/p>\n<p data-aid=\"159164886\" id=\"p25\">If you feel there could be more of this kind of joy in your life, I invite you to embark on the journey of following Jesus Christ and His Way. It is a journey of a lifetime\u2014and beyond. Please let me suggest a few beginning steps on this worthy journey of discovering pure joy.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159164895\" id=\"title6\">Draw Near unto God<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"159164904\" id=\"p26\">Do you remember the woman in the New Testament who endured a bleeding illness for 12 years?<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> She had spent all she had on physicians, but things only grew worse. She had heard of Jesus; His power to heal was well known. But could He heal her? And how could she even get near Him? Her sickness made her \u201cunclean\u201d according to the law of Moses, and therefore she was required to stay away from others.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<p data-aid=\"159164913\" id=\"p27\">Approaching Him openly and asking for healing seemed out of the question.<\/p>\n<p data-aid=\"159164922\" id=\"p28\">Still, she thought, \u201cIf I may touch but his clothes, I shall be whole.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a><\/p>\n<p data-aid=\"159164931\" id=\"p29\">At last, her faith overcame her fear. She braved the censure of others and pressed toward the Savior.<\/p>\n<p data-aid=\"159164940\" id=\"p30\">Finally, she was within reach. She extended her hand.<\/p>\n<p data-aid=\"159164949\" id=\"p31\">And she was healed.<\/p>\n<p data-aid=\"159164958\" id=\"p32\">Aren\u2019t we all somewhat like this woman?<\/p>\n<p data-aid=\"159164967\" id=\"p33\">There may be many reasons why we hesitate to draw near to the Savior. We may face ridicule or condemnation by others. In our pride, we may dismiss the possibility of something so simple being of so much value. We may think that our condition somehow disqualifies us from His healing\u2014that the distance is too great or our sins too many.<\/p>\n<p data-aid=\"159164976\" id=\"p34\">Like this woman, I have learned that if we draw near to God and reach out to touch Him, we can indeed find healing, peace, and joy.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159164985\" id=\"title7\">Look for It<\/h2>\n<\/header>\n<p data-aid=\"159164992\" id=\"p35\">Jesus taught, \u201cSeek, and ye shall find.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a><\/p>\n<p data-aid=\"159164999\" id=\"p36\">I believe this simple phrase is not only a spiritual promise; it is a statement of fact.<\/p>\n<p data-aid=\"159165006\" id=\"p37\">If we seek reasons to be angry, to doubt, to be bitter or alone, we will find them too.<\/p>\n<p data-aid=\"159165013\" id=\"p38\">However, if we seek joy\u2014if we look for reasons to rejoice and to happily follow the Savior, we will find them.<\/p>\n<p data-aid=\"159165020\" id=\"p39\">We rarely find something we are not looking for.<\/p>\n<p data-aid=\"159165027\" id=\"p40\">Are you looking for joy?<\/p>\n<p data-aid=\"159165034\" id=\"p41\">Seek, and ye shall find.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159165040\" id=\"title8\">Bear One Another\u2019s Burdens<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"159165046\" id=\"p42\">Jesus taught, \u201cIt is more blessed to give than to receive.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a><\/p>\n<p data-aid=\"159165052\" id=\"p43\">Can it be that in our search for joy, the best way to find it is to bring joy to others?<\/p>\n<p data-aid=\"159165058\" id=\"p44\">Brothers and sisters, you know and I know this is true! Joy is like a barrel of flour or a jar of oil that will never run out.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a> True joy multiplies when it is shared.<\/p>\n<p data-aid=\"159165064\" id=\"p45\">It doesn\u2019t require something grand or complicated.<\/p>\n<p data-aid=\"159165069\" id=\"p46\">We can do simple things.<\/p>\n<p data-aid=\"159165074\" id=\"p47\">Like praying for someone with all our heart.<\/p>\n<p data-aid=\"159165079\" id=\"p48\">Giving a sincere compliment.<\/p>\n<p data-aid=\"159165084\" id=\"p49\">Helping someone feel welcome, respected, valued, and loved.<\/p>\n<p data-aid=\"159165089\" id=\"p50\">Sharing a favorite scripture and what it means to us.<\/p>\n<p data-aid=\"159165094\" id=\"p51\">Or even just by listening.<\/p>\n<p data-aid=\"159165099\" id=\"p52\">\u201cWhen ye are in the service of your fellow beings ye are only in the service of your God,\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> and God will repay your kindness generously.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> The joy you give to others will return to you in \u201cgood measure, pressed down, and shaken together, and running over.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159165104\" id=\"title9\">\u201cWhat Shall We Do Then?\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"159165108\" id=\"p53\">During the coming days, weeks, and months, may I invite you to:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"159165113\" id=\"p54\">Spend time in a sincere, full-hearted effort to draw near to God.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159165116\" id=\"p55\">Seek diligently for everyday moments of hope, peace, and joy.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159165120\" id=\"p56\">Bring joy to others around you.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"159165123\" id=\"p57\">My dear brothers and sisters, dear friends, as you search the word of God for a deeper understanding of God\u2019s eternal plan, accept these invitations, and strive to walk in His Way, you will experience \u201cthe peace of God, which passeth all understanding,\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a> even in the midst of sorrows. You will feel a greater measure of God\u2019s unsurpassable love swelling within your heart. The dawn of celestial light will penetrate the shadows of your trials, and you will begin to taste the unspeakable glories and wonders of the unseen, perfect, heavenly sphere. You will feel your spirit lifting away from the gravity of this world.<\/p>\n<p data-aid=\"159165126\" id=\"p58\">And like good Milton Wright, perhaps you will raise your voice in rejoicing and shout, \u201cHigher, Father, higher!\u201d<\/p>\n<p data-aid=\"159165129\" id=\"p59\">May we all seek and find the higher joy that comes from devoting our lives to our Heavenly Father and His Beloved Son. This is my earnest prayer and blessing in the sacred name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159165132\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159165135\" id=\"note1_p1\">John Gillespie Magee Jr., \u201cHigh Flight,\u201d poetryfoundation.org.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159165136\" id=\"note2_p1\">See Christopher Klein, \u201c10 Things You May Not Know about the Wright Brothers,\u201d <cite>History<\/cite>, Mar. 28, 2023, history.com.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159165140\" id=\"note3_p1\">Magee, \u201cHigh Flight.\u201d<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159165141\" id=\"note4_p1\">Twenty-four hundred years ago, Aristotle observed that happiness is the one thing all humans desire most. In his treatise <cite>Nicomachean Ethics<\/cite>, he taught that the greatest good in life is the thing we pursue as an end itself (as opposed to those things we pursue that are a means to some other end). Happiness, above all else, is just such a thing. \u201cWe always desire happiness for its own sake,\u201d he said, \u201cand never as a means to something else\u201d (<cite>The Nicomachean Ethics of Aristotle<\/cite>, trans. J. E. C. Weldon [1902], 13\u201314).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159165142\" id=\"note5_p1\">See Harry Enten, \u201cAmerican Happiness Hits Record Lows,\u201d CNN, Feb. 2, 2022, cnn.com; Tamara Lush, \u201cPoll: Americans Are the Unhappiest They\u2019ve Been in 50 Years,\u201d Associated Press, June 16, 2020, apnews.com; \u201cThe Great Gloom: In 2023, Employees Are Unhappier Than Ever. Why?\u201d BambooHR, bamboohr.com.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159165143\" id=\"note6_p1\">See Wanda Mallette, Patti Ryan, and Bob Morrison, \u201cLookin\u2019 for Love (in All the Wrong Places)\u201d (1980).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159165144\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11\">2 Nephi 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159165145\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11?lang=eng&amp;id=p35#p35\">John 11:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=eng&amp;id=p28-p37#p28\">Moses 7:28\u201337<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159165146\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11\">2 Nephi 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159165147\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159165148\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10?lang=eng&amp;id=p10#p10\">John 10:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159165149\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/2.10?lang=eng#p10\">Luke 2:10<\/a>, New Revised Standard Version.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159165150\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=eng&amp;id=p28-p30#p28\">Matthew 11:28\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159165151\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25\">2 Nephi 2:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159165152\" id=\"note15_p1\">If you have any concerns about whether or not your Father in Heaven will accept you and allow you to receive His joy, I invite you to prayerfully read Christ\u2019s parable of the prodigal son (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=eng&amp;id=p11-p32#p11\">Luke 15:11\u201332<\/a>). In that parable, we learn how our Heavenly Father feels about His children and how He awaits and celebrates our return after we have strayed from Him! From the moment we \u201ccome to ourselves\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=eng&amp;id=p17#p17\">verse 17<\/a>) and begin the journey home, He will see us, for He stands watching and waiting. And what is He waiting for? For us! As we draw near to Him, He will celebrate our return and call us His child.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159165153\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p18#p18\">Doctrine and Covenants 59:18<\/a>. This revelation also explains, \u201cIt pleaseth God that he hath given all these things unto man; for unto this end were they made\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p20#p20\">verse 20<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159165154\" id=\"note17_p1\">To those who draw near to God, He gives this grand promise: \u201cI will draw near unto you\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p63#p63\">Doctrine and Covenants 88:63<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/4?lang=eng&amp;id=p8#p8\">James 4:8<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159165155\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=eng&amp;id=p24-p34#p24\">Mark 5:24\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159165156\" id=\"note19_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/clean-and-unclean?lang=eng\">Clean and unclean<\/a>.\u201d<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159165157\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=eng&amp;id=p28#p28\">Mark 5:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159165158\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p7#p7\">Matthew 7:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159165159\" id=\"note22_p1\">By bearing each other\u2019s burdens, we \u201cfulfil the law of Christ\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/6?lang=eng&amp;id=p2#p2\">Galatians 6:2<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8\">Mosiah 18:8<\/a>).<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159165160\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20?lang=eng&amp;id=p35#p35\">Acts 20:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159165161\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/17?lang=eng&amp;id=p8-p16#p8\">1 Kings 17:8\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159165162\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17\">Mosiah 2:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159165163\" id=\"note26_p1\">In his Epistle to the Romans, Paul states that God \u201cwill render to every man according to his deeds: to them who by patient continuance in well doing seek for glory and honour and immortality, eternal life: \u2026 glory, honour, and peace, to every man that worketh good\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2?lang=eng&amp;id=p6-p7%2C10#p6\">Romans 2:6\u20137, 10<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"159165164\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=eng&amp;id=p38#p38\">Luke 6:38<\/a>. Our very salvation and eternal happiness may depend on our compassion and kindness to others (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p31-p46#p31\">Matthew 25:31\u201346<\/a>).<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"159165165\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/3?lang=eng&amp;id=p10#p10\">Luke 3:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"159165166\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7\">Philippians 4:7<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159161730",
+        "id": "note4",
+        "text": "<p data-aid=\"159165141\" id=\"note4_p1\">Twenty-four hundred years ago, Aristotle observed that happiness is the one thing all humans desire most. In his treatise <cite>Nicomachean Ethics<\/cite>, he taught that the greatest good in life is the thing we pursue as an end itself (as opposed to those things we pursue that are a means to some other end). Happiness, above all else, is just such a thing. \u201cWe always desire happiness for its own sake,\u201d he said, \u201cand never as a means to something else\u201d (<cite>The Nicomachean Ethics of Aristotle<\/cite>, trans. J. E. C. Weldon [1902], 13\u201314).<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159161730",
+        "id": "note5",
+        "text": "<p data-aid=\"159165142\" id=\"note5_p1\">See Harry Enten, \u201cAmerican Happiness Hits Record Lows,\u201d CNN, Feb. 2, 2022, cnn.com; Tamara Lush, \u201cPoll: Americans Are the Unhappiest They\u2019ve Been in 50 Years,\u201d Associated Press, June 16, 2020, apnews.com; \u201cThe Great Gloom: In 2023, Employees Are Unhappier Than Ever. Why?\u201d BambooHR, bamboohr.com.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159161664",
+        "id": "note2",
+        "text": "<p data-aid=\"159165136\" id=\"note2_p1\">See Christopher Klein, \u201c10 Things You May Not Know about the Wright Brothers,\u201d <cite>History<\/cite>, Mar. 28, 2023, history.com.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159161686",
+        "id": "note3",
+        "text": "<p data-aid=\"159165140\" id=\"note3_p1\">Magee, \u201cHigh Flight.\u201d<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159161773",
+        "id": "note8",
+        "text": "<p data-aid=\"159165145\" id=\"note8_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11?lang=eng&amp;id=p35#p35\">John 11:35<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=eng&amp;id=p28-p37#p28\">Moses 7:28\u201337<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/11?lang=eng&amp;id=p35#p35",
+            "text": "John 11:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/7?lang=eng&amp;id=p28-p37#p28",
+            "text": "Moses 7:28\u201337",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159161773",
+        "id": "note9",
+        "text": "<p data-aid=\"159165146\" id=\"note9_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11\">2 Nephi 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11",
+          "text": "2 Nephi 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159161741",
+        "id": "note6",
+        "text": "<p data-aid=\"159165143\" id=\"note6_p1\">See Wanda Mallette, Patti Ryan, and Bob Morrison, \u201cLookin\u2019 for Love (in All the Wrong Places)\u201d (1980).<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159161773",
+        "id": "note7",
+        "text": "<p data-aid=\"159165144\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11\">2 Nephi 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p11#p11",
+          "text": "2 Nephi 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159164860",
+        "id": "note16",
+        "text": "<p data-aid=\"159165153\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p18#p18\">Doctrine and Covenants 59:18<\/a>. This revelation also explains, \u201cIt pleaseth God that he hath given all these things unto man; for unto this end were they made\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p20#p20\">verse 20<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p18#p18",
+            "text": "Doctrine and Covenants 59:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p20#p20",
+            "text": "verse 20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159164820",
+        "id": "note15",
+        "text": "<p data-aid=\"159165152\" id=\"note15_p1\">If you have any concerns about whether or not your Father in Heaven will accept you and allow you to receive His joy, I invite you to prayerfully read Christ\u2019s parable of the prodigal son (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=eng&amp;id=p11-p32#p11\">Luke 15:11\u201332<\/a>). In that parable, we learn how our Heavenly Father feels about His children and how He awaits and celebrates our return after we have strayed from Him! From the moment we \u201ccome to ourselves\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=eng&amp;id=p17#p17\">verse 17<\/a>) and begin the journey home, He will see us, for He stands watching and waiting. And what is He waiting for? For us! As we draw near to Him, He will celebrate our return and call us His child.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/15?lang=eng&amp;id=p11-p32#p11",
+            "text": "Luke 15:11\u201332",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/15?lang=eng&amp;id=p17#p17",
+            "text": "verse 17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159164811",
+        "id": "note14",
+        "text": "<p data-aid=\"159165151\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25\">2 Nephi 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25",
+          "text": "2 Nephi 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159161802",
+        "id": "note13",
+        "text": "<p data-aid=\"159165150\" id=\"note13_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=eng&amp;id=p28-p30#p28\">Matthew 11:28\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11?lang=eng&amp;id=p28-p30#p28",
+          "text": "Matthew 11:28\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159161802",
+        "id": "note12",
+        "text": "<p data-aid=\"159165149\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/2.10?lang=eng#p10\">Luke 2:10<\/a>, New Revised Standard Version.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/2.10?lang=eng#p10",
+          "text": "Luke 2:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159161793",
+        "id": "note11",
+        "text": "<p data-aid=\"159165148\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10?lang=eng&amp;id=p10#p10\">John 10:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/10?lang=eng&amp;id=p10#p10",
+          "text": "John 10:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159161793",
+        "id": "note10",
+        "text": "<p data-aid=\"159165147\" id=\"note10_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27",
+          "text": "John 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159164904",
+        "id": "note19",
+        "text": "<p data-aid=\"159165156\" id=\"note19_p1\">See Bible Dictionary, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/clean-and-unclean?lang=eng\">Clean and unclean<\/a>.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/clean-and-unclean?lang=eng",
+          "text": "Clean and unclean",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159164904",
+        "id": "note18",
+        "text": "<p data-aid=\"159165155\" id=\"note18_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=eng&amp;id=p24-p34#p24\">Mark 5:24\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/5?lang=eng&amp;id=p24-p34#p24",
+          "text": "Mark 5:24\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159164895",
+        "id": "note17",
+        "text": "<p data-aid=\"159165154\" id=\"note17_p1\">To those who draw near to God, He gives this grand promise: \u201cI will draw near unto you\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p63#p63\">Doctrine and Covenants 88:63<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/4?lang=eng&amp;id=p8#p8\">James 4:8<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p63#p63",
+            "text": "Doctrine and Covenants 88:63",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/james/4?lang=eng&amp;id=p8#p8",
+            "text": "James 4:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "159165099",
+        "id": "note27",
+        "text": "<p data-aid=\"159165164\" id=\"note27_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=eng&amp;id=p38#p38\">Luke 6:38<\/a>. Our very salvation and eternal happiness may depend on our compassion and kindness to others (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p31-p46#p31\">Matthew 25:31\u201346<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/6?lang=eng&amp;id=p38#p38",
+            "text": "Luke 6:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p31-p46#p31",
+            "text": "Matthew 25:31\u201346",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159165099",
+        "id": "note26",
+        "text": "<p data-aid=\"159165163\" id=\"note26_p1\">In his Epistle to the Romans, Paul states that God \u201cwill render to every man according to his deeds: to them who by patient continuance in well doing seek for glory and honour and immortality, eternal life: \u2026 glory, honour, and peace, to every man that worketh good\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2?lang=eng&amp;id=p6-p7%2C10#p6\">Romans 2:6\u20137, 10<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/2?lang=eng&amp;id=p6-p7%2C10#p6",
+          "text": "Romans 2:6\u20137, 10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159165099",
+        "id": "note25",
+        "text": "<p data-aid=\"159165162\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17\">Mosiah 2:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17",
+          "text": "Mosiah 2:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159165058",
+        "id": "note24",
+        "text": "<p data-aid=\"159165161\" id=\"note24_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/17?lang=eng&amp;id=p8-p16#p8\">1 Kings 17:8\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-kgs/17?lang=eng&amp;id=p8-p16#p8",
+          "text": "1 Kings 17:8\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159165046",
+        "id": "note23",
+        "text": "<p data-aid=\"159165160\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/20?lang=eng&amp;id=p35#p35\">Acts 20:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/20?lang=eng&amp;id=p35#p35",
+          "text": "Acts 20:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159165040",
+        "id": "note22",
+        "text": "<p data-aid=\"159165159\" id=\"note22_p1\">By bearing each other\u2019s burdens, we \u201cfulfil the law of Christ\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/gal/6?lang=eng&amp;id=p2#p2\">Galatians 6:2<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8\">Mosiah 18:8<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/gal/6?lang=eng&amp;id=p2#p2",
+            "text": "Galatians 6:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8",
+            "text": "Mosiah 18:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159164992",
+        "id": "note21",
+        "text": "<p data-aid=\"159165158\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p7#p7\">Matthew 7:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7?lang=eng&amp;id=p7#p7",
+          "text": "Matthew 7:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159164922",
+        "id": "note20",
+        "text": "<p data-aid=\"159165157\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=eng&amp;id=p28#p28\">Mark 5:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/5?lang=eng&amp;id=p28#p28",
+          "text": "Mark 5:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159161617",
+        "id": "note1",
+        "text": "<p data-aid=\"159165135\" id=\"note1_p1\">John Gillespie Magee Jr., \u201cHigh Flight,\u201d poetryfoundation.org.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "159165123",
+        "id": "note29",
+        "text": "<p data-aid=\"159165166\" id=\"note29_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7\">Philippians 4:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7",
+          "text": "Philippians 4:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "159165104",
+        "id": "note28",
+        "text": "<p data-aid=\"159165165\" id=\"note28_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/3?lang=eng&amp;id=p10#p10\">Luke 3:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/3?lang=eng&amp;id=p10#p10",
+          "text": "Luke 3:10",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

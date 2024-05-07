@@ -1,0 +1,600 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/33spannaus?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "7e686005784e45f7926e511211df589e",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/33spannaus",
+      "data-aid": "159163047",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "4",
+      "data-orig-id": "7e686005784e45f7926e511211df589e"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/be/a1/bea127aada7087b3800ad0bc7101b51a78b8af01/bea127aada7087b3800ad0bc7101b51a78b8af01.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-32k-eng.mp3",
+      "variant": "audio"
+    }],
+    "title": "Faithful to the End",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159163047",
+      {"key": "159163047"}
+    ],
+    [
+      "159163057",
+      {"key": "159163057"}
+    ],
+    [
+      "159163065",
+      {"key": "159163065"}
+    ],
+    [
+      "159163069",
+      {"key": "159163069"}
+    ],
+    [
+      "159163073",
+      {"key": "159163073"}
+    ],
+    [
+      "159163078",
+      {"key": "159163078"}
+    ],
+    [
+      "159163085",
+      {"key": "159163085"}
+    ],
+    [
+      "159163091",
+      {"key": "159163091"}
+    ],
+    [
+      "159163097",
+      {"key": "159163097"}
+    ],
+    [
+      "159163105",
+      {"key": "159163105"}
+    ],
+    [
+      "159163109",
+      {"key": "159163109"}
+    ],
+    [
+      "159163115",
+      {"key": "159163115"}
+    ],
+    [
+      "159163119",
+      {"key": "159163119"}
+    ],
+    [
+      "159163123",
+      {"key": "159163123"}
+    ],
+    [
+      "159163127",
+      {"key": "159163127"}
+    ],
+    [
+      "159163137",
+      {"key": "159163137"}
+    ],
+    [
+      "159163143",
+      {"key": "159163143"}
+    ],
+    [
+      "159163150",
+      {"key": "159163150"}
+    ],
+    [
+      "159163156",
+      {"key": "159163156"}
+    ],
+    [
+      "159163163",
+      {"key": "159163163"}
+    ],
+    [
+      "159163170",
+      {"key": "159163170"}
+    ],
+    [
+      "159163178",
+      {"key": "159163178"}
+    ],
+    [
+      "159163185",
+      {"key": "159163185"}
+    ],
+    [
+      "159163191",
+      {"key": "159163191"}
+    ],
+    [
+      "159163196",
+      {"key": "159163196"}
+    ],
+    [
+      "159163201",
+      {"key": "159163201"}
+    ],
+    [
+      "159163208",
+      {"key": "159163208"}
+    ],
+    [
+      "159163217",
+      {"key": "159163217"}
+    ],
+    [
+      "159163222",
+      {"key": "159163222"}
+    ],
+    [
+      "159163228",
+      {"key": "159163228"}
+    ],
+    [
+      "159163233",
+      {"key": "159163233"}
+    ],
+    [
+      "159163238",
+      {"key": "159163238"}
+    ],
+    [
+      "159163244",
+      {"key": "159163244"}
+    ],
+    [
+      "159163253",
+      {"key": "159163253"}
+    ],
+    [
+      "159163260",
+      {"key": "159163260"}
+    ],
+    [
+      "159163267",
+      {"key": "159163267"}
+    ],
+    [
+      "159163273",
+      {"key": "159163273"}
+    ],
+    [
+      "159163278",
+      {"key": "159163278"}
+    ],
+    [
+      "159163284",
+      {"key": "159163284"}
+    ],
+    [
+      "159163290",
+      {"key": "159163290"}
+    ],
+    [
+      "159163299",
+      {"key": "159163299"}
+    ],
+    [
+      "159163305",
+      {"key": "159163305"}
+    ],
+    [
+      "159163312",
+      {"key": "159163312"}
+    ],
+    [
+      "159163319",
+      {"key": "159163319"}
+    ],
+    [
+      "159163324",
+      {"key": "159163324"}
+    ],
+    [
+      "159163329",
+      {"key": "159163329"}
+    ],
+    [
+      "159163333",
+      {"key": "159163333"}
+    ],
+    [
+      "159163336",
+      {"key": "159163336"}
+    ],
+    [
+      "159163343",
+      {"key": "159163343"}
+    ],
+    [
+      "159163349",
+      {"key": "159163349"}
+    ],
+    [
+      "159163356",
+      {"key": "159163356"}
+    ],
+    [
+      "159163364",
+      {"key": "159163364"}
+    ],
+    [
+      "159163372",
+      {"key": "159163372"}
+    ],
+    [
+      "159163380",
+      {"key": "159163380"}
+    ],
+    [
+      "159163387",
+      {"key": "159163387"}
+    ],
+    [
+      "159163404",
+      {"key": "159163404"}
+    ],
+    [
+      "159163411",
+      {"key": "159163411"}
+    ],
+    [
+      "159163417",
+      {"key": "159163417"}
+    ],
+    [
+      "159163427",
+      {"key": "159163427"}
+    ],
+    [
+      "159163436",
+      {"key": "159163436"}
+    ],
+    [
+      "159163445",
+      {"key": "159163445"}
+    ],
+    [
+      "159163454",
+      {"key": "159163454"}
+    ],
+    [
+      "159163460",
+      {"key": "159163460"}
+    ],
+    [
+      "159163468",
+      {"key": "159163468"}
+    ],
+    [
+      "159163478",
+      {"key": "159163478"}
+    ],
+    [
+      "159163487",
+      {"key": "159163487"}
+    ],
+    [
+      "159163494",
+      {"key": "159163494"}
+    ],
+    [
+      "159163502",
+      {"key": "159163502"}
+    ],
+    [
+      "159163510",
+      {"key": "159163510"}
+    ],
+    [
+      "159163518",
+      {"key": "159163518"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/33spannaus",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Sister Spannaus teaches six ways we can prepare ourselves to face the world and be faithful to the end.",
+          "title": "Faithful to the End"
+        },
+        "pageSocial": {
+          "description": "Sister Spannaus teaches six ways we can prepare ourselves to face the world and be faithful to the end.",
+          "title": "Faithful to the End"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/be/a1/bea127aada7087b3800ad0bc7101b51a78b8af01/bea127aada7087b3800ad0bc7101b51a78b8af01.jpeg\" data-video-title=\"Faithful to the End\" data-video-description=\"Sister Spannaus teaches six ways we can prepare ourselves to face the world and be faithful to the end.\" data-video-id=\"6350438382112\" data-ip=\"Download and Streaming                            \" data-duration=\"685353\" data-assetId=\"caba1244f47f11eea8a9eeeeac1e8b21a0c1523a\" data-ref-id=\"7C606D31998CB800CF569B22E76B8089F83F9D87\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350438382112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352284031\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-360p-eng.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"63640590\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-720p-eng.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"164717594\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-3030-andrea-munoz-spannaus-1080p-eng.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"352284031\"/><\/video><h1 data-aid=\"159163057\" id=\"title1\">Faithful to the End<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159163065\" id=\"author1\">By Sister Andrea Muñoz Spannaus<\/p>\n<p class=\"author-role\" data-aid=\"159163069\" id=\"author2\">Second Counselor in the Young Women General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159163073\" id=\"kicker1\">By His hand, you will be able to bring down every Goliath that appears in your life.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159163078\" id=\"p1\">Dear young friends, today I would like to speak directly to you\u2014the youth of the Church.<\/p>\n<p data-aid=\"159163085\" id=\"p2\">It\u2019s been a year since our Young Women General Presidency was called. How much has happened in this past year!<\/p>\n<p data-aid=\"159163091\" id=\"p3\">We have met many of you and have studied the teachings of Christ together. We have sung songs, made new friends, and served with you in our communities. We have been strengthened by listening to your testimonies at youth conferences and world events. And we have worshipped together in the house of the Lord.<\/p>\n<p data-aid=\"159163097\" id=\"p4\">Each time, we have shared a message from our Lord Jesus Christ. Tonight will not be different; I have a message for you, the youth of the Church of Jesus Christ.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159163105\" id=\"title2\">The Big Questions<\/h2>\n<\/header>\n<p data-aid=\"159163109\" id=\"p5\">Have you ever wondered how you can be faithful to God while living in a world of sin? Where do you get the strength to go forward and continue doing good? How do you experience true joy?<\/p>\n<p data-aid=\"159163115\" id=\"p6\">I think the experience of David and Goliath<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> can help.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159163119\" id=\"title3\">David and Goliath<\/h2>\n<\/header>\n<p data-aid=\"159163123\" id=\"p7\">In the Old Testament, the army of the Philistines was battling the Israelites, and every morning and every evening, a giant Philistine named Goliath challenged any Israelite to fight him.<\/p>\n<img alt=\"David and Goliath. \" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/500%2C/0/default\" data-img-id=\"0ac9722bf38811ee9e29eeeeac1e969806e3adb6\" srcset=\"https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0ac9722bf38811ee9e29eeeeac1e969806e3adb6/full/640%2C/0/default 640w\" data-assetId=\"0ac9722bf38811ee9e29eeeeac1e969806e3adb6\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159163127\" id=\"p8\">Among the Israelite people lived David, a young shepherd much smaller than Goliath but with a giant faith in Jesus Christ! David volunteered to fight. Even the king tried to dissuade him, but David chose to put his trust in Jesus Christ.<\/p>\n<p data-aid=\"159163137\" id=\"p9\">Previously, David had fought a lion and also a bear. From his own experience, he knew that God had protected him and made him victorious. To David, the <em>cause of God was the most important cause<\/em>. So, full of faith in a God who would not abandon him, he gathered five smooth stones, took up his sling, and went to face the giant.<\/p>\n<img alt=\"David\u2019s five stones.\" id=\"img4\" src=\"https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/500%2C/0/default\" data-img-id=\"1219b311f38811eebb71eeeeac1e920553f614dd\" srcset=\"https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1219b311f38811eebb71eeeeac1e920553f614dd/full/640%2C/0/default 640w\" data-assetId=\"1219b311f38811eebb71eeeeac1e920553f614dd\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159163143\" id=\"p10\">The scriptures tell us that the first stone David threw hit Goliath\u2019s forehead, ending his life.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159163150\" id=\"title4\">Searching for the Answer<\/h2>\n<\/header>\n<p data-aid=\"159163156\" id=\"p11\">While David used only one stone to kill Goliath, he was prepared with five. With five! This makes me think about how I can prepare myself to face the world.<\/p>\n<p data-aid=\"159163163\" id=\"p12\">What if each of David\u2019s stones represented a strength we need to be triumphant in our lives? What could those five stones be? I thought of these possibilities:<\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"159163170\" id=\"p13\">The stone of <em>my love for God<\/em>.<\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"159163178\" id=\"p14\">The stone of <em>my faith in our Savior, Jesus Christ<\/em>.<\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"159163185\" id=\"p15\">The stone of <em>the knowledge of my true identity<\/em>.<\/p>\n<\/li>\n<li data-marker=\"4.\">\n<p data-aid=\"159163191\" id=\"p16\">The stone of <em>my daily repentance<\/em>.<\/p>\n<\/li>\n<li data-marker=\"5.\">\n<p data-aid=\"159163196\" id=\"p17\">The stone of <em>my access to God\u2019s power<\/em>.<\/p>\n<\/li>\n<\/ol>\n<p data-aid=\"159163201\" id=\"p18\">Let\u2019s talk about how we are blessed by these strengths.<\/p>\n<p data-aid=\"159163208\" id=\"p19\">First, the stone of <em>my love for God<\/em>. Loving God is the first great commandment.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> The <cite>For the Strength of Youth<\/cite> guide teaches us: \u201cGod loves you. He is your Father. His perfect love can inspire you to love Him. When your love for Heavenly Father is the most important influence in your life, many decisions become easier.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a><\/p>\n<p data-aid=\"159163217\" id=\"p20\">Our love for God and our close relationship with Him give us the strength we need to transform our hearts and more easily overcome our challenges.<\/p>\n<p data-aid=\"159163222\" id=\"p21\">Second, the stone of <em>my faith in our Savior, Jesus Christ<\/em>. When Jesus Christ came to earth, He suffered for our sins,<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a> and He took upon Himself our sorrows, our pains, our weaknesses, and our physical and mental illnesses. That\u2019s why He knows how to help us. Having faith in Jesus Christ means to fully trust His wisdom, His timing, His love, and His power to atone for our sins. The stone of faith in Jesus Christ will defeat any \u201cgiant\u201d in our lives.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a> We can overcome this fallen world because He overcame it first.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a><\/p>\n<p data-aid=\"159163228\" id=\"p22\">Number three, the stone of <em>the knowledge of my true identity<\/em>. Our beloved prophet, President Russell M. Nelson, taught us that our most important identities are as children of God, children of the covenant, and disciples of Jesus Christ.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a><\/p>\n<p data-aid=\"159163233\" id=\"p23\">Everything changes when I know who I really am.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a> When I doubt my abilities, I often repeat to myself in my mind or out loud, \u201cI am a daughter of God, I am a daughter of God,\u201d as many times as I need until I again feel confident to keep going.<\/p>\n<p data-aid=\"159163238\" id=\"p24\">Fourth, the stone of <em>my daily repentance<\/em>. In the <cite>For the Strength of Youth<\/cite> guide, we read: \u201cRepentance isn\u2019t punishment for sin; it is the way the Savior frees us from sin. To repent means to change\u2015to turn away from sin and toward God. It means to improve and receive forgiveness. This kind of change is not a one-time event; it\u2019s an ongoing process.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a><\/p>\n<p data-aid=\"159163244\" id=\"p25\">Nothing is more liberating than feeling God\u2019s forgiveness and knowing that we are clean and reconciled with Him. Forgiveness is possible for everyone.<\/p>\n<p data-aid=\"159163253\" id=\"p26\">The fifth stone is the stone of <em>my access to God\u2019s power<\/em>. The covenants we make with God, such as those we make in the ordinance of baptism, give us access to the power of godliness.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a> God\u2019s power is a real power that helps us face challenges, make good decisions, and increase our capacity to endure difficult situations. It is a power with which we can grow in the specific abilities that we need.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a><\/p>\n<p data-aid=\"159163260\" id=\"p27\">The <cite>For the Strength of Youth<\/cite> guide explains: \u201cCovenants <em>connect<\/em> you to Heavenly Father and the Savior. They <em>increase God\u2019s power<\/em> in your life.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a><\/p>\n<p data-aid=\"159163267\" id=\"p28\">Let\u2019s talk about that connection. Remember when Christ taught the difference between a house built on rock and one on sand?<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> Elder Dieter F. Uchtdorf explained: \u201cA house doesn\u2019t survive in a storm because the house is strong. It also doesn\u2019t survive just because the rock is strong. The house survives the storm because it is firmly attached to that strong rock. It\u2019s the strength of the <em>connection<\/em> to the rock that matters.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a><\/p>\n<img alt=\"House built upon a rock.\" id=\"img3\" src=\"https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/500%2C/0/default\" data-img-id=\"4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9\" srcset=\"https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9/full/640%2C/0/default 640w\" data-assetId=\"4768b3e1f38811eea6afeeeeac1e5ba8881ffbf9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159163273\" id=\"p29\">Our personal connection to Jesus Christ will give us the courage and confidence to move forward amid people who do not respect our beliefs or who bully us. Christ invites us to keep Him in our thoughts constantly; He tells us, \u201cLook unto me in <em>every<\/em> thought.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a> Thinking about the Savior gives us clarity of mind to make decisions, to act without fear, and to say no to what is contrary to God\u2019s teachings.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> When my day is difficult and I feel like I can\u2019t take any more, thinking about Christ brings me peace and gives me hope.<\/p>\n<p data-aid=\"159163278\" id=\"p30\">How can we draw upon this power of Jesus Christ? Obeying our covenants and increasing our faith in Jesus Christ are key.<\/p>\n<p data-aid=\"159163284\" id=\"p31\">I actually wish David had had one more stone; that would be the stone of <i>my testimony<\/i>. Our testimony is built by personal spiritual experiences in which we recognize the divine influence in our lives.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a> No one can take that knowledge from us. Knowing what we know from having lived our spiritual experiences is priceless. Being true to that knowledge gives us freedom. It gives us joy! If we love the truth, we will seek it, and once we find it, we will defend it.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159163290\" id=\"title5\">An Invitation<\/h2>\n<\/header>\n<p data-aid=\"159163299\" id=\"p32\">Just as I chose stone number six, I invite you to meet with your class, quorum, or family and think about what other strengths you need to acquire to remain faithful to God and, therefore, overcome the world.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159163305\" id=\"title6\">A Promise<\/h2>\n<\/header>\n<p data-aid=\"159163312\" id=\"p33\">Dear friends, Christ is eager to accompany us on the journey of our lives. I promise you, as you hold on to the iron rod, you will walk hand in hand with Jesus Christ.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> <em>He<\/em> will be guiding you, and <em>He<\/em> will be teaching you<em>.<\/em><a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> By <em>His<\/em> hand, you will be able to bring down every Goliath that appears in your life.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159163319\" id=\"title7\">Testimony<\/h2>\n<\/header>\n<p data-aid=\"159163324\" id=\"p34\">I testify that there is joy in praying every day, in reading the Book of Mormon every day, in partaking of the sacrament every Sunday, and in going to seminary\u2014even in the early morning! There is joy in doing good.<\/p>\n<p data-aid=\"159163329\" id=\"p35\">There is joy in being faithful to the God of the universe, the Savior of the world, the King of kings. There is joy in being a disciple of Jesus Christ.<\/p>\n<p data-aid=\"159163333\" id=\"p36\">God is our Father. He knows your heart\u2019s desires and your possibilities, and He trusts you.<\/p>\n<p data-aid=\"159163336\" id=\"p37\">Dear youth, Jesus Christ will help you to be faithful to the end. Of these truths I bear my testimony in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159163343\" id=\"note_title1\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159163349\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=eng\">1 Samuel 17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159163356\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=eng&amp;id=p40%2C45-p49#p40\">1 Samuel 17:40, 45\u201349<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159163364\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p38#p36\">Matthew 22:36\u201338<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159163372\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=eng&amp;id=p2#p2\">For the Strength of Youth: A Guide for Making Choices<\/a><\/cite> (2022), 11.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159163380\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p14#p11\">Alma 7:11\u201314<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159163387\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p12#p12\">1 Nephi 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159163404\" id=\"note7_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 95\u201398.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159163411\" id=\"note8_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng\">Choices for Eternity<\/a>\u201d (worldwide devotional for young adults, May 15, 2022), Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159163417\" id=\"note9_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>\u201d and \u201c<a class=\"cross-ref\" href=\"/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=eng\">Aaronic Priesthood Quorum Theme<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159163427\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/03-help?lang=eng&amp;id=p4#p4\">For the Strength of Youth<\/a><\/cite>, 7.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159163436\" id=\"note11_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 97\u2013100; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19\">Doctrine and Covenants 84:19\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159163445\" id=\"note12_p1\">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=eng&amp;id=title_number16#title_number16\">3.5<\/a>, Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159163454\" id=\"note13_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/08-joy?lang=eng&amp;id=p2#p2\">For the Strength of Youth<\/a><\/cite>, 34; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159163460\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14?lang=eng&amp;id=p24-p27#p24\">3 Nephi 14:24\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159163468\" id=\"note15_p1\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=eng\"><em>For the Strength of Youth:<\/em> The Savior\u2019s Message to You<\/a>,\u201d <cite>For the Strength of Youth<\/cite>, Mar. 2024, 38.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159163478\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36\">Doctrine and Covenants 6:36<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159163487\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p33-p34#p33\">Doctrine and Covenants 6:33\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159163494\" id=\"note18_p1\">See Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/testimony?lang=eng\">Testimony<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2008, 26\u201329; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=eng&amp;id=p46#p46\">Alma 5:46<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159163502\" id=\"note19_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/07-truth?lang=eng&amp;id=p6#p6\">For the Strength of Youth<\/a><\/cite>, 32: \u201cLove the truth so much that you would never want to steal, lie, cheat, or deceive in any way\u2014at school, at work, online, everywhere. Be the same faithful follower of Jesus Christ in public and in private.\u201d<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159163510\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p19%2C30#p19\">1 Nephi 8:19, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p24-p25#p24\">15:24\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29-p30#p29\">Helaman 3:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159163518\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p13#p13\">3 Nephi 22:13<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159163208",
+        "id": "note4",
+        "text": "<p data-aid=\"159163372\" id=\"note4_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=eng&amp;id=p2#p2\">For the Strength of Youth: A Guide for Making Choices<\/a><\/cite> (2022), 11.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/04-neighbor?lang=eng&amp;id=p2#p2",
+          "text": "For the Strength of Youth: A Guide for Making Choices",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159163222",
+        "id": "note5",
+        "text": "<p data-aid=\"159163380\" id=\"note5_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p14#p11\">Alma 7:11\u201314<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p14#p11",
+          "text": "Alma 7:11\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159163143",
+        "id": "note2",
+        "text": "<p data-aid=\"159163356\" id=\"note2_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=eng&amp;id=p40%2C45-p49#p40\">1 Samuel 17:40, 45\u201349<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/17?lang=eng&amp;id=p40%2C45-p49#p40",
+          "text": "1 Samuel 17:40, 45\u201349",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159163208",
+        "id": "note3",
+        "text": "<p data-aid=\"159163364\" id=\"note3_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p38#p36\">Matthew 22:36\u201338<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p38#p36",
+          "text": "Matthew 22:36\u201338",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159163228",
+        "id": "note8",
+        "text": "<p data-aid=\"159163411\" id=\"note8_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng\">Choices for Eternity<\/a>\u201d (worldwide devotional for young adults, May 15, 2022), Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=eng",
+          "text": "Choices for Eternity",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159163233",
+        "id": "note9",
+        "text": "<p data-aid=\"159163417\" id=\"note9_p1\">See \u201c<a class=\"cross-ref\" href=\"/study/manual/young-women-theme/young-women-theme?lang=eng\">Young Women Theme<\/a>\u201d and \u201c<a class=\"cross-ref\" href=\"/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=eng\">Aaronic Priesthood Quorum Theme<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/young-women-theme/young-women-theme?lang=eng",
+            "text": "Young Women Theme",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/aaronic-priesthood-quorum-theme/aaronic-priesthood-quorum-theme?lang=eng",
+            "text": "Aaronic Priesthood Quorum Theme",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159163222",
+        "id": "note6",
+        "text": "<p data-aid=\"159163387\" id=\"note6_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p12#p12\">1 Nephi 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p12#p12",
+          "text": "1 Nephi 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159163222",
+        "id": "note7",
+        "text": "<p data-aid=\"159163404\" id=\"note7_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 95\u201398.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159163273",
+        "id": "note16",
+        "text": "<p data-aid=\"159163478\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36\">Doctrine and Covenants 6:36<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36",
+          "text": "Doctrine and Covenants 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159163267",
+        "id": "note15",
+        "text": "<p data-aid=\"159163468\" id=\"note15_p1\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=eng\"><em>For the Strength of Youth:<\/em> The Savior\u2019s Message to You<\/a>,\u201d <cite>For the Strength of Youth<\/cite>, Mar. 2024, 38.<\/p>",
+        "referenceUris": [{
+          "href": "/study/ftsoy/2024/03/14a-for-the-strength-of-youth-the-saviors-message-to-you?lang=eng",
+          "text": "For the Strength of Youth: The Savior\u2019s Message to You",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159163267",
+        "id": "note14",
+        "text": "<p data-aid=\"159163460\" id=\"note14_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/14?lang=eng&amp;id=p24-p27#p24\">3 Nephi 14:24\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/14?lang=eng&amp;id=p24-p27#p24",
+          "text": "3 Nephi 14:24\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159163260",
+        "id": "note13",
+        "text": "<p data-aid=\"159163454\" id=\"note13_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/08-joy?lang=eng&amp;id=p2#p2\">For the Strength of Youth<\/a><\/cite>, 34; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/08-joy?lang=eng&amp;id=p2#p2",
+          "text": "For the Strength of Youth",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159163253",
+        "id": "note12",
+        "text": "<p data-aid=\"159163445\" id=\"note12_p1\">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=eng&amp;id=title_number16#title_number16\">3.5<\/a>, Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/3-priesthood-principles?lang=eng&amp;id=title_number16#title_number16",
+          "text": "3.5",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159163253",
+        "id": "note11",
+        "text": "<p data-aid=\"159163436\" id=\"note11_p1\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 97\u2013100; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19\">Doctrine and Covenants 84:19\u201321<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2022/04/47nelson?lang=eng",
+            "text": "The Power of Spiritual Momentum",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19",
+            "text": "Doctrine and Covenants 84:19\u201321",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159163238",
+        "id": "note10",
+        "text": "<p data-aid=\"159163427\" id=\"note10_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/03-help?lang=eng&amp;id=p4#p4\">For the Strength of Youth<\/a><\/cite>, 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/03-help?lang=eng&amp;id=p4#p4",
+          "text": "For the Strength of Youth",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159163312",
+        "id": "note21",
+        "text": "<p data-aid=\"159163518\" id=\"note21_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p13#p13\">3 Nephi 22:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p13#p13",
+          "text": "3 Nephi 22:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159163312",
+        "id": "note20",
+        "text": "<p data-aid=\"159163510\" id=\"note20_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p19%2C30#p19\">1 Nephi 8:19, 30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p24-p25#p24\">15:24\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29-p30#p29\">Helaman 3:29\u201330<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p19%2C30#p19",
+            "text": "1 Nephi 8:19, 30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p24-p25#p24",
+            "text": "15:24\u201325",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29-p30#p29",
+            "text": "Helaman 3:29\u201330",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159163115",
+        "id": "note1",
+        "text": "<p data-aid=\"159163349\" id=\"note1_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-sam/17?lang=eng\">1 Samuel 17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/1-sam/17?lang=eng",
+          "text": "1 Samuel 17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159163284",
+        "id": "note19",
+        "text": "<p data-aid=\"159163502\" id=\"note19_p1\">See <cite><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/07-truth?lang=eng&amp;id=p6#p6\">For the Strength of Youth<\/a><\/cite>, 32: \u201cLove the truth so much that you would never want to steal, lie, cheat, or deceive in any way\u2014at school, at work, online, everywhere. Be the same faithful follower of Jesus Christ in public and in private.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/07-truth?lang=eng&amp;id=p6#p6",
+          "text": "For the Strength of Youth",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159163284",
+        "id": "note18",
+        "text": "<p data-aid=\"159163494\" id=\"note18_p1\">See Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/testimony?lang=eng\">Testimony<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2008, 26\u201329; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=eng&amp;id=p46#p46\">Alma 5:46<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2008/04/testimony?lang=eng",
+            "text": "Testimony",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=eng&amp;id=p46#p46",
+            "text": "Alma 5:46",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159163273",
+        "id": "note17",
+        "text": "<p data-aid=\"159163487\" id=\"note17_p1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p33-p34#p33\">Doctrine and Covenants 6:33\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p33-p34#p33",
+          "text": "Doctrine and Covenants 6:33\u201334",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

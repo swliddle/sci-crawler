@@ -1,0 +1,669 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/15dushku?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "458a2671b32348a7a66f5b7760b13d1d",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/15dushku",
+      "data-aid": "159166872",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "6",
+      "data-orig-id": "51c3002753ea423d98691cc0dc5791e3"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/6f/80/6f802bb342b232f8757f64adfa61c6ee62040390/6f802bb342b232f8757f64adfa61c6ee62040390.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1050-alexander-dushku-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Columnas y rayos",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159166872",
+      {"key": "159166872"}
+    ],
+    [
+      "159221404",
+      {"key": "159221404"}
+    ],
+    [
+      "159221405",
+      {"key": "159221405"}
+    ],
+    [
+      "159221406",
+      {"key": "159221406"}
+    ],
+    [
+      "159221407",
+      {"key": "159221407"}
+    ],
+    [
+      "159221408",
+      {"key": "159221408"}
+    ],
+    [
+      "159221409",
+      {"key": "159221409"}
+    ],
+    [
+      "159221410",
+      {"key": "159221410"}
+    ],
+    [
+      "159221412",
+      {"key": "159221412"}
+    ],
+    [
+      "159221413",
+      {"key": "159221413"}
+    ],
+    [
+      "159221414",
+      {"key": "159221414"}
+    ],
+    [
+      "159221416",
+      {"key": "159221416"}
+    ],
+    [
+      "159221418",
+      {"key": "159221418"}
+    ],
+    [
+      "159221420",
+      {"key": "159221420"}
+    ],
+    [
+      "159221422",
+      {"key": "159221422"}
+    ],
+    [
+      "159221424",
+      {"key": "159221424"}
+    ],
+    [
+      "159221426",
+      {"key": "159221426"}
+    ],
+    [
+      "159221428",
+      {"key": "159221428"}
+    ],
+    [
+      "159221430",
+      {"key": "159221430"}
+    ],
+    [
+      "159221432",
+      {"key": "159221432"}
+    ],
+    [
+      "159221434",
+      {"key": "159221434"}
+    ],
+    [
+      "159221436",
+      {"key": "159221436"}
+    ],
+    [
+      "159221438",
+      {"key": "159221438"}
+    ],
+    [
+      "159221440",
+      {"key": "159221440"}
+    ],
+    [
+      "159221442",
+      {"key": "159221442"}
+    ],
+    [
+      "159221446",
+      {"key": "159221446"}
+    ],
+    [
+      "159221450",
+      {"key": "159221450"}
+    ],
+    [
+      "159221452",
+      {"key": "159221452"}
+    ],
+    [
+      "159221456",
+      {"key": "159221456"}
+    ],
+    [
+      "159221460",
+      {"key": "159221460"}
+    ],
+    [
+      "159221464",
+      {"key": "159221464"}
+    ],
+    [
+      "159221468",
+      {"key": "159221468"}
+    ],
+    [
+      "159221471",
+      {"key": "159221471"}
+    ],
+    [
+      "159221474",
+      {"key": "159221474"}
+    ],
+    [
+      "159221478",
+      {"key": "159221478"}
+    ],
+    [
+      "159221482",
+      {"key": "159221482"}
+    ],
+    [
+      "159221484",
+      {"key": "159221484"}
+    ],
+    [
+      "159221488",
+      {"key": "159221488"}
+    ],
+    [
+      "159221492",
+      {"key": "159221492"}
+    ],
+    [
+      "159221496",
+      {"key": "159221496"}
+    ],
+    [
+      "159221500",
+      {"key": "159221500"}
+    ],
+    [
+      "159221504",
+      {"key": "159221504"}
+    ],
+    [
+      "159221509",
+      {"key": "159221509"}
+    ],
+    [
+      "159221514",
+      {"key": "159221514"}
+    ],
+    [
+      "159221519",
+      {"key": "159221519"}
+    ],
+    [
+      "159221525",
+      {"key": "159221525"}
+    ],
+    [
+      "159221531",
+      {"key": "159221531"}
+    ],
+    [
+      "159221537",
+      {"key": "159221537"}
+    ],
+    [
+      "159221544",
+      {"key": "159221544"}
+    ],
+    [
+      "159221551",
+      {"key": "159221551"}
+    ],
+    [
+      "159221554",
+      {"key": "159221554"}
+    ],
+    [
+      "159221561",
+      {"key": "159221561"}
+    ],
+    [
+      "159221568",
+      {"key": "159221568"}
+    ],
+    [
+      "159221575",
+      {"key": "159221575"}
+    ],
+    [
+      "159221582",
+      {"key": "159221582"}
+    ],
+    [
+      "159221589",
+      {"key": "159221589"}
+    ],
+    [
+      "159221596",
+      {"key": "159221596"}
+    ],
+    [
+      "159221603",
+      {"key": "159221603"}
+    ],
+    [
+      "159221611",
+      {"key": "159221611"}
+    ],
+    [
+      "159221617",
+      {"key": "159221617"}
+    ],
+    [
+      "159221624",
+      {"key": "159221624"}
+    ],
+    [
+      "159221631",
+      {"key": "159221631"}
+    ],
+    [
+      "159221639",
+      {"key": "159221639"}
+    ],
+    [
+      "159221645",
+      {"key": "159221645"}
+    ],
+    [
+      "159221652",
+      {"key": "159221652"}
+    ],
+    [
+      "159221659",
+      {"key": "159221659"}
+    ],
+    [
+      "159221666",
+      {"key": "159221666"}
+    ],
+    [
+      "159221673",
+      {"key": "159221673"}
+    ],
+    [
+      "159221680",
+      {"key": "159221680"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/15dushku",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Dushku nos enseña que las experiencias espirituales espectaculares son poco frecuentes y que el Señor suele darnos un rayo de luz a la vez.",
+          "title": "Columnas y rayos"
+        },
+        "pageSocial": {
+          "description": "El élder Dushku nos enseña que las experiencias espirituales espectaculares son poco frecuentes y que el Señor suele darnos un rayo de luz a la vez.",
+          "title": "Columnas y rayos"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/6f/80/6f802bb342b232f8757f64adfa61c6ee62040390/6f802bb342b232f8757f64adfa61c6ee62040390.jpeg\" data-video-title=\"Columnas y rayos\" data-video-description=\"El élder Dushku nos enseña que las experiencias espirituales espectaculares son poco frecuentes y que el Señor suele darnos un rayo de luz a la vez.\" data-video-id=\"6350421608112\" data-ip=\"Download and Streaming                            \" data-duration=\"677311\" data-assetId=\"acd51a5ff44211eeb867eeeeac1e2f0ae76be553\" data-ref-id=\"6BB74502F736ECB872B4DA392F87ABF0A001ECC9\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350421608112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"348706655\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1050-alexander-dushku-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"62977409\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1050-alexander-dushku-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"163100858\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-1050-alexander-dushku-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"348706655\"/><\/video><h1 data-aid=\"159221404\" id=\"title1\">Columnas y rayos<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159221405\" id=\"author1\">Por el élder Alexander Dushku<\/p>\n<p class=\"author-role\" data-aid=\"159221406\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159221407\" id=\"kicker1\">Nosotros también podemos tener nuestra propia columna de luz, un rayo a la vez.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159221408\" id=\"p1\">Mi mensaje es para quienes se preocupan por su testimonio porque no han tenido experiencias espirituales extraordinarias. Oro para que pueda darles un poco de paz y seguridad.<\/p>\n<p data-aid=\"159221409\" id=\"p2\">¡La Restauración del Evangelio de Jesucristo comenzó con una explosión de luz y verdad! Un adolescente del norte del estado de Nueva York, con el nombre tan común y corriente de José Smith, se adentra en una arboleda para orar. Está preocupado por su alma y por su condición ante Dios. Busca el perdón de sus pecados y está confundido en cuanto a qué iglesia unirse. Necesita claridad y paz; necesita luz y conocimiento<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"159221410\" id=\"p3\">Cuando José se arrodilla para orar y \u201celevar a Dios el deseo de [su] corazón\u201d, lo envuelve una densa oscuridad. Algo maligno, opresivo y muy real intenta detenerlo, hacer que se le trabe la lengua de modo que no pueda hablar. Las fuerzas de las tinieblas se hacen tan intensas que José cree que va a morir. Mas él se esfuerza con todo su aliento por pedirle a Dios que lo libre del poder de este enemigo que se ha apoderado de él. Y entonces, en el momento en que está para hundirse en la desesperación y entregarse a la destrucción, cuando no sabe si podrá resistir más, un resplandor glorioso llena la arboleda, disipando la oscuridad y al enemigo de su alma<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"159221412\" id=\"p4\">Una \u201ccolumna de luz\u201d, más brillante que el sol, desciende gradualmente sobre él. Se le aparece un Personaje y luego otro<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>. Su \u201cfulgor y gloria no admiten descripción\u201d. El primero, nuestro Padre Celestial, pronuncia su nombre, \u201cseñalando al otro: [¡José!]. <em>Este es mi Hijo Amado: ¡Escúchalo!<\/em>\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"159221413\" id=\"p5\">Con ese extraordinario destello de luz y verdad comienza la Restauración. Acto seguido vendrá un verdadero diluvio de revelación y bendiciones divinas: nuevas Escrituras, las llaves restauradas del sacerdocio, apóstoles y profetas, ordenanzas y convenios, y el restablecimiento de la Iglesia verdadera y viviente del Señor que algún día llenará la tierra con la luz y el testimonio de Jesucristo y Su Evangelio restaurado.<\/p>\n<p data-aid=\"159221414\" id=\"p6\">Todo eso, y mucho más, comenzó con la oración apremiante de un muchacho y una columna de luz.<\/p>\n<p data-aid=\"159221416\" id=\"p7\">También nosotros tenemos nuestras propias necesidades apremiantes, necesitamos liberarnos de la confusión espiritual y la oscuridad mundana, necesitamos saber por nosotros mismos<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. Esa es una de las razones por las que el presidente Russell M. Nelson nos ha invitado a \u201csum[ergirnos] en la gloriosa luz de la Restauración\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"159221418\" id=\"p8\">Una de las grandes verdades de la Restauración es que los cielos están abiertos, que nosotros también podemos recibir luz y conocimiento de lo alto. Testifico que eso es verdad.<\/p>\n<p data-aid=\"159221420\" id=\"p9\">No obstante, debemos cuidarnos de una trampa espiritual. En ocasiones, los miembros fieles de la Iglesia se desaniman e incluso se alejan porque no han tenido experiencias espirituales extraordinarias, porque no han experimentado su propia columna de luz. El presidente Spencer W. Kimball advirtió: \u201cSi se espera siempre algo espectacular, puede que muchos se pierdan por completo el flujo constante de comunicación revelada\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"159221422\" id=\"p10\">El presidente Joseph F. Smith asimismo recordó: \u201cEl Señor no me concedió milagros [cuando yo era joven], sino que me mostró la verdad, línea por línea, precepto por precepto, un poco aquí y un poco allí\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"159221424\" id=\"p11\">Ese es el modelo típico del Señor, hermanos y hermanas. En lugar de enviarnos una columna de luz, Él nos envía un rayo de luz, y luego otro, y otro más.<\/p>\n<p data-aid=\"159221426\" id=\"p12\">Esos rayos de luz se derraman continuamente sobre nosotros. En las Escrituras se enseña que Jesucristo es \u201cla luz y la vida del mundo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, que Su \u201cEspíritu da luz a todo hombre [y mujer] que viene al mundo\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> y que Su luz \u201cllen[a] la inmensidad del espacio\u201d, dando \u201cvida a todas las cosas\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. La Luz de Cristo está literalmente a nuestro alrededor.<\/p>\n<p data-aid=\"159221428\" id=\"p13\">Si hemos recibido el don del Espíritu Santo y nos estamos esforzando por ejercer fe, arrepentirnos y honrar nuestros convenios, entonces somos dignos de recibir esos rayos divinos constantemente. Según la memorable frase del élder David A. Bednar, \u201cestamos \u2018viviendo en revelación\u2019\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"159221430\" id=\"p14\">Sin embargo, cada uno de nosotros es diferente. No hay dos personas que experimenten la luz y la verdad de Dios exactamente de la misma manera. Dediquen un momento a pensar en cómo experimentan ustedes la luz y el Espíritu del Señor.<\/p>\n<p data-aid=\"159221432\" id=\"p15\">Es posible que hayan experimentado esos destellos de luz y testimonio como paz que se habló a su mente en cuanto a un asunto que los preocupaba<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"159221434\" id=\"p16\">Puede que fuera como una impresión, una voz apacible y delicada, que se asentó en su mente y en su corazón<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a> y los instó a hacer algo bueno, como ayudar a alguien.<\/p>\n<p data-aid=\"159221436\" id=\"p17\">Tal vez hayan estado en una clase en la iglesia \u2014o en un campamento para jóvenes\u2014 y hayan sentido un fuerte deseo de seguir a Jesucristo y permanecer fieles<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. Quizás incluso se pusieron de pie y compartieron un testimonio que esperaban que fuera cierto y luego sintieron que lo era.<\/p>\n<p data-aid=\"159221438\" id=\"p18\">También es posible que hayan estado orando y sintieran una gozosa certeza de que Dios los ama<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"159221440\" id=\"p19\">Tal vez hayan oído a alguien dar testimonio de Jesucristo y eso les tocó el corazón y los llenó de esperanza<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"159221442\" id=\"p20\">Quizás estaban leyendo el Libro de Mormón y un versículo les habló al alma, como si Dios lo hubiera puesto allí solo para ustedes, y luego se dieron cuenta de que así fue<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"159221446\" id=\"p21\">Puede que hayan sentido el amor de Dios por otras personas mientras les prestaban servicio<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"159221450\" id=\"p22\">Es posible que les cueste sentir el Espíritu en el momento a causa de la depresión o la ansiedad, pero tienen el preciado don y la fe para mirar en retrospectiva y reconocer \u201clas tiernas misericordias del Señor\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a> en el pasado.<\/p>\n<p data-aid=\"159221452\" id=\"p23\">Lo que quiero decir es que hay muchas maneras de recibir rayos celestiales de testimonio. Por supuesto, estas son solo algunas ideas. Posiblemente no sean espectaculares, pero todas ellas forman parte de nuestro testimonio.<\/p>\n<p data-aid=\"159221456\" id=\"p24\">Hermanos y hermanas, no he visto una columna de luz, pero, al igual que ustedes, he experimentado muchos rayos divinos. A lo largo de los años he intentado atesorar tales experiencias. Descubro que, conforme lo hago, las reconozco y recuerdo incluso más de ellas. Estos son algunos ejemplos de mi propia vida; puede que para algunos de ustedes no sean muy impresionantes, pero para mí son preciados.<\/p>\n<p data-aid=\"159221460\" id=\"p25\">Recuerdo cuando era un adolescente revoltoso y fui a un bautismo. Cuando la reunión estaba a punto de comenzar, sentí que el Espíritu me instaba a sentarme y a ser reverente. Me senté y permanecí callado el resto de la reunión.<\/p>\n<p data-aid=\"159221464\" id=\"p26\">Antes de salir a la misión, temía que mi testimonio no fuera lo bastante fuerte. Nadie en mi familia había servido en una misión y yo no sabía si podía hacerlo. Recuerdo haber estudiado y orado con desesperación para recibir un testimonio más seguro de Jesucristo. Entonces, un día, mientras le suplicaba al Padre Celestial, sentí una poderosa sensación de luz y calidez, y lo supe, simplemente lo supe.<\/p>\n<p data-aid=\"159221468\" id=\"p27\">Años después, recuerdo que una noche me despertó una sensación de \u201cinteligencia pura\u201d que me decía que me llamarían para servir en el cuórum de élderes<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a> y dos semanas después, fui llamado.<\/p>\n<p data-aid=\"159221471\" id=\"p28\">Recuerdo una conferencia general en la que un amado miembro del Cuórum de los Doce Apóstoles pronunció las palabras exactas de testimonio que yo le había dicho a un amigo que esperaba escuchar.<\/p>\n<p data-aid=\"159221474\" id=\"p29\">Recuerdo haberme arrodillado con cientos de hermanos para orar por un querido amigo que yacía inconsciente conectado a un respirador artificial en un pequeño y lejano hospital luego de que su corazón se detuviera. Mientras uníamos nuestros corazones para suplicar por su vida, se despertó y se sacó de la garganta él mismo el [tubo del] respirador. Actualmente presta servicio como presidente de estaca.<\/p>\n<p data-aid=\"159221478\" id=\"p30\">También recuerdo haberme despertado con fuertes sentimientos espirituales después de un sueño vívido de un querido amigo y mentor que había fallecido demasiado pronto, dejando un enorme vacío en mi vida. Se veía sonriente y alegre, y supe que él se encontraba bien.<\/p>\n<p data-aid=\"159221482\" id=\"p31\">Estos son algunos de mis rayos. Ustedes han tenido sus propias experiencias, sus propios destellos de testimonios llenos de luz. Cuando reconocemos, recordamos y \u201creuni[mos] tod[os]\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a> esos rayos, algo maravilloso y poderoso comienza a suceder: \u201cLa luz se allega a la luz\u201d, \u201cla verdad abraza a la verdad\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. La realidad y el poder de un rayo de testimonio se refuerzan y se combinan con los de otro, y luego con los de otro, y con los de otro más. Línea por línea, precepto por precepto, un rayo aquí y un rayo allá \u2014un pequeño y atesorado momento espiritual a la vez\u2014, crece dentro de nosotros un núcleo de experiencias espirituales llenas de luz. Tal vez ningún rayo por sí solo sea lo suficientemente fuerte o lo suficientemente brillante como para constituir un testimonio completo, pero reunidos pueden convertirse en una luz que la oscuridad de la duda no puede doblegar.<\/p>\n<p data-aid=\"159221484\" id=\"p32\">\u201cLuego, ¿no es esto verdadero?\u201d, pregunta Alma. \u201cOs digo que sí, porque es luz\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"159221488\" id=\"p33\">\u201cLo que es de Dios es luz\u201d, nos enseña el Señor, \u201cy el que recibe luz y persevera en Dios, recibe más luz, y esa luz se hace más y más resplandeciente hasta el día perfecto\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"159221492\" id=\"p34\">Eso significa, hermanos y hermanas, que con el tiempo y con \u201cgran diligencia\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>, nosotros también podemos tener nuestra propia columna de luz, un rayo a la vez. Y en medio de esa columna, también encontraremos a un amoroso Padre Celestial llamándonos por nuestro nombre, señalando a nuestro Salvador Jesucristo e invitándonos: \u201c¡Escúchalo!\u201d.<\/p>\n<p data-aid=\"159221496\" id=\"p35\">Doy testimonio de Jesucristo, de que Él es la luz y la vida del mundo entero \u2014y del mundo personal de ustedes y del mío.<\/p>\n<p data-aid=\"159221500\" id=\"p36\">Testifico que Él es el Hijo verdadero y viviente del Dios verdadero y viviente, y que está a la cabeza de esta Iglesia verdadera y viviente, guiada y dirigida por Sus profetas y apóstoles verdaderos y vivientes.<\/p>\n<p data-aid=\"159221504\" id=\"p37\">Ruego que reconozcamos y recibamos Su luz gloriosa y que entonces lo elijamos a Él antes que a las tinieblas del mundo por siempre jamás. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159221509\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159221514\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p10-p13#p10\">José Smith\u2014Historia 1:10\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159221519\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p14-p16#p14\">José Smith\u2014Historia 1:14\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159221525\" id=\"note3_p1\">Véase José Smith, <a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/25\">Journal, Nov. 9\u201311, 1835<\/a>, pág. 24, josephsmithpapers.org.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159221531\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159221537\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p20#p20\">José Smith\u2014Historia 1:20<\/a>. Cuando José Smith regresó a casa después de la Primera Visión, su madre le preguntó si estaba bien. Él respondió: \u201cMe siento bastante bien [\u2026]. <em>He sabido a satisfacción mía<\/em> que el presbiterianismo no es verdadero\u201d (cursiva agregada).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159221544\" id=\"note6_p1\">Russell M. Nelson, \u201cPalabras de clausura\u201d, <cite>Liahona<\/cite>, noviembre de 2019, pág. 122.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159221551\" id=\"note7_p1\">Spencer W. Kimball, en Conference Report, Conferencia de Área en Múnich, Alemania, 1973, pág. 77; citado en Graham W. Doxey, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1991/10/the-voice-is-still-small?lang=spa&amp;id=p6#p6\">La voz sigue siendo apacible<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1992, pág. 28.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159221554\" id=\"note8_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/chapter-23?lang=spa&amp;id=p2#p2\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 2000, pág. 217: \u201cEn los años de mi juventud, cuando me inicié en el ministerio, con frecuencia iba y le pedía al Señor que me manifestara alguna cosa maravillosa, a fin de recibir un testimonio. Pero el Señor no me concedió milagros sino que me mostró la verdad, línea por línea, precepto por precepto, un poco aquí y un poco allí, hasta que me hizo saber la verdad desde el tope de la cabeza hasta la planta de los pies, y hasta que se borraron completamente de mí las dudas y el temor. No fue necesario que enviara a un ángel de los cielos para hacerlo, ni tuvo que hablar con la trompeta de un arcángel; sino que, mediante el susurro de la voz apacible y delicada del Espíritu del Dios viviente, me dio el testimonio que poseo. Es por medio de ese principio y de ese poder, que dará a todos los hijos de los hombres un conocimiento de la verdad que permanecerá con ellos y los hará conocer la verdad como Dios la conoce y cumplir con la voluntad del Padre como lo hace Cristo\u201d.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159221561\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9\">Mosíah 16:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159221568\" id=\"note10_p1\"> <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46#p46\">Doctrina y Convenios 84:46<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p9#p9\">Juan 1:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159221575\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12\">Doctrina y Convenios 88:12\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159221582\" id=\"note12_p1\">David A. Bednar, <cite>The Spirit of Revelation<\/cite>, 2021, pág. 7.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159221589\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 6:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159221596\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 8:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p30#p30\">Hebreos 5:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159221603\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 11:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159221611\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21\">2 Nefi 4:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p44#p44\">Helamán 5:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159221617\" id=\"note17_p1\">El Señor ha catalogado la capacidad de creer en el testimonio de otras personas como un don espiritual (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46?lang=spa&amp;id=p13-p14#p13\">Doctrina y Convenios 46:13\u201314<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159221624\" id=\"note18_p1\">La revelación moderna enseña que las palabras de las Escrituras \u201cos son dadas por mi Espíritu [\u2026]; y si no fuera por mi poder, no podríais tenerlas. Por tanto, podéis testificar que habéis oído mi voz y que conocéis mis palabras\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p35-p36#p35\">Doctrina y Convenios 18:35\u201336<\/a>).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159221631\" id=\"note19_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17\">Mosíah 2:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p45-p48#p45\">Moroni 7:45\u201348<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159221639\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>. El élder Gerrit W. Gong ha hablado de \u201ccomprender una situación más allá de lo que se ve y regocijarse en las muchas y tiernas misericordias del Señor en nuestra vida\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/14gong?lang=spa&amp;id=p30#p30\">La ministración<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 18) y de cómo \u201cla mano del Señor en nuestra vida a menudo es más clara en retrospectiva\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/always-remember-him?lang=spa&amp;id=p19#p19\">Recordarle siempre<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2016, pág. 108). El don de reconocer y agradecer la mano del Señor en nuestra vida, aunque no la hayamos reconocido o sentido en el momento, es poderoso. Las Escrituras hablan a menudo del poder espiritual de recordar (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p9-p12#p9\">Helamán 5:9\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77\">Doctrina y Convenios 20:77, 79<\/a>), lo cual puede ser un precursor de la revelación (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3-p4#p3\">Moroni 10:3\u20134<\/a>).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159221645\" id=\"note21_p1\">José Smith enseñó: \u201cUna persona podrá beneficiarse si percibe la primera indicación del espíritu de revelación; por ejemplo, cuando sientan que la inteligencia pura fluye en ustedes, podrá darles una repentina corriente de ideas, de manera que, por atenderla, verán que se cumple el mismo día o poco después; (es decir) se verificarán las cosas que el Espíritu de Dios haya comunicado a su mente; y así, al aprender a reconocer y entender el Espíritu de Dios, podrán crecer en el principio de la revelación hasta que lleguen a ser perfectos en Cristo Jesús\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-10?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, pág. 138).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159221652\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159221659\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 88:40<\/a>: \u201cPorque la inteligencia se allega a la inteligencia; la sabiduría recibe a la sabiduría; la verdad abraza a la verdad; la virtud ama a la virtud; la luz se allega a la luz\u201d.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159221666\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p35#p35\">Alma 32:35<\/a>. Alma hizo hincapié en que esas experiencias llenas de luz, aunque a menudo pequeñas, son reales en todos los sentidos. Su realidad se hace aún más poderosa cuando se combinan para formar un poderoso todo.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159221673\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p24#p24\">Doctrina y Convenios 50:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159221680\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p41#p41\">Alma 32:41<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159221412",
+        "id": "note4",
+        "text": "<p data-aid=\"159221531\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17",
+          "text": "José Smith\u2014Historia 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159221416",
+        "id": "note5",
+        "text": "<p data-aid=\"159221537\" id=\"note5_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p20#p20\">José Smith\u2014Historia 1:20<\/a>. Cuando José Smith regresó a casa después de la Primera Visión, su madre le preguntó si estaba bien. Él respondió: \u201cMe siento bastante bien [\u2026]. <em>He sabido a satisfacción mía<\/em> que el presbiterianismo no es verdadero\u201d (cursiva agregada).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p20#p20",
+          "text": "José Smith\u2014Historia 1:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159221410",
+        "id": "note2",
+        "text": "<p data-aid=\"159221519\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p14-p16#p14\">José Smith\u2014Historia 1:14\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p14-p16#p14",
+          "text": "José Smith\u2014Historia 1:14\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159221412",
+        "id": "note3",
+        "text": "<p data-aid=\"159221525\" id=\"note3_p1\">Véase José Smith, <a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/25\">Journal, Nov. 9\u201311, 1835<\/a>, pág. 24, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/25",
+          "text": "Journal, Nov. 9\u201311, 1835"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159221422",
+        "id": "note8",
+        "text": "<p data-aid=\"159221554\" id=\"note8_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-f-smith/chapter-23?lang=spa&amp;id=p2#p2\">Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith<\/a><\/cite>, 2000, pág. 217: \u201cEn los años de mi juventud, cuando me inicié en el ministerio, con frecuencia iba y le pedía al Señor que me manifestara alguna cosa maravillosa, a fin de recibir un testimonio. Pero el Señor no me concedió milagros sino que me mostró la verdad, línea por línea, precepto por precepto, un poco aquí y un poco allí, hasta que me hizo saber la verdad desde el tope de la cabeza hasta la planta de los pies, y hasta que se borraron completamente de mí las dudas y el temor. No fue necesario que enviara a un ángel de los cielos para hacerlo, ni tuvo que hablar con la trompeta de un arcángel; sino que, mediante el susurro de la voz apacible y delicada del Espíritu del Dios viviente, me dio el testimonio que poseo. Es por medio de ese principio y de ese poder, que dará a todos los hijos de los hombres un conocimiento de la verdad que permanecerá con ellos y los hará conocer la verdad como Dios la conoce y cumplir con la voluntad del Padre como lo hace Cristo\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-f-smith/chapter-23?lang=spa&amp;id=p2#p2",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: Joseph F. Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159221426",
+        "id": "note9",
+        "text": "<p data-aid=\"159221561\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9\">Mosíah 16:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9",
+          "text": "Mosíah 16:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159221416",
+        "id": "note6",
+        "text": "<p data-aid=\"159221544\" id=\"note6_p1\">Russell M. Nelson, \u201cPalabras de clausura\u201d, <cite>Liahona<\/cite>, noviembre de 2019, pág. 122.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159221420",
+        "id": "note7",
+        "text": "<p data-aid=\"159221551\" id=\"note7_p1\">Spencer W. Kimball, en Conference Report, Conferencia de Área en Múnich, Alemania, 1973, pág. 77; citado en Graham W. Doxey, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1991/10/the-voice-is-still-small?lang=spa&amp;id=p6#p6\">La voz sigue siendo apacible<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1992, pág. 28.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1991/10/the-voice-is-still-small?lang=spa&amp;id=p6#p6",
+          "text": "La voz sigue siendo apacible",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159221438",
+        "id": "note16",
+        "text": "<p data-aid=\"159221611\" id=\"note16_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21\">2 Nefi 4:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p44#p44\">Helamán 5:44<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21",
+            "text": "2 Nefi 4:21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p44#p44",
+            "text": "Helamán 5:44",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159221436",
+        "id": "note15",
+        "text": "<p data-aid=\"159221603\" id=\"note15_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/11?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 11:12<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2",
+            "text": "Mosíah 5:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/11?lang=spa&amp;id=p12#p12",
+            "text": "Doctrina y Convenios 11:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159221434",
+        "id": "note14",
+        "text": "<p data-aid=\"159221596\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 8:2<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p30#p30\">Hebreos 5:30<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p2#p2",
+            "text": "Doctrina y Convenios 8:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p30#p30",
+            "text": "Hebreos 5:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159221432",
+        "id": "note13",
+        "text": "<p data-aid=\"159221589\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 6:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 6:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159221428",
+        "id": "note12",
+        "text": "<p data-aid=\"159221582\" id=\"note12_p1\">David A. Bednar, <cite>The Spirit of Revelation<\/cite>, 2021, pág. 7.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159221426",
+        "id": "note11",
+        "text": "<p data-aid=\"159221575\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12\">Doctrina y Convenios 88:12\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12",
+          "text": "Doctrina y Convenios 88:12\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159221426",
+        "id": "note10",
+        "text": "<p data-aid=\"159221568\" id=\"note10_p1\"> <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46#p46\">Doctrina y Convenios 84:46<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p9#p9\">Juan 1:9<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46#p46",
+            "text": "Doctrina y Convenios 84:46",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/1?lang=spa&amp;id=p9#p9",
+            "text": "Juan 1:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159221446",
+        "id": "note19",
+        "text": "<p data-aid=\"159221631\" id=\"note19_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17\">Mosíah 2:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p45-p48#p45\">Moroni 7:45\u201348<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17",
+            "text": "Mosíah 2:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p45-p48#p45",
+            "text": "Moroni 7:45\u201348",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159221442",
+        "id": "note18",
+        "text": "<p data-aid=\"159221624\" id=\"note18_p1\">La revelación moderna enseña que las palabras de las Escrituras \u201cos son dadas por mi Espíritu [\u2026]; y si no fuera por mi poder, no podríais tenerlas. Por tanto, podéis testificar que habéis oído mi voz y que conocéis mis palabras\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p35-p36#p35\">Doctrina y Convenios 18:35\u201336<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p35-p36#p35",
+          "text": "Doctrina y Convenios 18:35\u201336",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159221440",
+        "id": "note17",
+        "text": "<p data-aid=\"159221617\" id=\"note17_p1\">El Señor ha catalogado la capacidad de creer en el testimonio de otras personas como un don espiritual (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/46?lang=spa&amp;id=p13-p14#p13\">Doctrina y Convenios 46:13\u201314<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/46?lang=spa&amp;id=p13-p14#p13",
+          "text": "Doctrina y Convenios 46:13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159221492",
+        "id": "note26",
+        "text": "<p data-aid=\"159221680\" id=\"note26_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p41#p41\">Alma 32:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p41#p41",
+          "text": "Alma 32:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159221488",
+        "id": "note25",
+        "text": "<p data-aid=\"159221673\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p24#p24\">Doctrina y Convenios 50:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p24#p24",
+          "text": "Doctrina y Convenios 50:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159221484",
+        "id": "note24",
+        "text": "<p data-aid=\"159221666\" id=\"note24_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p35#p35\">Alma 32:35<\/a>. Alma hizo hincapié en que esas experiencias llenas de luz, aunque a menudo pequeñas, son reales en todos los sentidos. Su realidad se hace aún más poderosa cuando se combinan para formar un poderoso todo.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p35#p35",
+          "text": "Alma 32:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159221482",
+        "id": "note23",
+        "text": "<p data-aid=\"159221659\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 88:40<\/a>: \u201cPorque la inteligencia se allega a la inteligencia; la sabiduría recibe a la sabiduría; la verdad abraza a la verdad; la virtud ama a la virtud; la luz se allega a la luz\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p40#p40",
+          "text": "Doctrina y Convenios 88:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159221482",
+        "id": "note22",
+        "text": "<p data-aid=\"159221652\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10",
+          "text": "Efesios 1:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159221468",
+        "id": "note21",
+        "text": "<p data-aid=\"159221645\" id=\"note21_p1\">José Smith enseñó: \u201cUna persona podrá beneficiarse si percibe la primera indicación del espíritu de revelación; por ejemplo, cuando sientan que la inteligencia pura fluye en ustedes, podrá darles una repentina corriente de ideas, de manera que, por atenderla, verán que se cumple el mismo día o poco después; (es decir) se verificarán las cosas que el Espíritu de Dios haya comunicado a su mente; y así, al aprender a reconocer y entender el Espíritu de Dios, podrán crecer en el principio de la revelación hasta que lleguen a ser perfectos en Cristo Jesús\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-10?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, pág. 138).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-10?lang=spa&amp;id=p24#p24",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159221450",
+        "id": "note20",
+        "text": "<p data-aid=\"159221639\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>. El élder Gerrit W. Gong ha hablado de \u201ccomprender una situación más allá de lo que se ve y regocijarse en las muchas y tiernas misericordias del Señor en nuestra vida\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/14gong?lang=spa&amp;id=p30#p30\">La ministración<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 18) y de cómo \u201cla mano del Señor en nuestra vida a menudo es más clara en retrospectiva\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/04/always-remember-him?lang=spa&amp;id=p19#p19\">Recordarle siempre<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2016, pág. 108). El don de reconocer y agradecer la mano del Señor en nuestra vida, aunque no la hayamos reconocido o sentido en el momento, es poderoso. Las Escrituras hablan a menudo del poder espiritual de recordar (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p9-p12#p9\">Helamán 5:9\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77\">Doctrina y Convenios 20:77, 79<\/a>), lo cual puede ser un precursor de la revelación (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3-p4#p3\">Moroni 10:3\u20134<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20",
+            "text": "1 Nefi 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2023/04/14gong?lang=spa&amp;id=p30#p30",
+            "text": "La ministración",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2016/04/always-remember-him?lang=spa&amp;id=p19#p19",
+            "text": "Recordarle siempre",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p9-p12#p9",
+            "text": "Helamán 5:9\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77%2C79#p77",
+            "text": "Doctrina y Convenios 20:77, 79",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3-p4#p3",
+            "text": "Moroni 10:3\u20134",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159221409",
+        "id": "note1",
+        "text": "<p data-aid=\"159221514\" id=\"note1_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p10-p13#p10\">José Smith\u2014Historia 1:10\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p10-p13#p10",
+          "text": "José Smith\u2014Historia 1:10\u201313",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

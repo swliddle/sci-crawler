@@ -1,0 +1,608 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/45kearon?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "58b4d21f8b1c46c5866a3525b570ff56",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/45kearon",
+      "data-aid": "159168315",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "4618a6f7363241e48f8300959e1e4966"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/8c/84/8c84222ffbcd600f7e1a3fe1a128828bdad5906a/8c84222ffbcd600f7e1a3fe1a128828bdad5906a.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4050-patrick-kearon-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "La intención de Dios es llevarlos a casa",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-07T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159168315",
+      {"key": "159168315"}
+    ],
+    [
+      "159223369",
+      {"key": "159223369"}
+    ],
+    [
+      "159223379",
+      {"key": "159223379"}
+    ],
+    [
+      "159223388",
+      {"key": "159223388"}
+    ],
+    [
+      "159223398",
+      {"key": "159223398"}
+    ],
+    [
+      "159223413",
+      {"key": "159223413"}
+    ],
+    [
+      "159223420",
+      {"key": "159223420"}
+    ],
+    [
+      "159223429",
+      {"key": "159223429"}
+    ],
+    [
+      "159223437",
+      {"key": "159223437"}
+    ],
+    [
+      "159223449",
+      {"key": "159223449"}
+    ],
+    [
+      "159223459",
+      {"key": "159223459"}
+    ],
+    [
+      "159223469",
+      {"key": "159223469"}
+    ],
+    [
+      "159223478",
+      {"key": "159223478"}
+    ],
+    [
+      "159223487",
+      {"key": "159223487"}
+    ],
+    [
+      "159223496",
+      {"key": "159223496"}
+    ],
+    [
+      "159223505",
+      {"key": "159223505"}
+    ],
+    [
+      "159223512",
+      {"key": "159223512"}
+    ],
+    [
+      "159223523",
+      {"key": "159223523"}
+    ],
+    [
+      "159223531",
+      {"key": "159223531"}
+    ],
+    [
+      "159223539",
+      {"key": "159223539"}
+    ],
+    [
+      "159223548",
+      {"key": "159223548"}
+    ],
+    [
+      "159223559",
+      {"key": "159223559"}
+    ],
+    [
+      "159223567",
+      {"key": "159223567"}
+    ],
+    [
+      "159223575",
+      {"key": "159223575"}
+    ],
+    [
+      "159223585",
+      {"key": "159223585"}
+    ],
+    [
+      "159223595",
+      {"key": "159223595"}
+    ],
+    [
+      "159223609",
+      {"key": "159223609"}
+    ],
+    [
+      "159223618",
+      {"key": "159223618"}
+    ],
+    [
+      "159223628",
+      {"key": "159223628"}
+    ],
+    [
+      "159223637",
+      {"key": "159223637"}
+    ],
+    [
+      "159223647",
+      {"key": "159223647"}
+    ],
+    [
+      "159223657",
+      {"key": "159223657"}
+    ],
+    [
+      "159223667",
+      {"key": "159223667"}
+    ],
+    [
+      "159223676",
+      {"key": "159223676"}
+    ],
+    [
+      "159223684",
+      {"key": "159223684"}
+    ],
+    [
+      "159223690",
+      {"key": "159223690"}
+    ],
+    [
+      "159223700",
+      {"key": "159223700"}
+    ],
+    [
+      "159223707",
+      {"key": "159223707"}
+    ],
+    [
+      "159223715",
+      {"key": "159223715"}
+    ],
+    [
+      "159223725",
+      {"key": "159223725"}
+    ],
+    [
+      "159223728",
+      {"key": "159223728"}
+    ],
+    [
+      "159223737",
+      {"key": "159223737"}
+    ],
+    [
+      "159223746",
+      {"key": "159223746"}
+    ],
+    [
+      "159223756",
+      {"key": "159223756"}
+    ],
+    [
+      "159223763",
+      {"key": "159223763"}
+    ],
+    [
+      "159223770",
+      {"key": "159223770"}
+    ],
+    [
+      "159223778",
+      {"key": "159223778"}
+    ],
+    [
+      "159223786",
+      {"key": "159223786"}
+    ],
+    [
+      "159223794",
+      {"key": "159223794"}
+    ],
+    [
+      "159223800",
+      {"key": "159223800"}
+    ],
+    [
+      "159223807",
+      {"key": "159223807"}
+    ],
+    [
+      "159223814",
+      {"key": "159223814"}
+    ],
+    [
+      "159223821",
+      {"key": "159223821"}
+    ],
+    [
+      "159223832",
+      {"key": "159223832"}
+    ],
+    [
+      "159223837",
+      {"key": "159223837"}
+    ],
+    [
+      "159223844",
+      {"key": "159223844"}
+    ],
+    [
+      "159223851",
+      {"key": "159223851"}
+    ],
+    [
+      "159223860",
+      {"key": "159223860"}
+    ],
+    [
+      "159223867",
+      {"key": "159223867"}
+    ],
+    [
+      "159223873",
+      {"key": "159223873"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/45kearon",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Kearon enseña que el plan de Dios está diseñado para ayudar a Sus hijos a regresar a casa con Él para que todos podamos recibir la vida eterna.",
+          "title": "La intención de Dios es llevarlos a casa"
+        },
+        "pageSocial": {
+          "description": "El élder Kearon enseña que el plan de Dios está diseñado para ayudar a Sus hijos a regresar a casa con Él para que todos podamos recibir la vida eterna.",
+          "title": "La intención de Dios es llevarlos a casa"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/8c/84/8c84222ffbcd600f7e1a3fe1a128828bdad5906a/8c84222ffbcd600f7e1a3fe1a128828bdad5906a.jpeg\" data-video-title=\"La intención de Dios es llevarlos a casa\" data-video-description=\"El élder Kearon enseña que el plan de Dios está diseñado para ayudar a Sus hijos a regresar a casa con Él para que todos podamos recibir la vida eterna.\" data-video-id=\"6350470824112\" data-ip=\"Download and Streaming                            \" data-duration=\"694795\" data-assetId=\"0aec6046f50c11eebae2eeeeac1e858373da24d3\" data-ref-id=\"F7B719179DB0DDCAE124B18C5CF948F9843C68AC\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350470824112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"357468058\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4050-patrick-kearon-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"64452319\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4050-patrick-kearon-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"167163763\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4050-patrick-kearon-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"357468058\"/><\/video><h1 data-aid=\"159223369\" id=\"title1\">La intención de Dios es llevarlos a casa<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159223379\" id=\"author1\">Por el élder Patrick Kearon<\/p>\n<p class=\"author-role\" data-aid=\"159223388\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159223398\" id=\"kicker1\">Todo lo relacionado con el plan del Padre para Sus amados hijos está diseñado para llevar a todos a casa.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159223413\" id=\"p1\">Me gustaría expresar gratitud por sus oraciones al comenzar el proceso de adaptación al llamamiento que me fue extendido por el presidente Nelson de servir como Apóstol del Señor Jesucristo. Probablemente puedan imaginar la lección de humildad que esto ha sido, además de ser un tiempo de extraordinarios cambios y seria introspección. No obstante, es realmente un gran honor servir al Salvador, en cualquier función, y participar con ustedes al compartir las buenas nuevas de Su Evangelio de esperanza.<\/p>\n<p data-aid=\"159223420\" id=\"p2\">Además de eso, se ha dicho que detrás de cada nuevo Apóstol se encuentra una suegra asombrada. No sé si eso se ha dicho realmente, pero en este caso, ciertamente podría ser así. Y sospecho que el hecho de que mi suegra ya no esté con nosotros no reduce su asombro.<\/p>\n<p data-aid=\"159223429\" id=\"p4\">Hace varios meses, cuando mi esposa y yo estábamos visitando otro país por diversas asignaciones de la Iglesia, me levanté temprano una mañana y miré por la ventana del hotel con la vista todavía un poco borrosa. Abajo, en la concurrida calle, vi que habían colocado un control policial con un guardia situado cerca para hacer regresar a los automóviles al llegar a la barrera. Al principio, solo eran unos cuantos los automóviles que circulaban por la carretera y que tuvieron que dar la vuelta, pero a medida que pasaba el tiempo y aumentaba el tráfico, las filas de autos comenzaron a acumularse.<\/p>\n<p data-aid=\"159223437\" id=\"p30\">Desde la ventana de arriba, observé cómo al policía parecía darle satisfacción el poder que tenía para bloquear el flujo del tráfico y negar el paso a la gente. De hecho, pareció desarrollar un movimiento entusiasta al caminar, como si fuera a hacer un pasito de baile cada vez que se acercaba un automóvil a la barrera. Si un conductor se frustraba por el obstáculo, el policía no se mostraba servicial ni comprensivo. Simplemente sacudía la cabeza repetidamente y señalaba en dirección opuesta.<\/p>\n<p data-aid=\"159223449\" id=\"p5\">Mis amigos, mis condiscípulos en el camino de la vida terrenal, el hermoso plan de nuestro Padre, sí, Su \u201cfabuloso\u201d plan<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>, está diseñado para llevarlos a casa, <em>no<\/em> para dejarlos afuera<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Nadie ha construido una barrera ni ha puesto a alguien allí para regresarlos y negarles el paso. De hecho, es justamente lo contrario. Dios los busca de manera incesante. Él \u201cquiere que todos Sus hijos elijan regresar a Él\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> y emplea toda medida posible para llevarlos de regreso.<\/p>\n<p data-aid=\"159223459\" id=\"p6\">Nuestro amoroso Padre supervisó la Creación de esta tierra con el propósito específico de brindarnos a ustedes y a mí la oportunidad de vivir las experiencias exigentes y refinadoras de la vida terrenal, la oportunidad de utilizar el albedrío moral que Dios nos ha dado para escogerlo a Él<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>, aprender y crecer, cometer errores, arrepentirnos, amar a Dios y a nuestro prójimo, y un día volver a casa con Él.<\/p>\n<p data-aid=\"159223469\" id=\"p7\">Él envió a Su preciado Hijo Amado a este mundo caído para vivir toda gama de experiencias humanas, para proporcionar un ejemplo que el resto de Sus hijos pueda seguir, y para expiar y redimir. El gran don expiatorio de Cristo elimina toda barrera de muerte física y espiritual que nos separaría de nuestro hogar eterno.<\/p>\n<p data-aid=\"159223478\" id=\"p8\">Todo lo relacionado con el plan del Padre para Sus amados hijos está diseñado para llevar a todos a casa.<\/p>\n<p data-aid=\"159223487\" id=\"p9\">En las Escrituras de la Restauración, ¿cómo llaman los mensajeros de Dios, Sus profetas, a este plan? Lo llaman el plan de redención<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>, el plan de misericordia<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, el gran plan de felicidad<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> y el plan de salvación que es para todos, \u201cmediante la sangre de mi Unigénito\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"159223496\" id=\"p10\">La intención del gran plan de felicidad del Padre es la <em>felicidad<\/em> de ustedes, aquí mismo, ahora mismo y en las eternidades. No es para impedir su felicidad ni causarles preocupación y temor.<\/p>\n<p data-aid=\"159223505\" id=\"p11\">El propósito del plan de redención del Padre es, de hecho, la <em>redención<\/em> de ustedes; que sean rescatados mediante los padecimientos y la muerte de Jesucristo<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>, liberados de la cautividad del pecado y de la muerte. No es dejarlos como están.<\/p>\n<p data-aid=\"159223512\" id=\"p12\">El propósito del plan de misericordia del Padre es <em>extender misericordia<\/em> a medida que se vuelvan a Él y cumplan su convenio de fidelidad a Él. No es negar la misericordia e infligir dolor y pesar.<\/p>\n<p data-aid=\"159223523\" id=\"p13\">El propósito del plan de salvación del Padre es, de hecho, la <em>salvación<\/em> de ustedes en el Reino Celestial de gloria conforme reciban \u201cel testimonio de Jesús\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a> y le ofrezcan su alma entera<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>. No es excluirlos.<\/p>\n<p data-aid=\"159223531\" id=\"p14\">¿Significa esto que todo está permitido respecto a cómo vivimos nuestra vida? ¿Que no importa la forma en que elijamos usar nuestro albedrío? ¿Que podemos tomar o dejar los mandamientos de Dios? No, claro que no. Seguramente una de las invitaciones y súplicas más constantes de Jesús durante Su ministerio terrenal fue que cambiáramos, nos arrepintiéramos y que viniéramos a Él<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>. Fundamentalmente implícito en todas Sus enseñanzas de vivir en un plano más elevado de conducta moral<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a> se halla un llamado al progreso personal, a una fe transformadora en Cristo, a un potente cambio en el corazón<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"159223539\" id=\"p15\">Dios desea que reorientemos radicalmente nuestros impulsos egoístas y orgullosos, que desalojemos al hombre natural<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, que \u201cv[ayamos], y no peque[mos] más\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>.<\/p>\n<p data-aid=\"159223548\" id=\"p16\">Si creemos que el propósito del plan del Padre, que está al alcance de todos, es salvarnos, redimirnos, extender misericordia hacia nosotros y de ese modo brindarnos felicidad, ¿cuál es la intención del Hijo por medio de quien se realiza este gran plan?<\/p>\n<p data-aid=\"159223559\" id=\"p17\">El Hijo mismo nos dice: \u201cPorque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>.<\/p>\n<p data-aid=\"159223567\" id=\"p18\">¡La voluntad de Jesús es la voluntad del Padre benevolente! Él desea hacer posible que hasta el último de los hijos de Su Padre reciba el propósito final del plan: la vida eterna con Ellos. Nadie está excluido de ese potencial divino.<\/p>\n<p data-aid=\"159223575\" id=\"p29\">Si tienden a preocuparse de que nunca estarán a la altura, o de que el amoroso alcance de la Expiación infinita de Cristo cubra misericordiosamente a todos los demás, pero no a ustedes, entonces no lo comprenden. <em>Infinito<\/em> significa infinito. <em>Infinito<\/em> los cubre a ustedes y a sus seres queridos<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"159223585\" id=\"p19\">Nefi explica esta hermosa verdad: \u201cÉl no hace nada a menos que sea para el beneficio del mundo; porque él ama al mundo, al grado de dar su propia vida para traer a todos los hombres a él. Por tanto, a nadie manda él que no participe de su salvación\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"159223595\" id=\"p20\">El Salvador, el Buen Pastor, va en busca de Sus ovejas perdidas hasta que las halla<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. Él \u201cno quiere que ninguno perezca\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>.<\/p>\n<p data-aid=\"159223609\" id=\"p21\">\u201cMi brazo de misericordia se extiende hacia vosotros; y a cualquiera que venga, yo lo recibiré\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<p data-aid=\"159223618\" id=\"p28\">\u201c¿Tenéis enfermos entre vosotros? Traedlos aquí. ¿Tenéis cojos, o ciegos, o lisiados, o mutilados, o leprosos, o atrofiados, o sordos, o quienes estén afligidos de manera alguna? Traedlos aquí y yo los sanaré, porque tengo compasión de vosotros\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"159223628\" id=\"p22\">Él no desechó a la mujer con flujo de sangre, Él no retrocedió ante el leproso, Él no rechazó a la mujer sorprendida en adulterio, Él no se negó al penitente, sin importar su pecado. Y Él no los rechazará a ustedes ni a sus seres queridos cuando lleven a Él su corazón quebrantado y su espíritu contrito. Esa <em>no<\/em> es Su intención ni Su designio, ni Su plan, propósito, deseo o esperanza.<\/p>\n<p data-aid=\"159223637\" id=\"p23\">No, Él no pone barreras ni obstáculos; Él los quita. Él no les impide la entrada; Él los invita a pasar<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Todo Su ministerio fue una declaración viviente de esta intención.<\/p>\n<p data-aid=\"159223647\" id=\"p24\">Luego, por supuesto, está Su sacrificio expiatorio mismo, que es más difícil para nosotros entender, que va más allá de nuestra capacidad mortal para comprender. Pero, y este es un \u201cpero\u201d importante, nosotros sí entendemos, podemos comprender, la intención santa y salvadora de Su sacrificio expiatorio.<\/p>\n<p data-aid=\"159223657\" id=\"p25\">El velo del templo se rasgó en dos cuando Jesús murió en la cruz, simbolizando que el acceso de regreso a la presencia del Padre se había abierto de par en par para todos los que se vuelvan a Él, confíen en Él, echen sus cargas sobre Él y tomen sobre sí Su yugo en una conexión por convenio<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"159223667\" id=\"p26\">En otras palabras, el plan del Padre no se trata de barreras. Nunca lo fue, nunca lo será. ¿Hay cosas que debemos hacer, mandamientos que guardar, aspectos de nuestra naturaleza que debemos cambiar? Sí, pero con Su gracia, esas cosas están a nuestro alcance, no fuera de él.<\/p>\n<p data-aid=\"159223676\" id=\"p27\">¡Estas son las buenas nuevas! Estoy increíblemente agradecido por estas sencillas verdades. El designio del Padre, Su plan, Su propósito, Su intención, Su deseo y Su esperanza, todos ellos son para sanarlos y darles paz; todos son para llevarlos a ustedes, y a aquellos a quienes aman, a casa. De esto soy testigo en el nombre de Jesucristo, Su Hijo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159223684\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159223690\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013118.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159223700\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p25%2C27#p25\">2 Nefi 26:25, 27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159223707\" id=\"note3_p1\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=p6#p6\">1.1<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159223715\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33\">Moisés 7:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159223725\" id=\"note5_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p8#p8\">Jacob 6:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/12?lang=spa&amp;id=p30#p30\">Alma 12:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159223728\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159223737\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p8%2C16#p8\">Alma 42:8, 16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159223746\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p62#p62\">Moisés 6:62<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159223756\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p4#p4\">Doctrina y Convenios 45:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159223763\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p50-p70#p50\">Doctrina y Convenios 76:50\u201370<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159223770\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159223778\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p17#p17\">Mateo 4:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159223786\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa\">Mateo 5\u20137<\/a>. Por ejemplo, en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p43-p44#p43\">Mateo 5:43\u201344<\/a>, el Salvador enseñó a Sus discípulos que no bastaba con \u201cama[r] a tu prójimo y aborrece[r] a tu enemigo\u201d. Para seguirlo, también necesitaban \u201cama[r] a [sus] enemigos\u201d.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159223794\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>. Para que la misericordia de Jesucristo pueda intervenir en nuestra vida, debemos volvernos a Él. Alma, hijo, enseña que este glorioso \u201cplan de redención no podía realizarse sino de acuerdo con las condiciones del arrepentimiento [\u2026]; porque a menos que fuera por estas condiciones, la misericordia no podría surtir efecto\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13#p13\">Alma 42:13<\/a>).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159223800\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159223807\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p11#p11\">Juan 8:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159223814\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=spa&amp;id=p38#p38\">Juan 6:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159223821\" id=\"note18_p1\">Véase Russell M. Nelson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1996/11/the-atonement.html\">La Expiación<\/span>\u201d, <cite>Liahona<\/cite>, enero de 1997, pág. 35: \u201cSu Expiación es infinita: no tiene fin\u201d. También es infinita en el sentido de que todo el género humano se salvará de la muerte sin fin, y es infinita en el sentido del intenso sufrimiento del Salvador. Es infinita en el tiempo, dando fin al prototipo anterior del sacrificio de animales. Es infinita en lo que abarca, porque se hizo una sola vez por todos. Y la misericordia de la Expiación se extiende no solo a un número infinito de personas, sino también a un número infinito de mundos creados por Él. Es infinita más allá de cualquier escala de dimensión humana o de comprensión mortal\u201d.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159223832\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24\">2 Nefi 26:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159223837\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=spa&amp;id=p4#p4\">Lucas 15:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159223844\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/3?lang=spa&amp;id=p9#p9\">2 Pedro 3:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p11-p12#p11\">Doctrina y Convenios 18:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159223851\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14\">3 Nefi 9:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159223860\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7#p7\">3 Nefi 17:7<\/a>; véase también el versículo <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p6#p6\">6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159223867\" id=\"note24_p1\">En las enseñanzas de Jesucristo que indican que algunas personas no heredarán el reino de los cielos, Él deja claro que ese resultado no es lo que Él desea para ellos, sino que es el resultado de sus propias decisiones (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=spa&amp;id=p13-p14%2C21-p25#p13\">Mateo 7:13\u201314, 21\u201325<\/a>).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159223873\" id=\"note25_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27?lang=spa&amp;id=p50-p51#p50\">Mateo 27:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/9?lang=spa&amp;id=p6-p12#p6\">Hebreos 9:6\u201312<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159223459",
+        "id": "note4",
+        "text": "<p data-aid=\"159223715\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33\">Moisés 7:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33",
+          "text": "Moisés 7:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159223487",
+        "id": "note5",
+        "text": "<p data-aid=\"159223725\" id=\"note5_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p8#p8\">Jacob 6:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/12?lang=spa&amp;id=p30#p30\">Alma 12:30<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p8#p8",
+            "text": "Jacob 6:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/12?lang=spa&amp;id=p30#p30",
+            "text": "Alma 12:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159223449",
+        "id": "note2",
+        "text": "<p data-aid=\"159223700\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p25%2C27#p25\">2 Nefi 26:25, 27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p25%2C27#p25",
+          "text": "2 Nefi 26:25, 27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159223449",
+        "id": "note3",
+        "text": "<p data-aid=\"159223707\" id=\"note3_p1\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=p6#p6\">1.1<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=p6#p6",
+          "text": "1.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159223487",
+        "id": "note8",
+        "text": "<p data-aid=\"159223746\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p62#p62\">Moisés 6:62<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6?lang=spa&amp;id=p62#p62",
+          "text": "Moisés 6:62",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159223505",
+        "id": "note9",
+        "text": "<p data-aid=\"159223756\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p4#p4\">Doctrina y Convenios 45:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p4#p4",
+          "text": "Doctrina y Convenios 45:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159223487",
+        "id": "note6",
+        "text": "<p data-aid=\"159223728\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15",
+          "text": "Alma 42:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159223487",
+        "id": "note7",
+        "text": "<p data-aid=\"159223737\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p8%2C16#p8\">Alma 42:8, 16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p8%2C16#p8",
+          "text": "Alma 42:8, 16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159223539",
+        "id": "note16",
+        "text": "<p data-aid=\"159223807\" id=\"note16_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p11#p11\">Juan 8:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/8?lang=spa&amp;id=p11#p11",
+          "text": "Juan 8:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159223539",
+        "id": "note15",
+        "text": "<p data-aid=\"159223800\" id=\"note15_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19",
+          "text": "Mosíah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159223531",
+        "id": "note14",
+        "text": "<p data-aid=\"159223794\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>. Para que la misericordia de Jesucristo pueda intervenir en nuestra vida, debemos volvernos a Él. Alma, hijo, enseña que este glorioso \u201cplan de redención no podía realizarse sino de acuerdo con las condiciones del arrepentimiento [\u2026]; porque a menos que fuera por estas condiciones, la misericordia no podría surtir efecto\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13#p13\">Alma 42:13<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2",
+            "text": "Mosíah 5:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13#p13",
+            "text": "Alma 42:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159223531",
+        "id": "note13",
+        "text": "<p data-aid=\"159223786\" id=\"note13_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa\">Mateo 5\u20137<\/a>. Por ejemplo, en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p43-p44#p43\">Mateo 5:43\u201344<\/a>, el Salvador enseñó a Sus discípulos que no bastaba con \u201cama[r] a tu prójimo y aborrece[r] a tu enemigo\u201d. Para seguirlo, también necesitaban \u201cama[r] a [sus] enemigos\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=spa",
+            "text": "Mateo 5\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=spa&amp;id=p43-p44#p43",
+            "text": "Mateo 5:43\u201344",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159223531",
+        "id": "note12",
+        "text": "<p data-aid=\"159223778\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p17#p17\">Mateo 4:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/4?lang=spa&amp;id=p17#p17",
+          "text": "Mateo 4:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159223523",
+        "id": "note11",
+        "text": "<p data-aid=\"159223770\" id=\"note11_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26",
+          "text": "Omni 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159223523",
+        "id": "note10",
+        "text": "<p data-aid=\"159223763\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p50-p70#p50\">Doctrina y Convenios 76:50\u201370<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p50-p70#p50",
+          "text": "Doctrina y Convenios 76:50\u201370",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159223585",
+        "id": "note19",
+        "text": "<p data-aid=\"159223832\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24\">2 Nefi 26:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24",
+          "text": "2 Nefi 26:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159223575",
+        "id": "note18",
+        "text": "<p data-aid=\"159223821\" id=\"note18_p1\">Véase Russell M. Nelson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/1996/11/the-atonement.html\">La Expiación<\/span>\u201d, <cite>Liahona<\/cite>, enero de 1997, pág. 35: \u201cSu Expiación es infinita: no tiene fin\u201d. También es infinita en el sentido de que todo el género humano se salvará de la muerte sin fin, y es infinita en el sentido del intenso sufrimiento del Salvador. Es infinita en el tiempo, dando fin al prototipo anterior del sacrificio de animales. Es infinita en lo que abarca, porque se hizo una sola vez por todos. Y la misericordia de la Expiación se extiende no solo a un número infinito de personas, sino también a un número infinito de mundos creados por Él. Es infinita más allá de cualquier escala de dimensión humana o de comprensión mortal\u201d.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159223559",
+        "id": "note17",
+        "text": "<p data-aid=\"159223814\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=spa&amp;id=p38#p38\">Juan 6:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/6?lang=spa&amp;id=p38#p38",
+          "text": "Juan 6:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159223657",
+        "id": "note25",
+        "text": "<p data-aid=\"159223873\" id=\"note25_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27?lang=spa&amp;id=p50-p51#p50\">Mateo 27:50\u201351<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/9?lang=spa&amp;id=p6-p12#p6\">Hebreos 9:6\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/27?lang=spa&amp;id=p50-p51#p50",
+            "text": "Mateo 27:50\u201351",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/heb/9?lang=spa&amp;id=p6-p12#p6",
+            "text": "Hebreos 9:6\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159223637",
+        "id": "note24",
+        "text": "<p data-aid=\"159223867\" id=\"note24_p1\">En las enseñanzas de Jesucristo que indican que algunas personas no heredarán el reino de los cielos, Él deja claro que ese resultado no es lo que Él desea para ellos, sino que es el resultado de sus propias decisiones (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=spa&amp;id=p13-p14%2C21-p25#p13\">Mateo 7:13\u201314, 21\u201325<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7?lang=spa&amp;id=p13-p14%2C21-p25#p13",
+          "text": "Mateo 7:13\u201314, 21\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159223618",
+        "id": "note23",
+        "text": "<p data-aid=\"159223860\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7#p7\">3 Nefi 17:7<\/a>; véase también el versículo <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p6#p6\">6<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7#p7",
+            "text": "3 Nefi 17:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p6#p6",
+            "text": "6",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159223609",
+        "id": "note22",
+        "text": "<p data-aid=\"159223851\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14\">3 Nefi 9:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14",
+          "text": "3 Nefi 9:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159223595",
+        "id": "note21",
+        "text": "<p data-aid=\"159223844\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/3?lang=spa&amp;id=p9#p9\">2 Pedro 3:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p11-p12#p11\">Doctrina y Convenios 18:11\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-pet/3?lang=spa&amp;id=p9#p9",
+            "text": "2 Pedro 3:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p11-p12#p11",
+            "text": "Doctrina y Convenios 18:11\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159223595",
+        "id": "note20",
+        "text": "<p data-aid=\"159223837\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/15?lang=spa&amp;id=p4#p4\">Lucas 15:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/15?lang=spa&amp;id=p4#p4",
+          "text": "Lucas 15:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159223449",
+        "id": "note1",
+        "text": "<p data-aid=\"159223690\" id=\"note1_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013118.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

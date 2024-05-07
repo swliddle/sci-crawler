@@ -1,0 +1,557 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/21bednar?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "3e975541ec0e41f5b46138fde2632f90",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/21bednar",
+      "data-aid": "159168960",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "930f3f562db64d42b0e5256b183b33c2"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/8d/8d/8d8d85b62e21e31716079febbadaa5c63d3467f2/8d8d85b62e21e31716079febbadaa5c63d3467f2.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2010-david-a-bednar-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159168960",
+      {"key": "159168960"}
+    ],
+    [
+      "159222889",
+      {"key": "159222889"}
+    ],
+    [
+      "159222895",
+      {"key": "159222895"}
+    ],
+    [
+      "159222897",
+      {"key": "159222897"}
+    ],
+    [
+      "159222901",
+      {"key": "159222901"}
+    ],
+    [
+      "159222905",
+      {"key": "159222905"}
+    ],
+    [
+      "159222909",
+      {"key": "159222909"}
+    ],
+    [
+      "159222913",
+      {"key": "159222913"}
+    ],
+    [
+      "159222917",
+      {"key": "159222917"}
+    ],
+    [
+      "159222922",
+      {"key": "159222922"}
+    ],
+    [
+      "159222925",
+      {"key": "159222925"}
+    ],
+    [
+      "159222929",
+      {"key": "159222929"}
+    ],
+    [
+      "159222933",
+      {"key": "159222933"}
+    ],
+    [
+      "159222935",
+      {"key": "159222935"}
+    ],
+    [
+      "159222940",
+      {"key": "159222940"}
+    ],
+    [
+      "159222944",
+      {"key": "159222944"}
+    ],
+    [
+      "159222948",
+      {"key": "159222948"}
+    ],
+    [
+      "159222954",
+      {"key": "159222954"}
+    ],
+    [
+      "159222960",
+      {"key": "159222960"}
+    ],
+    [
+      "159222966",
+      {"key": "159222966"}
+    ],
+    [
+      "159222968",
+      {"key": "159222968"}
+    ],
+    [
+      "159223013",
+      {"key": "159223013"}
+    ],
+    [
+      "159223020",
+      {"key": "159223020"}
+    ],
+    [
+      "159223023",
+      {"key": "159223023"}
+    ],
+    [
+      "159223031",
+      {"key": "159223031"}
+    ],
+    [
+      "159223038",
+      {"key": "159223038"}
+    ],
+    [
+      "159223043",
+      {"key": "159223043"}
+    ],
+    [
+      "159223050",
+      {"key": "159223050"}
+    ],
+    [
+      "159223058",
+      {"key": "159223058"}
+    ],
+    [
+      "159223063",
+      {"key": "159223063"}
+    ],
+    [
+      "159223072",
+      {"key": "159223072"}
+    ],
+    [
+      "159223076",
+      {"key": "159223076"}
+    ],
+    [
+      "159223083",
+      {"key": "159223083"}
+    ],
+    [
+      "159223090",
+      {"key": "159223090"}
+    ],
+    [
+      "159223095",
+      {"key": "159223095"}
+    ],
+    [
+      "159223105",
+      {"key": "159223105"}
+    ],
+    [
+      "159223112",
+      {"key": "159223112"}
+    ],
+    [
+      "159223119",
+      {"key": "159223119"}
+    ],
+    [
+      "159223127",
+      {"key": "159223127"}
+    ],
+    [
+      "159223134",
+      {"key": "159223134"}
+    ],
+    [
+      "159223142",
+      {"key": "159223142"}
+    ],
+    [
+      "159223149",
+      {"key": "159223149"}
+    ],
+    [
+      "159223155",
+      {"key": "159223155"}
+    ],
+    [
+      "159223162",
+      {"key": "159223162"}
+    ],
+    [
+      "159223171",
+      {"key": "159223171"}
+    ],
+    [
+      "159223178",
+      {"key": "159223178"}
+    ],
+    [
+      "159223187",
+      {"key": "159223187"}
+    ],
+    [
+      "159223194",
+      {"key": "159223194"}
+    ],
+    [
+      "159223204",
+      {"key": "159223204"}
+    ],
+    [
+      "159223211",
+      {"key": "159223211"}
+    ],
+    [
+      "159223218",
+      {"key": "159223218"}
+    ],
+    [
+      "159223228",
+      {"key": "159223228"}
+    ],
+    [
+      "159223235",
+      {"key": "159223235"}
+    ],
+    [
+      "159223240",
+      {"key": "159223240"}
+    ],
+    [
+      "159223247",
+      {"key": "159223247"}
+    ],
+    [
+      "159223252",
+      {"key": "159223252"}
+    ],
+    [
+      "159223260",
+      {"key": "159223260"}
+    ],
+    [
+      "159223264",
+      {"key": "159223264"}
+    ],
+    [
+      "159223272",
+      {"key": "159223272"}
+    ],
+    [
+      "159223282",
+      {"key": "159223282"}
+    ],
+    [
+      "159223288",
+      {"key": "159223288"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/21bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Bednar enseña que cuando estamos \u201ctranquilos\u201d o en quietud, podemos saber que Dios es nuestro Padre Celestial y que Jesucristo es nuestro Salvador.",
+          "title": "\u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d"
+        },
+        "pageSocial": {
+          "description": "El élder Bednar enseña que cuando estamos \u201ctranquilos\u201d o en quietud, podemos saber que Dios es nuestro Padre Celestial y que Jesucristo es nuestro Salvador.",
+          "title": "\u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/8d/8d/8d8d85b62e21e31716079febbadaa5c63d3467f2/8d8d85b62e21e31716079febbadaa5c63d3467f2.jpeg\" data-video-title=\"\u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d\" data-video-description=\"El élder Bednar enseña que cuando estamos \u201ctranquilos\u201d o en quietud, podemos saber que Dios es nuestro Padre Celestial y que Jesucristo es nuestro Salvador.\" data-video-id=\"6350464054112\" data-ip=\"Download and Streaming                            \" data-duration=\"884552\" data-assetId=\"388c6be2f4ec11eebd9deeeeac1e481b1f46882c\" data-ref-id=\"0D5BB14D9DCA18B9CAF49FA8F4B06FB085A740B4\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350464054112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"455484933\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2010-david-a-bednar-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"81610177\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2010-david-a-bednar-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"212873567\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2010-david-a-bednar-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"455484933\"/><\/video><h1 data-aid=\"159222889\" id=\"title1\">\u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159222895\" id=\"author1\">Por el élder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"159222897\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159222901\" id=\"kicker1\">Podemos estar tranquilos o en quietud, y saber que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159222905\" id=\"p1\">Durante un día destinado a los medios de comunicación de un reciente programa de puertas abiertas en una nueva Casa del Señor, conduje a un grupo de periodistas en un recorrido por la sagrada estructura. Describí los propósitos de los templos de La Iglesia de Jesucristo de los Santos de los Últimos Días y respondí sus muchas excelentes preguntas.<\/p>\n<p data-aid=\"159222909\" id=\"p2\">Antes de entrar en el salón celestial, les expliqué que ese salón en particular de la Casa del Señor representa de manera simbólica la paz y la belleza del hogar celestial al que podemos regresar después de esta vida. Indiqué a nuestros invitados que no hablaríamos mientras estuviéramos en el salón, pero que con gusto respondería cualquier pregunta tras pasar a la siguiente parada del recorrido.<\/p>\n<p data-aid=\"159222913\" id=\"p3\">Después de salir del salón celestial y habernos reunido en el siguiente lugar, pregunté a los invitados si tenían algún comentario que quisieran hacer. Una de las periodistas dijo con gran emoción: \u201cNunca había experimentado algo así en toda mi vida. No sabía que existiera quietud como esa en el mundo; simplemente no creía que tal tranquilidad fuera posible\u201d.<\/p>\n<p data-aid=\"159222917\" id=\"p4\">Me sorprendió tanto la sinceridad como la crudeza de las palabras de aquella persona, y su reacción recalcó un aspecto importante de la quietud: superar la conmoción de nuestro entorno externo y desconectarnos de ella.<\/p>\n<p data-aid=\"159222922\" id=\"p5\">Más tarde, al meditar sobre el comentario de la periodista y al reflexionar sobre el ritmo a menudo agitado de nuestra vida moderna \u2014el ajetreo, el ruido, los desvíos, las distracciones y los rodeos que tan frecuentemente parecen exigir nuestra atención\u2014, me vino a la mente un pasaje de las Escrituras: \u201cQuedaos tranquilos, y sabed que yo soy Dios\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"159222925\" id=\"p6\">Ruego que el Espíritu Santo nos ilumine a cada uno conforme consideramos una dimensión más elevada y santa de la tranquilidad o quietud en nuestra vida: una tranquilidad espiritual interior del alma que nos permita saber y recordar que Dios es nuestro Padre Celestial, que nosotros somos Sus hijos y que Jesucristo es nuestro Salvador. Esa extraordinaria bendición está a disposición de todos los miembros de la Iglesia que se esfuerzan fielmente por llegar a ser \u201cel pueblo del convenio del Señor\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<section>\n<header>\n<h2 data-aid=\"159222929\" id=\"title2\">Quedaos tranquilos<\/h2>\n<\/header>\n<p data-aid=\"159222933\" id=\"p7\">En 1833, los santos de Misuri fueron objeto de una intensa persecución. El populacho los había expulsado de sus hogares en el condado de Jackson y algunos miembros de la Iglesia habían intentado establecerse en otros condados cercanos, pero la persecución continuaba y las amenazas de muerte eran muchas. En esas difíciles circunstancias, el Señor reveló la siguiente instrucción al profeta José Smith en Kirtland, Ohio:<\/p>\n<p data-aid=\"159222935\" id=\"p8\">\u201cConsuélense, pues, vuestros corazones en lo concerniente a Sion, porque toda carne está en mis manos; <em>quedaos tranquilos<\/em> y sabed que yo soy Dios\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"159222940\" id=\"p9\">Yo creo que la admonición del Señor de \u201cquedarnos tranquilos\u201d implica mucho más que simplemente no hablar o no moverse. Quizá Su intención es que lo recordemos y que confiemos en Él y en Su poder \u201cen todo tiempo, y en todas las cosas y en todo lugar en que est[emos]\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. De modo que \u201cquedaos tranquilos\u201d puede ser un modo de recordarnos que nos centremos sin cesar en el Salvador como la fuente suprema de la tranquilidad espiritual del alma que nos fortalece para hacer y superar las cosas difíciles.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159222944\" id=\"title3\">Edificar sobre la roca<\/h2>\n<\/header>\n<p data-aid=\"159222948\" id=\"p10\">La fe verdadera siempre se focaliza y se centra en el <em>Señor Jesucristo<\/em>: en Él como el Hijo Divino y Unigénito del Padre Eterno, y en la misión redentora que cumplió.<\/p>\n<p data-aid=\"159222954\" id=\"p11\">\u201cPorque él ha cumplido los fines de la ley, y reclama a todos los que tienen fe en él; y los que tienen fe en él se allegarán a todo lo bueno; por tanto, él aboga por la causa de los hijos de los hombres\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. <\/p>\n<p data-aid=\"159222960\" id=\"p12\">Jesucristo es nuestro Redentor<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>, nuestro Mediador<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a> y nuestro Abogado<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a> ante el Padre Eterno, así como la roca donde debemos edificar el fundamento espiritual de nuestra vida.<\/p>\n<p data-aid=\"159222966\" id=\"p13\">Helamán explicó: \u201cRecordad [\u2026], recordad que es sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer <em>vuestro<\/em> fundamento, para que cuando el diablo lance sus impetuosos vientos, sí, sus dardos en el torbellino, sí, cuando todo su granizo y furiosa tormenta os azoten, esto no tenga poder para arrastraros al abismo de miseria y angustia sin fin, <em>a causa de la roca sobre la cual estáis edificados<\/em>, que es un fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"159222968\" id=\"p14\">El simbolismo de Cristo como la \u201croca\u201d donde debemos establecer el fundamento de nuestra vida es muy instructivo. Noten en este versículo que el Salvador no es el fundamento; más bien, se nos exhorta a edificar nuestro fundamento espiritual y personal sobre Él<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"159223013\" id=\"p15\">El fundamento es la parte del edificio que la conecta con el suelo. Un fundamento fuerte brinda protección de desastres naturales y de muchas otras fuerzas destructivas. El fundamento adecuado también distribuye el peso de la estructura sobre un área grande para evitar sobrecargar el suelo subyacente, y proporciona una superficie nivelada para la construcción.<\/p>\n<img alt=\"Casa con fuerte fundamento o cimiento\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/500%2C/0/default\" data-img-id=\"bc06a8e4f38f11eeb999eeeeac1e31d305764595\" srcset=\"https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/bc06a8e4f38f11eeb999eeeeac1e31d305764595/full/640%2C/0/default 640w\" data-assetId=\"bc06a8e4f38f11eeb999eeeeac1e31d305764595\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159223020\" id=\"p16\">Si la estructura ha de mantenerse firme y estable a lo largo del tiempo, es esencial una conexión fuerte y fiable entre el suelo y el fundamento. Y para ciertos tipos de construcción, se pueden utilizar pernos de anclaje y varillas de acero para fijar el fundamento del edificio a la \u201croca firme\u201d, la roca dura y sólida que se halla bajo los materiales superficiales, como la tierra y la grava.<\/p>\n<img alt=\"Casa anclada en la roca firme\" id=\"img2\" src=\"https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/500%2C/0/default\" data-img-id=\"ba4aef1cf38f11eeae9beeeeac1ec6166ee68229\" srcset=\"https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ba4aef1cf38f11eeae9beeeeac1ec6166ee68229/full/640%2C/0/default 640w\" data-assetId=\"ba4aef1cf38f11eeae9beeeeac1ec6166ee68229\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159223023\" id=\"p17\">De manera similar, si hemos de permanecer seguros y firmes, el fundamento de nuestra vida debe estar conectado con la roca de Cristo. Los sagrados convenios y ordenanzas del Evangelio restaurado del Salvador pueden compararse con los pernos de anclaje y las varillas de acero que se utilizan para conectar el edificio con la roca firme. Cada vez que recibimos, repasamos, recordamos y renovamos fielmente los convenios sagrados, nuestras anclas espirituales se fijan cada vez más segura y firmemente a la \u201croca\u201d de Jesucristo.<\/p>\n<p data-aid=\"159223031\" id=\"p18\">\u201cDe modo que los que creen en Dios pueden tener la firme esperanza de un mundo mejor, sí, aun un lugar a la diestra de Dios; y esta esperanza viene por la fe, proporciona <em>un ancla<\/em> a las almas de los hombres y los hace seguros y firmes, abundando siempre en buenas obras, siendo impulsados a glorificar a Dios\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"159223038\" id=\"p19\">Creciente y progresivamente, \u201ccon el transcurso del tiempo\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>, \u201cla virtud engalan[a] [nuestros] pensamientos incesantemente\u201d, nuestra \u201cconfianza se fortalec[e] [más y más] en la presencia de Dios\u201d y \u201cel Espíritu Santo [es nuestro] compañero constante\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>. Llegamos a estar más afianzados, arraigados, confirmados y firmes<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. A medida que el fundamento de nuestra vida se edifica sobre el Salvador, somos bendecidos para \u201cquedar[nos] tranquilos\u201d; para tener la seguridad espiritual de que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223043\" id=\"title4\">Los momentos sagrados, los lugares santos y el hogar<\/h2>\n<\/header>\n<p data-aid=\"159223050\" id=\"p20\">El Señor proporciona tanto momentos sagrados como lugares santos para ayudarnos a experimentar esa tranquilidad interna del alma y aprender sobre ella.<\/p>\n<p data-aid=\"159223058\" id=\"p21\">Por ejemplo, el día de reposo es el día de Dios, un <em>momento sagrado<\/em> apartado para recordar y adorar al Padre en el nombre de Su Hijo, para participar en ordenanzas del sacerdocio, y para recibir y renovar convenios sagrados. Cada semana adoramos al Señor durante nuestro estudio en el hogar y también como \u201cconciudadanos con los santos\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a> durante la Santa Cena y en otras reuniones. En Su día santo, nuestros pensamientos, acciones y conducta son señales que damos a Dios y un indicador de nuestro amor por Él<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. Cada domingo, si queremos, podemos estar tranquilos o en quietud, y saber que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador.<\/p>\n<p data-aid=\"159223063\" id=\"p22\">Una característica central de nuestra adoración en el día de reposo es \u201ci[r] a la casa de oración y ofrece[r] [nuestros] sacramentos en [el] día santo [del Señor]\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Las \u201ccasa[s] de oración\u201d en las que nos reunimos en el día de reposo son los centros de reuniones y otros edificios aprobados: <em>lugares santos<\/em> de reverencia, adoración y aprendizaje. Cada centro de reunión y edificio se dedica mediante la autoridad del sacerdocio como un lugar donde el Espíritu del Señor pueda morar y donde los hijos de Dios puedan llegar \u201cal conocimiento de su Redentor\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>. Si queremos, podemos estar \u201ctranquilos\u201d en nuestros lugares santos de adoración y saber cada vez con más certeza que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador.<\/p>\n<p data-aid=\"159223072\" id=\"p23\">El templo es otro <em>lugar santo<\/em> específicamente apartado para adorar y servir a Dios, y aprender verdades eternas. En la Casa del Señor, pensamos, actuamos y nos vestimos de manera diferente que en otros lugares que podamos frecuentar. En Su Santa Casa, si queremos, podemos estar tranquilos y en quietud, y saber que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador.<\/p>\n<p data-aid=\"159223076\" id=\"p24\">Los propósitos principales de los momentos sagrados y de los lugares santos son exactamente los mismos: centrar repetidamente nuestra atención en nuestro Padre Celestial y en Su plan, en el Señor Jesucristo y Su Expiación, en el poder edificante del Espíritu Santo, y en las promesas correspondientes a las sagradas ordenanzas y convenios del Evangelio restaurado del Salvador.<\/p>\n<p data-aid=\"159223083\" id=\"p25\">Hoy repito un principio en el que he puesto énfasis anteriormente: Nuestro hogar debe ser la suprema combinación de <em>momentos sagrados<\/em> y el <em>lugar santo<\/em> en el que las personas y las familias puedan \u201cquedar[se] tranquil[a]s\u201d y saber que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador. Salir del hogar para adorar en el día de reposo y en la Casa del Señor ciertamente es esencial, pero solo al volver a nuestro hogar con la perspectiva y la fortaleza espirituales obtenidas en esos lugares y actividades santos podremos luego mantener la mira en los propósitos principales de la vida terrenal y vencer las tentaciones tan predominantes en nuestro mundo caído.<\/p>\n<p data-aid=\"159223090\" id=\"p26\">Nuestras experiencias continuas en el día de reposo, el templo y el hogar deben fortalecernos con el poder del Espíritu Santo, con una conexión por convenio continua y más fuerte con el Padre y el Hijo, y con \u201cun fulgor perfecto de esperanza\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a> en las promesas eternas de Dios.<\/p>\n<p data-aid=\"159223095\" id=\"p27\">Conforme el hogar y la Iglesia sean reunidos en Cristo<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>, puede que estemos atribulados en todo, pero no angustiados en la mente ni en el corazón; puede que estemos perplejos ante nuestras circunstancias y desafíos, pero no desesperados; puede que seamos perseguidos, pero también reconoceremos que jamás estamos solos<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. Podemos recibir fortaleza espiritual para llegar a ser y mantenernos seguros, firmes y fieles.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"159223105\" id=\"title5\">Promesa y testimonio<\/h2>\n<\/header>\n<p data-aid=\"159223112\" id=\"p28\">Prometo que conforme edifiquemos el fundamento de nuestra vida sobre la \u201croca\u201d de Jesucristo, podemos ser bendecidos por el Espíritu Santo para recibir una tranquilidad del alma personal y espiritual que nos permita saber y recordar que Dios es nuestro Padre Celestial, nosotros somos Sus hijos y Jesucristo es nuestro Salvador, y que podemos ser bendecidos para hacer y superar cosas difíciles.<\/p>\n<p data-aid=\"159223119\" id=\"p29\">Testifico con gozo que Dios es nuestro Padre Celestial, nosotros somos Sus hijos, y Jesucristo es nuestro Redentor y la \u201croca\u201d de nuestra salvación. De ello testifico en el sagrado nombre del Señor Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159223127\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159223134\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/46?lang=spa&amp;id=p10#p10\">Salmo 46:10<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 101:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159223142\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14?lang=spa&amp;id=p14#p14\">1 Nefi 14:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159223149\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 101:16<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159223155\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9\">Mosíah 18:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159223162\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28\">Moroni 7:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159223171\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p6-p9#p6\">Mosíah 15:6\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159223178\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27\">2 Nefi 2:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159223187\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28\">Moroni 7:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159223194\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159223204\" id=\"note10_p1\">En <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19-p20#p19\">Efesios 2:19\u201320<\/a> se indica que la \u201cfamilia de Dios\u201d (la Iglesia de Jesucristo) está \u201cedificad[a] sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo\u201d. Por lo tanto, en la analogía que se utiliza en Efesios, Jesucristo es el componente central del fundamento sobre el cual se edifica <strong>Su Iglesia<\/strong>.<\/p>\n<p data-aid=\"159223211\" id=\"note10_p2\">En contraste, en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a> se indica que \u201ces sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer <em>vuestro<\/em> fundamento\u201d (cursiva agregada). Por consiguiente, el fundamento sobre el cual debemos edificar nuestra vida es la \u201croca de nuestro Redentor\u201d, \u201cun fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán\u201d. Así que, en la analogía que se hace en Helamán, Jesucristo es la \u201croca firme\u201d sobre la cual debemos edificar <strong>nuestra vida personal<\/strong>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159223218\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4\">Éter 12:4<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159223228\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18%2C21#p18\">Moisés 7:18, 21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159223235\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45-p46#p45\">Doctrina y Convenios 121:45\u201346<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159223240\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/1?lang=spa&amp;id=p23#p23\">Colosenses 1:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7\">2:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p12#p12\">2 Pedro 1:12<\/a>; Neal A. Maxwell, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1987/04/overcome-even-as-i-also-overcame.html\">Al que venciere\u2026 así como yo he vencido<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1987, págs. 69\u201372.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159223247\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19\">Efesios 2:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159223252\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11\">El día de reposo es una delicia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 130.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159223260\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 59:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159223264\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30\">Mosíah 18:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159223272\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159223282\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159223288\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4?lang=spa&amp;id=p8-p9#p8\">2 Corintios 4:8\u20139<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159222940",
+        "id": "note4",
+        "text": "<p data-aid=\"159223155\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9\">Mosíah 18:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p9#p9",
+          "text": "Mosíah 18:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159222954",
+        "id": "note5",
+        "text": "<p data-aid=\"159223162\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28\">Moroni 7:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28",
+          "text": "Moroni 7:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159222925",
+        "id": "note2",
+        "text": "<p data-aid=\"159223142\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/14?lang=spa&amp;id=p14#p14\">1 Nefi 14:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/14?lang=spa&amp;id=p14#p14",
+          "text": "1 Nefi 14:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159222935",
+        "id": "note3",
+        "text": "<p data-aid=\"159223149\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 101:16<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16",
+          "text": "Doctrina y Convenios 101:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159222960",
+        "id": "note8",
+        "text": "<p data-aid=\"159223187\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28\">Moroni 7:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p28#p28",
+          "text": "Moroni 7:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159222966",
+        "id": "note9",
+        "text": "<p data-aid=\"159223194\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12",
+          "text": "Helamán 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159222960",
+        "id": "note6",
+        "text": "<p data-aid=\"159223171\" id=\"note6_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p6-p9#p6\">Mosíah 15:6\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p6-p9#p6",
+          "text": "Mosíah 15:6\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159222960",
+        "id": "note7",
+        "text": "<p data-aid=\"159223178\" id=\"note7_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27\">2 Nefi 2:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27",
+          "text": "2 Nefi 2:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159223058",
+        "id": "note16",
+        "text": "<p data-aid=\"159223252\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11\">El día de reposo es una delicia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 130.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11",
+          "text": "El día de reposo es una delicia",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159223058",
+        "id": "note15",
+        "text": "<p data-aid=\"159223247\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19\">Efesios 2:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19",
+          "text": "Efesios 2:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159223038",
+        "id": "note14",
+        "text": "<p data-aid=\"159223240\" id=\"note14_p1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/1?lang=spa&amp;id=p23#p23\">Colosenses 1:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7\">2:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p12#p12\">2 Pedro 1:12<\/a>; Neal A. Maxwell, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1987/04/overcome-even-as-i-also-overcame.html\">Al que venciere\u2026 así como yo he vencido<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1987, págs. 69\u201372.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/col/1?lang=spa&amp;id=p23#p23",
+            "text": "Colosenses 1:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7",
+            "text": "2:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p12#p12",
+            "text": "2 Pedro 1:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159223038",
+        "id": "note13",
+        "text": "<p data-aid=\"159223235\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45-p46#p45\">Doctrina y Convenios 121:45\u201346<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45-p46#p45",
+          "text": "Doctrina y Convenios 121:45\u201346",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159223038",
+        "id": "note12",
+        "text": "<p data-aid=\"159223228\" id=\"note12_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18%2C21#p18\">Moisés 7:18, 21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18%2C21#p18",
+          "text": "Moisés 7:18, 21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159223031",
+        "id": "note11",
+        "text": "<p data-aid=\"159223218\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4\">Éter 12:4<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4",
+          "text": "Éter 12:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159222968",
+        "id": "note10",
+        "text": "<p data-aid=\"159223204\" id=\"note10_p1\">En <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19-p20#p19\">Efesios 2:19\u201320<\/a> se indica que la \u201cfamilia de Dios\u201d (la Iglesia de Jesucristo) está \u201cedificad[a] sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo\u201d. Por lo tanto, en la analogía que se utiliza en Efesios, Jesucristo es el componente central del fundamento sobre el cual se edifica <strong>Su Iglesia<\/strong>.<\/p>\n<p data-aid=\"159223211\" id=\"note10_p2\">En contraste, en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a> se indica que \u201ces sobre la roca de nuestro Redentor, el cual es Cristo, el Hijo de Dios, donde debéis establecer <em>vuestro<\/em> fundamento\u201d (cursiva agregada). Por consiguiente, el fundamento sobre el cual debemos edificar nuestra vida es la \u201croca de nuestro Redentor\u201d, \u201cun fundamento seguro, un fundamento sobre el cual, si los hombres edifican, no caerán\u201d. Así que, en la analogía que se hace en Helamán, Jesucristo es la \u201croca firme\u201d sobre la cual debemos edificar <strong>nuestra vida personal<\/strong>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/eph/2?lang=spa&amp;id=p19-p20#p19",
+            "text": "Efesios 2:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12",
+            "text": "Helamán 5:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159223095",
+        "id": "note21",
+        "text": "<p data-aid=\"159223288\" id=\"note21_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/4?lang=spa&amp;id=p8-p9#p8\">2 Corintios 4:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/4?lang=spa&amp;id=p8-p9#p8",
+          "text": "2 Corintios 4:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159223095",
+        "id": "note20",
+        "text": "<p data-aid=\"159223282\" id=\"note20_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10",
+          "text": "Efesios 1:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159222922",
+        "id": "note1",
+        "text": "<p data-aid=\"159223134\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/46?lang=spa&amp;id=p10#p10\">Salmo 46:10<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 101:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/46?lang=spa&amp;id=p10#p10",
+            "text": "Salmo 46:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p16#p16",
+            "text": "Doctrina y Convenios 101:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159223090",
+        "id": "note19",
+        "text": "<p data-aid=\"159223272\" id=\"note19_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20",
+          "text": "2 Nefi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159223063",
+        "id": "note18",
+        "text": "<p data-aid=\"159223264\" id=\"note18_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30\">Mosíah 18:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30",
+          "text": "Mosíah 18:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159223063",
+        "id": "note17",
+        "text": "<p data-aid=\"159223260\" id=\"note17_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 59:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9",
+          "text": "Doctrina y Convenios 59:9",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

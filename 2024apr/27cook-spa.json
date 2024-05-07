@@ -1,0 +1,635 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/27cook?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "920458a3bb194945b82d7f03ebd0d2c5",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/27cook",
+      "data-aid": "159169057",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "21fe5c6fe9754f54a12cc11259ccd799"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/62/31/6231d5d693e47bab01cf8455ef4093d34d4d7d0e/6231d5d693e47bab01cf8455ef4093d34d4d7d0e.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2070-quentin-l-cook-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Ser uno con Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-06T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159169057",
+      {"key": "159169057"}
+    ],
+    [
+      "159222970",
+      {"key": "159222970"}
+    ],
+    [
+      "159222973",
+      {"key": "159222973"}
+    ],
+    [
+      "159222975",
+      {"key": "159222975"}
+    ],
+    [
+      "159222977",
+      {"key": "159222977"}
+    ],
+    [
+      "159222979",
+      {"key": "159222979"}
+    ],
+    [
+      "159222981",
+      {"key": "159222981"}
+    ],
+    [
+      "159222983",
+      {"key": "159222983"}
+    ],
+    [
+      "159222985",
+      {"key": "159222985"}
+    ],
+    [
+      "159222987",
+      {"key": "159222987"}
+    ],
+    [
+      "159222989",
+      {"key": "159222989"}
+    ],
+    [
+      "159222992",
+      {"key": "159222992"}
+    ],
+    [
+      "159222994",
+      {"key": "159222994"}
+    ],
+    [
+      "159222996",
+      {"key": "159222996"}
+    ],
+    [
+      "159222999",
+      {"key": "159222999"}
+    ],
+    [
+      "159223002",
+      {"key": "159223002"}
+    ],
+    [
+      "159223005",
+      {"key": "159223005"}
+    ],
+    [
+      "159223008",
+      {"key": "159223008"}
+    ],
+    [
+      "159223011",
+      {"key": "159223011"}
+    ],
+    [
+      "159223018",
+      {"key": "159223018"}
+    ],
+    [
+      "159223027",
+      {"key": "159223027"}
+    ],
+    [
+      "159223033",
+      {"key": "159223033"}
+    ],
+    [
+      "159223040",
+      {"key": "159223040"}
+    ],
+    [
+      "159223047",
+      {"key": "159223047"}
+    ],
+    [
+      "159223053",
+      {"key": "159223053"}
+    ],
+    [
+      "159223060",
+      {"key": "159223060"}
+    ],
+    [
+      "159223066",
+      {"key": "159223066"}
+    ],
+    [
+      "159223073",
+      {"key": "159223073"}
+    ],
+    [
+      "159223078",
+      {"key": "159223078"}
+    ],
+    [
+      "159223085",
+      {"key": "159223085"}
+    ],
+    [
+      "159223091",
+      {"key": "159223091"}
+    ],
+    [
+      "159223097",
+      {"key": "159223097"}
+    ],
+    [
+      "159223102",
+      {"key": "159223102"}
+    ],
+    [
+      "159223111",
+      {"key": "159223111"}
+    ],
+    [
+      "159223118",
+      {"key": "159223118"}
+    ],
+    [
+      "159223126",
+      {"key": "159223126"}
+    ],
+    [
+      "159223135",
+      {"key": "159223135"}
+    ],
+    [
+      "159223143",
+      {"key": "159223143"}
+    ],
+    [
+      "159223157",
+      {"key": "159223157"}
+    ],
+    [
+      "159223164",
+      {"key": "159223164"}
+    ],
+    [
+      "159223170",
+      {"key": "159223170"}
+    ],
+    [
+      "159223181",
+      {"key": "159223181"}
+    ],
+    [
+      "159223189",
+      {"key": "159223189"}
+    ],
+    [
+      "159223197",
+      {"key": "159223197"}
+    ],
+    [
+      "159223205",
+      {"key": "159223205"}
+    ],
+    [
+      "159223213",
+      {"key": "159223213"}
+    ],
+    [
+      "159223222",
+      {"key": "159223222"}
+    ],
+    [
+      "159223231",
+      {"key": "159223231"}
+    ],
+    [
+      "159223237",
+      {"key": "159223237"}
+    ],
+    [
+      "159223244",
+      {"key": "159223244"}
+    ],
+    [
+      "159223251",
+      {"key": "159223251"}
+    ],
+    [
+      "159223261",
+      {"key": "159223261"}
+    ],
+    [
+      "159223267",
+      {"key": "159223267"}
+    ],
+    [
+      "159223274",
+      {"key": "159223274"}
+    ],
+    [
+      "159223284",
+      {"key": "159223284"}
+    ],
+    [
+      "159223292",
+      {"key": "159223292"}
+    ],
+    [
+      "159223299",
+      {"key": "159223299"}
+    ],
+    [
+      "159223305",
+      {"key": "159223305"}
+    ],
+    [
+      "159223310",
+      {"key": "159223310"}
+    ],
+    [
+      "159223314",
+      {"key": "159223314"}
+    ],
+    [
+      "159223322",
+      {"key": "159223322"}
+    ],
+    [
+      "159223326",
+      {"key": "159223326"}
+    ],
+    [
+      "159223333",
+      {"key": "159223333"}
+    ],
+    [
+      "159223341",
+      {"key": "159223341"}
+    ],
+    [
+      "159223349",
+      {"key": "159223349"}
+    ],
+    [
+      "159223357",
+      {"key": "159223357"}
+    ],
+    [
+      "159223367",
+      {"key": "159223367"}
+    ],
+    [
+      "159223375",
+      {"key": "159223375"}
+    ],
+    [
+      "159223384",
+      {"key": "159223384"}
+    ],
+    [
+      "159223392",
+      {"key": "159223392"}
+    ],
+    [
+      "159223401",
+      {"key": "159223401"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/27cook",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Cook enseña que debemos esforzarnos por incluir a otras personas en nuestro círculo de unidad, que estamos unidos por nuestra fe en Jesucristo, y que la esencia de pertenecer es ser uno con Cristo.",
+          "title": "Ser uno con Cristo"
+        },
+        "pageSocial": {
+          "description": "El élder Cook enseña que debemos esforzarnos por incluir a otras personas en nuestro círculo de unidad, que estamos unidos por nuestra fe en Jesucristo, y que la esencia de pertenecer es ser uno con Cristo.",
+          "title": "Ser uno con Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/62/31/6231d5d693e47bab01cf8455ef4093d34d4d7d0e/6231d5d693e47bab01cf8455ef4093d34d4d7d0e.jpeg\" data-video-title=\"Ser uno con Cristo\" data-video-description=\"El élder Cook enseña que debemos esforzarnos por incluir a otras personas en nuestro círculo de unidad, que estamos unidos por nuestra fe en Jesucristo, y que la esencia de pertenecer es ser uno con Cristo.\" data-video-id=\"6350431240112\" data-ip=\"Download and Streaming                            \" data-duration=\"905473\" data-assetId=\"b7d5f26df46511eeac68eeeeac1e22d105eeb472\" data-ref-id=\"5987CBB8374E1D815BBAC048DB67B5712EB3806A\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350431240112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"466592617\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2070-quentin-l-cook-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"83921381\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2070-quentin-l-cook-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"218251813\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-2070-quentin-l-cook-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"466592617\"/><\/video><h1 data-aid=\"159222970\" id=\"title1\">Ser uno con Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159222973\" id=\"author1\">Por el élder Quentin L. Cook<\/p>\n<p class=\"author-role\" data-aid=\"159222975\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159222977\" id=\"kicker1\">Estamos unidos mediante nuestro amor por Jesucristo y nuestra fe en Él y en Su Expiación. La esencia de la verdadera pertenencia consiste en ser uno con Cristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159222979\" id=\"p1\">He tenido sentimientos profundos en cuanto a la Expiación de Jesucristo desde que era muy joven, pero tomé conciencia de la realidad de la Expiación del Salvador cuando tenía veinticinco años. Acababa de graduarme de la Facultad de Derecho de Stanford y estaba estudiando para el examen estatal de abogacía de California. Mi madre llamó y me dijo que mi abuelo, Crozier Kimball, que vivía en Utah, estaba a punto de morir, y me dijo que si quería verlo, sería mejor que volviera a casa. Mi abuelo tenía ochenta y seis años y estaba muy enfermo. Para mí fue maravilloso estar con él. Mi abuelo estaba muy complacido de verme y de compartir su testimonio conmigo.<\/p>\n<p data-aid=\"159222981\" id=\"p2\">Cuando Crozier tenía apenas tres años, murió su padre, David Patten Kimball, a los cuarenta y cuatro años<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>. Crozier esperaba que su padre y su abuelo, Heber C. Kimball, estuvieran de acuerdo con su forma de vivir y pensaran que había sido fiel a su legado.<\/p>\n<p data-aid=\"159222983\" id=\"p3\">El consejo principal que me dio mi abuelo fue que evitara sentirme con derechos o privilegios por motivo de esos fieles antepasados. Me dijo que debía centrarme en el Salvador y en la Expiación del Salvador, y que todos somos hijos de un amoroso Padre Celestial. Al margen de quiénes hayan sido nuestros antepasados, cada uno de nosotros rendirá cuentas al Salvador de la forma en que ha guardado Sus mandamientos.<\/p>\n<p data-aid=\"159222985\" id=\"p4\">Mi abuelo se refirió al Salvador como \u201cel Guardián de la puerta\u201d, en referencia a <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/9?lang=spa&amp;id=p41#p41\">2 Nefi 9:41<\/a>. Me dijo que tenía la esperanza de haberse arrepentido lo suficiente como para ser merecedor de la misericordia del Salvador<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"159222987\" id=\"p5\">Me sentí sumamente conmovido. Yo sabía que él había sido un hombre justo; era patriarca y había servido en varias misiones. Él me enseñó que nadie puede regresar a Dios solamente por sus buenas obras y sin el beneficio de la Expiación del Salvador. Aún hoy recuerdo el gran amor y aprecio que el abuelo sentía por el Salvador y Su Expiación.<\/p>\n<p data-aid=\"159222989\" id=\"p6\">En 2019, durante una asignación en Jerusalén<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>, visité un aposento alto que quizás estuvo cerca del lugar donde el Salvador lavó los pies de Sus apóstoles antes de Su Crucifixión. Me sentí conmovido espiritualmente y pensé en cómo Él había mandado a Sus apóstoles que se amaran unos a otros.<\/p>\n<p data-aid=\"159222992\" id=\"p7\">Recordé las súplicas del Salvador en la Oración Intercesora a favor nuestro. Esa oración se pronunció literalmente en las horas finales de Su vida terrenal, tal como se registra en el Evangelio de Juan.<\/p>\n<p data-aid=\"159222994\" id=\"p8\">Esa oración estaba dirigida a los seguidores de Cristo, todos nosotros incluidos<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>. En la súplica del Salvador a Su Padre, Él rogó: \u201cQue todos sean uno, como tú, oh Padre, en mí, y yo en ti, que también ellos sean uno en nosotros\u201d. El Salvador continuó así: \u201cY la gloria que me diste les he dado, para que sean uno, así como nosotros somos uno\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>. La <em>unidad<\/em> es por lo que oró Cristo antes de ser traicionado y crucificado. Se puede alcanzar la unidad con Cristo y con nuestro Padre Celestial por medio de la Expiación del Salvador.<\/p>\n<p data-aid=\"159222996\" id=\"p9\">La misericordia salvadora del Señor no está condicionada por el linaje, la formación académica, la posición económica ni la raza: se basa en ser uno con Cristo y Sus mandamientos.<\/p>\n<p data-aid=\"159222999\" id=\"p10\">El profeta José Smith y Oliver Cowdery recibieron la revelación sobre la organización y el gobierno de la Iglesia en 1830, poco después de que la Iglesia fuera organizada. El profeta José leyó en la primera conferencia de la Iglesia lo que actualmente es la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">sección 20<\/a>, que fue la primera revelación aprobada de común acuerdo<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"159223002\" id=\"p11\">El contenido de esta revelación es realmente extraordinario: nos enseña la importancia y la función del Salvador y cómo acceder a Su poder y Sus bendiciones mediante Su gracia expiatoria. El profeta José tenía veinticuatro años y ya había recibido numerosas revelaciones y había terminado la traducción del Libro de Mormón por el don y el poder de Dios. En la revelación se identifica a José y a Oliver como apóstoles ordenados, por lo que tenían autoridad para presidir la Iglesia.<\/p>\n<p data-aid=\"159223005\" id=\"p12\">Los <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p17-p36#p17\">versículos 17 al 36<\/a> contienen un resumen de la doctrina esencial de la Iglesia, que incluye la realidad de Dios, la creación del género humano, la Caída y el Plan de Salvación del Padre Celestial mediante la Expiación de Jesucristo. El <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37\">versículo 37<\/a> contiene los requisitos esenciales para el bautismo en la Iglesia del Señor. Los <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p75-p79#p75\">versículos 75 al 79<\/a> establecen las oraciones sacramentales que utilizamos cada día de reposo.<\/p>\n<p data-aid=\"159223008\" id=\"p13\">La doctrina, los principios, los sacramentos y las prácticas que el Señor estableció por medio de José Smith, el Profeta de la Restauración, son ciertamente fundamentales<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"159223011\" id=\"p14\">Los requisitos para el bautismo son profundos, aunque singularmente sencillos. En esencia, abarcan la humildad ante Dios, el corazón quebrantado y el espíritu contrito<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>, arrepentirnos de todos los pecados, tomar sobre nosotros el nombre de Jesucristo, perseverar hasta el fin y manifestar mediante nuestras obras que hemos recibido del Espíritu de Cristo<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"159223018\" id=\"p15\">Es significativo que todos los requisitos para el bautismo son espirituales; no se requiere el éxito económico o social. Tanto el pobre como el rico tienen los mismos requisitos espirituales.<\/p>\n<p data-aid=\"159223027\" id=\"p16\">No existen requisitos relacionados con la raza, el sexo o el grupo étnico. El Libro de Mormón pone en claro que se invita a <em>todos<\/em> a participar de la bondad del Señor, \u201cnegros o blancos, esclavos o libres, varones o mujeres; [\u2026] todos son iguales ante Dios\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>; \u201ctodo hombre tiene tanto privilegio como cualquier otro, y a nadie se le prohíbe\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<p data-aid=\"159223033\" id=\"p17\">Dada nuestra \u201cigualdad\u201d ante Dios, no tiene mucho sentido que resaltemos nuestras diferencias. Algunas personas nos animan a \u201cimaginar que las personas son mucho más diferentes de nosotros y entre sí de lo que realmente son. [Algunos] toman las diferencias reales que hay, que son pequeñas, y hacen de ellas un abismo\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<p data-aid=\"159223040\" id=\"p18\">Adicionalmente, algunos han concluido erróneamente que, como se invita a todas las personas a recibir Su bondad y la vida eterna, no existen requisitos de conducta<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"159223047\" id=\"p19\">Sin embargo, las Escrituras dan fe de que todas las personas responsables de sus actos deben arrepentirse de sus pecados y guardar Sus mandamientos<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>. El Señor aclara que todos tienen albedrío moral y \u201cson libres para escoger la libertad y la vida eterna, por medio del gran Mediador de todos los hombres, [\u2026] y [\u2026] escucha[r] sus grandes mandamientos; y se[r] fieles a sus palabras y escoge[r] la vida eterna\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>. A fin de recibir las bendiciones de la Expiación del Salvador, debemos hacer uso de nuestro albedrío moral afirmativamente para elegir a Cristo y obedecer Sus mandamientos.<\/p>\n<p data-aid=\"159223053\" id=\"p20\">A lo largo de mi vida se ha analizado y debatido el significado de \u201calbedrío\u201d y \u201cpropia voluntad\u201d. Ha habido muchos argumentos intelectuales sobre estos temas, y continúa habiéndolos.<\/p>\n<p data-aid=\"159223060\" id=\"p21\">En la portada de una publicación para antiguos alumnos de una universidad muy importante, un prominente profesor de biología afirma: \u201cNo hay lugar para la propia voluntad\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>. No nos sorprende que en el artículo se cite al profesor diciendo: \u201cNo hay tal cosa como Dios [\u2026], no hay propia voluntad y este es un universo vasto, indiferente y vacío\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a>. Yo no podría estar más en desacuerdo.<\/p>\n<p data-aid=\"159223066\" id=\"p36\">Una doctrina fundamental de nuestra religión es que sí tenemos albedrío moral<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>, que incluye la propia voluntad<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>. El albedrío es el poder de elegir y actuar; es esencial para el Plan de Salvación. Sin albedrío moral no podríamos aprender, progresar o elegir ser uno con Cristo. Gracias al albedrío moral somos \u201clibres para escoger la libertad y la vida eterna\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. En el concilio preterrenal de los cielos, el plan del Padre incluía el albedrío como elemento esencial. Lucifer se rebeló y \u201cpretendió destruir el albedrío del hombre\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>; por tanto, a Satanás y a sus seguidores se les negó el privilegio de tener un cuerpo mortal.<\/p>\n<p data-aid=\"159223073\" id=\"p22\">Otros espíritus preterrenales ejercieron su albedrío para seguir el plan de nuestro Padre Celestial. Los espíritus bendecidos por haber nacido en esta vida terrenal continúan teniendo albedrío. Somos libres para escoger y actuar, mas no controlamos las consecuencias. \u201cSi se escoge el bien y la rectitud, el resultado será la felicidad, la paz y la vida eterna, mientras que si se escoge el pecado y la maldad, con el tiempo se recibirán dolor e infelicidad\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>. Tal como Alma declaró: \u201cLa maldad nunca fue felicidad\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>.<\/p>\n<p data-aid=\"159223078\" id=\"p23\">En este mundo extremadamente competitivo, se hacen constantes esfuerzos por sobresalir. Esmerarnos por ser lo mejor que podamos es un esfuerzo digno que merece la pena y va de conformidad con la doctrina del Señor. Esforzarse por degradar o menospreciar a los demás, o crear barreras para su progreso, es contrario a la doctrina del Señor. No podemos justificar nuestra decisión de actuar en contra de los mandamientos de Dios culpando a las circunstancias o a otras personas.<\/p>\n<p data-aid=\"159223085\" id=\"p24\">En el mundo actual, resulta fácil centrarse en el éxito material y profesional. Algunas personas pierden de vista los principios eternos y las decisiones que tienen importancia eterna. Haríamos bien en seguir el consejo del presidente Russell M. Nelson de \u201cpensar de manera celestial\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>.<\/p>\n<p data-aid=\"159223091\" id=\"p25\">Las decisiones más importantes las puede tomar casi cualquier persona, sean cuales sean sus talentos, habilidades, oportunidades o circunstancias económicas. Es esencial hacer énfasis en dar la máxima prioridad a las decisiones relacionadas con la familia. Esto se ve claramente en las Escrituras. Piensen en el relato en 1 Nefi de cómo Lehi \u201csalió para el desierto; y abandonó su casa, y la tierra de su herencia, y su oro, su plata y sus objetos preciosos, y no llevó nada consigo, salvo a su familia\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a>.<\/p>\n<p data-aid=\"159223097\" id=\"p26\">Al enfrentarnos a las vicisitudes de la vida, ocurren muchos acontecimientos sobre los cuales tenemos muy poco o ningún control. Obviamente, los problemas de salud y los accidentes entran en esa categoría; la reciente pandemia de COVID-19 ha afectado seriamente a personas que hacían todas las cosas bien. Sin embargo, sí tenemos control sobre las decisiones más importantes. Volviendo a mis días como misionero, el élder Marion D. Hanks, nuestro presidente de misión, nos hizo memorizar a todos una parte de un poema de Ella Wheeler Wilcox:<\/p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"159223102\" id=\"p27\">No existe posibilidad de que el destino ni la suerte<\/p>\n<p class=\"line\" data-aid=\"159223111\" id=\"p28\">pueda atajar, entorpecer ni controlar<\/p>\n<p class=\"line\" data-aid=\"159223118\" id=\"p29\">la firme resolución de un alma decidida<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a>.<\/p>\n<\/div>\n<\/div>\n<p data-aid=\"159223126\" id=\"p30\">En lo que respecta a los principios, el comportamiento, la observancia religiosa y la vida recta, nosotros tenemos el control. Nuestra fe en Dios el Padre y en Su Hijo Jesucristo, y la forma en que los adoramos, son decisiones que tomamos<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<p data-aid=\"159223135\" id=\"p31\">Por favor, entiendan que yo no estoy restando interés a la formación académica ni al trabajo. Lo que digo es que si a la labor relacionada con la formación académica y el trabajo se le da una mayor prioridad que a la familia y a ser uno con Cristo, las consecuencias imprevistas pueden resultar sumamente desfavorables.<\/p>\n<p data-aid=\"159223143\" id=\"p32\">La doctrina clara y sencilla establecida en <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a> es conmovedora y convincente, ya que amplía y aclara conceptos espirituales sagrados. Enseña que la salvación se recibe a medida que Jesucristo justifica y santifica a las almas arrepentidas mediante la gracia del Salvador<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. Eso sienta las bases para la función preeminente de Su Expiación.<\/p>\n<p data-aid=\"159223157\" id=\"p33\">Debemos esforzarnos por incluir a otras personas en nuestro círculo de unidad. Si hemos de seguir la admonición del presidente Russell M. Nelson de recoger al Israel disperso en ambos lados del velo, debemos incluir a otras personas en nuestro círculo de unidad. Tal como lo enseñó de manera hermosa el presidente Nelson: \u201cEn todo continente y a través de las islas del mar, las personas fieles están siendo recogidas en La Iglesia de Jesucristo de los Santos de los Últimos Días. Las diferencias culturales, de idioma, de sexo, de raza y de nacionalidad se vuelven insignificantes a medida que los fieles entran en la senda de los convenios y vienen a nuestro amado Redentor\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>.<\/p>\n<p data-aid=\"159223164\" id=\"p34\">Estamos unidos por nuestro amor por Jesucristo y nuestra fe en Él, y como hijos de un amoroso Padre Celestial. La esencia de la verdadera pertenencia consiste en ser uno con Cristo. Las ordenanzas del bautismo y la Santa Cena, establecidas en <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a>, junto con nuestros convenios del templo, nos unen de un modo especial y nos permiten vivir en paz y armonía y ser uno en todas las maneras eternamente importantes.<\/p>\n<p data-aid=\"159223170\" id=\"p35\">Expreso mi testimonio seguro y certero de que Jesucristo vive y de que, gracias a Su Expiación, podemos ser uno con Cristo. En el sagrado nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159223181\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159223189\" id=\"note1_p1\">David, cuando tenía diecisiete años, había ayudado a cargar a varios de los santos a través del helado río Sweetwater cuando se quedaron varados en las altiplanicies de Wyoming (véase <cite>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/cite>, tomo II, <a class=\"cross-ref\" href=\"/study/history/saints-v2/part-2/16-not-doubting-nor-despairing?lang=spa&amp;id=p28#p28\">Ninguna mano impía, 1846\u20131893<\/a>, 2020, pág. 262).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159223197\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27-p28#p27\">Moroni 7:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159223205\" id=\"note3_p1\">El rabino Michael Melchior, gran rabino de Noruega, y yo fuimos los discursantes principales en un diálogo entre académicos judíos y Santos de los Últimos Días celebrado el 5 de junio de 2019 en el BYU-Centro de Jerusalén, en Israel.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159223213\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20#p20\">Juan 17:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159223222\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p21-p22#p21\">Juan 17:21\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159223231\" id=\"note6_p1\">Véase \u201cThe Conference Minutes and Record Book of Christ\u2019s Church of Latter Day Saints, 1838\u20131839, 1844\u201d (comunmente conocido como \u201cthe Far West Record\u201d), 9 de junio de 1830, Biblioteca de la Historia de la Iglesia, Salt Lake City; Steven C. Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, 2008, pág. 75.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159223237\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a> fue la primera revelación que se publicó en el periódico de la Iglesia y fue utilizada por los misioneros tanto por la doctrina como para administrar las ordenanzas del bautismo y la Santa Cena (véase Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, pág. 75).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159223244\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p7#p7\">2 Nefi 2:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159223251\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37\">Doctrina y Convenios 20:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159223261\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33\">2 Nefi 26:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159223267\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p28#p28\">2 Nefi 26:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159223274\" id=\"note12_p1\">Peter Wood, <cite>Diversity: The Invention of a Concept<\/cite>, 2003, pág. 20.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159223284\" id=\"note13_p1\">Nehor tomó esta postura (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/1?lang=spa&amp;id=p4#p4\">Alma 1:4<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159223292\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p49-p50#p49\">Doctrina y Convenios 29:49\u201350<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159223299\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27\">2 Nefi 2:27\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159223305\" id=\"note16_p1\"><cite>Stanford<\/cite> (publicación de Stanford Alumni Association), diciembre de 2023, portada.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159223310\" id=\"note17_p1\">En Sam Scott, \u201cAs If You Had a Choice\u201d, <cite>Stanford<\/cite>, diciembre de 2023, pág. 44. El artículo identifica al profesor como Robert Sapolsky, un profesor de Biología, Neurología y Neurocirugía y autor de libros de ciencia muy vendidos. El artículo contiene opiniones antagónicas, entre ellas las de Alfred Mele, un profesor de Filosofía en Florida State University, quien dirigió un gran proyecto de la Fundación John Templeton sobre la propia voluntad. Él afirmó: \u201cLos científicos no han probado en absoluto que la propia voluntad \u2014incluida la propia voluntad ambiciosa\u2014 sea una ilusión\u201d (En Scott, \u201cAs If You Had a Choice\u201d, pág. 46).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159223314\" id=\"note18_p1\">Véase D. Todd Christofferson, \u201c<a href=\"https://speeches.byu.edu/talks/d-todd-christofferson/moral-agency\">Moral Agency<\/a>\u201d (devocional en la Universidad Brigham Young, 31 de enero de 2006), speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159223322\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 58:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159223326\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27\">2 Nefi 2:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159223333\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4?lang=spa&amp;id=p3#p3\">Moisés 4:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159223341\" id=\"note22_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/true-to-the-faith/agency?lang=spa&amp;id=p3#p3\">Leales a la Fe: Una referencia del Evangelio<\/a><\/cite>, 2004, pág. 12.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159223349\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41?lang=spa&amp;id=p10#p10\">Alma 41:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159223357\" id=\"note24_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159223367\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p4#p4\">1 Nefi 2:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159223375\" id=\"note26_p1\"><cite>Poetical works of Ella Wheeler Wilcox<\/cite>, 1917, pág. 129.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"159223384\" id=\"note27_p1\">Siempre me ha encantado la cita que compartió el élder Neal A. Maxwell, la cual indicaba esto de la manera más sucinta: \u201cSi no has elegido el reino de Dios primero, al final dará igual lo que hayas elegido\u201d (atribuida a William Law, clérigo inglés del siglo XVIII; citado en Neal A. Maxwell, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1974/04/response-to-a-call.html?para=18#p18\">Response to a Call<\/span>\u201d, <cite>Ensign<\/cite>, mayo de 1974, pág. 112).<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"159223392\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p29-p31#p29\">Doctrina y Convenios 20:29\u201331<\/a>. La teología del calvinismo enfatizaba la justificación y la santificación de las almas caídas mediante la gracia de Jesucristo. Enseñaba que una vez que Dios había predestinado a un alma para la salvación, nada podría alterar el resultado. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a> se distancia claramente del calvinismo. En esta sección leemos: \u201cPero existe la posibilidad de que el hombre caiga de la gracia y se aleje del Dios viviente\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p32-p34#p32\">Doctrina y Convenios 20:32\u201334<\/a>; Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, pág. 74).<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"159223401\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/12/youth/be-one/building-bridges?lang=spa\">Edificar puentes<\/a>\u201d, <cite>Liahona<\/cite>, diciembre de 2018, pág. 51.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159222994",
+        "id": "note4",
+        "text": "<p data-aid=\"159223213\" id=\"note4_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20#p20\">Juan 17:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p20#p20",
+          "text": "Juan 17:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159222994",
+        "id": "note5",
+        "text": "<p data-aid=\"159223222\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p21-p22#p21\">Juan 17:21\u201322<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p21-p22#p21",
+          "text": "Juan 17:21\u201322",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159222985",
+        "id": "note2",
+        "text": "<p data-aid=\"159223197\" id=\"note2_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27-p28#p27\">Moroni 7:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p27-p28#p27",
+          "text": "Moroni 7:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159222989",
+        "id": "note3",
+        "text": "<p data-aid=\"159223205\" id=\"note3_p1\">El rabino Michael Melchior, gran rabino de Noruega, y yo fuimos los discursantes principales en un diálogo entre académicos judíos y Santos de los Últimos Días celebrado el 5 de junio de 2019 en el BYU-Centro de Jerusalén, en Israel.<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159223011",
+        "id": "note8",
+        "text": "<p data-aid=\"159223244\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p7#p7\">2 Nefi 2:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p7#p7",
+          "text": "2 Nefi 2:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159223011",
+        "id": "note9",
+        "text": "<p data-aid=\"159223251\" id=\"note9_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37\">Doctrina y Convenios 20:37<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37",
+          "text": "Doctrina y Convenios 20:37",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159222999",
+        "id": "note6",
+        "text": "<p data-aid=\"159223231\" id=\"note6_p1\">Véase \u201cThe Conference Minutes and Record Book of Christ\u2019s Church of Latter Day Saints, 1838\u20131839, 1844\u201d (comunmente conocido como \u201cthe Far West Record\u201d), 9 de junio de 1830, Biblioteca de la Historia de la Iglesia, Salt Lake City; Steven C. Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, 2008, pág. 75.<\/p>"
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159223008",
+        "id": "note7",
+        "text": "<p data-aid=\"159223237\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a> fue la primera revelación que se publicó en el periódico de la Iglesia y fue utilizada por los misioneros tanto por la doctrina como para administrar las ordenanzas del bautismo y la Santa Cena (véase Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, pág. 75).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa",
+          "text": "Doctrina y Convenios 20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159223060",
+        "id": "note16",
+        "text": "<p data-aid=\"159223305\" id=\"note16_p1\"><cite>Stanford<\/cite> (publicación de Stanford Alumni Association), diciembre de 2023, portada.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159223047",
+        "id": "note15",
+        "text": "<p data-aid=\"159223299\" id=\"note15_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27\">2 Nefi 2:27\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27-p28#p27",
+          "text": "2 Nefi 2:27\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159223047",
+        "id": "note14",
+        "text": "<p data-aid=\"159223292\" id=\"note14_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p49-p50#p49\">Doctrina y Convenios 29:49\u201350<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p49-p50#p49",
+          "text": "Doctrina y Convenios 29:49\u201350",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159223040",
+        "id": "note13",
+        "text": "<p data-aid=\"159223284\" id=\"note13_p1\">Nehor tomó esta postura (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/1?lang=spa&amp;id=p4#p4\">Alma 1:4<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/1?lang=spa&amp;id=p4#p4",
+          "text": "Alma 1:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159223033",
+        "id": "note12",
+        "text": "<p data-aid=\"159223274\" id=\"note12_p1\">Peter Wood, <cite>Diversity: The Invention of a Concept<\/cite>, 2003, pág. 20.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159223027",
+        "id": "note11",
+        "text": "<p data-aid=\"159223267\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p28#p28\">2 Nefi 26:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p28#p28",
+          "text": "2 Nefi 26:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159223027",
+        "id": "note10",
+        "text": "<p data-aid=\"159223261\" id=\"note10_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33\">2 Nefi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33",
+          "text": "2 Nefi 26:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159223066",
+        "id": "note19",
+        "text": "<p data-aid=\"159223322\" id=\"note19_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 58:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p27#p27",
+          "text": "Doctrina y Convenios 58:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159223066",
+        "id": "note18",
+        "text": "<p data-aid=\"159223314\" id=\"note18_p1\">Véase D. Todd Christofferson, \u201c<a href=\"https://speeches.byu.edu/talks/d-todd-christofferson/moral-agency\">Moral Agency<\/a>\u201d (devocional en la Universidad Brigham Young, 31 de enero de 2006), speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/d-todd-christofferson/moral-agency",
+          "text": "Moral Agency"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159223060",
+        "id": "note17",
+        "text": "<p data-aid=\"159223310\" id=\"note17_p1\">En Sam Scott, \u201cAs If You Had a Choice\u201d, <cite>Stanford<\/cite>, diciembre de 2023, pág. 44. El artículo identifica al profesor como Robert Sapolsky, un profesor de Biología, Neurología y Neurocirugía y autor de libros de ciencia muy vendidos. El artículo contiene opiniones antagónicas, entre ellas las de Alfred Mele, un profesor de Filosofía en Florida State University, quien dirigió un gran proyecto de la Fundación John Templeton sobre la propia voluntad. Él afirmó: \u201cLos científicos no han probado en absoluto que la propia voluntad \u2014incluida la propia voluntad ambiciosa\u2014 sea una ilusión\u201d (En Scott, \u201cAs If You Had a Choice\u201d, pág. 46).<\/p>"
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "159223126",
+        "id": "note27",
+        "text": "<p data-aid=\"159223384\" id=\"note27_p1\">Siempre me ha encantado la cita que compartió el élder Neal A. Maxwell, la cual indicaba esto de la manera más sucinta: \u201cSi no has elegido el reino de Dios primero, al final dará igual lo que hayas elegido\u201d (atribuida a William Law, clérigo inglés del siglo XVIII; citado en Neal A. Maxwell, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1974/04/response-to-a-call.html?para=18#p18\">Response to a Call<\/span>\u201d, <cite>Ensign<\/cite>, mayo de 1974, pág. 112).<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159223118",
+        "id": "note26",
+        "text": "<p data-aid=\"159223375\" id=\"note26_p1\"><cite>Poetical works of Ella Wheeler Wilcox<\/cite>, 1917, pág. 129.<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159223091",
+        "id": "note25",
+        "text": "<p data-aid=\"159223367\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p4#p4\">1 Nefi 2:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p4#p4",
+          "text": "1 Nefi 2:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159223085",
+        "id": "note24",
+        "text": "<p data-aid=\"159223357\" id=\"note24_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159223073",
+        "id": "note23",
+        "text": "<p data-aid=\"159223349\" id=\"note23_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/41?lang=spa&amp;id=p10#p10\">Alma 41:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/41?lang=spa&amp;id=p10#p10",
+          "text": "Alma 41:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159223073",
+        "id": "note22",
+        "text": "<p data-aid=\"159223341\" id=\"note22_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/true-to-the-faith/agency?lang=spa&amp;id=p3#p3\">Leales a la Fe: Una referencia del Evangelio<\/a><\/cite>, 2004, pág. 12.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/true-to-the-faith/agency?lang=spa&amp;id=p3#p3",
+          "text": "Leales a la Fe: Una referencia del Evangelio",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159223066",
+        "id": "note21",
+        "text": "<p data-aid=\"159223333\" id=\"note21_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4?lang=spa&amp;id=p3#p3\">Moisés 4:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/4?lang=spa&amp;id=p3#p3",
+          "text": "Moisés 4:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159223066",
+        "id": "note20",
+        "text": "<p data-aid=\"159223326\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27\">2 Nefi 2:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27",
+          "text": "2 Nefi 2:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159222981",
+        "id": "note1",
+        "text": "<p data-aid=\"159223189\" id=\"note1_p1\">David, cuando tenía diecisiete años, había ayudado a cargar a varios de los santos a través del helado río Sweetwater cuando se quedaron varados en las altiplanicies de Wyoming (véase <cite>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/cite>, tomo II, <a class=\"cross-ref\" href=\"/study/history/saints-v2/part-2/16-not-doubting-nor-despairing?lang=spa&amp;id=p28#p28\">Ninguna mano impía, 1846\u20131893<\/a>, 2020, pág. 262).<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v2/part-2/16-not-doubting-nor-despairing?lang=spa&amp;id=p28#p28",
+          "text": "Ninguna mano impía, 1846\u20131893",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "159223157",
+        "id": "note29",
+        "text": "<p data-aid=\"159223401\" id=\"note29_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/12/youth/be-one/building-bridges?lang=spa\">Edificar puentes<\/a>\u201d, <cite>Liahona<\/cite>, diciembre de 2018, pág. 51.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2018/12/youth/be-one/building-bridges?lang=spa",
+          "text": "Edificar puentes",
+          "type": "cross-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "159223143",
+        "id": "note28",
+        "text": "<p data-aid=\"159223392\" id=\"note28_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p29-p31#p29\">Doctrina y Convenios 20:29\u201331<\/a>. La teología del calvinismo enfatizaba la justificación y la santificación de las almas caídas mediante la gracia de Jesucristo. Enseñaba que una vez que Dios había predestinado a un alma para la salvación, nada podría alterar el resultado. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa\">Doctrina y Convenios 20<\/a> se distancia claramente del calvinismo. En esta sección leemos: \u201cPero existe la posibilidad de que el hombre caiga de la gracia y se aleje del Dios viviente\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p32-p34#p32\">Doctrina y Convenios 20:32\u201334<\/a>; Harper, <cite>Making Sense of the Doctrine and Covenants<\/cite>, pág. 74).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p29-p31#p29",
+            "text": "Doctrina y Convenios 20:29\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa",
+            "text": "Doctrina y Convenios 20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p32-p34#p32",
+            "text": "Doctrina y Convenios 20:32\u201334",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

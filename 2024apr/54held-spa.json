@@ -1,0 +1,416 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/54held?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "071fa2ed83564af88fd57447c5db0ac9",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/54held",
+      "data-aid": "159169073",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "31544298e689456caf80380b4ea0650c"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/3b/4e/3b4ed05eaa17cbc93ba3c5bc8b03a6de4432b671/3b4ed05eaa17cbc93ba3c5bc8b03a6de4432b671.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5040-mathias-held-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Oposición en todas las cosas",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-07T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159169073",
+      {"key": "159169073"}
+    ],
+    [
+      "159221524",
+      {"key": "159221524"}
+    ],
+    [
+      "159221530",
+      {"key": "159221530"}
+    ],
+    [
+      "159221536",
+      {"key": "159221536"}
+    ],
+    [
+      "159221543",
+      {"key": "159221543"}
+    ],
+    [
+      "159221550",
+      {"key": "159221550"}
+    ],
+    [
+      "159221558",
+      {"key": "159221558"}
+    ],
+    [
+      "159221564",
+      {"key": "159221564"}
+    ],
+    [
+      "159221576",
+      {"key": "159221576"}
+    ],
+    [
+      "159221583",
+      {"key": "159221583"}
+    ],
+    [
+      "159221590",
+      {"key": "159221590"}
+    ],
+    [
+      "159221597",
+      {"key": "159221597"}
+    ],
+    [
+      "159221604",
+      {"key": "159221604"}
+    ],
+    [
+      "159221616",
+      {"key": "159221616"}
+    ],
+    [
+      "159221621",
+      {"key": "159221621"}
+    ],
+    [
+      "159221628",
+      {"key": "159221628"}
+    ],
+    [
+      "159221635",
+      {"key": "159221635"}
+    ],
+    [
+      "159221642",
+      {"key": "159221642"}
+    ],
+    [
+      "159221649",
+      {"key": "159221649"}
+    ],
+    [
+      "159221656",
+      {"key": "159221656"}
+    ],
+    [
+      "159221663",
+      {"key": "159221663"}
+    ],
+    [
+      "159221670",
+      {"key": "159221670"}
+    ],
+    [
+      "159221677",
+      {"key": "159221677"}
+    ],
+    [
+      "159221684",
+      {"key": "159221684"}
+    ],
+    [
+      "159221690",
+      {"key": "159221690"}
+    ],
+    [
+      "159221697",
+      {"key": "159221697"}
+    ],
+    [
+      "159221704",
+      {"key": "159221704"}
+    ],
+    [
+      "159221711",
+      {"key": "159221711"}
+    ],
+    [
+      "159221718",
+      {"key": "159221718"}
+    ],
+    [
+      "159221725",
+      {"key": "159221725"}
+    ],
+    [
+      "159221731",
+      {"key": "159221731"}
+    ],
+    [
+      "159221737",
+      {"key": "159221737"}
+    ],
+    [
+      "159221743",
+      {"key": "159221743"}
+    ],
+    [
+      "159221750",
+      {"key": "159221750"}
+    ],
+    [
+      "159221757",
+      {"key": "159221757"}
+    ],
+    [
+      "159221764",
+      {"key": "159221764"}
+    ],
+    [
+      "159221770",
+      {"key": "159221770"}
+    ],
+    [
+      "159221776",
+      {"key": "159221776"}
+    ],
+    [
+      "159221782",
+      {"key": "159221782"}
+    ],
+    [
+      "159221789",
+      {"key": "159221789"}
+    ],
+    [
+      "159221796",
+      {"key": "159221796"}
+    ],
+    [
+      "159221803",
+      {"key": "159221803"}
+    ],
+    [
+      "159221810",
+      {"key": "159221810"}
+    ],
+    [
+      "159224817",
+      {"key": "159224817"}
+    ],
+    [
+      "159224824",
+      {"key": "159224824"}
+    ],
+    [
+      "159224831",
+      {"key": "159224831"}
+    ],
+    [
+      "159224838",
+      {"key": "159224838"}
+    ],
+    [
+      "159224845",
+      {"key": "159224845"}
+    ],
+    [
+      "159224852",
+      {"key": "159224852"}
+    ],
+    [
+      "159224859",
+      {"key": "159224859"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/54held",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Held enseña que la oposición es necesaria para el progreso eterno.",
+          "title": "Oposición en todas las cosas"
+        },
+        "pageSocial": {
+          "description": "El élder Held enseña que la oposición es necesaria para el progreso eterno.",
+          "title": "Oposición en todas las cosas"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/3b/4e/3b4ed05eaa17cbc93ba3c5bc8b03a6de4432b671/3b4ed05eaa17cbc93ba3c5bc8b03a6de4432b671.jpeg\" data-video-title=\"Oposición en todas las cosas\" data-video-description=\"El élder Held enseña que la oposición es necesaria para el progreso eterno.\" data-video-id=\"6350478301112\" data-ip=\"Download and Streaming                            \" data-duration=\"668836\" data-assetId=\"14f0e8d4f52d11eeabdceeeeac1ebfc23243e475\" data-ref-id=\"F38BFA573796FDA0962C15B6BC8CD462AECC164E\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350478301112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"344462678\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5040-mathias-held-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"62397573\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5040-mathias-held-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"161112460\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-5040-mathias-held-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"344462678\"/><\/video><h1 data-aid=\"159221524\" id=\"title1\">Oposición en todas las cosas<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159221530\" id=\"author1\">Por el élder Mathias Held<\/p>\n<p class=\"author-role\" data-aid=\"159221536\" id=\"author2\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159221543\" id=\"kicker1\">Para poder ejercer nuestro albedrío, necesitamos tener opciones opuestas para considerarlas.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159221550\" id=\"p1\">Hace poco, mientras conducía por una ciudad desconocida para nosotros, sin querer tomé el camino equivocado, lo que nos llevó a mi esposa y a mí a una autopista rápida por muchos kilómetros sin poder dar la vuelta. Habíamos recibido una amable invitación a la casa de un amigo y nos preocupaba que ahora llegaríamos mucho más tarde de lo esperado.<\/p>\n<p data-aid=\"159221558\" id=\"p29\">Mientras estaba en la autopista buscando desesperadamente una salida otra vez, me culpé a mí mismo por no prestar más atención al sistema de navegación. Esa experiencia me hizo pensar en la manera en que a veces tomamos malas decisiones en nuestra vida y en la manera en que debemos vivir con las consecuencias con humildad y paciencia hasta que podamos volver a cambiar de rumbo.<\/p>\n<p data-aid=\"159221564\" id=\"p2\">La vida consiste en tomar decisiones. Nuestro Padre Celestial nos dio el don divino del albedrío precisamente para que pudiéramos aprender de nuestras decisiones, tanto de las correctas como de las incorrectas. Corregimos nuestras malas decisiones cuando nos arrepentimos. Ahí es donde se produce el crecimiento. El plan del Padre Celestial para todos nosotros consiste en aprender, desarrollarnos y progresar hacia la vida eterna.<\/p>\n<p data-aid=\"159221576\" id=\"p3\">Desde que los misioneros nos enseñaron a mi esposa y a mí y nos unimos a la Iglesia hace muchos años, siempre me han impresionado las profundas enseñanzas que Lehi dio a su hijo Jacob en el Libro de Mormón. Le enseñó que \u201cel Señor Dios le concedió al hombre que obrara por sí mismo\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a> y que \u201ces preciso que haya una oposición en todas las cosas\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>. Para poder ejercer nuestro albedrío, necesitamos tener opciones opuestas para considerarlas. Al hacerlo, el Libro de Mormón también nos recuerda que hemos sido \u201csuficientemente instruidos\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a> y que \u201cel Espíritu de Cristo\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a> se ha dado a cada uno de nosotros para \u201cdiscernir el bien del mal\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"159221583\" id=\"p4\">En la vida, constantemente nos enfrentamos a muchas decisiones importantes. Por ejemplo:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"159221590\" id=\"p5\">Elegir si seguiremos o no los mandamientos de Dios.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221597\" id=\"p6\">Elegir tener fe y reconocer cuando ocurren milagros o esperar con escepticismo a que algo suceda antes de solo entonces elegir creer.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221604\" id=\"p7\">Elegir desarrollar confianza en Dios o anticipar temerosamente otro desafío al día siguiente.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"159221616\" id=\"p8\">Al igual que cuando tomé el camino equivocado en esa autopista, sufrir las consecuencias de <em>nuestras propias<\/em> malas decisiones a menudo puede ser particularmente doloroso porque solo podemos culparnos a nosotros mismos. Sin embargo, siempre podemos elegir recibir consuelo mediante el proceso divino del arrepentimiento, corregir lo incorrecto y, al hacerlo, aprender algunas lecciones que cambian la vida.<\/p>\n<p data-aid=\"159221621\" id=\"p9\">A veces también podemos experimentar oposición y pruebas por cosas que están fuera de nuestro control, como en:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"159221628\" id=\"p10\">Momentos de salud y períodos de enfermedad.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221635\" id=\"p11\">Tiempos de paz y tiempos de guerra.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221642\" id=\"p12\">Horas del día y de la noche y estaciones de verano e invierno.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221649\" id=\"p13\">Tiempos de trabajo seguidos de tiempos de descanso.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"159221656\" id=\"p14\">Aunque por lo general no podemos elegir entre este tipo de situaciones porque simplemente suceden, aún somos libres de elegir <em>la manera<\/em> de reaccionar ante ellas. Podemos hacerlo con una actitud positiva o pesimista. Podemos buscar aprender de la experiencia y pedir la ayuda y el apoyo de nuestro Señor, o podemos pensar que estamos solos en esta prueba y que debemos sufrirla solos. Podemos \u201cajustar nuestras velas\u201d ante la nueva realidad, o podemos decidir no cambiar nada. En la oscuridad de la noche, podemos encender nuestras luces; en el frío del invierno, debemos elegir usar ropa abrigada; en épocas de enfermedad, podemos buscar ayuda médica y espiritual. Nosotros elegimos la manera de reaccionar ante esas circunstancias.<\/p>\n<p data-aid=\"159221663\" id=\"p15\"><i>Ajustar<\/i>, <i>aprender<\/i>, <i>buscar<\/i>, <i>elegir<\/i> son todos verbos de acción. Recuerden que somos agentes y no objetos. Nunca olvidemos que Jesús prometió \u201c[tomar] sobre sí los dolores y las enfermedades de su pueblo [\u2026], a fin de que [\u2026] sepa cómo socorrer[nos]\u201d, o ayudarnos, a medida que nos volvemos a Él<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>. Podemos elegir edificar nuestro fundamento sobre la roca que es Jesucristo, para que cuando venga el torbellino \u201cno tenga poder\u201d sobre nosotros<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>. Él ha prometido que \u201ca cualquiera que venga [a Él], [Él] lo recibir[á]; y benditos son los que vienen a [Él]\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"159221670\" id=\"p16\">Ahora bien, hay un principio adicional que es especialmente importante. Lehi dijo que \u201ces preciso que haya una oposición <em>en todas las cosas<\/em>\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>. Eso significa que los opuestos no existen separados el uno del otro, ellos incluso pueden complementarse. No seríamos capaces de reconocer el gozo a menos que también hubiéramos experimentado pesar en algún momento. Sentir hambre a veces nos ayuda a estar especialmente agradecidos cuando volvemos a tener suficiente para comer. No seríamos capaces de reconocer la verdad a menos que también hubiéramos visto las mentiras de vez en cuando.<\/p>\n<p data-aid=\"159221677\" id=\"p17\">Todos esos opuestos son como las dos caras de una misma moneda; ambas partes están siempre presentes. Charles Dickens dio un ejemplo de esta idea cuando escribió: \u201cEra el mejor de los tiempos, era el peor de los tiempos\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>.<\/p>\n<p data-aid=\"159221684\" id=\"p18\">Permítanme dar un ejemplo de nuestra propia vida. Casarnos, formar una familia y tener hijos nos brindó los mayores momentos de gozo que jamás hayamos experimentado en nuestra vida, pero también los momentos de dolor, angustia y aflicción más profundos cuando algo le sucedió a alguno de nosotros. El gozo y la dicha infinitos con nuestros hijos a veces también fueron seguidos por períodos recurrentes de enfermedades, hospitalizaciones y noches de insomnio llenas de angustia, además del alivio que encontramos en las oraciones y las bendiciones del sacerdocio. Esas experiencias contrastantes nos enseñaron que nunca estamos solos en los momentos de sufrimiento, y también nos mostraron cuánto podemos soportar con el socorro y la ayuda del Señor. Esas experiencias nos ayudaron a moldearnos de maneras maravillosas, y todo ha valido la pena. ¿No es eso a lo que vinimos?<\/p>\n<p data-aid=\"159221690\" id=\"p19\">En las Escrituras también encontramos algunos ejemplos interesantes:<\/p>\n<ul class=\"bullet\">\n<li>\n<p data-aid=\"159221697\" id=\"p20\">Lehi enseñó a su hijo Jacob que las aflicciones que sufrió en el desierto le ayudaron a conocer la grandeza de Dios y que \u201c[Dios] consagrar[ía] [s]us aflicciones para [s]u provecho\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221704\" id=\"p21\">Durante el cruel encarcelamiento de José Smith en la cárcel de Liberty, el Señor le dijo que \u201ctodas estas cosas [l]e servir[ía]n de experiencia, y ser[ía]n para [s]u bien\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>.<\/p>\n<\/li>\n<li>\n<p data-aid=\"159221711\" id=\"p22\">Finalmente, el sacrificio infinito de Jesucristo fue ciertamente el ejemplo más grande de dolor y sufrimiento que jamás se haya visto, pero también trajo consigo las maravillosas bendiciones de Su Expiación para todos los hijos de Dios.<\/p>\n<\/li>\n<\/ul>\n<p data-aid=\"159221718\" id=\"p23\">Donde hay sol, también debe haber sombras. Las inundaciones pueden traer destrucción, pero por lo general también traen vida. Las lágrimas de dolor a menudo se convierten en lágrimas de alivio y felicidad. Los sentimientos de tristeza cuando los seres queridos se marchan se compensan más tarde con el gozo de volver a encontrarse. En épocas de guerra y destrucción, también ocurren muchos pequeños actos de bondad y amor para aquellos que tienen \u201cojos para ver [y] oídos para oír\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>.<\/p>\n<p data-aid=\"159221725\" id=\"p24\">Nuestro mundo actual a menudo se caracteriza por el miedo y la ansiedad; miedo a lo que el futuro pueda traernos, pero Jesús nos ha enseñado a confiar y a \u201cmira[r] hacia [Él] en todo pensamiento; [a] no dud[ar]; [a] no tem[er]\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>.<\/p>\n<p data-aid=\"159221731\" id=\"p25\">Hagamos constantemente un esfuerzo muy consciente por ver las dos caras de <em>cada<\/em> moneda que se nos asigne en la vida. Aunque a veces no podamos ver ambas caras de inmediato, podemos saber que siempre están ahí y confiar en ello.<\/p>\n<p data-aid=\"159221737\" id=\"p26\">Podemos estar seguros de que nuestras dificultades, pesares, aflicciones y dolores no nos definen; más bien, <em>la manera<\/em> en que los afrontamos es lo que nos ayudará a crecer y a acercarnos a Dios. Son nuestras actitudes y decisiones las que nos definen mucho mejor que nuestros desafíos.<\/p>\n<p data-aid=\"159221743\" id=\"p27\">Cuando estén sanos, valórenlo y estén agradecidos por ello en todo momento. Cuando estén enfermos, busquen aprender pacientemente de ello y sepan que esto puede volver a cambiar según la voluntad de Dios. Cuando estén tristes, confíen en que la felicidad está cerca, solo que a menudo aún no podemos verla. Cambien conscientemente su enfoque y eleven sus pensamientos a los aspectos positivos de los desafíos, ¡porque sin duda siempre están ahí! Nunca se olviden de ser agradecidos. Elijan creer. Elijan tener fe en Jesucristo. Elijan confiar siempre en Dios. ¡Elijan \u201cpensar de manera celestial\u201d, como nos enseñó recientemente el presidente Russell M. Nelson!<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>.<\/p>\n<p data-aid=\"159221750\" id=\"p28\">Recordemos siempre el maravilloso plan que nuestro Padre Celestial tiene para nosotros. Él nos ama y envió a Su Hijo Amado para ayudarnos en nuestras pruebas y para abrirnos la puerta para regresar a Él. Jesucristo vive y está allí en todo momento, esperando que escojamos acudir a Él para que nos brinde socorro, fortaleza y salvación. De estas cosas testifico, en el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159221757\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159221764\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p16#p16\">2 Nefi 2:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159221770\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11\">2 Nefi 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159221776\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5\">2 Nefi 2:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159221782\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p16#p16\">Moroni 7:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159221789\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5\">2 Nefi 2:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159221796\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11, 12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159221803\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159221810\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14\">3 Nefi 9:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159224817\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11\">2 Nefi 2:11<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159224824\" id=\"note10_p1\">Charles Dickens, <cite>Tres obras de Charles Dickens<\/cite>, Editorial Porrúa, S. A., pág. 125.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159224831\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p2#p2\">2 Nefi 2:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159224838\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 122:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159224845\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/29?lang=spa&amp;id=p4#p4\">Deuteronomio 29:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159224852\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159224859\" id=\"note15_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159221576",
+        "id": "note4",
+        "text": "<p data-aid=\"159221782\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p16#p16\">Moroni 7:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p16#p16",
+          "text": "Moroni 7:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159221576",
+        "id": "note5",
+        "text": "<p data-aid=\"159221789\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5\">2 Nefi 2:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5",
+          "text": "2 Nefi 2:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159221576",
+        "id": "note2",
+        "text": "<p data-aid=\"159221770\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11\">2 Nefi 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11",
+          "text": "2 Nefi 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159221576",
+        "id": "note3",
+        "text": "<p data-aid=\"159221776\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5\">2 Nefi 2:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p5#p5",
+          "text": "2 Nefi 2:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159221663",
+        "id": "note8",
+        "text": "<p data-aid=\"159221810\" id=\"note8_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14\">3 Nefi 9:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p14#p14",
+          "text": "3 Nefi 9:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159221670",
+        "id": "note9",
+        "text": "<p data-aid=\"159224817\" id=\"note9_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11\">2 Nefi 2:11<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11#p11",
+          "text": "2 Nefi 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159221663",
+        "id": "note6",
+        "text": "<p data-aid=\"159221796\" id=\"note6_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11, 12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11",
+          "text": "Alma 7:11, 12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159221663",
+        "id": "note7",
+        "text": "<p data-aid=\"159221803\" id=\"note7_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12\">Helamán 5:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5?lang=spa&amp;id=p12#p12",
+          "text": "Helamán 5:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159221743",
+        "id": "note15",
+        "text": "<p data-aid=\"159224859\" id=\"note15_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159221725",
+        "id": "note14",
+        "text": "<p data-aid=\"159224852\" id=\"note14_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36",
+          "text": "Doctrina y Convenios 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159221718",
+        "id": "note13",
+        "text": "<p data-aid=\"159224845\" id=\"note13_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/29?lang=spa&amp;id=p4#p4\">Deuteronomio 29:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/deut/29?lang=spa&amp;id=p4#p4",
+          "text": "Deuteronomio 29:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159221704",
+        "id": "note12",
+        "text": "<p data-aid=\"159224838\" id=\"note12_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/122?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 122:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/122?lang=spa&amp;id=p7#p7",
+          "text": "Doctrina y Convenios 122:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159221697",
+        "id": "note11",
+        "text": "<p data-aid=\"159224831\" id=\"note11_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p2#p2\">2 Nefi 2:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p2#p2",
+          "text": "2 Nefi 2:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159221677",
+        "id": "note10",
+        "text": "<p data-aid=\"159224824\" id=\"note10_p1\">Charles Dickens, <cite>Tres obras de Charles Dickens<\/cite>, Editorial Porrúa, S. A., pág. 125.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159221576",
+        "id": "note1",
+        "text": "<p data-aid=\"159221764\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p16#p16\">2 Nefi 2:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p16#p16",
+          "text": "2 Nefi 2:16",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

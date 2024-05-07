@@ -1,0 +1,757 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_article",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/04/41rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "95f805d9630f4f21bcd77642ecda6d62",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/04/41rasband",
+      "data-aid": "159168313",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "0cd747fc4158402b8c1d500bd1cf29bc"
+    },
+    "ogTagImageUrl": "https://assets.churchofjesuschrist.org/2c/00/2c00da149c054af1fde1e2c4e8893324ab189730/2c00da149c054af1fde1e2c4e8893324ab189730.jpeg",
+    "audio": [{
+      "mediaUrl": "https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4010-ronald-a-rasband-32k-spa.mp3",
+      "variant": "audio"
+    }],
+    "title": "Las palabras importan",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-04-07T00:00:00.000Z\"}"
+  },
+  "verified": true,
+  "pids": [
+    [
+      "159168313",
+      {"key": "159168313"}
+    ],
+    [
+      "159184998",
+      {"key": "159184998"}
+    ],
+    [
+      "159185001",
+      {"key": "159185001"}
+    ],
+    [
+      "159185003",
+      {"key": "159185003"}
+    ],
+    [
+      "159185005",
+      {"key": "159185005"}
+    ],
+    [
+      "159185007",
+      {"key": "159185007"}
+    ],
+    [
+      "159185009",
+      {"key": "159185009"}
+    ],
+    [
+      "159185012",
+      {"key": "159185012"}
+    ],
+    [
+      "159185014",
+      {"key": "159185014"}
+    ],
+    [
+      "159185017",
+      {"key": "159185017"}
+    ],
+    [
+      "159185020",
+      {"key": "159185020"}
+    ],
+    [
+      "159185022",
+      {"key": "159185022"}
+    ],
+    [
+      "159185025",
+      {"key": "159185025"}
+    ],
+    [
+      "159185028",
+      {"key": "159185028"}
+    ],
+    [
+      "159185031",
+      {"key": "159185031"}
+    ],
+    [
+      "159185034",
+      {"key": "159185034"}
+    ],
+    [
+      "159185037",
+      {"key": "159185037"}
+    ],
+    [
+      "159185040",
+      {"key": "159185040"}
+    ],
+    [
+      "159185043",
+      {"key": "159185043"}
+    ],
+    [
+      "159185046",
+      {"key": "159185046"}
+    ],
+    [
+      "159185049",
+      {"key": "159185049"}
+    ],
+    [
+      "159185052",
+      {"key": "159185052"}
+    ],
+    [
+      "159185055",
+      {"key": "159185055"}
+    ],
+    [
+      "159185058",
+      {"key": "159185058"}
+    ],
+    [
+      "159185061",
+      {"key": "159185061"}
+    ],
+    [
+      "159185064",
+      {"key": "159185064"}
+    ],
+    [
+      "159185067",
+      {"key": "159185067"}
+    ],
+    [
+      "159185070",
+      {"key": "159185070"}
+    ],
+    [
+      "159185073",
+      {"key": "159185073"}
+    ],
+    [
+      "159185076",
+      {"key": "159185076"}
+    ],
+    [
+      "159185079",
+      {"key": "159185079"}
+    ],
+    [
+      "159185082",
+      {"key": "159185082"}
+    ],
+    [
+      "159185089",
+      {"key": "159185089"}
+    ],
+    [
+      "159185092",
+      {"key": "159185092"}
+    ],
+    [
+      "159185095",
+      {"key": "159185095"}
+    ],
+    [
+      "159185098",
+      {"key": "159185098"}
+    ],
+    [
+      "159185101",
+      {"key": "159185101"}
+    ],
+    [
+      "159185104",
+      {"key": "159185104"}
+    ],
+    [
+      "159185107",
+      {"key": "159185107"}
+    ],
+    [
+      "159185110",
+      {"key": "159185110"}
+    ],
+    [
+      "159185113",
+      {"key": "159185113"}
+    ],
+    [
+      "159185116",
+      {"key": "159185116"}
+    ],
+    [
+      "159185119",
+      {"key": "159185119"}
+    ],
+    [
+      "159185122",
+      {"key": "159185122"}
+    ],
+    [
+      "159185125",
+      {"key": "159185125"}
+    ],
+    [
+      "159185129",
+      {"key": "159185129"}
+    ],
+    [
+      "159185132",
+      {"key": "159185132"}
+    ],
+    [
+      "159185135",
+      {"key": "159185135"}
+    ],
+    [
+      "159185138",
+      {"key": "159185138"}
+    ],
+    [
+      "159185141",
+      {"key": "159185141"}
+    ],
+    [
+      "159185144",
+      {"key": "159185144"}
+    ],
+    [
+      "159185147",
+      {"key": "159185147"}
+    ],
+    [
+      "159185150",
+      {"key": "159185150"}
+    ],
+    [
+      "159185152",
+      {"key": "159185152"}
+    ],
+    [
+      "159185154",
+      {"key": "159185154"}
+    ],
+    [
+      "159185156",
+      {"key": "159185156"}
+    ],
+    [
+      "159185158",
+      {"key": "159185158"}
+    ],
+    [
+      "159185160",
+      {"key": "159185160"}
+    ],
+    [
+      "159185162",
+      {"key": "159185162"}
+    ],
+    [
+      "159185163",
+      {"key": "159185163"}
+    ],
+    [
+      "159185164",
+      {"key": "159185164"}
+    ],
+    [
+      "159185165",
+      {"key": "159185165"}
+    ],
+    [
+      "159185166",
+      {"key": "159185166"}
+    ],
+    [
+      "159185167",
+      {"key": "159185167"}
+    ],
+    [
+      "159185168",
+      {"key": "159185168"}
+    ],
+    [
+      "159185169",
+      {"key": "159185169"}
+    ],
+    [
+      "159185170",
+      {"key": "159185170"}
+    ],
+    [
+      "159185172",
+      {"key": "159185172"}
+    ],
+    [
+      "159185174",
+      {"key": "159185174"}
+    ],
+    [
+      "159185176",
+      {"key": "159185176"}
+    ],
+    [
+      "159185178",
+      {"key": "159185178"}
+    ],
+    [
+      "159185180",
+      {"key": "159185180"}
+    ],
+    [
+      "159185182",
+      {"key": "159185182"}
+    ],
+    [
+      "159185184",
+      {"key": "159185184"}
+    ],
+    [
+      "159185186",
+      {"key": "159185186"}
+    ],
+    [
+      "159185188",
+      {"key": "159185188"}
+    ],
+    [
+      "159185190",
+      {"key": "159185190"}
+    ],
+    [
+      "159185192",
+      {"key": "159185192"}
+    ],
+    [
+      "159185194",
+      {"key": "159185194"}
+    ],
+    [
+      "159185196",
+      {"key": "159185196"}
+    ],
+    [
+      "159185198",
+      {"key": "159185198"}
+    ],
+    [
+      "159185200",
+      {"key": "159185200"}
+    ]
+  ],
+  "uri": "/general-conference/2024/04/41rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_article_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña que las palabras del Señor, las de los profetas y nuestras propias palabras importan, y que decir \u201cgracias\u201d, \u201clo siento\u201d y \u201cte amo\u201d nos ayuda a mostrar consideración por los demás.",
+          "title": "Las palabras importan"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña que las palabras del Señor, las de los profetas y nuestras propias palabras importan, y que decir \u201cgracias\u201d, \u201clo siento\u201d y \u201cte amo\u201d nos ayuda a mostrar consideración por los demás.",
+          "title": "Las palabras importan"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://assets.churchofjesuschrist.org/2c/00/2c00da149c054af1fde1e2c4e8893324ab189730/2c00da149c054af1fde1e2c4e8893324ab189730.jpeg\" data-video-title=\"Las palabras importan\" data-video-description=\"El élder Rasband enseña que las palabras del Señor, las de los profetas y nuestras propias palabras importan, y que decir \u201cgracias\u201d, \u201clo siento\u201d y \u201cte amo\u201d nos ayuda a mostrar consideración por los demás.\" data-video-id=\"6350469075112\" data-ip=\"Download and Streaming                            \" data-duration=\"838072\" data-assetId=\"59cf14fcf50111eea8a9eeeeac1e8b2194679650\" data-ref-id=\"7766D369F44B8ADDC7307D52F45067F6EA8A0BFA\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6350469075112/hls.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"431510995\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4010-ronald-a-rasband-360p-spa.mp4\" type=\"video/mp4\" data-width=\"480\" data-height=\"360\" data-file-size=\"77445742\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4010-ronald-a-rasband-720p-spa.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"201714386\"/><source src=\"https://media2.ldscdn.org/assets/general-conference/april-2024-general-conference/2024-04-4010-ronald-a-rasband-1080p-spa.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"431510995\"/><\/video><h1 data-aid=\"159184998\" id=\"title1\">Las palabras importan<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"159185001\" id=\"author1\">Por el élder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"159185003\" id=\"author2\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"159185005\" id=\"kicker1\">Las palabras señalan una actitud. Ellas expresan nuestros pensamientos, sentimientos y experiencias, para bien o para mal.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"159185007\" id=\"p1\">Hermanos, hermanas y amigos de todo el mundo, me siento honrado de dirigirme a esta vasta audiencia, en la que muchos son miembros de nuestra Iglesia y muchos son amigos y nuevos oyentes de la transmisión de esta conferencia. ¡Bienvenidos!<\/p>\n<p data-aid=\"159185009\" id=\"p2\">Los mensajes que se comparten desde este púlpito se comunican con palabras. Se expresan en inglés y se traducen a casi cien idiomas diferentes; pero la base es siempre la misma: las palabras. Y las palabras importan mucho. Permítanme repetirlo. ¡Las palabras importan!<\/p>\n<p data-aid=\"159185012\" id=\"p3\">Son el cimiento de cómo nos conectamos; representan nuestras creencias, convicciones morales y perspectivas. A veces pronunciamos palabras; otras veces, las escuchamos. Las palabras señalan una actitud. Ellas expresan nuestros pensamientos, sentimientos y experiencias, para bien o para mal.<\/p>\n<p data-aid=\"159185014\" id=\"p4\">Desafortunadamente, las palabras pueden ser irreflexivas, precipitadas e hirientes. Una vez dichas, no podemos recuperarlas. Pueden herir, castigar, derribar e incluso conducir a acciones destructivas; pueden ocasionarnos pesar.<\/p>\n<p data-aid=\"159185017\" id=\"p5\">Por otro lado, las palabras pueden celebrar victorias, ser esperanzadoras y alentadoras. Pueden impulsarnos a replantear, reiniciar o reorientar un rumbo. Las palabras pueden abrirnos la mente a la verdad.<\/p>\n<p data-aid=\"159185020\" id=\"p6\">Por eso, ante todo, las palabras del Señor importan.<\/p>\n<p data-aid=\"159185022\" id=\"p7\">En el Libro de Mormón, el profeta Alma y su pueblo en la antigua América sostuvieron una guerra interminable con aquellos que habían despreciado la palabra de Dios, habían endurecido sus corazones y corrompido su cultura. Los fieles podrían haber luchado, pero Alma aconsejó: \u201cY como la predicación de la palabra tenía gran propensión a impulsar a la gente a hacer lo que era justo \u2014sí, había surtido un efecto más potente en la mente del pueblo que la espada o cualquier otra cosa que les había acontecido\u2014 por tanto, Alma consideró prudente que pusieran a prueba la virtud de la palabra de Dios\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\">1<\/sup><\/a>.<\/p>\n<p data-aid=\"159185025\" id=\"p9\">La \u201cpalabra de Dios\u201d sobrepasa a toda otra expresión. Ha sido así desde la creación de la tierra, cuando el Señor dijo: \u201cHaya luz, y hubo luz\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\">2<\/sup><\/a>.<\/p>\n<p data-aid=\"159185028\" id=\"p10\">Del Salvador provienen estas afirmaciones en el Nuevo Testamento: \u201cEl cielo y la tierra pasarán, pero mis palabras no pasarán\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\">3<\/sup><\/a>.<\/p>\n<p data-aid=\"159185031\" id=\"p11\">Y esta: \u201cEl que me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él y haremos morada con él\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\">4<\/sup><\/a>.<\/p>\n<p data-aid=\"159185034\" id=\"p12\">Y de María, la madre de Jesús, provino este humilde testimonio: \u201cHe aquí la sierva del Señor; hágase conmigo conforme a tu palabra\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\">5<\/sup><\/a>.<\/p>\n<p data-aid=\"159185037\" id=\"p13\">Creer y prestar atención a la palabra de Dios nos acercará más a Él. El presidente Russell M. Nelson ha prometido: \u201cSi estudian Sus palabras, aumentará su capacidad de ser más semejantes a Él\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\">6<\/sup><\/a>.<\/p>\n<p data-aid=\"159185040\" id=\"p14\">¿No queremos todos ser, como dice el himno, \u201cmás justificado[s], más como el Señor\u201d?<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\">7<\/sup><\/a>.<\/p>\n<p data-aid=\"159185043\" id=\"p15\">Me imagino al joven José Smith arrodillado, escuchando las palabras de su Padre Celestial: \u201c[José], este es mi Hijo Amado: ¡Escúchalo!\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\">8<\/sup><\/a>.<\/p>\n<p data-aid=\"159185046\" id=\"p16\">Lo \u201cescuchamos\u201d en las palabras de las Escrituras, pero ¿dejamos que estas se queden en la página o reconocemos que Él nos está hablando? ¿Cambiamos?<\/p>\n<p data-aid=\"159185049\" id=\"p17\">Lo \u201cescuchamos\u201d en la revelación personal y en los susurros del Espíritu Santo, en las respuestas a las oraciones y en aquellos momentos en los que solo Jesucristo, mediante el poder de Su Expiación, puede aliviar nuestras cargas, concedernos perdón y paz, y sostenernos \u201centre los brazos de su amor\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\">9<\/sup><\/a>.<\/p>\n<p data-aid=\"159185052\" id=\"p18\">Segundo, las palabras de los profetas importan.<\/p>\n<p data-aid=\"159185055\" id=\"p19\">Los profetas testifican de la divinidad de Jesucristo, enseñan Su Evangelio y muestran Su amor por todos<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\">10<\/sup><\/a>. Doy mi testimonio de que nuestro profeta viviente, el presidente Russell M. Nelson, escucha y habla la palabra del Señor.<\/p>\n<p data-aid=\"159185058\" id=\"p20\">El presidente Nelson tiene un don con las palabras. Él ha dicho: \u201cManténganse en la senda de los convenios\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\">11<\/sup><\/a>, \u201crecojan a Israel\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\">12<\/sup><\/a>, \u201cdejen que Dios prevalezca\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\">13<\/sup><\/a>, \u201ctiendan puentes de entendimiento\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\">14<\/sup><\/a>, \u201cden gracias\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\">15<\/sup><\/a>, \u201caumenten su fe\u201d en Jesucristo<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\">16<\/sup><\/a>, \u201cháganse cargo de su propio testimonio\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\">17<\/sup><\/a> y \u201cconviértanse en pacificadores\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\">18<\/sup><\/a>.<\/p>\n<p data-aid=\"159185061\" id=\"p21\">Más recientemente nos ha pedido: \u201cPiensen de manera celestial\u201d. \u201cCuando afronten un dilema\u201d, dijo, \u201c¡piensen de manera celestial! Cuando la tentación los ponga a prueba, ¡piensen de manera celestial! Cuando la vida o sus seres queridos los decepcionen, ¡piensen de manera celestial! Cuando alguien muera prematuramente, piensen de manera celestial [\u2026]. Cuando las exigencias de la vida los invadan, ¡piensen de manera celestial! [\u2026]. A medida que piensen de manera celestial, el corazón les cambiará poco a poco [\u2026], verán las pruebas y la oposición con otros ojos [\u2026], [y] su fe aumentará\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\">19<\/sup><\/a>.<\/p>\n<p data-aid=\"159185064\" id=\"p22\">Cuando pensamos de manera celestial, vemos \u201clas cosas como realmente son, y [\u2026] como realmente serán\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\">20<\/sup><\/a>. En este mundo cargado de confusión y contención, todos necesitamos esa perspectiva.<\/p>\n<p data-aid=\"159185067\" id=\"p23\">El élder George Albert Smith, mucho antes de llegar a ser Presidente de la Iglesia, habló de sostener al profeta y prestar atención a sus palabras. Él dijo: \u201cLa obligación que contraemos al alzar la mano [\u2026] es sumamente sagrada. Significa [\u2026] que lo apoyaremos, que oraremos por él [\u2026] y que nos esforzaremos por actuar de acuerdo con las instrucciones que el Señor le indique\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\">21<\/sup><\/a>. En otras palabras, actuaremos diligentemente de acuerdo con las palabras de nuestro profeta.<\/p>\n<p data-aid=\"159185070\" id=\"p24\">Como uno de los quince profetas, videntes y reveladores sostenidos ayer por nuestra Iglesia mundial, deseo compartir con ustedes una de mis experiencias al sostener al profeta y aceptar sus palabras. Para mí fue muy parecido a lo que el profeta Jacob relató: \u201cHabía oído la voz del Señor hablándome con sus propias palabras\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\">22<\/sup><\/a>.<\/p>\n<img alt=\"Élder y hermana Rasband en Tailandia.\" id=\"img1\" src=\"https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/500%2C/0/default\" data-img-id=\"bcb70ce6f36a11eebe2feeeeac1e0c42f097704d\" srcset=\"https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/bcb70ce6f36a11eebe2feeeeac1e0c42f097704d/full/640%2C/0/default 640w\" data-assetId=\"bcb70ce6f36a11eebe2feeeeac1e0c42f097704d\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"729\" data-aspect-ratio=\"0.6858710562414266\"/>\n<p data-aid=\"159185073\" id=\"p25\">El pasado mes de octubre, mi esposa, Melanie, y yo estuvimos en Bangkok, Tailandia, donde me preparaba para dedicar el que sería el templo número 185 de la Iglesia<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\">23<\/sup><\/a>. Para mí, la asignación fue irreal y aleccionadora a la vez. Este era el primer templo en la península del sudeste asiático<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\">24<\/sup><\/a>. Se diseñó con maestría \u2014una estructura de seis pisos y nueve torres\u2014, todo \u201cbien coordinado\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\">25<\/sup><\/a> para ser una Casa del Señor. Llevaba meses pensando en la dedicación. Lo que se había asentado en mi alma y en mi mente era que el país y el templo habían sido acunados en los brazos de profetas y apóstoles. El presidente Thomas S. Monson había anunciado el templo<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\">26<\/sup><\/a> y el presidente Nelson, la dedicación<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\">27<\/sup><\/a>.<\/p>\n<img alt=\"Templo de Bangkok, Tailandia. \" id=\"img2\" src=\"https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/500%2C/0/default\" data-img-id=\"4b5775d5f36a11ee94ddeeeeac1edf97209b7534\" srcset=\"https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/4b5775d5f36a11ee94ddeeeeac1edf97209b7534/full/640%2C/0/default 640w\" data-assetId=\"4b5775d5f36a11ee94ddeeeeac1edf97209b7534\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"159185076\" id=\"p26\">Yo había preparado la oración dedicatoria meses antes. Esas palabras sagradas se habían traducido a doce idiomas. Estábamos listos, o eso creía yo.<\/p>\n<p data-aid=\"159185079\" id=\"p27\">La noche anterior a la dedicación, me desperté de mi sueño con un sentimiento de inquietud y urgencia en cuanto a la oración dedicatoria. Traté de dejar de lado la impresión, pensando que la oración estaba lista, pero el Espíritu no me dejaba tranquilo. Sentí que faltaban ciertas palabras y, por designio divino, llegaron a mí en revelación, e inserté estas palabras en la oración cerca del final: \u201cQue pensemos de manera celestial, dejando que Tu Espíritu prevalezca en nuestra vida y que nos esforcemos por ser pacificadores siempre\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\">28<\/sup><\/a>. El Señor me estaba recordando que diera oído a las palabras de nuestro profeta viviente: \u201cPiensen de manera celestial\u201d, \u201cdejen que el Espíritu prevalezca\u201d, \u201cesfuércense por ser pacificadores\u201d. Las palabras del profeta son importantes para el Señor y para nosotros.<\/p>\n<p data-aid=\"159185082\" id=\"p28\">En tercer lugar, y no menos importante, están nuestras propias palabras. Créanme, en nuestro mundo lleno de emojis<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\">29<\/sup><\/a>, nuestras palabras importan.<\/p>\n<p data-aid=\"159185089\" id=\"p29\">Nuestras palabras pueden ser de apoyo o de enojo, alegres o crueles, compasivas o indiferentes. En el calor del momento, las palabras pueden punzar y penetrar dolorosamente en lo profundo del alma, y permanecer allí. Nuestras palabras en internet, los mensajes de texto, las redes sociales o los tuits cobran vida propia. Sean cuidadosos con lo que dicen y cómo lo dicen. En nuestra familia, especialmente entre el esposo, la esposa y los hijos, nuestras palabras pueden unirnos o abrir una brecha entre nosotros.<\/p>\n<p data-aid=\"159185092\" id=\"p30\">Permítanme sugerir tres frases sencillas que podemos utilizar para quitar el aguijón de las dificultades y las diferencias, para elevarnos y tranquilizarnos unos a otros:<\/p>\n<p data-aid=\"159185095\" id=\"p31\">\u201cGracias\u201d.<\/p>\n<p data-aid=\"159185098\" id=\"p32\">\u201cLo siento\u201d.<\/p>\n<p data-aid=\"159185101\" id=\"p33\">Y \u201cte amo\u201d.<\/p>\n<p data-aid=\"159185104\" id=\"p35\">No reserven estas humildes frases para un acontecimiento especial o una catástrofe. Utilícenlas con frecuencia y con sinceridad, ya que muestran consideración por los demás. Cada vez más se está restando valor al habla; no sigan esa tendencia.<\/p>\n<p data-aid=\"159185107\" id=\"p36\">Podemos decir \u201cgracias\u201d en el ascensor, en el estacionamiento, en el mercado, en la oficina, en una fila o a nuestros vecinos y amigos. Podemos decir \u201clo siento\u201d cuando cometemos un error, faltamos a una reunión, olvidamos un cumpleaños o vemos a alguien sufriendo. Podemos decir \u201cte amo\u201d y esas palabras llevan el mensaje de \u201cestoy pensando en ti\u201d, \u201cme preocupo por ti\u201d, \u201cestoy aquí para ti\u201d o \u201ctú lo eres todo para mí\u201d.<\/p>\n<p data-aid=\"159185110\" id=\"p37\">Permítanme compartir un ejemplo personal. Esposos, presten atención. Hermanas, esto también las va a ayudar. Antes de mi asignación de tiempo completo en la Iglesia, yo viajaba mucho por motivo de mi empresa. Pasaba mucho tiempo fuera, en lugares lejanos del mundo. Al final del día, sin importar dónde me hallara, siempre llamaba a casa. Cuando mi esposa, Melanie, contestaba el teléfono y yo le daba un informe, nuestra conversación siempre nos llevaba a decirnos un \u201cte amo\u201d. Todos los días, esas palabras eran un ancla para mi alma y mi conducta; fueron una protección para mí contra designios malignos. \u201cMelanie, te amo\u201d expresaba la preciada confianza que había entre nosotros.<\/p>\n<p data-aid=\"159185113\" id=\"p38\">El presidente Thomas S. Monson solía decir: \u201cHay pies que afirmar, manos que sostener, mentes que alentar, corazones que inspirar y almas que salvar\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\">30<\/sup><\/a>. Decir \u201cgracias\u201d, \u201clo siento\u201d, \u201cte amo\u201d hará precisamente eso.<\/p>\n<p data-aid=\"159185116\" id=\"p39\">Hermanos y hermanas, las palabras sí importan.<\/p>\n<p data-aid=\"159185119\" id=\"p40\">Les prometo que si nos \u201cdeleita[mos] en las palabras de Cristo\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\">31<\/sup><\/a> que conducen a la salvación, en las palabras de nuestro profeta que nos guían y alientan, y en nuestras propias palabras, que expresan quiénes somos y qué valoramos, los poderes del cielo se derramarán sobre nosotros. \u201cLas palabras de Cristo os dirán todas las cosas que debéis hacer\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\">32<\/sup><\/a>. Somos hijos del Padre Celestial y Él es nuestro Dios, Él espera que hablemos con \u201clengua de ángeles\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\">33<\/sup><\/a> por el poder del Espíritu Santo<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\">34<\/sup><\/a>.<\/p>\n<p data-aid=\"159185122\" id=\"p41\">Amo al Señor Jesucristo. En palabras del profeta Isaías, del Antiguo Testamento, Él es \u201cAdmirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\">35<\/sup><\/a>. Y como dejó claro el apóstol Juan, Jesucristo mismo es \u201cel Verbo\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\">36<\/sup><\/a>.<\/p>\n<p data-aid=\"159185125\" id=\"p42\">De ello testifico como Apóstol llamado al servicio divino del Señor \u2014a declarar Su palabra\u2014 y a ser testigo especial de Él. En el nombre del Señor Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"159185129\" id=\"note_title1\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"159185132\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5\">Alma 31:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"159185135\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=spa&amp;id=p3#p3\">Génesis 1:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"159185138\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"159185141\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23\">Juan 14:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"159185144\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p38#p38\">Lucas 1:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"159185147\" id=\"note6_p1\">Russell M. Nelson: \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/i-studied-more-than-2-200-scriptures-about-the-savior-in-six-weeks-here-is-a-little-of-what-i-learned?lang=eng\">Estudié más de 2200 pasajes de Escrituras sobre el Salvador en seis semanas: esto es un poco de lo que aprendí<\/a>\u201d, publicado en el blog <cite>Inspiración<\/cite>, 23 de julio de 2020, LaIglesiadeJesucristo.org.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"159185150\" id=\"note7_p1\">\u201cMás santidad dame\u201d, <cite>Himnos<\/cite>, nro. 71.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"159185152\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"159185154\" id=\"note9_p1\">El profeta Lehi describe los \u201cbrazos de su amor\u201d en su declaración a sus hijos: \u201cPero he aquí, el Señor ha redimido a mi alma del infierno; he visto su gloria, y estoy para siempre envuelto entre los brazos de su amor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15\">2 Nefi 1:15<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"159185156\" id=\"note10_p1\">El presidente Russell M. Nelson dijo: \u201cLos profetas testifican de Jesucristo, de Su divinidad y de Su misión y ministerio terrenales\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p9#p9\">Sostengamos a los profetas<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2014, pág. 74).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"159185158\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=p12#p12\">Al avanzar juntos<\/a>\u201d, <cite>Liahona,<\/cite> abril de 2018, pág. 7.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"159185160\" id=\"note12_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&amp;id=p58#p58\">Juventud de Israel<\/a>\u201d, devocional mundial para jóvenes, 3 de junio de 2018, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"159185162\" id=\"note13_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 92.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"159185163\" id=\"note14_p1\">Russell M. Nelson, \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility\">El presidente Nelson da un mensaje sobre el racismo y hace un llamado a respetar la dignidad humana<\/a>\u201d, 1 de junio de 2020, noticias.laiglesiadejesucristo.org.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"159185164\" id=\"note15_p1\">Véase Russell M. Nelson, en Sarah Jane Weaver, \u201cPresident Nelson Invites Us to Give Thanks\u201d, <cite>Church News<\/cite>, 20 de noviembre de 2020, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"159185165\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p34#p34\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 98.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"159185166\" id=\"note17_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"159185167\" id=\"note18_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p11#p11\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 99; véase también <a href=\"https://www.facebook.com/reel/277880588051925\">facebook.com/reel/277880588051925<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"159185168\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p14%2C16%2C22%2C24#p14\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 118\u2013119.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"159185169\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4?lang=spa&amp;id=p13#p13\">Jacob 4:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"159185170\" id=\"note21_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-george-albert-smith/chapter-6?lang=spa&amp;id=p27#p27\"><cite>Enseñanzas de los Presidentes de la Iglesia: George Albert Smith<\/cite><\/a><\/cite>, 2011, pág. 65.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"159185172\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/7?lang=spa&amp;id=p5#p5\">Jacob 7:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"159185174\" id=\"note23_p1\">El Templo de Bangkok, Tailandia, se dedicó el 22 de octubre de 2023.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"159185176\" id=\"note24_p1\">El distrito del templo se extiende más allá de las fronteras de Tailandia, abarcando desde Camboya hasta Pakistán y desde Nepal hasta Indonesia.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"159185178\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p21#p21\">Efesios 2:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"159185180\" id=\"note26_p1\">Véase Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/blessings-of-the-temple?lang=spa&amp;id=p6#p6\">Las bendiciones del templo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 91.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"159185182\" id=\"note27_p1\">Véase \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/news-for-temples-in-five-nations\">News for Temples in Five Nations<\/a>\u201d, 27 de marzo de 2023, newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"159185184\" id=\"note28_p1\">Véase la <a href=\"https://www.churchofjesuschrist.org/temples/details/bangkok-thailand-temple/prayer/2023-10-22\">oración dedicatoria<\/a> del Templo de Bangkok, Tailandia, Templos.LaIglesiadeJesucristo.org.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"159185186\" id=\"note29_p1\">Un emoji, a menudo una carita amarilla, es un pictograma insertado en un mensaje electrónico para transmitir un sentimiento, una expresión o una idea.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"159185188\" id=\"note30_p1\">Véase de Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/04/to-the-rescue?lang=spa&amp;id=kicker1#kicker1\">Al rescate<\/a>\u201d, <cite>Liahona<\/cite>, julio de 2001, pág. 57.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"159185190\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"159185192\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"159185194\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p2#p2\">2 Nefi 32:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"159185196\" id=\"note34_p1\">Nefi escribió: \u201cCuando un hombre habla por el poder del Santo Espíritu, el poder del Espíritu Santo lo lleva al corazón de los hijos de los hombres\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p1#p1\">2 Nefi 33:1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"159185198\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6\">Isaías 9:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"159185200\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p1#p1\">Juan 1:1<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "159185031",
+        "id": "note4",
+        "text": "<p data-aid=\"159185141\" id=\"note4_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23\">Juan 14:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23",
+          "text": "Juan 14:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "159185034",
+        "id": "note5",
+        "text": "<p data-aid=\"159185144\" id=\"note5_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p38#p38\">Lucas 1:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/1?lang=spa&amp;id=p38#p38",
+          "text": "Lucas 1:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "159185025",
+        "id": "note2",
+        "text": "<p data-aid=\"159185135\" id=\"note2_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=spa&amp;id=p3#p3\">Génesis 1:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/1?lang=spa&amp;id=p3#p3",
+          "text": "Génesis 1:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "159185028",
+        "id": "note3",
+        "text": "<p data-aid=\"159185138\" id=\"note3_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35",
+          "text": "Mateo 24:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "159185043",
+        "id": "note8",
+        "text": "<p data-aid=\"159185152\" id=\"note8_p1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17",
+          "text": "José Smith\u2014Historia 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "159185049",
+        "id": "note9",
+        "text": "<p data-aid=\"159185154\" id=\"note9_p1\">El profeta Lehi describe los \u201cbrazos de su amor\u201d en su declaración a sus hijos: \u201cPero he aquí, el Señor ha redimido a mi alma del infierno; he visto su gloria, y estoy para siempre envuelto entre los brazos de su amor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15\">2 Nefi 1:15<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15",
+          "text": "2 Nefi 1:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "159185037",
+        "id": "note6",
+        "text": "<p data-aid=\"159185147\" id=\"note6_p1\">Russell M. Nelson: \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/i-studied-more-than-2-200-scriptures-about-the-savior-in-six-weeks-here-is-a-little-of-what-i-learned?lang=eng\">Estudié más de 2200 pasajes de Escrituras sobre el Salvador en seis semanas: esto es un poco de lo que aprendí<\/a>\u201d, publicado en el blog <cite>Inspiración<\/cite>, 23 de julio de 2020, LaIglesiadeJesucristo.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/inspiration/i-studied-more-than-2-200-scriptures-about-the-savior-in-six-weeks-here-is-a-little-of-what-i-learned?lang=eng",
+          "text": "Estudié más de 2200 pasajes de Escrituras sobre el Salvador en seis semanas: esto es un poco de lo que aprendí"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "159185040",
+        "id": "note7",
+        "text": "<p data-aid=\"159185150\" id=\"note7_p1\">\u201cMás santidad dame\u201d, <cite>Himnos<\/cite>, nro. 71.<\/p>"
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "159185113",
+        "id": "note30",
+        "text": "<p data-aid=\"159185188\" id=\"note30_p1\">Véase de Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/04/to-the-rescue?lang=spa&amp;id=kicker1#kicker1\">Al rescate<\/a>\u201d, <cite>Liahona<\/cite>, julio de 2001, pág. 57.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2001/04/to-the-rescue?lang=spa&amp;id=kicker1#kicker1",
+          "text": "Al rescate",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "159185058",
+        "id": "note16",
+        "text": "<p data-aid=\"159185165\" id=\"note16_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p34#p34\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 98.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p34#p34",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "159185058",
+        "id": "note15",
+        "text": "<p data-aid=\"159185164\" id=\"note15_p1\">Véase Russell M. Nelson, en Sarah Jane Weaver, \u201cPresident Nelson Invites Us to Give Thanks\u201d, <cite>Church News<\/cite>, 20 de noviembre de 2020, thechurchnews.com.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "159185058",
+        "id": "note14",
+        "text": "<p data-aid=\"159185163\" id=\"note14_p1\">Russell M. Nelson, \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility\">El presidente Nelson da un mensaje sobre el racismo y hace un llamado a respetar la dignidad humana<\/a>\u201d, 1 de junio de 2020, noticias.laiglesiadejesucristo.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/president-nelson-shares-social-post-encouraging-understanding-and-civility",
+          "text": "El presidente Nelson da un mensaje sobre el racismo y hace un llamado a respetar la dignidad humana"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "159185122",
+        "id": "note36",
+        "text": "<p data-aid=\"159185200\" id=\"note36_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p1#p1\">Juan 1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/1?lang=spa&amp;id=p1#p1",
+          "text": "Juan 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "159185058",
+        "id": "note13",
+        "text": "<p data-aid=\"159185162\" id=\"note13_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 92.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=spa",
+          "text": "Que Dios prevalezca",
+          "type": "cross-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "159185122",
+        "id": "note35",
+        "text": "<p data-aid=\"159185198\" id=\"note35_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6\">Isaías 9:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6",
+          "text": "Isaías 9:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "159185058",
+        "id": "note12",
+        "text": "<p data-aid=\"159185160\" id=\"note12_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&amp;id=p58#p58\">Juventud de Israel<\/a>\u201d, devocional mundial para jóvenes, 3 de junio de 2018, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=spa&amp;id=p58#p58",
+          "text": "Juventud de Israel",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "159185119",
+        "id": "note34",
+        "text": "<p data-aid=\"159185196\" id=\"note34_p1\">Nefi escribió: \u201cCuando un hombre habla por el poder del Santo Espíritu, el poder del Espíritu Santo lo lleva al corazón de los hijos de los hombres\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p1#p1\">2 Nefi 33:1<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p1#p1",
+          "text": "2 Nefi 33:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "159185058",
+        "id": "note11",
+        "text": "<p data-aid=\"159185158\" id=\"note11_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=p12#p12\">Al avanzar juntos<\/a>\u201d, <cite>Liahona,<\/cite> abril de 2018, pág. 7.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=p12#p12",
+          "text": "Al avanzar juntos",
+          "type": "cross-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "159185119",
+        "id": "note33",
+        "text": "<p data-aid=\"159185194\" id=\"note33_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p2#p2\">2 Nefi 32:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p2#p2",
+          "text": "2 Nefi 32:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "159185055",
+        "id": "note10",
+        "text": "<p data-aid=\"159185156\" id=\"note10_p1\">El presidente Russell M. Nelson dijo: \u201cLos profetas testifican de Jesucristo, de Su divinidad y de Su misión y ministerio terrenales\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p9#p9\">Sostengamos a los profetas<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2014, pág. 74).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p9#p9",
+          "text": "Sostengamos a los profetas",
+          "type": "cross-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "159185119",
+        "id": "note32",
+        "text": "<p data-aid=\"159185192\" id=\"note32_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "159185119",
+        "id": "note31",
+        "text": "<p data-aid=\"159185190\" id=\"note31_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "159185061",
+        "id": "note19",
+        "text": "<p data-aid=\"159185168\" id=\"note19_p1\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p14%2C16%2C22%2C24#p14\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 118\u2013119.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p14%2C16%2C22%2C24#p14",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "159185058",
+        "id": "note18",
+        "text": "<p data-aid=\"159185167\" id=\"note18_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p11#p11\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 99; véase también <a href=\"https://www.facebook.com/reel/277880588051925\">facebook.com/reel/277880588051925<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p11#p11",
+            "text": "Se necesitan pacificadores",
+            "type": "cross-ref"
+          },
+          {
+            "href": "https://www.facebook.com/reel/277880588051925",
+            "text": "facebook.com/reel/277880588051925"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "159185058",
+        "id": "note17",
+        "text": "<p data-aid=\"159185166\" id=\"note17_p1\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "159185073",
+        "id": "note27",
+        "text": "<p data-aid=\"159185182\" id=\"note27_p1\">Véase \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/news-for-temples-in-five-nations\">News for Temples in Five Nations<\/a>\u201d, 27 de marzo de 2023, newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/news-for-temples-in-five-nations",
+          "text": "News for Temples in Five Nations"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "159185073",
+        "id": "note26",
+        "text": "<p data-aid=\"159185180\" id=\"note26_p1\">Véase Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/blessings-of-the-temple?lang=spa&amp;id=p6#p6\">Las bendiciones del templo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 91.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/04/blessings-of-the-temple?lang=spa&amp;id=p6#p6",
+          "text": "Las bendiciones del templo",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "159185073",
+        "id": "note25",
+        "text": "<p data-aid=\"159185178\" id=\"note25_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p21#p21\">Efesios 2:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/2?lang=spa&amp;id=p21#p21",
+          "text": "Efesios 2:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "159185073",
+        "id": "note24",
+        "text": "<p data-aid=\"159185176\" id=\"note24_p1\">El distrito del templo se extiende más allá de las fronteras de Tailandia, abarcando desde Camboya hasta Pakistán y desde Nepal hasta Indonesia.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "159185073",
+        "id": "note23",
+        "text": "<p data-aid=\"159185174\" id=\"note23_p1\">El Templo de Bangkok, Tailandia, se dedicó el 22 de octubre de 2023.<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "159185070",
+        "id": "note22",
+        "text": "<p data-aid=\"159185172\" id=\"note22_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/7?lang=spa&amp;id=p5#p5\">Jacob 7:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/7?lang=spa&amp;id=p5#p5",
+          "text": "Jacob 7:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "159185067",
+        "id": "note21",
+        "text": "<p data-aid=\"159185170\" id=\"note21_p1\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-george-albert-smith/chapter-6?lang=spa&amp;id=p27#p27\"><cite>Enseñanzas de los Presidentes de la Iglesia: George Albert Smith<\/cite><\/a><\/cite>, 2011, pág. 65.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-george-albert-smith/chapter-6?lang=spa&amp;id=p27#p27",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: George Albert Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "159185064",
+        "id": "note20",
+        "text": "<p data-aid=\"159185169\" id=\"note20_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4?lang=spa&amp;id=p13#p13\">Jacob 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/4?lang=spa&amp;id=p13#p13",
+          "text": "Jacob 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "159185022",
+        "id": "note1",
+        "text": "<p data-aid=\"159185132\" id=\"note1_p1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5\">Alma 31:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5",
+          "text": "Alma 31:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "159185082",
+        "id": "note29",
+        "text": "<p data-aid=\"159185186\" id=\"note29_p1\">Un emoji, a menudo una carita amarilla, es un pictograma insertado en un mensaje electrónico para transmitir un sentimiento, una expresión o una idea.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "159185079",
+        "id": "note28",
+        "text": "<p data-aid=\"159185184\" id=\"note28_p1\">Véase la <a href=\"https://www.churchofjesuschrist.org/temples/details/bangkok-thailand-temple/prayer/2023-10-22\">oración dedicatoria<\/a> del Templo de Bangkok, Tailandia, Templos.LaIglesiadeJesucristo.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/temples/details/bangkok-thailand-temple/prayer/2023-10-22",
+          "text": "oración dedicatoria"
+        }]
+      }
+    }
+  }
+}
