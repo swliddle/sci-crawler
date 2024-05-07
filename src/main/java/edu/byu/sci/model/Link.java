@@ -100,6 +100,12 @@ public class Link {
             verses = matcher.group(3);
             isJst = book.startsWith("jst-");
 
+            String altVerses = matcher.group(4);
+
+            if (verses == null && altVerses != null && !altVerses.isEmpty()) {
+                verses = altVerses.replace("%2C", ",").replace("p", "");
+            }
+
             JSONObject bookObject = bookObjectForThis();
 
             if (bookObject == null) {

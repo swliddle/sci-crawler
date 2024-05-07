@@ -58,8 +58,9 @@ public class SciCrawler {
     // private static final int SCRIPTURE_REFERENCE_BOOK = 2;
     // private static final int SCRIPTURE_REFERENCE_CHAPTER = 3;
     // private static final int SCRIPTURE_REFERENCE_VERSES = 4;
-    // private static final int SCRIPTURE_REFERENCE_TARGET = 5;
-    private static final int SCRIPTURE_REFERENCE_TEXT = 6;
+    private static final int SCRIPTURE_REFERENCE_ALT_VERSES = 5;
+    // private static final int SCRIPTURE_REFERENCE_TARGET = 6;
+    private static final int SCRIPTURE_REFERENCE_TEXT = 7;
 
     private static final String URL_BASE = "https://www.churchofjesuschrist.org";
     private static final String URL_ENSIGN = URL_BASE + "/study/magazines/ensign-19712020";
@@ -202,7 +203,7 @@ public class SciCrawler {
         }
 
         String hrefPattern = URL_SCRIPTURE_PATH
-                + "(?:ot|nt|bofm|dc-testament|pgp|jst)/"
+                + "(?:/study/scriptures/)?(?:ot|nt|bofm|dc-testament|pgp|jst)/"
                 + "((?:jst-)?(?:gen|ex|lev|num|deut|josh|judg|ruth|1-sam"
                 + "|2-sam|1-kgs|2-kgs|1-chr|2-chr|ezra|neh|esth|job|ps"
                 + "|prov|eccl|song|isa|jer|lam|ezek|dan|hosea|joel|amos"
@@ -215,7 +216,7 @@ public class SciCrawler {
                 + "|moro|dc|od|moses|abr|js-m|js-h|fac-1|fac-2|fac-3|a-of-f))"
                 + "(?:(?:/([0-9]+))?[.]?(?:([0-9]+(?:[-,][0-9]+)*)"
                 + "|study_intro[0-9])?)?" + "[?]lang=" + language
-                + "(#p[A-Za-z0-9_-]+)?";
+                + "(?:&amp;id=([^#]*))?(#p[A-Za-z0-9_-]+)?";
 
         referencePattern = Pattern.compile(hrefPattern);
         scriptureReferencePattern = Pattern
@@ -470,6 +471,16 @@ public class SciCrawler {
             entry.startIndex = matcher.start();
             entry.endIndex = matcher.end();
             entry.href = matcher.group(SCRIPTURE_REFERENCE_HREF);
+
+            String verses = matcher.group(SCRIPTURE_REFERENCE_ALT_VERSES);
+
+            if (verses != null && !verses.isEmpty()) {
+                int queryIndex = entry.href.indexOf("?");
+
+                verses = verses.replace("%2C", ",").replace("p", "");
+                entry.href = entry.href.substring(0, queryIndex) + "." + verses + "?lang=" + language;
+            }
+
             entry.text = matcher.group(SCRIPTURE_REFERENCE_TEXT);
             entry.isFootnote = isFootnote;
             entry.footnoteKey = matcher.group().contains("uniq") ? "uniq" : footnoteKey;
@@ -652,6 +663,25 @@ public class SciCrawler {
 
     private int footnoteIndex = 0;
 
+    private String hrefRewrittenForAltVerses(String href) {
+        String ampersandString = "&amp;id=";
+        int queryIndex = href.indexOf("?");
+        int ampersandIndex = href.indexOf(ampersandString, queryIndex);
+        int hashIndex = href.indexOf("#", ampersandIndex);
+
+        if (queryIndex > 0 && ampersandIndex > 0 && hashIndex > 0) {
+            String verses = href.substring(ampersandIndex + ampersandString.length(), hashIndex)
+                .replace("%2C", ",")
+                .replace("p", "");
+
+            href = href.substring(0, queryIndex) + "." + verses + "?lang=" + language;
+
+            return href;
+        }
+
+        return href;
+    }
+
     private void extractLinksFrom(JSONObject footnotes, String talkId, List<Link> links) {
         String[] keys = new String[footnotes.keySet().size()];
 
@@ -671,8 +701,13 @@ public class SciCrawler {
 
                     if (uri.has("href") && uri.has("type") && uri.has("text")
                             && uri.getString("type").equals("scripture-ref")) {
-                        addFilteredLink(links, talkId, uri.getString("href"), uri.getString("text"),
-                                key + "-" + footnoteIndex);
+                        addFilteredLink(
+                            links,
+                            talkId,
+                            hrefRewrittenForAltVerses(uri.getString("href")),
+                            uri.getString("text"),
+                            key + "-" + footnoteIndex
+                        );
                     }
                 });
             }
@@ -705,9 +740,18 @@ public class SciCrawler {
             // footnotes, then we need to mark it as unique so the two can be distinguished.
             // Add "uniq" to the end of the <a> tag as in D&C 42:12 in 56bednar April 2021.
             String key = matcher.group().contains("uniq") ? "uniq" : "body";
+            String href = matcher.group(SCRIPTURE_REFERENCE_HREF);
+            String verses = matcher.group(SCRIPTURE_REFERENCE_ALT_VERSES);
+            String citationText = matcher.group(SCRIPTURE_REFERENCE_TEXT);
 
-            addFilteredLink(links, talkId, matcher.group(SCRIPTURE_REFERENCE_HREF),
-                    matcher.group(SCRIPTURE_REFERENCE_TEXT), key);
+            if (verses != null && !verses.isEmpty()) {
+                verses = verses.replace("%2C", ",").replace("p", "");
+                int queryIndex = href.indexOf("?");
+
+                href = href.substring(0, queryIndex) + "." + verses + "?lang=" + language;
+            }
+
+            addFilteredLink(links, talkId, href, citationText, key);
         }
     }
 
