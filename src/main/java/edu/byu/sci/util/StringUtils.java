@@ -1,5 +1,7 @@
 package edu.byu.sci.util;
 
+import java.text.Normalizer;
+
 public class StringUtils {
     private StringUtils() {
         // Ignore
@@ -93,5 +95,10 @@ public class StringUtils {
 
     public static boolean isEmpty(String string) {
         return string == null || string.length() <= 0;
+    }
+
+    public static String removeAccents(String input) {
+        return Normalizer.normalize(input, Normalizer.Form.NFD)
+                .replaceAll("\\p{InCombiningDiacriticalMarks}+", "");
     }
 }

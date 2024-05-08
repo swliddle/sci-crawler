@@ -1253,8 +1253,11 @@ public class Database {
                         stmt.setString(2, speaker.getString(Speakers.KEY_GIVENNAMES));
                         stmt.setString(3, speaker.getString(Speakers.KEY_LASTNAMES));
                         stmt.setString(4, speaker.getString(Speakers.KEY_ABBR));
-                        stmt.setString(6, StringUtils.decodedEntities(speaker.getString(Speakers.KEY_LASTNAMES) + ", "
-                                + speaker.getString(Speakers.KEY_GIVENNAMES)));
+                        stmt.setString(6, StringUtils.removeAccents(
+                                StringUtils.decodedEntities(speaker.getString(Speakers.KEY_LASTNAMES)
+                                + ", "
+                                + speaker.getString(Speakers.KEY_GIVENNAMES)))
+                                );
 
                         if (speaker.getString(Speakers.KEY_SUFFIX).length() <= 0) {
                             stmt.setString(5, speaker.getString(Speakers.KEY_SUFFIX));
