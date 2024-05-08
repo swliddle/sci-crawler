@@ -1253,6 +1253,7 @@ public class Database {
                         stmt.setString(2, speaker.getString(Speakers.KEY_GIVENNAMES));
                         stmt.setString(3, speaker.getString(Speakers.KEY_LASTNAMES));
                         stmt.setString(4, speaker.getString(Speakers.KEY_ABBR));
+                        stmt.setString(5, null);
                         stmt.setString(6, StringUtils.removeAccents(
                                 StringUtils.decodedEntities(speaker.getString(Speakers.KEY_LASTNAMES)
                                 + ", "
