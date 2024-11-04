@@ -1,0 +1,639 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/14hirst?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "a44e7e7b5e3446ae88ead2dd1ed0a01e",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/14hirst",
+      "data-aid": "162701546",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "8cf56bedb7e14e8691fe4cdb9139c162"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/c7655f9d833811ef9b3a0626c361eb550c951c32/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/35d7c713803511efa27d0286e0573c63b3b8af0a-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El favorito de Dios",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162701546",
+      {"key": "162701546"}
+    ],
+    [
+      "162996656",
+      {"key": "162996656"}
+    ],
+    [
+      "162996664",
+      {"key": "162996664"}
+    ],
+    [
+      "162996669",
+      {"key": "162996669"}
+    ],
+    [
+      "162996675",
+      {"key": "162996675"}
+    ],
+    [
+      "162996679",
+      {"key": "162996679"}
+    ],
+    [
+      "162996683",
+      {"key": "162996683"}
+    ],
+    [
+      "162996690",
+      {"key": "162996690"}
+    ],
+    [
+      "162996693",
+      {"key": "162996693"}
+    ],
+    [
+      "162996699",
+      {"key": "162996699"}
+    ],
+    [
+      "162996703",
+      {"key": "162996703"}
+    ],
+    [
+      "162996712",
+      {"key": "162996712"}
+    ],
+    [
+      "162996716",
+      {"key": "162996716"}
+    ],
+    [
+      "162996721",
+      {"key": "162996721"}
+    ],
+    [
+      "162996727",
+      {"key": "162996727"}
+    ],
+    [
+      "162996735",
+      {"key": "162996735"}
+    ],
+    [
+      "162996741",
+      {"key": "162996741"}
+    ],
+    [
+      "162996753",
+      {"key": "162996753"}
+    ],
+    [
+      "162996757",
+      {"key": "162996757"}
+    ],
+    [
+      "162996760",
+      {"key": "162996760"}
+    ],
+    [
+      "162996766",
+      {"key": "162996766"}
+    ],
+    [
+      "162996771",
+      {"key": "162996771"}
+    ],
+    [
+      "162996778",
+      {"key": "162996778"}
+    ],
+    [
+      "162996785",
+      {"key": "162996785"}
+    ],
+    [
+      "162996793",
+      {"key": "162996793"}
+    ],
+    [
+      "162996800",
+      {"key": "162996800"}
+    ],
+    [
+      "162996808",
+      {"key": "162996808"}
+    ],
+    [
+      "162996816",
+      {"key": "162996816"}
+    ],
+    [
+      "162996824",
+      {"key": "162996824"}
+    ],
+    [
+      "162996832",
+      {"key": "162996832"}
+    ],
+    [
+      "162996838",
+      {"key": "162996838"}
+    ],
+    [
+      "162996841",
+      {"key": "162996841"}
+    ],
+    [
+      "162996848",
+      {"key": "162996848"}
+    ],
+    [
+      "162996855",
+      {"key": "162996855"}
+    ],
+    [
+      "162996862",
+      {"key": "162996862"}
+    ],
+    [
+      "162996869",
+      {"key": "162996869"}
+    ],
+    [
+      "162996875",
+      {"key": "162996875"}
+    ],
+    [
+      "162996880",
+      {"key": "162996880"}
+    ],
+    [
+      "162996886",
+      {"key": "162996886"}
+    ],
+    [
+      "162996892",
+      {"key": "162996892"}
+    ],
+    [
+      "162996900",
+      {"key": "162996900"}
+    ],
+    [
+      "162996908",
+      {"key": "162996908"}
+    ],
+    [
+      "162996915",
+      {"key": "162996915"}
+    ],
+    [
+      "162996923",
+      {"key": "162996923"}
+    ],
+    [
+      "162996931",
+      {"key": "162996931"}
+    ],
+    [
+      "162996940",
+      {"key": "162996940"}
+    ],
+    [
+      "162996947",
+      {"key": "162996947"}
+    ],
+    [
+      "162996955",
+      {"key": "162996955"}
+    ],
+    [
+      "162996963",
+      {"key": "162996963"}
+    ],
+    [
+      "162996971",
+      {"key": "162996971"}
+    ],
+    [
+      "162996979",
+      {"key": "162996979"}
+    ],
+    [
+      "162996989",
+      {"key": "162996989"}
+    ],
+    [
+      "162996998",
+      {"key": "162996998"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/14hirst",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Élder Hirst nos enseña cómo sentir el amor divino del Padre Celestial y de Jesucristo.",
+          "title": "El favorito de Dios"
+        },
+        "pageSocial": {
+          "description": "Élder Hirst nos enseña cómo sentir el amor divino del Padre Celestial y de Jesucristo.",
+          "title": "El favorito de Dios"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/c7655f9d833811ef9b3a0626c361eb550c951c32/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/c7655f9d833811ef9b3a0626c361eb550c951c32/full/!192%2C/0/default\" data-video-id=\"6362881696112\" data-duration=\"631400\" data-assetId=\"693e57167f5e11efb0ca022e7e432ed92ef8072d\" data-ref-id=\"693e57167f5e11efb0ca022e7e432ed92ef8072d\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362881696112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"217938313\"/><source src=\"https://assets.churchofjesuschrist.org/693e57167f5e11efb0ca022e7e432ed92ef8072d-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"39158601\"/><source src=\"https://assets.churchofjesuschrist.org/693e57167f5e11efb0ca022e7e432ed92ef8072d-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"72702316\"/><source src=\"https://assets.churchofjesuschrist.org/693e57167f5e11efb0ca022e7e432ed92ef8072d-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"217938313\"/><\/video><h1 data-aid=\"162996656\" id=\"p_wjVdx\">El favorito de Dios<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162996664\" id=\"p_bxOCt\">Por el élder Karl D. Hirst<\/p>\n<p class=\"author-role\" data-aid=\"162996669\" id=\"p_r00H8\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162996675\" id=\"p_qWmf6\">Estar llenos del amor de Dios nos protege en las tormentas de la vida, pero también hace que los momentos felices sean más felices.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162996679\" id=\"p_a6Nvd\">Antes de comenzar, debo decir que dos de mis hijos se han desmayado mientras hablaban desde el púlpito, y nunca me he sentido más identificado con ellos como en este momento. Tengo más cosas en mi mente que solo la trampilla.<\/p>\n<p data-aid=\"162996683\" id=\"p_k3hfL\">En nuestra familia hay seis hijos, quienes a veces se hacen burla unos a otros diciendo que son los hijos favoritos. Cada uno tiene diferentes razones para ser el preferido. Nuestro amor por cada uno de ellos es puro, gratificante y absoluto. No podríamos amar a ninguno más que al otro; con el nacimiento de cada hijo vino la expansión más hermosa de nuestro amor. La forma en que más me identifico con el amor que mi Padre Celestial tiene por mí es a través del amor que siento por mis hijos.<\/p>\n<p data-aid=\"162996690\" id=\"p_iNmkv\">Mientras cada uno de ellos repite su afirmación de ser el hijo más querido, uno podría imaginar que en nuestra familia nunca ha habido una habitación desordenada. La percepción de las imperfecciones en la relación entre padres e hijos disminuye al centrarse en el amor.<\/p>\n<p data-aid=\"162996693\" id=\"p_c1pZB\">En algún momento, tal vez porque puedo ver que nos dirigimos hacia una inevitable revuelta familiar, digo algo como: \u201cEstá bien, ustedes ganan, pero no lo voy a anunciar; ustedes ya saben quién es mi favorito\u201d. Mi objetivo es que cada uno de los seis se sienta victorioso y se evite la guerra total, ¡al menos hasta la siguiente ocasión!<\/p>\n<p data-aid=\"162996699\" id=\"p_pccqz\">En su Evangelio, Juan se describe a sí mismo como \u201c[el] discípulo a quien Jesús amaba\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>, como si esa disposición fuera de alguna manera única. Me gusta pensar que eso se debió a que Juan se sentía completamente amado por Jesús. Nefi me hizo pensar en algo similar cuando escribió: \u201cMe glorío en <em>mi<\/em> Jesús\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. Por supuesto, el Salvador no es de Nefi más de lo que lo es de Juan y, sin embargo, la naturaleza personal de la relación de Nefi con \u201csu\u201d Jesús lo llevó a esa tierna descripción.<\/p>\n<p data-aid=\"162996703\" id=\"p_fIFOH\">¿No es maravilloso que haya momentos en los que podamos sentirnos tan plena y personalmente reconocidos y amados? Nefi puede llamarlo \u201csu\u201d Jesús, y nosotros también. El amor de nuestro Salvador es el \u201camor más fuerte, más noble y más elevado\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>, y Él provee hasta que estamos \u201csaciados\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. El amor divino nunca se agota, y cada uno de nosotros es un favorito muy querido. El amor de Dios es donde, como círculos en un diagrama de Venn, todos nos superponemos. Sean cuales sean las partes de nosotros que parezcan diferentes, Su amor es donde encontramos unidad.<\/p>\n<p data-aid=\"162996712\" id=\"p_lKbYL\">¿Es de sorprender que los mandamientos más grandes sean amar a Dios y amar a los que nos rodean?<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. Cuando veo a personas que muestran amor cristiano los unos por los otros, siento como si ese amor contuviera más que solo <em>su<\/em> amor; es un amor que también tiene divinidad en sí<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Cuando nos amamos los unos a los otros de esta manera, tan completa y plenamente como podamos, el cielo también interviene<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162996716\" id=\"p_e32LK\">De modo que si alguien que nos importa parece estar distante de un sentido del amor divino, podemos seguir ese modelo de hacer cosas que nos acerquen a Dios y luego hacer cosas que nos acerquen a ellos: una invitación tácita a venir a Cristo.<\/p>\n<p data-aid=\"162996721\" id=\"p_wDdgx\">Ojalá pudiera sentarme con ustedes y preguntarles qué circunstancias les hacen sentir el amor de Dios. ¿Qué versículos de las Escrituras? ¿Qué actos de servicio en particular? ¿Qué lugares? ¿Qué tipo de música? ¿En compañía de quién? La conferencia general es un tiempo enriquecedor para aprender sobre conectarse con el amor del cielo.<\/p>\n<p data-aid=\"162996727\" id=\"p_lcdv2\">Pero quizás sientan que están muy lejos del amor de Dios. Quizás hay un coro de voces de desánimo y oscuridad que influye en sus pensamientos; mensajes que les dicen que están demasiado heridos y confundidos, demasiado débiles e ignorados, que son demasiado diferentes o que están muy desorientados para merecer el amor celestial de una manera real. Si escuchan esas ideas, por favor escuchen esto: esas voces simplemente están equivocadas. Con confianza, podemos desestimar que el estar quebrantados no nos excluye de ninguna manera del amor celestial. Cada vez que cantamos el himno que nos recuerda que nuestro amado e inmaculado Salvador eligió \u201cpadec[er] de muerte y dolor\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>, cada vez que tomamos el pan partido. Ciertamente, Jesús quita toda vergüenza a los quebrantados. A través de Su quebranto, Él llegó a ser perfecto, y puede hacernos perfectos a pesar de nuestro quebranto<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Él estuvo quebrantado, solo, desgarrado y magullado \u2014y tal vez nosotros sintamos que también lo estamos\u2014, pero no estamos separados del amor de Dios. Como dice la canción: \u201cGente rota, amor real\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162996735\" id=\"p_k9DeF\">Es posible que ustedes sepan algo secreto sobre ustedes mismos que los haga sentir indignos de ser amados. Por más que tengan razón en cuanto a lo que saben de ustedes mismos, se equivocan al pensar que se han colocado fuera del alcance del amor de Dios. En ocasiones somos crueles e impacientes con nosotros mismos de maneras que nunca podríamos imaginarnos ser con nadie más. Hay mucho que hacer en esta vida, pero el autodesprecio y la vergonzosa autocondena no están en esa lista. Sin importar cuán desfigurados <em>nosotros nos<\/em> podamos sentir, <em>Sus<\/em> brazos no se han acortado<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. No, siempre son lo suficientemente largos como para \u201c[darnos] Su mano\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a> y abrazarnos a cada uno de nosotros.<\/p>\n<p data-aid=\"162996741\" id=\"p_rzIlz\">Cuando no sentimos la calidez del amor divino, este no se ha marchado. Las propias palabras de Dios son que \u201clos montes se moverán y los collados serán quitados, mas no se quitará de [nosotros] [Su] bondad\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. De modo que, para que quede claro, la idea de que Dios ha dejado de amarnos debe estar tan abajo en la lista de posibles explicaciones en la vida, ¡que no lleguemos a ella sino hasta después de que los montes y las colinas se hayan retirado!<\/p>\n<p data-aid=\"162996753\" id=\"p_ua9JK\">Disfruto mucho de este simbolismo de las montañas como evidencia de la certeza del amor de Dios. Ese poderoso simbolismo se entreteje en los relatos de aquellos que acuden a los montes para recibir revelación<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> y en la descripción de Isaías de que \u201cel monte de la casa de Jehová\u201d está \u201c[establecido] como cabeza de los montes\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. La Casa del Señor es el hogar de nuestros convenios más preciados y un lugar para que todos nos apartemos<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> y nos adentremos profundamente en la evidencia del amor de nuestro Padre por nosotros<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. También he disfrutado del consuelo que llega a mi alma cuando me envuelvo más firmemente en mi convenio bautismal y encuentro a alguien que está llorando una pérdida o afligido por una desilusión, y trato de ayudarlo a contener y procesar sus sentimientos<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. ¿Son estas maneras en las que podemos sumergirnos más en el preciado amor del convenio, <em>hesed<\/em>?<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162996757\" id=\"p_ySmdU\">Entonces, si el amor de Dios no nos abandona, ¿por qué no lo sentimos siempre? Solo para calmar sus expectativas: No lo sé. Pero, <em>ser<\/em> amado definitivamente no es lo mismo que <em>sentirse<\/em> amado, y tengo algunas ideas que podrían ayudarlos conforme busquen respuestas a esa pregunta.<\/p>\n<p data-aid=\"162996760\" id=\"p_vrSNA\">Tal vez estén luchando con el dolor, la depresión, la traición, la soledad, la decepción u otra poderosa intromisión en su capacidad de sentir el amor de Dios por ustedes. De ser así, esas cosas pueden opacar o suspender nuestra capacidad de sentir lo que en otras circunstancias podríamos sentir. Al menos durante un tiempo, tal vez no puedan <em>sentir<\/em> Su amor, y el conocimiento tendrá que ser suficiente. Pero me pregunto si podrían experimentar \u2014pacientemente\u2014 diferentes maneras de expresar y recibir el amor divino. ¿Pueden dar un paso hacia atrás de lo que sea que se encuentre frente a ustedes y tal vez otro paso, y otro hasta que vean un panorama más amplio, más y más amplio de ser necesario hasta que literalmente estén \u201cp[ensando] de manera celestial\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>, porque están contemplando las estrellas y recordando incontables mundos y, a través de ellos, a su Creador?<\/p>\n<p data-aid=\"162996766\" id=\"p_jXA98\">El canto de los pájaros, sentir el sol, la brisa o la lluvia en la piel, y los momentos en que la naturaleza hace que mis sentidos se maravillen ante Dios, todo ello ha contribuido a proporcionarme una conexión celestial. Quizás el consuelo de los amigos fieles ayudará. ¿Tal vez la música? ¿O prestar servicio? ¿Han llevado un registro o diario de ocasiones en las que su conexión con Dios fue más clara para ustedes? Tal vez podrían invitar a aquellos en quienes confían a compartir sus fuentes de conexión divina con ustedes a medida que buscan alivio y comprensión.<\/p>\n<p data-aid=\"162996771\" id=\"p_ib6fq\">Me pregunto, si Jesús escogiera un lugar donde ustedes y Él pudieran reunirse, un lugar privado donde pudieran centrarse de manera única en Él, ¿elegiría Él el lugar único del sufrimiento personal de ustedes, el lugar de su necesidad más profunda, donde nadie más puede ir? ¿Un lugar en el que se sienten tan solos que deben estar realmente solos, pero en el que no lo están del todo, un lugar al que tal vez solo Él haya viajado, pero que en realidad Él ya se ha preparado para recibirlos allí cuando lleguen? Si están esperando que Él llegue, ¿podría ser que Él ya se encuentre allí y a su alcance?<\/p>\n<p data-aid=\"162996778\" id=\"p_zok6u\">Si se sienten llenos de amor en esta etapa de su vida, por favor, traten de aferrarse a eso con la misma eficacia con la que un colador retiene el agua. Salpíquenlo doquiera que vayan. Uno de los milagros de la economía divina es que, cuando tratamos de compartir el amor de Jesús, descubrimos que nos encontramos llenos de una variante del principio de que \u201ctodo el que pierda su vida por causa de mí, la hallará\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162996785\" id=\"p_p4VXB\">Estar llenos del amor de Dios nos protege en las tormentas de la vida, pero también hace que los momentos felices sean más felices: nuestros días alegres, cuando hay sol en el cielo, se hacen aún más brillantes por la luz del sol en nuestra alma.<\/p>\n<p data-aid=\"162996793\" id=\"p_wYDQc\">\u201cArraig[uémonos] y ciment[émonos]\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> en nuestro Jesús y en Su amor. Busquemos y registremos experiencias en las que sintamos Su amor y poder en nuestra vida. El gozo del Evangelio está al alcance de todos: no solo para los felices, no solo para los desconsolados. El gozo es nuestro propósito<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>, no el don de nuestras circunstancias. Tenemos buenas razones para \u201cregocijar[nos] y [\u2026] llen[arnos] de amor para con Dios y todos los hombres\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>; llenémonos<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162996800\" id=\"p_grMu8\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162996808\" id=\"p_bN0Qy\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=spa&amp;id=p20#p20\">Juan21:20<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa&amp;id=p23#p23\">Juan 13:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19?lang=spa&amp;id=p26#p26\">19:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=spa&amp;id=p2#p2\">20:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=spa&amp;id=p7#p7\">21:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162996816\" id=\"p_vppTY\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p6#p6\">2 Nefi 33:6<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162996824\" id=\"p_fPXHd\">Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/charity?lang=spa\">Caridad<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162996832\" id=\"p_pZth8\">En la Tierra Santa: <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p15-p20#p15\">Mateo 14:15\u201320<\/a>. Y en las Américas: <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16#p16\">3 Nefi 27:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162996838\" id=\"p_mEgEf\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p35-p40#p35\">Mateo 22:35\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162996841\" id=\"p_zVmSp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4?lang=spa&amp;id=p12#p12\">1 Juan 4:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162996848\" id=\"p_xiTRl\">En <a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p6#p6\"><cite>Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/cite><\/a> se nos pide \u201cayudar [a los demás] a sentir el amor del Padre Celestial a través de [nosotros]\u201d, 2022, pág. 12).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162996855\" id=\"p_hgFSG\">\u201cJesús de Nazaret\u201d, <cite>Himnos<\/cite>, nro. 105; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53?lang=spa&amp;id=p5#p5\">Isaías 53:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa&amp;id=p26#p26\">Mateo 26:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162996862\" id=\"p_gui4t\">El presidente Russell M. Nelson explicó: \u201cMomentos antes de [la] crucifixión [del Salvador], Él dijo: \u2018al tercer día <i>seré perfeccionado<\/i>\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/13?lang=spa&amp;id=p32#p32\">Lucas 13:32<\/a>; cursiva agregada). Piensen en ello. El Señor, sin pecados ni errores \u2014quien, según nuestras normas terrenales, ya era perfecto\u2014, proclamó que Su propio estado de perfección estaba aún en el futuro. Su perfección <i>eterna<\/i> llegaría después de Su Resurrección y de recibir \u2018toda potestad [\u2026] en el cielo y en la tierra\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p18#p18\">Mateo 28:18<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p2-p23#p2\">Doctrina y Convenios 93:2\u201323<\/a>)\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/perfection-pending?lang=spa\">La inminencia de la perfección<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 100). El profeta Moroni invitó a todos: \u201cVenid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad, y si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente, para que por su gracia seáis perfectos en Cristo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32\">Moroni 10:32<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162996869\" id=\"p_iqmql\">\u201cSalvador de mi alma\u201d, <cite>Álbum para los jóvenes 2024<\/cite>, https://www.churchofjesuschrist.org/study/manual/disciple-of-christ-2024-youth-album?lang=spa<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162996875\" id=\"p_omDku\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/59?lang=spa&amp;id=p1#p1\">Isaías 59:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162996880\" id=\"p_vbBlH\">\u201c¿Dónde hallo el solaz?\u201d, <cite>Himnos<\/cite>, nro. 69.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162996886\" id=\"p_yPVal\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10\">Isaías 54:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162996892\" id=\"p_fuJ94\">Por ejemplo, Nefi (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/17?lang=spa&amp;id=p7#p7\">1 Nefi 17:7<\/a>), Moisés (véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/19?lang=spa&amp;id=p3#p3\">Éxodo 19:3<\/a>), los once discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p16#p16\">Mateo 28:16<\/a>) y el Salvador (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p23#p23\">Mateo 14:23<\/a>); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/24?lang=spa&amp;id=p3#p3\">Salmo 24:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162996900\" id=\"p_j5Ce8\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=spa&amp;id=p2#p2\">Isaías 2:2<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=spa&amp;id=p3#p3\">versículo 3<\/a>. Este simbolismo me lleva a considerar más a fondo los propósitos del Señor al proporcionar cientos de templos para Sus hijos en todo el mundo.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162996908\" id=\"p_pQ0mD\">Mi experiencia confirma la veracidad de la promesa del presidente Nelson de que el lugar más seguro para vivir es dentro de nuestros convenios del templo (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 96).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162996915\" id=\"p_sDZ7f\">El presidente Nelson nos ha asegurado:<\/p>\n<p data-aid=\"162996923\" id=\"p_jT9ge\">\u201cEl tiempo que pasen en el templo los ayudará a <i>pensar de manera celestial<\/i> y a captar la visión de quiénes son realmente, quiénes pueden llegar a ser y la clase de vida que pueden tener para siempre. La adoración periódica en el templo ampliará la manera en que se ven a sí mismos y cómo forman parte del magnífico plan de Dios. Yo se lo prometo [\u2026].<\/p>\n<p data-aid=\"162996931\" id=\"p_fIt0l\">\u201cNada calmará <i>más<\/i> su espíritu en los momentos de dolor. Nada abrirá <i>más<\/i> los cielos. ¡Nada!\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 121\u2013122).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162996940\" id=\"p_zaN1S\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p10%2C13#p8\">Mosíah 18:8\u201310, 13<\/a>. \u201cEl convenio bautismal es un testimonio público al Padre Celestial de tres compromisos específicos: Servir a Dios, guardar Sus mandamientos y estar dispuesto a tomar sobre sí el nombre de Jesucristo. Los otros aspectos que con frecuencia se relacionan con el convenio bautismal \u2014que \u2018llev[emos] las cargas los unos de los otros\u2019, \u2018llor[emos] con los que lloran\u2019 y \u2018cons[olemos] a los que necesitan de consuelo\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>]\u2014, son los frutos de hacer el convenio en lugar de formar parte del convenio en sí. Esos aspectos son importantes porque son lo que un alma convertida haría de manera natural\u201d (véase Dale G. Renlund, \u201c<a href=\"https://speeches.byu.edu/talks/dale-g-renlund/stronger-and-closer-connection-to-god-through-multiple-covenants\">Stronger and Closer Connection to God through Multiple Covenants<\/a>\u201d, devocional de la Universidad Brigham Young, 5 de marzo de 2024, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162996947\" id=\"p_pvtSU\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, págs. 4\u201311.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162996955\" id=\"p_sxXmr\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013118.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162996963\" id=\"p_eF2cK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p25#p25\">Mateo 16:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162996971\" id=\"p_iUXxD\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/3?lang=spa&amp;id=p17#p17\">Efesios 3:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162996979\" id=\"p_ruCF1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25\">2 Nefi 2:25<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa\">El gozo y la supervivencia espiritual<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, págs. 81\u201384.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162996989\" id=\"p_sekkn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p4#p4\">Mosíah 2:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162996998\" id=\"p_fAtcJ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48\">Moroni 7:48<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162996703",
+        "id": "note4",
+        "text": "<p data-aid=\"162996832\" id=\"p_pZth8\">En la Tierra Santa: <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p15-p20#p15\">Mateo 14:15\u201320<\/a>. Y en las Américas: <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16#p16\">3 Nefi 27:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/14?lang=spa&amp;id=p15-p20#p15",
+            "text": "Mateo 14:15\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p16#p16",
+            "text": "3 Nefi 27:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162996712",
+        "id": "note5",
+        "text": "<p data-aid=\"162996838\" id=\"p_mEgEf\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p35-p40#p35\">Mateo 22:35\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p35-p40#p35",
+          "text": "Mateo 22:35\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162996699",
+        "id": "note2",
+        "text": "<p data-aid=\"162996816\" id=\"p_vppTY\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p6#p6\">2 Nefi 33:6<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/33?lang=spa&amp;id=p6#p6",
+          "text": "2 Nefi 33:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162996703",
+        "id": "note3",
+        "text": "<p data-aid=\"162996824\" id=\"p_fPXHd\">Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/bd/charity?lang=spa\">Caridad<\/a>\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bd/charity?lang=spa",
+          "text": "Caridad",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162996727",
+        "id": "note8",
+        "text": "<p data-aid=\"162996855\" id=\"p_hgFSG\">\u201cJesús de Nazaret\u201d, <cite>Himnos<\/cite>, nro. 105; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53?lang=spa&amp;id=p5#p5\">Isaías 53:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa&amp;id=p26#p26\">Mateo 26:26<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/53?lang=spa&amp;id=p5#p5",
+            "text": "Isaías 53:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/26?lang=spa&amp;id=p26#p26",
+            "text": "Mateo 26:26",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162996727",
+        "id": "note9",
+        "text": "<p data-aid=\"162996862\" id=\"p_gui4t\">El presidente Russell M. Nelson explicó: \u201cMomentos antes de [la] crucifixión [del Salvador], Él dijo: \u2018al tercer día <i>seré perfeccionado<\/i>\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/13?lang=spa&amp;id=p32#p32\">Lucas 13:32<\/a>; cursiva agregada). Piensen en ello. El Señor, sin pecados ni errores \u2014quien, según nuestras normas terrenales, ya era perfecto\u2014, proclamó que Su propio estado de perfección estaba aún en el futuro. Su perfección <i>eterna<\/i> llegaría después de Su Resurrección y de recibir \u2018toda potestad [\u2026] en el cielo y en la tierra\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p18#p18\">Mateo 28:18<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p2-p23#p2\">Doctrina y Convenios 93:2\u201323<\/a>)\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/perfection-pending?lang=spa\">La inminencia de la perfección<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 100). El profeta Moroni invitó a todos: \u201cVenid a Cristo, y perfeccionaos en él, y absteneos de toda impiedad, y si os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente, para que por su gracia seáis perfectos en Cristo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32\">Moroni 10:32<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/13?lang=spa&amp;id=p32#p32",
+            "text": "Lucas 13:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/28?lang=spa&amp;id=p18#p18",
+            "text": "Mateo 28:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p2-p23#p2",
+            "text": "Doctrina y Convenios 93:2\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/1995/10/perfection-pending?lang=spa",
+            "text": "La inminencia de la perfección",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32",
+            "text": "Moroni 10:32",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162996712",
+        "id": "note6",
+        "text": "<p data-aid=\"162996841\" id=\"p_zVmSp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/4?lang=spa&amp;id=p12#p12\">1 Juan 4:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-jn/4?lang=spa&amp;id=p12#p12",
+          "text": "1 Juan 4:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162996712",
+        "id": "note7",
+        "text": "<p data-aid=\"162996848\" id=\"p_xiTRl\">En <a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p6#p6\"><cite>Para la Fortaleza de la Juventud: Una guía para tomar decisiones<\/cite><\/a> se nos pide \u201cayudar [a los demás] a sentir el amor del Padre Celestial a través de [nosotros]\u201d, 2022, pág. 12).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/for-the-strength-of-youth/04-neighbor?lang=spa&amp;id=p6#p6",
+          "text": "Para la Fortaleza de la Juventud: Una guía para tomar decisiones",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162996753",
+        "id": "note16",
+        "text": "<p data-aid=\"162996908\" id=\"p_pQ0mD\">Mi experiencia confirma la veracidad de la promesa del presidente Nelson de que el lugar más seguro para vivir es dentro de nuestros convenios del templo (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 96).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=spa",
+          "text": "El templo y el cimiento espiritual de ustedes",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162996753",
+        "id": "note15",
+        "text": "<p data-aid=\"162996900\" id=\"p_j5Ce8\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=spa&amp;id=p2#p2\">Isaías 2:2<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=spa&amp;id=p3#p3\">versículo 3<\/a>. Este simbolismo me lleva a considerar más a fondo los propósitos del Señor al proporcionar cientos de templos para Sus hijos en todo el mundo.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/2?lang=spa&amp;id=p2#p2",
+            "text": "Isaías 2:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/2?lang=spa&amp;id=p3#p3",
+            "text": "versículo 3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162996753",
+        "id": "note14",
+        "text": "<p data-aid=\"162996892\" id=\"p_fuJ94\">Por ejemplo, Nefi (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/17?lang=spa&amp;id=p7#p7\">1 Nefi 17:7<\/a>), Moisés (véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/19?lang=spa&amp;id=p3#p3\">Éxodo 19:3<\/a>), los once discípulos (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p16#p16\">Mateo 28:16<\/a>) y el Salvador (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p23#p23\">Mateo 14:23<\/a>); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/24?lang=spa&amp;id=p3#p3\">Salmo 24:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/17?lang=spa&amp;id=p7#p7",
+            "text": "1 Nefi 17:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/19?lang=spa&amp;id=p3#p3",
+            "text": "Éxodo 19:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/28?lang=spa&amp;id=p16#p16",
+            "text": "Mateo 28:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/14?lang=spa&amp;id=p23#p23",
+            "text": "Mateo 14:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/24?lang=spa&amp;id=p3#p3",
+            "text": "Salmo 24:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162996741",
+        "id": "note13",
+        "text": "<p data-aid=\"162996886\" id=\"p_yPVal\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10\">Isaías 54:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10",
+          "text": "Isaías 54:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162996735",
+        "id": "note12",
+        "text": "<p data-aid=\"162996880\" id=\"p_vbBlH\">\u201c¿Dónde hallo el solaz?\u201d, <cite>Himnos<\/cite>, nro. 69.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162996735",
+        "id": "note11",
+        "text": "<p data-aid=\"162996875\" id=\"p_omDku\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/59?lang=spa&amp;id=p1#p1\">Isaías 59:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/59?lang=spa&amp;id=p1#p1",
+          "text": "Isaías 59:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162996727",
+        "id": "note10",
+        "text": "<p data-aid=\"162996869\" id=\"p_iqmql\">\u201cSalvador de mi alma\u201d, <cite>Álbum para los jóvenes 2024<\/cite>, https://www.churchofjesuschrist.org/study/manual/disciple-of-christ-2024-youth-album?lang=spa<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162996753",
+        "id": "note19",
+        "text": "<p data-aid=\"162996947\" id=\"p_pvtSU\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, págs. 4\u201311.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa",
+          "text": "El convenio sempiterno",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162996753",
+        "id": "note18",
+        "text": "<p data-aid=\"162996940\" id=\"p_zaN1S\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p10%2C13#p8\">Mosíah 18:8\u201310, 13<\/a>. \u201cEl convenio bautismal es un testimonio público al Padre Celestial de tres compromisos específicos: Servir a Dios, guardar Sus mandamientos y estar dispuesto a tomar sobre sí el nombre de Jesucristo. Los otros aspectos que con frecuencia se relacionan con el convenio bautismal \u2014que \u2018llev[emos] las cargas los unos de los otros\u2019, \u2018llor[emos] con los que lloran\u2019 y \u2018cons[olemos] a los que necesitan de consuelo\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>]\u2014, son los frutos de hacer el convenio en lugar de formar parte del convenio en sí. Esos aspectos son importantes porque son lo que un alma convertida haría de manera natural\u201d (véase Dale G. Renlund, \u201c<a href=\"https://speeches.byu.edu/talks/dale-g-renlund/stronger-and-closer-connection-to-god-through-multiple-covenants\">Stronger and Closer Connection to God through Multiple Covenants<\/a>\u201d, devocional de la Universidad Brigham Young, 5 de marzo de 2024, speeches.byu.edu).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p10%2C13#p8",
+            "text": "Mosíah 18:8\u201310, 13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8",
+            "text": "Mosíah 18:8\u20139",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/dale-g-renlund/stronger-and-closer-connection-to-god-through-multiple-covenants",
+            "text": "Stronger and Closer Connection to God through Multiple Covenants"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162996753",
+        "id": "note17",
+        "text": "<p data-aid=\"162996915\" id=\"p_sDZ7f\">El presidente Nelson nos ha asegurado:<\/p>\n<p data-aid=\"162996923\" id=\"p_jT9ge\">\u201cEl tiempo que pasen en el templo los ayudará a <i>pensar de manera celestial<\/i> y a captar la visión de quiénes son realmente, quiénes pueden llegar a ser y la clase de vida que pueden tener para siempre. La adoración periódica en el templo ampliará la manera en que se ven a sí mismos y cómo forman parte del magnífico plan de Dios. Yo se lo prometo [\u2026].<\/p>\n<p data-aid=\"162996931\" id=\"p_fIt0l\">\u201cNada calmará <i>más<\/i> su espíritu en los momentos de dolor. Nada abrirá <i>más<\/i> los cielos. ¡Nada!\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 121\u2013122).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=spa",
+          "text": "Regocíjense en el don de las llaves del sacerdocio",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162996793",
+        "id": "note25",
+        "text": "<p data-aid=\"162996998\" id=\"p_fAtcJ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48\">Moroni 7:48<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48",
+          "text": "Moroni 7:48",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162996793",
+        "id": "note24",
+        "text": "<p data-aid=\"162996989\" id=\"p_sekkn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p4#p4\">Mosíah 2:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p4#p4",
+          "text": "Mosíah 2:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162996793",
+        "id": "note23",
+        "text": "<p data-aid=\"162996979\" id=\"p_ruCF1\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25\">2 Nefi 2:25<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa\">El gozo y la supervivencia espiritual<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, págs. 81\u201384.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25",
+            "text": "2 Nefi 2:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa",
+            "text": "El gozo y la supervivencia espiritual",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162996793",
+        "id": "note22",
+        "text": "<p data-aid=\"162996971\" id=\"p_iUXxD\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/3?lang=spa&amp;id=p17#p17\">Efesios 3:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/3?lang=spa&amp;id=p17#p17",
+          "text": "Efesios 3:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162996778",
+        "id": "note21",
+        "text": "<p data-aid=\"162996963\" id=\"p_eF2cK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p25#p25\">Mateo 16:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/16?lang=spa&amp;id=p25#p25",
+          "text": "Mateo 16:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162996760",
+        "id": "note20",
+        "text": "<p data-aid=\"162996955\" id=\"p_sxXmr\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013118.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162996699",
+        "id": "note1",
+        "text": "<p data-aid=\"162996808\" id=\"p_bN0Qy\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=spa&amp;id=p20#p20\">Juan21:20<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa&amp;id=p23#p23\">Juan 13:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19?lang=spa&amp;id=p26#p26\">19:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=spa&amp;id=p2#p2\">20:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=spa&amp;id=p7#p7\">21:7<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/21?lang=spa&amp;id=p20#p20",
+            "text": "Juan21:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/13?lang=spa&amp;id=p23#p23",
+            "text": "Juan 13:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/19?lang=spa&amp;id=p26#p26",
+            "text": "19:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/20?lang=spa&amp;id=p2#p2",
+            "text": "20:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/21?lang=spa&amp;id=p7#p7",
+            "text": "21:7",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

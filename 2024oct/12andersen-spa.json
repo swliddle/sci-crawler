@@ -1,0 +1,710 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/12andersen?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "513232dfc9ac42ccaf0d0ccfc75575ce",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/12andersen",
+      "data-aid": "162701501",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "fa175cf479004aa4adf438551fc7976d"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/2cae177f803511efa44102d0ea8598454b0c72e3-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El triunfo de la esperanza",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162701501",
+      {"key": "162701501"}
+    ],
+    [
+      "162975365",
+      {"key": "162975365"}
+    ],
+    [
+      "162975366",
+      {"key": "162975366"}
+    ],
+    [
+      "162975368",
+      {"key": "162975368"}
+    ],
+    [
+      "162975369",
+      {"key": "162975369"}
+    ],
+    [
+      "162975371",
+      {"key": "162975371"}
+    ],
+    [
+      "162975373",
+      {"key": "162975373"}
+    ],
+    [
+      "162975375",
+      {"key": "162975375"}
+    ],
+    [
+      "162975376",
+      {"key": "162975376"}
+    ],
+    [
+      "162975379",
+      {"key": "162975379"}
+    ],
+    [
+      "162980381",
+      {"key": "162980381"}
+    ],
+    [
+      "162980383",
+      {"key": "162980383"}
+    ],
+    [
+      "162980384",
+      {"key": "162980384"}
+    ],
+    [
+      "162980387",
+      {"key": "162980387"}
+    ],
+    [
+      "162980389",
+      {"key": "162980389"}
+    ],
+    [
+      "162980390",
+      {"key": "162980390"}
+    ],
+    [
+      "162980392",
+      {"key": "162980392"}
+    ],
+    [
+      "162980395",
+      {"key": "162980395"}
+    ],
+    [
+      "162980396",
+      {"key": "162980396"}
+    ],
+    [
+      "162980398",
+      {"key": "162980398"}
+    ],
+    [
+      "162980400",
+      {"key": "162980400"}
+    ],
+    [
+      "162980402",
+      {"key": "162980402"}
+    ],
+    [
+      "162980404",
+      {"key": "162980404"}
+    ],
+    [
+      "162980406",
+      {"key": "162980406"}
+    ],
+    [
+      "162980408",
+      {"key": "162980408"}
+    ],
+    [
+      "162980409",
+      {"key": "162980409"}
+    ],
+    [
+      "162980411",
+      {"key": "162980411"}
+    ],
+    [
+      "162980413",
+      {"key": "162980413"}
+    ],
+    [
+      "162980415",
+      {"key": "162980415"}
+    ],
+    [
+      "162980418",
+      {"key": "162980418"}
+    ],
+    [
+      "162980419",
+      {"key": "162980419"}
+    ],
+    [
+      "162980422",
+      {"key": "162980422"}
+    ],
+    [
+      "162980423",
+      {"key": "162980423"}
+    ],
+    [
+      "162980426",
+      {"key": "162980426"}
+    ],
+    [
+      "162980427",
+      {"key": "162980427"}
+    ],
+    [
+      "162980430",
+      {"key": "162980430"}
+    ],
+    [
+      "162980431",
+      {"key": "162980431"}
+    ],
+    [
+      "162980434",
+      {"key": "162980434"}
+    ],
+    [
+      "162980436",
+      {"key": "162980436"}
+    ],
+    [
+      "162980438",
+      {"key": "162980438"}
+    ],
+    [
+      "162980440",
+      {"key": "162980440"}
+    ],
+    [
+      "162980442",
+      {"key": "162980442"}
+    ],
+    [
+      "162980444",
+      {"key": "162980444"}
+    ],
+    [
+      "162980446",
+      {"key": "162980446"}
+    ],
+    [
+      "162980447",
+      {"key": "162980447"}
+    ],
+    [
+      "162980450",
+      {"key": "162980450"}
+    ],
+    [
+      "162980452",
+      {"key": "162980452"}
+    ],
+    [
+      "162980454",
+      {"key": "162980454"}
+    ],
+    [
+      "162980455",
+      {"key": "162980455"}
+    ],
+    [
+      "162980458",
+      {"key": "162980458"}
+    ],
+    [
+      "162980460",
+      {"key": "162980460"}
+    ],
+    [
+      "162980461",
+      {"key": "162980461"}
+    ],
+    [
+      "162980463",
+      {"key": "162980463"}
+    ],
+    [
+      "162980465",
+      {"key": "162980465"}
+    ],
+    [
+      "162980467",
+      {"key": "162980467"}
+    ],
+    [
+      "162980468",
+      {"key": "162980468"}
+    ],
+    [
+      "162980470",
+      {"key": "162980470"}
+    ],
+    [
+      "162980472",
+      {"key": "162980472"}
+    ],
+    [
+      "162980474",
+      {"key": "162980474"}
+    ],
+    [
+      "162980476",
+      {"key": "162980476"}
+    ],
+    [
+      "162980478",
+      {"key": "162980478"}
+    ],
+    [
+      "162980480",
+      {"key": "162980480"}
+    ],
+    [
+      "162980482",
+      {"key": "162980482"}
+    ],
+    [
+      "162980484",
+      {"key": "162980484"}
+    ],
+    [
+      "162980485",
+      {"key": "162980485"}
+    ],
+    [
+      "162980487",
+      {"key": "162980487"}
+    ],
+    [
+      "162980489",
+      {"key": "162980489"}
+    ],
+    [
+      "162980491",
+      {"key": "162980491"}
+    ],
+    [
+      "162980493",
+      {"key": "162980493"}
+    ],
+    [
+      "162980495",
+      {"key": "162980495"}
+    ],
+    [
+      "162980498",
+      {"key": "162980498"}
+    ],
+    [
+      "162980500",
+      {"key": "162980500"}
+    ],
+    [
+      "162980502",
+      {"key": "162980502"}
+    ],
+    [
+      "162980505",
+      {"key": "162980505"}
+    ],
+    [
+      "162980507",
+      {"key": "162980507"}
+    ],
+    [
+      "162980509",
+      {"key": "162980509"}
+    ],
+    [
+      "162980511",
+      {"key": "162980511"}
+    ],
+    [
+      "162980513",
+      {"key": "162980513"}
+    ],
+    [
+      "162980515",
+      {"key": "162980515"}
+    ],
+    [
+      "162980517",
+      {"key": "162980517"}
+    ],
+    [
+      "162980519",
+      {"key": "162980519"}
+    ],
+    [
+      "162980521",
+      {"key": "162980521"}
+    ],
+    [
+      "162980522",
+      {"key": "162980522"}
+    ],
+    [
+      "162980523",
+      {"key": "162980523"}
+    ],
+    [
+      "162980524",
+      {"key": "162980524"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/12andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Élder Andersen enseña que cuando tenemos esperanza en Cristo y ponemos nuestra confianza en Él, sentiremos Su paz.",
+          "title": "El triunfo de la esperanza"
+        },
+        "pageSocial": {
+          "description": "Élder Andersen enseña que cuando tenemos esperanza en Cristo y ponemos nuestra confianza en Él, sentiremos Su paz.",
+          "title": "El triunfo de la esperanza"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!192%2C/0/default\" data-video-id=\"6362882366112\" data-duration=\"811800\" data-assetId=\"6bc725517f5e11efb0ca022e7e432ed9f406cb79\" data-ref-id=\"6bc725517f5e11efb0ca022e7e432ed9f406cb79\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362882366112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"225096837\"/><source src=\"https://assets.churchofjesuschrist.org/6bc725517f5e11efb0ca022e7e432ed9f406cb79-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"52151023\"/><source src=\"https://assets.churchofjesuschrist.org/6bc725517f5e11efb0ca022e7e432ed9f406cb79-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"90302726\"/><source src=\"https://assets.churchofjesuschrist.org/6bc725517f5e11efb0ca022e7e432ed9f406cb79-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"225096837\"/><\/video><h1 data-aid=\"162975365\" id=\"p_xCZdn\">El triunfo de la esperanza<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162975366\" id=\"p_ks9eS\">Por el élder Neil L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"162975368\" id=\"p_qFFZG\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162975369\" id=\"p_ggZII\">La esperanza es un don, una dádiva que crece a medida que aumenta nuestra fe en Jesucristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162975371\" id=\"p_iJBUv\">Mis queridos hermanos y hermanas de todo el mundo, al comenzar este tiempo tan especial de conferencia general, los ojos de los cielos sin duda estarán fijos en nosotros. Escucharemos la voz del Señor a través de Sus siervos, sentiremos la influencia \u201cguiadora, orientadora [y] consoladora\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> del Espíritu Santo y nuestra fe se fortalecerá.<\/p>\n<p data-aid=\"162975373\" id=\"p_yV1hm\">Hace tres años, el presidente Russell M. Nelson comenzó la conferencia general con estas palabras: \u201cLa revelación pura para las preguntas de su corazón hará que esta conferencia sea provechosa e inolvidable. Si aún no han buscado la ministración del Espíritu Santo para ayudarlos a escuchar lo que el Señor desea que escuchen durante estos dos días, los invito a que lo hagan ahora. Hagan de esta conferencia un tiempo para deleitarse con los mensajes que el Señor nos dé a través de Sus siervos\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162975375\" id=\"p_bpaqQ\">Las Escrituras relacionan de manera poderosa tres palabras: fe, esperanza y caridad. El don de la esperanza es una investidura inestimable de Dios<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162975376\" id=\"p_oLJ4z\">La palabra <em>esperanza<\/em> se utiliza para muchas cosas que deseamos que ocurran; por ejemplo: \u201cEspero que no llueva\u201d, o \u201cEspero que gane nuestro equipo\u201d. Mi intención es hablar de nuestras esperanzas sagradas y eternas, centradas en Jesucristo y en el Evangelio restaurado, y de nuestras \u201cexpectativa[s] segura[s]\u201d de \u201clas bendiciones prometidas de la justicia\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<section>\n<header>\n<h2 data-aid=\"162975379\" id=\"p_gDlbX\">Nuestra esperanza en la vida eterna<\/h2>\n<\/header>\n<p data-aid=\"162980381\" id=\"p_tY3Bt\">Nuestra esperanza en la vida eterna está asegurada por medio de la gracia de Cristo y de nuestras propias decisiones, que nos brindan la incomparable bendición de regresar a nuestro hogar celestial y vivir para siempre en paz y felicidad con nuestro Padre Celestial, Su Hijo Amado, nuestra familia fiel y nuestros amigos preciados, además de los hombres y mujeres justos de todo continente y época<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980383\" id=\"p_s1DCx\">En la tierra experimentamos gozo y aflicción al ser examinados y probados. Nuestra victoria llega a través de la fe en Jesucristo a medida que triunfamos sobre nuestros pecados, dificultades, tentaciones, injusticias y los desafíos de esta vida mortal<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980384\" id=\"p_cD13D\">A medida que fortalecemos nuestra fe en Jesucristo, vemos, más allá de nuestras dificultades, nuestras bendiciones y las promesas de la eternidad. Como una luz cuyo resplandor va en aumento, la esperanza ilumina el mundo en tinieblas y vemos nuestro futuro glorioso.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980387\" id=\"p_d7CYq\">La esperanza viene de Dios<\/h2>\n<\/header>\n<p data-aid=\"162980389\" id=\"p_hAVuM\">Desde el principio, nuestro Padre Celestial y Su Hijo Amado han bendecido con presteza a los justos con el precioso don de la esperanza<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980390\" id=\"p_xoSys\">Después de salir del jardín, un ángel enseñó a Adán y Eva acerca de la promesa de Jesucristo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. El don de la esperanza iluminó su vida y Adán declaró: \u201cSe han abierto mis ojos, y tendré gozo en esta vida\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Eva habló del \u201cgozo de [su] redención, [y] la vida eterna que Dios concede a todos los que son obedientes\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980392\" id=\"p_tgQr4\">De la misma manera que el Espíritu Santo dio esperanza a Adán<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>, el poder del Espíritu del Señor ilumina a los fieles hoy en día, alumbrando la realidad de la vida eterna.<\/p>\n<p data-aid=\"162980395\" id=\"p_uMbV8\">El Salvador nos envía a un Consolador, el Espíritu Santo, un compañero que trae fe, esperanza y que da paz, \u201cno [\u2026] como el mundo la da\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980396\" id=\"p_m2pTM\">El Salvador dijo: \u201cEn el mundo tendréis aflicción. Pero confiad [conservad un fulgor de esperanza]; yo he vencido al mundo\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980398\" id=\"p_ndnRA\">En los momentos de dificultad escogemos confiar en el Señor con fe. Y rogamos en silencio: \u201cNo se haga mi voluntad, sino la tuya\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Sentimos la aprobación del Señor por nuestra mansa voluntad y esperamos la paz prometida que el Señor enviará en el momento en que Él decida.<\/p>\n<p data-aid=\"162980400\" id=\"p_faSlJ\">El apóstol Pablo enseñó: \u201cEl Dios de esperanza os llen[ará] de [\u2026] gozo y paz [\u2026], para que abundéis en esperanza\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>, \u201cgozosos en la esperanza; sufridos en la tribulación\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>, \u201cpor el poder del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980402\" id=\"p_ukugf\">Una lección de esperanza<\/h2>\n<\/header>\n<p data-aid=\"162980404\" id=\"p_k5Wa6\">El profeta Moroni experimentó de primera mano el tener esperanza en Cristo durante la tribulación y explicó así su situación extrema:<\/p>\n<p data-aid=\"162980406\" id=\"p_jGfYH\">\u201cMe hallo solo [\u2026] y no tengo [\u2026] adónde ir\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980408\" id=\"p_j6bkL\">\u201cNo me doy a conocer a los lamanitas, no sea que me destruyan\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980409\" id=\"p_ncqO5\">De manera extraordinaria, en esa oscuridad y soledad, Moroni registra las palabras de esperanza de su padre:<\/p>\n<p data-aid=\"162980411\" id=\"p_dTGIO\">\u201cSi un hombre tiene fe, es necesario que tenga esperanza; porque sin fe no puede haber esperanza\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980413\" id=\"p_wKlc2\">\u201c¿Qué es lo que habéis de esperar? [\u2026], debéis tener esperanza, por medio de la expiación de Cristo y el poder de su resurrección, en que seréis levantados a vida eterna\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980415\" id=\"p_cDHEu\">Mis hermanos y hermanas, la esperanza es un don viviente, una dádiva que crece a medida que aumentamos nuestra fe en Jesucristo. \u201cLa fe es la certeza de lo que se espera\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Edificamos esta certeza\u2014los componentes de evidencia de nuestra fe\u2014por medio de la oración, los convenios del templo, al guardar los mandamientos, escudriñar las Escrituras y las palabras de los profetas modernos continuamente, al tomar la Santa Cena, al servir a otros y al adorar cada semana con otros santos.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980418\" id=\"p_eYX5p\">Una casa de esperanza<\/h2>\n<\/header>\n<p data-aid=\"162980419\" id=\"p_wrN5Y\">Para fortalecer nuestra fe en estos tiempos de iniquidad en aumento, el Señor ha mandado a Su profeta que cubra la tierra con Sus templos.<\/p>\n<p data-aid=\"162980422\" id=\"p_uoF0G\">Al entrar en la Casa del Señor, sentimos el Espíritu de Dios que confirma nuestra esperanza.<\/p>\n<p data-aid=\"162980423\" id=\"p_c7lm9\">El templo testifica del sepulcro vacío y de que la vida continúa para todos más allá del velo.<\/p>\n<p data-aid=\"162980426\" id=\"p_oyGrM\">En el caso de aquellos que no tienen un compañero eterno, las ordenanzas confirman con poder que toda persona justa recibirá toda bendición prometida.<\/p>\n<p data-aid=\"162980427\" id=\"p_uCh6y\">Existe una esperanza sublime cuando una pareja joven se arrodilla en el altar para ser sellada, no solo por el tiempo, sino por la eternidad.<\/p>\n<p data-aid=\"162980430\" id=\"p_kw5EP\">Existe una grandiosa esperanza para nosotros en las promesas hechas a nuestra posteridad, sean cuales sean sus circunstancias actuales.<\/p>\n<p data-aid=\"162980431\" id=\"p_grC8N\">No hay dolor, enfermedad, injusticia o sufrimiento, nada que pueda oscurecer nuestra esperanza, si creemos en nuestros convenios con Dios en la Casa del Señor y nos aferramos a ellos. Es una casa de luz, una casa de esperanza.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980434\" id=\"p_tW3aK\">Cuando se desecha la esperanza<\/h2>\n<\/header>\n<p data-aid=\"162980436\" id=\"p_d2KzJ\">Derramamos lágrimas de pesar al ver la tristeza y desesperación de aquellos que no tienen esperanza en Cristo.<\/p>\n<p data-aid=\"162980438\" id=\"p_fgWBK\">Hace poco observé desde lejos a una pareja que, tiempo atrás, tuvo fe en Cristo, pero decidió rechazar sus creencias. Tenían éxito en el mundo y encontraron placer en su intelecto y el rechazo de su fe.<\/p>\n<p data-aid=\"162980440\" id=\"p_tCyLv\">Todo parecía ir bien hasta que el marido, todavía joven y lleno de energía, enfermó de repente y murió. Como un eclipse de sol, habían bloqueado la luz <em>del<\/em> Hijo y el resultado fue un eclipse de esperanza. La esposa, en su incredulidad, se sintió desorientada, dolorosamente falta de preparación e incapaz de consolar a sus hijos. Su intelecto le había dicho que su vida estaba en perfecto orden hasta que, de repente, no podía ver un mañana. Y su desesperación le trajo oscuridad y confusión.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980442\" id=\"p_mrk0W\">Esperanza en medio de una tragedia dolorosa<\/h2>\n<\/header>\n<p data-aid=\"162980444\" id=\"p_ismTL\">Permítanme contraponer su desesperanza llena de dolor a la esperanza en Cristo de otra familia durante un tiempo de extrema dificultad.<\/p>\n<p data-aid=\"162980446\" id=\"p_ozySr\">Hace veintiún años, el hijo recién nacido de mi sobrino, Ben Andersen, y su esposa, Robbie, fue trasladado por vía aérea desde la zona rural donde vivían en Idaho a Salt Lake City. Fui al hospital y Ben me explicó las graves complicaciones cardíacas que ponían en riesgo la vida de su bebé. Pusimos las manos sobre la cabecita de Trey y el Señor lo bendijo alargándole la vida.<\/p>\n<p data-aid=\"162980447\" id=\"p_yGHNd\">Trey se sometió a una cirugía de corazón durante la primera semana de vida y a otras operaciones posteriores. Con el paso de los años, resultó evidente que Trey necesitaría un trasplante de corazón. Si bien su actividad física estaba limitada, su fe aumentó. Él escribió: \u201cNunca he sentido lástima por mí mismo porque siempre he sabido de la importancia de tener fe en Jesucristo y un testimonio del Plan de Salvación\u201d.<\/p>\n<img alt=\"Trey Andersen\" id=\"img_ydwT7\" src=\"https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/500%2C/0/default\" data-img-id=\"48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk\" srcset=\"https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/640%2C/0/default 640w\" data-assetId=\"48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"749\" data-aspect-ratio=\"0.6675567423230975\"/>\n<p data-aid=\"162980450\" id=\"p_w7ZMZ\">Trey guardó en su teléfono esta cita muy conocida del presidente Russell M. Nelson: \u201cEl gozo que sentimos tiene poco que ver con las circunstancias de nuestra vida, y todo que ver con el enfoque de nuestra vida\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<img alt=\"Trey Andersen\" id=\"img_gYodt\" src=\"https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/500%2C/0/default\" data-img-id=\"ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg\" srcset=\"https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/640%2C/0/default 640w\" data-assetId=\"ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"484\" data-aspect-ratio=\"1.0330578512396693\"/>\n<p data-aid=\"162980452\" id=\"p_hOAOT\">Trey escribió: \u201cSiempre he tenido un gran deseo de servir en una misión de tiempo completo, pero [\u2026] los médicos no me permitirán hacerlo hasta que pase al menos un año después de mi trasplante [\u2026]. He puesto mi fe en Jesucristo\u201d.<\/p>\n<p data-aid=\"162980454\" id=\"p_nj0Gq\">Trey se alegró mucho de haber sido aceptado para estudiar contaduría en BYU a partir de este semestre, pero se alegró mucho más a finales de julio, al recibir la llamada que tanto había esperado, para que fuera al hospital a recibir su trasplante de corazón.<\/p>\n<p data-aid=\"162980455\" id=\"p_cNP4a\">\u201cUn año\u201d, dijo Trey, \u201cy estaré en la misión\u201d.<\/p>\n<p data-aid=\"162980458\" id=\"p_c99Af\">Había grandes expectativas al entrar en el quirófano; sin embargo, durante la cirugía se produjeron complicaciones devastadoras y Trey nunca recuperó la consciencia.<\/p>\n<p data-aid=\"162980460\" id=\"p_rQEMQ\">Su madre, Robbie, dijo: \u201cEl viernes fue el día más desolador [\u2026], simplemente intentando asimilarlo todo. [\u2026] Me quedé despierta hasta tarde intentando procesarlo todo. [\u2026] Pero el sábado me levanté con un sentimiento de gozo absoluto. No era solo paz; no era negación: sentí gozo por mi hijo y sentí gozo como madre suya. [\u2026] Ben se había levantado mucho antes que yo, y cuando finalmente pudimos hablar, él se había despertado exactamente con el mismo sentimiento\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<img alt=\"Robbie y Ben Andersen\" id=\"img_efugF\" src=\"https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/500%2C/0/default\" data-img-id=\"d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9\" srcset=\"https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/640%2C/0/default 640w\" data-assetId=\"d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"668\" data-aspect-ratio=\"0.7485029940119761\"/>\n<p data-aid=\"162980461\" id=\"p_mcnVg\">Ben explicó: \u201cLa claridad llegó a mi alma cuando Dios me enseñó por medio de Su Santo Espíritu. Me desperté a las cuatro de la madrugada, lleno de una paz y un gozo indescriptibles. ¿Cómo es esto posible? [\u2026] El fallecimiento de Trey es muy doloroso y lo echo muchísimo de menos, pero el Señor no nos dejará desconsolados. [\u2026] Anhelo una futura reunión llena de gozo\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162980463\" id=\"p_xRwlY\">La promesa de esperanza<\/h2>\n<\/header>\n<p data-aid=\"162980465\" id=\"p_bBeHp\">Trey había escrito en su diario estas palabras de un discurso de conferencia general del presidente Nelson: \u201cNo parece posible sentir gozo cuando un hijo padece una enfermedad incurable, o cuando perdemos el empleo, o cuando nuestro cónyuge nos traiciona. Sin embargo, ese es precisamente el gozo que brinda el Salvador. Su gozo es constante, asegurándonos que nuestras \u2018aflicciones no serán más que por un breve momento\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 121:7<\/a>] y que serán consagradas para nuestro provecho\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162980467\" id=\"p_jSZqp\">Hermanos y hermanas, la paz que buscan quizá no llegue con la rapidez que desean, pero les prometo que, si confían en el Señor, Su paz llegará.<\/p>\n<p data-aid=\"162980468\" id=\"p_zFCbB\">Nutramos nuestra preciosa fe, siguiendo adelante con un fulgor perfecto de esperanza<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>. Testifico que nuestra esperanza es nuestro Salvador Jesucristo. Por medio de Él, todos nuestros deseos justos llegarán a cumplirse. Él es el Dios de la esperanza, el triunfo de la esperanza. Él vive y los ama. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162980470\" id=\"p_sCsjL\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162980472\" id=\"p_p622W\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p37#p37\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162980474\" id=\"p_oJ8Mz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p8#p8\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, págs. 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162980476\" id=\"p_v6fL4\">\u201c¿Se han fijado en que en las Escrituras la esperanza rara vez aparece sola? La esperanza a menudo está relacionada con la fe, y la esperanza y la fe se conectan habitualmente con la caridad. ¿Por qué? Porque la esperanza es esencial para la fe, la fe es esencial para la esperanza y la fe y la esperanza son esenciales para la caridad (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p13#p13\">1 Corintios 13:13<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p24#p24\">Alma 7:24<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p28#p28\">Éter 12:28<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 4:5<\/a>). Se apoyan entre sí como las tres patas de un taburete y las tres están relacionadas con nuestro Redentor.<\/p>\n<p data-aid=\"162980478\" id=\"p_h8qYZ\">\u201cLa <em>fe<\/em> [se arraiga en] Jesucristo. La <em>esperanza<\/em> se centra en Su Expiación. La <em>caridad<\/em> se manifiesta en \u2018el amor puro de Cristo\u2019 (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>). Estos tres atributos están entrelazados como las hebras de un cable y quizá no siempre se distingan claramente, pero juntos se convierten en nuestra conexión con el Reino Celestial\u201d (véase Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope\">A More Excellent Hope<\/a>\u201d, devocional en la Universidad Brigham Young, 8 de enero de 1995, pág. 3, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162980480\" id=\"p_eh4zq\">Temas y preguntas, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/hope?lang=spa&amp;id=p1#p1\">Esperanza<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162980482\" id=\"p_rApZW\">\u201cDe modo que los que creen en Dios pueden tener la firme esperanza de un mundo mejor, [\u2026] aun un lugar a la diestra de Dios; y esta esperanza viene por la fe, proporciona un ancla a las almas de los hombres y los hace seguros y firmes\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4\">Éter 12:4<\/a>).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162980484\" id=\"p_o8QMO\">El élder Dieter F. Uchtdorf dijo: \u201cPermítanme reconocer que la depresión y otros desafíos mentales y emocionales difíciles son reales, y la respuesta no es simplemente \u2018intentar ser más feliz\u2019. Mi propósito hoy no es minimizar ni quitar importancia a los problemas de salud mental. Si se enfrentan a tales desafíos, sepan que siento su dolor y que cuentan con mi apoyo. Para algunas personas, la búsqueda del gozo puede incluir la ayuda de profesionales de la salud mental capacitados que dedican su vida a practicar su muy importante arte, y deberíamos estar agradecidos por esa ayuda\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/35uchtdorf?lang=spa&amp;id=p13#p13\">Un gozo más elevado<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 66).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162980485\" id=\"p_hiqek\">Nuestro Padre Celestial ha dicho que Su obra y Su gloria es llevar a cabo nuestra vida eterna (véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39\">Moisés 1:39<\/a>).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162980487\" id=\"p_ep9CQ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa\">Moisés 5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162980489\" id=\"p_muajM\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p10#p10\">Moisés 5:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162980491\" id=\"p_ksCqa\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p11#p11\">Moisés 5:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162980493\" id=\"p_y2C5T\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p9#p9\">Moisés 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162980495\" id=\"p_jmkq1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27\">Juan 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162980498\" id=\"p_pltNU\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=spa&amp;id=p33#p33\">Juan 16:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162980500\" id=\"p_tNlqi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42\">Lucas 22:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162980502\" id=\"p_l5DFb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162980505\" id=\"p_dh63u\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=spa&amp;id=p12#p12\">Romanos 12:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162980507\" id=\"p_gH0Fb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162980509\" id=\"p_n5oxp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=spa&amp;id=p5#p5\">Mormón 8:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162980511\" id=\"p_yryx1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/1?lang=spa&amp;id=p1#p1\">Moroni 1:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162980513\" id=\"p_zZSYO\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p42#p42\">Moroni 7:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162980515\" id=\"p_qwlXk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41\">Moroni 7:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162980517\" id=\"p_nLGZ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=spa&amp;id=p1#p1\">Hebreos 11:1<\/a>. En la Traducción de José Smith leemos que \u201cla fe es la <em>certeza<\/em> de las cosas que se esperan, la evidencia de las cosas que no se ven\u201d (en el Apéndice de la Biblia). Vemos la certeza de nuestra fe en las bendiciones que llegan a aquellos que guardan los convenios que han hecho con el Señor.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162980519\" id=\"p_zhmRm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14\">El gozo y la supervivencia espiritual<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, pág. 82.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162980521\" id=\"p_bxMXI\">Discurso pronunciado por Robbie Andersen en el funeral de su hijo, Trey Andersen, el 12 de agosto de 2024. Trey se sometió a una operación quirúrgica el 31 de julio de 2024 y falleció el 3 de agosto de 2024.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162980522\" id=\"p_uSEAI\">Discurso pronunciado por Ben Andersen en el funeral de su hijo, Trey Andersen, el 12 de agosto de 2024.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162980523\" id=\"p_lxb82\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p17#p17\">El gozo y la supervivencia espiritual<\/a>\u201d, noviembre de 2016, pág. 82.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162980524\" id=\"p_mSpHx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>. La esperanza de la que habla Nefi es perfecta y fulgurante porque está centrada en Cristo. Él es perfecto, y Su Expiación, que ofrece esta esperanza llena de fulgor, también es perfecta.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162975376",
+        "id": "note4",
+        "text": "<p data-aid=\"162980480\" id=\"p_eh4zq\">Temas y preguntas, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/hope?lang=spa&amp;id=p1#p1\">Esperanza<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/gospel-topics/hope?lang=spa&amp;id=p1#p1",
+          "text": "Esperanza",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162980381",
+        "id": "note5",
+        "text": "<p data-aid=\"162980482\" id=\"p_rApZW\">\u201cDe modo que los que creen en Dios pueden tener la firme esperanza de un mundo mejor, [\u2026] aun un lugar a la diestra de Dios; y esta esperanza viene por la fe, proporciona un ancla a las almas de los hombres y los hace seguros y firmes\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4\">Éter 12:4<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p4#p4",
+          "text": "Éter 12:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162975373",
+        "id": "note2",
+        "text": "<p data-aid=\"162980474\" id=\"p_oJ8Mz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p8#p8\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, págs. 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p8#p8",
+          "text": "Verdad pura, doctrina pura y revelación pura",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162975375",
+        "id": "note3",
+        "text": "<p data-aid=\"162980476\" id=\"p_v6fL4\">\u201c¿Se han fijado en que en las Escrituras la esperanza rara vez aparece sola? La esperanza a menudo está relacionada con la fe, y la esperanza y la fe se conectan habitualmente con la caridad. ¿Por qué? Porque la esperanza es esencial para la fe, la fe es esencial para la esperanza y la fe y la esperanza son esenciales para la caridad (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p13#p13\">1 Corintios 13:13<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p24#p24\">Alma 7:24<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p28#p28\">Éter 12:28<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 4:5<\/a>). Se apoyan entre sí como las tres patas de un taburete y las tres están relacionadas con nuestro Redentor.<\/p>\n<p data-aid=\"162980478\" id=\"p_h8qYZ\">\u201cLa <em>fe<\/em> [se arraiga en] Jesucristo. La <em>esperanza<\/em> se centra en Su Expiación. La <em>caridad<\/em> se manifiesta en \u2018el amor puro de Cristo\u2019 (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>). Estos tres atributos están entrelazados como las hebras de un cable y quizá no siempre se distingan claramente, pero juntos se convierten en nuestra conexión con el Reino Celestial\u201d (véase Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope\">A More Excellent Hope<\/a>\u201d, devocional en la Universidad Brigham Young, 8 de enero de 1995, pág. 3, speeches.byu.edu).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p13#p13",
+            "text": "1 Corintios 13:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p24#p24",
+            "text": "Alma 7:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p28#p28",
+            "text": "Éter 12:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/4?lang=spa&amp;id=p5#p5",
+            "text": "Doctrina y Convenios 4:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47",
+            "text": "Moroni 7:47",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope",
+            "text": "A More Excellent Hope"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162980390",
+        "id": "note8",
+        "text": "<p data-aid=\"162980487\" id=\"p_ep9CQ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa\">Moisés 5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=spa",
+          "text": "Moisés 5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162980390",
+        "id": "note9",
+        "text": "<p data-aid=\"162980489\" id=\"p_muajM\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p10#p10\">Moisés 5:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=spa&amp;id=p10#p10",
+          "text": "Moisés 5:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162980383",
+        "id": "note6",
+        "text": "<p data-aid=\"162980484\" id=\"p_o8QMO\">El élder Dieter F. Uchtdorf dijo: \u201cPermítanme reconocer que la depresión y otros desafíos mentales y emocionales difíciles son reales, y la respuesta no es simplemente \u2018intentar ser más feliz\u2019. Mi propósito hoy no es minimizar ni quitar importancia a los problemas de salud mental. Si se enfrentan a tales desafíos, sepan que siento su dolor y que cuentan con mi apoyo. Para algunas personas, la búsqueda del gozo puede incluir la ayuda de profesionales de la salud mental capacitados que dedican su vida a practicar su muy importante arte, y deberíamos estar agradecidos por esa ayuda\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/35uchtdorf?lang=spa&amp;id=p13#p13\">Un gozo más elevado<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 66).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/35uchtdorf?lang=spa&amp;id=p13#p13",
+          "text": "Un gozo más elevado",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162980389",
+        "id": "note7",
+        "text": "<p data-aid=\"162980485\" id=\"p_hiqek\">Nuestro Padre Celestial ha dicho que Su obra y Su gloria es llevar a cabo nuestra vida eterna (véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39\">Moisés 1:39<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39",
+          "text": "Moisés 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162980400",
+        "id": "note16",
+        "text": "<p data-aid=\"162980505\" id=\"p_dh63u\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=spa&amp;id=p12#p12\">Romanos 12:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/12?lang=spa&amp;id=p12#p12",
+          "text": "Romanos 12:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162980400",
+        "id": "note15",
+        "text": "<p data-aid=\"162980502\" id=\"p_l5DFb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13",
+          "text": "Romanos 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162980398",
+        "id": "note14",
+        "text": "<p data-aid=\"162980500\" id=\"p_tNlqi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42\">Lucas 22:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42",
+          "text": "Lucas 22:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162980396",
+        "id": "note13",
+        "text": "<p data-aid=\"162980498\" id=\"p_pltNU\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=spa&amp;id=p33#p33\">Juan 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16?lang=spa&amp;id=p33#p33",
+          "text": "Juan 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162980395",
+        "id": "note12",
+        "text": "<p data-aid=\"162980495\" id=\"p_jmkq1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27\">Juan 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27",
+          "text": "Juan 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162980392",
+        "id": "note11",
+        "text": "<p data-aid=\"162980493\" id=\"p_y2C5T\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p9#p9\">Moisés 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=spa&amp;id=p9#p9",
+          "text": "Moisés 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162980390",
+        "id": "note10",
+        "text": "<p data-aid=\"162980491\" id=\"p_ksCqa\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=spa&amp;id=p11#p11\">Moisés 5:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=spa&amp;id=p11#p11",
+          "text": "Moisés 5:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162980408",
+        "id": "note19",
+        "text": "<p data-aid=\"162980511\" id=\"p_yryx1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/1?lang=spa&amp;id=p1#p1\">Moroni 1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/1?lang=spa&amp;id=p1#p1",
+          "text": "Moroni 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162980406",
+        "id": "note18",
+        "text": "<p data-aid=\"162980509\" id=\"p_n5oxp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=spa&amp;id=p5#p5\">Mormón 8:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/8?lang=spa&amp;id=p5#p5",
+          "text": "Mormón 8:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162980400",
+        "id": "note17",
+        "text": "<p data-aid=\"162980507\" id=\"p_gH0Fb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13\">Romanos 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/15?lang=spa&amp;id=p13#p13",
+          "text": "Romanos 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162980468",
+        "id": "note27",
+        "text": "<p data-aid=\"162980524\" id=\"p_mSpHx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>. La esperanza de la que habla Nefi es perfecta y fulgurante porque está centrada en Cristo. Él es perfecto, y Su Expiación, que ofrece esta esperanza llena de fulgor, también es perfecta.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20",
+          "text": "2 Nefi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162980465",
+        "id": "note26",
+        "text": "<p data-aid=\"162980523\" id=\"p_lxb82\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p17#p17\">El gozo y la supervivencia espiritual<\/a>\u201d, noviembre de 2016, pág. 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p17#p17",
+          "text": "El gozo y la supervivencia espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162980461",
+        "id": "note25",
+        "text": "<p data-aid=\"162980522\" id=\"p_uSEAI\">Discurso pronunciado por Ben Andersen en el funeral de su hijo, Trey Andersen, el 12 de agosto de 2024.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162980460",
+        "id": "note24",
+        "text": "<p data-aid=\"162980521\" id=\"p_bxMXI\">Discurso pronunciado por Robbie Andersen en el funeral de su hijo, Trey Andersen, el 12 de agosto de 2024. Trey se sometió a una operación quirúrgica el 31 de julio de 2024 y falleció el 3 de agosto de 2024.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162980450",
+        "id": "note23",
+        "text": "<p data-aid=\"162980519\" id=\"p_zhmRm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14\">El gozo y la supervivencia espiritual<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2016, pág. 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14",
+          "text": "El gozo y la supervivencia espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162980415",
+        "id": "note22",
+        "text": "<p data-aid=\"162980517\" id=\"p_nLGZ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=spa&amp;id=p1#p1\">Hebreos 11:1<\/a>. En la Traducción de José Smith leemos que \u201cla fe es la <em>certeza<\/em> de las cosas que se esperan, la evidencia de las cosas que no se ven\u201d (en el Apéndice de la Biblia). Vemos la certeza de nuestra fe en las bendiciones que llegan a aquellos que guardan los convenios que han hecho con el Señor.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/11?lang=spa&amp;id=p1#p1",
+          "text": "Hebreos 11:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162980413",
+        "id": "note21",
+        "text": "<p data-aid=\"162980515\" id=\"p_qwlXk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41\">Moroni 7:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41",
+          "text": "Moroni 7:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162980411",
+        "id": "note20",
+        "text": "<p data-aid=\"162980513\" id=\"p_zZSYO\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p42#p42\">Moroni 7:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p42#p42",
+          "text": "Moroni 7:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162975371",
+        "id": "note1",
+        "text": "<p data-aid=\"162980472\" id=\"p_p622W\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p37#p37\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p37#p37",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

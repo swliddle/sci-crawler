@@ -1,0 +1,628 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/52wada?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "e03c885b28d349a69a75513501d839de",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/52wada",
+      "data-aid": "162706649",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "b6c1807c62ea4b159866e88a5401cc18"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/3cd8d057842211efae28022e7e432ed94d46e443/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/0b0c2db580fe11ef91a7063a8fac2bb34aaa67b6-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Las palabras de Cristo y el Espíritu Santo nos conducirán a la verdad",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162706649",
+      {"key": "162706649"}
+    ],
+    [
+      "163004011",
+      {"key": "163004011"}
+    ],
+    [
+      "163004036",
+      {"key": "163004036"}
+    ],
+    [
+      "163004074",
+      {"key": "163004074"}
+    ],
+    [
+      "163004116",
+      {"key": "163004116"}
+    ],
+    [
+      "163004158",
+      {"key": "163004158"}
+    ],
+    [
+      "163004199",
+      {"key": "163004199"}
+    ],
+    [
+      "163004240",
+      {"key": "163004240"}
+    ],
+    [
+      "163004271",
+      {"key": "163004271"}
+    ],
+    [
+      "163004330",
+      {"key": "163004330"}
+    ],
+    [
+      "163004370",
+      {"key": "163004370"}
+    ],
+    [
+      "163004410",
+      {"key": "163004410"}
+    ],
+    [
+      "163004451",
+      {"key": "163004451"}
+    ],
+    [
+      "163004480",
+      {"key": "163004480"}
+    ],
+    [
+      "163004521",
+      {"key": "163004521"}
+    ],
+    [
+      "163004561",
+      {"key": "163004561"}
+    ],
+    [
+      "163004604",
+      {"key": "163004604"}
+    ],
+    [
+      "163004648",
+      {"key": "163004648"}
+    ],
+    [
+      "163004692",
+      {"key": "163004692"}
+    ],
+    [
+      "163004730",
+      {"key": "163004730"}
+    ],
+    [
+      "163004774",
+      {"key": "163004774"}
+    ],
+    [
+      "163004817",
+      {"key": "163004817"}
+    ],
+    [
+      "163004862",
+      {"key": "163004862"}
+    ],
+    [
+      "163004905",
+      {"key": "163004905"}
+    ],
+    [
+      "163004950",
+      {"key": "163004950"}
+    ],
+    [
+      "163004995",
+      {"key": "163004995"}
+    ],
+    [
+      "163005038",
+      {"key": "163005038"}
+    ],
+    [
+      "163005091",
+      {"key": "163005091"}
+    ],
+    [
+      "163005135",
+      {"key": "163005135"}
+    ],
+    [
+      "163005180",
+      {"key": "163005180"}
+    ],
+    [
+      "163005216",
+      {"key": "163005216"}
+    ],
+    [
+      "163005259",
+      {"key": "163005259"}
+    ],
+    [
+      "163005301",
+      {"key": "163005301"}
+    ],
+    [
+      "163005346",
+      {"key": "163005346"}
+    ],
+    [
+      "163005390",
+      {"key": "163005390"}
+    ],
+    [
+      "163005434",
+      {"key": "163005434"}
+    ],
+    [
+      "163005482",
+      {"key": "163005482"}
+    ],
+    [
+      "163005526",
+      {"key": "163005526"}
+    ],
+    [
+      "163005567",
+      {"key": "163005567"}
+    ],
+    [
+      "163005610",
+      {"key": "163005610"}
+    ],
+    [
+      "163005653",
+      {"key": "163005653"}
+    ],
+    [
+      "163005696",
+      {"key": "163005696"}
+    ],
+    [
+      "163005739",
+      {"key": "163005739"}
+    ],
+    [
+      "163005782",
+      {"key": "163005782"}
+    ],
+    [
+      "163005824",
+      {"key": "163005824"}
+    ],
+    [
+      "163005867",
+      {"key": "163005867"}
+    ],
+    [
+      "163005910",
+      {"key": "163005910"}
+    ],
+    [
+      "163005952",
+      {"key": "163005952"}
+    ],
+    [
+      "163005992",
+      {"key": "163005992"}
+    ],
+    [
+      "163006035",
+      {"key": "163006035"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/52wada",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Wada enseña cómo el deleitarnos en las palabras de Cristo y escuchar al Espíritu nos conducirá a la vida eterna.",
+          "title": "Las palabras de Cristo y el Espíritu Santo nos conducirán a la verdad"
+        },
+        "pageSocial": {
+          "description": "El élder Wada enseña cómo el deleitarnos en las palabras de Cristo y escuchar al Espíritu nos conducirá a la vida eterna.",
+          "title": "Las palabras de Cristo y el Espíritu Santo nos conducirán a la verdad"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/3cd8d057842211efae28022e7e432ed94d46e443/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/3cd8d057842211efae28022e7e432ed94d46e443/full/!192%2C/0/default\" data-video-id=\"6362920028112\" data-duration=\"606566\" data-assetId=\"7bfabb6e7f6b11ef9c8c0626c361eb55d2d86902\" data-ref-id=\"7bfabb6e7f6b11ef9c8c0626c361eb55d2d86902\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362920028112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"146950699\"/><source src=\"https://assets.churchofjesuschrist.org/7bfabb6e7f6b11ef9c8c0626c361eb55d2d86902-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"31005813\"/><source src=\"https://assets.churchofjesuschrist.org/7bfabb6e7f6b11ef9c8c0626c361eb55d2d86902-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"56445562\"/><source src=\"https://assets.churchofjesuschrist.org/7bfabb6e7f6b11ef9c8c0626c361eb55d2d86902-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"146950699\"/><\/video><h1 data-aid=\"163004011\" id=\"p_maQbQ\">Las palabras de Cristo y el Espíritu Santo nos conducirán a la verdad<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"163004036\" id=\"p_c137M\">Por el élder Takashi Wada<\/p>\n<p class=\"author-role\" data-aid=\"163004074\" id=\"p_gKvP6\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"163004116\" id=\"p_hda6g\">Conocer este increíble plan nos ayudará a saber que somos hijos de Dios y que podemos llegar a ser como Él.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"163004158\" id=\"p_hExFi\">Dios es nuestro Padre Celestial<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. Somos Sus hijos procreados como espíritus y hemos sido creados a Su imagen<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. Por lo tanto, cada uno de nosotros, como hijos de Dios, tiene un potencial divino para llegar a ser como Él.<\/p>\n<p data-aid=\"163004199\" id=\"p_rXumP\">Antes de venir a esta tierra, vivíamos con Él en forma de espíritus<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. El Padre Celestial, siendo el Padre de nuestros espíritus, nos ama, quiere lo mejor para nosotros y preparó un plan para que recibamos Sus mayores bendiciones, que son la inmortalidad y la vida eterna<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. Según el plan, como hijos procreados como espíritus, se nos daría el albedrío para elegir Su plan<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. Al venir a la tierra dejaríamos la presencia de Dios, olvidaríamos nuestra vida preterrenal, recibiríamos cuerpos de carne y hueso, adquiriríamos nuestra propia experiencia y desarrollaríamos la fe<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Con nuestro cuerpo de carne y hueso, como hombres naturales, sucumbiríamos a la tentación, nos volveríamos impuros y distantes de Dios, y no podríamos volver a Su santa presencia. Debido al infinito amor del Padre Celestial por nosotros, Él envió a Su Hijo Primogénito, Jesucristo, para ser nuestro Salvador. Mediante Su sacrificio, la Expiación, Jesucristo hizo posible que fuéramos redimidos de nuestros pecados, resucitáramos y recibiéramos la vida eterna<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163004240\" id=\"p_cJSbF\">Estoy sumamente agradecido por estas gloriosas verdades: lo que llamamos el Plan de Salvación del Padre, Su plan de misericordia o Su gran plan de felicidad. Aprender estas importantes verdades me ha ayudado a conocer mi verdadera identidad y las grandes bendiciones de la exaltación y vida eterna que Dios ha preparado para nosotros. El profeta Nefi nos enseñó el camino: \u201cPor tanto [\u2026]: Deleitaos en las palabras de Cristo; porque he aquí, las palabras de Cristo os dirán todas las cosas que debéis hacer\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. Y agregó: \u201cSi entráis por la senda y recibís el Espíritu Santo, él os mostrará todas las cosas que debéis hacer\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Hoy me gustaría compartir cómo las palabras de Cristo y el Espíritu Santo me ayudaron en mis años de adolescencia a encontrar estas importantes verdades que dan paz<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<section id=\"sec_a0epw\">\n<header>\n<h2 data-aid=\"163004271\" id=\"p_n8JIW\">Las palabras de Cristo les dirán todas las cosas que deben hacer<\/h2>\n<\/header>\n<p data-aid=\"163004330\" id=\"p_oXU4K\">Así como Nefi declaró en el versículo inicial del libro de 1 Nefi, también yo \u201cnací de buenos padres\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Crecí en Nagano, Japón, en un hogar donde se alentaba mucho la honradez, la diligencia y la humildad, y se seguía estrictamente la conformidad con las viejas costumbres. Mi padre era un hombre muy religioso. Lo observaba orar ante los altares sintoísta y budista cada mañana y noche. Aunque no tenía ni idea de a quién rezaba ni por qué, creía que algún tipo de poder invisible o Dios sería \u201cpoderoso para salvar[nos]\u201d o ayudarnos si rezábamos con sinceridad<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163004370\" id=\"p_oovbc\">Como otros adolescentes, pasé por muchas dificultades. Luchaba pensando que la vida era injusta y tenía muchos altibajos. Me sentía perdido, sin tener sentido de dirección en mi vida. La vida parecía muy efímera porque terminaría cuando yo muriera. La vida sin conocer el Plan de Salvación resultaba confusa.<\/p>\n<p data-aid=\"163004410\" id=\"p_vultd\">Poco después de empezar a aprender inglés en la escuela secundaria, todos los alumnos recibimos un ejemplar del Nuevo Testamento<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. Aunque apenas habíamos empezado a estudiar esa lengua, nuestro profesor nos dijo que debíamos estudiar inglés leyéndolo. Lo abrí y repasé su contenido. Las palabras del Nuevo Testamento me resultaban extremadamente difíciles. Las palabras en japonés eran igualmente difíciles. Sin embargo, me llamó la atención una lista de declaraciones y preguntas del alma que se había incluido justo antes del texto bíblico en esta Biblia de Gedeón: preguntas sobre sentirse solo, con falta de confianza, estar confundido, afrontar las pruebas de la vida, etc. Cada punto de la lista iba seguido de una referencia a versículos y páginas del Nuevo Testamento. Me atrajo especialmente la declaración: \u201cCuando estés agotado\u201d. La referencia me llevó a abrir <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=spa&amp;id=p28-p30#p28\">Mateo 11:28\u201330<\/a>, donde Jesús dijo a Sus discípulos:<\/p>\n<p data-aid=\"163004451\" id=\"p_pHH5j\">\u201cVenid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.<\/p>\n<p data-aid=\"163004480\" id=\"p_jDMju\">\u201cLlevad mi yugo sobre vosotros y aprended de mí, que soy manso y humilde de corazón, y hallaréis descanso para vuestras almas.<\/p>\n<p data-aid=\"163004521\" id=\"p_cpI8g\">\u201cPorque mi yugo es fácil y ligera mi carga\u201d.<\/p>\n<p data-aid=\"163004561\" id=\"p_hy1Qm\">Esta fue la primera vez que recuerdo haber leído las palabras de Jesucristo. Aunque no entendía todo lo que decía, Sus palabras me consolaban, elevaban mi alma y me daban esperanza. Cuanto más leía Sus palabras, más sentía que debía probar la virtud de Sus palabras<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Nunca antes me había sentido como me sentí aquel día. Me sentí amado. Sentí que Jesucristo era alguien a quien conocía.<\/p>\n<p data-aid=\"163004604\" id=\"p_g50iP\">Mientras seguía estudiando, sentí como si Él me hablara directamente cuando dijo: \u201cBienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163004648\" id=\"p_gY3pR\">Sus palabras llenaron mi corazón, aunque en aquel entonces no era capaz de describir bien mis sentimientos. Si bien Jesucristo vivió hace muchos siglos en una tierra desconocida para mí, pensé que podía confiar en Sus palabras con todo mi corazón. Tenía la esperanza de que algún día futuro aprendería más sobre Jesucristo.<\/p>\n<\/section>\n<section id=\"sec_t2Mhn\">\n<header>\n<h2 data-aid=\"163004692\" id=\"p_zkARa\">El Espíritu Santo les mostrará todo lo que deben hacer<\/h2>\n<\/header>\n<p data-aid=\"163004730\" id=\"p_qkzRd\">Ese algún día llegó unos pocos años después. Conocí a misioneros muy dedicados, jóvenes y de tiempo completo de La Iglesia de Jesucristo de los Santos de los Últimos Días, y pronto conocí a un pequeño grupo de amables y alegres Santos de los Últimos Días que se esforzaban por seguir a Jesucristo. A pesar de que me llevó un tiempo confiar plenamente en ellos, llegué a ver en el Evangelio restaurado lo que anhelaba cuando estudiaba el Nuevo Testamento: las palabras de Jesucristo y la esperanza y la paz que emanan de ellas.<\/p>\n<p data-aid=\"163004774\" id=\"p_aokRf\">Una experiencia especialmente sagrada sucedió cuando los misioneros me enseñaron a orar. Aprendí que debemos dirigirnos a Dios por Su nombre. Cuando oramos, debemos hablar con el corazón, expresar nuestra gratitud y compartir nuestras esperanzas y deseos<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Una vez que hemos dicho todo lo que queríamos decir, terminamos la oración diciendo: \u201cEn el nombre de Jesucristo. Amén\u201d. Lo hacemos así porque Jesús nos mandó orar en Su nombre<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Orar al Padre Celestial me ayudó a saber quién es Él y mi relación con Él: que yo era Su amado hijo procreado como espíritu. Aprendí que, dado que el Padre Celestial me conoce y me ama, Él me hablaría personalmente, de manera única y en formas que yo entendería a través del Espíritu Santo<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163004817\" id=\"p_s5zkd\">Hubo un tiempo en el que realmente no lograba reconocer al Espíritu Santo. Había entendido mal y pensaba que lo único que tenía que hacer era seguir los pasos de la oración y que entonces sucedería algo dramático. Un día, durante una lección con los misioneros, salí de la lección para tomar un descanso. Todavía estaba confundido sobre lo que debía hacer con mi vida si el Evangelio restaurado de Jesucristo realmente era verdadero.<\/p>\n<p data-aid=\"163004862\" id=\"p_eDQMF\">Cuando estaba a punto de volver al cuarto donde me esperaban los misioneros, oí la voz de uno de ellos. Oí mi nombre. En lugar de abrir la puerta, escuché la voz al otro lado de la puerta. Me quedé atónito. Simplemente estaban orando al Padre Celestial. El que oraba suplicaba a Dios que escuchara mi oración. Aunque su japonés no era fluido, oír su sincera oración me enterneció el corazón<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. Me preguntaba por qué se preocupaban tanto por mí. Entonces me di cuenta de que su oración por mí era un reflejo del amor que el Padre Celestial y el Salvador sentían por mí. Ese amor me dio esperanza y, después le pedí a Dios con fe y con verdadera intención. Cuando lo hice, sentí la alegría y la paz de saber que era hijo de Dios y que tenía un potencial y un destino divinos. El Plan de Salvación penetró mi corazón<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163004905\" id=\"p_zlzcC\">El presidente Russell M. Nelson dijo: \u201cLa manera en la que piensan sobre quiénes son realmente ustedes afecta a casi toda decisión que tomarán\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Eso es muy cierto para mí. La decisión de seguir al Salvador Jesucristo al ser bautizado y recibir el don del Espíritu Santo bendijo mi vida más de lo que jamás imaginé. Al entrar en el convenio del bautismo con Dios prometemos que estamos dispuestos a tomar sobre nosotros el nombre de Jesucristo, guardar los mandamientos de Dios y servirle por el resto de nuestra vida<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Nuestro Padre Celestial, a Su vez, nos promete que siempre podremos tener Su Espíritu con nosotros: la guía continua del Espíritu Santo.<\/p>\n<p data-aid=\"163004950\" id=\"p_lxVlD\">Los invito a tener fe en el mensaje que Nefi nos enseñó de que las palabras de Cristo y el Espíritu Santo los dirigirán hacia \u201ctodas las cosas que deb[en] hacer\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. ¡Todas! Este es un increíble don de Dios.<\/p>\n<p data-aid=\"163004995\" id=\"p_opYtO\">Hermanos y hermanas, estoy agradecido por el plan de salvación de nuestro Padre Celestial. Porque Él nos ama, preparó el camino para regresar a Su presencia a través de Su Hijo Unigénito, Jesucristo. Conocer este increíble plan nos ayudará a saber que somos hijos de Dios y que podemos llegar a ser como Él. Estoy agradecido por esta importante verdad. Les doy mi testimonio de que las palabras de Jesucristo y el Espíritu Santo nos guiarán para recibir la vida eterna. Sé que estas cosas son verdaderas. En el sagrado nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163005038\" id=\"p_wh7Bw\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163005091\" id=\"p_vt0W8\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17?lang=spa&amp;id=p29#p29\">Hechos 17:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p16#p16\">Romanos 8:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=spa&amp;id=p9#p9\">Hebreos 12:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p24#p24\">Doctrina y Convenios 76:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163005135\" id=\"p_xGucr\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=spa&amp;id=p26-p27#p26\">Génesis 1:26\u201327<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2?lang=spa&amp;id=p27#p27\">Moisés 2:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163005180\" id=\"p_sLbo6\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/1?lang=spa&amp;id=p5#p5\">Jeremías 1:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 93:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p23#p22\">Abraham 3:22\u201323<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163005216\" id=\"p_mpvlw\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 14:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39\">Moisés 1:39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p24-p27#p24\">Abraham 3:24\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163005259\" id=\"p_qlWGq\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27\">2 Nefi 2:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p32#p32\">Moisés 7:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163005301\" id=\"p_uMfBm\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p25#p25\">Abraham 3:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163005346\" id=\"p_xupcL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p19-p20#p19\">1 Pedro 1:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/13?lang=spa&amp;id=p8#p8\">Apocalipsis 13:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4?lang=spa&amp;id=p2#p2\">Moisés 4:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p27#p27\">Abraham 3:27<\/a>; <a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p55#p55\"><cite>Predicad Mi Evangelio: Una guía para compartir el evangelio de Jesucristo<\/cite><\/a>, 2023, pág. 50; <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=title2#title2\">1.1<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163005390\" id=\"p_zQNvo\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163005434\" id=\"p_rQBpN\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">2 Nefi 32:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163005482\" id=\"p_orZzB\">\u201cAprende sabiduría en tu juventud\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=spa&amp;id=p35#p35\">Alma 37:35<\/a>).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163005526\" id=\"p_a3BZI\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p1#p1\">1 Nefi 1:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163005567\" id=\"p_sY0PU\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p18#p18\">Alma 34:18<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p17#p17\">versículo 17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163005610\" id=\"p_uqapb\">Biblia de Gedeón.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163005653\" id=\"p_z1rtv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5\">Alma 31:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163005696\" id=\"p_xVrx4\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p6#p6\">Mateo 5:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163005739\" id=\"p_hQ49y\">Véase \u201c<a href=\"https://www.churchofjesuschrist.org/comeuntochrist/believe/god/how-to-pray\">Cómo orar<\/a>\u201d, LaIglesiadeJesucristo.org.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163005782\" id=\"p_iBQFA\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p19-p20#p19\">3 Nefi 18:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163005824\" id=\"p_cenit\">Véase Camille N. Johnson, \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/the-savior-speaks-to-us-personally-uniquely-and-in-ways-we-will-understand\">The Savior Speaks to Us Personally, Uniquely, and in Ways We Will Understand<\/a>\u201d, <cite>Inspiration<\/cite>, blog, 15 de junio de 2022, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163005867\" id=\"p_f5G1Y\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16\">1 Nefi 2:16<\/a>. Obsérvese cómo se enterneció el corazón de Nefi después de clamar a Dios.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163005910\" id=\"p_pdcoo\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/19?lang=spa&amp;id=p11-p12#p11\">1 Reyes 19:11\u201312<\/a>: sentí la voz apacible y delicada llegar a mi mente y mi corazón; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16\">1 Nefi 2:16<\/a>: cómo Dios enterneció el corazón de Nefi cuando oró; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3\">Enós 1:3<\/a>: el gozo de los santos (el Evangelio) penetró mi corazón profundamente; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>: orar con verdadera intención.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163005952\" id=\"p_qsIA4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163005992\" id=\"p_wNxls\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p14#p13\">2 Nefi 31:13\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p10%2C13#p10\">Mosíah 18:8\u201310, 13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37\">Doctrina y Convenios 20:37<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"163006035\" id=\"p_nUIxd\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">versículo 5<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163004199",
+        "id": "note4",
+        "text": "<p data-aid=\"163005216\" id=\"p_mpvlw\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 14:7<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39\">Moisés 1:39<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p24-p27#p24\">Abraham 3:24\u201327<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7",
+            "text": "Doctrina y Convenios 14:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1?lang=spa&amp;id=p39#p39",
+            "text": "Moisés 1:39",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/3?lang=spa&amp;id=p24-p27#p24",
+            "text": "Abraham 3:24\u201327",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163004199",
+        "id": "note5",
+        "text": "<p data-aid=\"163005259\" id=\"p_qlWGq\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27\">2 Nefi 2:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p32#p32\">Moisés 7:32<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p27#p27",
+            "text": "2 Nefi 2:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/7?lang=spa&amp;id=p32#p32",
+            "text": "Moisés 7:32",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163004158",
+        "id": "note2",
+        "text": "<p data-aid=\"163005135\" id=\"p_xGucr\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=spa&amp;id=p26-p27#p26\">Génesis 1:26\u201327<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/2?lang=spa&amp;id=p27#p27\">Moisés 2:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/gen/1?lang=spa&amp;id=p26-p27#p26",
+            "text": "Génesis 1:26\u201327",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/2?lang=spa&amp;id=p27#p27",
+            "text": "Moisés 2:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163004199",
+        "id": "note3",
+        "text": "<p data-aid=\"163005180\" id=\"p_sLbo6\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/jer/1?lang=spa&amp;id=p5#p5\">Jeremías 1:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 93:23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p23#p22\">Abraham 3:22\u201323<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/jer/1?lang=spa&amp;id=p5#p5",
+            "text": "Jeremías 1:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p23#p23",
+            "text": "Doctrina y Convenios 93:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p23#p22",
+            "text": "Abraham 3:22\u201323",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163004240",
+        "id": "note8",
+        "text": "<p data-aid=\"163005390\" id=\"p_zQNvo\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163004240",
+        "id": "note9",
+        "text": "<p data-aid=\"163005434\" id=\"p_rQBpN\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">2 Nefi 32:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5",
+          "text": "2 Nefi 32:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163004199",
+        "id": "note6",
+        "text": "<p data-aid=\"163005301\" id=\"p_uMfBm\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p25#p25\">Abraham 3:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/3?lang=spa&amp;id=p25#p25",
+          "text": "Abraham 3:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163004199",
+        "id": "note7",
+        "text": "<p data-aid=\"163005346\" id=\"p_xupcL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p19-p20#p19\">1 Pedro 1:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rev/13?lang=spa&amp;id=p8#p8\">Apocalipsis 13:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/4?lang=spa&amp;id=p2#p2\">Moisés 4:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p27#p27\">Abraham 3:27<\/a>; <a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p55#p55\"><cite>Predicad Mi Evangelio: Una guía para compartir el evangelio de Jesucristo<\/cite><\/a>, 2023, pág. 50; <cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=title2#title2\">1.1<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p19-p20#p19",
+            "text": "1 Pedro 1:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rev/13?lang=spa&amp;id=p8#p8",
+            "text": "Apocalipsis 13:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/4?lang=spa&amp;id=p2#p2",
+            "text": "Moisés 4:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/3?lang=spa&amp;id=p27#p27",
+            "text": "Abraham 3:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p55#p55",
+            "text": "Predicad Mi Evangelio: Una guía para compartir el evangelio de Jesucristo",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=spa&amp;id=title2#title2",
+            "text": "1.1",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163004774",
+        "id": "note16",
+        "text": "<p data-aid=\"163005739\" id=\"p_hQ49y\">Véase \u201c<a href=\"https://www.churchofjesuschrist.org/comeuntochrist/believe/god/how-to-pray\">Cómo orar<\/a>\u201d, LaIglesiadeJesucristo.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/comeuntochrist/believe/god/how-to-pray",
+          "text": "Cómo orar"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163004604",
+        "id": "note15",
+        "text": "<p data-aid=\"163005696\" id=\"p_xVrx4\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p6#p6\">Mateo 5:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=spa&amp;id=p6#p6",
+          "text": "Mateo 5:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163004561",
+        "id": "note14",
+        "text": "<p data-aid=\"163005653\" id=\"p_z1rtv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5\">Alma 31:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/31?lang=spa&amp;id=p5#p5",
+          "text": "Alma 31:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163004410",
+        "id": "note13",
+        "text": "<p data-aid=\"163005610\" id=\"p_uqapb\">Biblia de Gedeón.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163004330",
+        "id": "note12",
+        "text": "<p data-aid=\"163005567\" id=\"p_sY0PU\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p18#p18\">Alma 34:18<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p17#p17\">versículo 17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p18#p18",
+            "text": "Alma 34:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p17#p17",
+            "text": "versículo 17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "163004950",
+        "id": "note23",
+        "text": "<p data-aid=\"163006035\" id=\"p_nUIxd\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">versículo 5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3",
+            "text": "2 Nefi 32:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5",
+            "text": "versículo 5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163004330",
+        "id": "note11",
+        "text": "<p data-aid=\"163005526\" id=\"p_a3BZI\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p1#p1\">1 Nefi 1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p1#p1",
+          "text": "1 Nefi 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163004905",
+        "id": "note22",
+        "text": "<p data-aid=\"163005992\" id=\"p_wNxls\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p14#p13\">2 Nefi 31:13\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p10%2C13#p10\">Mosíah 18:8\u201310, 13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37\">Doctrina y Convenios 20:37<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p14#p13",
+            "text": "2 Nefi 31:13\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p10%2C13#p10",
+            "text": "Mosíah 18:8\u201310, 13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p37#p37",
+            "text": "Doctrina y Convenios 20:37",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163004240",
+        "id": "note10",
+        "text": "<p data-aid=\"163005482\" id=\"p_orZzB\">\u201cAprende sabiduría en tu juventud\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=spa&amp;id=p35#p35\">Alma 37:35<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37?lang=spa&amp;id=p35#p35",
+          "text": "Alma 37:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163004905",
+        "id": "note21",
+        "text": "<p data-aid=\"163005952\" id=\"p_qsIA4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163004862",
+        "id": "note20",
+        "text": "<p data-aid=\"163005910\" id=\"p_pdcoo\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/1-kgs/19?lang=spa&amp;id=p11-p12#p11\">1 Reyes 19:11\u201312<\/a>: sentí la voz apacible y delicada llegar a mi mente y mi corazón; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16\">1 Nefi 2:16<\/a>: cómo Dios enterneció el corazón de Nefi cuando oró; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3\">Enós 1:3<\/a>: el gozo de los santos (el Evangelio) penetró mi corazón profundamente; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>: orar con verdadera intención.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/1-kgs/19?lang=spa&amp;id=p11-p12#p11",
+            "text": "1 Reyes 19:11\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16",
+            "text": "1 Nefi 2:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3",
+            "text": "Enós 1:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4",
+            "text": "Moroni 10:4",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163004158",
+        "id": "note1",
+        "text": "<p data-aid=\"163005091\" id=\"p_vt0W8\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/17?lang=spa&amp;id=p29#p29\">Hechos 17:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p16#p16\">Romanos 8:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=spa&amp;id=p9#p9\">Hebreos 12:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p24#p24\">Doctrina y Convenios 76:24<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/acts/17?lang=spa&amp;id=p29#p29",
+            "text": "Hechos 17:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/8?lang=spa&amp;id=p16#p16",
+            "text": "Romanos 8:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/heb/12?lang=spa&amp;id=p9#p9",
+            "text": "Hebreos 12:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p24#p24",
+            "text": "Doctrina y Convenios 76:24",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163004862",
+        "id": "note19",
+        "text": "<p data-aid=\"163005867\" id=\"p_f5G1Y\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16\">1 Nefi 2:16<\/a>. Obsérvese cómo se enterneció el corazón de Nefi después de clamar a Dios.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/2?lang=spa&amp;id=p16#p16",
+          "text": "1 Nefi 2:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163004774",
+        "id": "note18",
+        "text": "<p data-aid=\"163005824\" id=\"p_cenit\">Véase Camille N. Johnson, \u201c<a href=\"https://www.churchofjesuschrist.org/inspiration/the-savior-speaks-to-us-personally-uniquely-and-in-ways-we-will-understand\">The Savior Speaks to Us Personally, Uniquely, and in Ways We Will Understand<\/a>\u201d, <cite>Inspiration<\/cite>, blog, 15 de junio de 2022, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/inspiration/the-savior-speaks-to-us-personally-uniquely-and-in-ways-we-will-understand",
+          "text": "The Savior Speaks to Us Personally, Uniquely, and in Ways We Will Understand"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163004774",
+        "id": "note17",
+        "text": "<p data-aid=\"163005782\" id=\"p_iBQFA\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p19-p20#p19\">3 Nefi 18:19\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p19-p20#p19",
+          "text": "3 Nefi 18:19\u201320",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

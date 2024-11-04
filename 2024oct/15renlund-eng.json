@@ -1,0 +1,733 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/15renlund?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "030ea68606854513be30d7bcaa9f0884",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/15renlund",
+      "data-aid": "162704658",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "030ea68606854513be30d7bcaa9f0884"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/2c3c1f77833b11ef9b3a0626c361eb55b63860a2/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/8b18835d80ff11efae28022e7e432ed9e1ff687c-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cThis Is My Gospel\u201d\u2014\u201cThis Is My Church\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162704658",
+      {"key": "162704658"}
+    ],
+    [
+      "162704661",
+      {"key": "162704661"}
+    ],
+    [
+      "162704663",
+      {"key": "162704663"}
+    ],
+    [
+      "162704665",
+      {"key": "162704665"}
+    ],
+    [
+      "162704667",
+      {"key": "162704667"}
+    ],
+    [
+      "162704669",
+      {"key": "162704669"}
+    ],
+    [
+      "162704671",
+      {"key": "162704671"}
+    ],
+    [
+      "162704672",
+      {"key": "162704672"}
+    ],
+    [
+      "162704674",
+      {"key": "162704674"}
+    ],
+    [
+      "162704676",
+      {"key": "162704676"}
+    ],
+    [
+      "162704678",
+      {"key": "162704678"}
+    ],
+    [
+      "162704680",
+      {"key": "162704680"}
+    ],
+    [
+      "162704681",
+      {"key": "162704681"}
+    ],
+    [
+      "162704684",
+      {"key": "162704684"}
+    ],
+    [
+      "162704686",
+      {"key": "162704686"}
+    ],
+    [
+      "162704688",
+      {"key": "162704688"}
+    ],
+    [
+      "162704690",
+      {"key": "162704690"}
+    ],
+    [
+      "162704691",
+      {"key": "162704691"}
+    ],
+    [
+      "162704693",
+      {"key": "162704693"}
+    ],
+    [
+      "162704694",
+      {"key": "162704694"}
+    ],
+    [
+      "162704697",
+      {"key": "162704697"}
+    ],
+    [
+      "162704699",
+      {"key": "162704699"}
+    ],
+    [
+      "162704702",
+      {"key": "162704702"}
+    ],
+    [
+      "162704705",
+      {"key": "162704705"}
+    ],
+    [
+      "162704708",
+      {"key": "162704708"}
+    ],
+    [
+      "162704711",
+      {"key": "162704711"}
+    ],
+    [
+      "162704714",
+      {"key": "162704714"}
+    ],
+    [
+      "162704718",
+      {"key": "162704718"}
+    ],
+    [
+      "162704721",
+      {"key": "162704721"}
+    ],
+    [
+      "162704725",
+      {"key": "162704725"}
+    ],
+    [
+      "162704729",
+      {"key": "162704729"}
+    ],
+    [
+      "162704731",
+      {"key": "162704731"}
+    ],
+    [
+      "162704735",
+      {"key": "162704735"}
+    ],
+    [
+      "162704738",
+      {"key": "162704738"}
+    ],
+    [
+      "162704743",
+      {"key": "162704743"}
+    ],
+    [
+      "162704748",
+      {"key": "162704748"}
+    ],
+    [
+      "162704753",
+      {"key": "162704753"}
+    ],
+    [
+      "162704758",
+      {"key": "162704758"}
+    ],
+    [
+      "162704761",
+      {"key": "162704761"}
+    ],
+    [
+      "162704769",
+      {"key": "162704769"}
+    ],
+    [
+      "162704775",
+      {"key": "162704775"}
+    ],
+    [
+      "162704781",
+      {"key": "162704781"}
+    ],
+    [
+      "162704784",
+      {"key": "162704784"}
+    ],
+    [
+      "162704790",
+      {"key": "162704790"}
+    ],
+    [
+      "162704797",
+      {"key": "162704797"}
+    ],
+    [
+      "162704805",
+      {"key": "162704805"}
+    ],
+    [
+      "162704813",
+      {"key": "162704813"}
+    ],
+    [
+      "162704821",
+      {"key": "162704821"}
+    ],
+    [
+      "162704829",
+      {"key": "162704829"}
+    ],
+    [
+      "162704836",
+      {"key": "162704836"}
+    ],
+    [
+      "162704844",
+      {"key": "162704844"}
+    ],
+    [
+      "162704852",
+      {"key": "162704852"}
+    ],
+    [
+      "162704861",
+      {"key": "162704861"}
+    ],
+    [
+      "162704871",
+      {"key": "162704871"}
+    ],
+    [
+      "162704881",
+      {"key": "162704881"}
+    ],
+    [
+      "162704891",
+      {"key": "162704891"}
+    ],
+    [
+      "162704902",
+      {"key": "162704902"}
+    ],
+    [
+      "162704917",
+      {"key": "162704917"}
+    ],
+    [
+      "162704926",
+      {"key": "162704926"}
+    ],
+    [
+      "162704935",
+      {"key": "162704935"}
+    ],
+    [
+      "162704944",
+      {"key": "162704944"}
+    ],
+    [
+      "162704953",
+      {"key": "162704953"}
+    ],
+    [
+      "162704962",
+      {"key": "162704962"}
+    ],
+    [
+      "162704971",
+      {"key": "162704971"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/15renlund",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Renlund teaches that the combination of the Savior\u2019s gospel and the Savior\u2019s Church will give us access to God\u2019s power and help us become holy.",
+          "title": "\u201cThis Is My Gospel\u201d\u2014\u201cThis Is My Church\u201d"
+        },
+        "pageSocial": {
+          "description": "Elder Renlund teaches that the combination of the Savior\u2019s gospel and the Savior\u2019s Church will give us access to God\u2019s power and help us become holy.",
+          "title": "\u201cThis Is My Gospel\u201d\u2014\u201cThis Is My Church\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/2c3c1f77833b11ef9b3a0626c361eb55b63860a2/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/2c3c1f77833b11ef9b3a0626c361eb55b63860a2/full/!192%2C/0/default\" data-video-id=\"6362882482112\" data-duration=\"829000\" data-assetId=\"0d72975176b011ef8f08022e7e432ed93898e321\" data-ref-id=\"0d72975176b011ef8f08022e7e432ed93898e321\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362882482112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273429981\"/><source src=\"https://assets.churchofjesuschrist.org/0d72975176b011ef8f08022e7e432ed93898e321-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"54281134\"/><source src=\"https://assets.churchofjesuschrist.org/0d72975176b011ef8f08022e7e432ed93898e321-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"94504509\"/><source src=\"https://assets.churchofjesuschrist.org/0d72975176b011ef8f08022e7e432ed93898e321-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"273429981\"/><\/video><h1 data-aid=\"162704661\" id=\"p_em3uP\">\u201cThis Is My Gospel\u201d\u2014\u201cThis Is My Church\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162704663\" id=\"p_aNPG5\">By Elder Dale G. Renlund<\/p>\n<p class=\"author-role\" data-aid=\"162704665\" id=\"p_dzH1Q\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162704667\" id=\"p_oCnBB\">This is the Savior\u2019s gospel, and this is His Church (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p21#p21\">3 Nephi 27:21<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=eng&amp;id=p22#p22\">Mosiah 26:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27?lang=eng&amp;id=p13#p13\">27:13<\/a>). The combination of the two is powerful and transformative.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162704669\" id=\"p_lVHPH\">For centuries, black powder was the most powerful explosive available.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> It could launch cannon balls, but it wasn\u2019t effective for most mining and road construction projects. It was just too weak to shatter rock.<\/p>\n<p data-aid=\"162704671\" id=\"p_v78DC\">In 1846 an Italian chemist named Ascanio Sobrero synthesized a new explosive, nitroglycerin. This oily fluid was at least a thousand times more powerful than black powder. It could easily shatter rock. Unfortunately, nitroglycerin was unstable. If you dropped it from a small height, it\u2019d blow up. If it got too hot, it\u2019d blow up. If it got too cold, it\u2019d blow up. Even placed in a cool, dark room and left alone, it\u2019d eventually blow up. Most countries banned its transportation, and many banned its manufacture.<\/p>\n<p data-aid=\"162704672\" id=\"p_qGryq\">In 1860 a Swedish scientist named Alfred Nobel began trying to stabilize nitroglycerin. After seven years of experimentation, he achieved his goal by absorbing nitroglycerin into a nearly worthless substance known as diatomaceous earth, or kieselguhr. Kieselguhr is a porous rock that can be crumbled into a fine powder. When mixed with nitroglycerin, kieselguhr absorbs the nitroglycerin, and the resultant paste can be shaped into \u201csticks.\u201d In this form, nitroglycerin was much more stable. It could be safely stored, transported, and used with undiminished explosive power. Nobel named the combination of nitroglycerin and kieselguhr \u201cdynamite.\u201d<\/p>\n<p data-aid=\"162704674\" id=\"p_sDWjE\">Dynamite changed the world.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> It also made Nobel wealthy. Without a stabilizer, nitroglycerin was just too hazardous to be commercially valuable, as Ascanio Sobrero found out.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> By itself, as I mentioned, kieselguhr was of little value.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> But the combination of the two components made dynamite transformative and precious.<\/p>\n<p data-aid=\"162704676\" id=\"p_copYg\">In a similar way, the combination of the gospel of Jesus Christ<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> and The Church of Jesus Christ of Latter-day Saints provides powerful and transformative benefits for us. The gospel is perfect, but a divinely commissioned church is required to preach it, maintain its purity, and administer its sacred ordinances with the Savior\u2019s power and authority.<\/p>\n<p data-aid=\"162704678\" id=\"p_dV8aw\">Consider the combination of the Savior\u2019s gospel and His Church as established by the Book of Mormon prophet Alma. The Church was responsible for preaching \u201cnothing save it were repentance and faith on the Lord, who [would redeem] his people.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a> Using God\u2019s authority, the Church was responsible for administering the ordinance of baptism \u201cin the name of the Lord, as a witness [of entering] into a covenant with him [to] serve him and keep his commandments.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> The people who were baptized took on themselves the name of Jesus Christ,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> joined His Church,<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> and were promised great power through an outpouring of the Spirit.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162704680\" id=\"p_b5SIq\">People flocked to the Waters of Mormon to hear Alma preach the gospel. Though they revered those waters and the surrounding forests, the Lord\u2019s Church was not a location or a building, nor is it today. The Church is simply ordinary people, disciples of Jesus Christ, gathered and organized into a divinely appointed structure that helps the Lord accomplish His purposes. The Church is the instrument through which we learn the central role of Jesus Christ in Heavenly Father\u2019s plan. The Church offers the authoritative way for individuals to participate in ordinances and make lasting covenants with God.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> Keeping those covenants draws us closer to God, gives us access to His power,<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a> and transforms us into who He intends us to become.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"162704681\" id=\"p_sUs8r\">Just as dynamite without nitroglycerin is unremarkable, the Savior\u2019s Church is special only if it is built on His gospel.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> Without the Savior\u2019s gospel and the authority to administer the ordinances thereof,<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> the Church isn\u2019t exceptional.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<p data-aid=\"162704684\" id=\"p_iJ1MR\">Without the stabilizing effect of kieselguhr, nitroglycerin had limited value as an explosive. As history has shown, without the Lord\u2019s Church, humanity\u2019s understanding of His gospel was likewise unstable\u2014prone to doctrinal drift and subject to the influence of different religions, cultures, and philosophies.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a> An amalgamation of those influences has been manifested in every dispensation leading up to this last one.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> Though the gospel was initially revealed in its purity, the interpretation and application of that gospel gradually took on a form of godliness that lacked power because the divinely authorized framework was absent.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<p data-aid=\"162704686\" id=\"p_deKbJ\">The Church of Jesus Christ of Latter-day Saints enables access to God\u2019s power because it is authorized by Him both to teach the doctrine of Christ and to offer the gospel\u2019s saving and exalting ordinances.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> The Savior yearns to forgive our sins, help us access His power, and transform us.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a> He suffered for our sins and longs to pardon us from the punishment that we otherwise would deserve.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> He wants us to become holy<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> and be perfected in Him.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<p data-aid=\"162704688\" id=\"p_fLxSF\">Jesus Christ has the power to do this. He didn\u2019t simply sympathize with our imperfections<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a> and lament our eternal condemnation in consequence of sin.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> No, He went beyond that, infinitely beyond that, and restored His Church to enable access to His power.<\/p>\n<p data-aid=\"162704690\" id=\"p_pbJlR\">The core of the gospel that the Church teaches is that Jesus Christ bore \u201cour griefs, and carried our sorrows.\u201d He had \u201claid on him the iniquity of us all.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> He \u201cendured the cross,\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a> broke \u201cthe bands of death,\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> \u201cascended into heaven, and \u2026 sat down on the right hand of God, to claim of the Father his rights of mercy.\u201d The Savior did all this because He loves His Father and He loves us. He has already paid the infinite price so He can \u201c[claim] all those who have faith in him [and advocate]\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a> for them\u2014for us. Jesus Christ wants nothing more than for us to repent and come unto Him so that He can justify and sanctify us. In this desire, He is relentless and unwavering.<\/p>\n<p data-aid=\"162704691\" id=\"p_whHsS\">The access to God\u2019s covenantal power and His covenantal love is through His Church. The combination of the Savior\u2019s gospel and His Church transforms our lives. It transformed my maternal grandparents. My grandfather Oskar Andersson worked in a shipyard on Högmarsö, an island in the Stockholm archipelago. His wife, Albertina, and their children lived on the Swedish mainland. Once every two weeks, on Saturday, Oskar rowed his boat home for the weekend before returning to Högmarsö on Sunday evening. One day, while on Högmarsö, he heard two American missionaries preach the restored gospel of Jesus Christ. Oskar felt that what he heard was pure truth, and he was filled with unspeakable joy.<\/p>\n<p data-aid=\"162704693\" id=\"p_enGHy\">The next time he returned home, Oskar excitedly told Albertina all about the missionaries. He explained that he believed what they taught. He asked her to read the pamphlets they had given him, and he told her that he didn\u2019t think that any of their future children should be baptized as infants. Albertina was furious and threw the pamphlets on the rubbish heap. Not much was said between them before Oskar returned to work on Sunday evening.<\/p>\n<p data-aid=\"162704694\" id=\"p_kI3ji\">As soon as he was gone, Albertina retrieved those pamphlets. She carefully compared their doctrine with the teachings in her well-worn Bible. She was astonished to feel that what she read was true. The next time Oskar returned home, he received a warm welcome, as did the copy of the Book of Mormon he brought with him. Albertina eagerly read, again comparing the doctrine to that in her Bible. Like Oskar, she recognized pure truth and was filled with unspeakable joy.<\/p>\n<p data-aid=\"162704697\" id=\"p_kqOp3\">Oskar, Albertina, and their children moved to Högmarsö to be close to the few Church members there. A week after Oskar and Albertina were baptized in 1916, Oskar was called to be the group leader on Högmarsö. Like many converts, Oskar and Albertina faced criticism because of their new faith. Local farmers refused to sell them milk, so Oskar rowed across the fjord every day to purchase milk from a more tolerant farmer.<\/p>\n<p data-aid=\"162704699\" id=\"p_dIzQM\">Yet during the ensuing years, Church membership on Högmarsö increased, in part because of Albertina\u2019s powerful testimony and burning missionary zeal. When the group became a branch, Oskar was called as the branch president.<\/p>\n<p data-aid=\"162704702\" id=\"p_e39sY\">Members of that Högmarsö branch revered that island. This was their Waters of Mormon.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> This was where they came to a knowledge of their Redeemer.<\/p>\n<p data-aid=\"162704705\" id=\"p_ufgtZ\">Over the years, as they kept their baptismal covenant, Oskar and Albertina were transformed by the power of Jesus Christ. They longed to make more covenants and receive their temple blessings. To obtain those blessings, they permanently emigrated from their home in Sweden to Salt Lake City in 1949. Oskar had served as the leader of the members on Högmarsö for 33 years.<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a><\/p>\n<p data-aid=\"162704708\" id=\"p_iALhe\">The combination of nitroglycerin and kieselguhr made dynamite valuable; the combination of the gospel of Jesus Christ and His Church is beyond price. Oskar and Albertina heard about the restored gospel because a prophet of God had called, assigned, and sent missionaries to Sweden. By divine commission, missionaries taught the doctrine of Christ and by priesthood authority baptized Oskar and Albertina. As members, Oskar and Albertina continued learning, developing, and serving others. They became Latter-day Saints because they kept the covenants they made.<\/p>\n<p data-aid=\"162704711\" id=\"p_evLU8\">The Savior refers to The Church of Jesus Christ of Latter-day Saints as \u201cmy church\u201d because He commissioned it to accomplish His purposes<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>\u2014preaching His gospel, offering His ordinances and covenants, and making it possible for His power to justify and sanctify us. Without His Church, there is no authority, no preaching of revealed truths in His name, no ordinances or covenants, no manifestation of the power of godliness,<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a> no transformation into who God wants us to become, and God\u2019s plan for His children is set at naught. The Church in this dispensation is integral to His plan.<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a><\/p>\n<p data-aid=\"162704714\" id=\"p_bBKwf\">I invite you to commit yourself more fully to the Savior, His gospel, and His Church. As you do so, you will find that the combination of the Savior\u2019s gospel and His Church brings power into your life. This power is far greater than dynamite. It\u2019ll shatter the rocks in your way, transform you into an inheritor in God\u2019s kingdom. And you will be \u201cfilled with that joy which is unspeakable and full of glory.\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162704718\" id=\"p_so0pT\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162704721\" id=\"p_tPM8V\">Black powder is a mixture of potassium nitrate (saltpeter), sulfur, and charcoal. It is classified as a <em>low explosive<\/em> or a <em>low-yield explosive<\/em> because of its relatively slow decomposition rate, burning at subsonic speeds. <em>High explosives<\/em> or <em>high-yield explosives<\/em> detonate rather than burn, producing a supersonic shock wave.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162704725\" id=\"p_kfvTm\">Dynamite enabled \u201can unprecedented surge in the creation of rail tunnels, sewer systems, and subways around the world\u2014major engineering projects that would have been impossible to [accomplish] without the controlled explosions [that it allowed]. Almost all the iconic engineering triumphs of the [late 19th and early 20th centuries]\u2014the London Underground, the Brooklyn Bridge, the Transcontinental Railroad, [and] the Panama Canal\u2014relied extensively on the new explosive\u201d (Steven Johnson, <cite>The Infernal Machine: A True Story of Dynamite, Terror, and the Rise of the Modern Detective<\/cite> [2024], 24).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162704729\" id=\"p_z9Ggt\">Because nitroglycerin itself was not commercially viable, Ascanio Sobrero did not become wealthy because of his invention. However, when Alfred Nobel built a dynamite factory at Avigliana, Italy, in 1873, Sobrero was appointed as a well-paid adviser in recognition of his discovery of nitroglycerin. Sobrero held that appointment until his death in 1888. (See G. I. Brown, <cite>The Big Bang: A History of Explosives<\/cite> [1998], 106.)<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162704731\" id=\"p_oWFvB\">For the history of black powder, nitroglycerin, and dynamite, see Brown, <cite>The Big Bang<\/cite>, 1\u2013121.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162704735\" id=\"p_ucQTb\">The gospel of Jesus Christ is synonymous with the doctrine of Christ.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162704738\" id=\"p_d5Ix5\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p7%2C20#p7\">Mosiah 18:7, 20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p15%2C22#p15\">25:15, 22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162704743\" id=\"p_zHNeP\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10\">Mosiah 18:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162704748\" id=\"p_kuqjl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13#p13\">2 Nephi 31:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162704753\" id=\"p_bZgH4\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p17#p17\">Mosiah 18:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p18%2C23#p18\">25:18, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/4?lang=eng&amp;id=p4-p5#p4\">Alma 4:4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p24-p26#p24\">Helaman 3:24\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28?lang=eng&amp;id=p18%2C23#p18\">3 Nephi 28:18, 23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162704758\" id=\"p_wdvRq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p12-p14#p12\">2 Nephi 31:12\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10\">Mosiah 18:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162704761\" id=\"p_x91JZ\">The Church is key to offering sacred covenants to Heavenly Father\u2019s children. This is why, during the endowment in temples, members covenant to keep the law of consecration. This means that they \u201cdedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ\u2019s Church on the earth\u201d (<cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11\">27.2<\/a>, Gospel Library).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162704769\" id=\"p_hnaq0\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng&amp;id=p7#p7\">Spiritual Treasures<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 77.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162704775\" id=\"p_xoyDz\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p22#p22\">Mosiah 18:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=eng&amp;id=p68#p68\">Moses 6:68<\/a>; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/sons-and-daughters-of-god?lang=eng\">Sons and Daughters of God<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162704781\" id=\"p_eW1Rb\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p21#p13\">3 Nephi 27:13\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162704784\" id=\"p_pVSfG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p5#p5\">Articles of Faith 1:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162704790\" id=\"p_fyqmY\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p16#p16\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p9-p11#p9\">3 Nephi 27:9\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162704797\" id=\"p_iclPh\">The Savior \u201cgave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers\u201d so that \u201cwe [could] all come in the unity of the faith, and of the knowledge of the Son of God, \u2026 that we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=eng&amp;id=p11%2C13-p14#p11\">Ephesians 4:11, 13\u201314<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162704805\" id=\"p_yRoTL\"><i>Syncretism<\/i> is the technical term for the amalgamation of different religions, cultures, or schools of thought.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162704813\" id=\"p_ngvBF\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p19#p19\">Joseph Smith\u2014History 1:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162704821\" id=\"p_dhMot\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p6#p6\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d Gospel Library. The proclamation was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah (see \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng&amp;id=p51#p51\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 91\u201392).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162704829\" id=\"p_epoKj\">We can access God\u2019s power by exercising faith in Jesus Christ, repenting of our sins, and keeping the covenants we make with Heavenly Father and Jesus Christ in ordinances such as baptism, the endowment, and the sacrament.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162704836\" id=\"p_yNtEr\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/justification-justify?lang=eng\">Justification, Justify<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162704844\" id=\"p_dsUzg\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/sanctification?lang=eng\">Sanctification<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162704852\" id=\"p_sU7fF\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32\">Moroni 10:32\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162704861\" id=\"p_tCyNl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4?lang=eng&amp;id=p15#p15\">Hebrews 4:15<\/a>; see also footnote <i>a<\/i>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162704871\" id=\"p_je70C\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p15-p18#p15\">Doctrine and Covenants 19:15\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162704881\" id=\"p_tw6ed\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53?lang=eng&amp;id=p4-p12#p4\">Isaiah 53:4\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"162704891\" id=\"p_vjKHM\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=eng&amp;id=p2#p2\">Hebrews 12:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"162704902\" id=\"p_o2Vdk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=eng&amp;id=p23#p23\">Mosiah 15:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"162704917\" id=\"p_cggb1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p27-p28#p27\">Moroni 7:27\u201328<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3\">Doctrine and Covenants 45:3\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"162704926\" id=\"p_fkW2y\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30\">Mosiah 18:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"162704935\" id=\"p_pPrrH\">See Inger Höglund and Caj-Aage Johansson, <cite>Steg i Tro: Jesu Kristi Kyrka av Sista Dagars Heliga i Sverige 1850\u20132000<\/cite> (2000), 66\u201367.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"162704944\" id=\"p_qY4gu\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p4#p4\">Doctrine and Covenants 115:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"162704953\" id=\"p_pXoyY\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19\">Doctrine and Covenants 84:19\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"162704962\" id=\"p_v47Ln\">If you receive what the Lord\u2019s Church offers, you can be perfected in Christ before His Church is perfected, if it ever is. His goal is to perfect you, not His Church. His goal has never been to, metaphorically, turn kieselguhr into diamond; His goal has been to refine you into pure gold, to save and exalt you as a co-inheritor with Him in the kingdom of our Heavenly Father. But that needs to become your goal, too. It is your choice.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"162704971\" id=\"p_qYIfE\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=eng&amp;id=p44#p44\">Helaman 5:44<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162704674",
+        "id": "note4",
+        "text": "<p data-aid=\"162704731\" id=\"p_oWFvB\">For the history of black powder, nitroglycerin, and dynamite, see Brown, <cite>The Big Bang<\/cite>, 1\u2013121.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162704676",
+        "id": "note5",
+        "text": "<p data-aid=\"162704735\" id=\"p_ucQTb\">The gospel of Jesus Christ is synonymous with the doctrine of Christ.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162704674",
+        "id": "note2",
+        "text": "<p data-aid=\"162704725\" id=\"p_kfvTm\">Dynamite enabled \u201can unprecedented surge in the creation of rail tunnels, sewer systems, and subways around the world\u2014major engineering projects that would have been impossible to [accomplish] without the controlled explosions [that it allowed]. Almost all the iconic engineering triumphs of the [late 19th and early 20th centuries]\u2014the London Underground, the Brooklyn Bridge, the Transcontinental Railroad, [and] the Panama Canal\u2014relied extensively on the new explosive\u201d (Steven Johnson, <cite>The Infernal Machine: A True Story of Dynamite, Terror, and the Rise of the Modern Detective<\/cite> [2024], 24).<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162704674",
+        "id": "note3",
+        "text": "<p data-aid=\"162704729\" id=\"p_z9Ggt\">Because nitroglycerin itself was not commercially viable, Ascanio Sobrero did not become wealthy because of his invention. However, when Alfred Nobel built a dynamite factory at Avigliana, Italy, in 1873, Sobrero was appointed as a well-paid adviser in recognition of his discovery of nitroglycerin. Sobrero held that appointment until his death in 1888. (See G. I. Brown, <cite>The Big Bang: A History of Explosives<\/cite> [1998], 106.)<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162704678",
+        "id": "note8",
+        "text": "<p data-aid=\"162704748\" id=\"p_kuqjl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13#p13\">2 Nephi 31:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13#p13",
+          "text": "2 Nephi 31:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162704678",
+        "id": "note9",
+        "text": "<p data-aid=\"162704753\" id=\"p_bZgH4\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p17#p17\">Mosiah 18:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p18%2C23#p18\">25:18, 23<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/4?lang=eng&amp;id=p4-p5#p4\">Alma 4:4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p24-p26#p24\">Helaman 3:24\u201326<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/28?lang=eng&amp;id=p18%2C23#p18\">3 Nephi 28:18, 23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p17#p17",
+            "text": "Mosiah 18:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p18%2C23#p18",
+            "text": "25:18, 23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/4?lang=eng&amp;id=p4-p5#p4",
+            "text": "Alma 4:4\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/3?lang=eng&amp;id=p24-p26#p24",
+            "text": "Helaman 3:24\u201326",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/28?lang=eng&amp;id=p18%2C23#p18",
+            "text": "3 Nephi 28:18, 23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162704678",
+        "id": "note6",
+        "text": "<p data-aid=\"162704738\" id=\"p_d5Ix5\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p7%2C20#p7\">Mosiah 18:7, 20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p15%2C22#p15\">25:15, 22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p7%2C20#p7",
+            "text": "Mosiah 18:7, 20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p15%2C22#p15",
+            "text": "25:15, 22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162704678",
+        "id": "note7",
+        "text": "<p data-aid=\"162704743\" id=\"p_zHNeP\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10\">Mosiah 18:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10",
+          "text": "Mosiah 18:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "162704690",
+        "id": "note30",
+        "text": "<p data-aid=\"162704917\" id=\"p_cggb1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p27-p28#p27\">Moroni 7:27\u201328<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3\">Doctrine and Covenants 45:3\u20135<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p27-p28#p27",
+            "text": "Moroni 7:27\u201328",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3",
+            "text": "Doctrine and Covenants 45:3\u20135",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162704681",
+        "id": "note16",
+        "text": "<p data-aid=\"162704790\" id=\"p_fyqmY\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p16#p16\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p9-p11#p9\">3 Nephi 27:9\u201311<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p16#p16",
+            "text": "Rejoice in the Gift of Priesthood Keys",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p9-p11#p9",
+            "text": "3 Nephi 27:9\u201311",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162704681",
+        "id": "note15",
+        "text": "<p data-aid=\"162704784\" id=\"p_pVSfG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p5#p5\">Articles of Faith 1:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p5#p5",
+          "text": "Articles of Faith 1:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162704681",
+        "id": "note14",
+        "text": "<p data-aid=\"162704781\" id=\"p_eW1Rb\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p21#p13\">3 Nephi 27:13\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p21#p13",
+          "text": "3 Nephi 27:13\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "162704714",
+        "id": "note36",
+        "text": "<p data-aid=\"162704971\" id=\"p_qYIfE\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/5?lang=eng&amp;id=p44#p44\">Helaman 5:44<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/5?lang=eng&amp;id=p44#p44",
+          "text": "Helaman 5:44",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162704680",
+        "id": "note13",
+        "text": "<p data-aid=\"162704775\" id=\"p_xoyDz\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p22#p22\">Mosiah 18:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=eng&amp;id=p68#p68\">Moses 6:68<\/a>; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/sons-and-daughters-of-god?lang=eng\">Sons and Daughters of God<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p22#p22",
+            "text": "Mosiah 18:22",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/6?lang=eng&amp;id=p68#p68",
+            "text": "Moses 6:68",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/sons-and-daughters-of-god?lang=eng",
+            "text": "Sons and Daughters of God",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "162704711",
+        "id": "note35",
+        "text": "<p data-aid=\"162704962\" id=\"p_v47Ln\">If you receive what the Lord\u2019s Church offers, you can be perfected in Christ before His Church is perfected, if it ever is. His goal is to perfect you, not His Church. His goal has never been to, metaphorically, turn kieselguhr into diamond; His goal has been to refine you into pure gold, to save and exalt you as a co-inheritor with Him in the kingdom of our Heavenly Father. But that needs to become your goal, too. It is your choice.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162704680",
+        "id": "note12",
+        "text": "<p data-aid=\"162704769\" id=\"p_hnaq0\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/10/36nelson?lang=eng&amp;id=p7#p7\">Spiritual Treasures<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2019, 77.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/10/36nelson?lang=eng&amp;id=p7#p7",
+          "text": "Spiritual Treasures",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "162704711",
+        "id": "note34",
+        "text": "<p data-aid=\"162704953\" id=\"p_pXoyY\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19\">Doctrine and Covenants 84:19\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19",
+          "text": "Doctrine and Covenants 84:19\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162704680",
+        "id": "note11",
+        "text": "<p data-aid=\"162704761\" id=\"p_x91JZ\">The Church is key to offering sacred covenants to Heavenly Father\u2019s children. This is why, during the endowment in temples, members covenant to keep the law of consecration. This means that they \u201cdedicate their time, talents, and everything with which the Lord has blessed them to building up Jesus Christ\u2019s Church on the earth\u201d (<cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11\">27.2<\/a>, Gospel Library).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11",
+          "text": "27.2",
+          "type": "cross-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "162704711",
+        "id": "note33",
+        "text": "<p data-aid=\"162704944\" id=\"p_qY4gu\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p4#p4\">Doctrine and Covenants 115:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p4#p4",
+          "text": "Doctrine and Covenants 115:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162704678",
+        "id": "note10",
+        "text": "<p data-aid=\"162704758\" id=\"p_wdvRq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p12-p14#p12\">2 Nephi 31:12\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10\">Mosiah 18:10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p12-p14#p12",
+            "text": "2 Nephi 31:12\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10",
+            "text": "Mosiah 18:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "162704705",
+        "id": "note32",
+        "text": "<p data-aid=\"162704935\" id=\"p_pPrrH\">See Inger Höglund and Caj-Aage Johansson, <cite>Steg i Tro: Jesu Kristi Kyrka av Sista Dagars Heliga i Sverige 1850\u20132000<\/cite> (2000), 66\u201367.<\/p>"
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "162704702",
+        "id": "note31",
+        "text": "<p data-aid=\"162704926\" id=\"p_fkW2y\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30\">Mosiah 18:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30",
+          "text": "Mosiah 18:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162704684",
+        "id": "note19",
+        "text": "<p data-aid=\"162704813\" id=\"p_ngvBF\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p19#p19\">Joseph Smith\u2014History 1:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p19#p19",
+          "text": "Joseph Smith\u2014History 1:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162704684",
+        "id": "note18",
+        "text": "<p data-aid=\"162704805\" id=\"p_yRoTL\"><i>Syncretism<\/i> is the technical term for the amalgamation of different religions, cultures, or schools of thought.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162704684",
+        "id": "note17",
+        "text": "<p data-aid=\"162704797\" id=\"p_iclPh\">The Savior \u201cgave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers\u201d so that \u201cwe [could] all come in the unity of the faith, and of the knowledge of the Son of God, \u2026 that we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=eng&amp;id=p11%2C13-p14#p11\">Ephesians 4:11, 13\u201314<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4?lang=eng&amp;id=p11%2C13-p14#p11",
+          "text": "Ephesians 4:11, 13\u201314",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162704690",
+        "id": "note27",
+        "text": "<p data-aid=\"162704881\" id=\"p_tw6ed\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/53?lang=eng&amp;id=p4-p12#p4\">Isaiah 53:4\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/53?lang=eng&amp;id=p4-p12#p4",
+          "text": "Isaiah 53:4\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162704688",
+        "id": "note26",
+        "text": "<p data-aid=\"162704871\" id=\"p_je70C\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p15-p18#p15\">Doctrine and Covenants 19:15\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p15-p18#p15",
+          "text": "Doctrine and Covenants 19:15\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162704688",
+        "id": "note25",
+        "text": "<p data-aid=\"162704861\" id=\"p_tCyNl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4?lang=eng&amp;id=p15#p15\">Hebrews 4:15<\/a>; see also footnote <i>a<\/i>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/4?lang=eng&amp;id=p15#p15",
+          "text": "Hebrews 4:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162704686",
+        "id": "note24",
+        "text": "<p data-aid=\"162704852\" id=\"p_sU7fF\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32\">Moroni 10:32\u201333<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32",
+          "text": "Moroni 10:32\u201333",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162704686",
+        "id": "note23",
+        "text": "<p data-aid=\"162704844\" id=\"p_dsUzg\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/sanctification?lang=eng\">Sanctification<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/sanctification?lang=eng",
+          "text": "Sanctification",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162704686",
+        "id": "note22",
+        "text": "<p data-aid=\"162704836\" id=\"p_yNtEr\">See Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/justification-justify?lang=eng\">Justification, Justify<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/justification-justify?lang=eng",
+          "text": "Justification, Justify",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162704686",
+        "id": "note21",
+        "text": "<p data-aid=\"162704829\" id=\"p_epoKj\">We can access God\u2019s power by exercising faith in Jesus Christ, repenting of our sins, and keeping the covenants we make with Heavenly Father and Jesus Christ in ordinances such as baptism, the endowment, and the sacrament.<\/p>"
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162704686",
+        "id": "note20",
+        "text": "<p data-aid=\"162704821\" id=\"p_dhMot\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p6#p6\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d Gospel Library. The proclamation was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah (see \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=eng&amp;id=p51#p51\">Hear Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2020, 91\u201392).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p6#p6",
+            "text": "The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/04/45nelson?lang=eng&amp;id=p51#p51",
+            "text": "Hear Him",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162704669",
+        "id": "note1",
+        "text": "<p data-aid=\"162704721\" id=\"p_tPM8V\">Black powder is a mixture of potassium nitrate (saltpeter), sulfur, and charcoal. It is classified as a <em>low explosive<\/em> or a <em>low-yield explosive<\/em> because of its relatively slow decomposition rate, burning at subsonic speeds. <em>High explosives<\/em> or <em>high-yield explosives<\/em> detonate rather than burn, producing a supersonic shock wave.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "162704690",
+        "id": "note29",
+        "text": "<p data-aid=\"162704902\" id=\"p_o2Vdk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=eng&amp;id=p23#p23\">Mosiah 15:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15?lang=eng&amp;id=p23#p23",
+          "text": "Mosiah 15:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "162704690",
+        "id": "note28",
+        "text": "<p data-aid=\"162704891\" id=\"p_vjKHM\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=eng&amp;id=p2#p2\">Hebrews 12:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/12?lang=eng&amp;id=p2#p2",
+          "text": "Hebrews 12:2",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

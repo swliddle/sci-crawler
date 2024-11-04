@@ -1,0 +1,710 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/12andersen?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "fa175cf479004aa4adf438551fc7976d",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/12andersen",
+      "data-aid": "162703202",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "fa175cf479004aa4adf438551fc7976d"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/d50d775680ff11efae28022e7e432ed942dd14f4-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "The Triumph of Hope",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162703202",
+      {"key": "162703202"}
+    ],
+    [
+      "162703206",
+      {"key": "162703206"}
+    ],
+    [
+      "162703208",
+      {"key": "162703208"}
+    ],
+    [
+      "162703211",
+      {"key": "162703211"}
+    ],
+    [
+      "162703213",
+      {"key": "162703213"}
+    ],
+    [
+      "162703217",
+      {"key": "162703217"}
+    ],
+    [
+      "162703219",
+      {"key": "162703219"}
+    ],
+    [
+      "162703222",
+      {"key": "162703222"}
+    ],
+    [
+      "162703225",
+      {"key": "162703225"}
+    ],
+    [
+      "162703228",
+      {"key": "162703228"}
+    ],
+    [
+      "162703231",
+      {"key": "162703231"}
+    ],
+    [
+      "162703234",
+      {"key": "162703234"}
+    ],
+    [
+      "162703237",
+      {"key": "162703237"}
+    ],
+    [
+      "162703241",
+      {"key": "162703241"}
+    ],
+    [
+      "162703245",
+      {"key": "162703245"}
+    ],
+    [
+      "162703248",
+      {"key": "162703248"}
+    ],
+    [
+      "162703251",
+      {"key": "162703251"}
+    ],
+    [
+      "162703252",
+      {"key": "162703252"}
+    ],
+    [
+      "162703255",
+      {"key": "162703255"}
+    ],
+    [
+      "162703259",
+      {"key": "162703259"}
+    ],
+    [
+      "162703262",
+      {"key": "162703262"}
+    ],
+    [
+      "162703265",
+      {"key": "162703265"}
+    ],
+    [
+      "162703267",
+      {"key": "162703267"}
+    ],
+    [
+      "162703270",
+      {"key": "162703270"}
+    ],
+    [
+      "162703272",
+      {"key": "162703272"}
+    ],
+    [
+      "162703274",
+      {"key": "162703274"}
+    ],
+    [
+      "162703277",
+      {"key": "162703277"}
+    ],
+    [
+      "162703279",
+      {"key": "162703279"}
+    ],
+    [
+      "162703283",
+      {"key": "162703283"}
+    ],
+    [
+      "162703286",
+      {"key": "162703286"}
+    ],
+    [
+      "162703290",
+      {"key": "162703290"}
+    ],
+    [
+      "162703292",
+      {"key": "162703292"}
+    ],
+    [
+      "162703295",
+      {"key": "162703295"}
+    ],
+    [
+      "162703299",
+      {"key": "162703299"}
+    ],
+    [
+      "162703301",
+      {"key": "162703301"}
+    ],
+    [
+      "162703305",
+      {"key": "162703305"}
+    ],
+    [
+      "162703308",
+      {"key": "162703308"}
+    ],
+    [
+      "162703311",
+      {"key": "162703311"}
+    ],
+    [
+      "162703314",
+      {"key": "162703314"}
+    ],
+    [
+      "162703318",
+      {"key": "162703318"}
+    ],
+    [
+      "162703322",
+      {"key": "162703322"}
+    ],
+    [
+      "162703325",
+      {"key": "162703325"}
+    ],
+    [
+      "162703332",
+      {"key": "162703332"}
+    ],
+    [
+      "162703336",
+      {"key": "162703336"}
+    ],
+    [
+      "162703341",
+      {"key": "162703341"}
+    ],
+    [
+      "162703346",
+      {"key": "162703346"}
+    ],
+    [
+      "162703351",
+      {"key": "162703351"}
+    ],
+    [
+      "162703356",
+      {"key": "162703356"}
+    ],
+    [
+      "162703359",
+      {"key": "162703359"}
+    ],
+    [
+      "162703364",
+      {"key": "162703364"}
+    ],
+    [
+      "162703369",
+      {"key": "162703369"}
+    ],
+    [
+      "162703371",
+      {"key": "162703371"}
+    ],
+    [
+      "162703376",
+      {"key": "162703376"}
+    ],
+    [
+      "162703380",
+      {"key": "162703380"}
+    ],
+    [
+      "162705385",
+      {"key": "162705385"}
+    ],
+    [
+      "162705390",
+      {"key": "162705390"}
+    ],
+    [
+      "162705393",
+      {"key": "162705393"}
+    ],
+    [
+      "162705397",
+      {"key": "162705397"}
+    ],
+    [
+      "162705405",
+      {"key": "162705405"}
+    ],
+    [
+      "162705407",
+      {"key": "162705407"}
+    ],
+    [
+      "162705415",
+      {"key": "162705415"}
+    ],
+    [
+      "162705418",
+      {"key": "162705418"}
+    ],
+    [
+      "162705425",
+      {"key": "162705425"}
+    ],
+    [
+      "162705429",
+      {"key": "162705429"}
+    ],
+    [
+      "162705435",
+      {"key": "162705435"}
+    ],
+    [
+      "162705440",
+      {"key": "162705440"}
+    ],
+    [
+      "162705446",
+      {"key": "162705446"}
+    ],
+    [
+      "162705453",
+      {"key": "162705453"}
+    ],
+    [
+      "162705457",
+      {"key": "162705457"}
+    ],
+    [
+      "162705464",
+      {"key": "162705464"}
+    ],
+    [
+      "162705471",
+      {"key": "162705471"}
+    ],
+    [
+      "162705476",
+      {"key": "162705476"}
+    ],
+    [
+      "162705486",
+      {"key": "162705486"}
+    ],
+    [
+      "162705492",
+      {"key": "162705492"}
+    ],
+    [
+      "162705499",
+      {"key": "162705499"}
+    ],
+    [
+      "162705505",
+      {"key": "162705505"}
+    ],
+    [
+      "162705511",
+      {"key": "162705511"}
+    ],
+    [
+      "162705516",
+      {"key": "162705516"}
+    ],
+    [
+      "162705522",
+      {"key": "162705522"}
+    ],
+    [
+      "162705529",
+      {"key": "162705529"}
+    ],
+    [
+      "162705534",
+      {"key": "162705534"}
+    ],
+    [
+      "162705541",
+      {"key": "162705541"}
+    ],
+    [
+      "162705547",
+      {"key": "162705547"}
+    ],
+    [
+      "162705552",
+      {"key": "162705552"}
+    ],
+    [
+      "162705558",
+      {"key": "162705558"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/12andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Andersen teaches that when we have hope in Christ and put our trust in Him, we will feel of His peace.",
+          "title": "The Triumph of Hope"
+        },
+        "pageSocial": {
+          "description": "Elder Andersen teaches that when we have hope in Christ and put our trust in Him, we will feel of His peace.",
+          "title": "The Triumph of Hope"
+        }
+      }
+    },
+    "body": "<header>\n<span class=\"page-break\" data-page=\"4\"><\/span>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/eeb6678a833511ef9b3a0626c361eb55d5d19cbc/full/!192%2C/0/default\" data-video-id=\"6362880702112\" data-duration=\"811800\" data-assetId=\"0d73339476b011efb2bf0626c361eb55e2ecd628\" data-ref-id=\"0d73339476b011efb2bf0626c361eb55e2ecd628\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362880702112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"225109257\"/><source src=\"https://assets.churchofjesuschrist.org/0d73339476b011efb2bf0626c361eb55e2ecd628-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"52163443\"/><source src=\"https://assets.churchofjesuschrist.org/0d73339476b011efb2bf0626c361eb55e2ecd628-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"90315146\"/><source src=\"https://assets.churchofjesuschrist.org/0d73339476b011efb2bf0626c361eb55e2ecd628-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"225109257\"/><\/video><h1 data-aid=\"162703206\" id=\"p_xCZdn\">The Triumph of Hope<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162703208\" id=\"p_ks9eS\">By Elder Neil L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"162703211\" id=\"p_qFFZG\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162703213\" id=\"p_ggZII\">Hope is a living gift, a gift that grows as we increase our faith in Jesus Christ.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162703217\" id=\"p_iJBUv\">My dear brothers and sisters across the world, as we begin this very special time of general conference, the eyes of heaven will certainly be focused upon us. We will hear the voice of the Lord through His servants; we will feel the \u201cguiding, directing, [and] comforting\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> influence of the Holy Ghost, and our faith will be strengthened.<\/p>\n<p data-aid=\"162703219\" id=\"p_yV1hm\">Three years ago, President Russell M. Nelson began general conference with these words: \u201cPure revelation for the questions in your heart will make this conference rewarding and unforgettable. If you have not yet sought for the ministering of the Holy Ghost to help you hear what the Lord would have you hear during these two days, I invite you to do so now. Please make this conference a time of feasting on messages from the Lord through His servants.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"162703222\" id=\"p_bpaqQ\">The scriptures link three words powerfully together: faith, hope, charity. The gift of hope is a priceless endowment from God.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a><\/p>\n<p data-aid=\"162703225\" id=\"p_oLJ4z\">The word <em>hope<\/em> is used for many things we want to happen. For example, \u201cI hope it won\u2019t rain,\u201d or \u201cI hope our team wins.\u201d My intent is to speak of our sacred and eternal hopes centered in Jesus Christ and the restored gospel and our \u201cconfident expectation[s] of \u2026 the promised blessings of righteousness.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a><\/p>\n<section>\n<header>\n<h2 data-aid=\"162703228\" id=\"p_gDlbX\">Our Hope for Eternal Life<\/h2>\n<\/header>\n<p data-aid=\"162703231\" id=\"p_tY3Bt\">Our hope of eternal life is assured through the grace of Christ and our own choices, allowing us the remarkable blessing of returning to our heavenly home and living forever in peace and happiness with our Heavenly Father, His Beloved Son, our faithful family and precious friends, and the righteous men and women from every continent and every century.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a><\/p>\n<p data-aid=\"162703234\" id=\"p_s1DCx\">On earth we experience joy and sorrow as we are tested and proven. Our victory comes through faith in Jesus Christ as we triumph over our sins, difficulties, temptations, unfairness, and the challenges of this mortal life.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/p>\n<p data-aid=\"162703237\" id=\"p_cD13D\">As we strengthen our faith in Jesus Christ, we see beyond our struggles to the blessings and promises of eternity. Like a light whose brilliance grows, hope brightens the darkened world, and we see our glorious future.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162703241\" id=\"p_d7CYq\">Hope Comes from God<\/h2>\n<\/header>\n<p data-aid=\"162703245\" id=\"p_hAVuM\">Since the beginning, our Heavenly Father and His Beloved Son have eagerly blessed the righteous with the precious gift of hope.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a><\/p>\n<p data-aid=\"162703248\" id=\"p_xoSys\">After leaving the garden, Adam and Eve were taught by an angel of the promise of Jesus Christ.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> The gift of hope enlightened their lives. Adam declared, \u201cMy eyes are opened, and in this life I shall have joy.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> Eve spoke of \u201cthe joy of [their] redemption, and the eternal life which God giveth unto all the obedient.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162703251\" id=\"p_tgQr4\">Just as the Holy Ghost brought hope to Adam,<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> the power of the Lord\u2019s Spirit enlightens the faithful today, illuminating the reality of eternal life.<\/p>\n<p data-aid=\"162703252\" id=\"p_uMbV8\">The Savior sends us a Comforter, the Holy Ghost, a companion bringing faith, hope, and peace \u201cnot as the world giveth.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"162703255\" id=\"p_m2pTM\">\u201cIn the world,\u201d the Savior said, \u201cye shall have tribulation: but be of good cheer [keep a brightness of hope]; I have overcome the world.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"162703259\" id=\"p_ndnRA\">In times of difficulty, we choose to trust the Lord in faith. We quietly pray, \u201cNot my will but thine be done.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> We feel the Lord\u2019s approval for our meek willingness, and we await the promised peace the Lord will send in His chosen timing.<\/p>\n<p data-aid=\"162703262\" id=\"p_faSlJ\">The Apostle Paul taught, \u201cThe God of hope [will] fill you with \u2026 joy and peace \u2026 , that ye may abound in hope,\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> \u201crejoicing in hope; patient in tribulation;\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> \u201cthrough the power of the Holy Ghost.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162703265\" id=\"p_ukugf\">A Lesson of Hope<\/h2>\n<\/header>\n<p data-aid=\"162703267\" id=\"p_k5Wa6\">The prophet Moroni knew firsthand about having hope in Christ during tribulation. He explained his harrowing situation:<\/p>\n<p data-aid=\"162703270\" id=\"p_jGfYH\">\u201cI am alone. \u2026 I have not \u2026 whither to go.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a><\/p>\n<p data-aid=\"162703272\" id=\"p_j6bkL\">\u201cI make not myself known \u2026 lest they should destroy me.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<p data-aid=\"162703274\" id=\"p_ncqO5\">Remarkably, in this dark and lonely hour, Moroni records his father\u2019s words of hope:<\/p>\n<p data-aid=\"162703277\" id=\"p_dTGIO\">\u201cIf a man have faith he must needs have hope; for without faith there cannot be any hope.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a><\/p>\n<p data-aid=\"162703279\" id=\"p_wKlc2\">\u201cWhat is it that ye shall hope for? \u2026 Ye shall have hope through the atonement of Christ and the power of his resurrection, to be raised unto life eternal.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a><\/p>\n<p data-aid=\"162703283\" id=\"p_cDHEu\">My brothers and sisters, hope is a living gift, a gift that grows as we increase our faith in Jesus Christ. \u201cFaith is the substance of things hoped for.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> We build this substance\u2014the evidence blocks of our faith\u2014through prayer, temple covenants, keeping the commandments, continually feasting on the scriptures and the words of modern-day prophets, taking the sacrament, serving others, and worshipping weekly with our fellow Saints.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162703286\" id=\"p_eYX5p\">A House of Hope<\/h2>\n<\/header>\n<p data-aid=\"162703290\" id=\"p_wrN5Y\">To fortify our hope in a time of increasing wickedness, the Lord has directed His prophet to dot the earth with His temples.<\/p>\n<p data-aid=\"162703292\" id=\"p_uoF0G\">As we enter the Lord\u2019s house, we feel the Spirit of God, verifying our hope.<\/p>\n<span class=\"page-break\" data-page=\"5\"><\/span>\n<p data-aid=\"162703295\" id=\"p_c7lm9\">The temple testifies of the empty tomb and that life beyond the veil continues for all.<\/p>\n<p data-aid=\"162703299\" id=\"p_oyGrM\">For those who do not have an eternal companion, the ordinances powerfully confirm that every righteous person will receive every promised blessing.<\/p>\n<p data-aid=\"162703301\" id=\"p_uCh6y\">There is sublime hope as a young couple kneels across the altar to be sealed, not just for time but for eternity.<\/p>\n<p data-aid=\"162703305\" id=\"p_kw5EP\">There is an immensity of hope for us in the promises made to our posterity, whatever their current circumstances.<\/p>\n<p data-aid=\"162703308\" id=\"p_grC8N\">There is no pain, no sickness, no injustice, no suffering, nothing that can darken our hope as we believe and hold tightly to our covenants with God in the house of the Lord. It is a house of light, a house of hope.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162703311\" id=\"p_tW3aK\">When Hope Is Discarded<\/h2>\n<\/header>\n<p data-aid=\"162703314\" id=\"p_d2KzJ\">We shed tears of sorrow as we see the sadness and despair in those who have no hope in Christ.<\/p>\n<p data-aid=\"162703318\" id=\"p_fgWBK\">I recently observed from a distance a couple who at one time had faith in Christ but then decided to discard their belief. They were successful in the world, and they found pleasure in their intellect and the rejection of their faith.<\/p>\n<p data-aid=\"162703322\" id=\"p_tCyLv\">All seemed well until the husband, still young and energetic, suddenly fell ill and died. Like an eclipse of the sun, they had blocked the light of <em>the<\/em> Son, and the result was an eclipse of hope. The wife, in her disbelief, now felt disoriented, painfully unprepared, unable to comfort her children. Her intellect had told her that her life was in perfect order until suddenly she could see no tomorrow. Her despair brought darkness and confusion.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162703325\" id=\"p_mrk0W\">Hope in Heartbreaking Tragedy<\/h2>\n<\/header>\n<p data-aid=\"162703332\" id=\"p_ismTL\">Let me contrast her painful despair with another family\u2019s hope in Christ during a heartbreaking time.<\/p>\n<p data-aid=\"162703336\" id=\"p_ozySr\">Twenty-one years ago the newborn son of my nephew Ben Andersen and his wife, Robbie, was life-flighted from their Idaho farming community to Salt Lake City. I arrived at the hospital, and Ben explained the severe, life-threatening complications with their baby\u2019s heart. We placed our hands on Trey\u2019s tiny head. The Lord blessed him with continued life.<\/p>\n<p data-aid=\"162703341\" id=\"p_yGHNd\">Trey had heart surgery the first week of his life, and more surgeries followed. As the years passed, it became apparent that Trey would need a heart transplant. Although his physical activities were limited, his faith expanded. He wrote, \u201cI have never felt sorry for myself because I have always known the importance of having faith in Jesus Christ and a testimony of the plan of salvation.\u201d<\/p>\n<img alt=\"Trey Andersen\" id=\"img_ydwT7\" src=\"https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/500%2C/0/default\" data-img-id=\"48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk\" srcset=\"https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk/full/640%2C/0/default 640w\" data-assetId=\"48znnokl4pdc6fqmtivqrgk1ldljsgjeq4yt98uk\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"749\" data-aspect-ratio=\"0.6675567423230975\"/>\n<p data-aid=\"162703346\" id=\"p_w7ZMZ\">Trey kept on his phone this well-known quote from President Nelson: \u201cThe joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a><\/p>\n<img alt=\"Trey Andersen\" id=\"img_gYodt\" src=\"https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/500%2C/0/default\" data-img-id=\"ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg\" srcset=\"https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg/full/640%2C/0/default 640w\" data-assetId=\"ypx6mf7898i8gtklx04a9fm7sdnn2zt5tdl1iqjg\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"484\" data-aspect-ratio=\"1.0330578512396693\"/>\n<p data-aid=\"162703351\" id=\"p_hOAOT\">Trey wrote: \u201cI have always looked forward to serving a full-time mission, but \u2026 my doctors won\u2019t let me serve a mission until at least a year after my transplant. \u2026 I\u2019ve put my faith in Jesus Christ.\u201d<\/p>\n<p data-aid=\"162703356\" id=\"p_nj0Gq\">Trey was excited at being accepted into the accounting major at BYU beginning this semester, but even more excited in late July when he received the very anticipated telephone call to come to the hospital for his heart transplant.<\/p>\n<p data-aid=\"162703359\" id=\"p_cNP4a\">\u201cOne year,\u201d Trey said, \u201cand I will be on my mission.\u201d<\/p>\n<p data-aid=\"162703364\" id=\"p_c99Af\">There were great expectations as he entered the operating room. However, during the surgery there were devastating complications, and Trey never regained consciousness.<\/p>\n<p data-aid=\"162703369\" id=\"p_rQEMQ\">His mother, Robbie, said: \u201cFriday had been the most heartbreaking day \u2026 just trying to wrap our minds around it. \u2026 I had stayed up late just trying to process everything. \u2026 But Saturday, I woke up with a feeling of absolute joy. It wasn\u2019t just peace; it wasn\u2019t denial. I felt joy for my son, and I felt joy as his mother. \u2026 Ben had gotten up a lot earlier than me, and when we finally got a chance to talk, Ben had awakened with the exact same feeling.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<img alt=\"Robbie and Ben Andersen\" id=\"img_efugF\" src=\"https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/500%2C/0/default\" data-img-id=\"d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9\" srcset=\"https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9/full/640%2C/0/default 640w\" data-assetId=\"d1oy5pgta09nioysuj8rmd3ytvtxodoc6vie73e9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"668\" data-aspect-ratio=\"0.7485029940119761\"/>\n<p data-aid=\"162703371\" id=\"p_mcnVg\">Ben explained: \u201cClarity came to my soul as God taught me through His Holy Spirit. I awoke at 4:00 a.m. and was filled with indescribable peace and joy. How is this possible? \u2026 The passing of Trey is so very painful, and I miss him so much. But the Lord does not leave us comfortless. \u2026 I look forward to a joyful reunion.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a><\/p>\n<\/section>\n<span class=\"page-break\" data-page=\"6\"><\/span>\n<section>\n<header>\n<h2 data-aid=\"162703376\" id=\"p_xRwlY\">The Promise of Hope<\/h2>\n<\/header>\n<p data-aid=\"162703380\" id=\"p_bBeHp\">Trey had noted in his journal these words from President Nelson\u2019s general conference talk: \u201cIt doesn\u2019t seem possible to feel joy when your child suffers with an incurable illness or when you lose your job or when your spouse betrays you. Yet that is precisely the joy the Savior offers. His joy is constant, assuring us that our \u2018afflictions shall be but a small moment\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p7#p7\">Doctrine and Covenants 121:7<\/a>] and be consecrated to our gain.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a><\/p>\n<p data-aid=\"162705385\" id=\"p_jSZqp\">Brothers and sisters, the peace you seek may not come as quickly as you desire, but I promise you that as you trust in the Lord, His peace will come.<\/p>\n<p data-aid=\"162705390\" id=\"p_zFCbB\">May we nurture our precious faith, pressing forward with a perfect brightness of hope.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> I testify that our hope is our Savior, Jesus Christ. Through Him, all our righteous dreams will be realized. He is the God of hope\u2014the triumph of hope. He lives and He loves you. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162705393\" id=\"p_sCsjL\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162705397\" id=\"p_p622W\">Russell N. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;id=p37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162705405\" id=\"p_oJ8Mz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p8#p8\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162705407\" id=\"p_v6fL4\">\u201cHave you noticed in the scriptures that hope seldom stands alone? Hope is often linked with faith. Hope and faith are commonly connected to charity. Why? Because hope is essential to faith; faith is essential to hope; faith and hope are essential to charity (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=eng&amp;id=p13#p13\">1 Corinthians 13:13<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p24#p24\">Alma 7:24<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=eng&amp;id=p28#p28\">Ether 12:28<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 4:5<\/a>). They support one another like legs on a three-legged stool. All three relate to our Redeemer.<\/p>\n<p data-aid=\"162705415\" id=\"p_h8qYZ\">\u201c<em>Faith<\/em> [is rooted in] Jesus Christ. <em>Hope<\/em> centers in his atonement. <em>Charity<\/em> is manifest in the \u2018pure love of Christ\u2019 (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p47#p47\">Moroni 7:47<\/a>). These three attributes are intertwined like strands in a cable and may not always be precisely distinguished. Together, they become our tether to the celestial kingdom\u201d (Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope\">A More Excellent Hope<\/a>\u201d [Brigham Young University devotional, Jan. 8, 1995], 3, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162705418\" id=\"p_eh4zq\">Gospel Topics, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/hope?lang=eng&amp;id=p1#p1\">Hope<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162705425\" id=\"p_rApZW\">\u201cWherefore, whoso believeth in God might with surety hope for a better world, \u2026 even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, [making] them sure and steadfast\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=eng&amp;id=p4#p4\">Ether 12:4<\/a>).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162705429\" id=\"p_o8QMO\">Elder Dieter F. Uchtdorf said: \u201cAllow me to acknowledge that depression and other difficult mental and emotional challenges are real, and the answer is not simply, \u2018Try to be happier.\u2019 My purpose today is not to diminish or trivialize mental health issues. If you face such challenges, I mourn with you, and I stand beside you. For some people, finding joy may include seeking help from trained mental health professionals who devote their lives to practicing their very important art. We should be thankful for such help\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/35uchtdorf?lang=eng&amp;id=p13#p13\">A Higher Joy<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 66).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162705435\" id=\"p_hiqek\">Our Heavenly Father has declared that His work and glory is to bring to pass our eternal life (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39\">Moses 1:39<\/a>).<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162705440\" id=\"p_ep9CQ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng\">Moses 5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162705446\" id=\"p_muajM\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p10#p10\">Moses 5:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162705453\" id=\"p_ksCqa\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p11#p11\">Moses 5:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162705457\" id=\"p_y2C5T\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p9#p9\">Moses 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162705464\" id=\"p_jmkq1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162705471\" id=\"p_pltNU\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162705476\" id=\"p_tNlqi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42\">Luke 22:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162705486\" id=\"p_l5DFb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13\">Romans 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162705492\" id=\"p_dh63u\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p12#p12\">Romans 12:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162705499\" id=\"p_gH0Fb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13\">Romans 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162705505\" id=\"p_n5oxp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=eng&amp;id=p5#p5\">Mormon 8:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162705511\" id=\"p_yryx1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/1?lang=eng&amp;id=p1#p1\">Moroni 1:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162705516\" id=\"p_zZSYO\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p42#p42\">Moroni 7:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162705522\" id=\"p_qwlXk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p41#p41\">Moroni 7:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162705529\" id=\"p_nLGZ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=eng&amp;id=p1#p1\">Hebrews 11:1<\/a>. In the Joseph Smith Translation it reads, \u201cFaith is the <em>assurance<\/em> of things hoped for, the evidence of things not seen\u201d (in the Bible appendix). We see the assurance of our faith in the blessings that come to those who keep the covenants they have made with the Lord.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162705534\" id=\"p_zhmRm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p14#p14\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2016, 82.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162705541\" id=\"p_bxMXI\">Talk given by Robbie Andersen at the funeral of her son Trey Andersen, August 12, 2024. Trey had his surgery on July 31, 2024. He passed from this life on August 3, 2024.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162705547\" id=\"p_uSEAI\">Talk given by Ben Andersen at the funeral of his son Trey Andersen, August 12, 2024.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162705552\" id=\"p_lxb82\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p17#p17\">Joy and Spiritual Survival<\/a>,\u201d 82.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162705558\" id=\"p_mSpHx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20\">2 Nephi 31:20<\/a>. The hope Nephi speaks of is perfect and bright because it is centered in Christ. He is perfect, and His Atonement, which offers this bright hope, is also perfect.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162703225",
+        "id": "note4",
+        "text": "<p data-aid=\"162705418\" id=\"p_eh4zq\">Gospel Topics, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/hope?lang=eng&amp;id=p1#p1\">Hope<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/gospel-topics/hope?lang=eng&amp;id=p1#p1",
+          "text": "Hope",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162703231",
+        "id": "note5",
+        "text": "<p data-aid=\"162705425\" id=\"p_rApZW\">\u201cWherefore, whoso believeth in God might with surety hope for a better world, \u2026 even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, [making] them sure and steadfast\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=eng&amp;id=p4#p4\">Ether 12:4<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12?lang=eng&amp;id=p4#p4",
+          "text": "Ether 12:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162703219",
+        "id": "note2",
+        "text": "<p data-aid=\"162705405\" id=\"p_oJ8Mz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p8#p8\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p8#p8",
+          "text": "Pure Truth, Pure Doctrine, and Pure Revelation",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162703222",
+        "id": "note3",
+        "text": "<p data-aid=\"162705407\" id=\"p_v6fL4\">\u201cHave you noticed in the scriptures that hope seldom stands alone? Hope is often linked with faith. Hope and faith are commonly connected to charity. Why? Because hope is essential to faith; faith is essential to hope; faith and hope are essential to charity (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=eng&amp;id=p13#p13\">1 Corinthians 13:13<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p24#p24\">Alma 7:24<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=eng&amp;id=p28#p28\">Ether 12:28<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/4?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 4:5<\/a>). They support one another like legs on a three-legged stool. All three relate to our Redeemer.<\/p>\n<p data-aid=\"162705415\" id=\"p_h8qYZ\">\u201c<em>Faith<\/em> [is rooted in] Jesus Christ. <em>Hope<\/em> centers in his atonement. <em>Charity<\/em> is manifest in the \u2018pure love of Christ\u2019 (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p47#p47\">Moroni 7:47<\/a>). These three attributes are intertwined like strands in a cable and may not always be precisely distinguished. Together, they become our tether to the celestial kingdom\u201d (Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope\">A More Excellent Hope<\/a>\u201d [Brigham Young University devotional, Jan. 8, 1995], 3, speeches.byu.edu).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/13?lang=eng&amp;id=p13#p13",
+            "text": "1 Corinthians 13:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/7?lang=eng&amp;id=p24#p24",
+            "text": "Alma 7:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12?lang=eng&amp;id=p28#p28",
+            "text": "Ether 12:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/4?lang=eng&amp;id=p5#p5",
+            "text": "Doctrine and Covenants 4:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p47#p47",
+            "text": "Moroni 7:47",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/russell-m-nelson/excellent-hope",
+            "text": "A More Excellent Hope"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162703248",
+        "id": "note8",
+        "text": "<p data-aid=\"162705440\" id=\"p_ep9CQ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng\">Moses 5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=eng",
+          "text": "Moses 5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162703248",
+        "id": "note9",
+        "text": "<p data-aid=\"162705446\" id=\"p_muajM\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p10#p10\">Moses 5:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=eng&amp;id=p10#p10",
+          "text": "Moses 5:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162703234",
+        "id": "note6",
+        "text": "<p data-aid=\"162705429\" id=\"p_o8QMO\">Elder Dieter F. Uchtdorf said: \u201cAllow me to acknowledge that depression and other difficult mental and emotional challenges are real, and the answer is not simply, \u2018Try to be happier.\u2019 My purpose today is not to diminish or trivialize mental health issues. If you face such challenges, I mourn with you, and I stand beside you. For some people, finding joy may include seeking help from trained mental health professionals who devote their lives to practicing their very important art. We should be thankful for such help\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/35uchtdorf?lang=eng&amp;id=p13#p13\">A Higher Joy<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 66).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/35uchtdorf?lang=eng&amp;id=p13#p13",
+          "text": "A Higher Joy",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162703245",
+        "id": "note7",
+        "text": "<p data-aid=\"162705435\" id=\"p_hiqek\">Our Heavenly Father has declared that His work and glory is to bring to pass our eternal life (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39\">Moses 1:39<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39",
+          "text": "Moses 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162703262",
+        "id": "note16",
+        "text": "<p data-aid=\"162705492\" id=\"p_dh63u\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p12#p12\">Romans 12:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/12?lang=eng&amp;id=p12#p12",
+          "text": "Romans 12:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162703262",
+        "id": "note15",
+        "text": "<p data-aid=\"162705486\" id=\"p_l5DFb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13\">Romans 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13",
+          "text": "Romans 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162703259",
+        "id": "note14",
+        "text": "<p data-aid=\"162705476\" id=\"p_tNlqi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42\">Luke 22:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42",
+          "text": "Luke 22:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162703255",
+        "id": "note13",
+        "text": "<p data-aid=\"162705471\" id=\"p_pltNU\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33\">John 16:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33",
+          "text": "John 16:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162703252",
+        "id": "note12",
+        "text": "<p data-aid=\"162705464\" id=\"p_jmkq1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27",
+          "text": "John 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162703251",
+        "id": "note11",
+        "text": "<p data-aid=\"162705457\" id=\"p_y2C5T\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p9#p9\">Moses 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=eng&amp;id=p9#p9",
+          "text": "Moses 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162703248",
+        "id": "note10",
+        "text": "<p data-aid=\"162705453\" id=\"p_ksCqa\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/5?lang=eng&amp;id=p11#p11\">Moses 5:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/5?lang=eng&amp;id=p11#p11",
+          "text": "Moses 5:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162703272",
+        "id": "note19",
+        "text": "<p data-aid=\"162705511\" id=\"p_yryx1\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/1?lang=eng&amp;id=p1#p1\">Moroni 1:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/1?lang=eng&amp;id=p1#p1",
+          "text": "Moroni 1:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162703270",
+        "id": "note18",
+        "text": "<p data-aid=\"162705505\" id=\"p_n5oxp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=eng&amp;id=p5#p5\">Mormon 8:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/8?lang=eng&amp;id=p5#p5",
+          "text": "Mormon 8:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162703262",
+        "id": "note17",
+        "text": "<p data-aid=\"162705499\" id=\"p_gH0Fb\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13\">Romans 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/15?lang=eng&amp;id=p13#p13",
+          "text": "Romans 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162705390",
+        "id": "note27",
+        "text": "<p data-aid=\"162705558\" id=\"p_mSpHx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20\">2 Nephi 31:20<\/a>. The hope Nephi speaks of is perfect and bright because it is centered in Christ. He is perfect, and His Atonement, which offers this bright hope, is also perfect.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20",
+          "text": "2 Nephi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162703380",
+        "id": "note26",
+        "text": "<p data-aid=\"162705552\" id=\"p_lxb82\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p17#p17\">Joy and Spiritual Survival<\/a>,\u201d 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p17#p17",
+          "text": "Joy and Spiritual Survival",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162703371",
+        "id": "note25",
+        "text": "<p data-aid=\"162705547\" id=\"p_uSEAI\">Talk given by Ben Andersen at the funeral of his son Trey Andersen, August 12, 2024.<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162703369",
+        "id": "note24",
+        "text": "<p data-aid=\"162705541\" id=\"p_bxMXI\">Talk given by Robbie Andersen at the funeral of her son Trey Andersen, August 12, 2024. Trey had his surgery on July 31, 2024. He passed from this life on August 3, 2024.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162703346",
+        "id": "note23",
+        "text": "<p data-aid=\"162705534\" id=\"p_zhmRm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p14#p14\">Joy and Spiritual Survival<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2016, 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng&amp;id=p14#p14",
+          "text": "Joy and Spiritual Survival",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162703283",
+        "id": "note22",
+        "text": "<p data-aid=\"162705529\" id=\"p_nLGZ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=eng&amp;id=p1#p1\">Hebrews 11:1<\/a>. In the Joseph Smith Translation it reads, \u201cFaith is the <em>assurance<\/em> of things hoped for, the evidence of things not seen\u201d (in the Bible appendix). We see the assurance of our faith in the blessings that come to those who keep the covenants they have made with the Lord.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/11?lang=eng&amp;id=p1#p1",
+          "text": "Hebrews 11:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162703279",
+        "id": "note21",
+        "text": "<p data-aid=\"162705522\" id=\"p_qwlXk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p41#p41\">Moroni 7:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p41#p41",
+          "text": "Moroni 7:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162703277",
+        "id": "note20",
+        "text": "<p data-aid=\"162705516\" id=\"p_zZSYO\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p42#p42\">Moroni 7:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p42#p42",
+          "text": "Moroni 7:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162703217",
+        "id": "note1",
+        "text": "<p data-aid=\"162705397\" id=\"p_p622W\">Russell N. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;id=p37#p37\">Revelation for the Church, Revelation for Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2018, 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng&amp;id=p37#p37",
+          "text": "Revelation for the Church, Revelation for Our Lives",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

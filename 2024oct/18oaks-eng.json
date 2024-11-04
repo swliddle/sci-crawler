@@ -1,0 +1,570 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/18oaks?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "8c9e9c1731804783ae58a6698d0228eb",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/18oaks",
+      "data-aid": "162703328",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "8c9e9c1731804783ae58a6698d0228eb"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/98ba59ce80ff11efae28022e7e432ed973dff5bb-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "Following Christ",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162703328",
+      {"key": "162703328"}
+    ],
+    [
+      "162703334",
+      {"key": "162703334"}
+    ],
+    [
+      "162703339",
+      {"key": "162703339"}
+    ],
+    [
+      "162703345",
+      {"key": "162703345"}
+    ],
+    [
+      "162703350",
+      {"key": "162703350"}
+    ],
+    [
+      "162703353",
+      {"key": "162703353"}
+    ],
+    [
+      "162703361",
+      {"key": "162703361"}
+    ],
+    [
+      "162703366",
+      {"key": "162703366"}
+    ],
+    [
+      "162703374",
+      {"key": "162703374"}
+    ],
+    [
+      "162703379",
+      {"key": "162703379"}
+    ],
+    [
+      "162705387",
+      {"key": "162705387"}
+    ],
+    [
+      "162705395",
+      {"key": "162705395"}
+    ],
+    [
+      "162705401",
+      {"key": "162705401"}
+    ],
+    [
+      "162705406",
+      {"key": "162705406"}
+    ],
+    [
+      "162705411",
+      {"key": "162705411"}
+    ],
+    [
+      "162705416",
+      {"key": "162705416"}
+    ],
+    [
+      "162705421",
+      {"key": "162705421"}
+    ],
+    [
+      "162705427",
+      {"key": "162705427"}
+    ],
+    [
+      "162705432",
+      {"key": "162705432"}
+    ],
+    [
+      "162705436",
+      {"key": "162705436"}
+    ],
+    [
+      "162705441",
+      {"key": "162705441"}
+    ],
+    [
+      "162705449",
+      {"key": "162705449"}
+    ],
+    [
+      "162705452",
+      {"key": "162705452"}
+    ],
+    [
+      "162705458",
+      {"key": "162705458"}
+    ],
+    [
+      "162705465",
+      {"key": "162705465"}
+    ],
+    [
+      "162705469",
+      {"key": "162705469"}
+    ],
+    [
+      "162705477",
+      {"key": "162705477"}
+    ],
+    [
+      "162705485",
+      {"key": "162705485"}
+    ],
+    [
+      "162705488",
+      {"key": "162705488"}
+    ],
+    [
+      "162705497",
+      {"key": "162705497"}
+    ],
+    [
+      "162705503",
+      {"key": "162705503"}
+    ],
+    [
+      "162705509",
+      {"key": "162705509"}
+    ],
+    [
+      "162705512",
+      {"key": "162705512"}
+    ],
+    [
+      "162705520",
+      {"key": "162705520"}
+    ],
+    [
+      "162705526",
+      {"key": "162705526"}
+    ],
+    [
+      "162705531",
+      {"key": "162705531"}
+    ],
+    [
+      "162705538",
+      {"key": "162705538"}
+    ],
+    [
+      "162705544",
+      {"key": "162705544"}
+    ],
+    [
+      "162705550",
+      {"key": "162705550"}
+    ],
+    [
+      "162705556",
+      {"key": "162705556"}
+    ],
+    [
+      "162705560",
+      {"key": "162705560"}
+    ],
+    [
+      "162705565",
+      {"key": "162705565"}
+    ],
+    [
+      "162705570",
+      {"key": "162705570"}
+    ],
+    [
+      "162705573",
+      {"key": "162705573"}
+    ],
+    [
+      "162705576",
+      {"key": "162705576"}
+    ],
+    [
+      "162705578",
+      {"key": "162705578"}
+    ],
+    [
+      "162705581",
+      {"key": "162705581"}
+    ],
+    [
+      "162705585",
+      {"key": "162705585"}
+    ],
+    [
+      "162705588",
+      {"key": "162705588"}
+    ],
+    [
+      "162705592",
+      {"key": "162705592"}
+    ],
+    [
+      "162705596",
+      {"key": "162705596"}
+    ],
+    [
+      "162705600",
+      {"key": "162705600"}
+    ],
+    [
+      "162705605",
+      {"key": "162705605"}
+    ],
+    [
+      "162705610",
+      {"key": "162705610"}
+    ],
+    [
+      "162705614",
+      {"key": "162705614"}
+    ],
+    [
+      "162705619",
+      {"key": "162705619"}
+    ],
+    [
+      "162705624",
+      {"key": "162705624"}
+    ],
+    [
+      "162705627",
+      {"key": "162705627"}
+    ],
+    [
+      "162705631",
+      {"key": "162705631"}
+    ],
+    [
+      "162705635",
+      {"key": "162705635"}
+    ],
+    [
+      "162705640",
+      {"key": "162705640"}
+    ],
+    [
+      "162705646",
+      {"key": "162705646"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/18oaks",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "President Oaks teaches the importance of following Jesus Christ\u2019s commandments, with emphasis on His commandment to avoid contention.",
+          "title": "Following Christ"
+        },
+        "pageSocial": {
+          "description": "President Oaks teaches the importance of following Jesus Christ\u2019s commandments, with emphasis on His commandment to avoid contention.",
+          "title": "Following Christ"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!192%2C/0/default\" data-video-id=\"6362882824112\" data-duration=\"810976\" data-assetId=\"0d71acef76b011efb2bf0626c361eb55501dafc3\" data-ref-id=\"0d71acef76b011efb2bf0626c361eb55501dafc3\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362882824112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"250282140\"/><source src=\"https://assets.churchofjesuschrist.org/0d71acef76b011efb2bf0626c361eb55501dafc3-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"44856263\"/><source src=\"https://assets.churchofjesuschrist.org/0d71acef76b011efb2bf0626c361eb55501dafc3-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"88484282\"/><source src=\"https://assets.churchofjesuschrist.org/0d71acef76b011efb2bf0626c361eb55501dafc3-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"250282140\"/><\/video><h1 data-aid=\"162703334\" id=\"p_dwhrx\">Following Christ<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162703339\" id=\"p_fzU0D\">By President Dallin H. Oaks<\/p>\n<p class=\"author-role\" data-aid=\"162703345\" id=\"p_hBoJE\">First Counselor in the First Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162703350\" id=\"p_f314b\">As followers of Christ, we teach and testify of Jesus Christ, our Perfect Role Model. So let us follow Him by forgoing contention.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162703353\" id=\"p_fjpqh\">This year millions have been inspired by the gospel study plan known by the Savior\u2019s invitation \u201cCome, follow me.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> Following Christ is not a casual or occasional practice. It is a continuous commitment and way of life that should guide us at all times and in all places. His teachings and His example define the path for every disciple of Jesus Christ. And all are invited to this path, for He invites all to come unto Him, \u201cblack and white, bond and free, male and female; \u2026 and all are alike unto God.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<section id=\"sec_yeAse\">\n<header>\n<h2 data-aid=\"162703361\" id=\"p_oaWO1\">I.<\/h2>\n<\/header>\n<p data-aid=\"162703366\" id=\"p_xXNVy\">The first step in following Christ is to obey what He defined as \u201cthe great commandment in the law\u201d:<\/p>\n<p data-aid=\"162703374\" id=\"p_ebc0u\">\u201cThou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.<\/p>\n<p data-aid=\"162703379\" id=\"p_relYL\">\u201cThis is the first and great commandment.<\/p>\n<p data-aid=\"162705387\" id=\"p_anmax\">\u201cAnd the second is like unto it, Thou shalt love thy neighbour as thyself.<\/p>\n<p data-aid=\"162705395\" id=\"p_okSrK\">\u201cOn these two commandments hang all the law and the prophets.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a><\/p>\n<img alt=\"Father and son flying a kite.\" id=\"img_okNco\" src=\"https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/500%2C/0/default\" data-img-id=\"nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo\" srcset=\"https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/640%2C/0/default 640w\" data-assetId=\"nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"162705401\" id=\"p_rGHnb\">The commandments of God provide the guiding and steadying force in our lives. Our experiences in mortality are like the little boy and his father flying a kite on a windy day. As the kite rose higher, the winds caused it to tug on the connecting string in the little boy\u2019s hand. Inexperienced with the force of mortal winds, he proposed to cut the string so the kite could rise higher. His wise father counseled no, explaining that the string is what holds the kite in place against mortal winds. If we lose our hold on the string, the kite will not rise higher. It will be carried about by these winds and inevitably crash to the earth.<\/p>\n<p data-aid=\"162705406\" id=\"p_lLjEa\">That essential string represents the covenants that connect us to God, our Heavenly Father, and His Son, Jesus Christ. As we honor those covenants by keeping Their commandments and following Their plan of redemption, Their promised blessings enable us to soar to celestial heights.<\/p>\n<p data-aid=\"162705411\" id=\"p_ipgNK\">The Book of Mormon frequently declares that Christ is \u201cthe light of the world.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> During His appearance to the Nephites, the risen Lord explained that teaching by telling them: \u201cI have set an example for you.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> \u201cI am the light which ye shall hold up\u2014that which ye have seen me do.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a> He is our role model. We learn what He has said and done by studying the scriptures and following prophetic teachings, as President Russell M. Nelson has urged us to do.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> In the ordinance of the sacrament, we covenant each Sabbath day that we will \u201calways remember him and keep his commandments.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_m5KAp\">\n<header>\n<h2 data-aid=\"162705416\" id=\"p_eR43c\">II.<\/h2>\n<\/header>\n<p data-aid=\"162705421\" id=\"p_byEkx\">In the Book of Mormon, the Lord gave us the fundamentals in what He called \u201cthe doctrine of Christ.\u201d These are faith in the Lord Jesus Christ, repentance, baptism, receiving the gift of the Holy Ghost, enduring to the end, and becoming as a little child,<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> which means to trust the Lord and submit to all He requires of us.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162705427\" id=\"p_xfPgG\">The Lord\u2019s commandments are of two types: permanent, like the doctrine of Christ, and temporary. Temporary commandments are those necessary for the needs of the Lord\u2019s Church or the faithful in temporary circumstances, but to be set aside when the need has passed. An example of temporary commandments are the Lord\u2019s directions to the early leadership of the Church to move the Saints from New York to Ohio, to Missouri, and to Illinois and finally to lead the pioneer exodus to the Intermountain West. Though only temporary, when still in force these commandments were given to be obeyed.<\/p>\n<p data-aid=\"162705432\" id=\"p_w86Lf\">Some permanent commandments have taken considerable time to be generally observed. For example, President Lorenzo Snow\u2019s famous sermon on the law of tithing emphasized a commandment given earlier but not yet generally observed by Church members.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> It needed reemphasis in the circumstances then faced by the Church and its members. Recent examples of reemphases have also been needed because of current circumstances faced by Latter-day Saints or the Church. These include the proclamation on the family, issued by President Gordon B. Hinckley a generation ago,<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a> and President Russell M. Nelson\u2019s recent call for the Church to be known by its revealed name, The Church of Jesus Christ of Latter-day Saints.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_k8p7r\">\n<header>\n<h2 data-aid=\"162705436\" id=\"p_pMo5b\">III.<\/h2>\n<\/header>\n<p data-aid=\"162705441\" id=\"p_kNe0k\">Another of our Savior\u2019s teachings seems to require reemphasis in the circumstances of our day.<\/p>\n<p data-aid=\"162705449\" id=\"p_ezU20\">This is a time of many harsh and hurtful words in public communications and sometimes even in our families. Sharp differences on issues of public policy often result in actions of hostility\u2014even hatred\u2014in public and personal relationships. This atmosphere of enmity sometimes even paralyzes capacities for lawmaking on matters of importance where most citizens see an urgent need for some action in the public interest.<\/p>\n<p data-aid=\"162705452\" id=\"p_z4qxi\">What should followers of Christ teach and do in this time of toxic communications? What were His teachings and examples?<\/p>\n<img alt=\"The Savior teaching the Nephites.\" id=\"img_o05xA\" src=\"https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/500%2C/0/default\" data-img-id=\"xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e\" srcset=\"https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/640%2C/0/default 640w\" data-assetId=\"xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"162705458\" id=\"p_lz7go\">It is significant that among the first principles Jesus taught when He appeared to the Nephites was to avoid contention. While He taught this in the context of disputes over religious doctrine, the reasons He gave clearly apply to communications and relationships in politics, public policy, and family relationships. Jesus taught:<\/p>\n<p data-aid=\"162705465\" id=\"p_w2Lbk\">\u201cHe that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another.<\/p>\n<p data-aid=\"162705469\" id=\"p_nEtgy\">\u201cBehold, this is not my doctrine, to stir up the hearts of men with anger, one against another; but this is my doctrine, that such things should be done away.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<p data-aid=\"162705477\" id=\"p_yeWQB\">In His remaining ministry among the Nephites, Jesus taught other commandments closely related to His prohibition of contention. We know from the Bible that He had previously taught each of these in His great Sermon on the Mount, usually in precisely the same language He later used with the Nephites. I will quote the familiar Bible language:<\/p>\n<img alt=\"The Savior teaching in Jerusalem.\" id=\"img_gMi9n\" src=\"https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/500%2C/0/default\" data-img-id=\"937c2934231011edb2d9eeeeac1ea7e66e30d46e\" srcset=\"https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/60%2C/0/default 60w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/100%2C/0/default 100w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/200%2C/0/default 200w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/250%2C/0/default 250w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/320%2C/0/default 320w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/500%2C/0/default 500w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/640%2C/0/default 640w\" data-assetId=\"937c2934231011edb2d9eeeeac1ea7e66e30d46e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"333\" data-aspect-ratio=\"1.5015015015015014\"/>\n<p data-aid=\"162705485\" id=\"p_nu7Ue\">\u201cLove your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a><\/p>\n<p data-aid=\"162705488\" id=\"p_dLQzt\">This is one of Christ\u2019s best-known commandments\u2014most revolutionary and most difficult to follow. Yet it is a most fundamental part of His invitation for all to follow Him. As President David O. McKay taught, \u201cThere is no better way to manifest love for God than to show an unselfish love for one\u2019s fellowmen.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<img alt=\"Opposing parties at mediation.\" id=\"img_mL0XU\" src=\"https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/500%2C/0/default\" data-img-id=\"ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb\" srcset=\"https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/640%2C/0/default 640w\" data-assetId=\"ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"158\" data-aspect-ratio=\"3.1645569620253164\"/>\n<p data-aid=\"162705497\" id=\"p_yobLZ\">Here is another fundamental teaching by Him who is our role model: \u201cBlessed are the peacemakers: for they shall be called the children of God.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a><\/p>\n<p data-aid=\"162705503\" id=\"p_oqqpz\">Peacemakers! How it would change personal relationships if followers of Christ would forgo harsh and hurtful words in all their communications.<\/p>\n<p data-aid=\"162705509\" id=\"p_alS9T\">In general conference last year, President Russell M. Nelson gave us these challenges:<\/p>\n<p data-aid=\"162705512\" id=\"p_vuzPK\">\u201cOne of the easiest ways to identify a <em>true follower<\/em> of Jesus Christ is how compassionately that person treats other people. \u2026<\/p>\n<p data-aid=\"162705520\" id=\"p_ts8Qw\">\u201c\u2026 True disciples of Jesus Christ are peacemakers.<\/p>\n<p data-aid=\"162705526\" id=\"p_c5hvP\">\u201c\u2026 One of the best ways we can honor the Savior is to become a peacemaker.\u201d<\/p>\n<p data-aid=\"162705531\" id=\"p_tQWPy\">Concluding his teachings: \u201cContention is a choice. Peacemaking is a choice. You have your agency to choose contention or reconciliation. I urge you to <em>choose<\/em> to be a peacemaker, now and always.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a><\/p>\n<p data-aid=\"162705538\" id=\"p_czRKW\">Potential adversaries should begin their discussions by identifying common ground on which all agree.<\/p>\n<p data-aid=\"162705544\" id=\"p_lG7rS\">To follow our Perfect Role Model and His prophet, we need to practice what is popularly known as the Golden Rule: \u201cAll things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> We need to love and do good to all. We need to avoid contention and be peacemakers in all our communications. This does not mean to compromise our principles and priorities but to cease harshly attacking others for theirs. That is what our Perfect Role Model did in His ministry. That is the example He set for us as He invited us to follow Him.<\/p>\n<p data-aid=\"162705550\" id=\"p_osrGu\">In this conference four years ago, President Nelson gave us a prophetic challenge for our own day:<\/p>\n<p data-aid=\"162705556\" id=\"p_yZMUe\">\u201cAre <em>you<\/em> willing to let God prevail in your life? Are <em>you<\/em> willing to let God be the most important influence in your life? Will you allow His words, His commandments, and His covenants to influence what you do each day? Will you allow His voice to take priority over any other?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a><\/p>\n<img alt=\"The Lord Jesus Christ.\" id=\"img_lSqUP\" src=\"https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/500%2C/0/default\" data-img-id=\"1f0df7933b8d98a6fd2bc0cd708023eb1be068f0\" srcset=\"https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/640%2C/0/default 640w\" data-assetId=\"1f0df7933b8d98a6fd2bc0cd708023eb1be068f0\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"263\" data-aspect-ratio=\"1.9011406844106464\"/>\n<p data-aid=\"162705560\" id=\"p_cmUiR\">As followers of Christ, we teach and testify of Jesus Christ, our Perfect Role Model. So let us follow Him by forgoing contention. As we pursue our preferred policies in public actions, let us qualify for His blessings by using the language and methods of peacemakers. In our families and other personal relationships, let us avoid what is harsh and hateful. Let us seek to be holy, like our Savior, in whose holy name I testify and invoke His blessing to help us be Saints. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162705565\" id=\"p_hazSH\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162705570\" id=\"p_eo53g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=eng&amp;id=p22#p22\">Luke 18:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162705573\" id=\"p_mBbeA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p33#p33\">2 Nephi 26:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162705576\" id=\"p_h6C8G\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p40#p36\">Matthew 22:36\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162705578\" id=\"p_ot0Zu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38?lang=eng&amp;id=p9#p9\">Alma 38:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p9#p9\">Mosiah 16:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p18#p18\">3 Nephi 9:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162705581\" id=\"p_tcb5M\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p16#p16\">3 Nephi 18:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162705585\" id=\"p_oQZEe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p21#p21\">3 Nephi 27:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162705588\" id=\"p_xVFWl\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;id=p5-p10#p5\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 39\u201340.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162705592\" id=\"p_oFQyA\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77\">Doctrine and Covenants 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162705596\" id=\"p_or64r\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p32-p33%2C38#p32\">3 Nephi 11:32\u201333, 38<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13-p21#p13\">2 Nephi 31:13\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p22#p13\">3 Nephi 27:13\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162705600\" id=\"p_veGRi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19\">Mosiah 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162705605\" id=\"p_pL6wg\">See <cite><a class=\"cross-ref\" href=\"/study/history/saints-v3/part-1/05-an-essential-preparation?lang=eng&amp;id=p43-p60#p43\">Saints: The Story of the Church of Jesus Christ in the Latter Days<\/a><\/cite>, vol. 3, <cite>Boldly, Nobly, and Independent, 1893\u20131955<\/cite> (2022), 73\u201377.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162705610\" id=\"p_tgjYq\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng\">The Family: A Proclamation to the World<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162705614\" id=\"p_fhsBr\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng\">The Correct Name of the Church<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 87\u201389.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162705619\" id=\"p_bj0LH\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p29-p30#p29\">3 Nephi 11:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162705624\" id=\"p_y2JxX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44\">Matthew 5:44<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44\">3 Nephi 12:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162705627\" id=\"p_wA5Zg\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-19?lang=eng&amp;id=p10#p10\">Teachings of Presidents of the Church: David O. McKay<\/a><\/cite> (2003), 181.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162705631\" id=\"p_es4gq\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9\">3 Nephi 12:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162705635\" id=\"p_pmboj\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=eng&amp;id=p7%2Cp10-p11%2Cp35#p7\">Peacemakers Needed<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 98, 99, 100.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162705640\" id=\"p_tN8lF\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p12#p12\">Matthew 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162705646\" id=\"p_pPVkF\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p24#p24\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162705411",
+        "id": "note4",
+        "text": "<p data-aid=\"162705578\" id=\"p_ot0Zu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38?lang=eng&amp;id=p9#p9\">Alma 38:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p9#p9\">Mosiah 16:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p18#p18\">3 Nephi 9:18<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/38?lang=eng&amp;id=p9#p9",
+            "text": "Alma 38:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p9#p9",
+            "text": "Mosiah 16:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p18#p18",
+            "text": "3 Nephi 9:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162705411",
+        "id": "note5",
+        "text": "<p data-aid=\"162705581\" id=\"p_tcb5M\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p16#p16\">3 Nephi 18:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p16#p16",
+          "text": "3 Nephi 18:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162703353",
+        "id": "note2",
+        "text": "<p data-aid=\"162705573\" id=\"p_mBbeA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p33#p33\">2 Nephi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p33#p33",
+          "text": "2 Nephi 26:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162705395",
+        "id": "note3",
+        "text": "<p data-aid=\"162705576\" id=\"p_h6C8G\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p40#p36\">Matthew 22:36\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=eng&amp;id=p36-p40#p36",
+          "text": "Matthew 22:36\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162705411",
+        "id": "note8",
+        "text": "<p data-aid=\"162705592\" id=\"p_oFQyA\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77\">Doctrine and Covenants 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77",
+          "text": "Doctrine and Covenants 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162705421",
+        "id": "note9",
+        "text": "<p data-aid=\"162705596\" id=\"p_or64r\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p32-p33%2C38#p32\">3 Nephi 11:32\u201333, 38<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13-p21#p13\">2 Nephi 31:13\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p22#p13\">3 Nephi 27:13\u201322<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p32-p33%2C38#p32",
+            "text": "3 Nephi 11:32\u201333, 38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13-p21#p13",
+            "text": "2 Nephi 31:13\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p22#p13",
+            "text": "3 Nephi 27:13\u201322",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162705411",
+        "id": "note6",
+        "text": "<p data-aid=\"162705585\" id=\"p_oQZEe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p21#p21\">3 Nephi 27:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24",
+            "text": "3 Nephi 18:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p21#p21",
+            "text": "3 Nephi 27:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162705411",
+        "id": "note7",
+        "text": "<p data-aid=\"162705588\" id=\"p_xVFWl\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;id=p5-p10#p5\">Drawing the Power of Jesus Christ into Our Lives<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 39\u201340.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;id=p5-p10#p5",
+          "text": "Drawing the Power of Jesus Christ into Our Lives",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162705488",
+        "id": "note16",
+        "text": "<p data-aid=\"162705627\" id=\"p_wA5Zg\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-19?lang=eng&amp;id=p10#p10\">Teachings of Presidents of the Church: David O. McKay<\/a><\/cite> (2003), 181.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-david-o-mckay/chapter-19?lang=eng&amp;id=p10#p10",
+          "text": "Teachings of Presidents of the Church: David O. McKay",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162705485",
+        "id": "note15",
+        "text": "<p data-aid=\"162705624\" id=\"p_y2JxX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44\">Matthew 5:44<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44\">3 Nephi 12:44<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44",
+            "text": "Matthew 5:44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44",
+            "text": "3 Nephi 12:44",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162705469",
+        "id": "note14",
+        "text": "<p data-aid=\"162705619\" id=\"p_bj0LH\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p29-p30#p29\">3 Nephi 11:29\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p29-p30#p29",
+          "text": "3 Nephi 11:29\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162705432",
+        "id": "note13",
+        "text": "<p data-aid=\"162705614\" id=\"p_fhsBr\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng\">The Correct Name of the Church<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 87\u201389.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng",
+          "text": "The Correct Name of the Church",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162705432",
+        "id": "note12",
+        "text": "<p data-aid=\"162705610\" id=\"p_tgjYq\">See \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng\">The Family: A Proclamation to the World<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng",
+          "text": "The Family: A Proclamation to the World",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162705432",
+        "id": "note11",
+        "text": "<p data-aid=\"162705605\" id=\"p_pL6wg\">See <cite><a class=\"cross-ref\" href=\"/study/history/saints-v3/part-1/05-an-essential-preparation?lang=eng&amp;id=p43-p60#p43\">Saints: The Story of the Church of Jesus Christ in the Latter Days<\/a><\/cite>, vol. 3, <cite>Boldly, Nobly, and Independent, 1893\u20131955<\/cite> (2022), 73\u201377.<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v3/part-1/05-an-essential-preparation?lang=eng&amp;id=p43-p60#p43",
+          "text": "Saints: The Story of the Church of Jesus Christ in the Latter Days",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162705421",
+        "id": "note10",
+        "text": "<p data-aid=\"162705600\" id=\"p_veGRi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19\">Mosiah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19",
+          "text": "Mosiah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162705556",
+        "id": "note20",
+        "text": "<p data-aid=\"162705646\" id=\"p_pPVkF\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p24#p24\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 94.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p24#p24",
+          "text": "Let God Prevail",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162703353",
+        "id": "note1",
+        "text": "<p data-aid=\"162705570\" id=\"p_eo53g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=eng&amp;id=p22#p22\">Luke 18:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18?lang=eng&amp;id=p22#p22",
+          "text": "Luke 18:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162705544",
+        "id": "note19",
+        "text": "<p data-aid=\"162705640\" id=\"p_tN8lF\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=eng&amp;id=p12#p12\">Matthew 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7?lang=eng&amp;id=p12#p12",
+          "text": "Matthew 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162705531",
+        "id": "note18",
+        "text": "<p data-aid=\"162705635\" id=\"p_pmboj\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=eng&amp;id=p7%2Cp10-p11%2Cp35#p7\">Peacemakers Needed<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 98, 99, 100.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=eng&amp;id=p7%2Cp10-p11%2Cp35#p7",
+          "text": "Peacemakers Needed",
+          "type": "cross-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162705497",
+        "id": "note17",
+        "text": "<p data-aid=\"162705631\" id=\"p_es4gq\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9\">3 Nephi 12:9<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9",
+            "text": "Matthew 5:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9",
+            "text": "3 Nephi 12:9",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

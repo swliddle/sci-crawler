@@ -1,0 +1,641 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/53rasband?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "3c61d287949a44b1b5b61a27f4779c97",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/53rasband",
+      "data-aid": "162706173",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "5",
+      "data-orig-id": "3c61d287949a44b1b5b61a27f4779c97"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/af3c633a810311efae28022e7e432ed96dea0f6f-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cBehold I Am the Light Which Ye Shall Hold Up\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162706173",
+      {"key": "162706173"}
+    ],
+    [
+      "162706185",
+      {"key": "162706185"}
+    ],
+    [
+      "162706193",
+      {"key": "162706193"}
+    ],
+    [
+      "162706200",
+      {"key": "162706200"}
+    ],
+    [
+      "162706207",
+      {"key": "162706207"}
+    ],
+    [
+      "162706214",
+      {"key": "162706214"}
+    ],
+    [
+      "162706221",
+      {"key": "162706221"}
+    ],
+    [
+      "162706228",
+      {"key": "162706228"}
+    ],
+    [
+      "162706236",
+      {"key": "162706236"}
+    ],
+    [
+      "162706244",
+      {"key": "162706244"}
+    ],
+    [
+      "162706252",
+      {"key": "162706252"}
+    ],
+    [
+      "162706260",
+      {"key": "162706260"}
+    ],
+    [
+      "162706268",
+      {"key": "162706268"}
+    ],
+    [
+      "162706276",
+      {"key": "162706276"}
+    ],
+    [
+      "162706290",
+      {"key": "162706290"}
+    ],
+    [
+      "162706300",
+      {"key": "162706300"}
+    ],
+    [
+      "162706310",
+      {"key": "162706310"}
+    ],
+    [
+      "162706319",
+      {"key": "162706319"}
+    ],
+    [
+      "162706326",
+      {"key": "162706326"}
+    ],
+    [
+      "162706336",
+      {"key": "162706336"}
+    ],
+    [
+      "162706344",
+      {"key": "162706344"}
+    ],
+    [
+      "162706352",
+      {"key": "162706352"}
+    ],
+    [
+      "162706360",
+      {"key": "162706360"}
+    ],
+    [
+      "162706368",
+      {"key": "162706368"}
+    ],
+    [
+      "162706376",
+      {"key": "162706376"}
+    ],
+    [
+      "162706382",
+      {"key": "162706382"}
+    ],
+    [
+      "162706391",
+      {"key": "162706391"}
+    ],
+    [
+      "162706399",
+      {"key": "162706399"}
+    ],
+    [
+      "162706407",
+      {"key": "162706407"}
+    ],
+    [
+      "162706415",
+      {"key": "162706415"}
+    ],
+    [
+      "162706423",
+      {"key": "162706423"}
+    ],
+    [
+      "162706431",
+      {"key": "162706431"}
+    ],
+    [
+      "162706438",
+      {"key": "162706438"}
+    ],
+    [
+      "162706446",
+      {"key": "162706446"}
+    ],
+    [
+      "162706453",
+      {"key": "162706453"}
+    ],
+    [
+      "162706460",
+      {"key": "162706460"}
+    ],
+    [
+      "162706467",
+      {"key": "162706467"}
+    ],
+    [
+      "162706474",
+      {"key": "162706474"}
+    ],
+    [
+      "162706481",
+      {"key": "162706481"}
+    ],
+    [
+      "162706489",
+      {"key": "162706489"}
+    ],
+    [
+      "162706495",
+      {"key": "162706495"}
+    ],
+    [
+      "162706501",
+      {"key": "162706501"}
+    ],
+    [
+      "162706507",
+      {"key": "162706507"}
+    ],
+    [
+      "162706513",
+      {"key": "162706513"}
+    ],
+    [
+      "162706519",
+      {"key": "162706519"}
+    ],
+    [
+      "162706526",
+      {"key": "162706526"}
+    ],
+    [
+      "162706534",
+      {"key": "162706534"}
+    ],
+    [
+      "162706543",
+      {"key": "162706543"}
+    ],
+    [
+      "162706549",
+      {"key": "162706549"}
+    ],
+    [
+      "162706553",
+      {"key": "162706553"}
+    ],
+    [
+      "162706557",
+      {"key": "162706557"}
+    ],
+    [
+      "162706563",
+      {"key": "162706563"}
+    ],
+    [
+      "162706567",
+      {"key": "162706567"}
+    ],
+    [
+      "162706572",
+      {"key": "162706572"}
+    ],
+    [
+      "162706574",
+      {"key": "162706574"}
+    ],
+    [
+      "162706580",
+      {"key": "162706580"}
+    ],
+    [
+      "162706585",
+      {"key": "162706585"}
+    ],
+    [
+      "162706589",
+      {"key": "162706589"}
+    ],
+    [
+      "162706595",
+      {"key": "162706595"}
+    ],
+    [
+      "162706600",
+      {"key": "162706600"}
+    ],
+    [
+      "162706605",
+      {"key": "162706605"}
+    ],
+    [
+      "162706610",
+      {"key": "162706610"}
+    ],
+    [
+      "162706615",
+      {"key": "162706615"}
+    ],
+    [
+      "162706619",
+      {"key": "162706619"}
+    ],
+    [
+      "162706622",
+      {"key": "162706622"}
+    ],
+    [
+      "162706624",
+      {"key": "162706624"}
+    ],
+    [
+      "162706627",
+      {"key": "162706627"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/53rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Rasband teaches about sustaining the living prophet by following his teachings and example.",
+          "title": "\u201cBehold I Am the Light Which Ye Shall Hold Up\u201d"
+        },
+        "pageSocial": {
+          "description": "Elder Rasband teaches about sustaining the living prophet by following his teachings and example.",
+          "title": "\u201cBehold I Am the Light Which Ye Shall Hold Up\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!192%2C/0/default\" data-video-id=\"6362918083112\" data-duration=\"809033\" data-assetId=\"3522a6067c4d11ef87f9022e7e432ed9193a995f\" data-ref-id=\"3522a6067c4d11ef87f9022e7e432ed9193a995f\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362918083112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"201602667\"/><source src=\"https://assets.churchofjesuschrist.org/3522a6067c4d11ef87f9022e7e432ed9193a995f-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"43390399\"/><source src=\"https://assets.churchofjesuschrist.org/3522a6067c4d11ef87f9022e7e432ed9193a995f-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"77319075\"/><source src=\"https://assets.churchofjesuschrist.org/3522a6067c4d11ef87f9022e7e432ed9193a995f-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"201602667\"/><\/video><h1 data-aid=\"162706185\" id=\"p_lbeIV\">\u201cBehold I Am the Light Which Ye Shall Hold Up\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162706193\" id=\"p_bFSLb\">By Elder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"162706200\" id=\"p_dHraS\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162706207\" id=\"p_oaegu\">We hold up the Lord\u2019s light when we hold fast to our covenants and when we support our living prophet.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162706214\" id=\"p_z6Ad2\">To the many testimonies at this conference, I add my apostolic witness that Jesus Christ is the Son of God, our Lord and Savior, the Redeemer of all of our Father\u2019s children. By His Atonement, Jesus Christ made it possible for us, if we are worthy, to return to the presence of our Father in Heaven and be with our families for eternity.<\/p>\n<p data-aid=\"162706221\" id=\"p_sSgA9\">The Savior is not absent from our mortal journeys. For the past two days we have heard Him speak through His chosen leaders that we might draw closer to Him.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> Time and again, with His pure love and mercy, He sustains us as we face the drama of life. Nephi describes: \u201cMy God hath been my support; he hath led me though mine afflictions. \u2026 He hath filled me with his love.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"162706228\" id=\"p_xZVzG\">That love is evident when we sustain one another in His work.<\/p>\n<p data-aid=\"162706236\" id=\"p_bgufh\">We sustain our living prophet at general conference, and the First Presidency, the Quorum of the Twelve Apostles, General Authorities, and Officers of the Church. To sustain means to <em>hold up<\/em> another person, to give them our attention, to be faithful to their trust, to act upon their words.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> They speak by inspiration of the Lord; they understand the current issues, the moral decline of society, and the adversary\u2019s increasing efforts to thwart the Father\u2019s plan. In <em>holding up<\/em> our hands, we are committing our support, not just for that moment but in our daily lives.<\/p>\n<p data-aid=\"162706244\" id=\"p_sIK7A\">Sustaining includes <em>holding up<\/em> our stake presidents and bishops, quorum and organization leaders, teachers, and even camp directors in our wards and stakes. Closer to home, we <em>hold up<\/em> our wives and our husbands, children, parents, extended family, and neighbors. When we <em>hold up<\/em> one another we are saying, \u201cI am here for you, not just to <em>hold up<\/em> your arms and hands when they \u2018hang down\u2019<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> but to be a comfort and strength at your side.\u201d<\/p>\n<p data-aid=\"162706252\" id=\"p_hmdmt\">The concept to <em>hold up<\/em> is rooted in scripture. At the Waters of Mormon, the newly baptized Church members committed \u201cto bear one another\u2019s burdens, that they may be light; \u2026 [to] comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a><\/p>\n<p data-aid=\"162706260\" id=\"p_cjhhu\">To the Nephites, Jesus said: \u201c<em>Hold up<\/em> your light that it may shine unto the world. <em>Behold I am the light which ye shall hold up<\/em>.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a> We <em>hold up<\/em> the Lord\u2019s light when we hold fast to our covenants and when we support our living prophet as he speaks the words of God.<\/p>\n<p data-aid=\"162706268\" id=\"p_eA4Wf\">President Russell M. Nelson said, when serving in the Quorum of the Twelve Apostles, \u201cOur sustaining of prophets is a personal commitment that we will do our utmost to uphold their prophetic priorities.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a><\/p>\n<p data-aid=\"162706276\" id=\"p_ag6Ur\">To <em>hold up<\/em> the prophet is a sacred work. We do not sit quietly by but actively defend him, follow his counsel, teach his words, and pray for him.<\/p>\n<p data-aid=\"162706290\" id=\"p_hLgCq\">King Benjamin, in the Book of Mormon, said to the people, \u201cI am like as yourselves, subject to all manner of infirmities in body and mind; yet I have been chosen \u2026 and was suffered by the hand of the Lord \u2026 and have been kept and preserved by his matchless power, to serve you with all the might, mind and strength which the Lord hath granted unto me.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a><\/p>\n<img alt=\"Holding up Moses\u2019s hands.\" id=\"img_lNDui\" src=\"https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/500%2C/0/default\" data-img-id=\"q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6\" srcset=\"https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/640%2C/0/default 640w\" data-assetId=\"q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"162706300\" id=\"p_gFzsy\">Likewise, at age 100, President Nelson has been kept and preserved by the Lord. President Harold B. Lee, at the time a member of the First Presidency, cited the example of Moses standing atop the hill at Rephidim. \u201cThe hands of [the President of the Church] may grow weary,\u201d he said. \u201cThey may tend to droop at times because of his heavy responsibilities; but as we uphold his hands, and as we lead under his direction, by his side, the gates of hell will not prevail against you and against Israel.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> Your safety and ours depends upon whether or not we follow the ones whom the Lord has placed to preside over his church. He knows whom he wants to preside over this church, and he will make no mistake.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162706310\" id=\"p_hwVyn\">President Nelson draws upon years of serving the Lord. His maturity, wide-ranging experience, wisdom, and consistent receipt of revelation is specifically suited for our day.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> He has said: \u201cThe Church of Jesus Christ of Latter-day Saints is preparing the world for the day when \u2018the earth shall be full of the knowledge of the Lord\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/11?lang=eng&amp;id=p9#p9\">Isaiah 11:9<\/a>). \u2026 This work is empowered by a divine announcement made 200 years ago. It consisted of only seven words: \u2018This is My Beloved Son. Hear Him!\u2019 (see <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p17#p17\">Joseph Smith\u2014History 1:17<\/a>).\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"162706319\" id=\"p_nND7V\">President Nelson has also said: \u201cThere has never been a time in the history of the world when knowledge of our Savior is more personally vital and relevant to <em>every human soul<\/em>. Imagine how quickly the devastating conflicts throughout the world\u2014and those in our individual lives\u2014would be resolved if we all chose to follow Jesus Christ and heed His teachings.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"162706326\" id=\"p_n3bph\">Brothers and sisters, we need to do more lifting and less murmuring, more upholding the word of the Lord, His ways, and His prophet, who has said: \u201cOne of our greatest challenges today is distinguishing between the truths of God and the counterfeits of Satan. That is why the Lord warned us to \u2018pray always, \u2026 that [we] may conquer Satan, and \u2026 <em>escape the hands of the servants of Satan<\/em> that do uphold [the adversary\u2019s] work\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 10:5<\/a>; emphasis added].\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<img alt=\"Rededication of the Manti Utah Temple.\" id=\"img_hcjYj\" src=\"https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/500%2C/0/default\" data-img-id=\"82wsloplf8of3irifqec24fm6inaoct2ovmc3jze\" srcset=\"https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/640%2C/0/default 640w\" data-assetId=\"82wsloplf8of3irifqec24fm6inaoct2ovmc3jze\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"162706336\" id=\"p_qBx5z\">Last April, Sister Rasband and I had the honor of joining our beloved prophet and Sister Nelson for the rededication of the Manti Utah Temple.<\/p>\n<p data-aid=\"162706344\" id=\"p_qi7rP\">President Nelson surprised everyone when he entered the room. Only a very few of us knew he was coming. In his presence, I immediately felt the light and prophetic mantle he carries. The look of joy on the faces of the people personally seeing the prophet will stay with me forever.<\/p>\n<p data-aid=\"162706352\" id=\"p_tmnB0\">In the prayer of rededication, President Nelson petitioned the Lord that His holy house would essentially <em>hold up<\/em> all who entered the temple, \u201cthat they may receive sacred blessings and remain worthy and faithful to their covenants \u2026 that this may be a house of peace, a house of comfort, and a house of personal revelation for all who enter these doors worthily.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a><\/p>\n<p data-aid=\"162706360\" id=\"p_mRH3l\">We all need to be lifted up by the Lord with peace, with comfort, and most of all with personal revelation to counter the fear, darkness, and contention encompassing the world.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<p data-aid=\"162706368\" id=\"p_f8uBF\">Before the service, we stood outside in the sun with President and Sister Nelson to view the beautiful setting. President Nelson\u2019s ancestral ties to the area run deep. His eight great-grandparents settled in the valleys surrounding the temple, as did some of mine. My great-grandfather Andrew Anderson served on the construction crew of early pioneers who labored 11 years to complete the Manti Temple, the third in the Rocky Mountains.<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a><\/p>\n<p data-aid=\"162706376\" id=\"p_jmSVO\">As we stood with President Nelson, we had the opportunity to <em>hold up<\/em> and support the prophet of God in celebration of the rededication of the Lord\u2019s holy house. It was a day I will never forget.<\/p>\n<p data-aid=\"162706382\" id=\"p_c46bg\">\u201cWe build temples to honor the Lord,\u201d President Nelson said that sacred day. \u201cThey are built for worship and not for show. We make sacred covenants of eternal significance inside these sacred walls.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> We are gathering Israel.<\/p>\n<p data-aid=\"162706391\" id=\"p_p1d2P\">President Nelson and the prophets before him have cradled the holy temples in their arms. Today, around the world, we have 350 sacred houses of the Lord that are operating, announced, or under construction. As prophet, since 2018, President Nelson has announced 168 temples.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<p data-aid=\"162706399\" id=\"p_dLtKa\">\u201cIn our time,\u201d he has said, \u201ca whole, complete, and perfect union of all dispensations, keys, and powers are to be welded together (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=eng&amp;id=p18#p18\">Doctrine and Covenants 128:18<\/a>). For these sacred purposes, holy temples now dot the earth. I emphasize again that construction of these temples may not change your life, but your service in the temple surely will.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a><\/p>\n<p data-aid=\"162706407\" id=\"p_m0kof\">\u201cThe Savior and His doctrine are the very heart of the temple,\u201d the President says. \u201cEverything taught in the temple, through instruction and through the Spirit, increases our understanding of Jesus Christ. His essential ordinances bind us to Him through sacred priesthood covenants. Then, as we keep our covenants, He endows us with <em>His<\/em> healing, strengthening power.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a><\/p>\n<p data-aid=\"162706415\" id=\"p_wM7QL\">\u201cAll who worship in the temple,\u201d President Nelson has said, \u201cwill have the power of God and angels having \u2018charge over them\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p22#p22\">Doctrine and Covenants 109:22<\/a>]. How much does it increase your confidence to know that, as an endowed woman or man [or temple-attending youth] armed with the power of God, you do not have to face life alone? What courage does it give you to know that angels really will help you?\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a><\/p>\n<p data-aid=\"162706423\" id=\"p_yf1QY\">Angels reaching out to <em>hold us up<\/em> is described in the scriptures when Jesus Christ knelt humbly in the Garden of Gethsemane. By His suffering He provided an infinite Atonement. \u201cThere,\u201d President Nelson states, \u201cthe greatest single act of love of all recorded history took place. \u2026 There at Gethsemane, the Lord \u2018suffered the pain of all men, that all \u2026 might repent and come unto him\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p11#p11\">Doctrine and Covenants 18:11<\/a>].\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a><\/p>\n<p data-aid=\"162706431\" id=\"p_iFqMx\">\u201cRemove this cup from me,\u201d Jesus Christ asked, \u201cnevertheless not my will, but thine, be done.<\/p>\n<p data-aid=\"162706438\" id=\"p_fKexZ\">\u201cAnd there appeared an angel unto him from heaven, strengthening him.\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<p data-aid=\"162706446\" id=\"p_r99jn\">We have angels round about us today. President Nelson has said, \u201c[In the temple,] you will learn how to part the veil between heaven and earth, how to ask for God\u2019s angels to attend you.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a><\/p>\n<p data-aid=\"162706453\" id=\"p_paWgo\">Angels bring light. God\u2019s light. To His Nephite Apostles, Jesus said, \u201cBehold I am the light which ye shall hold up.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> As we sustain our prophet, we testify he is called of our Savior, who is \u201cthe light \u2026 of the world.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a><\/p>\n<p data-aid=\"162706460\" id=\"p_i6x3G\">Dear President Nelson, on behalf of the members and friends of the Lord\u2019s Church throughout the world, we feel blessed to <em>hold up<\/em> your teachings, to <em>hold up<\/em> your example of Christlike living, and to <em>hold up<\/em> your fervent testimony of our Lord and Savior, the Redeemer of us all.<\/p>\n<p data-aid=\"162706467\" id=\"p_kOBK9\">I bear my apostolic witness that Jesus Christ is \u201cthe light \u2026 of the world.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a> May we all, as His disciples, \u201chold up\u201d His light. In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162706474\" id=\"p_tqX0Q\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162706481\" id=\"p_mKQXx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38\">Doctrine and Covenants 1:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162706489\" id=\"p_htmyu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p20-p21#p20\">2 Nephi 4:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162706495\" id=\"p_zK7NV\">See Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/41rasband?lang=eng\">Words Matter<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 70\u201376.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162706501\" id=\"p_hrelK\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 81:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162706507\" id=\"p_m4Xrm\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8-p9#p8\">Mosiah 18:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162706513\" id=\"p_o8hMp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162706519\" id=\"p_dOS9D\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=eng&amp;id=p12#p12\">Sustaining the Prophets<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 75.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162706526\" id=\"p_jHTJ5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p11#p11\">Mosiah 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162706534\" id=\"p_xMoZH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p6#p6\">Doctrine and Covenants 21:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5\">81:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162706543\" id=\"p_gKGcT\">Harold B. Lee, in Conference Report, Oct. 1970, 153.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162706549\" id=\"p_hEGKh\">In \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p8#p8\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d it states: \u201cWe gladly declare that the promised Restoration goes forward through continuing revelation. The earth will never again be the same, as God will \u2018gather together in one all things in Christ\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=eng&amp;id=p10#p10\">Ephesians 1:10<\/a>).\u201d<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162706553\" id=\"p_jnKue\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=kicker1%2Cp2#kicker1\">The Future of the Church: Preparing the World for the Savior\u2019s Second Coming<\/a>,\u201d <cite>Ensign<\/cite>, Apr. 2020, 12\u201313; or <cite>Liahona<\/cite>, Apr. 2020, 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162706557\" id=\"p_xAdq0\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p5#p5\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162706563\" id=\"p_vnn7r\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng&amp;id=p26#p26\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 99.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162706567\" id=\"p_mHTl4\">\u201c<a href=\"https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng\">Dedicatory Prayer, Manti Utah Temple, 21 April 2024<\/a>,\u201d ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162706572\" id=\"p_rPZb0\">In the Book of Mormon, the prophet Mormon tried to comfort his son Moroni in a letter when Moroni was alone and hunted by enemies. He wrote, \u201cMay Christ lift thee up, and may his sufferings and death \u2026 rest in your mind forever\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9?lang=eng&amp;id=p25#p25\">Moroni 9:25<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162706574\" id=\"p_mE0lz\">Before the dedication of the Manti Utah Temple in 1888, two other temples in Utah had already been dedicated: the St. George Utah Temple in 1877 and the Logan Utah Temple in 1884. The first temple of the Restoration was built in Kirtland, Ohio, and dedicated in 1836. Great spiritual manifestations accompanied the services, and priesthood keys were restored by Moses, Elias, and Elijah so that temple work and the gathering of Israel could begin in earnest.<\/p>\n<p data-aid=\"162706580\" id=\"p_a2HYB\">Joseph Smith recorded, \u201cIt was a Pentecost and an endowment indeed, long to be remembered, for the sound shall go forth from this place into all the world, and the occurrences of this day shall be handed down upon the pages of sacred history to all generations, as the day of Pentecost, so shall this day be numbered and celebrated as a year of Jubilee and time of rejoicing to the Saints of the Most High God\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192\">Joseph Smith, Journal, 1835\u20131836<\/a>, 189\u201390, josephsmithpapers.org; spelling, capitalization, and punctuation modernized). The Nauvoo Temple was dedicated officially in May 1846, after the majority of the Saints had abandoned their homes and community. More than 6,000 Saints made temple covenants before fleeing to the West. (See Church History Topics, \u201c<a class=\"cross-ref\" href=\"/study/history/topics/nauvoo-temple?lang=eng\">Nauvoo Temple<\/a>,\u201d Gospel Library.)<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162706585\" id=\"p_qdaZw\">Russell M. Nelson, in \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024\">President Nelson Rededicates Manti Utah Temple<\/a>,\u201d Apr. 21, 2024, newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162706589\" id=\"p_lPx6W\">See Scott Taylor, \u201cA By-the-Numbers Look at the 168 Temples Announced by President Nelson,\u201d <cite>Church News<\/cite>, Apr. 14, 2024, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162706595\" id=\"p_azrFk\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=p9#p9\">The Future of the Church<\/a>,\u201d 8\u20139.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162706600\" id=\"p_kiiX4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p12#p12\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 93\u201394.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162706605\" id=\"p_wh8Q8\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p29#p29\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162706610\" id=\"p_xja0y\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/10/the-atonement?lang=eng&amp;id=p24#p24\">The Atonement<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1996, 35.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162706615\" id=\"p_pLzvP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42-p43#p42\">Luke 22:42\u201343<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162706619\" id=\"p_wrGGQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p33#p33\">The Temple and Your Spiritual Foundation<\/a>,\u201d 96.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162706622\" id=\"p_fTG3m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162706624\" id=\"p_q1sBW\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11\">3 Nephi 11:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"162706627\" id=\"p_v11y2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11\">3 Nephi 11:11<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162706244",
+        "id": "note4",
+        "text": "<p data-aid=\"162706501\" id=\"p_hrelK\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 81:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5",
+          "text": "Doctrine and Covenants 81:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162706252",
+        "id": "note5",
+        "text": "<p data-aid=\"162706507\" id=\"p_m4Xrm\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8-p9#p8\">Mosiah 18:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8-p9#p8",
+          "text": "Mosiah 18:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162706221",
+        "id": "note2",
+        "text": "<p data-aid=\"162706489\" id=\"p_htmyu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p20-p21#p20\">2 Nephi 4:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p20-p21#p20",
+          "text": "2 Nephi 4:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162706236",
+        "id": "note3",
+        "text": "<p data-aid=\"162706495\" id=\"p_zK7NV\">See Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/41rasband?lang=eng\">Words Matter<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 70\u201376.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/41rasband?lang=eng",
+          "text": "Words Matter",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162706290",
+        "id": "note8",
+        "text": "<p data-aid=\"162706526\" id=\"p_jHTJ5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p11#p11\">Mosiah 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p11#p11",
+          "text": "Mosiah 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162706300",
+        "id": "note9",
+        "text": "<p data-aid=\"162706534\" id=\"p_xMoZH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p6#p6\">Doctrine and Covenants 21:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5\">81:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p6#p6",
+            "text": "Doctrine and Covenants 21:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5",
+            "text": "81:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162706260",
+        "id": "note6",
+        "text": "<p data-aid=\"162706513\" id=\"p_o8hMp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24",
+          "text": "3 Nephi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162706268",
+        "id": "note7",
+        "text": "<p data-aid=\"162706519\" id=\"p_dOS9D\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=eng&amp;id=p12#p12\">Sustaining the Prophets<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 75.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/sustaining-the-prophets?lang=eng&amp;id=p12#p12",
+          "text": "Sustaining the Prophets",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162706360",
+        "id": "note16",
+        "text": "<p data-aid=\"162706572\" id=\"p_rPZb0\">In the Book of Mormon, the prophet Mormon tried to comfort his son Moroni in a letter when Moroni was alone and hunted by enemies. He wrote, \u201cMay Christ lift thee up, and may his sufferings and death \u2026 rest in your mind forever\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9?lang=eng&amp;id=p25#p25\">Moroni 9:25<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/9?lang=eng&amp;id=p25#p25",
+          "text": "Moroni 9:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162706352",
+        "id": "note15",
+        "text": "<p data-aid=\"162706567\" id=\"p_mHTl4\">\u201c<a href=\"https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng\">Dedicatory Prayer, Manti Utah Temple, 21 April 2024<\/a>,\u201d ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng",
+          "text": "Dedicatory Prayer, Manti Utah Temple, 21 April 2024"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162706326",
+        "id": "note14",
+        "text": "<p data-aid=\"162706563\" id=\"p_vnn7r\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=eng&amp;id=p26#p26\">The Power of Spiritual Momentum<\/a>,\u201d <cite>Liahona<\/cite>, May 2022, 99.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=eng&amp;id=p26#p26",
+          "text": "The Power of Spiritual Momentum",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162706319",
+        "id": "note13",
+        "text": "<p data-aid=\"162706557\" id=\"p_xAdq0\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p5#p5\">Pure Truth, Pure Doctrine, and Pure Revelation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=eng&amp;id=p5#p5",
+          "text": "Pure Truth, Pure Doctrine, and Pure Revelation",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162706310",
+        "id": "note12",
+        "text": "<p data-aid=\"162706553\" id=\"p_jnKue\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=kicker1%2Cp2#kicker1\">The Future of the Church: Preparing the World for the Savior\u2019s Second Coming<\/a>,\u201d <cite>Ensign<\/cite>, Apr. 2020, 12\u201313; or <cite>Liahona<\/cite>, Apr. 2020, 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=kicker1%2Cp2#kicker1",
+          "text": "The Future of the Church: Preparing the World for the Savior\u2019s Second Coming",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162706310",
+        "id": "note11",
+        "text": "<p data-aid=\"162706549\" id=\"p_hEGKh\">In \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p8#p8\">The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World<\/a>,\u201d it states: \u201cWe gladly declare that the promised Restoration goes forward through continuing revelation. The earth will never again be the same, as God will \u2018gather together in one all things in Christ\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=eng&amp;id=p10#p10\">Ephesians 1:10<\/a>).\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&amp;id=p8#p8",
+            "text": "The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial Proclamation to the World",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/1?lang=eng&amp;id=p10#p10",
+            "text": "Ephesians 1:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162706300",
+        "id": "note10",
+        "text": "<p data-aid=\"162706543\" id=\"p_gKGcT\">Harold B. Lee, in Conference Report, Oct. 1970, 153.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162706391",
+        "id": "note19",
+        "text": "<p data-aid=\"162706589\" id=\"p_lPx6W\">See Scott Taylor, \u201cA By-the-Numbers Look at the 168 Temples Announced by President Nelson,\u201d <cite>Church News<\/cite>, Apr. 14, 2024, thechurchnews.com.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162706382",
+        "id": "note18",
+        "text": "<p data-aid=\"162706585\" id=\"p_qdaZw\">Russell M. Nelson, in \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024\">President Nelson Rededicates Manti Utah Temple<\/a>,\u201d Apr. 21, 2024, newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024",
+          "text": "President Nelson Rededicates Manti Utah Temple"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162706368",
+        "id": "note17",
+        "text": "<p data-aid=\"162706574\" id=\"p_mE0lz\">Before the dedication of the Manti Utah Temple in 1888, two other temples in Utah had already been dedicated: the St. George Utah Temple in 1877 and the Logan Utah Temple in 1884. The first temple of the Restoration was built in Kirtland, Ohio, and dedicated in 1836. Great spiritual manifestations accompanied the services, and priesthood keys were restored by Moses, Elias, and Elijah so that temple work and the gathering of Israel could begin in earnest.<\/p>\n<p data-aid=\"162706580\" id=\"p_a2HYB\">Joseph Smith recorded, \u201cIt was a Pentecost and an endowment indeed, long to be remembered, for the sound shall go forth from this place into all the world, and the occurrences of this day shall be handed down upon the pages of sacred history to all generations, as the day of Pentecost, so shall this day be numbered and celebrated as a year of Jubilee and time of rejoicing to the Saints of the Most High God\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192\">Joseph Smith, Journal, 1835\u20131836<\/a>, 189\u201390, josephsmithpapers.org; spelling, capitalization, and punctuation modernized). The Nauvoo Temple was dedicated officially in May 1846, after the majority of the Saints had abandoned their homes and community. More than 6,000 Saints made temple covenants before fleeing to the West. (See Church History Topics, \u201c<a class=\"cross-ref\" href=\"/study/history/topics/nauvoo-temple?lang=eng\">Nauvoo Temple<\/a>,\u201d Gospel Library.)<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192",
+            "text": "Joseph Smith, Journal, 1835\u20131836"
+          },
+          {
+            "href": "/study/history/topics/nauvoo-temple?lang=eng",
+            "text": "Nauvoo Temple",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162706453",
+        "id": "note27",
+        "text": "<p data-aid=\"162706624\" id=\"p_q1sBW\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11\">3 Nephi 11:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11",
+          "text": "3 Nephi 11:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162706453",
+        "id": "note26",
+        "text": "<p data-aid=\"162706622\" id=\"p_fTG3m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24\">3 Nephi 18:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p24#p24",
+          "text": "3 Nephi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162706446",
+        "id": "note25",
+        "text": "<p data-aid=\"162706619\" id=\"p_wrGGQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p33#p33\">The Temple and Your Spiritual Foundation<\/a>,\u201d 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p33#p33",
+          "text": "The Temple and Your Spiritual Foundation",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162706438",
+        "id": "note24",
+        "text": "<p data-aid=\"162706615\" id=\"p_pLzvP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=eng&amp;id=p42-p43#p42\">Luke 22:42\u201343<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22?lang=eng&amp;id=p42-p43#p42",
+          "text": "Luke 22:42\u201343",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162706423",
+        "id": "note23",
+        "text": "<p data-aid=\"162706610\" id=\"p_xja0y\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/10/the-atonement?lang=eng&amp;id=p24#p24\">The Atonement<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1996, 35.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1996/10/the-atonement?lang=eng&amp;id=p24#p24",
+          "text": "The Atonement",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162706415",
+        "id": "note22",
+        "text": "<p data-aid=\"162706605\" id=\"p_wh8Q8\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p29#p29\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p29#p29",
+          "text": "Rejoice in the Gift of Priesthood Keys",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162706407",
+        "id": "note21",
+        "text": "<p data-aid=\"162706600\" id=\"p_kiiX4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p12#p12\">The Temple and Your Spiritual Foundation<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2021, 93\u201394.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=eng&amp;id=p12#p12",
+          "text": "The Temple and Your Spiritual Foundation",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162706399",
+        "id": "note20",
+        "text": "<p data-aid=\"162706595\" id=\"p_azrFk\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=p9#p9\">The Future of the Church<\/a>,\u201d 8\u20139.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&amp;id=p9#p9",
+          "text": "The Future of the Church",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162706221",
+        "id": "note1",
+        "text": "<p data-aid=\"162706481\" id=\"p_mKQXx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38\">Doctrine and Covenants 1:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38",
+          "text": "Doctrine and Covenants 1:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "162706467",
+        "id": "note28",
+        "text": "<p data-aid=\"162706627\" id=\"p_v11y2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11\">3 Nephi 11:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11",
+          "text": "3 Nephi 11:11",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

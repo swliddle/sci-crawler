@@ -1,0 +1,782 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/46wilcox?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "e993559fb99c4b2d89b5c4acaa32f9b8",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/46wilcox",
+      "data-aid": "162704859",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "e993559fb99c4b2d89b5c4acaa32f9b8"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/301d10d7810311ef9b3a0626c361eb557457ded0-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "O Youth of the Noble Birthright",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162704859",
+      {"key": "162704859"}
+    ],
+    [
+      "162704868",
+      {"key": "162704868"}
+    ],
+    [
+      "162704878",
+      {"key": "162704878"}
+    ],
+    [
+      "162704888",
+      {"key": "162704888"}
+    ],
+    [
+      "162704898",
+      {"key": "162704898"}
+    ],
+    [
+      "162704909",
+      {"key": "162704909"}
+    ],
+    [
+      "162704914",
+      {"key": "162704914"}
+    ],
+    [
+      "162704922",
+      {"key": "162704922"}
+    ],
+    [
+      "162704927",
+      {"key": "162704927"}
+    ],
+    [
+      "162704936",
+      {"key": "162704936"}
+    ],
+    [
+      "162704945",
+      {"key": "162704945"}
+    ],
+    [
+      "162704954",
+      {"key": "162704954"}
+    ],
+    [
+      "162704963",
+      {"key": "162704963"}
+    ],
+    [
+      "162704972",
+      {"key": "162704972"}
+    ],
+    [
+      "162704980",
+      {"key": "162704980"}
+    ],
+    [
+      "162704988",
+      {"key": "162704988"}
+    ],
+    [
+      "162704996",
+      {"key": "162704996"}
+    ],
+    [
+      "162705003",
+      {"key": "162705003"}
+    ],
+    [
+      "162705010",
+      {"key": "162705010"}
+    ],
+    [
+      "162705019",
+      {"key": "162705019"}
+    ],
+    [
+      "162705028",
+      {"key": "162705028"}
+    ],
+    [
+      "162705035",
+      {"key": "162705035"}
+    ],
+    [
+      "162705043",
+      {"key": "162705043"}
+    ],
+    [
+      "162705050",
+      {"key": "162705050"}
+    ],
+    [
+      "162705057",
+      {"key": "162705057"}
+    ],
+    [
+      "162705062",
+      {"key": "162705062"}
+    ],
+    [
+      "162705067",
+      {"key": "162705067"}
+    ],
+    [
+      "162705072",
+      {"key": "162705072"}
+    ],
+    [
+      "162705077",
+      {"key": "162705077"}
+    ],
+    [
+      "162705082",
+      {"key": "162705082"}
+    ],
+    [
+      "162705087",
+      {"key": "162705087"}
+    ],
+    [
+      "162705093",
+      {"key": "162705093"}
+    ],
+    [
+      "162705095",
+      {"key": "162705095"}
+    ],
+    [
+      "162705102",
+      {"key": "162705102"}
+    ],
+    [
+      "162705109",
+      {"key": "162705109"}
+    ],
+    [
+      "162705116",
+      {"key": "162705116"}
+    ],
+    [
+      "162705123",
+      {"key": "162705123"}
+    ],
+    [
+      "162705130",
+      {"key": "162705130"}
+    ],
+    [
+      "162705137",
+      {"key": "162705137"}
+    ],
+    [
+      "162705145",
+      {"key": "162705145"}
+    ],
+    [
+      "162705150",
+      {"key": "162705150"}
+    ],
+    [
+      "162705157",
+      {"key": "162705157"}
+    ],
+    [
+      "162705164",
+      {"key": "162705164"}
+    ],
+    [
+      "162705171",
+      {"key": "162705171"}
+    ],
+    [
+      "162705178",
+      {"key": "162705178"}
+    ],
+    [
+      "162705185",
+      {"key": "162705185"}
+    ],
+    [
+      "162705192",
+      {"key": "162705192"}
+    ],
+    [
+      "162705198",
+      {"key": "162705198"}
+    ],
+    [
+      "162705204",
+      {"key": "162705204"}
+    ],
+    [
+      "162705210",
+      {"key": "162705210"}
+    ],
+    [
+      "162705216",
+      {"key": "162705216"}
+    ],
+    [
+      "162705222",
+      {"key": "162705222"}
+    ],
+    [
+      "162705228",
+      {"key": "162705228"}
+    ],
+    [
+      "162705234",
+      {"key": "162705234"}
+    ],
+    [
+      "162705240",
+      {"key": "162705240"}
+    ],
+    [
+      "162705245",
+      {"key": "162705245"}
+    ],
+    [
+      "162705249",
+      {"key": "162705249"}
+    ],
+    [
+      "162705253",
+      {"key": "162705253"}
+    ],
+    [
+      "162705257",
+      {"key": "162705257"}
+    ],
+    [
+      "162705258",
+      {"key": "162705258"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/46wilcox",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Speaking to youth, Brother Wilcox addresses the question, Why must Latter-day Saints live so differently from others?",
+          "title": "O Youth of the Noble Birthright"
+        },
+        "pageSocial": {
+          "description": "Speaking to youth, Brother Wilcox addresses the question, Why must Latter-day Saints live so differently from others?",
+          "title": "O Youth of the Noble Birthright"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!192%2C/0/default\" data-video-id=\"6362913587112\" data-duration=\"752900\" data-assetId=\"d21d0e9e7c4811ef87f9022e7e432ed9c0e5507c\" data-ref-id=\"d21d0e9e7c4811ef87f9022e7e432ed9c0e5507c\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362913587112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253043091\"/><source src=\"https://assets.churchofjesuschrist.org/d21d0e9e7c4811ef87f9022e7e432ed9c0e5507c-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"48391629\"/><source src=\"https://assets.churchofjesuschrist.org/d21d0e9e7c4811ef87f9022e7e432ed9c0e5507c-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"90113904\"/><source src=\"https://assets.churchofjesuschrist.org/d21d0e9e7c4811ef87f9022e7e432ed9c0e5507c-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253043091\"/><\/video><h1 data-aid=\"162704868\" id=\"p_fY09A\">O Youth of the Noble Birthright<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162704878\" id=\"p_zszrr\">By Brother Bradley R. Wilcox<\/p>\n<p class=\"author-role\" data-aid=\"162704888\" id=\"p_nioED\">First Counselor in the Young Men General Presidency<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162704898\" id=\"p_skTYh\">God trusts you, the children of the covenant, to help with His work of bringing all His children safely home to Him.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162704909\" id=\"p_pWJuE\">Elder Stevenson, this is a conference never to be forgotten.<\/p>\n<p data-aid=\"162704914\" id=\"p_eIWLx\">Our family has always enjoyed a little book called <cite>Children\u2019s Letters to God<\/cite>. Here are a few:<\/p>\n<p data-aid=\"162704922\" id=\"p_qLmHI\">\u201cDear God, instead of letting people die and having to make new ones, why don\u2019t you just keep the ones you\u2019ve got right now?\u201d<\/p>\n<p data-aid=\"162704927\" id=\"p_iglpJ\">\u201cHow come you only have ten rules, but our school has millions?\u201d<\/p>\n<p data-aid=\"162704936\" id=\"p_fz4T8\">\u201cWhy did you put the tonsils in if you\u2019re just going to take them out again?\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a><\/p>\n<p data-aid=\"162704945\" id=\"p_f2hEo\">Today there isn\u2019t time to answer all <em>these<\/em> questions, but there is another question I often hear from young people that I would like to address. From Ulaanbaatar, Mongolia, to Thomas, Idaho, the question is the same: \u201cWhy? Why must Latter-day Saints live so differently from others?\u201d<\/p>\n<p data-aid=\"162704954\" id=\"p_xJ5NY\">I know it\u2019s hard to be different\u2014especially when you are young and want so badly for other people to like you. Everyone wants to fit in, and that desire is magnified to unhealthy proportions in today\u2019s digital world filled with social media and cyberbullying.<\/p>\n<p data-aid=\"162704963\" id=\"p_bATfa\">So, with all that pressure, why <em>do<\/em> Latter-day Saints live so differently? There are many good answers: Because you are a child of God. Because you have been saved for the last days. Because you are a disciple of Jesus Christ.<\/p>\n<p data-aid=\"162704972\" id=\"p_pqNDL\">But those answers don\u2019t always set you apart. Everyone is a child of God. Everyone on earth right now was sent here in the latter days. And yet not everyone lives the Word of Wisdom or law of chastity the way you strive to. There are many valiant disciples of Christ who are not members of this Church. But they do not serve missions and perform ordinances in houses of the Lord on behalf of ancestors like you do. There must be more to it\u2014and there is.<\/p>\n<p data-aid=\"162704980\" id=\"p_x0JTh\">Today I would like to focus on an additional reason that has been meaningful in my life. In 1988 a young Apostle named Russell M. Nelson gave an address at Brigham Young University called \u201cThanks for the Covenant.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> In it, then-Elder Nelson explained that when we use our moral agency to make and keep covenants with God, we become heirs of the everlasting covenant God has made with our forebearers in every dispensation. Said another way, we become \u201cchildren of the covenant.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> That sets us apart. That gives us access to the same blessings our forefathers and foremothers received, including a birthright.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a><\/p>\n<p data-aid=\"162704988\" id=\"p_sHmXj\"><em>Birthright!<\/em> You may have heard that word. We even sing hymns about it: \u201cO youth of the noble birthright, carry on, carry on, carry on!\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> It\u2019s a compelling word. But what does it mean?<\/p>\n<p data-aid=\"162704996\" id=\"p_lhEYn\">In Old Testament times if a father passed away, his birthright son was responsible for the care of his mother and sisters. His brothers received their inheritance and left to make their way in the world, but the birthright son did not go anywhere. He would marry and have his own family, but he would stay until the end of his days to govern the affairs of his father\u2019s estate.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a> Because of this added responsibility, he was given an added measure of the inheritance. Was leading and caring for others too much to ask? Not when you consider the additional inheritance he was given.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a><\/p>\n<p data-aid=\"162705003\" id=\"p_y4HSB\">Today we are not talking about your birth order in earthly families or Old Testament gender roles. We are talking about the inheritance you receive as a joint heir with Christ<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> because of the covenant relationship you have chosen to enter with Him and your Father in Heaven. Is it too much for God to expect you to live differently than His other children so you can better lead and serve them? Not when you consider the blessings\u2014both temporal and spiritual\u2014that you have been given.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a><\/p>\n<p data-aid=\"162705010\" id=\"p_bASud\">Does your birthright mean you are better than others? No, but it does mean you are expected to help others be better. Does your birthright mean you are chosen? Yes,<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> but not chosen to rule over others; you are chosen to serve them.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> Is your birthright evidence of God\u2019s love? Yes, but more important, it is evidence of His trust.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"162705019\" id=\"p_skXw7\">It is one thing to be loved and another thing entirely to be trusted. In the <cite>For the Strength of Youth<\/cite> guide, we read: \u201cYour Father in Heaven trusts you. He has given you great blessings, including the fulness of the gospel and sacred ordinances and covenants that bind you to Him and bring His power into your life. With those blessings comes added responsibility. He knows you can make a difference in the world, and that requires, in many cases, being different from the world.\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"162705028\" id=\"p_kD4bj\">Our mortal experience could be compared to a cruise ship on which God has sent all His children as they journey from one shore to another. The voyage is filled with opportunities to learn, grow, be happy, and progress, but it is also full of dangers. God loves all His children and is concerned about their welfare. He does not want to lose any of them, so He invites those who are willing<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> to become members of His crew\u2014that\u2019s you. Because of your choice to make and keep covenants, He offers you His trust. He trusts you to be different, peculiar, and set apart<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> because of the important work He trusts you to do.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<p data-aid=\"162705035\" id=\"p_ibl4W\">Think of it! God trusts you\u2014of all the people on the earth, the children of the covenant, His crew members\u2014to help with His work of bringing all His children safely home to Him. No wonder President Brigham Young once said, \u201cAll the angels in heaven are looking at this little handful of people.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a><\/p>\n<p data-aid=\"162705043\" id=\"p_sKjg1\">When you look around on this cruise ship called earth, you might see other people sitting in lounge chairs drinking, gambling in casinos, wearing clothing that is too revealing, scrolling endlessly on cell phones, and wasting too much time playing electronic games. But instead of wondering, \u201cWhy can\u2019t <em>I<\/em> do that?,\u201d you can remember that you are not an ordinary passenger. You are a member of the crew. You have responsibilities that passengers do not have. As Sister Ardeth Kapp once said, \u201cYou can\u2019t be a life[guard] if you look like all the other swimmers on the beach.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a><\/p>\n<p data-aid=\"162705050\" id=\"p_o8Hqp\">And before you become discouraged by all the extra obligations, please remember that crew members receive something the other passengers do not: compensation.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> Elder Neil L. Andersen has said, \u201cThere is a compensatory spiritual power for the righteous,\u201d including \u201cgreater assurance, greater confirmation, and greater confidence.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> Like Abraham of old, you receive greater happiness and peace, greater righteousness, and greater knowledge.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a> Your compensation is not merely a mansion in heaven and streets paved with gold. It would be easy for Heavenly Father to simply give you all that He has. His desire is to help you become all that He is.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> Thus, your commitments demand more of you because that is how God is making more of you.<\/p>\n<p data-aid=\"162705057\" id=\"p_p4uph\">It\u2019s \u201ca lot to ask of anyone, but you\u2019re not just anyone\u201d!<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> You are youth of the noble birthright. Your covenant relationship with God and Jesus Christ is a relationship of love and trust<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a> in which you have access to a greater measure of Their grace\u2014Their divine assistance, endowment of strength, and enabling power.<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a> That power is not just wishful thinking, a lucky charm, or self-fulfilling prophecy. It is <em>real<\/em>.<\/p>\n<p data-aid=\"162705062\" id=\"p_qxYrk\">As you fulfill your birthright responsibilities, you are never alone. The Lord of the vineyard labors with you.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> You are working hand in hand with Jesus Christ. With each new covenant\u2014and as your relationship with Him deepens\u2014you hold each other tighter and tighter until you are firmly clasped together.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> In that sacred symbol of His grace, you will find both the desire and the strength to live exactly how the Savior lived\u2014differently from the world. You\u2019ve got this because Jesus Christ has got you!<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a><\/p>\n<p data-aid=\"162705067\" id=\"p_fHtJx\">In <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p6#p6\">2 Nephi 2:6<\/a> we read, \u201cWherefore, redemption cometh in and through the Holy Messiah; for he is full of grace and truth.\u201d Because He is full of truth, He sees you as you really are\u2014flaws, weaknesses, regrets, and all. Because He is full of grace, He sees you as you really can be. He meets you where you are and helps you repent and improve, overcome and become.<\/p>\n<p data-aid=\"162705072\" id=\"p_hLM0i\">\u201cO youth of the noble birthright, carry on, carry on, carry on!\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> I testify that you are loved\u2014and you are trusted\u2014today, in 20 years, and forever. Don\u2019t sell your birthright for a mess of pottage.<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a> Don\u2019t trade everything for nothing.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> Don\u2019t let the world change you when you were born to change the world. In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162705077\" id=\"p_fdw9m\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162705082\" id=\"p_cqgSc\">In Stuart Hample and Eric Marshall, <cite>Children\u2019s Letters to God<\/cite> (1991).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162705087\" id=\"p_jYzwn\">See Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d (Brigham Young University devotional, Nov. 22, 1988), speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162705093\" id=\"p_tEBhb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p26#p26\">3 Nephi 20:26<\/a>; see also Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/ya-weekly/2022/05/choices-for-eternity?lang=eng\">Choices for Eternity<\/a>\u201d (worldwide devotional for young adults, May 15, 2022), Gospel Library; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=eng\">Children of the Covenant<\/a>,\u201d <cite>Ensign<\/cite>, May 1995, 32\u201335.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162705095\" id=\"p_kO7f7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p25#p25\">3 Nephi 20:25<\/a>; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/abrahamic-covenant?lang=eng\">Abrahamic Covenant<\/a>,\u201d Gospel Library; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=eng&amp;id=p6#p6\">Abraham 2:6<\/a> (promised land: celestial glory, eternal families); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/13?lang=eng&amp;id=p16#p16\">Genesis 13:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p30-p31#p30\">Doctrine and Covenants 132:30\u201331<\/a> (posterity: eternal increase); and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=eng&amp;id=p18#p18\">Abraham 1:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=eng&amp;id=p11#p11\">2:11<\/a> (priesthood: authority, keys, ordinances, covenants, and divine power); Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 119\u201323.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162705102\" id=\"p_kTcij\">\u201cCarry On,\u201d <cite>Hymns<\/cite>, no. 255.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162705109\" id=\"p_kzFkb\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng\">Youth of the Noble Birthright: What Will You Choose?<\/a>\u201d (Church Educational System devotional for young adults, Sept. 6, 2013), Gospel Library; see also Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>,\u201d speeches.byu.edu; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/firstborn?lang=eng\">Firstborn<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162705116\" id=\"p_xOWVI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=eng&amp;id=p42#p42\">Luke 12:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=eng&amp;id=p7-p10#p7\">17:7\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162705123\" id=\"p_mBLuh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p17#p17\">Romans 8:17<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p54-p55#p54\">Doctrine and Covenants 76:54\u201355<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p107#p107\">88:107<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162705130\" id=\"p_sEkSZ\">The Lord said, \u201cIt is a light thing\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p6#p6\">1 Nephi 21:6<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162705137\" id=\"p_diYgx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9\">1 Peter 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162705145\" id=\"p_fNFlg\">The Lord said, \u201cThou art my servant, O Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p3#p3\">1 Nephi 21:3<\/a>).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162705150\" id=\"p_ccJyh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/2?lang=eng&amp;id=p25#p25\">Exodus 2:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162705157\" id=\"p_t6fnn\"><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/02-choices?lang=eng&amp;id=p4#p4\"><cite>For the Strength of Youth: A Guide for Making Choices<\/cite><\/a> (2022), 4; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p18-p25#p18\">Doctrine and Covenants 84:18\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p18-p21#p18\">107:18\u201321<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng\">Youth of the Noble Birthright: What Will You Choose?<\/a>\u201d<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162705164\" id=\"p_t8XYL\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77\">Doctrine and Covenants 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162705171\" id=\"p_wEYsX\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9\">1 Peter 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162705178\" id=\"p_ovRhk\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6\">Moses 1:6<\/a>; see also \u201c<a class=\"cross-ref\" href=\"/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&amp;id=title4#title4\">Aaronic Priesthood Quorum Theme<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162705185\" id=\"p_uhN5z\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;id=p10#p10\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 309.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162705192\" id=\"p_hFda6\">Ardeth Greene Kapp, <cite>I Walk by Faith<\/cite> (1987), 97.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162705198\" id=\"p_i75Qp\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p22%2C41#p22\">Mosiah 2:22, 41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 59:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162705204\" id=\"p_x1p25\">Neil L. Andersen, \u201c<a href=\"https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous\">A Compensatory Spiritual Power for the Righteous<\/a>\u201d (Brigham Young University devotional, Aug. 18, 2015), 3, speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162705210\" id=\"p_h2l2L\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=eng&amp;id=p2#p2\">Abraham 1:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162705216\" id=\"p_kgMZf\">See Dallin H. Oaks, <cite>With Full Purpose of Heart<\/cite> (2002), 38.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162705222\" id=\"p_wfZIQ\">Kenneth Cope, \u201cThe Best for Last,\u201d <cite>Voices<\/cite> (album, 1991).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162705228\" id=\"p_nmu4L\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=eng&amp;id=p20#p20\">Alma 53:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=eng&amp;id=p27#p27\">57:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162705234\" id=\"p_a7nO8\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-gift-of-grace?lang=eng\">The Gift of Grace<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2015, 107; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/grace?lang=eng\">Grace<\/a>,\u201d Gospel Library. I used to be confused by the many descriptions of God\u2019s power found throughout the scriptures. They speak of grace as enabling power (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13\">Philippians 4:13<\/a>) but also the Light of Christ as power (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p13#p13\">Doctrine and Covenant 88:13<\/a>). We read of the power of faith (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p35#p35\">Alma 18:35<\/a>), the power of the Holy Ghost (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p7#p7\">Moroni 10:7<\/a>), and power from on high promised in temples (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p32#p32\">Doctrine and Covenants 38:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/105?lang=eng&amp;id=p11#p11\">105:11<\/a>). Scriptures also teach of the power of the priesthood (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/113?lang=eng&amp;id=p8#p8\">Doctrine and Covenants 113:8<\/a>). I couldn\u2019t figure out where one ended and the others began. Finally, I realized that \u201cthere is no other power, save the power of God\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p7#p7\">Doctrine and Covenants 8:7<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13?lang=eng&amp;id=p1#p1\">Romans 13:1<\/a>). Different labels for God\u2019s power do not describe different powers but varying amounts, uses, and aspects of the same power.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162705240\" id=\"p_kZOIC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p72#p72\">Jacob 5:72<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162705245\" id=\"p_w6Ynq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=eng&amp;id=p5#p5\">Jacob 6:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"162705249\" id=\"p_aBpIg\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p17#p17\">3 Nephi 22:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"162705253\" id=\"p_l0GRC\"><cite>Hymns<\/cite>, no. 255.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"162705257\" id=\"p_sR9F0\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29\">Genesis 25:29\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"162705258\" id=\"p_ccrWC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p38#p38\">3 Nephi 20:38<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55?lang=eng&amp;id=p2#p2\">Isaiah 55:2<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162704980",
+        "id": "note4",
+        "text": "<p data-aid=\"162705095\" id=\"p_kO7f7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p25#p25\">3 Nephi 20:25<\/a>; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/abrahamic-covenant?lang=eng\">Abrahamic Covenant<\/a>,\u201d Gospel Library; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=eng&amp;id=p6#p6\">Abraham 2:6<\/a> (promised land: celestial glory, eternal families); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/13?lang=eng&amp;id=p16#p16\">Genesis 13:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p30-p31#p30\">Doctrine and Covenants 132:30\u201331<\/a> (posterity: eternal increase); and <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=eng&amp;id=p18#p18\">Abraham 1:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=eng&amp;id=p11#p11\">2:11<\/a> (priesthood: authority, keys, ordinances, covenants, and divine power); Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 119\u201323.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p25#p25",
+            "text": "3 Nephi 20:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/abrahamic-covenant?lang=eng",
+            "text": "Abrahamic Covenant",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2?lang=eng&amp;id=p6#p6",
+            "text": "Abraham 2:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/13?lang=eng&amp;id=p16#p16",
+            "text": "Genesis 13:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p30-p31#p30",
+            "text": "Doctrine and Covenants 132:30\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/1?lang=eng&amp;id=p18#p18",
+            "text": "Abraham 1:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2?lang=eng&amp;id=p11#p11",
+            "text": "2:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2024/04/57nelson?lang=eng",
+            "text": "Rejoice in the Gift of Priesthood Keys",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162704988",
+        "id": "note5",
+        "text": "<p data-aid=\"162705102\" id=\"p_kTcij\">\u201cCarry On,\u201d <cite>Hymns<\/cite>, no. 255.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162704980",
+        "id": "note2",
+        "text": "<p data-aid=\"162705087\" id=\"p_jYzwn\">See Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d (Brigham Young University devotional, Nov. 22, 1988), speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant",
+          "text": "Thanks for the Covenant"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162704980",
+        "id": "note3",
+        "text": "<p data-aid=\"162705093\" id=\"p_tEBhb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p26#p26\">3 Nephi 20:26<\/a>; see also Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/ya-weekly/2022/05/choices-for-eternity?lang=eng\">Choices for Eternity<\/a>\u201d (worldwide devotional for young adults, May 15, 2022), Gospel Library; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=eng\">Children of the Covenant<\/a>,\u201d <cite>Ensign<\/cite>, May 1995, 32\u201335.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p26#p26",
+            "text": "3 Nephi 20:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/ya-weekly/2022/05/choices-for-eternity?lang=eng",
+            "text": "Choices for Eternity",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/1995/04/children-of-the-covenant?lang=eng",
+            "text": "Children of the Covenant",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162705003",
+        "id": "note8",
+        "text": "<p data-aid=\"162705123\" id=\"p_mBLuh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p17#p17\">Romans 8:17<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p54-p55#p54\">Doctrine and Covenants 76:54\u201355<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p107#p107\">88:107<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rom/8?lang=eng&amp;id=p17#p17",
+            "text": "Romans 8:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p54-p55#p54",
+            "text": "Doctrine and Covenants 76:54\u201355",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p107#p107",
+            "text": "88:107",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162705003",
+        "id": "note9",
+        "text": "<p data-aid=\"162705130\" id=\"p_sEkSZ\">The Lord said, \u201cIt is a light thing\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p6#p6\">1 Nephi 21:6<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p6#p6",
+          "text": "1 Nephi 21:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162704996",
+        "id": "note6",
+        "text": "<p data-aid=\"162705109\" id=\"p_kzFkb\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng\">Youth of the Noble Birthright: What Will You Choose?<\/a>\u201d (Church Educational System devotional for young adults, Sept. 6, 2013), Gospel Library; see also Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>,\u201d speeches.byu.edu; Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/firstborn?lang=eng\">Firstborn<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng",
+            "text": "Youth of the Noble Birthright: What Will You Choose?",
+            "type": "cross-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant",
+            "text": "Thanks for the Covenant"
+          },
+          {
+            "href": "/study/scriptures/gs/firstborn?lang=eng",
+            "text": "Firstborn",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162704996",
+        "id": "note7",
+        "text": "<p data-aid=\"162705116\" id=\"p_xOWVI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=eng&amp;id=p42#p42\">Luke 12:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=eng&amp;id=p7-p10#p7\">17:7\u201310<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/12?lang=eng&amp;id=p42#p42",
+            "text": "Luke 12:42",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/17?lang=eng&amp;id=p7-p10#p7",
+            "text": "17:7\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "162705072",
+        "id": "note30",
+        "text": "<p data-aid=\"162705257\" id=\"p_sR9F0\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29\">Genesis 25:29\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29",
+          "text": "Genesis 25:29\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162705028",
+        "id": "note16",
+        "text": "<p data-aid=\"162705178\" id=\"p_ovRhk\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6\">Moses 1:6<\/a>; see also \u201c<a class=\"cross-ref\" href=\"/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&amp;id=title4#title4\">Aaronic Priesthood Quorum Theme<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6",
+            "text": "Moses 1:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/10-aaronic-priesthood?lang=eng&amp;id=title4#title4",
+            "text": "Aaronic Priesthood Quorum Theme",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162705028",
+        "id": "note15",
+        "text": "<p data-aid=\"162705171\" id=\"p_wEYsX\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9\">1 Peter 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9",
+          "text": "1 Peter 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162705028",
+        "id": "note14",
+        "text": "<p data-aid=\"162705164\" id=\"p_t8XYL\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77\">Doctrine and Covenants 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77",
+          "text": "Doctrine and Covenants 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162705019",
+        "id": "note13",
+        "text": "<p data-aid=\"162705157\" id=\"p_t6fnn\"><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/02-choices?lang=eng&amp;id=p4#p4\"><cite>For the Strength of Youth: A Guide for Making Choices<\/cite><\/a> (2022), 4; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p18-p25#p18\">Doctrine and Covenants 84:18\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p18-p21#p18\">107:18\u201321<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng\">Youth of the Noble Birthright: What Will You Choose?<\/a>\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/for-the-strength-of-youth/02-choices?lang=eng&amp;id=p4#p4",
+            "text": "For the Strength of Youth: A Guide for Making Choices",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p18-p25#p18",
+            "text": "Doctrine and Covenants 84:18\u201325",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p18-p21#p18",
+            "text": "107:18\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=eng",
+            "text": "Youth of the Noble Birthright: What Will You Choose?",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162705010",
+        "id": "note12",
+        "text": "<p data-aid=\"162705150\" id=\"p_ccJyh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/2?lang=eng&amp;id=p25#p25\">Exodus 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/2?lang=eng&amp;id=p25#p25",
+          "text": "Exodus 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162705010",
+        "id": "note11",
+        "text": "<p data-aid=\"162705145\" id=\"p_fNFlg\">The Lord said, \u201cThou art my servant, O Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p3#p3\">1 Nephi 21:3<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/21?lang=eng&amp;id=p3#p3",
+          "text": "1 Nephi 21:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162705010",
+        "id": "note10",
+        "text": "<p data-aid=\"162705137\" id=\"p_diYgx\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9\">1 Peter 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9",
+          "text": "1 Peter 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "162705072",
+        "id": "note31",
+        "text": "<p data-aid=\"162705258\" id=\"p_ccrWC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p38#p38\">3 Nephi 20:38<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55?lang=eng&amp;id=p2#p2\">Isaiah 55:2<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p38#p38",
+            "text": "3 Nephi 20:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/55?lang=eng&amp;id=p2#p2",
+            "text": "Isaiah 55:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162705050",
+        "id": "note19",
+        "text": "<p data-aid=\"162705198\" id=\"p_i75Qp\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p22%2C41#p22\">Mosiah 2:22, 41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 59:23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p22%2C41#p22",
+            "text": "Mosiah 2:22, 41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p23#p23",
+            "text": "Doctrine and Covenants 59:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162705043",
+        "id": "note18",
+        "text": "<p data-aid=\"162705192\" id=\"p_hFda6\">Ardeth Greene Kapp, <cite>I Walk by Faith<\/cite> (1987), 97.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162705035",
+        "id": "note17",
+        "text": "<p data-aid=\"162705185\" id=\"p_uhN5z\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;id=p10#p10\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 309.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-brigham-young/chapter-42?lang=eng&amp;id=p10#p10",
+          "text": "Teachings of Presidents of the Church: Brigham Young",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162705062",
+        "id": "note27",
+        "text": "<p data-aid=\"162705245\" id=\"p_w6Ynq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=eng&amp;id=p5#p5\">Jacob 6:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/6?lang=eng&amp;id=p5#p5",
+          "text": "Jacob 6:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162705062",
+        "id": "note26",
+        "text": "<p data-aid=\"162705240\" id=\"p_kZOIC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p72#p72\">Jacob 5:72<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p72#p72",
+          "text": "Jacob 5:72",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162705057",
+        "id": "note25",
+        "text": "<p data-aid=\"162705234\" id=\"p_a7nO8\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-gift-of-grace?lang=eng\">The Gift of Grace<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2015, 107; see also Guide to the Scriptures, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/grace?lang=eng\">Grace<\/a>,\u201d Gospel Library. I used to be confused by the many descriptions of God\u2019s power found throughout the scriptures. They speak of grace as enabling power (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13\">Philippians 4:13<\/a>) but also the Light of Christ as power (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p13#p13\">Doctrine and Covenant 88:13<\/a>). We read of the power of faith (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p35#p35\">Alma 18:35<\/a>), the power of the Holy Ghost (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p7#p7\">Moroni 10:7<\/a>), and power from on high promised in temples (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p32#p32\">Doctrine and Covenants 38:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/105?lang=eng&amp;id=p11#p11\">105:11<\/a>). Scriptures also teach of the power of the priesthood (see <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/113?lang=eng&amp;id=p8#p8\">Doctrine and Covenants 113:8<\/a>). I couldn\u2019t figure out where one ended and the others began. Finally, I realized that \u201cthere is no other power, save the power of God\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p7#p7\">Doctrine and Covenants 8:7<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13?lang=eng&amp;id=p1#p1\">Romans 13:1<\/a>). Different labels for God\u2019s power do not describe different powers but varying amounts, uses, and aspects of the same power.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2015/04/the-gift-of-grace?lang=eng",
+            "text": "The Gift of Grace",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/grace?lang=eng",
+            "text": "Grace",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13",
+            "text": "Philippians 4:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p13#p13",
+            "text": "Doctrine and Covenant 88:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/18?lang=eng&amp;id=p35#p35",
+            "text": "Alma 18:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p7#p7",
+            "text": "Moroni 10:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p32#p32",
+            "text": "Doctrine and Covenants 38:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/105?lang=eng&amp;id=p11#p11",
+            "text": "105:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/113?lang=eng&amp;id=p8#p8",
+            "text": "Doctrine and Covenants 113:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p7#p7",
+            "text": "Doctrine and Covenants 8:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/13?lang=eng&amp;id=p1#p1",
+            "text": "Romans 13:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162705057",
+        "id": "note24",
+        "text": "<p data-aid=\"162705228\" id=\"p_nmu4L\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=eng&amp;id=p20#p20\">Alma 53:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=eng&amp;id=p27#p27\">57:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/53?lang=eng&amp;id=p20#p20",
+            "text": "Alma 53:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/57?lang=eng&amp;id=p27#p27",
+            "text": "57:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162705057",
+        "id": "note23",
+        "text": "<p data-aid=\"162705222\" id=\"p_wfZIQ\">Kenneth Cope, \u201cThe Best for Last,\u201d <cite>Voices<\/cite> (album, 1991).<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162705050",
+        "id": "note22",
+        "text": "<p data-aid=\"162705216\" id=\"p_kgMZf\">See Dallin H. Oaks, <cite>With Full Purpose of Heart<\/cite> (2002), 38.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162705050",
+        "id": "note21",
+        "text": "<p data-aid=\"162705210\" id=\"p_h2l2L\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=eng&amp;id=p2#p2\">Abraham 1:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/1?lang=eng&amp;id=p2#p2",
+          "text": "Abraham 1:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162705050",
+        "id": "note20",
+        "text": "<p data-aid=\"162705204\" id=\"p_x1p25\">Neil L. Andersen, \u201c<a href=\"https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous\">A Compensatory Spiritual Power for the Righteous<\/a>\u201d (Brigham Young University devotional, Aug. 18, 2015), 3, speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous",
+          "text": "A Compensatory Spiritual Power for the Righteous"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162704936",
+        "id": "note1",
+        "text": "<p data-aid=\"162705082\" id=\"p_cqgSc\">In Stuart Hample and Eric Marshall, <cite>Children\u2019s Letters to God<\/cite> (1991).<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "162705072",
+        "id": "note29",
+        "text": "<p data-aid=\"162705253\" id=\"p_l0GRC\"><cite>Hymns<\/cite>, no. 255.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "162705062",
+        "id": "note28",
+        "text": "<p data-aid=\"162705249\" id=\"p_aBpIg\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p17#p17\">3 Nephi 22:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p17#p17",
+          "text": "3 Nephi 22:17",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

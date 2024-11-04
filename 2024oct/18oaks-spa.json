@@ -1,0 +1,570 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/18oaks?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "343d9287f2c44110955db598b7a4fe7f",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/18oaks",
+      "data-aid": "162701623",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "8c9e9c1731804783ae58a6698d0228eb"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/3c41c71b803511efa27d0286e0573c63b41712e3-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Seguir a Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162701623",
+      {"key": "162701623"}
+    ],
+    [
+      "162995949",
+      {"key": "162995949"}
+    ],
+    [
+      "162995961",
+      {"key": "162995961"}
+    ],
+    [
+      "162995975",
+      {"key": "162995975"}
+    ],
+    [
+      "162995993",
+      {"key": "162995993"}
+    ],
+    [
+      "162996011",
+      {"key": "162996011"}
+    ],
+    [
+      "162996021",
+      {"key": "162996021"}
+    ],
+    [
+      "162996040",
+      {"key": "162996040"}
+    ],
+    [
+      "162996052",
+      {"key": "162996052"}
+    ],
+    [
+      "162996077",
+      {"key": "162996077"}
+    ],
+    [
+      "162996104",
+      {"key": "162996104"}
+    ],
+    [
+      "162996126",
+      {"key": "162996126"}
+    ],
+    [
+      "162996160",
+      {"key": "162996160"}
+    ],
+    [
+      "162996182",
+      {"key": "162996182"}
+    ],
+    [
+      "162996204",
+      {"key": "162996204"}
+    ],
+    [
+      "162996227",
+      {"key": "162996227"}
+    ],
+    [
+      "162996254",
+      {"key": "162996254"}
+    ],
+    [
+      "162996292",
+      {"key": "162996292"}
+    ],
+    [
+      "162996323",
+      {"key": "162996323"}
+    ],
+    [
+      "162996353",
+      {"key": "162996353"}
+    ],
+    [
+      "163002388",
+      {"key": "163002388"}
+    ],
+    [
+      "163002428",
+      {"key": "163002428"}
+    ],
+    [
+      "163002471",
+      {"key": "163002471"}
+    ],
+    [
+      "163002517",
+      {"key": "163002517"}
+    ],
+    [
+      "163002564",
+      {"key": "163002564"}
+    ],
+    [
+      "163002607",
+      {"key": "163002607"}
+    ],
+    [
+      "163002653",
+      {"key": "163002653"}
+    ],
+    [
+      "163002699",
+      {"key": "163002699"}
+    ],
+    [
+      "163002719",
+      {"key": "163002719"}
+    ],
+    [
+      "163002765",
+      {"key": "163002765"}
+    ],
+    [
+      "163002806",
+      {"key": "163002806"}
+    ],
+    [
+      "163002855",
+      {"key": "163002855"}
+    ],
+    [
+      "163002900",
+      {"key": "163002900"}
+    ],
+    [
+      "163002944",
+      {"key": "163002944"}
+    ],
+    [
+      "163002967",
+      {"key": "163002967"}
+    ],
+    [
+      "163003011",
+      {"key": "163003011"}
+    ],
+    [
+      "163003042",
+      {"key": "163003042"}
+    ],
+    [
+      "163003080",
+      {"key": "163003080"}
+    ],
+    [
+      "163003124",
+      {"key": "163003124"}
+    ],
+    [
+      "163003168",
+      {"key": "163003168"}
+    ],
+    [
+      "163003212",
+      {"key": "163003212"}
+    ],
+    [
+      "163003256",
+      {"key": "163003256"}
+    ],
+    [
+      "163003299",
+      {"key": "163003299"}
+    ],
+    [
+      "163003342",
+      {"key": "163003342"}
+    ],
+    [
+      "163008385",
+      {"key": "163008385"}
+    ],
+    [
+      "163008428",
+      {"key": "163008428"}
+    ],
+    [
+      "163008476",
+      {"key": "163008476"}
+    ],
+    [
+      "163008519",
+      {"key": "163008519"}
+    ],
+    [
+      "163008562",
+      {"key": "163008562"}
+    ],
+    [
+      "163008605",
+      {"key": "163008605"}
+    ],
+    [
+      "163008647",
+      {"key": "163008647"}
+    ],
+    [
+      "163008688",
+      {"key": "163008688"}
+    ],
+    [
+      "163008729",
+      {"key": "163008729"}
+    ],
+    [
+      "163008769",
+      {"key": "163008769"}
+    ],
+    [
+      "163008809",
+      {"key": "163008809"}
+    ],
+    [
+      "163008847",
+      {"key": "163008847"}
+    ],
+    [
+      "163008885",
+      {"key": "163008885"}
+    ],
+    [
+      "163008924",
+      {"key": "163008924"}
+    ],
+    [
+      "163008966",
+      {"key": "163008966"}
+    ],
+    [
+      "163009003",
+      {"key": "163009003"}
+    ],
+    [
+      "163009042",
+      {"key": "163009042"}
+    ],
+    [
+      "163009081",
+      {"key": "163009081"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/18oaks",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El presidente Oaks enseña la importancia de seguir los mandamientos de Jesucristo, haciendo hincapié en Su mandamiento de evitar la contención.",
+          "title": "Seguir a Cristo"
+        },
+        "pageSocial": {
+          "description": "El presidente Oaks enseña la importancia de seguir los mandamientos de Jesucristo, haciendo hincapié en Su mandamiento de evitar la contención.",
+          "title": "Seguir a Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/3e87be14834111efae28022e7e432ed99fca88f6/full/!192%2C/0/default\" data-video-id=\"6362885178112\" data-duration=\"810976\" data-assetId=\"6282daa37f5e11efb0ca022e7e432ed9e0efeb2e\" data-ref-id=\"6282daa37f5e11efb0ca022e7e432ed9e0efeb2e\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362885178112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"250269564\"/><source src=\"https://assets.churchofjesuschrist.org/6282daa37f5e11efb0ca022e7e432ed9e0efeb2e-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"44843687\"/><source src=\"https://assets.churchofjesuschrist.org/6282daa37f5e11efb0ca022e7e432ed9e0efeb2e-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"88471706\"/><source src=\"https://assets.churchofjesuschrist.org/6282daa37f5e11efb0ca022e7e432ed9e0efeb2e-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"250269564\"/><\/video><h1 data-aid=\"162995949\" id=\"p_dwhrx\">Seguir a Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162995961\" id=\"p_fzU0D\">Por el presidente Dallin H. Oaks<\/p>\n<p class=\"author-role\" data-aid=\"162995975\" id=\"p_hBoJE\">Primer Consejero de la Primera Presidencia<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162995993\" id=\"p_f314b\">Como seguidores de Cristo, enseñamos y testificamos de Jesucristo, nuestro Modelo Perfecto. Sigamos Su ejemplo renunciando a la contención.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162996011\" id=\"p_fjpqh\">Este año, millones de personas se han sentido inspiradas por el plan de estudio del Evangelio conocido por la invitación del Salvador: \u201cVen, sígueme\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. Seguir a Cristo no es una práctica casual ni ocasional, sino una dedicación continua y una manera de vivir que debe guiarnos en todo tiempo y en todo lugar. Sus enseñanzas y Su ejemplo definen la senda para todo discípulo de Jesucristo; y todos estamos invitados a esa senda, porque Él invita a todos a venir a Él: \u201cnegros o blancos, esclavos o libres, varones o mujeres [\u2026]; todos son iguales ante Dios\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<section id=\"sec_yeAse\">\n<header>\n<h2 data-aid=\"162996021\" id=\"p_oaWO1\">I.<\/h2>\n<\/header>\n<p data-aid=\"162996040\" id=\"p_xXNVy\">El primer paso para seguir a Cristo es obedecer lo que Él definió como \u201cel gran mandamiento de la ley\u201d:<\/p>\n<p data-aid=\"162996052\" id=\"p_ebc0u\">\u201cAmarás al Señor tu Dios con todo tu corazón, y con toda tu alma y con toda tu mente.<\/p>\n<p data-aid=\"162996077\" id=\"p_relYL\">\u201cEste es el primero y grande mandamiento.<\/p>\n<p data-aid=\"162996104\" id=\"p_anmax\">\u201cY el segundo es semejante a este: Amarás a tu prójimo como a ti mismo.<\/p>\n<p data-aid=\"162996126\" id=\"p_okSrK\">\u201cDe estos dos mandamientos dependen toda la ley y los profetas\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<img alt=\"Padre e hijo volando una cometa\" id=\"img_okNco\" src=\"https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/500%2C/0/default\" data-img-id=\"nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo\" srcset=\"https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo/full/640%2C/0/default 640w\" data-assetId=\"nwmmld376mp0dm69yrnkfxswt5ldrf0aipfwfavo\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"162996160\" id=\"p_rGHnb\">Los mandamientos de Dios proporcionan la fuerza orientadora y estabilizadora de nuestra vida. Nuestras experiencias en la vida terrenal se asemejan a un niño y su padre que volaban una cometa en un día ventoso. A medida que la cometa se elevaba, el viento tiraba del cordel que llevaba el niño en la mano. Inexperto ante la fuerza de los vientos terrenales, propuso cortar el cordel para que la cometa pudiera subir más. Su sabio padre le aconsejó que no lo hiciera, explicándole que el cordel es lo que sujeta a la cometa en su lugar frente a los vientos terrenales. Si perdemos el control del cordel, la cometa no se elevará más arriba, sino que será llevada por esos vientos e inevitablemente acabará estrellándose contra la tierra.<\/p>\n<p data-aid=\"162996182\" id=\"p_lLjEa\">Ese cordel esencial representa los convenios, que nos conectan a Dios, nuestro Padre Celestial, y a Su Hijo, Jesucristo. Cuando honramos esos convenios al guardar Sus mandamientos y seguir Su plan de redención, las bendiciones que Ellos nos prometen nos permiten elevarnos a alturas celestiales.<\/p>\n<p data-aid=\"162996204\" id=\"p_ipgNK\">El Libro de Mormón a menudo declara que Cristo es \u201cla luz del mundo\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. Durante Su aparición a los nefitas, el Señor resucitado explicó esa enseñanza al decirles: \u201cYo os he dado el ejemplo\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. \u201cYo soy la luz que debéis sostener en alto: aquello que me habéis visto hacer\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Él es nuestro modelo a seguir. Aprendemos lo que Él ha dicho y hecho al estudiar las Escrituras y seguir las enseñanzas proféticas, tal como el presidente Russell M. Nelson nos ha instado a hacer<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>. En la ordenanza de la Santa Cena, cada día de reposo hacemos convenio de \u201crecordarle siempre, y [de] guardar Sus mandamientos\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_m5KAp\">\n<header>\n<h2 data-aid=\"162996227\" id=\"p_eR43c\">II.<\/h2>\n<\/header>\n<p data-aid=\"162996254\" id=\"p_byEkx\">En el Libro de Mormón, el Señor nos dio los principios fundamentales en lo que Él llamó \u201cla doctrina de Cristo\u201d. Estos son la fe en el Señor Jesucristo, el arrepentimiento, el bautismo, la recepción del don del Espíritu Santo, perseverar hasta el fin y volverse como un niño<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>, lo cual significa confiar en el Señor y someternos a todo lo que Él requiere de nosotros<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"162996292\" id=\"p_xfPgG\">Los mandamientos del Señor son de dos tipos: permanentes, como la doctrina de Cristo, y temporales. Los mandamientos temporales son aquellos que son necesarios para las necesidades de la Iglesia del Señor o de los fieles en circunstancias temporales, pero que se dejan de lado cuando la necesidad haya pasado. Un ejemplo de mandamientos temporales son las instrucciones del Señor a los primeros líderes de la Iglesia de trasladar a los santos de Nueva York a Ohio, a Misuri, y a Illinois, y finalmente de dirigir el éxodo pionero a la región montañosa occidental. Aunque solo fueron temporales, cuando aún estaban vigentes, esos mandamientos se dieron para ser obedecidos.<\/p>\n<p data-aid=\"162996323\" id=\"p_w86Lf\">Algunos mandamientos permanentes han tardado mucho tiempo en ser observados de forma generalizada. Por ejemplo, el famoso discurso del presidente Lorenzo Snow sobre la ley del diezmo enfatizó un mandamiento que se había dado anteriormente, pero que aún no era observado de forma general por los miembros de la Iglesia<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Era necesario volver a enfatizarlo debido a las circunstancias que enfrentaban la Iglesia y sus miembros en ese momento. Se han necesitado también ejemplos recientes de énfasis debido a las circunstancias actuales que los Santos de los Últimos Días o la Iglesia afrontan. Entre ellos se encuentran la proclamación sobre la familia, declarada por el presidente Gordon B. Hinckley hace una generación<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>, y el reciente llamado del presidente Russell M. Nelson a que la Iglesia sea conocida por su nombre revelado, La Iglesia de Jesucristo de los Santos de los Últimos Días<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_k8p7r\">\n<header>\n<h2 data-aid=\"162996353\" id=\"p_pMo5b\">III.<\/h2>\n<\/header>\n<p data-aid=\"163002388\" id=\"p_kNe0k\">Otra de las enseñanzas de nuestro Salvador parece requerir un énfasis renovado en las circunstancias de nuestros días.<\/p>\n<p data-aid=\"163002428\" id=\"p_ezU20\">Este es un tiempo de muchas palabras crueles e hirientes en las comunicaciones públicas y, a veces, incluso en nuestras familias. Las marcadas diferencias en cuestiones de políticas públicas a menudo resultan en acciones de hostilidad, incluso de odio, en las relaciones públicas y personales. Este ambiente de enemistad a veces incluso paraliza la capacidad de legislar en asuntos de importancia en los que la mayoría de los ciudadanos ve una necesidad urgente de alguna acción en favor del interés público.<\/p>\n<p data-aid=\"163002471\" id=\"p_z4qxi\">¿Qué deberían enseñar y hacer los seguidores de Cristo en esta época de comunicaciones tóxicas? ¿Cuáles fueron Sus enseñanzas y ejemplos?<\/p>\n<img alt=\"El Señor enseñando a los nefitas.\" id=\"img_o05xA\" src=\"https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/500%2C/0/default\" data-img-id=\"xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e\" srcset=\"https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e/full/640%2C/0/default 640w\" data-assetId=\"xlmq37f3eu2p7x475wcxky7x9turf5v2whvskg3e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"163002517\" id=\"p_lz7go\">Es significativo que entre los primeros principios que Jesús enseñó cuando se apareció a los nefitas se encuentra el de evitar la contención. Si bien enseñó esto en el contexto de disputas sobre doctrina religiosa, las razones que dio claramente se aplican a las comunicaciones y relaciones en la política, la legislación pública y las relaciones familiares. Jesús enseñó:<\/p>\n<p data-aid=\"163002564\" id=\"p_w2Lbk\">\u201cAquel que tiene el espíritu de contención no es mío, sino es del diablo, que es el padre de la contención, y él irrita los corazones de los hombres, para que contiendan con ira unos con otros.<\/p>\n<p data-aid=\"163002607\" id=\"p_nEtgy\">\u201cHe aquí, esta no es mi doctrina, agitar con ira el corazón de los hombres, el uno contra el otro; antes bien mi doctrina es esta, que se acaben tales cosas\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002653\" id=\"p_yeWQB\">En el resto de Su ministerio entre los nefitas, Jesús enseñó otros mandamientos estrechamente relacionados con Su prohibición de la contención. Sabemos por lo que se enseña en la Biblia que Él había enseñado previamente cada uno de estos en Su gran Sermón del Monte, precisamente en el mismo lenguaje que luego utilizó con los nefitas. Citaré el lenguaje familiar de la Biblia:<\/p>\n<img alt=\"El Salvador enseña en Jerusalén\" id=\"img_gMi9n\" src=\"https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/500%2C/0/default\" data-img-id=\"937c2934231011edb2d9eeeeac1ea7e66e30d46e\" srcset=\"https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/60%2C/0/default 60w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/100%2C/0/default 100w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/200%2C/0/default 200w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/250%2C/0/default 250w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/320%2C/0/default 320w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/500%2C/0/default 500w,https://churchofjesuschrist.org/imgs/937c2934231011edb2d9eeeeac1ea7e66e30d46e/full/640%2C/0/default 640w\" data-assetId=\"937c2934231011edb2d9eeeeac1ea7e66e30d46e\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"333\" data-aspect-ratio=\"1.5015015015015014\"/>\n<p data-aid=\"163002699\" id=\"p_nu7Ue\">\u201cAmad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002719\" id=\"p_dLQzt\">Este es uno de los mandamientos más conocidos de Cristo, el más revolucionario y más difícil de seguir. Sin embargo, es una parte fundamental de Su invitación a que todos lo sigamos. Como enseñó el presidente David O. McKay: \u201cNo existe mejor manera de manifestar el amor por Dios que demostrar un amor desinteresado por nuestros semejantes\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<img alt=\"Partes contrarias en una conciliación\" id=\"img_mL0XU\" src=\"https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/500%2C/0/default\" data-img-id=\"ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb\" srcset=\"https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb/full/640%2C/0/default 640w\" data-assetId=\"ihd4m9apfz4pv6ykcci3m04ny1fdt892gxdg9crb\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"158\" data-aspect-ratio=\"3.1645569620253164\"/>\n<p data-aid=\"163002765\" id=\"p_yobLZ\">He aquí otra enseñanza fundamental dada por Aquel que es nuestro modelo a seguir: \u201cBienaventurados los pacificadores, porque ellos serán llamados hijos de Dios\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002806\" id=\"p_oqqpz\">¡Los pacificadores! ¡Cómo cambiarían las relaciones personales si los seguidores de Cristo renunciaran a las palabras crueles e hirientes en todas sus comunicaciones!<\/p>\n<p data-aid=\"163002855\" id=\"p_alS9T\">En la conferencia general del año pasado, el presidente Russell M. Nelson nos dio estos esos desafíos:<\/p>\n<p data-aid=\"163002900\" id=\"p_vuzPK\">\u201cUna de las maneras más sencillas de reconocer a un <em>verdadero seguidor<\/em> de Jesucristo es fijarse en qué medida trata a los demás con compasión [\u2026].<\/p>\n<p data-aid=\"163002944\" id=\"p_ts8Qw\">\u201cLos verdaderos discípulos de Jesucristo son pacificadores.<\/p>\n<p data-aid=\"163002967\" id=\"p_c5hvP\">\u201cUna de las mejores maneras en las que podemos honrar al Salvador es convirtiéndonos en pacificadores [\u2026]\u201d.<\/p>\n<p data-aid=\"163003011\" id=\"p_tQWPy\">Concluyendo sus enseñanzas: \u201cLa contención es una elección. Ser pacificador es una elección. Ustedes tienen su albedrío para elegir la contención o la reconciliación. Los insto a <em>elegir<\/em> ser pacificadores, ahora y siempre\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163003042\" id=\"p_czRKW\">Los posibles adversarios deberían comenzar sus conversaciones identificando puntos en común en los que todos estén de acuerdo.<\/p>\n<p data-aid=\"163003080\" id=\"p_lG7rS\">Para seguir a nuestro Modelo Perfecto y a Su profeta, debemos practicar lo que popularmente se conoce como la regla de oro: \u201cAsí que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos, porque esta es la ley y los profetas\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. Necesitamos amar y hacer el bien a todos. Necesitamos evitar la contención y ser pacificadores en todas nuestras comunicaciones. Esto no significa comprometer nuestros principios y prioridades, sino dejar de atacar duramente a los demás por los suyos. Eso fue lo que nuestro Modelo Perfecto hizo en Su ministerio. Ese es el ejemplo que Él nos dejó al invitarnos a seguirlo.<\/p>\n<p data-aid=\"163003124\" id=\"p_osrGu\">En esta conferencia, hace cuatro años, el presidente Nelson nos dio un desafío profético para nuestros días:<\/p>\n<p data-aid=\"163003168\" id=\"p_yZMUe\">\u201c¿<em>Estás<\/em> dispuesto a dejar que Dios prevalezca en tu vida? ¿<em>Estás<\/em> dispuesto a permitir que Dios sea la influencia más importante en tu vida? ¿Permitirás que Sus palabras, Sus mandamientos y Sus convenios influyan en lo que haces cada día? ¿Permitirás que Su voz tenga prioridad sobre cualquier otra?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<img alt=\"El Señor Jesucristo\" id=\"img_lSqUP\" src=\"https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/500%2C/0/default\" data-img-id=\"1f0df7933b8d98a6fd2bc0cd708023eb1be068f0\" srcset=\"https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1f0df7933b8d98a6fd2bc0cd708023eb1be068f0/full/640%2C/0/default 640w\" data-assetId=\"1f0df7933b8d98a6fd2bc0cd708023eb1be068f0\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"263\" data-aspect-ratio=\"1.9011406844106464\"/>\n<p data-aid=\"163003212\" id=\"p_cmUiR\">Como seguidores de Cristo, enseñamos y testificamos de Jesucristo, nuestro Modelo Perfecto. Sigamos Su ejemplo renunciando a la contención. Al defender nuestras políticas preferidas en acciones públicas, hagámonos merecedores de Sus bendiciones utilizando el lenguaje y los métodos de los pacificadores. En nuestras familias y otras relaciones personales, evitemos lo que es cruel y hostil. Procuremos ser santos, como nuestro Salvador, en cuyo santo nombre testifico e invoco Su bendición para ayudarnos a ser santos. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163003256\" id=\"p_hazSH\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163003299\" id=\"p_eo53g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22\">Lucas 18:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163003342\" id=\"p_mBbeA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33\">2 Nefi 26:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163008385\" id=\"p_h6C8G\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36\">Mateo 22:36\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163008428\" id=\"p_ot0Zu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38?lang=spa&amp;id=p9#p9\">Alma 38:9<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9\">Mosíah 16:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p18#p18\">3 Nefi 9:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163008476\" id=\"p_tcb5M\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p16#p16\">3 Nefi 18:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163008519\" id=\"p_oQZEe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p21#p21\">3 Nefi 27:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163008562\" id=\"p_xVFWl\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p5-p10#p5\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, págs. 39\u201340.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163008605\" id=\"p_oFQyA\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163008647\" id=\"p_or64r\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p32-p33%2C38#p32\">3 Nefi 11:32\u201333, 38<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p21#p13\">2 Nefi 31:13\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p13-p22#p13\">3 Nefi 27:13\u201322<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163008688\" id=\"p_veGRi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163008729\" id=\"p_pL6wg\">Véase <cite><a class=\"cross-ref\" href=\"/study/history/saints-v3/part-1/05-an-essential-preparation?lang=spa&amp;id=p43-p60#p43\">Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/a><\/cite>, tomo III, <cite>Valerosa, noble e independiente, 1893\u20131955<\/cite>, 2022, págs. 82\u201385.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163008769\" id=\"p_tgjYq\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa\">La Familia: Una Proclamación para el Mundo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163008809\" id=\"p_fhsBr\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa\">El nombre correcto de la Iglesia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 87\u201390.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163008847\" id=\"p_bj0LH\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p29-p30#p29\">3 Nefi 11:29\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163008885\" id=\"p_y2JxX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p44#p44\">Mateo 5:44<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p44#p44\">3 Nefi 12:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163008924\" id=\"p_wA5Zg\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-19?lang=spa&amp;id=p10#p10\">Enseñanzas de los Presidentes de la Iglesia: David O. McKay<\/a><\/cite>, 2004, pág. 200.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163008966\" id=\"p_es4gq\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p9#p9\">Mateo 5:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p9#p9\">3 Nefi 12:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163009003\" id=\"p_pmboj\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7%2Cp10-p11%2Cp35#p7\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 98\u2013100.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163009042\" id=\"p_tN8lF\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=spa&amp;id=p12#p12\">Mateo 7:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163009081\" id=\"p_pPVkF\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa&amp;id=p24#p24\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162996204",
+        "id": "note4",
+        "text": "<p data-aid=\"163008428\" id=\"p_ot0Zu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/38?lang=spa&amp;id=p9#p9\">Alma 38:9<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9\">Mosíah 16:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p18#p18\">3 Nefi 9:18<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/38?lang=spa&amp;id=p9#p9",
+            "text": "Alma 38:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/16?lang=spa&amp;id=p9#p9",
+            "text": "Mosíah 16:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p18#p18",
+            "text": "3 Nefi 9:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162996204",
+        "id": "note5",
+        "text": "<p data-aid=\"163008476\" id=\"p_tcb5M\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p16#p16\">3 Nefi 18:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p16#p16",
+          "text": "3 Nefi 18:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162996011",
+        "id": "note2",
+        "text": "<p data-aid=\"163003342\" id=\"p_mBbeA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33\">2 Nefi 26:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p33#p33",
+          "text": "2 Nefi 26:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162996126",
+        "id": "note3",
+        "text": "<p data-aid=\"163008385\" id=\"p_h6C8G\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36\">Mateo 22:36\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36",
+          "text": "Mateo 22:36\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162996204",
+        "id": "note8",
+        "text": "<p data-aid=\"163008605\" id=\"p_oFQyA\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77",
+          "text": "Doctrina y Convenios 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162996254",
+        "id": "note9",
+        "text": "<p data-aid=\"163008647\" id=\"p_or64r\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p32-p33%2C38#p32\">3 Nefi 11:32\u201333, 38<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p21#p13\">2 Nefi 31:13\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p13-p22#p13\">3 Nefi 27:13\u201322<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p32-p33%2C38#p32",
+            "text": "3 Nefi 11:32\u201333, 38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p13-p21#p13",
+            "text": "2 Nefi 31:13\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p13-p22#p13",
+            "text": "3 Nefi 27:13\u201322",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162996204",
+        "id": "note6",
+        "text": "<p data-aid=\"163008519\" id=\"p_oQZEe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p21#p21\">3 Nefi 27:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24",
+            "text": "3 Nefi 18:24",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/27?lang=spa&amp;id=p21#p21",
+            "text": "3 Nefi 27:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162996204",
+        "id": "note7",
+        "text": "<p data-aid=\"163008562\" id=\"p_xVFWl\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p5-p10#p5\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, págs. 39\u201340.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p5-p10#p5",
+          "text": "Cómo obtener el poder de Jesucristo en nuestra vida",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163002719",
+        "id": "note16",
+        "text": "<p data-aid=\"163008924\" id=\"p_wA5Zg\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-19?lang=spa&amp;id=p10#p10\">Enseñanzas de los Presidentes de la Iglesia: David O. McKay<\/a><\/cite>, 2004, pág. 200.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-david-o-mckay/chapter-19?lang=spa&amp;id=p10#p10",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: David O. McKay",
+          "type": "cross-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163002699",
+        "id": "note15",
+        "text": "<p data-aid=\"163008885\" id=\"p_y2JxX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p44#p44\">Mateo 5:44<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p44#p44\">3 Nefi 12:44<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=spa&amp;id=p44#p44",
+            "text": "Mateo 5:44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p44#p44",
+            "text": "3 Nefi 12:44",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163002607",
+        "id": "note14",
+        "text": "<p data-aid=\"163008847\" id=\"p_bj0LH\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p29-p30#p29\">3 Nefi 11:29\u201330<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p29-p30#p29",
+          "text": "3 Nefi 11:29\u201330",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162996323",
+        "id": "note13",
+        "text": "<p data-aid=\"163008809\" id=\"p_fhsBr\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa\">El nombre correcto de la Iglesia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 87\u201390.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/the-correct-name-of-the-church?lang=spa",
+          "text": "El nombre correcto de la Iglesia",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162996323",
+        "id": "note12",
+        "text": "<p data-aid=\"163008769\" id=\"p_tgjYq\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa\">La Familia: Una Proclamación para el Mundo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=spa",
+          "text": "La Familia: Una Proclamación para el Mundo",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162996323",
+        "id": "note11",
+        "text": "<p data-aid=\"163008729\" id=\"p_pL6wg\">Véase <cite><a class=\"cross-ref\" href=\"/study/history/saints-v3/part-1/05-an-essential-preparation?lang=spa&amp;id=p43-p60#p43\">Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/a><\/cite>, tomo III, <cite>Valerosa, noble e independiente, 1893\u20131955<\/cite>, 2022, págs. 82\u201385.<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v3/part-1/05-an-essential-preparation?lang=spa&amp;id=p43-p60#p43",
+          "text": "Santos: La historia de la Iglesia de Jesucristo en los últimos días",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162996254",
+        "id": "note10",
+        "text": "<p data-aid=\"163008688\" id=\"p_veGRi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19",
+          "text": "Mosíah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163003168",
+        "id": "note20",
+        "text": "<p data-aid=\"163009081\" id=\"p_pPVkF\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa&amp;id=p24#p24\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, pág. 94.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=spa&amp;id=p24#p24",
+          "text": "Que Dios prevalezca",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162996011",
+        "id": "note1",
+        "text": "<p data-aid=\"163003299\" id=\"p_eo53g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22\">Lucas 18:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22",
+          "text": "Lucas 18:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163003080",
+        "id": "note19",
+        "text": "<p data-aid=\"163009042\" id=\"p_tN8lF\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/7?lang=spa&amp;id=p12#p12\">Mateo 7:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/7?lang=spa&amp;id=p12#p12",
+          "text": "Mateo 7:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163003011",
+        "id": "note18",
+        "text": "<p data-aid=\"163009003\" id=\"p_pmboj\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7%2Cp10-p11%2Cp35#p7\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 98\u2013100.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7%2Cp10-p11%2Cp35#p7",
+          "text": "Se necesitan pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163002765",
+        "id": "note17",
+        "text": "<p data-aid=\"163008966\" id=\"p_es4gq\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=spa&amp;id=p9#p9\">Mateo 5:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p9#p9\">3 Nefi 12:9<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=spa&amp;id=p9#p9",
+            "text": "Mateo 5:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p9#p9",
+            "text": "3 Nefi 12:9",
+            "type": "scripture-ref"
+          }
+        ]
+      }
+    }
+  }
+}

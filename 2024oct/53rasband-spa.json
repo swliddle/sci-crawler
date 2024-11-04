@@ -1,0 +1,641 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/53rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "95c1c73704584cd594f8d992b2fc7d03",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/53rasband",
+      "data-aid": "162706650",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "3c61d287949a44b1b5b61a27f4779c97"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/09650d5680fe11ef91a7063a8fac2bb3da70a8ba-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cHe aquí, yo soy la luz que debéis sostener en alto\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162706650",
+      {"key": "162706650"}
+    ],
+    [
+      "163022423",
+      {"key": "163022423"}
+    ],
+    [
+      "163022430",
+      {"key": "163022430"}
+    ],
+    [
+      "163022437",
+      {"key": "163022437"}
+    ],
+    [
+      "163022444",
+      {"key": "163022444"}
+    ],
+    [
+      "163022451",
+      {"key": "163022451"}
+    ],
+    [
+      "163022461",
+      {"key": "163022461"}
+    ],
+    [
+      "163022470",
+      {"key": "163022470"}
+    ],
+    [
+      "163022481",
+      {"key": "163022481"}
+    ],
+    [
+      "163022490",
+      {"key": "163022490"}
+    ],
+    [
+      "163022498",
+      {"key": "163022498"}
+    ],
+    [
+      "163022507",
+      {"key": "163022507"}
+    ],
+    [
+      "163022516",
+      {"key": "163022516"}
+    ],
+    [
+      "163022525",
+      {"key": "163022525"}
+    ],
+    [
+      "163022534",
+      {"key": "163022534"}
+    ],
+    [
+      "163022542",
+      {"key": "163022542"}
+    ],
+    [
+      "163022550",
+      {"key": "163022550"}
+    ],
+    [
+      "163022562",
+      {"key": "163022562"}
+    ],
+    [
+      "163022571",
+      {"key": "163022571"}
+    ],
+    [
+      "163022580",
+      {"key": "163022580"}
+    ],
+    [
+      "163022590",
+      {"key": "163022590"}
+    ],
+    [
+      "163022599",
+      {"key": "163022599"}
+    ],
+    [
+      "163022608",
+      {"key": "163022608"}
+    ],
+    [
+      "163022617",
+      {"key": "163022617"}
+    ],
+    [
+      "163022624",
+      {"key": "163022624"}
+    ],
+    [
+      "163022632",
+      {"key": "163022632"}
+    ],
+    [
+      "163022640",
+      {"key": "163022640"}
+    ],
+    [
+      "163022649",
+      {"key": "163022649"}
+    ],
+    [
+      "163022657",
+      {"key": "163022657"}
+    ],
+    [
+      "163022662",
+      {"key": "163022662"}
+    ],
+    [
+      "163022670",
+      {"key": "163022670"}
+    ],
+    [
+      "163022675",
+      {"key": "163022675"}
+    ],
+    [
+      "163022683",
+      {"key": "163022683"}
+    ],
+    [
+      "163022692",
+      {"key": "163022692"}
+    ],
+    [
+      "163022699",
+      {"key": "163022699"}
+    ],
+    [
+      "163022707",
+      {"key": "163022707"}
+    ],
+    [
+      "163022713",
+      {"key": "163022713"}
+    ],
+    [
+      "163022719",
+      {"key": "163022719"}
+    ],
+    [
+      "163022729",
+      {"key": "163022729"}
+    ],
+    [
+      "163022735",
+      {"key": "163022735"}
+    ],
+    [
+      "163022742",
+      {"key": "163022742"}
+    ],
+    [
+      "163022750",
+      {"key": "163022750"}
+    ],
+    [
+      "163022757",
+      {"key": "163022757"}
+    ],
+    [
+      "163022764",
+      {"key": "163022764"}
+    ],
+    [
+      "163022770",
+      {"key": "163022770"}
+    ],
+    [
+      "163022777",
+      {"key": "163022777"}
+    ],
+    [
+      "163022784",
+      {"key": "163022784"}
+    ],
+    [
+      "163022791",
+      {"key": "163022791"}
+    ],
+    [
+      "163022798",
+      {"key": "163022798"}
+    ],
+    [
+      "163022805",
+      {"key": "163022805"}
+    ],
+    [
+      "163022812",
+      {"key": "163022812"}
+    ],
+    [
+      "163022819",
+      {"key": "163022819"}
+    ],
+    [
+      "163022823",
+      {"key": "163022823"}
+    ],
+    [
+      "163022831",
+      {"key": "163022831"}
+    ],
+    [
+      "163022836",
+      {"key": "163022836"}
+    ],
+    [
+      "163022841",
+      {"key": "163022841"}
+    ],
+    [
+      "163022845",
+      {"key": "163022845"}
+    ],
+    [
+      "163022854",
+      {"key": "163022854"}
+    ],
+    [
+      "163022861",
+      {"key": "163022861"}
+    ],
+    [
+      "163022868",
+      {"key": "163022868"}
+    ],
+    [
+      "163022874",
+      {"key": "163022874"}
+    ],
+    [
+      "163022878",
+      {"key": "163022878"}
+    ],
+    [
+      "163022883",
+      {"key": "163022883"}
+    ],
+    [
+      "163022892",
+      {"key": "163022892"}
+    ],
+    [
+      "163022900",
+      {"key": "163022900"}
+    ],
+    [
+      "163022907",
+      {"key": "163022907"}
+    ],
+    [
+      "163022914",
+      {"key": "163022914"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/53rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña acerca de cómo sostener al profeta viviente por medio de seguir sus enseñanzas y su ejemplo.",
+          "title": "\u201cHe aquí, yo soy la luz que debéis sostener en alto\u201d"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña acerca de cómo sostener al profeta viviente por medio de seguir sus enseñanzas y su ejemplo.",
+          "title": "\u201cHe aquí, yo soy la luz que debéis sostener en alto\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/2f88d032842311ef9b3a0626c361eb5535f70948/full/!192%2C/0/default\" data-video-id=\"6362918377112\" data-duration=\"809033\" data-assetId=\"7e7cd2f37f6b11ef9c8c0626c361eb5535b91e73\" data-ref-id=\"7e7cd2f37f6b11ef9c8c0626c361eb5535b91e73\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362918377112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"201589787\"/><source src=\"https://assets.churchofjesuschrist.org/7e7cd2f37f6b11ef9c8c0626c361eb5535b91e73-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"43377519\"/><source src=\"https://assets.churchofjesuschrist.org/7e7cd2f37f6b11ef9c8c0626c361eb5535b91e73-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"77306195\"/><source src=\"https://assets.churchofjesuschrist.org/7e7cd2f37f6b11ef9c8c0626c361eb5535b91e73-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"201589787\"/><\/video><h1 data-aid=\"163022423\" id=\"p_lbeIV\">\u201cHe aquí, yo soy la luz que debéis sostener en alto\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"163022430\" id=\"p_bFSLb\">Por el élder Ronald A. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"163022437\" id=\"p_dHraS\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"163022444\" id=\"p_oaegu\">Sostenemos la luz del Señor cuando nos aferramos a nuestros convenios y cuando apoyamos a nuestro profeta viviente.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"163022451\" id=\"p_z6Ad2\">A los muchos testimonios de esta conferencia, sumo mi testimonio apostólico de que Jesucristo es el Hijo de Dios, nuestro Señor y Salvador, el Redentor de todos los hijos de nuestro Padre. Gracias a Su Expiación, Jesucristo hizo posible que, si somos dignos, regresemos a la presencia de nuestro Padre Celestial y estemos con nuestras familias por la eternidad.<\/p>\n<p data-aid=\"163022461\" id=\"p_sSgA9\">El Salvador no está ausente durante nuestro trayecto terrenal. Durante los últimos dos días, lo hemos oído hablar a través de Sus líderes escogidos para que podamos acercarnos más a Él<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. Una y otra vez, con Su amor puro y Su misericordia, Él nos sostiene al enfrentar el drama de la vida. Nefi describe: \u201cMi Dios ha sido mi apoyo; él me ha guiado por entre mis aflicciones [\u2026]. Me ha llenado con su amor\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022470\" id=\"p_xZVzG\">Ese amor se hace evidente cuando nos apoyamos los unos a los otros en Su obra.<\/p>\n<p data-aid=\"163022481\" id=\"p_bgufh\">Apoyamos a nuestro profeta viviente en la conferencia general, y también a la Primera Presidencia, al Cuórum de los Doce Apóstoles, a las Autoridades Generales y a los Oficiales Generales de la Iglesia. Apoyar significa <em>sostener<\/em> a otra persona, prestarle atención, ser fieles a su confianza y actuar de acuerdo con sus palabras<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. Ellos hablan por inspiración del Señor; entienden los problemas actuales, la decadencia moral de la sociedad y los esfuerzos crecientes del adversario por frustrar el plan del Padre. Al <em>sostener en alto<\/em> la mano, estamos comprometiendo nuestro apoyo, no solo en ese momento, sino en nuestra vida cotidiana.<\/p>\n<p data-aid=\"163022490\" id=\"p_sIK7A\"><em>Sostener<\/em> incluye apoyar a nuestros presidentes de estaca y obispos, a los líderes de cuórum y de las organizaciones, a los maestros e incluso a los directores de campamentos en nuestros barrios y estacas. Más cerca de casa, <em>sostenemos<\/em> a nuestras esposas y nuestros esposos, hijos, padres, otros parientes y vecinos. Cuando nos <em>sostenemos<\/em> unos a otros, estamos diciendo: \u201cEstoy aquí contigo, no solo para <em>sostenerte<\/em> los brazos y las manos cuando estén \u2018caíd[o]s\u2019<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>, sino para darte consuelo y fortaleza, a tu lado\u201d.<\/p>\n<p data-aid=\"163022498\" id=\"p_hmdmt\">El concepto de <em>sostener<\/em> está fundamentado en las Escrituras. En las aguas de Mormón, los miembros de la Iglesia recién bautizados hicieron convenio de \u201cllevar las cargas los unos de los otros para que [fuer]an ligeras; [\u2026] consolar a los que necesita[ra]n de consuelo, y ser testigos de Dios en todo tiempo, y en todas las cosas y en todo lugar\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022507\" id=\"p_cjhhu\">Jesús dijo a los nefitas: \u201c<em>Alzad<\/em> [\u2026] vuestra luz para que brille ante el mundo. <em>He aquí, yo soy la luz que debéis sostener en alto<\/em>\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. <em>Sostenemos<\/em> la luz del Señor cuando nos aferramos a nuestros convenios y cuando apoyamos a nuestro profeta viviente cada vez que pronuncia las palabras de Dios.<\/p>\n<p data-aid=\"163022516\" id=\"p_eA4Wf\">Cuando prestaba servicio en el Cuórum de los Doce, el presidente Russell M. Nelson dijo: \u201cAl sostener a los profetas hacemos un compromiso personal de que nos esforzaremos al máximo por defender sus prioridades proféticas\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022525\" id=\"p_ag6Ur\"><em>Sostener<\/em> al profeta es una obra sagrada. No permanecemos sentados en silencio, sino que lo defendemos activamente, seguimos su consejo, enseñamos sus palabras y oramos por él.<\/p>\n<p data-aid=\"163022534\" id=\"p_hLgCq\">El rey Benjamín, en el Libro de Mormón, dijo al pueblo: \u201cSoy como vosotros, sujeto a toda clase de enfermedades de cuerpo y mente; sin embargo, he sido elegido [\u2026] y la mano del Señor [lo] permitió [\u2026]; y su incomparable poder me ha guardado y preservado, para serviros con todo el poder, mente y fuerza que el Señor me ha concedido\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<img alt=\"Sosteniendo las manos de Moisés.\" id=\"img_lNDui\" src=\"https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/500%2C/0/default\" data-img-id=\"q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6\" srcset=\"https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6/full/640%2C/0/default 640w\" data-assetId=\"q2hsjwzt50a9vt39mx4hwb22y87avg5bc7jzb0r6\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"163022542\" id=\"p_gFzsy\">De manera similar, a sus cien años, el presidente Nelson ha sido guardado y preservado por el Señor. El presidente Harold B. Lee, por ese entonces miembro de la Primera Presidencia, citó el ejemplo de Moisés de pie en la cumbre del collado en Refidim: \u201cLas manos del [Presidente de la Iglesia] podrán cansarse; podrán tender a decaer en ocasiones a causa de sus grandes responsabilidades; pero al sostenerle nosotros las manos, y al dirigir bajo su dirección, a su lado, las puertas del infierno no prevalecerán contra ustedes ni contra Israel<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Su seguridad y la nuestra dependen de si seguimos o no a quienes el Señor ha colocado para presidir Su Iglesia. Él sabe a quién quiere presidiendo esta Iglesia y no se equivocará\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022550\" id=\"p_hwVyn\">El presidente Nelson recurre a años de servicio al Señor. Su madurez, su amplia experiencia, su sabiduría y su recepción constante de revelación son adecuadas específicamente para nuestros días<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. La Iglesia de Jesucristo de los Santos de los Últimos Días está preparando al mundo para el día en que \u2018la tierra estará llena del conocimiento de Jehová\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/11?lang=spa&amp;id=p9#p9\">Isaías 11:9<\/a>). Esta obra fue facultada por un anuncio divino realizado hace 200 años. Consistía en solo seis palabras: \u2018Este es mi Hijo Amado: ¡Escúchalo!\u2019 [véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>)\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022562\" id=\"p_nND7V\">El presidente Nelson también ha dicho: \u201cNunca ha habido una época en la historia del mundo en la que el conocimiento de nuestro Salvador fuera más vital y relevante en lo personal para <em>toda alma humana<\/em>. Imaginen lo rápido que se resolverían los devastadores conflictos de todo el mundo, y los de nuestra propia vida, si todos nosotros decidiéramos seguir a Jesucristo y prestar atención a Sus enseñanzas\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022571\" id=\"p_n3bph\">Hermanos y hermanas, necesitamos apoyar más y murmurar menos; defender más la palabra del Señor, Sus caminos y Su profeta, quien ha dicho: \u201cUno de nuestros mayores desafíos en la actualidad es distinguir entre las verdades de Dios y las falsificaciones de Satanás. Por esta razón, el Señor nos advirtió que \u2018or[emos] siempre [\u2026], para que venza[mos] a Satanás y <em>[nos] libre[mo]s de las manos de los siervos de Satanás<\/em> que apoyan [la] obra [del adversario]\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/10?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 10:5<\/a>; cursiva agregada]\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<img alt=\"Rededicación del Templo de Manti, Utah\" id=\"img_hcjYj\" src=\"https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/500%2C/0/default\" data-img-id=\"82wsloplf8of3irifqec24fm6inaoct2ovmc3jze\" srcset=\"https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/60%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/82wsloplf8of3irifqec24fm6inaoct2ovmc3jze/full/640%2C/0/default 640w\" data-assetId=\"82wsloplf8of3irifqec24fm6inaoct2ovmc3jze\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\"/>\n<p data-aid=\"163022580\" id=\"p_qBx5z\">El pasado mes de abril, mi esposa, la hermana Rasband, y yo tuvimos el honor de acompañar a nuestro amado profeta y a la hermana Nelson en la rededicación del Templo de Manti, Utah.<\/p>\n<p data-aid=\"163022590\" id=\"p_qi7rP\">El presidente Nelson sorprendió a todos cuando entró en la sala; solo unos pocos sabíamos que iba a asistir. En su presencia, de inmediato sentí la luz y el manto profético que lleva consigo. Siempre recordaré la expresión de gozo en los rostros de las personas al ver en persona al profeta.<\/p>\n<p data-aid=\"163022599\" id=\"p_tmnB0\">En la oración de rededicación, el presidente Nelson pidió al Señor que Su Santa Casa <em>sostuviera<\/em> esencialmente a todos los que entraran en el templo para \u201cque puedan recibir bendiciones sagradas y permanezcan dignos y fieles a los convenios que hagan aquí [\u2026]; que esta pueda ser una casa de paz, una casa de consuelo y una casa de revelación personal para todos aquellos que entren por estas puertas dignamente\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022608\" id=\"p_mRH3l\">Todos necesitamos que el Señor nos eleve con paz, con consuelo y, sobre todo, con revelación personal para contrarrestar el temor, la oscuridad y la contención que rodean al mundo<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022617\" id=\"p_f8uBF\">Antes de la ceremonia, estuvimos afuera bajo el sol con el presidente y la hermana Nelson para contemplar el hermoso entorno. Los vínculos ancestrales del presidente Nelson con esa zona son profundos. Sus ocho bisabuelos se asentaron en los valles que rodean el templo, al igual que algunos de los míos. Mi bisabuelo, Andrew Anderson, sirvió en el equipo de construcción de los primeros pioneros que trabajaron once años para terminar el Templo de Manti, el tercero en las montañas Rocosas<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022624\" id=\"p_jmSVO\">Mientras estábamos con el presidente Nelson, tuvimos la oportunidad de <em>sostener<\/em> y apoyar al profeta de Dios en la celebración de la rededicación de la santa Casa del Señor. Fue un día que nunca olvidaré.<\/p>\n<p data-aid=\"163022632\" id=\"p_c46bg\">\u201cEdificamos templos para honrar al Señor\u201d, dijo el presidente Nelson en ese día sagrado. \u201cSe edifican para la adoración y no para el espectáculo. Dentro de estos sagrados muros, hacemos convenios sagrados de importancia eterna\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. Estamos recogiendo a Israel.<\/p>\n<p data-aid=\"163022640\" id=\"p_p1d2P\">El presidente Nelson y los profetas que lo precedieron han acunado los santos templos en sus brazos. En la actualidad, alrededor del mundo, tenemos 350 casas sagradas del Señor que se encuentran en funcionamiento, anunciadas o en construcción. Como profeta, desde 2018, el presidente Nelson ha anunciado 168 templos<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022649\" id=\"p_dLtKa\">Él ha dicho: \u201cEn nuestro tiempo es necesario que se lleve a cabo una unión entera, completa y perfecta de todas las dispensaciones, llaves y poderes (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 128:18<\/a>). Los santos templos ahora llenan la tierra para esos sagrados propósitos. Vuelvo a hacer hincapié en que la construcción de esos templos tal vez no cambie la vida de ustedes, pero el tiempo que pasen en el templo de seguro lo hará\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022657\" id=\"p_m0kof\">\u201cEl Salvador y Su doctrina son la esencia misma del templo\u201d, dice el presidente. \u201cTodo lo que se enseña en el templo, mediante la instrucción y el Espíritu, amplía nuestra comprensión de Jesucristo. Sus ordenanzas esenciales nos unen a Él mediante convenios sagrados del sacerdocio. Luego, al guardar nuestros convenios, Él nos inviste de <em>Su<\/em> poder sanador y fortalecedor\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022662\" id=\"p_wM7QL\">\u201cTodos los que adoran en el templo\u201d, ha dicho el presidente Nelson, \u201ctendrán el poder de Dios y ángeles que \u2018los guard[a]n\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 109:22<\/a>]. ¿Cuánto aumenta su confianza el saber que, por ser una mujer o un hombre investidos [o joven que asiste al templo], armados con el poder de Dios, no tienen que afrontar la vida solos? ¿Cuánto valor les concede el saber que los ángeles realmente los ayudarán?\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022670\" id=\"p_yf1QY\">Ese <em>sostenimiento a nosotros<\/em> por parte de los ángeles se describe en las Escrituras cuando Jesucristo se arrodilló humildemente en el Jardín de Getsemaní. Mediante Su sufrimiento, Él proporcionó una Expiación infinita. \u201c[Allí] tuvo lugar el mayor acto de amor de la historia\u201d, afirma el presidente Nelson. \u201cAllí mismo, en Getsemaní, el Señor \u2018sufrió el dolor de todos los hombres, a fin de que todo hombre pudiese arrepentirse y venir a él\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 18:11<\/a>]\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022675\" id=\"p_iFqMx\">\u201cPasa de mí esta copa\u201d, pidió Jesucristo, \u201cpero no se haga mi voluntad, sino la tuya.<\/p>\n<p data-aid=\"163022683\" id=\"p_fKexZ\">\u201cEntonces se le apareció un ángel del cielo para fortalecerle\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022692\" id=\"p_r99jn\">Hoy en día, tenemos ángeles a nuestro alrededor. El presidente Nelson ha dicho: \u201c[En el templo] aprenderán a separar el velo entre el cielo y la tierra, a pedir a los ángeles de Dios que estén con ustedes\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022699\" id=\"p_paWgo\">Los ángeles traen luz: la luz de Dios. A Sus apóstoles nefitas, Jesús les dijo: \u201cHe aquí, yo soy la luz que debéis sostener en alto\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>. Al sostener a nuestro profeta, testificamos que ha sido llamado por nuestro Salvador, quien es \u201cla luz [\u2026] del mundo\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022707\" id=\"p_i6x3G\">Querido presidente Nelson, en nombre de los miembros y amigos de la Iglesia del Señor en todo el mundo, nos sentimos bendecidos de <em>sostener<\/em> sus enseñanzas, de <em>sostener<\/em> su ejemplo de vida semejante a la de Cristo y de <em>sostener<\/em> su ferviente testimonio de nuestro Señor y Salvador, el Redentor de todos nosotros.<\/p>\n<p data-aid=\"163022713\" id=\"p_kOBK9\">Doy mi testimonio apostólico de que Jesucristo es \u201cla luz [\u2026] del mundo\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. Ruego que todos nosotros, como Sus discípulos, \u201csostengamos en alto\u201d Su luz. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163022719\" id=\"p_tqX0Q\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163022729\" id=\"p_mKQXx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38\">Doctrina y Convenios 1:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163022735\" id=\"p_htmyu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p20-p21#p20\">2 Nefi 4:20\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163022742\" id=\"p_zK7NV\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/41rasband?lang=spa\">Las palabras importan<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 70\u201379.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163022750\" id=\"p_hrelK\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 81:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163022757\" id=\"p_m4Xrm\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163022764\" id=\"p_o8hMp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163022770\" id=\"p_dOS9D\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p12#p12\">Sostengamos a los profetas<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2014, pág. 75.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163022777\" id=\"p_jHTJ5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p11#p11\">Mosíah 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163022784\" id=\"p_xMoZH\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p6#p6\">Doctrina y Convenios 21:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">81:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163022791\" id=\"p_gKGcT\">Harold B. Lee, en Conference Report, octubre de 1970, pág. 153.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163022798\" id=\"p_hEGKh\">En \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p8#p8\">La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/a>\u201d, se afirma: \u201cCon alegría declaramos que la Restauración prometida avanza por medio de la revelación continua. La tierra jamás volverá a ser la misma, dado que Dios \u2018reunir[á] todas las cosas en Cristo\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10)<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163022805\" id=\"p_jnKue\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=kicker1%2Cp2#kicker1\">El futuro de la Iglesia: Preparar al mundo para la Segunda Venida del Salvador<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2020, págs. 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163022812\" id=\"p_xAdq0\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p5#p5\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 6.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163022819\" id=\"p_vnn7r\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p26#p26\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163022823\" id=\"p_mHTl4\">\u201c<a href=\"https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng\">Oración dedicatoria del Templo de Manti, Utah, 21 de abril de 2024<\/a>\u201d, LaIglesiadeJesucristo.org.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163022831\" id=\"p_rPZb0\">En el Libro de Mormón, el profeta Mormón intentó consolar a su hijo Moroni en una carta, cuando Moroni se encontraba solo y era perseguido por sus enemigos. Mormón escribió: \u201c[Que] Cristo te anime, y sus padecimientos y muerte [\u2026] reposen en tu mente para siempre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9?lang=spa&amp;id=p25#p25\">Moroni 9:25<\/a>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163022836\" id=\"p_mE0lz\">Antes de la dedicación del Templo de Manti, Utah, en 1888, ya se habían dedicado dos templos en Utah: el Templo de St. George, Utah, en 1877, y el Templo de Logan, Utah, en 1884. El primer templo de la Restauración se construyó en Kirtland, Ohio, y se dedicó en 1836. Las ceremonias estuvieron acompañadas de grandes manifestaciones espirituales, y Moisés, Elías y Elías el Profeta restauraron las llaves del sacerdocio para que la obra del templo y el recogimiento de Israel pudieran comenzar diligentemente.<\/p>\n<p data-aid=\"163022841\" id=\"p_a2HYB\">José Smith registró: \u201cFue ciertamente un Pentecostés y una investidura, que se recordará durante mucho tiempo por el sonido que saldrá de este lugar a todo el mundo, y los hechos de este día se transmitirán en las páginas de la historia sagrada a todas las generaciones como el día de Pentecostés. Por ello, este día se contará y celebrará como un año de jubileo y un tiempo de gozo para los santos del Altísimo\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192\">Joseph Smith, Journal, 1835\u20131836<\/a>, págs. 189-90, josephsmithpapers.org). El Templo de Nauvoo se dedicó oficialmente en mayo de 1846, después de que la mayoría de los santos hubiera abandonado sus hogares y su comunidad. Más de seis mil santos hicieron convenios en el templo antes de huir hacia el oeste (véase Temas de la historia de la Iglesia, \u201c<a class=\"cross-ref\" href=\"/study/history/topics/nauvoo-temple?lang=spa\">El Templo de Nauvoo<\/a>\u201d, Biblioteca del Evangelio).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163022845\" id=\"p_qdaZw\">Russell M. Nelson, en \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024\">President Nelson Rededicates Manti Utah Temple<\/a>\u201d, 21 de abril de 2024, newsroom.ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163022854\" id=\"p_lPx6W\">Véase Scott Taylor, \u201cUna mirada en cifras a los 168 templos anunciados por el presidente Nelson\u201d, <cite>Church News<\/cite>, 14 de abril de 2024, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163022861\" id=\"p_azrFk\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=p9#p9\">El futuro de la Iglesia<\/a>\u201d, págs. 8\u20139.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163022868\" id=\"p_kiiX4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p12#p12\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 93.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163022874\" id=\"p_wh8Q8\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p29#p29\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 121.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"163022878\" id=\"p_xja0y\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/10/the-atonement?lang=spa&amp;id=p24#p24\">La Expiación<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1997, pág. 39.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"163022883\" id=\"p_pLzvP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42-p43#p42\">Lucas 22:42\u201343<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"163022892\" id=\"p_wrGGQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p33#p33\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, pág. 96.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"163022900\" id=\"p_fTG3m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"163022907\" id=\"p_q1sBW\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11\">3 Nefi 11:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"163022914\" id=\"p_v11y2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11\">3 Nefi 11:11<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163022490",
+        "id": "note4",
+        "text": "<p data-aid=\"163022750\" id=\"p_hrelK\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 81:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5",
+          "text": "Doctrina y Convenios 81:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163022498",
+        "id": "note5",
+        "text": "<p data-aid=\"163022757\" id=\"p_m4Xrm\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8",
+          "text": "Mosíah 18:8\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163022461",
+        "id": "note2",
+        "text": "<p data-aid=\"163022735\" id=\"p_htmyu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p20-p21#p20\">2 Nefi 4:20\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p20-p21#p20",
+          "text": "2 Nefi 4:20\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163022481",
+        "id": "note3",
+        "text": "<p data-aid=\"163022742\" id=\"p_zK7NV\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/41rasband?lang=spa\">Las palabras importan<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 70\u201379.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/41rasband?lang=spa",
+          "text": "Las palabras importan",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163022534",
+        "id": "note8",
+        "text": "<p data-aid=\"163022777\" id=\"p_jHTJ5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p11#p11\">Mosíah 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p11#p11",
+          "text": "Mosíah 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163022542",
+        "id": "note9",
+        "text": "<p data-aid=\"163022784\" id=\"p_xMoZH\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p6#p6\">Doctrina y Convenios 21:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">81:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p6#p6",
+            "text": "Doctrina y Convenios 21:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5",
+            "text": "81:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163022507",
+        "id": "note6",
+        "text": "<p data-aid=\"163022764\" id=\"p_o8hMp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24",
+          "text": "3 Nefi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163022516",
+        "id": "note7",
+        "text": "<p data-aid=\"163022770\" id=\"p_dOS9D\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p12#p12\">Sostengamos a los profetas<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2014, pág. 75.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/sustaining-the-prophets?lang=spa&amp;id=p12#p12",
+          "text": "Sostengamos a los profetas",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163022608",
+        "id": "note16",
+        "text": "<p data-aid=\"163022831\" id=\"p_rPZb0\">En el Libro de Mormón, el profeta Mormón intentó consolar a su hijo Moroni en una carta, cuando Moroni se encontraba solo y era perseguido por sus enemigos. Mormón escribió: \u201c[Que] Cristo te anime, y sus padecimientos y muerte [\u2026] reposen en tu mente para siempre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/9?lang=spa&amp;id=p25#p25\">Moroni 9:25<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/9?lang=spa&amp;id=p25#p25",
+          "text": "Moroni 9:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163022599",
+        "id": "note15",
+        "text": "<p data-aid=\"163022823\" id=\"p_mHTl4\">\u201c<a href=\"https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng\">Oración dedicatoria del Templo de Manti, Utah, 21 de abril de 2024<\/a>\u201d, LaIglesiadeJesucristo.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.churchofjesuschrist.org/temples/details/manti-utah-temple/prayer/2024-04-21?lang=eng",
+          "text": "Oración dedicatoria del Templo de Manti, Utah, 21 de abril de 2024"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163022571",
+        "id": "note14",
+        "text": "<p data-aid=\"163022819\" id=\"p_vnn7r\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p26#p26\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p26#p26",
+          "text": "El poder del ímpetu espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163022562",
+        "id": "note13",
+        "text": "<p data-aid=\"163022812\" id=\"p_xAdq0\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p5#p5\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=spa&amp;id=p5#p5",
+          "text": "Verdad pura, doctrina pura y revelación pura",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163022550",
+        "id": "note12",
+        "text": "<p data-aid=\"163022805\" id=\"p_jnKue\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=kicker1%2Cp2#kicker1\">El futuro de la Iglesia: Preparar al mundo para la Segunda Venida del Salvador<\/a>\u201d, <cite>Liahona<\/cite>, abril de 2020, págs. 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=kicker1%2Cp2#kicker1",
+          "text": "El futuro de la Iglesia: Preparar al mundo para la Segunda Venida del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163022550",
+        "id": "note11",
+        "text": "<p data-aid=\"163022798\" id=\"p_hEGKh\">En \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p8#p8\">La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/a>\u201d, se afirma: \u201cCon alegría declaramos que la Restauración prometida avanza por medio de la revelación continua. La tierra jamás volverá a ser la misma, dado que Dios \u2018reunir[á] todas las cosas en Cristo\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10)<\/a>\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p8#p8",
+            "text": "La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10",
+            "text": "Efesios 1:10)",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163022542",
+        "id": "note10",
+        "text": "<p data-aid=\"163022791\" id=\"p_gKGcT\">Harold B. Lee, en Conference Report, octubre de 1970, pág. 153.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163022640",
+        "id": "note19",
+        "text": "<p data-aid=\"163022854\" id=\"p_lPx6W\">Véase Scott Taylor, \u201cUna mirada en cifras a los 168 templos anunciados por el presidente Nelson\u201d, <cite>Church News<\/cite>, 14 de abril de 2024, thechurchnews.com.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163022632",
+        "id": "note18",
+        "text": "<p data-aid=\"163022845\" id=\"p_qdaZw\">Russell M. Nelson, en \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024\">President Nelson Rededicates Manti Utah Temple<\/a>\u201d, 21 de abril de 2024, newsroom.ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/manti-utah-temple-rededication-2024",
+          "text": "President Nelson Rededicates Manti Utah Temple"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163022617",
+        "id": "note17",
+        "text": "<p data-aid=\"163022836\" id=\"p_mE0lz\">Antes de la dedicación del Templo de Manti, Utah, en 1888, ya se habían dedicado dos templos en Utah: el Templo de St. George, Utah, en 1877, y el Templo de Logan, Utah, en 1884. El primer templo de la Restauración se construyó en Kirtland, Ohio, y se dedicó en 1836. Las ceremonias estuvieron acompañadas de grandes manifestaciones espirituales, y Moisés, Elías y Elías el Profeta restauraron las llaves del sacerdocio para que la obra del templo y el recogimiento de Israel pudieran comenzar diligentemente.<\/p>\n<p data-aid=\"163022841\" id=\"p_a2HYB\">José Smith registró: \u201cFue ciertamente un Pentecostés y una investidura, que se recordará durante mucho tiempo por el sonido que saldrá de este lugar a todo el mundo, y los hechos de este día se transmitirán en las páginas de la historia sagrada a todas las generaciones como el día de Pentecostés. Por ello, este día se contará y celebrará como un año de jubileo y un tiempo de gozo para los santos del Altísimo\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192\">Joseph Smith, Journal, 1835\u20131836<\/a>, págs. 189-90, josephsmithpapers.org). El Templo de Nauvoo se dedicó oficialmente en mayo de 1846, después de que la mayoría de los santos hubiera abandonado sus hogares y su comunidad. Más de seis mil santos hicieron convenios en el templo antes de huir hacia el oeste (véase Temas de la historia de la Iglesia, \u201c<a class=\"cross-ref\" href=\"/study/history/topics/nauvoo-temple?lang=spa\">El Templo de Nauvoo<\/a>\u201d, Biblioteca del Evangelio).<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/journal-1835-1836/192",
+            "text": "Joseph Smith, Journal, 1835\u20131836"
+          },
+          {
+            "href": "/study/history/topics/nauvoo-temple?lang=spa",
+            "text": "El Templo de Nauvoo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "163022699",
+        "id": "note27",
+        "text": "<p data-aid=\"163022907\" id=\"p_q1sBW\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11\">3 Nefi 11:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11",
+          "text": "3 Nefi 11:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "163022699",
+        "id": "note26",
+        "text": "<p data-aid=\"163022900\" id=\"p_fTG3m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24\">3 Nefi 18:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p24#p24",
+          "text": "3 Nefi 18:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "163022692",
+        "id": "note25",
+        "text": "<p data-aid=\"163022892\" id=\"p_wrGGQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p33#p33\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, pág. 96.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p33#p33",
+          "text": "El templo y el cimiento espiritual de ustedes",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "163022683",
+        "id": "note24",
+        "text": "<p data-aid=\"163022883\" id=\"p_pLzvP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42-p43#p42\">Lucas 22:42\u201343<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/22?lang=spa&amp;id=p42-p43#p42",
+          "text": "Lucas 22:42\u201343",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "163022670",
+        "id": "note23",
+        "text": "<p data-aid=\"163022878\" id=\"p_xja0y\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1996/10/the-atonement?lang=spa&amp;id=p24#p24\">La Expiación<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1997, pág. 39.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1996/10/the-atonement?lang=spa&amp;id=p24#p24",
+          "text": "La Expiación",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163022662",
+        "id": "note22",
+        "text": "<p data-aid=\"163022874\" id=\"p_wh8Q8\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p29#p29\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p29#p29",
+          "text": "Regocíjense en el don de las llaves del sacerdocio",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163022657",
+        "id": "note21",
+        "text": "<p data-aid=\"163022868\" id=\"p_kiiX4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p12#p12\">El templo y el cimiento espiritual de ustedes<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2021, pág. 93.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/47nelson?lang=spa&amp;id=p12#p12",
+          "text": "El templo y el cimiento espiritual de ustedes",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163022649",
+        "id": "note20",
+        "text": "<p data-aid=\"163022861\" id=\"p_azrFk\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=p9#p9\">El futuro de la Iglesia<\/a>\u201d, págs. 8\u20139.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=spa&amp;id=p9#p9",
+          "text": "El futuro de la Iglesia",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163022461",
+        "id": "note1",
+        "text": "<p data-aid=\"163022729\" id=\"p_mKQXx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38\">Doctrina y Convenios 1:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38",
+          "text": "Doctrina y Convenios 1:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "163022713",
+        "id": "note28",
+        "text": "<p data-aid=\"163022914\" id=\"p_v11y2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11\">3 Nefi 11:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p11#p11",
+          "text": "3 Nefi 11:11",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

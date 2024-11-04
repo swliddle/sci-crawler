@@ -1,0 +1,777 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/46wilcox?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "41763adc8e9540d5a7deb3ae7e30da73",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/46wilcox",
+      "data-aid": "162701949",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "e993559fb99c4b2d89b5c4acaa32f9b8"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/7b81609b80fd11ef8bff02d0ea859845b9e6621a-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Oh, jóvenes herederos de la noble primogenitura",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162701949",
+      {"key": "162701949"}
+    ],
+    [
+      "163001517",
+      {"key": "163001517"}
+    ],
+    [
+      "163001554",
+      {"key": "163001554"}
+    ],
+    [
+      "163001611",
+      {"key": "163001611"}
+    ],
+    [
+      "163001643",
+      {"key": "163001643"}
+    ],
+    [
+      "163001677",
+      {"key": "163001677"}
+    ],
+    [
+      "163001712",
+      {"key": "163001712"}
+    ],
+    [
+      "163001748",
+      {"key": "163001748"}
+    ],
+    [
+      "163001782",
+      {"key": "163001782"}
+    ],
+    [
+      "163001817",
+      {"key": "163001817"}
+    ],
+    [
+      "163001853",
+      {"key": "163001853"}
+    ],
+    [
+      "163001889",
+      {"key": "163001889"}
+    ],
+    [
+      "163001923",
+      {"key": "163001923"}
+    ],
+    [
+      "163001961",
+      {"key": "163001961"}
+    ],
+    [
+      "163001994",
+      {"key": "163001994"}
+    ],
+    [
+      "163002027",
+      {"key": "163002027"}
+    ],
+    [
+      "163002064",
+      {"key": "163002064"}
+    ],
+    [
+      "163002101",
+      {"key": "163002101"}
+    ],
+    [
+      "163002135",
+      {"key": "163002135"}
+    ],
+    [
+      "163002170",
+      {"key": "163002170"}
+    ],
+    [
+      "163002206",
+      {"key": "163002206"}
+    ],
+    [
+      "163002243",
+      {"key": "163002243"}
+    ],
+    [
+      "163002280",
+      {"key": "163002280"}
+    ],
+    [
+      "163002318",
+      {"key": "163002318"}
+    ],
+    [
+      "163002358",
+      {"key": "163002358"}
+    ],
+    [
+      "163003395",
+      {"key": "163003395"}
+    ],
+    [
+      "163003447",
+      {"key": "163003447"}
+    ],
+    [
+      "163003484",
+      {"key": "163003484"}
+    ],
+    [
+      "163003523",
+      {"key": "163003523"}
+    ],
+    [
+      "163003562",
+      {"key": "163003562"}
+    ],
+    [
+      "163003602",
+      {"key": "163003602"}
+    ],
+    [
+      "163003641",
+      {"key": "163003641"}
+    ],
+    [
+      "163003680",
+      {"key": "163003680"}
+    ],
+    [
+      "163003719",
+      {"key": "163003719"}
+    ],
+    [
+      "163003756",
+      {"key": "163003756"}
+    ],
+    [
+      "163003783",
+      {"key": "163003783"}
+    ],
+    [
+      "163003821",
+      {"key": "163003821"}
+    ],
+    [
+      "163003859",
+      {"key": "163003859"}
+    ],
+    [
+      "163003897",
+      {"key": "163003897"}
+    ],
+    [
+      "163003936",
+      {"key": "163003936"}
+    ],
+    [
+      "163003972",
+      {"key": "163003972"}
+    ],
+    [
+      "163004010",
+      {"key": "163004010"}
+    ],
+    [
+      "163004053",
+      {"key": "163004053"}
+    ],
+    [
+      "163004090",
+      {"key": "163004090"}
+    ],
+    [
+      "163004131",
+      {"key": "163004131"}
+    ],
+    [
+      "163004171",
+      {"key": "163004171"}
+    ],
+    [
+      "163004213",
+      {"key": "163004213"}
+    ],
+    [
+      "163004266",
+      {"key": "163004266"}
+    ],
+    [
+      "163004309",
+      {"key": "163004309"}
+    ],
+    [
+      "163004349",
+      {"key": "163004349"}
+    ],
+    [
+      "163004389",
+      {"key": "163004389"}
+    ],
+    [
+      "163004429",
+      {"key": "163004429"}
+    ],
+    [
+      "163004468",
+      {"key": "163004468"}
+    ],
+    [
+      "163004509",
+      {"key": "163004509"}
+    ],
+    [
+      "163004552",
+      {"key": "163004552"}
+    ],
+    [
+      "163004594",
+      {"key": "163004594"}
+    ],
+    [
+      "163004638",
+      {"key": "163004638"}
+    ],
+    [
+      "163004682",
+      {"key": "163004682"}
+    ],
+    [
+      "163004733",
+      {"key": "163004733"}
+    ],
+    [
+      "163004778",
+      {"key": "163004778"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/46wilcox",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Hablando a los jóvenes, el hermano Wilcox aborda la pregunta: ¿Por qué los Santos de los Últimos Días debemos vivir de un modo tan diferente al de otras personas?",
+          "title": "Oh, jóvenes herederos de la noble primogenitura"
+        },
+        "pageSocial": {
+          "description": "Hablando a los jóvenes, el hermano Wilcox aborda la pregunta: ¿Por qué los Santos de los Últimos Días debemos vivir de un modo tan diferente al de otras personas?",
+          "title": "Oh, jóvenes herederos de la noble primogenitura"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/9c2484ca840711efae28022e7e432ed97b29ee2f/full/!192%2C/0/default\" data-video-id=\"6362913306112\" data-duration=\"752900\" data-assetId=\"46bbc0a57f6011efb0ca022e7e432ed948b82352\" data-ref-id=\"46bbc0a57f6011efb0ca022e7e432ed948b82352\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362913306112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253031640\"/><source src=\"https://assets.churchofjesuschrist.org/46bbc0a57f6011efb0ca022e7e432ed948b82352-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"48380178\"/><source src=\"https://assets.churchofjesuschrist.org/46bbc0a57f6011efb0ca022e7e432ed948b82352-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"90102453\"/><source src=\"https://assets.churchofjesuschrist.org/46bbc0a57f6011efb0ca022e7e432ed948b82352-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253031640\"/><\/video><h1 data-aid=\"163001517\" id=\"p_fY09A\">Oh, jóvenes herederos de la noble primogenitura<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"163001554\" id=\"p_zszrr\">Por el hermano Bradley R. Wilcox<\/p>\n<p class=\"author-role\" data-aid=\"163001611\" id=\"p_nioED\">Primer Consejero de la Presidencia General de los Hombres Jóvenes<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"163001643\" id=\"p_skTYh\">Dios confía en ustedes, los hijos del convenio, para ayudarle en Su obra de llevar a todos Sus hijos a salvo de regreso a casa con Él.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"163001677\" id=\"p_pWJuE\">Élder Stevenson, esta es una conferencia inolvidable.<\/p>\n<p data-aid=\"163001712\" id=\"p_eIWLx\">A nuestra familia siempre le ha gustado un librito titulado <cite>Children\u2019s Letters to God [Cartas que los niños escriben a Dios]<\/cite>. Estas son algunas de ellas:<\/p>\n<p data-aid=\"163001748\" id=\"p_qLmHI\">\u201cQuerido Dios: En lugar de dejar que las personas mueran y tener que crear otras nuevas, ¿por qué no te quedas simplemente con las que tienes ahora?\u201d.<\/p>\n<p data-aid=\"163001782\" id=\"p_iglpJ\">\u201c¿Cómo es que Tú solo tienes diez reglas y en mi escuela hay miles?\u201d.<\/p>\n<p data-aid=\"163001817\" id=\"p_fz4T8\">\u201c¿Por qué nos pusiste las amígdalas si luego nos las vas a quitar?\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163001853\" id=\"p_f2hEo\">Hoy no tenemos tiempo para responder todas <em>esas<\/em> preguntas, pero hay otra pregunta que a menudo oigo que se hacen los jóvenes y que quisiera tratar. Desde Ulán Bator, Mongolia, hasta Thomas, Idaho, EE. UU., la pregunta es la misma: \u201c¿Por qué? ¿Por qué los Santos de los Últimos Días debemos vivir de un modo tan diferente al de otras personas?\u201d.<\/p>\n<p data-aid=\"163001889\" id=\"p_xJ5NY\">Sé que es difícil ser diferente, en especial cuando eres joven y quieres tanto agradar a los demás. Todo el mundo desea encajar, y ese deseo aumenta hasta proporciones insanas en el mundo digital actual, lleno de redes sociales y ciberacoso [<i>cyberbullying<\/i>].<\/p>\n<p data-aid=\"163001923\" id=\"p_bATfa\">Entonces, con toda esa presión, ¿por qué los Santos de los Últimos Días <em>viven<\/em> de una manera tan diferente? Hay muchas buenas respuestas: Porque ustedes son hijos de Dios. Porque han sido reservados para los últimos días. Porque son discípulos de Jesucristo.<\/p>\n<p data-aid=\"163001961\" id=\"p_pqNDL\">Pero esas respuestas no siempre los diferencian de los demás. Todos son hijos de Dios. A todas las personas que hay sobre la tierra en este momento se las envió aquí en los últimos días, y sin embargo, no todos viven la Palabra de Sabiduría ni la ley de castidad como ustedes se esfuerzan por hacerlo. Hay muchos valientes discípulos de Cristo que no son miembros de esta Iglesia, pero ellos no sirven en misiones ni efectúan ordenanzas en la Casa del Señor a favor de antepasados como lo hacen ustedes. Debe haber algo más; y lo hay.<\/p>\n<p data-aid=\"163001994\" id=\"p_x0JTh\">Hoy quisiera centrarme en una razón adicional que ha sido significativa en mi vida. En 1988, un joven apóstol llamado Russell M. Nelson dio un discurso en la Universidad Brigham Young titulado \u201cThanks for the Covenant\u201d [Gracias por el convenio]<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. En el discurso, el entonces élder Nelson explicó que, cuando usamos nuestro albedrío moral para hacer y guardar convenios con Dios, llegamos a ser herederos del convenio sempiterno que Dios ha hecho con nuestros antepasados en cada dispensación. Dicho de otro modo, llegamos a ser \u201chijos del convenio\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. Eso nos diferencia; eso nos da acceso a las mismas bendiciones que nuestros antepasados \u2014tanto hombres como mujeres\u2014 recibieron, incluso la primogenitura<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002027\" id=\"p_sHmXj\"><em>¡La primogenitura!<\/em> Tal vez hayan oído esa palabra. Incluso está implícita en algunos himnos que cantamos: \u201cCantad, juventud bendita [heredera de la noble primogenitura]: ¡A vencer, a vencer, a vencer!\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. \u201cPrimogenitura\u201d es una palabra interesante, pero ¿qué significa?<\/p>\n<p data-aid=\"163002064\" id=\"p_lhEYn\">En los tiempos del Antiguo Testamento, si el padre fallecía, el hijo primogénito era responsable del cuidado de su madre y sus hermanas. Los hermanos de este recibían su herencia y partían para seguir su camino en la vida, pero el primogénito no iba a ningún sitio. Él se casaba y tenía su propia familia, pero había de quedarse hasta el fin de sus días para dirigir las cuestiones de los bienes de su padre<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Debido a esa responsabilidad adicional, a él se le daba una parte mayor de la herencia. ¿Era demasiado pedir que guiara y cuidara de otras personas? No, si consideramos la herencia adicional que se le daba<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002101\" id=\"p_y4HSB\">Hoy no me estoy refiriendo al orden del nacimiento en la familia terrenal ni a los roles de género del Antiguo Testamento. Estamos hablamos de la herencia que ustedes reciben como coherederos con Cristo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> debido a la relación por convenio que han escogido concertar con Él y con su Padre Celestial. ¿Es demasiado esperar por parte de Dios que vivan de modo diferente al de Sus demás hijos, para que ustedes puedan guiarlos y servirles mejor? No, si consideramos las bendiciones, tanto temporales como espirituales, que se les han dado a ustedes<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002135\" id=\"p_bASud\">¿Significa su primogenitura que son mejores que los demás? No, pero sí significa que se espera que ayuden a otras personas a ser mejores. ¿Significa su primogenitura que ustedes son escogidos? Sí<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>, pero no escogidos para gobernar a los demás; son escogidos para prestarles servicio<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. ¿Es su primogenitura evidencia del amor de Dios? Sí, pero, lo que es más importante, es evidencia de Su confianza<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002170\" id=\"p_skXw7\">Una cosa es que se nos ame y otra completamente distinta es ser digno de confianza. En la guía <cite>Para la Fortaleza de la Juventud<\/cite>, leemos: \u201cTu Padre Celestial confía en ti. Él te ha dado grandes bendiciones, incluso la plenitud del Evangelio y las ordenanzas y convenios sagrados que te unen a Él y traen Su poder a tu vida. Con esas bendiciones viene una responsabilidad adicional. Él sabe que puedes marcar la diferencia en el mundo, y eso requiere, en muchos casos, ser diferente del mundo\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002206\" id=\"p_kD4bj\">Nuestra experiencia terrenal podría compararse con un crucero en barco en el que Dios ha enviado a todos Sus hijos a viajar de una costa a la otra. La travesía está colmada de oportunidades para aprender, crecer, ser feliz y progresar, pero también está llena de peligros. Dios ama a todos Sus hijos y se preocupa por el bienestar de ellos. No quiere perder a ninguno de ellos, así que invita a quienes estén dispuestos<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> a ser miembros de Su tripulación, la cual son ustedes. Debido a la decisión de ustedes de hacer y guardar convenios, Él les ofrece Su confianza. Confía en que sean diferentes, peculiares y que se distingan del resto<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> por la importante obra que Él les encarga efectuar<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002243\" id=\"p_ibl4W\">¡Piensen en ello! Dios confía en ustedes \u2014de todas las personas de la tierra, los hijos del convenio, los miembros de Su tripulación\u2014 para ayudarlo en Su obra de llevar a todos Sus hijos a salvo de regreso a casa con Él. No es de extrañar que el presidente Brigham Young dijera en una ocasión: \u201cTodos los ángeles del cielo están contemplando a este pequeño puñado de personas\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002280\" id=\"p_sKjg1\">Cuando miren alrededor en este barco crucero llamado \u201ctierra\u201d, quizás vean a otras personas en sillas reclinables bebiendo, apostando en casinos, con prendas sugerentes, mirando incesantemente el celular y malgastando demasiado tiempo en juegos electrónicos. Pero en lugar de preguntarse: \u201c¿Por qué <em>yo<\/em> no puedo hacerlo?\u201d, pueden recordar que ustedes no son pasajeros comunes. Ustedes forman parte de la tripulación y tienen responsabilidades que los pasajeros no tienen. Como dijo la hermana Ardeth G. Kapp cierta vez: \u201cNo puedes trabajar de salvavidas en la playa si tienes el mismo aspecto que los bañistas\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002318\" id=\"p_o8Hqp\">Y antes de que se desanimen por todas esas obligaciones adicionales, recuerden que los miembros de la tripulación reciben algo que los demás pasajeros no reciben: remuneración<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. El élder Neil L. Andersen ha dicho: \u201cHay un poder espiritual compensador para los justos\u201d, que incluye \u201cuna mayor convicción, una mayor confirmación y una mayor confianza\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. Tal como Abraham de antaño, ustedes reciben mayor felicidad y paz, mayor rectitud y mayor conocimiento<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Su remuneración no es tan solo una mansión en los cielos y calles pavimentadas de oro. Para el Padre Celestial sería fácil simplemente darles todo lo que Él tiene. Su deseo es ayudarlos a llegar a ser todo lo que Él es<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Así pues, su dedicación requiere más de su parte porque así es como Dios hace más de ustedes.<\/p>\n<p data-aid=\"163002358\" id=\"p_p4uph\">Es \u201cpedir mucho de cualquiera, ¡pero ustedes no son cualquiera!\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>, son los jóvenes herederos de la noble primogenitura. Su relación por convenio con Dios y Jesucristo es una relación de amor y confianza<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a> en la que tienen acceso a una mayor porción de Su gracia: a Su asistencia divina, a una investidura de fortaleza y a poder habilitador<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Ese poder no es simplemente una ilusión vana, un amuleto de la suerte ni una profecía autocumplida. Es <em>real<\/em>.<\/p>\n<p data-aid=\"163003395\" id=\"p_qxYrk\">Al cumplir con las responsabilidades de su primogenitura, nunca estarán solos. El Señor de la viña trabaja con ustedes<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> y ustedes trabajan codo a codo con Jesucristo. Con cada nuevo convenio \u2014y a medida que su relación con Él se profundiza\u2014 se abrazan el uno al otro con más fuerza hasta que quedan firmemente entrelazados<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>. En dicho sagrado simbolismo de Su gracia, hallarán tanto el deseo como la fortaleza para vivir exactamente como el Salvador vivió: de manera diferente a la del mundo. ¡Tienen eso porque Jesucristo los sostiene!<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163003447\" id=\"p_fHtJx\">En <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p6#p6\">2 Nefi 2:6<\/a> leemos: \u201cPor tanto, la redención viene en el Santo Mesías y por medio de él, porque él es lleno de gracia y de verdad\u201d. Dado que es lleno de verdad, Él los ve como realmente son, con sus defectos, debilidades, remordimientos y todo. Dado que es lleno de gracia, Él los ve como realmente pueden ser. Los recibe como son y los ayuda a arrepentirse y a mejorar, a vencer y a llegar a ser.<\/p>\n<p data-aid=\"163003484\" id=\"p_hLM0i\">Oh, \u201cjuventud bendita [heredera de la noble primogenitura]: ¡A vencer, a vencer, a vencer!\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Testifico que se los ama y que se confía en ustedes hoy, en veinte años y siempre. No vendan su primogenitura por un plato de guisado<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>. No entreguen todo a cambio de nada<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>. No permitan que el mundo los cambie cuando ustedes han nacido para cambiar el mundo. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163003523\" id=\"p_fdw9m\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163003562\" id=\"p_cqgSc\">En Stuart Hample y Eric Marshall, <cite>Children\u2019s Letters to God<\/cite>, 1991.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163003602\" id=\"p_jYzwn\">Véase Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d, devocional pronunciado en la Universidad Brigham Young, 22 de noviembre de 1988, speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163003641\" id=\"p_tEBhb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p26#p26\">3 Nefi 20:26<\/a>; véanse también Russell M. Nelson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ya-weekly/2022/05/choices-for-eternity.html\">Decisiones para la eternidad<\/span>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=spa\">Los hijos del convenio<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1995, págs. 36\u201340.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163003680\" id=\"p_kO7f7\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p25#p25\">3 Nefi 20:25<\/a>; véanse también Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/abrahamic-covenant?lang=spa\">Abraham, convenio de (convenio abrahámico)<\/a>\u201d; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p6#p6\">Abraham 2:6<\/a> (tierra prometida: gloria celestial, familias eternas); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/13?lang=spa&amp;id=p16#p16\">Génesis 13:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132?lang=spa&amp;id=p30-p31#p30\">Doctrina y Convenios 132:30\u201331<\/a> (posteridad: aumento eterno) y <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=spa&amp;id=p18#p18\">Abraham 1:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p11#p11\">2:11<\/a> (sacerdocio: autoridad, llaves, ordenanzas, convenios y poder divino); Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 119\u2013123.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163003719\" id=\"p_kTcij\">Véase \u201cA vencer\u201d, <cite>Himnos<\/cite>, nro. 167.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163003756\" id=\"p_kzFkb\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa\">Juventud bendita: ¿qué es lo que escogerán?<\/a>\u201d (Devocional del Sistema Educativo de la Iglesia para jóvenes adultos, 6 de septiembre de 2013), Biblioteca del Evangelio; véanse también Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d, speeches.byu.edu; Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/firstborn?lang=spa\">Primogénito<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163003783\" id=\"p_xOWVI\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=spa&amp;id=p42#p42\">Lucas 12:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=spa&amp;id=p7-p10#p7\">17:7\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163003821\" id=\"p_mBLuh\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17\">Romanos 8:17<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p54-p55#p54\">Doctrina y Convenios 76:54\u201355<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p107#p107\">88:107<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163003859\" id=\"p_sEkSZ\">El Señor dijo: \u201cPoco es\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p6#p6\">1 Nefi 21:6<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163003897\" id=\"p_diYgx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9\">1 Pedro 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163003936\" id=\"p_fNFlg\">El Señor dijo: \u201c¡Mi siervo eres tú, oh Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p3#p3\">1 Nefi 21:3<\/a>).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163003972\" id=\"p_ccJyh\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/2?lang=spa&amp;id=p25#p25\">Éxodo 2:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163004010\" id=\"p_t6fnn\"><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/02-choices?lang=spa&amp;id=p4#p4\"><cite>Para la fortaleza de la juventud: Una guía para tomar decisiones<\/cite><\/a>, 2022, pág. 4; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p18-p25#p18\">Doctrina y Convenios 84:18\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p18-p21#p18\">107:18\u201321<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa\">Juventud bendita: ¿qué es lo que escogerán?<\/a>\u201d.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163004053\" id=\"p_t8XYL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163004090\" id=\"p_wEYsX\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9\">1 Pedro 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163004131\" id=\"p_ovRhk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p6#p6\">Moisés 1:6<\/a>; véase también \u201c<a class=\"cross-ref\" href=\"/study/manual/general-handbook/10-aaronic-priesthood?lang=spa&amp;id=title4#title4\">Lema de los cuórums del Sacerdocio Aarónico<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163004171\" id=\"p_uhN5z\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p10#p10\"><cite>Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/cite><\/a>, 1997, pág. 325.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163004213\" id=\"p_hFda6\">Ardeth Greene Kapp, <cite>I Walk by Faith<\/cite>, 1987, pág. 97.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163004266\" id=\"p_i75Qp\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p22%2C41#p22\">Mosíah 2:22, 41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 59:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163004309\" id=\"p_x1p25\">Neil L. Andersen, \u201c<a href=\"https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous\">A Compensatory Spiritual Power for the Righteous<\/a>\u201d, devocional de la Universidad Brigham Young, 18 de agosto de 2015, speeches.byu.edu.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163004349\" id=\"p_h2l2L\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=spa&amp;id=p2#p2\">Abraham 1:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163004389\" id=\"p_kgMZf\">Véase Dallin H. Oaks, <cite>With Full Purpose of Heart<\/cite>, 2002, pág. 38.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"163004429\" id=\"p_wfZIQ\">Kenneth Cope, \u201cThe Best for Last\u201d, <cite>Voices<\/cite>, álbum, 1991.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"163004468\" id=\"p_nmu4L\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=spa&amp;id=p20#p20\">Alma 53:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p27#p27\">57:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"163004509\" id=\"p_a7nO8\">Véase Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-gift-of-grace?lang=spa\">El don de la gracia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 107; véase también Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/grace?lang=spa\">Gracia<\/a>\u201d, Biblioteca del Evangelio. Solía sentirme confundido por las muchas descripciones del poder de Dios que se hallan a lo largo de las Escrituras. En ellas se habla de la gracia como un poder habilitador (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=spa&amp;id=p13#p13\">Filipenses 4:13<\/a>), pero también de la Luz de Cristo como poder (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p13#p13\">Doctrina y Convenios 88:13<\/a>). Leemos acerca del poder de la fe (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=spa&amp;id=p35#p35\">Alma 18:35<\/a>), del poder del Espíritu Santo (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p7#p7\">Moroni 10:7<\/a>) y del poder de lo alto que se promete en los templos (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p32#p32\">Doctrina y Convenios 38:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/105?lang=spa&amp;id=p11#p11\">105:11<\/a>). Las Escrituras también enseñan sobre el poder del sacerdocio (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/113?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 113:8<\/a>). No lograba darme cuenta de dónde acababa uno y comenzaban los otros, hasta que, finalmente, me di cuenta de que \u201cno hay otro poder, sino el de Dios\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 8:7<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13?lang=spa&amp;id=p1#p1\">Romanos 13:1<\/a>). Los diferentes nombres que se le dan al poder de Dios no describen diferentes poderes, sino diversas cantidades, usos y aspectos del mismo poder.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"163004552\" id=\"p_kZOIC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5?lang=spa&amp;id=p72#p72\">Jacob 5:72<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"163004594\" id=\"p_w6Ynq\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p5#p5\">Jacob 6:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"163004638\" id=\"p_aBpIg\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p17#p17\">3 Nefi 22:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"163004682\" id=\"p_l0GRC\">Véase \u201cA vencer\u201d, <cite>Himnos<\/cite>, nro. 167.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"163004733\" id=\"p_sR9F0\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=spa&amp;id=p29-p34#p29\">Génesis 25:29\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"163004778\" id=\"p_ccrWC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p38#p38\">3 Nefi 20:38<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55?lang=spa&amp;id=p2#p2\">Isaías 55:2<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163001994",
+        "id": "note4",
+        "text": "<p data-aid=\"163003680\" id=\"p_kO7f7\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p25#p25\">3 Nefi 20:25<\/a>; véanse también Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/abrahamic-covenant?lang=spa\">Abraham, convenio de (convenio abrahámico)<\/a>\u201d; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p6#p6\">Abraham 2:6<\/a> (tierra prometida: gloria celestial, familias eternas); <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/13?lang=spa&amp;id=p16#p16\">Génesis 13:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/132?lang=spa&amp;id=p30-p31#p30\">Doctrina y Convenios 132:30\u201331<\/a> (posteridad: aumento eterno) y <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=spa&amp;id=p18#p18\">Abraham 1:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p11#p11\">2:11<\/a> (sacerdocio: autoridad, llaves, ordenanzas, convenios y poder divino); Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 119\u2013123.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p25#p25",
+            "text": "3 Nefi 20:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/abrahamic-covenant?lang=spa",
+            "text": "Abraham, convenio de (convenio abrahámico)",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2?lang=spa&amp;id=p6#p6",
+            "text": "Abraham 2:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/gen/13?lang=spa&amp;id=p16#p16",
+            "text": "Génesis 13:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/132?lang=spa&amp;id=p30-p31#p30",
+            "text": "Doctrina y Convenios 132:30\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/1?lang=spa&amp;id=p18#p18",
+            "text": "Abraham 1:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2?lang=spa&amp;id=p11#p11",
+            "text": "2:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2024/04/57nelson?lang=spa",
+            "text": "Regocíjense en el don de las llaves del sacerdocio",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163002027",
+        "id": "note5",
+        "text": "<p data-aid=\"163003719\" id=\"p_kTcij\">Véase \u201cA vencer\u201d, <cite>Himnos<\/cite>, nro. 167.<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163001994",
+        "id": "note2",
+        "text": "<p data-aid=\"163003602\" id=\"p_jYzwn\">Véase Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d, devocional pronunciado en la Universidad Brigham Young, 22 de noviembre de 1988, speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant",
+          "text": "Thanks for the Covenant"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163001994",
+        "id": "note3",
+        "text": "<p data-aid=\"163003641\" id=\"p_tEBhb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p26#p26\">3 Nefi 20:26<\/a>; véanse también Russell M. Nelson, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ya-weekly/2022/05/choices-for-eternity.html\">Decisiones para la eternidad<\/span>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=spa\">Los hijos del convenio<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1995, págs. 36\u201340.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p26#p26",
+            "text": "3 Nefi 20:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/1995/04/children-of-the-covenant?lang=spa",
+            "text": "Los hijos del convenio",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163002101",
+        "id": "note8",
+        "text": "<p data-aid=\"163003821\" id=\"p_mBLuh\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17\">Romanos 8:17<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p54-p55#p54\">Doctrina y Convenios 76:54\u201355<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p107#p107\">88:107<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/rom/8?lang=spa&amp;id=p17#p17",
+            "text": "Romanos 8:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p54-p55#p54",
+            "text": "Doctrina y Convenios 76:54\u201355",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p107#p107",
+            "text": "88:107",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163002101",
+        "id": "note9",
+        "text": "<p data-aid=\"163003859\" id=\"p_sEkSZ\">El Señor dijo: \u201cPoco es\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p6#p6\">1 Nefi 21:6<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p6#p6",
+          "text": "1 Nefi 21:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163002064",
+        "id": "note6",
+        "text": "<p data-aid=\"163003756\" id=\"p_kzFkb\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa\">Juventud bendita: ¿qué es lo que escogerán?<\/a>\u201d (Devocional del Sistema Educativo de la Iglesia para jóvenes adultos, 6 de septiembre de 2013), Biblioteca del Evangelio; véanse también Russell M. Nelson, \u201c<a href=\"https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant\">Thanks for the Covenant<\/a>\u201d, speeches.byu.edu; Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/firstborn?lang=spa\">Primogénito<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa",
+            "text": "Juventud bendita: ¿qué es lo que escogerán?",
+            "type": "cross-ref"
+          },
+          {
+            "href": "https://speeches.byu.edu/talks/russell-m-nelson/thanks-covenant",
+            "text": "Thanks for the Covenant"
+          },
+          {
+            "href": "/study/scriptures/gs/firstborn?lang=spa",
+            "text": "Primogénito",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163002064",
+        "id": "note7",
+        "text": "<p data-aid=\"163003783\" id=\"p_xOWVI\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=spa&amp;id=p42#p42\">Lucas 12:42<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=spa&amp;id=p7-p10#p7\">17:7\u201310<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/12?lang=spa&amp;id=p42#p42",
+            "text": "Lucas 12:42",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/17?lang=spa&amp;id=p7-p10#p7",
+            "text": "17:7\u201310",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "163003484",
+        "id": "note30",
+        "text": "<p data-aid=\"163004733\" id=\"p_sR9F0\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=spa&amp;id=p29-p34#p29\">Génesis 25:29\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/25?lang=spa&amp;id=p29-p34#p29",
+          "text": "Génesis 25:29\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163002206",
+        "id": "note16",
+        "text": "<p data-aid=\"163004131\" id=\"p_ovRhk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p6#p6\">Moisés 1:6<\/a>; véase también \u201c<a class=\"cross-ref\" href=\"/study/manual/general-handbook/10-aaronic-priesthood?lang=spa&amp;id=title4#title4\">Lema de los cuórums del Sacerdocio Aarónico<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/moses/1?lang=spa&amp;id=p6#p6",
+            "text": "Moisés 1:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/10-aaronic-priesthood?lang=spa&amp;id=title4#title4",
+            "text": "Lema de los cuórums del Sacerdocio Aarónico",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163002206",
+        "id": "note15",
+        "text": "<p data-aid=\"163004090\" id=\"p_wEYsX\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9\">1 Pedro 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9",
+          "text": "1 Pedro 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163002206",
+        "id": "note14",
+        "text": "<p data-aid=\"163004053\" id=\"p_t8XYL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77",
+          "text": "Doctrina y Convenios 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163002170",
+        "id": "note13",
+        "text": "<p data-aid=\"163004010\" id=\"p_t6fnn\"><a class=\"cross-ref\" href=\"/study/manual/for-the-strength-of-youth/02-choices?lang=spa&amp;id=p4#p4\"><cite>Para la fortaleza de la juventud: Una guía para tomar decisiones<\/cite><\/a>, 2022, pág. 4; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p18-p25#p18\">Doctrina y Convenios 84:18\u201325<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p18-p21#p18\">107:18\u201321<\/a>; Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa\">Juventud bendita: ¿qué es lo que escogerán?<\/a>\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/for-the-strength-of-youth/02-choices?lang=spa&amp;id=p4#p4",
+            "text": "Para la fortaleza de la juventud: Una guía para tomar decisiones",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p18-p25#p18",
+            "text": "Doctrina y Convenios 84:18\u201325",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p18-p21#p18",
+            "text": "107:18\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/broadcasts/article/ces-devotionals/2013/01/youth-of-the-noble-birthright-what-will-you-choose?lang=spa",
+            "text": "Juventud bendita: ¿qué es lo que escogerán?",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163002135",
+        "id": "note12",
+        "text": "<p data-aid=\"163003972\" id=\"p_ccJyh\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/2?lang=spa&amp;id=p25#p25\">Éxodo 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/2?lang=spa&amp;id=p25#p25",
+          "text": "Éxodo 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163002135",
+        "id": "note11",
+        "text": "<p data-aid=\"163003936\" id=\"p_fNFlg\">El Señor dijo: \u201c¡Mi siervo eres tú, oh Israel\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p3#p3\">1 Nefi 21:3<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/21?lang=spa&amp;id=p3#p3",
+          "text": "1 Nefi 21:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163002135",
+        "id": "note10",
+        "text": "<p data-aid=\"163003897\" id=\"p_diYgx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9\">1 Pedro 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/2?lang=spa&amp;id=p9#p9",
+          "text": "1 Pedro 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "163003484",
+        "id": "note31",
+        "text": "<p data-aid=\"163004778\" id=\"p_ccrWC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p38#p38\">3 Nefi 20:38<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/55?lang=spa&amp;id=p2#p2\">Isaías 55:2<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/20?lang=spa&amp;id=p38#p38",
+            "text": "3 Nefi 20:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/55?lang=spa&amp;id=p2#p2",
+            "text": "Isaías 55:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163002318",
+        "id": "note19",
+        "text": "<p data-aid=\"163004266\" id=\"p_i75Qp\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p22%2C41#p22\">Mosíah 2:22, 41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 59:23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p22%2C41#p22",
+            "text": "Mosíah 2:22, 41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23",
+            "text": "Doctrina y Convenios 59:23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163002280",
+        "id": "note18",
+        "text": "<p data-aid=\"163004213\" id=\"p_hFda6\">Ardeth Greene Kapp, <cite>I Walk by Faith<\/cite>, 1987, pág. 97.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163002243",
+        "id": "note17",
+        "text": "<p data-aid=\"163004171\" id=\"p_uhN5z\"><a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p10#p10\"><cite>Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/cite><\/a>, 1997, pág. 325.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-brigham-young/chapter-42?lang=spa&amp;id=p10#p10",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: Brigham Young",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "163003395",
+        "id": "note27",
+        "text": "<p data-aid=\"163004594\" id=\"p_w6Ynq\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p5#p5\">Jacob 6:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/6?lang=spa&amp;id=p5#p5",
+          "text": "Jacob 6:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "163003395",
+        "id": "note26",
+        "text": "<p data-aid=\"163004552\" id=\"p_kZOIC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5?lang=spa&amp;id=p72#p72\">Jacob 5:72<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/5?lang=spa&amp;id=p72#p72",
+          "text": "Jacob 5:72",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "163002358",
+        "id": "note25",
+        "text": "<p data-aid=\"163004509\" id=\"p_a7nO8\">Véase Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-gift-of-grace?lang=spa\">El don de la gracia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 107; véase también Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/grace?lang=spa\">Gracia<\/a>\u201d, Biblioteca del Evangelio. Solía sentirme confundido por las muchas descripciones del poder de Dios que se hallan a lo largo de las Escrituras. En ellas se habla de la gracia como un poder habilitador (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=spa&amp;id=p13#p13\">Filipenses 4:13<\/a>), pero también de la Luz de Cristo como poder (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p13#p13\">Doctrina y Convenios 88:13<\/a>). Leemos acerca del poder de la fe (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=spa&amp;id=p35#p35\">Alma 18:35<\/a>), del poder del Espíritu Santo (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p7#p7\">Moroni 10:7<\/a>) y del poder de lo alto que se promete en los templos (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p32#p32\">Doctrina y Convenios 38:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/105?lang=spa&amp;id=p11#p11\">105:11<\/a>). Las Escrituras también enseñan sobre el poder del sacerdocio (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/113?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 113:8<\/a>). No lograba darme cuenta de dónde acababa uno y comenzaban los otros, hasta que, finalmente, me di cuenta de que \u201cno hay otro poder, sino el de Dios\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 8:7<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/13?lang=spa&amp;id=p1#p1\">Romanos 13:1<\/a>). Los diferentes nombres que se le dan al poder de Dios no describen diferentes poderes, sino diversas cantidades, usos y aspectos del mismo poder.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2015/04/the-gift-of-grace?lang=spa",
+            "text": "El don de la gracia",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/gs/grace?lang=spa",
+            "text": "Gracia",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/philip/4?lang=spa&amp;id=p13#p13",
+            "text": "Filipenses 4:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p13#p13",
+            "text": "Doctrina y Convenios 88:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/18?lang=spa&amp;id=p35#p35",
+            "text": "Alma 18:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p7#p7",
+            "text": "Moroni 10:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p32#p32",
+            "text": "Doctrina y Convenios 38:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/105?lang=spa&amp;id=p11#p11",
+            "text": "105:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/113?lang=spa&amp;id=p8#p8",
+            "text": "Doctrina y Convenios 113:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/8?lang=spa&amp;id=p7#p7",
+            "text": "Doctrina y Convenios 8:7",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/13?lang=spa&amp;id=p1#p1",
+            "text": "Romanos 13:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "163002358",
+        "id": "note24",
+        "text": "<p data-aid=\"163004468\" id=\"p_nmu4L\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=spa&amp;id=p20#p20\">Alma 53:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p27#p27\">57:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/53?lang=spa&amp;id=p20#p20",
+            "text": "Alma 53:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/57?lang=spa&amp;id=p27#p27",
+            "text": "57:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "163002358",
+        "id": "note23",
+        "text": "<p data-aid=\"163004429\" id=\"p_wfZIQ\">Kenneth Cope, \u201cThe Best for Last\u201d, <cite>Voices<\/cite>, álbum, 1991.<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163002318",
+        "id": "note22",
+        "text": "<p data-aid=\"163004389\" id=\"p_kgMZf\">Véase Dallin H. Oaks, <cite>With Full Purpose of Heart<\/cite>, 2002, pág. 38.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163002318",
+        "id": "note21",
+        "text": "<p data-aid=\"163004349\" id=\"p_h2l2L\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/1?lang=spa&amp;id=p2#p2\">Abraham 1:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/1?lang=spa&amp;id=p2#p2",
+          "text": "Abraham 1:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163002318",
+        "id": "note20",
+        "text": "<p data-aid=\"163004309\" id=\"p_x1p25\">Neil L. Andersen, \u201c<a href=\"https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous\">A Compensatory Spiritual Power for the Righteous<\/a>\u201d, devocional de la Universidad Brigham Young, 18 de agosto de 2015, speeches.byu.edu.<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/neil-l-andersen/a-compensatory-spiritual-power-for-the-righteous",
+          "text": "A Compensatory Spiritual Power for the Righteous"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163001817",
+        "id": "note1",
+        "text": "<p data-aid=\"163003562\" id=\"p_cqgSc\">En Stuart Hample y Eric Marshall, <cite>Children\u2019s Letters to God<\/cite>, 1991.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "163003484",
+        "id": "note29",
+        "text": "<p data-aid=\"163004682\" id=\"p_l0GRC\">Véase \u201cA vencer\u201d, <cite>Himnos<\/cite>, nro. 167.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "163003395",
+        "id": "note28",
+        "text": "<p data-aid=\"163004638\" id=\"p_aBpIg\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p17#p17\">3 Nefi 22:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p17#p17",
+          "text": "3 Nefi 22:17",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

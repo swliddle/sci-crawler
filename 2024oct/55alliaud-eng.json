@@ -1,0 +1,572 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/55alliaud?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "b27042cff54b4367bf915ff58e14e35b",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/55alliaud",
+      "data-aid": "162706229",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "4",
+      "data-orig-id": "b27042cff54b4367bf915ff58e14e35b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/1921a621842711efae28022e7e432ed9b1fc1b9f/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/be61302b810311efae28022e7e432ed978b12d68-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "Sons and Daughters of God",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162706229",
+      {"key": "162706229"}
+    ],
+    [
+      "162706243",
+      {"key": "162706243"}
+    ],
+    [
+      "162706251",
+      {"key": "162706251"}
+    ],
+    [
+      "162706259",
+      {"key": "162706259"}
+    ],
+    [
+      "162706267",
+      {"key": "162706267"}
+    ],
+    [
+      "162706275",
+      {"key": "162706275"}
+    ],
+    [
+      "162706289",
+      {"key": "162706289"}
+    ],
+    [
+      "162706299",
+      {"key": "162706299"}
+    ],
+    [
+      "162706309",
+      {"key": "162706309"}
+    ],
+    [
+      "162706318",
+      {"key": "162706318"}
+    ],
+    [
+      "162706327",
+      {"key": "162706327"}
+    ],
+    [
+      "162706334",
+      {"key": "162706334"}
+    ],
+    [
+      "162706341",
+      {"key": "162706341"}
+    ],
+    [
+      "162706350",
+      {"key": "162706350"}
+    ],
+    [
+      "162706358",
+      {"key": "162706358"}
+    ],
+    [
+      "162706366",
+      {"key": "162706366"}
+    ],
+    [
+      "162706374",
+      {"key": "162706374"}
+    ],
+    [
+      "162706384",
+      {"key": "162706384"}
+    ],
+    [
+      "162706390",
+      {"key": "162706390"}
+    ],
+    [
+      "162706398",
+      {"key": "162706398"}
+    ],
+    [
+      "162706406",
+      {"key": "162706406"}
+    ],
+    [
+      "162706414",
+      {"key": "162706414"}
+    ],
+    [
+      "162706422",
+      {"key": "162706422"}
+    ],
+    [
+      "162706430",
+      {"key": "162706430"}
+    ],
+    [
+      "162706437",
+      {"key": "162706437"}
+    ],
+    [
+      "162706445",
+      {"key": "162706445"}
+    ],
+    [
+      "162706452",
+      {"key": "162706452"}
+    ],
+    [
+      "162706459",
+      {"key": "162706459"}
+    ],
+    [
+      "162706466",
+      {"key": "162706466"}
+    ],
+    [
+      "162706473",
+      {"key": "162706473"}
+    ],
+    [
+      "162706480",
+      {"key": "162706480"}
+    ],
+    [
+      "162706487",
+      {"key": "162706487"}
+    ],
+    [
+      "162706494",
+      {"key": "162706494"}
+    ],
+    [
+      "162706500",
+      {"key": "162706500"}
+    ],
+    [
+      "162706506",
+      {"key": "162706506"}
+    ],
+    [
+      "162706512",
+      {"key": "162706512"}
+    ],
+    [
+      "162706516",
+      {"key": "162706516"}
+    ],
+    [
+      "162706522",
+      {"key": "162706522"}
+    ],
+    [
+      "162706528",
+      {"key": "162706528"}
+    ],
+    [
+      "162706532",
+      {"key": "162706532"}
+    ],
+    [
+      "162706538",
+      {"key": "162706538"}
+    ],
+    [
+      "162706542",
+      {"key": "162706542"}
+    ],
+    [
+      "162706547",
+      {"key": "162706547"}
+    ],
+    [
+      "162706555",
+      {"key": "162706555"}
+    ],
+    [
+      "162706559",
+      {"key": "162706559"}
+    ],
+    [
+      "162706562",
+      {"key": "162706562"}
+    ],
+    [
+      "162706566",
+      {"key": "162706566"}
+    ],
+    [
+      "162706571",
+      {"key": "162706571"}
+    ],
+    [
+      "162706575",
+      {"key": "162706575"}
+    ],
+    [
+      "162706579",
+      {"key": "162706579"}
+    ],
+    [
+      "162706584",
+      {"key": "162706584"}
+    ],
+    [
+      "162706590",
+      {"key": "162706590"}
+    ],
+    [
+      "162706594",
+      {"key": "162706594"}
+    ],
+    [
+      "162706599",
+      {"key": "162706599"}
+    ],
+    [
+      "162706602",
+      {"key": "162706602"}
+    ],
+    [
+      "162706607",
+      {"key": "162706607"}
+    ],
+    [
+      "162706612",
+      {"key": "162706612"}
+    ],
+    [
+      "162706617",
+      {"key": "162706617"}
+    ],
+    [
+      "162706623",
+      {"key": "162706623"}
+    ],
+    [
+      "162706626",
+      {"key": "162706626"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/55alliaud",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Alliaud teaches that we are all the literal children of God.",
+          "title": "Sons and Daughters of God"
+        },
+        "pageSocial": {
+          "description": "Elder Alliaud teaches that we are all the literal children of God.",
+          "title": "Sons and Daughters of God"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/1921a621842711efae28022e7e432ed9b1fc1b9f/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/1921a621842711efae28022e7e432ed9b1fc1b9f/full/!192%2C/0/default\" data-video-id=\"6362920542112\" data-duration=\"597833\" data-assetId=\"3523a9d97c4d11ef8e500626c361eb5546d32492\" data-ref-id=\"3523a9d97c4d11ef8e500626c361eb5546d32492\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362920542112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"173947582\"/><source src=\"https://assets.churchofjesuschrist.org/3523a9d97c4d11ef8e500626c361eb5546d32492-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"37973926\"/><source src=\"https://assets.churchofjesuschrist.org/3523a9d97c4d11ef8e500626c361eb5546d32492-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"64907331\"/><source src=\"https://assets.churchofjesuschrist.org/3523a9d97c4d11ef8e500626c361eb5546d32492-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"173947582\"/><\/video><h1 data-aid=\"162706243\" id=\"p_zrjQj\">Sons and Daughters of God<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162706251\" id=\"p_jieak\">By Elder Rubén V. Alliaud<\/p>\n<p class=\"author-role\" data-aid=\"162706259\" id=\"p_f26ef\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162706267\" id=\"p_nS3ku\">We truly believe that we are all literally the children of God, and because of that, we have the potential to become like Him.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162706275\" id=\"p_vJNla\">Today I would like to address one of the most joyful, glorious, and powerful gospel truths that God has revealed. At the same time, it is ironically one for which we have been criticized. An experience I had some years ago profoundly deepened my appreciation for this gospel truth.<\/p>\n<p data-aid=\"162706289\" id=\"p_a6kck\">As a representative of the Church, I was once invited to a religious conference where it was announced that from that moment on they would recognize as valid all baptisms performed by almost all other Christian churches, as long as the ordinance was done with water and in the name of the Father and of the Son and of the Holy Ghost. Then it was explained that this policy did not apply to baptisms performed by The Church of Jesus Christ of Latter-day Saints.<\/p>\n<p data-aid=\"162706299\" id=\"p_jhupO\">After the conference I was able to delve deeper into the reasons for that exception with the leader in charge of the announcement. We had a wonderful and insightful conversation.<\/p>\n<p data-aid=\"162706309\" id=\"p_fywru\">In short, he explained to me that that exception had primarily to do with our particular beliefs about the Godhead, which other Christian denominations often refer to as the Trinity. I expressed my appreciation for him taking the time to explain to me his beliefs and the policy of his church. At the end of our conversation, we hugged and then said goodbye.<\/p>\n<p data-aid=\"162706318\" id=\"p_gHydf\">As I later contemplated our discussion, what this leader said about Latter-day Saints not understanding what he called the \u201cmystery of the Trinity\u201d stayed in my mind. What was he referring to? Well, it had to do with our understanding of the nature of God. We believe that God the Father \u201cis an exalted man\u201d with a glorified \u201cbody of flesh and bones as tangible as man\u2019s; [and] the Son also.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> Thus, every time we talk about the nature of God, in some way, somehow, we are also talking about our own nature.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"162706327\" id=\"p_oQfpU\">And this is true not only because we all were made \u201cin [His] image, after [His] likeness,\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> but also because, as the Psalmist recorded, God said, \u201cYe are gods; and all of you are children of the most High.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> This is for us a precious doctrine now recovered with the advent of the Restoration. In summary, it is nothing more or less than what our missionaries teach as the first lesson, first paragraph, first line: \u201cGod is our Heavenly Father, and we are His children.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a><\/p>\n<p data-aid=\"162706334\" id=\"p_uHcUl\">Now, you might say, \u201cBut many people believe we are children of God.\u201d Yes, that is true, but their understanding may be a little different from the implication of its deeper meaning that we affirm. For Latter-day Saints, this teaching is not metaphorical. Rather, we truly believe that we are all literally the children of God. He is \u201cthe Father of [our] spirits,\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"> <\/sup><\/a>and because of that, we have the potential to become like Him, which seems to be inconceivable to some.<\/p>\n<p data-aid=\"162706341\" id=\"p_i8f31\">It has now been over 200 years since the First Vision opened the doors to the Restoration. At the time, young Joseph Smith sought guidance from heaven to know what church to join. Through the revelation he received that day,<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> and in later revelations given to him,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> the Prophet Joseph obtained knowledge about the nature of God and our relationship to Him as His children.<\/p>\n<p data-aid=\"162706350\" id=\"p_adZNT\">Because of that, we learn more clearly that our Heavenly Father has taught this precious doctrine from the very beginning. Allow me to cite at least two accounts from the scriptures to illustrate this.<\/p>\n<p data-aid=\"162706358\" id=\"p_qD2CF\">You might remember God\u2019s instructions to Moses as recorded in the Pearl of Great Price.<\/p>\n<p data-aid=\"162706366\" id=\"p_zq9Cw\">We read that \u201cGod spake unto Moses, saying: Behold, I am the Lord God Almighty, and Endless is my name.\u201d In other words, Moses, <em>I want you to know who I am<\/em>. Then He added, \u201cAnd, behold, <em>thou art my son<\/em>.\u201d Later he said, \u201cAnd I have a work for thee, <em>Moses, my son<\/em>; and thou art in the similitude of mine Only Begotten.\u201d And then finally, He ended with, \u201cAnd now, behold, this one thing I show unto thee, <em>Moses, my son<\/em>.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a><\/p>\n<p data-aid=\"162706374\" id=\"p_oD5hn\">It appears that God was determined to teach Moses at least one lesson: \u201cYou are my child,\u201d which He repeated at least three times. He could not even mention the name of Moses without immediately adding that he was His son.<\/p>\n<p data-aid=\"162706384\" id=\"p_lwue2\">However, after Moses was left alone, he felt weak because he was no longer in the presence of God. That is when Satan came to tempt him. Can you see a pattern here? The first thing he said was, \u201cMoses, <em>son of man<\/em>, worship me.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162706390\" id=\"p_daJuY\">In this context, Satan\u2019s request to worship him may have been only a distraction. A significant temptation for Moses in that moment of weakness was to become confused and believe that he was only a \u201cson of man,\u201d rather than a child of God.<\/p>\n<p data-aid=\"162706398\" id=\"p_pCxAG\">\u201cAnd it came to pass that Moses looked upon Satan and said: Who art thou? For behold, <em>I am a son of God<\/em>, in the similitude of his Only Begotten.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> Fortunately, Moses was not confused and did not allow himself to become distracted. He had learned the lesson of who he really was.<\/p>\n<p data-aid=\"162706406\" id=\"p_aZ7ku\">The next account is found in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=eng\">Matthew 4<\/a>. Scholars have entitled this \u201cthe three temptations of Jesus,\u201d as if the Lord was tempted only three times, which of course is not the case.<\/p>\n<p data-aid=\"162706414\" id=\"p_ovlFY\">Hundreds of gallons of ink have been used to explain the meaning and content of these temptations. As we know, the chapter begins by explaining that Jesus had gone into the desert, \u201cand when he had fasted forty days and forty nights, he was afterward an hungred.\u201d<\/p>\n<p data-aid=\"162706422\" id=\"p_iuZnU\">Satan\u2019s first temptation apparently had only to do with satisfying the Lord\u2019s physical needs. \u201cCommand that these stones be made bread,\u201d he challenged the Savior.<\/p>\n<p data-aid=\"162706430\" id=\"p_jjUtJ\">A second enticement may have had to do with tempting God: \u201cCast thyself down: for it is written, He shall give his angels charge concerning thee.\u201d<\/p>\n<p data-aid=\"162706437\" id=\"p_tBfJc\">Finally, Satan\u2019s third temptation referred to the aspirations and glory of the world. After Jesus had been shown \u201call the kingdoms of the world, \u2026 [Satan] saith unto him, All these things will I give thee, if thou wilt fall down and worship me.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"162706445\" id=\"p_c59iv\">In truth, Satan\u2019s ultimate temptation may have had less to do with those three specific provocations and more to do with tempting Jesus Christ <em>to question His divine nature<\/em>. At least twice, the enticement was preceded by the challenging accusation from Satan: \u201cIf thou be the Son of God\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>\u2014if you really believe it, then do this or that.<\/p>\n<p data-aid=\"162706452\" id=\"p_mAvej\">Please notice what had happened immediately before Jesus went into the desert to fast and pray: we find the account of Christ\u2019s baptism. And when He had come out of the water, there came \u201ca voice from heaven, saying, <em>This is my beloved Son<\/em>, in whom I am well pleased.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<p data-aid=\"162706459\" id=\"p_remc7\">Do we see the connection? Can we recognize a pattern here?<\/p>\n<p data-aid=\"162706466\" id=\"p_ikBsu\">It is no wonder that every time we are taught about our divine nature and destiny, the adversary of all righteousness tempts us to call them into question.<\/p>\n<p data-aid=\"162706473\" id=\"p_fNFZy\">How different our decisions would be if we really knew who we really are.<\/p>\n<p data-aid=\"162706480\" id=\"p_aV04w\">We live in a challenging world, a world of increasing commotion,<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> where honorable people strive to at least emphasize our human dignity, while we belong to a church and embrace a gospel that lift our vision and invite us into the divine.<\/p>\n<p data-aid=\"162706487\" id=\"p_e0OTw\">Jesus\u2019s commandment to be \u201cperfect, even as [our] Father which is in heaven is perfect\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> is a clear reflection of His high expectations and our eternal possibilities. Now, none of this will happen overnight. In the words of President Jeffrey R. Holland, it will happen \u201ceventually.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a> But the promise is that if we \u201ccome unto Christ,\u201d we will \u201cbe perfected in him.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> That requires a lot of work\u2014not just any work, but a divine work. His work!<\/p>\n<p data-aid=\"162706494\" id=\"p_dxulF\">Now, the good news is that it is precisely our Father in Heaven who has said, \u201cFor behold, this is <em>my work<\/em> and my glory\u2014to bring to pass the immortality and eternal life of man.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<p data-aid=\"162706500\" id=\"p_xiNSC\">President Russell M. Nelson\u2019s invitation to \u201cthink celestial\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> implies a wonderful reminder of our divine nature, origin, and potential destination. We can obtain the celestial only through Jesus Christ\u2019s atoning sacrifice.<\/p>\n<p data-aid=\"162706506\" id=\"p_g0m11\">Perhaps that is why Satan enticed Jesus with the very same temptation from the beginning to the end of His earthly ministry. Matthew recorded that while Jesus hung on the cross, those \u201cthat passed by reviled him, \u2026 saying, \u2026 <em>If thou be the Son of God<\/em>, come down from the cross.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a> Glory be to God that He did not hearken but instead provided the way for us to receive all celestial blessings.<\/p>\n<p data-aid=\"162706512\" id=\"p_wVIYA\">Let us always remember, there was a great price paid for our happiness.<\/p>\n<p data-aid=\"162706516\" id=\"p_pXbii\">I testify as with the Apostle Paul that \u201cthe Spirit itself beareth witness with our spirit, that we are children of God: and if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> In the name of Jesus Christ, amen.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162706522\" id=\"p_oDEQr\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162706528\" id=\"p_ds2fE\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-2?lang=eng&amp;id=p16#p16\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 40, 41; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p22#p22\">Doctrine and Covenants 130:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162706532\" id=\"p_sGFzH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=eng&amp;id=p4#p4\">2 Peter 1:4<\/a>; \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng\">The Family: A Proclamation to the World<\/a>,\u201d Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162706538\" id=\"p_inF56\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=eng&amp;id=p26#p26\">Genesis 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162706542\" id=\"p_eCRGI\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/82?lang=eng&amp;id=p6#p6\">Psalm 82:6<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10?lang=eng&amp;id=p34-p35#p34\">John 10:34\u201335<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162706547\" id=\"p_t4mAY\"><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=eng&amp;id=p11#p11\"><cite>Preach My Gospel: A Guide to Sharing the Gospel<\/cite><\/a> (2023), 31.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162706555\" id=\"p_nnk8n\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=eng&amp;id=p9#p9\">Hebrews 12:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162706559\" id=\"p_gQbNh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p16-p17#p16\">Joseph Smith\u2014History 1:16\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162706562\" id=\"p_vXudT\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p3%2C22#p3\">Doctrine and Covenants 130:3, 22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162706566\" id=\"p_weWJR\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3%2C4%2C6%2C7#p3\">Moses 1:3, 4, 6, 7<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162706571\" id=\"p_o1Dpj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p12#p12\">Moses 1:12<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162706575\" id=\"p_f0MrJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p13#p13\">Moses 1:13<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162706579\" id=\"p_gqrEl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=eng&amp;id=p1-p9#p1\">Matthew 4:1\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162706584\" id=\"p_tS4Sx\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=eng&amp;id=p3%2C6#p3\">Matthew 4:3, 6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162706590\" id=\"p_sFLZa\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/3?lang=eng&amp;id=p17#p17\">Matthew 3:17<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162706594\" id=\"p_ln8KQ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p26#p26\">Doctrine and Covenants 45:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162706599\" id=\"p_wmu92\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48\">Matthew 5:48<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/5?lang=eng&amp;id=p50#p50\">Joseph Smith Translation, Matthew 5:50<\/a> (in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48\">Matthew 5:48<\/a>, footnote <i>a<\/i>).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162706602\" id=\"p_vMFHR\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/be-ye-therefore-perfect-eventually?lang=eng\">Be Ye Therefore Perfect\u2014Eventually<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2017, 40\u201342.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162706607\" id=\"p_fg8y3\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162706612\" id=\"p_loqf2\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39\">Moses 1:39<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162706617\" id=\"p_cq5A4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=eng\">Think Celestial!<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2023, 117\u201319.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162706623\" id=\"p_rictr\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27?lang=eng&amp;id=p39-p40#p39\">Matthew 27:39\u201340<\/a>; emphasis added.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162706626\" id=\"p_gXdvn\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p16-p17#p16\">Romans 8:16\u201317<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162706327",
+        "id": "note4",
+        "text": "<p data-aid=\"162706542\" id=\"p_eCRGI\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/82?lang=eng&amp;id=p6#p6\">Psalm 82:6<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/10?lang=eng&amp;id=p34-p35#p34\">John 10:34\u201335<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/82?lang=eng&amp;id=p6#p6",
+            "text": "Psalm 82:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/10?lang=eng&amp;id=p34-p35#p34",
+            "text": "John 10:34\u201335",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162706327",
+        "id": "note5",
+        "text": "<p data-aid=\"162706547\" id=\"p_t4mAY\"><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=eng&amp;id=p11#p11\"><cite>Preach My Gospel: A Guide to Sharing the Gospel<\/cite><\/a> (2023), 31.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=eng&amp;id=p11#p11",
+          "text": "Preach My Gospel: A Guide to Sharing the Gospel",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162706318",
+        "id": "note2",
+        "text": "<p data-aid=\"162706532\" id=\"p_sGFzH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=eng&amp;id=p4#p4\">2 Peter 1:4<\/a>; \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng\">The Family: A Proclamation to the World<\/a>,\u201d Gospel Library.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-pet/1?lang=eng&amp;id=p4#p4",
+            "text": "2 Peter 1:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng",
+            "text": "The Family: A Proclamation to the World",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162706327",
+        "id": "note3",
+        "text": "<p data-aid=\"162706538\" id=\"p_inF56\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/1?lang=eng&amp;id=p26#p26\">Genesis 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/1?lang=eng&amp;id=p26#p26",
+          "text": "Genesis 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162706341",
+        "id": "note8",
+        "text": "<p data-aid=\"162706562\" id=\"p_vXudT\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p3%2C22#p3\">Doctrine and Covenants 130:3, 22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p3%2C22#p3",
+          "text": "Doctrine and Covenants 130:3, 22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162706366",
+        "id": "note9",
+        "text": "<p data-aid=\"162706566\" id=\"p_weWJR\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3%2C4%2C6%2C7#p3\">Moses 1:3, 4, 6, 7<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p3%2C4%2C6%2C7#p3",
+          "text": "Moses 1:3, 4, 6, 7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162706334",
+        "id": "note6",
+        "text": "<p data-aid=\"162706555\" id=\"p_nnk8n\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/12?lang=eng&amp;id=p9#p9\">Hebrews 12:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/12?lang=eng&amp;id=p9#p9",
+          "text": "Hebrews 12:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162706341",
+        "id": "note7",
+        "text": "<p data-aid=\"162706559\" id=\"p_gQbNh\">See <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p16-p17#p16\">Joseph Smith\u2014History 1:16\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+            "href": "/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p16-p17#p16",
+            "text": "Joseph Smith\u2014History 1:16\u201317",
+            "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162706487",
+        "id": "note16",
+        "text": "<p data-aid=\"162706599\" id=\"p_wmu92\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48\">Matthew 5:48<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/5?lang=eng&amp;id=p50#p50\">Joseph Smith Translation, Matthew 5:50<\/a> (in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48\">Matthew 5:48<\/a>, footnote <i>a<\/i>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48",
+            "text": "Matthew 5:48",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/jst/jst-matt/5?lang=eng&amp;id=p50#p50",
+            "text": "Joseph Smith Translation, Matthew 5:50",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48",
+            "text": "Matthew 5:48",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162706480",
+        "id": "note15",
+        "text": "<p data-aid=\"162706594\" id=\"p_ln8KQ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p26#p26\">Doctrine and Covenants 45:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p26#p26",
+          "text": "Doctrine and Covenants 45:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162706452",
+        "id": "note14",
+        "text": "<p data-aid=\"162706590\" id=\"p_sFLZa\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/3?lang=eng&amp;id=p17#p17\">Matthew 3:17<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/3?lang=eng&amp;id=p17#p17",
+          "text": "Matthew 3:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162706445",
+        "id": "note13",
+        "text": "<p data-aid=\"162706584\" id=\"p_tS4Sx\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=eng&amp;id=p3%2C6#p3\">Matthew 4:3, 6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/4?lang=eng&amp;id=p3%2C6#p3",
+          "text": "Matthew 4:3, 6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162706437",
+        "id": "note12",
+        "text": "<p data-aid=\"162706579\" id=\"p_gqrEl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=eng&amp;id=p1-p9#p1\">Matthew 4:1\u20139<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/4?lang=eng&amp;id=p1-p9#p1",
+          "text": "Matthew 4:1\u20139",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162706398",
+        "id": "note11",
+        "text": "<p data-aid=\"162706575\" id=\"p_f0MrJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p13#p13\">Moses 1:13<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p13#p13",
+          "text": "Moses 1:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162706516",
+        "id": "note22",
+        "text": "<p data-aid=\"162706626\" id=\"p_gXdvn\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/8?lang=eng&amp;id=p16-p17#p16\">Romans 8:16\u201317<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/8?lang=eng&amp;id=p16-p17#p16",
+          "text": "Romans 8:16\u201317",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162706384",
+        "id": "note10",
+        "text": "<p data-aid=\"162706571\" id=\"p_o1Dpj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p12#p12\">Moses 1:12<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p12#p12",
+          "text": "Moses 1:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162706506",
+        "id": "note21",
+        "text": "<p data-aid=\"162706623\" id=\"p_rictr\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/27?lang=eng&amp;id=p39-p40#p39\">Matthew 27:39\u201340<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/27?lang=eng&amp;id=p39-p40#p39",
+          "text": "Matthew 27:39\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162706500",
+        "id": "note20",
+        "text": "<p data-aid=\"162706617\" id=\"p_cq5A4\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=eng\">Think Celestial!<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2023, 117\u201319.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=eng",
+          "text": "Think Celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162706318",
+        "id": "note1",
+        "text": "<p data-aid=\"162706528\" id=\"p_ds2fE\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-2?lang=eng&amp;id=p16#p16\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 40, 41; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p22#p22\">Doctrine and Covenants 130:22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-2?lang=eng&amp;id=p16#p16",
+            "text": "Teachings of Presidents of the Church: Joseph Smith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p22#p22",
+            "text": "Doctrine and Covenants 130:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162706494",
+        "id": "note19",
+        "text": "<p data-aid=\"162706612\" id=\"p_loqf2\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39\">Moses 1:39<\/a>; emphasis added.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39",
+          "text": "Moses 1:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162706487",
+        "id": "note18",
+        "text": "<p data-aid=\"162706607\" id=\"p_fg8y3\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32",
+          "text": "Moroni 10:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162706487",
+        "id": "note17",
+        "text": "<p data-aid=\"162706602\" id=\"p_vMFHR\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/be-ye-therefore-perfect-eventually?lang=eng\">Be Ye Therefore Perfect\u2014Eventually<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2017, 40\u201342.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/be-ye-therefore-perfect-eventually?lang=eng",
+          "text": "Be Ye Therefore Perfect\u2014Eventually",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/35bednar?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "32868502b3ef4b0682cfb181b82f0746",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/35bednar",
+      "data-aid": "162705732",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "32868502b3ef4b0682cfb181b82f0746"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/b5ecc85a838011efae28022e7e432ed9876c1855/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/c79c0a4c810011efae28022e7e432ed91c175474-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "In the Space of Not Many Years",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162705732",
+      {"key": "162705732"}
+    ],
+    [
+      "162705741",
+      {"key": "162705741"}
+    ],
+    [
+      "162705748",
+      {"key": "162705748"}
+    ],
+    [
+      "162705755",
+      {"key": "162705755"}
+    ],
+    [
+      "162705761",
+      {"key": "162705761"}
+    ],
+    [
+      "162705768",
+      {"key": "162705768"}
+    ],
+    [
+      "162705774",
+      {"key": "162705774"}
+    ],
+    [
+      "162705780",
+      {"key": "162705780"}
+    ],
+    [
+      "162705789",
+      {"key": "162705789"}
+    ],
+    [
+      "162705794",
+      {"key": "162705794"}
+    ],
+    [
+      "162705803",
+      {"key": "162705803"}
+    ],
+    [
+      "162705808",
+      {"key": "162705808"}
+    ],
+    [
+      "162705813",
+      {"key": "162705813"}
+    ],
+    [
+      "162705820",
+      {"key": "162705820"}
+    ],
+    [
+      "162705830",
+      {"key": "162705830"}
+    ],
+    [
+      "162705837",
+      {"key": "162705837"}
+    ],
+    [
+      "162705845",
+      {"key": "162705845"}
+    ],
+    [
+      "162705848",
+      {"key": "162705848"}
+    ],
+    [
+      "162705855",
+      {"key": "162705855"}
+    ],
+    [
+      "162705863",
+      {"key": "162705863"}
+    ],
+    [
+      "162705871",
+      {"key": "162705871"}
+    ],
+    [
+      "162705879",
+      {"key": "162705879"}
+    ],
+    [
+      "162705888",
+      {"key": "162705888"}
+    ],
+    [
+      "162705893",
+      {"key": "162705893"}
+    ],
+    [
+      "162705903",
+      {"key": "162705903"}
+    ],
+    [
+      "162705910",
+      {"key": "162705910"}
+    ],
+    [
+      "162705917",
+      {"key": "162705917"}
+    ],
+    [
+      "162705926",
+      {"key": "162705926"}
+    ],
+    [
+      "162705935",
+      {"key": "162705935"}
+    ],
+    [
+      "162705944",
+      {"key": "162705944"}
+    ],
+    [
+      "162705952",
+      {"key": "162705952"}
+    ],
+    [
+      "162705960",
+      {"key": "162705960"}
+    ],
+    [
+      "162705969",
+      {"key": "162705969"}
+    ],
+    [
+      "162705977",
+      {"key": "162705977"}
+    ],
+    [
+      "162705984",
+      {"key": "162705984"}
+    ],
+    [
+      "162705992",
+      {"key": "162705992"}
+    ],
+    [
+      "162706000",
+      {"key": "162706000"}
+    ],
+    [
+      "162706008",
+      {"key": "162706008"}
+    ],
+    [
+      "162706016",
+      {"key": "162706016"}
+    ],
+    [
+      "162706022",
+      {"key": "162706022"}
+    ],
+    [
+      "162706029",
+      {"key": "162706029"}
+    ],
+    [
+      "162706037",
+      {"key": "162706037"}
+    ],
+    [
+      "162706045",
+      {"key": "162706045"}
+    ],
+    [
+      "162706053",
+      {"key": "162706053"}
+    ],
+    [
+      "162706061",
+      {"key": "162706061"}
+    ],
+    [
+      "162706069",
+      {"key": "162706069"}
+    ],
+    [
+      "162706077",
+      {"key": "162706077"}
+    ],
+    [
+      "162706085",
+      {"key": "162706085"}
+    ],
+    [
+      "162706094",
+      {"key": "162706094"}
+    ],
+    [
+      "162706103",
+      {"key": "162706103"}
+    ],
+    [
+      "162706110",
+      {"key": "162706110"}
+    ],
+    [
+      "162706116",
+      {"key": "162706116"}
+    ],
+    [
+      "162706125",
+      {"key": "162706125"}
+    ],
+    [
+      "162706133",
+      {"key": "162706133"}
+    ],
+    [
+      "162706142",
+      {"key": "162706142"}
+    ],
+    [
+      "162706149",
+      {"key": "162706149"}
+    ],
+    [
+      "162706156",
+      {"key": "162706156"}
+    ],
+    [
+      "162706162",
+      {"key": "162706162"}
+    ],
+    [
+      "162706171",
+      {"key": "162706171"}
+    ],
+    [
+      "162706178",
+      {"key": "162706178"}
+    ],
+    [
+      "162706184",
+      {"key": "162706184"}
+    ],
+    [
+      "162706191",
+      {"key": "162706191"}
+    ],
+    [
+      "162706198",
+      {"key": "162706198"}
+    ],
+    [
+      "162706204",
+      {"key": "162706204"}
+    ],
+    [
+      "162706211",
+      {"key": "162706211"}
+    ],
+    [
+      "162706217",
+      {"key": "162706217"}
+    ],
+    [
+      "162706224",
+      {"key": "162706224"}
+    ],
+    [
+      "162706231",
+      {"key": "162706231"}
+    ],
+    [
+      "162706237",
+      {"key": "162706237"}
+    ],
+    [
+      "162706246",
+      {"key": "162706246"}
+    ],
+    [
+      "162706254",
+      {"key": "162706254"}
+    ],
+    [
+      "162706262",
+      {"key": "162706262"}
+    ],
+    [
+      "162706270",
+      {"key": "162706270"}
+    ],
+    [
+      "162706278",
+      {"key": "162706278"}
+    ],
+    [
+      "162706286",
+      {"key": "162706286"}
+    ],
+    [
+      "162706298",
+      {"key": "162706298"}
+    ],
+    [
+      "162706308",
+      {"key": "162706308"}
+    ],
+    [
+      "162706317",
+      {"key": "162706317"}
+    ],
+    [
+      "162706325",
+      {"key": "162706325"}
+    ],
+    [
+      "162706333",
+      {"key": "162706333"}
+    ],
+    [
+      "162706343",
+      {"key": "162706343"}
+    ],
+    [
+      "162706351",
+      {"key": "162706351"}
+    ],
+    [
+      "162706359",
+      {"key": "162706359"}
+    ],
+    [
+      "162706367",
+      {"key": "162706367"}
+    ],
+    [
+      "162706375",
+      {"key": "162706375"}
+    ],
+    [
+      "162706383",
+      {"key": "162706383"}
+    ],
+    [
+      "162706394",
+      {"key": "162706394"}
+    ],
+    [
+      "162706404",
+      {"key": "162706404"}
+    ],
+    [
+      "162706413",
+      {"key": "162706413"}
+    ],
+    [
+      "162706421",
+      {"key": "162706421"}
+    ],
+    [
+      "162706429",
+      {"key": "162706429"}
+    ],
+    [
+      "162706436",
+      {"key": "162706436"}
+    ],
+    [
+      "162706444",
+      {"key": "162706444"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/35bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Bednar uses the examples of the Nephites and Lamanites in the Book of Mormon to warn against letting pride turn us away from the Lord.",
+          "title": "In the Space of Not Many Years"
+        },
+        "pageSocial": {
+          "description": "Elder Bednar uses the examples of the Nephites and Lamanites in the Book of Mormon to warn against letting pride turn us away from the Lord.",
+          "title": "In the Space of Not Many Years"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/b5ecc85a838011efae28022e7e432ed9876c1855/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/b5ecc85a838011efae28022e7e432ed9876c1855/full/!192%2C/0/default\" data-video-id=\"6362895252112\" data-duration=\"976400\" data-assetId=\"16bdb27a7c4611ef8e500626c361eb55f3be6593\" data-ref-id=\"16bdb27a7c4611ef8e500626c361eb55f3be6593\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362895252112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"232142162\"/><source src=\"https://assets.churchofjesuschrist.org/16bdb27a7c4611ef8e500626c361eb55f3be6593-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"46926375\"/><source src=\"https://assets.churchofjesuschrist.org/16bdb27a7c4611ef8e500626c361eb55f3be6593-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"85597111\"/><source src=\"https://assets.churchofjesuschrist.org/16bdb27a7c4611ef8e500626c361eb55f3be6593-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"232142162\"/><\/video><h1 data-aid=\"162705741\" id=\"p_zyFns\">In the Space of Not Many Years<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162705748\" id=\"p_nOU9z\">By Elder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"162705755\" id=\"p_i6lj2\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162705761\" id=\"p_m26AD\">If we are not faithful and obedient, we can transform the God-given blessing of prosperity into a prideful curse that diverts and distracts us.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"162705768\" id=\"p_v5xX0\">My beloved brothers and sisters, sitting on the stand today, I have watched this Conference Center fill up three times, for the first time since COVID. You are devoted disciples of Jesus Christ who are eager to learn. I commend you for your faithfulness. And I love you.<\/p>\n<p data-aid=\"162705774\" id=\"p_uTs8u\">Ezra Taft Benson served as the President of The Church of Jesus Christ of Latter-day Saints from November 1985 until May 1994. I was 33 years old when President Benson became the President of the Church and 42 when he passed away. And his teachings and testimony influenced me in profound and powerful ways.<\/p>\n<p data-aid=\"162705780\" id=\"p_fcuXF\">One of the hallmarks of President Benson\u2019s ministry was his focus upon the purpose and importance of the Book of Mormon. He emphasized repeatedly that \u201cthe Book of Mormon is the keystone of our religion\u2014the keystone of our testimony, the keystone of our doctrine, and the keystone in the witness of our Lord and Savior.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> He also often emphasized teachings and warnings about the sin of pride found in this latter-day testament of Jesus Christ.<\/p>\n<p data-aid=\"162705789\" id=\"p_t2gjr\">A particular teaching by President Benson greatly impacted me and continues to influence my study of the Book of Mormon. He said:<\/p>\n<p data-aid=\"162705794\" id=\"p_pg3SR\">\u201cThe Book of Mormon \u2026 was written for our day. The Nephites never had the book; neither did the Lamanites of ancient times. It was meant for us. Mormon wrote near the end of the Nephite civilization. Under the inspiration of God, who sees all things from the beginning, [Mormon] abridged centuries of records, choosing the stories, speeches, and events that would be most helpful to us.\u201d<\/p>\n<p data-aid=\"162705803\" id=\"p_w0FPr\">President Benson continued: \u201cEach of the major writers of the Book of Mormon testified that he wrote for future generations. \u2026 If they saw our day, and chose those things which would be of greatest worth to us, is not that how we should study the Book of Mormon? We should constantly ask ourselves, \u2018Why did the Lord inspire Mormon \u2026 to include [this account] in his record? What lesson can I learn from [this admonition] to help me live in this day and age?\u2019\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"162705808\" id=\"p_sZgFy\">President Benson\u2019s statements help us to understand that the Book of Mormon is not primarily a historical record that looks to the past. Rather, this volume of scripture looks to the future and contains important principles, warnings, and lessons intended for the circumstances and challenges of our day. Hence, the Book of Mormon is a book about our future and the times in which we do now and will yet live.<\/p>\n<p data-aid=\"162705813\" id=\"p_dWjeR\">I pray for the assistance of the Holy Ghost as we now consider relevant lessons for us today from the book of Helaman in the Book of Mormon.<\/p>\n<section>\n<header>\n<h2 data-aid=\"162705820\" id=\"p_bKwLe\">The Nephites and the Lamanites<\/h2>\n<\/header>\n<p data-aid=\"162705830\" id=\"p_kYUPd\">The record of Helaman and his sons describes a people who were anticipating the birth of Jesus Christ. The half century recounted in the scriptural record highlights the conversion and righteousness of the Lamanites and the wickedness, apostasy, and abominations of the Nephites.<\/p>\n<p data-aid=\"162705837\" id=\"p_gHyLO\">A series of comparisons and contrasts between the Nephites and Lamanites from this ancient record are most instructive for us today.<\/p>\n<p data-aid=\"162705845\" id=\"p_jsynz\">\u201cThe Lamanites had become, the more part of them, a righteous people, insomuch that their righteousness did exceed that of the Nephites, because of their firmness and their steadiness in the faith.<\/p>\n<p data-aid=\"162705848\" id=\"p_gCbc0\">\u201c[And] there were many of the Nephites who had become hardened and impenitent and grossly wicked, insomuch that they did reject the word of God and all the preaching and prophesying which did come among them.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a><\/p>\n<p data-aid=\"162705855\" id=\"p_wBlBV\">\u201cAnd thus we see that the Nephites did begin to dwindle in unbelief, and grow in wickedness and abominations, while the Lamanites began to grow exceedingly in the knowledge of their God; yea, they did begin to keep his statutes and commandments, and to walk in truth and uprightness before him.<\/p>\n<p data-aid=\"162705863\" id=\"p_bUAbJ\">\u201cAnd thus we see that the Spirit of the Lord began to withdraw from the Nephites, because of the wickedness and the hardness of their hearts.<\/p>\n<p data-aid=\"162705871\" id=\"p_eRqen\">\u201cAnd thus we see that the Lord began to pour out his Spirit upon the Lamanites, because of their easiness and willingness to believe in his words.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a><\/p>\n<p data-aid=\"162705879\" id=\"p_nkPVG\">Perhaps the most stunning and sobering aspect of this decline into apostasy by the Nephites is the fact that \u201call these iniquities did come unto them in the space of not many years.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162705888\" id=\"p_kx4WT\">The Nephites Turned Away from God<\/h2>\n<\/header>\n<p data-aid=\"162705893\" id=\"p_vAlOo\">How could a once-righteous people become hardened and wicked in such a short period of time? How could people so quickly forget the God who had blessed them so abundantly?<\/p>\n<p data-aid=\"162705903\" id=\"p_qBnL6\">In a powerful and profound way, the negative example of the Nephites is instructive for us today.<\/p>\n<p data-aid=\"162705910\" id=\"p_wTt6u\">\u201cPride \u2026 began to enter \u2026 into the hearts of the people who professed to belong to the church of God \u2026 because of their exceedingly great riches and their prosperity in the land.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/p>\n<p data-aid=\"162705917\" id=\"p_jEFOy\">\u201c[They] set [their] hearts upon the riches and the vain things of this world\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> \u201cbecause of that pride which [they] \u2026 suffered to enter [into their] hearts, which \u2026 lifted [them] up beyond that which is good because of [their] exceedingly great riches!\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a><\/p>\n<p data-aid=\"162705926\" id=\"p_r6yPg\">Ancient voices from the dust plead with us today to learn this everlasting lesson: prosperity, possessions, and ease<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> constitute a potent mixture that can lead even the righteous to drink the spiritual poison of pride.<\/p>\n<p data-aid=\"162705935\" id=\"p_wrHdC\">Allowing pride to enter into our hearts can cause us to mock that which is sacred;<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> disbelieve in the spirit of prophecy and revelation;<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> trample under our feet the commandments of God;<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a> deny the word of God;<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> cast out, mock,<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> and revile against the prophets;<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> and forget the Lord our God<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> and \u201cnot desire that the Lord [our] God, who hath created [us], should rule and reign over [us].\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a><\/p>\n<p data-aid=\"162705944\" id=\"p_yTg1D\">Therefore, if we are not faithful and obedient, we can transform the God-given blessing of prosperity into a prideful curse that diverts and distracts us from eternal truths and vital spiritual priorities. We always must be on guard against a pride-induced and exaggerated sense of self-importance, a misguided evaluation of our own self-sufficiency, and seeking self instead of serving others.<\/p>\n<p data-aid=\"162705952\" id=\"p_oO3If\">As we pridefully focus upon ourselves, we also are afflicted with spiritual blindness and miss much, most, or perhaps all that is occurring within and around us. We cannot look to and focus upon Jesus Christ as the \u201cmark\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> if we only see ourselves.<\/p>\n<p data-aid=\"162705960\" id=\"p_lKTyh\">Such spiritual blindness also can cause us to turn out of the way of righteousness,<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> fall away into forbidden paths, and become lost.<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> As we blindly \u201cturn unto [our] own ways\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a> and follow destructive detours, we are inclined to lean upon our own understanding,<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> boast in our own strength,<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> and depend upon our own wisdom.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<p data-aid=\"162705969\" id=\"p_r88hH\">Samuel the Lamanite succinctly summarized the turning away from God by the Nephites: \u201cYe have sought all the days of your lives for that which ye could not obtain; and ye have sought for happiness in doing iniquity, which thing is contrary to the nature of that righteousness which is in our great and Eternal Head.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a><\/p>\n<p data-aid=\"162705977\" id=\"p_tfLkP\">The prophet Mormon observed, \u201cThe more part of the people [remained] in their pride and wickedness, and the lesser part [walked] more circumspectly before God.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162705984\" id=\"p_zhF7Q\">The Lamanites Turned to God<\/h2>\n<\/header>\n<p data-aid=\"162705992\" id=\"p_phcS5\">In the Book of Helaman, the increasing righteousness of the Lamanites provides a stark contrast to the rapid spiritual decline of the Nephites.<\/p>\n<p data-aid=\"162706000\" id=\"p_jwspe\">The Lamanites turned to God and were brought to a knowledge of the truth by believing the teachings in the holy scriptures and of prophets, exercising faith in the Lord Jesus Christ, repenting of their sins, and experiencing a mighty change of heart.<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a><\/p>\n<p data-aid=\"162706008\" id=\"p_xiZIZ\">\u201cTherefore, as many as have come to this, ye know of yourselves are firm and steadfast in the faith, and in the thing wherewith they have been made free.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a><\/p>\n<p data-aid=\"162706016\" id=\"p_pTrsp\">\u201cYe should behold that the more part of [the Lamanites] are in the path of their duty, and they do walk circumspectly before God, and they do observe to keep his commandments and his statutes and his judgments. \u2026<\/p>\n<p data-aid=\"162706022\" id=\"p_dDKSc\">\u201c\u2026 They are striving with unwearied diligence that they may bring the remainder of their brethren to the knowledge of the truth.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a><\/p>\n<p data-aid=\"162706029\" id=\"p_hmYlH\">As a consequence, the \u201crighteousness [of the Lamanites] did exceed that of the Nephites, because of their firmness and their steadiness in the faith.\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a><\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"162706037\" id=\"p_yDBv6\">A Warning and a Promise<\/h2>\n<\/header>\n<p data-aid=\"162706045\" id=\"p_bHJtI\">Moroni declared: \u201cBehold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.<\/p>\n<p data-aid=\"162706053\" id=\"p_aMqML\">\u201cBehold, I speak unto you as if ye were present, and yet ye are not. But behold, Jesus Christ hath shown you unto me, and I know your doing.\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a><\/p>\n<p data-aid=\"162706061\" id=\"p_laort\">Please remember that the Book of Mormon looks to the future and contains important principles, warnings, and lessons intended for me and you in the circumstances and challenges of our present day.<\/p>\n<p data-aid=\"162706069\" id=\"p_oK6On\">Apostasy can occur at two basic levels\u2014institutional and individual. At the institutional level, The Church of Jesus Christ of Latter-day Saints will not be lost through apostasy or taken from the earth.<\/p>\n<p data-aid=\"162706077\" id=\"p_sntYO\">The Prophet Joseph Smith proclaimed: \u201cThe Standard of Truth has been erected; no unhallowed hand can stop the work from progressing \u2026 ; the truth of God will go forth boldly, nobly, and independent, till it has penetrated every continent, visited every clime, swept every country, and sounded in every ear, till the purposes of God shall be accomplished, and the Great Jehovah shall say the work is done.\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a><\/p>\n<p data-aid=\"162706085\" id=\"p_xDe3l\">At the individual level, each of us must \u201cbeware of pride, lest [we] become as the Nephites of old.\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a><\/p>\n<p data-aid=\"162706094\" id=\"p_vrBgz\">May I suggest that if you or I believe we are sufficiently strong and stalwart to avoid the arrogance of pride, then perhaps we already are suffering from this deadly spiritual disease. Simply stated, if you or I do not believe we could be afflicted with and by pride, then we are vulnerable and in spiritual danger. In the space of not many days, weeks, months, or years, we might forfeit our spiritual birthright for far less than a mess of pottage.<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a><\/p>\n<p data-aid=\"162706103\" id=\"p_cDoDN\">If, however, you or I believe we could be afflicted with and by pride, then we consistently will do the small and simple things<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a> that will protect and help us become \u201cas a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon [us].\u201d<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a> \u201cBlessed are they who humble themselves without being compelled to be humble.\u201d<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\" data-value=\"37\"><\/sup><\/a><\/p>\n<p data-aid=\"162706110\" id=\"p_xDirL\">As we follow President Benson\u2019s counsel and ask ourselves why the Lord inspired Mormon to include in his abridgment of the book of Helaman the accounts, admonitions, and warnings that he did, I promise we will discern the applicability of these teachings to the specific conditions of our individual lives and families today. As we study and ponder this inspired record, we will be blessed with eyes to see, ears to hear, minds to comprehend, and hearts to understand<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\" data-value=\"38\"><\/sup><\/a> the lessons we should learn to \u201cbeware of pride, lest [we should] enter into temptation.\u201d<a class=\"note-ref\" href=\"#note39\"><sup class=\"marker\" data-value=\"39\"><\/sup><\/a><\/p>\n<p data-aid=\"162706116\" id=\"p_o4blG\">I joyfully witness that God the Eternal Father is our Father. Jesus Christ is His Only Begotten and Beloved Son. He is our Savior. And I testify that as we walk in the meekness of the Lord\u2019s Spirit, we will avoid and overcome pride and have peace in Him.<a class=\"note-ref\" href=\"#note40\"><sup class=\"marker\" data-value=\"40\"><\/sup><\/a> I so witness in the sacred name of the Lord Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162706125\" id=\"p_zNvHx\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162706133\" id=\"p_zY2eA\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p19#p19\">The Book of Mormon\u2014Keystone of Our Religion<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1986, 6.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162706142\" id=\"p_sAH2T\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p20-p24#p20\">The Book of Mormon\u2014Keystone of Our Religion<\/a>,\u201d 6.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162706149\" id=\"p_oyn5l\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1-p2#p1\">Helaman 6:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162706156\" id=\"p_rLIPF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p34-p36#p34\">Helaman 6:34\u201336<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162706162\" id=\"p_dJIQA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p32#p32\">Helaman 6:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162706171\" id=\"p_f51Vx\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p33%2C36#p33\">Helaman 3:33, 36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162706178\" id=\"p_jyPcA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7?lang=eng&amp;id=p21#p21\">Helaman 7:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162706184\" id=\"p_oVpkY\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7?lang=eng&amp;id=p26#p26\">Helaman 7:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162706191\" id=\"p_jzslf\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2\">Helaman 12:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162706198\" id=\"p_pODA7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p12#p12\">Helaman 4:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162706204\" id=\"p_f5JOv\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p23#p23\">Helaman 4:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162706211\" id=\"p_blm54\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162706217\" id=\"p_psidT\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/8?lang=eng&amp;id=p13#p13\">Helaman 8:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162706224\" id=\"p_vVUiD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=eng&amp;id=p24#p24\">Helaman 13:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162706231\" id=\"p_bh6MI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10?lang=eng&amp;id=p15#p15\">Helaman 10:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162706237\" id=\"p_unFXE\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2\">Helaman 12:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162706246\" id=\"p_bs59U\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p6#p6\">Helaman 12:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162706254\" id=\"p_sx1kp\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p14#p14\">Jacob 4:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162706262\" id=\"p_pWZBw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162706270\" id=\"p_y7FPG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p28#p28\">1 Nephi 8:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162706278\" id=\"p_iGusS\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162706286\" id=\"p_t7Zxc\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=eng&amp;id=p5#p5\">Proverbs 3:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"162706298\" id=\"p_yitfG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p13#p13\">Helaman 4:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"162706308\" id=\"p_eRVfR\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/16?lang=eng&amp;id=p15#p15\">Helaman 16:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"162706317\" id=\"p_z6hcL\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=eng&amp;id=p38#p38\">Helaman 13:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"162706325\" id=\"p_z2lYp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/16?lang=eng&amp;id=p10#p10\">Helaman 16:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"162706333\" id=\"p_iHBmw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p7#p7\">Helaman 15:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"162706343\" id=\"p_yQCnI\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p8#p8\">Helaman 15:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"162706351\" id=\"p_wBs4R\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p5-p6#p5\">Helaman 15:5\u20136<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"162706359\" id=\"p_zTcP9\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1#p1\">Helaman 6:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"162706367\" id=\"p_uZx4V\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=eng&amp;id=p34-p35#p34\">Mormon 8:34\u201335<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"162706375\" id=\"p_gEPd4\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-11?lang=eng&amp;id=p24#p24\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 142.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"162706383\" id=\"p_fVI2O\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p39#p39\">Doctrine and Covenants 38:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"162706394\" id=\"p_ypp8g\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29\">Genesis 25:29\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"162706404\" id=\"p_xljl0\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/16?lang=eng&amp;id=p29#p29\">1 Nephi 16:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6-p7#p6\">Alma 37:6\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64?lang=eng&amp;id=p32-p33#p32\">Doctrine and Covenants 64:32\u201333<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"162706413\" id=\"p_qgUNb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19\">Mosiah 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"162706421\" id=\"p_gO05X\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p16#p16\">Alma 32:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"162706429\" id=\"p_z1k6T\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p9#p9\">Mosiah 2:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"39.\" id=\"note39\" data-full-marker=\"39.\">\n<p data-aid=\"162706436\" id=\"p_cIr2q\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/23?lang=eng&amp;id=p1#p1\">Doctrine and Covenants 23:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"40.\" id=\"note40\" data-full-marker=\"40.\">\n<p data-aid=\"162706444\" id=\"p_mF107\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 19:23<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162705871",
+        "id": "note4",
+        "text": "<p data-aid=\"162706156\" id=\"p_rLIPF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p34-p36#p34\">Helaman 6:34\u201336<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p34-p36#p34",
+          "text": "Helaman 6:34\u201336",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162705879",
+        "id": "note5",
+        "text": "<p data-aid=\"162706162\" id=\"p_dJIQA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p32#p32\">Helaman 6:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p32#p32",
+          "text": "Helaman 6:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162705803",
+        "id": "note2",
+        "text": "<p data-aid=\"162706142\" id=\"p_sAH2T\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p20-p24#p20\">The Book of Mormon\u2014Keystone of Our Religion<\/a>,\u201d 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p20-p24#p20",
+          "text": "The Book of Mormon\u2014Keystone of Our Religion",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162705848",
+        "id": "note3",
+        "text": "<p data-aid=\"162706149\" id=\"p_oyn5l\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1-p2#p1\">Helaman 6:1\u20132<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1-p2#p1",
+          "text": "Helaman 6:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162705917",
+        "id": "note8",
+        "text": "<p data-aid=\"162706184\" id=\"p_oVpkY\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7?lang=eng&amp;id=p26#p26\">Helaman 7:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/7?lang=eng&amp;id=p26#p26",
+          "text": "Helaman 7:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162705926",
+        "id": "note9",
+        "text": "<p data-aid=\"162706191\" id=\"p_jzslf\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2\">Helaman 12:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2",
+          "text": "Helaman 12:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162705910",
+        "id": "note6",
+        "text": "<p data-aid=\"162706171\" id=\"p_f51Vx\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/3?lang=eng&amp;id=p33%2C36#p33\">Helaman 3:33, 36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/3?lang=eng&amp;id=p33%2C36#p33",
+          "text": "Helaman 3:33, 36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162705917",
+        "id": "note7",
+        "text": "<p data-aid=\"162706178\" id=\"p_jyPcA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/7?lang=eng&amp;id=p21#p21\">Helaman 7:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/7?lang=eng&amp;id=p21#p21",
+          "text": "Helaman 7:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "162706029",
+        "id": "note30",
+        "text": "<p data-aid=\"162706359\" id=\"p_zTcP9\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1#p1\">Helaman 6:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p1#p1",
+          "text": "Helaman 6:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162705935",
+        "id": "note16",
+        "text": "<p data-aid=\"162706237\" id=\"p_unFXE\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2\">Helaman 12:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2",
+          "text": "Helaman 12:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "pid": "162706110",
+        "id": "note38",
+        "text": "<p data-aid=\"162706429\" id=\"p_z1k6T\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p9#p9\">Mosiah 2:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p9#p9",
+          "text": "Mosiah 2:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162705935",
+        "id": "note15",
+        "text": "<p data-aid=\"162706231\" id=\"p_bh6MI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10?lang=eng&amp;id=p15#p15\">Helaman 10:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/10?lang=eng&amp;id=p15#p15",
+          "text": "Helaman 10:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "pid": "162706103",
+        "id": "note37",
+        "text": "<p data-aid=\"162706421\" id=\"p_gO05X\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p16#p16\">Alma 32:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=eng&amp;id=p16#p16",
+          "text": "Alma 32:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162705935",
+        "id": "note14",
+        "text": "<p data-aid=\"162706224\" id=\"p_vVUiD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=eng&amp;id=p24#p24\">Helaman 13:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/13?lang=eng&amp;id=p24#p24",
+          "text": "Helaman 13:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "pid": "162706103",
+        "id": "note36",
+        "text": "<p data-aid=\"162706413\" id=\"p_qgUNb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19\">Mosiah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19",
+          "text": "Mosiah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162705935",
+        "id": "note13",
+        "text": "<p data-aid=\"162706217\" id=\"p_psidT\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/8?lang=eng&amp;id=p13#p13\">Helaman 8:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/8?lang=eng&amp;id=p13#p13",
+          "text": "Helaman 8:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "pid": "162706103",
+        "id": "note35",
+        "text": "<p data-aid=\"162706404\" id=\"p_xljl0\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/16?lang=eng&amp;id=p29#p29\">1 Nephi 16:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6-p7#p6\">Alma 37:6\u20137<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64?lang=eng&amp;id=p32-p33#p32\">Doctrine and Covenants 64:32\u201333<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/16?lang=eng&amp;id=p29#p29",
+            "text": "1 Nephi 16:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6-p7#p6",
+            "text": "Alma 37:6\u20137",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/64?lang=eng&amp;id=p32-p33#p32",
+            "text": "Doctrine and Covenants 64:32\u201333",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162705935",
+        "id": "note12",
+        "text": "<p data-aid=\"162706211\" id=\"p_blm54\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31",
+          "text": "Helaman 6:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "pid": "162706094",
+        "id": "note34",
+        "text": "<p data-aid=\"162706394\" id=\"p_ypp8g\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29\">Genesis 25:29\u201334<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/25?lang=eng&amp;id=p29-p34#p29",
+          "text": "Genesis 25:29\u201334",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162705935",
+        "id": "note11",
+        "text": "<p data-aid=\"162706204\" id=\"p_f5JOv\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p23#p23\">Helaman 4:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/4?lang=eng&amp;id=p23#p23",
+          "text": "Helaman 4:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "pid": "162706085",
+        "id": "note33",
+        "text": "<p data-aid=\"162706383\" id=\"p_fVI2O\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p39#p39\">Doctrine and Covenants 38:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p39#p39",
+          "text": "Doctrine and Covenants 38:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162705935",
+        "id": "note10",
+        "text": "<p data-aid=\"162706198\" id=\"p_pODA7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p12#p12\">Helaman 4:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/4?lang=eng&amp;id=p12#p12",
+          "text": "Helaman 4:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "pid": "162706077",
+        "id": "note32",
+        "text": "<p data-aid=\"162706375\" id=\"p_gEPd4\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-11?lang=eng&amp;id=p24#p24\">Teachings of Presidents of the Church: Joseph Smith<\/a><\/cite> (2007), 142.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-11?lang=eng&amp;id=p24#p24",
+          "text": "Teachings of Presidents of the Church: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "pid": "162706053",
+        "id": "note31",
+        "text": "<p data-aid=\"162706367\" id=\"p_uZx4V\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/8?lang=eng&amp;id=p34-p35#p34\">Mormon 8:34\u201335<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/8?lang=eng&amp;id=p34-p35#p34",
+          "text": "Mormon 8:34\u201335",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162705960",
+        "id": "note19",
+        "text": "<p data-aid=\"162706262\" id=\"p_pWZBw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31",
+          "text": "Helaman 6:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162705952",
+        "id": "note18",
+        "text": "<p data-aid=\"162706254\" id=\"p_sx1kp\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p14#p14\">Jacob 4:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p14#p14",
+          "text": "Jacob 4:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162705935",
+        "id": "note17",
+        "text": "<p data-aid=\"162706246\" id=\"p_bs59U\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/12?lang=eng&amp;id=p6#p6\">Helaman 12:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/12?lang=eng&amp;id=p6#p6",
+          "text": "Helaman 12:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note39": {
+        "marker": "39.",
+        "pid": "162706110",
+        "id": "note39",
+        "text": "<p data-aid=\"162706436\" id=\"p_cIr2q\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/23?lang=eng&amp;id=p1#p1\">Doctrine and Covenants 23:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/23?lang=eng&amp;id=p1#p1",
+          "text": "Doctrine and Covenants 23:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note40": {
+        "marker": "40.",
+        "pid": "162706116",
+        "id": "note40",
+        "text": "<p data-aid=\"162706444\" id=\"p_mF107\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 19:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p23#p23",
+          "text": "Doctrine and Covenants 19:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "162706000",
+        "id": "note27",
+        "text": "<p data-aid=\"162706333\" id=\"p_iHBmw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p7#p7\">Helaman 15:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/15?lang=eng&amp;id=p7#p7",
+          "text": "Helaman 15:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "162705977",
+        "id": "note26",
+        "text": "<p data-aid=\"162706325\" id=\"p_z2lYp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/16?lang=eng&amp;id=p10#p10\">Helaman 16:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/16?lang=eng&amp;id=p10#p10",
+          "text": "Helaman 16:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "162705969",
+        "id": "note25",
+        "text": "<p data-aid=\"162706317\" id=\"p_z6hcL\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/13?lang=eng&amp;id=p38#p38\">Helaman 13:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/13?lang=eng&amp;id=p38#p38",
+          "text": "Helaman 13:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "162705960",
+        "id": "note24",
+        "text": "<p data-aid=\"162706308\" id=\"p_eRVfR\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/16?lang=eng&amp;id=p15#p15\">Helaman 16:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/16?lang=eng&amp;id=p15#p15",
+          "text": "Helaman 16:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "162705960",
+        "id": "note23",
+        "text": "<p data-aid=\"162706298\" id=\"p_yitfG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/4?lang=eng&amp;id=p13#p13\">Helaman 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/4?lang=eng&amp;id=p13#p13",
+          "text": "Helaman 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162705960",
+        "id": "note22",
+        "text": "<p data-aid=\"162706286\" id=\"p_t7Zxc\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=eng&amp;id=p5#p5\">Proverbs 3:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/prov/3?lang=eng&amp;id=p5#p5",
+          "text": "Proverbs 3:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162705960",
+        "id": "note21",
+        "text": "<p data-aid=\"162706278\" id=\"p_iGusS\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31\">Helaman 6:31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31",
+          "text": "Helaman 6:31",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162705960",
+        "id": "note20",
+        "text": "<p data-aid=\"162706270\" id=\"p_y7FPG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p28#p28\">1 Nephi 8:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p28#p28",
+          "text": "1 Nephi 8:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162705780",
+        "id": "note1",
+        "text": "<p data-aid=\"162706133\" id=\"p_zY2eA\">Ezra Taft Benson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p19#p19\">The Book of Mormon\u2014Keystone of Our Religion<\/a>,\u201d <cite>Ensign<\/cite>, Nov. 1986, 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng&amp;id=p19#p19",
+          "text": "The Book of Mormon\u2014Keystone of Our Religion",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "162706022",
+        "id": "note29",
+        "text": "<p data-aid=\"162706351\" id=\"p_wBs4R\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p5-p6#p5\">Helaman 15:5\u20136<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/15?lang=eng&amp;id=p5-p6#p5",
+          "text": "Helaman 15:5\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "162706008",
+        "id": "note28",
+        "text": "<p data-aid=\"162706343\" id=\"p_yQCnI\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/15?lang=eng&amp;id=p8#p8\">Helaman 15:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/15?lang=eng&amp;id=p8#p8",
+          "text": "Helaman 15:8",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

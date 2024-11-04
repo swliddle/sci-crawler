@@ -1,0 +1,658 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/33mckay?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "e69895650d094bfe86ba4ae4ecdf25a8",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/33mckay",
+      "data-aid": "162700735",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "3a23cd64209f4f37a9842c75a55c5e8b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/7fda4f62837c11ef9b3a0626c361eb55435b5a69/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/f7dca91d80fc11ef8bff02d0ea859845066ce653-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El hombre que estuvo en comunión con Jehová",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162700735",
+      {"key": "162700735"}
+    ],
+    [
+      "162996257",
+      {"key": "162996257"}
+    ],
+    [
+      "162996289",
+      {"key": "162996289"}
+    ],
+    [
+      "162996322",
+      {"key": "162996322"}
+    ],
+    [
+      "162996354",
+      {"key": "162996354"}
+    ],
+    [
+      "163002390",
+      {"key": "163002390"}
+    ],
+    [
+      "163002430",
+      {"key": "163002430"}
+    ],
+    [
+      "163002474",
+      {"key": "163002474"}
+    ],
+    [
+      "163002521",
+      {"key": "163002521"}
+    ],
+    [
+      "163002573",
+      {"key": "163002573"}
+    ],
+    [
+      "163002619",
+      {"key": "163002619"}
+    ],
+    [
+      "163002665",
+      {"key": "163002665"}
+    ],
+    [
+      "163002710",
+      {"key": "163002710"}
+    ],
+    [
+      "163002756",
+      {"key": "163002756"}
+    ],
+    [
+      "163002799",
+      {"key": "163002799"}
+    ],
+    [
+      "163002845",
+      {"key": "163002845"}
+    ],
+    [
+      "163002890",
+      {"key": "163002890"}
+    ],
+    [
+      "163002934",
+      {"key": "163002934"}
+    ],
+    [
+      "163002978",
+      {"key": "163002978"}
+    ],
+    [
+      "163003022",
+      {"key": "163003022"}
+    ],
+    [
+      "163003064",
+      {"key": "163003064"}
+    ],
+    [
+      "163003102",
+      {"key": "163003102"}
+    ],
+    [
+      "163003146",
+      {"key": "163003146"}
+    ],
+    [
+      "163003190",
+      {"key": "163003190"}
+    ],
+    [
+      "163003234",
+      {"key": "163003234"}
+    ],
+    [
+      "163003277",
+      {"key": "163003277"}
+    ],
+    [
+      "163003320",
+      {"key": "163003320"}
+    ],
+    [
+      "163003361",
+      {"key": "163003361"}
+    ],
+    [
+      "163008404",
+      {"key": "163008404"}
+    ],
+    [
+      "163008447",
+      {"key": "163008447"}
+    ],
+    [
+      "163008490",
+      {"key": "163008490"}
+    ],
+    [
+      "163008533",
+      {"key": "163008533"}
+    ],
+    [
+      "163008576",
+      {"key": "163008576"}
+    ],
+    [
+      "163008619",
+      {"key": "163008619"}
+    ],
+    [
+      "163008660",
+      {"key": "163008660"}
+    ],
+    [
+      "163008701",
+      {"key": "163008701"}
+    ],
+    [
+      "163008742",
+      {"key": "163008742"}
+    ],
+    [
+      "163008782",
+      {"key": "163008782"}
+    ],
+    [
+      "163008820",
+      {"key": "163008820"}
+    ],
+    [
+      "163008859",
+      {"key": "163008859"}
+    ],
+    [
+      "163008898",
+      {"key": "163008898"}
+    ],
+    [
+      "163008937",
+      {"key": "163008937"}
+    ],
+    [
+      "163008976",
+      {"key": "163008976"}
+    ],
+    [
+      "163009015",
+      {"key": "163009015"}
+    ],
+    [
+      "163009055",
+      {"key": "163009055"}
+    ],
+    [
+      "163009093",
+      {"key": "163009093"}
+    ],
+    [
+      "163009130",
+      {"key": "163009130"}
+    ],
+    [
+      "163009167",
+      {"key": "163009167"}
+    ],
+    [
+      "163009226",
+      {"key": "163009226"}
+    ],
+    [
+      "163009256",
+      {"key": "163009256"}
+    ],
+    [
+      "163009293",
+      {"key": "163009293"}
+    ],
+    [
+      "163009327",
+      {"key": "163009327"}
+    ],
+    [
+      "163009361",
+      {"key": "163009361"}
+    ],
+    [
+      "163009396",
+      {"key": "163009396"}
+    ],
+    [
+      "163009430",
+      {"key": "163009430"}
+    ],
+    [
+      "163009465",
+      {"key": "163009465"}
+    ],
+    [
+      "163009495",
+      {"key": "163009495"}
+    ],
+    [
+      "163009529",
+      {"key": "163009529"}
+    ],
+    [
+      "163009564",
+      {"key": "163009564"}
+    ],
+    [
+      "163009599",
+      {"key": "163009599"}
+    ],
+    [
+      "163009634",
+      {"key": "163009634"}
+    ],
+    [
+      "163009668",
+      {"key": "163009668"}
+    ],
+    [
+      "163009711",
+      {"key": "163009711"}
+    ],
+    [
+      "163009744",
+      {"key": "163009744"}
+    ],
+    [
+      "163009781",
+      {"key": "163009781"}
+    ],
+    [
+      "163009814",
+      {"key": "163009814"}
+    ],
+    [
+      "163009848",
+      {"key": "163009848"}
+    ],
+    [
+      "163009882",
+      {"key": "163009882"}
+    ],
+    [
+      "163009915",
+      {"key": "163009915"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/33mckay",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder McKay da testimonio de la vida y el legado grandiosos del profeta José Smith.",
+          "title": "El hombre que estuvo en comunión con Jehová"
+        },
+        "pageSocial": {
+          "description": "El élder McKay da testimonio de la vida y el legado grandiosos del profeta José Smith.",
+          "title": "El hombre que estuvo en comunión con Jehová"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/7fda4f62837c11ef9b3a0626c361eb55435b5a69/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/7fda4f62837c11ef9b3a0626c361eb55435b5a69/full/!192%2C/0/default\" data-video-id=\"6362895627112\" data-duration=\"668066\" data-assetId=\"d222f21c7f6211efb0ca022e7e432ed9611b9fe7\" data-ref-id=\"d222f21c7f6211efb0ca022e7e432ed9611b9fe7\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362895627112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"173752592\"/><source src=\"https://assets.churchofjesuschrist.org/d222f21c7f6211efb0ca022e7e432ed9611b9fe7-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"37798351\"/><source src=\"https://assets.churchofjesuschrist.org/d222f21c7f6211efb0ca022e7e432ed9611b9fe7-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"64557801\"/><source src=\"https://assets.churchofjesuschrist.org/d222f21c7f6211efb0ca022e7e432ed9611b9fe7-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"173752592\"/><\/video><h1 data-aid=\"162996257\" id=\"p_p9np1\">El hombre que estuvo en comunión con Jehová<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162996289\" id=\"p_b9yp2\">Por el élder Kyle S. McKay<\/p>\n<p class=\"author-role\" data-aid=\"162996322\" id=\"p_sqXfx\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162996354\" id=\"p_gqMyx\">Él fue \u201cbendecido para abrir la última dispensación\u201d y nosotros somos bendecidos de que lo hiciera.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"163002390\" id=\"p_ceRXL\">Mi propósito de hoy y siempre es testificar de Jesucristo, que Él es el Hijo de Dios, el Creador y Salvador del mundo, nuestro Libertador y Redentor. Debido a que \u201clos principios fundamentales de nuestra religión son el testimonio de los apóstoles y de los profetas concernientes a Jesucristo\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>, hoy comparto con ustedes mi conocimiento y testimonio del Salvador tal como ha sido fortalecido y profundizado por la vida y las enseñanzas de un apóstol y profeta clave.<\/p>\n<section id=\"sec_gmSDH\">\n<header>\n<h2 data-aid=\"163002430\" id=\"p_kxglo\">El comienzo de la sabiduría<\/h2>\n<\/header>\n<p data-aid=\"163002474\" id=\"p_wGtJn\">En la mañana de un hermoso día despejado a principios de la primavera de 1820, José Smith, de catorce años, se adentró en una arboleda cercana a la casa de su familia para orar acerca de sus pecados y para preguntar a qué iglesia debía unirse. Su oración sincera, ofrecida con una fe inquebrantable, atrajo la atención de las fuerzas más poderosas del universo, entre ellas, al Padre y al Hijo; y al diablo. Cada uno de ellos tenía un interés profundo en esa oración y en ese joven.<\/p>\n<p data-aid=\"163002521\" id=\"p_gUMKE\">Lo que ahora llamamos la Primera Visión marcó el comienzo de la Restauración de todas las cosas en esta última dispensación. Pero para José, la experiencia también fue personal y preparatoria. Todo lo que él quería era perdón y guía. El Señor le otorgó ambas cosas. Al decirle \u201cque no debía unir[s]e a ninguna [de las iglesias]\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>, le dio una instrucción. Las palabras \u201ctus pecados te son perdonados\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> fue una declaración redentora.<\/p>\n<p data-aid=\"163002573\" id=\"p_oq5ew\">A pesar de todas las hermosas verdades que podemos aprender de esa Primera Visión, tal vez la conclusión principal de José fue simplemente: \u201cHabía descubierto que el testimonio de Santiago era cierto: que si el hombre tiene falta de sabiduría, puede pedirla a Dios y obtenerla sin reproche\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002619\" id=\"p_siV2A\">Tal como señaló un erudito: \u201cLa verdadera resonancia de la Primera Visión hoy en día es saber que está en la naturaleza de Dios el dar a aquellos que tienen falta de sabiduría. [\u2026]. El Dios que se revela a Sí mismo a José Smith en la Arboleda Sagrada es un Dios que responde a los adolescentes en tiempos de dificultad\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002665\" id=\"p_txIPa\">La experiencia de José en la arboleda le dio confianza para seguir pidiendo <em>perdón<\/em> y <em>guía<\/em> el resto de su vida. Su experiencia también me ha dado confianza <em>a mí<\/em> para seguir pidiendo perdón y guía el resto de mi vida.<\/p>\n<\/section>\n<section id=\"sec_fAQSJ\">\n<header>\n<h2 data-aid=\"163002710\" id=\"p_yLR4u\">Arrepentimiento continuo<\/h2>\n<\/header>\n<p data-aid=\"163002756\" id=\"p_yXauT\">El 21 de septiembre de 1823, José oró fervientemente pidiendo perdón, confiando en que, gracias a su experiencia en la arboleda tres años antes, el cielo le respondería de nuevo<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>; y así fue. El Señor envió a un ángel, Moroni, para instruir a José e informarle de un registro antiguo que más tarde él traduciría por el don y el poder de Dios: el Libro de Mormón.<\/p>\n<p data-aid=\"163002799\" id=\"p_emH8l\">Casi trece años después, José y Oliver Cowdery se arrodillaron en oración solemne y silenciosa en el recién dedicado Templo de Kirtland. No sabemos por qué cosas oraron, pero es probable que sus oraciones incluyeran una súplica de perdón, porque cuando se levantaron, el Salvador apareció y declaró: \u201cHe aquí, vuestros pecados os son perdonados; os halláis limpios delante de mí\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002845\" id=\"p_hn4ub\">En los meses y años posteriores a esa experiencia, José y Oliver pecarían una y otra vez. Pero en ese momento, <em>para<\/em> ese momento, en respuesta a su súplica y en preparación para la gloriosa restauración de las llaves del sacerdocio que estaba a punto de suceder, Jesús hizo que estuvieran libres de pecado.<\/p>\n<p data-aid=\"163002890\" id=\"p_iIkQy\">La vida de arrepentimiento continuo de José me da confianza a mí para \u201cacer[carme], pues, confiadamente al trono de la gracia, para alcanzar misericordia\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. He aprendido que Jesucristo está en verdad \u201cdispuesto a perdonar\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. No es ni Su misión ni está en Su naturaleza condenar; Él vino a salvar<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_iYJuk\">\n<header>\n<h2 data-aid=\"163002934\" id=\"p_axL35\">Recurrir al Señor<\/h2>\n<\/header>\n<p data-aid=\"163002978\" id=\"p_aZ91k\">Como parte de la prometida \u201crestauración de todas las cosas\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>, el Señor, por medio de José Smith, sacó a la luz el Libro de Mormón y otras revelaciones que contienen la plenitud de Su Evangelio. Las verdades vitales cobraron claridad y plenitud a medida que José recurría al Señor repetidamente en busca de guía. Consideren lo siguiente:<\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"163003022\" id=\"p_ujn43\">El Padre y el Hijo tienen cuerpos \u201ctangible[s] como el del hombre\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"163003064\" id=\"p_qYSkx\">Jesús tomó sobre Sí no solo nuestros pecados, sino también nuestras enfermedades, aflicciones y debilidades<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"163003102\" id=\"p_rtET4\">Su Expiación fue tan sumamente intensa que hizo que Él sangrara por cada poro<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\">\n<p data-aid=\"163003146\" id=\"p_qkE53\">Somos salvos por Su gracia \u201cdespués de hacer cuanto podamos\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\">\n<p data-aid=\"163003190\" id=\"p_p63Sm\">Hay condiciones para la misericordia de Cristo<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\">\n<p data-aid=\"163003234\" id=\"p_uQRxT\">Al venir nosotros a Cristo, Él no solo perdonará nuestros pecados, sino que también cambiará nuestra naturaleza misma, de modo \u201cque ya no ten[dremos] más disposición a obrar mal\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\">\n<p data-aid=\"163003277\" id=\"p_gIANz\">Cristo siempre manda a Su pueblo que construya templos<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> donde Él se manifiesta a Su pueblo<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> y los inviste con poder de lo alto<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<\/li>\n<\/ol>\n<p data-aid=\"163003320\" id=\"p_wzzbX\">Testifico que todas estas cosas son verdaderas y necesarias. Representan solo una fracción de la plenitud que Jesucristo restauró por medio de José Smith en respuesta a las recurrentes peticiones de guía de parte de José.<\/p>\n<\/section>\n<section id=\"sec_ajAbi\">\n<header>\n<h2 data-aid=\"163003361\" id=\"p_bmvkw\">Llevar adelante este reino<\/h2>\n<\/header>\n<p data-aid=\"163008404\" id=\"p_msIlN\">En 1842, José escribió sobre las cosas asombrosas que sucederían en esta última dispensación. Declaró que, en nuestros días, \u201cel sacerdocio celestial se unirá con el terrenal para realizar estos grandes propósitos; y mientras nosotros nos hallamos unidos en esta causa común de extender el reino de Dios, los portadores del sacerdocio celestial no son espectadores ociosos\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008447\" id=\"p_hCSug\">A su amigo Benjamin Johnson, José le dijo: \u201cBenjamin, [si muero] no estaría lejos de ti, y si estuviera del otro lado del velo, todavía [estaría] trabajando contigo, y con un poder mucho mayor para llevar adelante este reino\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008490\" id=\"p_by0k6\">El 27 de junio de 1844, José Smith y su hermano Hyrum fueron asesinados. El cuerpo de José fue sepultado, pero su testimonio sigue resonando en todo el mundo y en mi alma:<\/p>\n<p data-aid=\"163008533\" id=\"p_eoUev\">\u201cHabía visto una visión; yo lo sabía, y sabía que Dios lo sabía; y no podía negarlo\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008576\" id=\"p_uyAEm\">\u201cNunca les dije que era perfecto; pero no hay error en las revelaciones que he enseñado\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008619\" id=\"p_rhPAC\">\u201cLos principios fundamentales de nuestra religión son el testimonio de los apóstoles y de los profetas concernientes a Jesucristo: que murió, fue sepultado, se levantó al tercer día y ascendió a los cielos; y todas las otras cosas que pertenecen a nuestra religión son únicamente apéndices de eso\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008660\" id=\"p_lo4eY\">Lo que se dijo de Juan el Bautista también podría decirse de José Smith: \u201cHubo un hombre enviado por Dios, que se llamaba [José] [\u2026]. No era él la luz, sino que vino para dar testimonio de la luz\u201d, \u201ca fin de que todos creyesen por medio de él\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008701\" id=\"p_uPUeb\">Creo, creo y estoy seguro de que Jesús es el Cristo, el Hijo del Dios viviente. Testifico que el Dios viviente es nuestro Padre amoroso. Lo sé porque la voz del Señor me lo ha dicho, al igual que la voz de Sus siervos, los apóstoles y profetas, incluyendo a José Smith y comenzando por él.<\/p>\n<p data-aid=\"163008742\" id=\"p_xnJ62\">Testifico que José Smith fue y es un profeta de Dios, un testigo y siervo del Señor Jesucristo. Él fue \u201cbendecido para abrir la última dispensación\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> y nosotros somos bendecidos de que lo hiciera.<\/p>\n<p data-aid=\"163008782\" id=\"p_p2nD2\">El Señor mandó a Oliver y a todos nosotros: \u201cApoya fielmente a mi siervo José\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. Testifico que el Señor apoya a Su siervo José y la Restauración llevada a cabo por medio de él.<\/p>\n<p data-aid=\"163008820\" id=\"p_sKBUa\">José Smith es ahora parte de ese sacerdocio celestial del cual él habló. Tal como se lo prometió a su amigo, él no está lejos de nosotros y, del otro lado del velo, todavía está trabajando con nosotros y con un poder mucho mayor para llevar adelante este reino. Con gozo y acción de gracias, elevo mi voz en loor al hombre que estuvo en comunión con Jehová<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Y, sobre todo, ¡loor a Jehová que estuvo en comunión con ese hombre! En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163008859\" id=\"p_qXcu9\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163008898\" id=\"p_j5NkS\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, pág. 52.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163008937\" id=\"p_tOTMU\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19\">José Smith\u2014Historia 1:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163008976\" id=\"p_muCnR\">José Smith, en <a href=\"https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/3\">History<\/a>, alrededor del verano de 1832, pág. 3, josephsmithpapers.org.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163009015\" id=\"p_lhgkH\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p26#p26\">José Smith\u2014Historia 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163009055\" id=\"p_oYWde\">Steven Harper, en Spencer W. McBride, presentador, <cite>The Fist Vision: A Joseph Smith Papers Project<\/cite>, pódcast, episodio 6, \u201c<a href=\"https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-6-transcript\">I Had Seen a Vision<\/a>\u201d, Joseph Smith Papers Project, 16 de mayo de 2024, ChurchofJesusChrist.org.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163009093\" id=\"p_njK4Q\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28-p29#p28\">José Smith\u2014Historia 1:28\u201329<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163009130\" id=\"p_wOfrj\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 110:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163009167\" id=\"p_fAfCa\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4?lang=spa&amp;id=p16#p16\">Hebreos 4:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163009226\" id=\"p_hsC4R\"><cite>Lectures on Faith<\/cite>, 1985, pág. 42.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163009256\" id=\"p_mmjDd\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p17#p17\">Juan 3:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p3-p11#p3\">8:3\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163009293\" id=\"p_yGNyI\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3?lang=spa&amp;id=p21#p21\">Hechos 3:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163009327\" id=\"p_lNr40\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163009361\" id=\"p_rBQ2x\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163009396\" id=\"p_swJeM\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 19:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163009430\" id=\"p_vpEQz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23\">2 Nefi 25:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163009465\" id=\"p_oNFlp\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p8#p8\">Mosíah 4:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13%2C23-p24#p13\">Alma 42:13, 23\u201324<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163009495\" id=\"p_szjff\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163009529\" id=\"p_tK8Nx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124?lang=spa&amp;id=p39#p39\">Doctrina y Convenios 124:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163009564\" id=\"p_qZymP\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 109:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7-p8#p7\">110:7\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163009599\" id=\"p_lctbV\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 43:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">109:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163009634\" id=\"p_tIw8g\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p25#p25\">Enseñanzas: José Smith<\/a><\/cite>, págs. 547\u2013548.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163009668\" id=\"p_gu27h\">José Smith, en Carta de Benjamin F. Johnson a George S. Gibbs, alrededor de 1903, Biblioteca de Historia de la Iglesia, Salt Lake City.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"163009711\" id=\"p_psDl4\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"163009744\" id=\"p_aQSj2\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-45?lang=spa&amp;id=p19#p19\">Enseñanzas: José Smith<\/a><\/cite>, pág. 555.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"163009781\" id=\"p_zF3pA\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas: José Smith<\/a><\/cite>, págs. 51\u201352.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"163009814\" id=\"p_m0hRY\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p6%2C8%2C7#p6\">Juan 1:6, 8, 7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"163009848\" id=\"p_npoYK\">\u201cPraise to the Man\u201d, <cite>Hymns<\/cite>, nro. 27.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"163009882\" id=\"p_qXzyb\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 6:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"163009915\" id=\"p_mcIb6\">Véase <cite>Hymns<\/cite>, nro. 27.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163002573",
+        "id": "note4",
+        "text": "<p data-aid=\"163009015\" id=\"p_lhgkH\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p26#p26\">José Smith\u2014Historia 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p26#p26",
+          "text": "José Smith\u2014Historia 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163002619",
+        "id": "note5",
+        "text": "<p data-aid=\"163009055\" id=\"p_oYWde\">Steven Harper, en Spencer W. McBride, presentador, <cite>The Fist Vision: A Joseph Smith Papers Project<\/cite>, pódcast, episodio 6, \u201c<a href=\"https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-6-transcript\">I Had Seen a Vision<\/a>\u201d, Joseph Smith Papers Project, 16 de mayo de 2024, ChurchofJesusChrist.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/articles/the-first-vision-podcast-episode-6-transcript",
+          "text": "I Had Seen a Vision"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163002521",
+        "id": "note2",
+        "text": "<p data-aid=\"163008937\" id=\"p_tOTMU\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19\">José Smith\u2014Historia 1:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19",
+          "text": "José Smith\u2014Historia 1:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163002521",
+        "id": "note3",
+        "text": "<p data-aid=\"163008976\" id=\"p_muCnR\">José Smith, en <a href=\"https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/3\">History<\/a>, alrededor del verano de 1832, pág. 3, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/3",
+          "text": "History"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163002890",
+        "id": "note8",
+        "text": "<p data-aid=\"163009167\" id=\"p_fAfCa\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/4?lang=spa&amp;id=p16#p16\">Hebreos 4:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/4?lang=spa&amp;id=p16#p16",
+          "text": "Hebreos 4:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163002890",
+        "id": "note9",
+        "text": "<p data-aid=\"163009226\" id=\"p_hsC4R\"><cite>Lectures on Faith<\/cite>, 1985, pág. 42.<\/p>"
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163002756",
+        "id": "note6",
+        "text": "<p data-aid=\"163009093\" id=\"p_njK4Q\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28-p29#p28\">José Smith\u2014Historia 1:28\u201329<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28-p29#p28",
+          "text": "José Smith\u2014Historia 1:28\u201329",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163002799",
+        "id": "note7",
+        "text": "<p data-aid=\"163009130\" id=\"p_wOfrj\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 110:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5",
+          "text": "Doctrina y Convenios 110:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163003190",
+        "id": "note16",
+        "text": "<p data-aid=\"163009465\" id=\"p_oNFlp\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p8#p8\">Mosíah 4:8<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13%2C23-p24#p13\">Alma 42:13, 23\u201324<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p8#p8",
+            "text": "Mosíah 4:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p13%2C23-p24#p13",
+            "text": "Alma 42:13, 23\u201324",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163003146",
+        "id": "note15",
+        "text": "<p data-aid=\"163009430\" id=\"p_vpEQz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23\">2 Nefi 25:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23",
+          "text": "2 Nefi 25:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163003102",
+        "id": "note14",
+        "text": "<p data-aid=\"163009396\" id=\"p_swJeM\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 19:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p18#p18",
+          "text": "Doctrina y Convenios 19:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163003064",
+        "id": "note13",
+        "text": "<p data-aid=\"163009361\" id=\"p_rBQ2x\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11",
+          "text": "Alma 7:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163003022",
+        "id": "note12",
+        "text": "<p data-aid=\"163009327\" id=\"p_lNr40\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22",
+          "text": "Doctrina y Convenios 130:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163002978",
+        "id": "note11",
+        "text": "<p data-aid=\"163009293\" id=\"p_yGNyI\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3?lang=spa&amp;id=p21#p21\">Hechos 3:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/3?lang=spa&amp;id=p21#p21",
+          "text": "Hechos 3:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163002890",
+        "id": "note10",
+        "text": "<p data-aid=\"163009256\" id=\"p_mmjDd\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p17#p17\">Juan 3:17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p3-p11#p3\">8:3\u201311<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/3?lang=spa&amp;id=p17#p17",
+            "text": "Juan 3:17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/8?lang=spa&amp;id=p3-p11#p3",
+            "text": "8:3\u201311",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163003277",
+        "id": "note19",
+        "text": "<p data-aid=\"163009564\" id=\"p_qZymP\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 109:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7-p8#p7\">110:7\u20138<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p5#p5",
+            "text": "Doctrina y Convenios 109:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7-p8#p7",
+            "text": "110:7\u20138",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163003277",
+        "id": "note18",
+        "text": "<p data-aid=\"163009529\" id=\"p_tK8Nx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/124?lang=spa&amp;id=p39#p39\">Doctrina y Convenios 124:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/124?lang=spa&amp;id=p39#p39",
+          "text": "Doctrina y Convenios 124:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163003234",
+        "id": "note17",
+        "text": "<p data-aid=\"163009495\" id=\"p_szjff\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2\">Mosíah 5:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/5?lang=spa&amp;id=p2#p2",
+          "text": "Mosíah 5:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "163008742",
+        "id": "note27",
+        "text": "<p data-aid=\"163009848\" id=\"p_npoYK\">\u201cPraise to the Man\u201d, <cite>Hymns<\/cite>, nro. 27.<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "163008660",
+        "id": "note26",
+        "text": "<p data-aid=\"163009814\" id=\"p_m0hRY\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p6%2C8%2C7#p6\">Juan 1:6, 8, 7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/1?lang=spa&amp;id=p6%2C8%2C7#p6",
+          "text": "Juan 1:6, 8, 7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "163008619",
+        "id": "note25",
+        "text": "<p data-aid=\"163009781\" id=\"p_zF3pA\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas: José Smith<\/a><\/cite>, págs. 51\u201352.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "163008576",
+        "id": "note24",
+        "text": "<p data-aid=\"163009744\" id=\"p_aQSj2\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-45?lang=spa&amp;id=p19#p19\">Enseñanzas: José Smith<\/a><\/cite>, pág. 555.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-45?lang=spa&amp;id=p19#p19",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "163008533",
+        "id": "note23",
+        "text": "<p data-aid=\"163009711\" id=\"p_psDl4\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25",
+          "text": "José Smith\u2014Historia 1:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163008447",
+        "id": "note22",
+        "text": "<p data-aid=\"163009668\" id=\"p_gu27h\">José Smith, en Carta de Benjamin F. Johnson a George S. Gibbs, alrededor de 1903, Biblioteca de Historia de la Iglesia, Salt Lake City.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163008404",
+        "id": "note21",
+        "text": "<p data-aid=\"163009634\" id=\"p_tIw8g\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p25#p25\">Enseñanzas: José Smith<\/a><\/cite>, págs. 547\u2013548.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p25#p25",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163003277",
+        "id": "note20",
+        "text": "<p data-aid=\"163009599\" id=\"p_lctbV\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/43?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 43:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22\">109:22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/43?lang=spa&amp;id=p16#p16",
+            "text": "Doctrina y Convenios 43:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p22#p22",
+            "text": "109:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163002390",
+        "id": "note1",
+        "text": "<p data-aid=\"163008898\" id=\"p_j5NkS\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, pág. 52.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "163008820",
+        "id": "note29",
+        "text": "<p data-aid=\"163009915\" id=\"p_mcIb6\">Véase <cite>Hymns<\/cite>, nro. 27.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "163008782",
+        "id": "note28",
+        "text": "<p data-aid=\"163009882\" id=\"p_qXzyb\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 6:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p18#p18",
+          "text": "Doctrina y Convenios 6:18",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

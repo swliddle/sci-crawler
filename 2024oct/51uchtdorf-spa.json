@@ -1,0 +1,621 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/51uchtdorf?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "27db23fb888d4b1686dd045c478bbf27",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/51uchtdorf",
+      "data-aid": "162705284",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "6",
+      "data-orig-id": "22cf621e980c4a11b0c6ba0a5042fdd1"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/0076db9080fe11ef8bff02d0ea859845f92a25b5-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Nutran las raíces, y las ramas crecerán",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162705284",
+      {"key": "162705284"}
+    ],
+    [
+      "163002434",
+      {"key": "163002434"}
+    ],
+    [
+      "163002475",
+      {"key": "163002475"}
+    ],
+    [
+      "163002520",
+      {"key": "163002520"}
+    ],
+    [
+      "163002568",
+      {"key": "163002568"}
+    ],
+    [
+      "163002613",
+      {"key": "163002613"}
+    ],
+    [
+      "163002659",
+      {"key": "163002659"}
+    ],
+    [
+      "163002705",
+      {"key": "163002705"}
+    ],
+    [
+      "163002749",
+      {"key": "163002749"}
+    ],
+    [
+      "163002798",
+      {"key": "163002798"}
+    ],
+    [
+      "163002844",
+      {"key": "163002844"}
+    ],
+    [
+      "163002889",
+      {"key": "163002889"}
+    ],
+    [
+      "163002933",
+      {"key": "163002933"}
+    ],
+    [
+      "163002980",
+      {"key": "163002980"}
+    ],
+    [
+      "163003026",
+      {"key": "163003026"}
+    ],
+    [
+      "163003068",
+      {"key": "163003068"}
+    ],
+    [
+      "163003112",
+      {"key": "163003112"}
+    ],
+    [
+      "163003156",
+      {"key": "163003156"}
+    ],
+    [
+      "163003200",
+      {"key": "163003200"}
+    ],
+    [
+      "163003244",
+      {"key": "163003244"}
+    ],
+    [
+      "163003287",
+      {"key": "163003287"}
+    ],
+    [
+      "163003330",
+      {"key": "163003330"}
+    ],
+    [
+      "163003371",
+      {"key": "163003371"}
+    ],
+    [
+      "163008414",
+      {"key": "163008414"}
+    ],
+    [
+      "163008457",
+      {"key": "163008457"}
+    ],
+    [
+      "163008500",
+      {"key": "163008500"}
+    ],
+    [
+      "163008543",
+      {"key": "163008543"}
+    ],
+    [
+      "163008586",
+      {"key": "163008586"}
+    ],
+    [
+      "163008629",
+      {"key": "163008629"}
+    ],
+    [
+      "163008670",
+      {"key": "163008670"}
+    ],
+    [
+      "163008711",
+      {"key": "163008711"}
+    ],
+    [
+      "163008752",
+      {"key": "163008752"}
+    ],
+    [
+      "163008792",
+      {"key": "163008792"}
+    ],
+    [
+      "163008831",
+      {"key": "163008831"}
+    ],
+    [
+      "163008870",
+      {"key": "163008870"}
+    ],
+    [
+      "163008909",
+      {"key": "163008909"}
+    ],
+    [
+      "163008948",
+      {"key": "163008948"}
+    ],
+    [
+      "163008987",
+      {"key": "163008987"}
+    ],
+    [
+      "163009026",
+      {"key": "163009026"}
+    ],
+    [
+      "163009065",
+      {"key": "163009065"}
+    ],
+    [
+      "163009103",
+      {"key": "163009103"}
+    ],
+    [
+      "163009140",
+      {"key": "163009140"}
+    ],
+    [
+      "163009177",
+      {"key": "163009177"}
+    ],
+    [
+      "163009223",
+      {"key": "163009223"}
+    ],
+    [
+      "163009266",
+      {"key": "163009266"}
+    ],
+    [
+      "163009301",
+      {"key": "163009301"}
+    ],
+    [
+      "163009336",
+      {"key": "163009336"}
+    ],
+    [
+      "163009371",
+      {"key": "163009371"}
+    ],
+    [
+      "163009405",
+      {"key": "163009405"}
+    ],
+    [
+      "163009439",
+      {"key": "163009439"}
+    ],
+    [
+      "163009473",
+      {"key": "163009473"}
+    ],
+    [
+      "163009508",
+      {"key": "163009508"}
+    ],
+    [
+      "163009542",
+      {"key": "163009542"}
+    ],
+    [
+      "163009577",
+      {"key": "163009577"}
+    ],
+    [
+      "163009612",
+      {"key": "163009612"}
+    ],
+    [
+      "163009646",
+      {"key": "163009646"}
+    ],
+    [
+      "163009681",
+      {"key": "163009681"}
+    ],
+    [
+      "163009739",
+      {"key": "163009739"}
+    ],
+    [
+      "163009774",
+      {"key": "163009774"}
+    ],
+    [
+      "163009808",
+      {"key": "163009808"}
+    ],
+    [
+      "163009842",
+      {"key": "163009842"}
+    ],
+    [
+      "163009876",
+      {"key": "163009876"}
+    ],
+    [
+      "163009908",
+      {"key": "163009908"}
+    ],
+    [
+      "163009942",
+      {"key": "163009942"}
+    ],
+    [
+      "163009977",
+      {"key": "163009977"}
+    ],
+    [
+      "163010011",
+      {"key": "163010011"}
+    ],
+    [
+      "163010044",
+      {"key": "163010044"}
+    ],
+    [
+      "163010077",
+      {"key": "163010077"}
+    ],
+    [
+      "163010110",
+      {"key": "163010110"}
+    ],
+    [
+      "163010142",
+      {"key": "163010142"}
+    ],
+    [
+      "163010175",
+      {"key": "163010175"}
+    ],
+    [
+      "163010185",
+      {"key": "163010185"}
+    ],
+    [
+      "163010203",
+      {"key": "163010203"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/51uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Uchtdorf enseña que las ramas de nuestro testimonio crecerán a medida que nutramos las raíces: la fe en nuestro Padre Celestial y en Jesucristo.",
+          "title": "Nutran las raíces, y las ramas crecerán"
+        },
+        "pageSocial": {
+          "description": "El élder Uchtdorf enseña que las ramas de nuestro testimonio crecerán a medida que nutramos las raíces: la fe en nuestro Padre Celestial y en Jesucristo.",
+          "title": "Nutran las raíces, y las ramas crecerán"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!192%2C/0/default\" data-video-id=\"6362919229112\" data-duration=\"871533\" data-assetId=\"7ba0db8b7f6b11ef9c8c0626c361eb55438de99c\" data-ref-id=\"7ba0db8b7f6b11ef9c8c0626c361eb55438de99c\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362919229112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276052956\"/><source src=\"https://assets.churchofjesuschrist.org/7ba0db8b7f6b11ef9c8c0626c361eb55438de99c-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"59973589\"/><source src=\"https://assets.churchofjesuschrist.org/7ba0db8b7f6b11ef9c8c0626c361eb55438de99c-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"100092675\"/><source src=\"https://assets.churchofjesuschrist.org/7ba0db8b7f6b11ef9c8c0626c361eb55438de99c-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276052956\"/><\/video><h1 data-aid=\"163002434\" id=\"p_zPhVb\">Nutran las raíces, y las ramas crecerán<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"163002475\" id=\"p_oN6k7\">Por el élder Dieter F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"163002520\" id=\"p_lKvke\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"163002568\" id=\"p_xbsdV\">Las ramas de su testimonio se fortalecerán a medida que se haga más profunda su fe en el Padre Celestial y en Su Hijo Amado.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_i9yfX\">\n<header>\n<h2 data-aid=\"163002613\" id=\"p_c64GH\">Una antigua capilla en Zwickau<\/h2>\n<\/header>\n<p data-aid=\"163002659\" id=\"p_es9x8\">El año 2024 representa un hito para mí en cierto modo, ya que hace setenta y cinco años fui bautizado y confirmado miembro de La Iglesia de Jesucristo de los Santos de los Últimos Días en Zwickau, Alemania<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002705\" id=\"p_rns86\">Mi condición de miembro de la Iglesia de Jesucristo es algo muy valioso para mí. Ser contado entre los del pueblo del convenio de Dios junto con ustedes, mis hermanos y hermanas, es uno de los mayores honores de mi vida.<\/p>\n<p data-aid=\"163002749\" id=\"p_aUI7P\">Cuando pienso en mi trayecto personal de discipulado, a menudo recuerdo una antigua casa en Zwickau que me trae preciados recuerdos de la época en que, de niño, asistía allí a las reuniones sacramentales de la Iglesia de Jesucristo. Fue allí donde la plántula de mi testimonio recibió sus primeros alimentos<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163002798\" id=\"p_omJEW\">Esa capilla tenía un órgano neumático y, cada domingo, se asignaba a un joven para que subiera y bajara la robusta palanca que accionaba el fuelle para hacer funcionar el órgano. Algunas veces tuve el gran privilegio de ayudar en aquella importante tarea.<\/p>\n<p data-aid=\"163002844\" id=\"p_kic42\">Mientras la congregación cantaba nuestros amados himnos, yo bombeaba con todas mis fuerzas para que el órgano no se quedara sin aire. Desde el asiento del operador del fuelle, tenía una vista extraordinaria de unos vitrales imponentes, uno de los cuales representaba al Salvador Jesucristo, y el otro a José Smith en la Arboleda Sagrada.<\/p>\n<p data-aid=\"163002889\" id=\"p_uJi7H\">Todavía recuerdo los sentimientos sagrados que me embargaban cuando miraba esas ventanas iluminadas por el sol mientras escuchaba los testimonios de los santos y cantaba los himnos de Sion.<\/p>\n<p data-aid=\"163002933\" id=\"p_tVzl1\">En ese lugar santo, el Espíritu de Dios dio testimonio a mi mente y a mi corazón de que aquello era verdad: Jesucristo es el Salvador del mundo. Esta es Su Iglesia. El profeta José Smith vio a Dios el Padre y a Jesucristo y escuchó Sus voces.<\/p>\n<p data-aid=\"163002980\" id=\"p_tWQnr\">A principios de este año, mientras llevaba a cabo una asignación en Europa, tuve la oportunidad de regresar a Zwickau. Lamentablemente, esa antigua capilla tan querida para mí ya no existe. La derribaron hace muchos años para edificar un enorme edificio de apartamentos.<\/p>\n<\/section>\n<section id=\"sec_rM6T0\">\n<header>\n<h2 data-aid=\"163003026\" id=\"p_eKx84\">¿Qué es eterno y qué no lo es?<\/h2>\n<\/header>\n<p data-aid=\"163003068\" id=\"p_twS6J\">Admito que es triste saber que aquel amado edificio de mi infancia ahora es solo un recuerdo. Para mí era un edificio sagrado, pero era solo un edificio.<\/p>\n<p data-aid=\"163003112\" id=\"p_zSrp3\">Por el contrario, el testimonio espiritual que obtuve del Espíritu Santo hace tantos años no ha dejado de existir; de hecho, se ha hecho más fuerte. Las cosas que aprendí en mi juventud acerca de los principios fundamentales del Evangelio de Jesucristo han sido un cimiento firme a lo largo de mi vida. La conexión por convenio que forjé con mi Padre Celestial y con Su Hijo Amado ha permanecido conmigo, mucho tiempo después de que la capilla de Zwickau fuera derruida y aquellos vitrales desaparecieran.<\/p>\n<p data-aid=\"163003156\" id=\"p_adL6P\">\u201cEl cielo y la tierra pasarán\u201d, dijo Jesús, \u201cpero mis palabras no pasarán\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163003200\" id=\"p_lckvi\">\u201cPorque los montes se moverán y los collados serán quitados, mas no se quitará de ti mi bondad, ni el convenio de mi paz se romperá, dice Jehová\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163003244\" id=\"p_lpY6a\">Una de las cosas más importantes que podemos aprender en esta vida es la diferencia entre lo que es eterno y lo que no lo es<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. Una vez que entendemos eso, todo cambia: nuestras relaciones, las decisiones que tomamos y el modo en que tratamos a los demás.<\/p>\n<p data-aid=\"163003287\" id=\"p_qrNt1\">El saber lo que es eterno \u2014y lo que no lo es\u2014 es fundamental para cultivar un testimonio de Jesucristo y Su Iglesia.<\/p>\n<\/section>\n<section id=\"sec_xh6Mo\">\n<header>\n<h2 data-aid=\"163003330\" id=\"p_rKQRz\">No confundan las ramas con las raíces<\/h2>\n<\/header>\n<p data-aid=\"163003371\" id=\"p_kLJnn\">El Evangelio restaurado de Jesucristo, tal como enseñó el profeta José Smith, \u201cabarca toda verdad\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>, pero eso no significa que todas las verdades tengan el mismo valor. Algunas verdades son el núcleo, la esencia y la raíz de nuestra fe; otras son apéndices o ramas: valiosas, pero solo cuando están unidas a los fundamentos.<\/p>\n<p data-aid=\"163008414\" id=\"p_yaLIK\">El profeta José también dijo: \u201cLos principios fundamentales de nuestra religión son el testimonio de los apóstoles y de los profetas concernientes a Jesucristo: que murió, fue sepultado, se levantó al tercer día y ascendió a los cielos; y todas las otras cosas que pertenecen a nuestra religión son únicamente apéndices de eso\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008457\" id=\"p_fLFYI\">En otras palabras, Jesucristo y Su sacrificio expiatorio son la raíz de nuestro testimonio, y todo lo demás son ramas.<\/p>\n<p data-aid=\"163008500\" id=\"p_xI4d0\">Eso no quiere decir que las ramas no sean importantes. Un árbol necesita ramas, pero, como el Salvador dijo a Sus discípulos, \u201cel pámpano no puede llevar fruto por sí mismo si no permanece en la vid\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. Sin una conexión al Salvador, al alimento que se encuentra en las raíces, la rama se marchita y muere.<\/p>\n<p data-aid=\"163008543\" id=\"p_joNBS\">Cuando hablamos de nutrir nuestro testimonio de Jesucristo, me pregunto si, en ocasiones, confundimos las ramas con las raíces. Ese fue el error que Jesús observó en los fariseos de Su época. Ellos prestaban tanta atención a los detalles relativamente menores de la ley que acabaron descuidando lo que el Salvador llamó \u201clo más importante\u201d: principios fundamentales como \u201cla justicia, y la misericordia y la fe\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008586\" id=\"p_k19wP\">Si ustedes desean nutrir un árbol, no rocían las ramas con agua, sino que riegan las raíces. De manera similar, si desean que las ramas de su testimonio crezcan y den fruto, nutran las raíces. Si tienen dudas en cuanto a una doctrina, una práctica o un aspecto de la historia de la Iglesia en particular, busquen claridad con fe en Jesucristo. Procuren entender el sacrificio que Él hizo por ustedes, Su amor por ustedes y Su voluntad para con ustedes. Síganlo con humildad. Las ramas de su testimonio se fortalecerán a medida que se haga más profunda su fe en el Padre Celestial y en Su Hijo Amado.<\/p>\n<p data-aid=\"163008629\" id=\"p_heNHh\">Por ejemplo, si desean un testimonio más fuerte del Libro de Mormón, céntrense en el testimonio que da de Jesucristo. Fíjense en cómo el Libro de Mormón testifica de Él, lo que enseña acerca de Él y cómo los invita y los inspira a venir a Él<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008670\" id=\"p_lyrAo\">Si desean tener una experiencia más significativa en las reuniones de la Iglesia o en el templo, traten de buscar al Salvador en las ordenanzas sagradas que recibimos allí<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Busquen al Señor en Su santa casa.<\/p>\n<p data-aid=\"163008711\" id=\"p_uyWEG\">Si alguna vez se sienten agotados o abrumados por sus llamamientos en la Iglesia, traten de reorientar su servicio a Jesucristo. Hagan de ese servicio una expresión de su amor por Él<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163008752\" id=\"p_prJwq\">Nutran las raíces, y las ramas crecerán y, con el tiempo, darán fruto.<\/p>\n<\/section>\n<section id=\"sec_ef9gO\">\n<header>\n<h2 data-aid=\"163008792\" id=\"p_z8PNj\">Arraigados y sobreedificados en Él<\/h2>\n<\/header>\n<p data-aid=\"163008831\" id=\"p_gJx5N\">Una fe firme en Jesucristo no sucede de la noche a la mañana. No, en este mundo terrenal, los que crecen espontáneamente son los espinos y los cardos de la duda<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. El árbol saludable y fructífero de la fe requiere un esfuerzo intencional<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>, y una parte esencial de ese esfuerzo consiste en asegurarse de estar arraigados firmemente en Cristo.<\/p>\n<p data-aid=\"163008870\" id=\"p_slmUH\">Por ejemplo, al principio quizá nos sintamos atraídos hacia el Evangelio del Salvador y la Iglesia porque nos impresione la amabilidad de los miembros, la bondad del obispo o la limpieza de la capilla. Esas cosas ciertamente son importantes para que la Iglesia crezca.<\/p>\n<p data-aid=\"163008909\" id=\"p_rr6FO\">No obstante, si las raíces de nuestro testimonio nunca llegan a ser más profundas que esos aspectos, ¿qué sucederá cuando nos mudemos a un barrio que se reúna en un edificio menos impactante, con miembros que no sean tan cordiales y el obispo diga algo que nos ofenda?<\/p>\n<p data-aid=\"163008948\" id=\"p_gjx1u\">Otro ejemplo: ¿no parece razonable esperar que, si guardamos los mandamientos y somos sellados en el templo, seamos bendecidos con una familia grande y feliz, con hijos brillantes y obedientes, y que todos ellos permanezcan activos en la Iglesia, sirvan en misiones, canten en el coro del barrio y acudan voluntariamente a limpiar el centro de reuniones cada sábado por la mañana?<\/p>\n<p data-aid=\"163008987\" id=\"p_ovy15\">Realmente espero que todos veamos esto en nuestras vidas, pero ¿y si no ocurre? ¿Permaneceremos unidos al Salvador sean cuales sean las circunstancias, confiando en Él y en Su tiempo?<\/p>\n<p data-aid=\"163009026\" id=\"p_iGvxl\">Debemos preguntarnos: ¿Se basa mi testimonio en lo que espero que suceda en mi vida? ¿Depende de las acciones o de las actitudes de otras personas? ¿O está fundado firmemente en Jesucristo, \u201carraigado y sobreedificado en él\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>, sean cuales sean las circunstancias cambiantes de la vida?<\/p>\n<\/section>\n<section id=\"sec_w17zJ\">\n<header>\n<h2 data-aid=\"163009065\" id=\"p_r53qY\">Tradiciones, hábitos y fe<\/h2>\n<\/header>\n<p data-aid=\"163009103\" id=\"p_diwks\">El Libro de Mormón narra la historia de un pueblo que \u201cobedecía estrictamente las ordenanzas de Dios\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Pero entonces, un escéptico llamado Korihor vino entre ellos, burlándose del Evangelio del Salvador y calificándolo de \u201clocuras\u201d y de \u201cinsensatas tradiciones de [su]s padres\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Korihor \u201cdesvi[ó] el corazón de muchos, haciéndoles erguir sus cabezas en su iniquidad\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>, pero hubo otros a quienes no pudo engañar porque, para ellos, el Evangelio de Jesucristo era mucho más que una tradición<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163009140\" id=\"p_vWJFk\">La fe es firme cuando está arraigada profundamente en la experiencia personal, en un compromiso personal con Jesucristo, al margen de nuestras tradiciones o de lo que otras personas puedan decir o hacer.<\/p>\n<p data-aid=\"163009177\" id=\"p_abrPn\">Nuestro testimonio será puesto a prueba. La fe no es fe si nunca se pone a prueba; la fe no es firme si nunca afronta oposición, así que no se desesperen si tienen pruebas de fe o preguntas sin respuesta.<\/p>\n<p data-aid=\"163009223\" id=\"p_ppIHQ\">No debemos esperar entenderlo todo antes de actuar, eso no es fe. Tal como enseñó Alma: \u201cLa fe no es tener un conocimiento perfecto de las cosas\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. Si esperamos a que todas nuestras preguntas reciban respuesta antes de actuar, estamos limitando seriamente el bien que podríamos lograr y limitamos el poder de nuestra fe.<\/p>\n<p data-aid=\"163009266\" id=\"p_joWXk\">La fe es hermosa porque persiste aunque las bendiciones no lleguen como las esperábamos. No podemos ver el futuro y no conocemos todas las respuestas, pero podemos confiar en Jesucristo a medida que seguimos avanzando hacia adelante y hacia arriba, porque Él es nuestro Salvador y Redentor.<\/p>\n<p data-aid=\"163009301\" id=\"p_qe6ma\">La fe soporta las pruebas e incertidumbres de la vida porque está arraigada firmemente en Cristo y en Su doctrina. Jesucristo, y nuestro Padre Celestial, quien lo envió, juntos constituyen el objeto perfectamente fiable y siempre constante de nuestra confianza<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163009336\" id=\"p_ec39r\">Un testimonio no es algo que se edifica una vez y permanece para siempre; se parece más a un árbol que recibe alimento constante. Plantar la palabra de Dios en el corazón es solamente el primer paso. ¡Cuando el testimonio comienza a crecer es cuando comienza el trabajo de verdad! Es entonces cuando se ha de \u201cnutr[ir] con gran cuidado para que eche raíz, crezca y nos produzca fruto\u201d. Eso requiere \u201cgran diligencia\u201d y \u201cpaciencia al nutrir la palabra\u201d, pero las promesas del Señor son seguras: \u201cSegaréis el galardón de vuestra fe, y vuestra diligencia, y paciencia, y longanimidad, esperando que el árbol os dé fruto\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163009371\" id=\"p_kKVW3\">Mis queridos hermanos y hermanas, mis queridos amigos, una parte de mí extraña la antigua capilla de Zwickau y sus vitrales, pero durante los últimos setenta y cinco años, Jesucristo me ha guiado por un trayecto vital que es más emocionante de lo que jamás podría haber imaginado. Él me ha consolado en mis aflicciones, me ha ayudado a reconocer mis debilidades, ha sanado mis heridas espirituales y me ha nutrido en mi creciente fe.<\/p>\n<p data-aid=\"163009405\" id=\"p_i0U8n\">Es mi sincero ruego y mi bendición que constantemente nutramos las raíces de nuestra fe en el Salvador, en Su doctrina y en Su Iglesia. De ello testifico en el sagrado nombre de nuestro Salvador, nuestro Redentor, nuestro Maestro; en el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163009439\" id=\"p_wrUd0\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163009473\" id=\"p_mSAeM\">En el año 2024 también se cumplen treinta años desde que fui llamado como Autoridad General y veinticinco años desde que nuestra familia se tuvo que mudar de Alemania a los Estados Unidos como consecuencia de ese llamamiento. Y hace casi exactamente veinte años, el 2 de octubre de 2004, fui sostenido como miembro del Cuórum de los Doce Apóstoles y testigo especial \u201cdel nombre de Cristo en todo el mundo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 107:23<\/a>).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163009508\" id=\"p_hjKEk\">En cierto modo, mis sentimientos por ese edificio son como los del pueblo de Alma por las aguas de Mormón, que para ellos eran un lugar hermoso porque \u201callí llegaron al conocimiento de su Redentor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30\">Mosíah 18:30<\/a>).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163009542\" id=\"p_eL27c\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p35#p35\">José Smith\u2014Mateo 1:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163009577\" id=\"p_i9ofl\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10\">Isaías 54:10<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p10#p10\">3 Nefi 22:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163009612\" id=\"p_liTnA\">El presidente Thomas S. Monson enseñó esta misma verdad con estas palabras: \u201cCreo que entre las grandes lecciones que debemos aprender en nuestro corto viaje por la tierra se encuentran las lecciones que nos ayudan a distinguir entre lo que es importante y lo que no lo es. Les suplico que no dejen pasar esas cosas tan importantes\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p9#p9\">Encontrar gozo en el trayecto<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2008, pág. 85). De manera similar, cuando recientemente nos instó a pensar \u201cde manera celestial\u201d, el presidente Russell M. Nelson dijo: \u201cLa vida terrenal es una clase magistral sobre cómo aprender a elegir las cosas de mayor importancia eterna\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8#p8\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, pág. 118).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163009646\" id=\"p_vW8lC\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-22?lang=spa&amp;id=p8#p8\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, pág. 278; véase también <a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-2?lang=spa&amp;id=title4#title4\"><cite>Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/cite><\/a>, 1997, págs. 17\u201319.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163009681\" id=\"p_j31ZX\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas: José Smith<\/a><\/cite>, págs. 51\u201352.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163009739\" id=\"p_fA330\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p4#p4\">Juan 15:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163009774\" id=\"p_vlpGK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=spa&amp;id=p23#p23\">Mateo 23:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163009808\" id=\"p_krfMv\">¿Es interesante reconocer las similitudes arqueológicas entre las antiguas culturas del continente americano y los pueblos del Libro de Mormón? Puede que sí. ¿Es útil conocer, a partir de los relatos de los escribientes y de otras personas, los detalles del modo en que José Smith tradujo el Libro de Mormón? Para algunos sí lo es. Pero nada de esto constituye un testimonio duradero de que el Libro de Mormón es la palabra de Dios. Para ello, necesitan encontrar al Salvador en el Libro de Mormón, escuchar Su voz hablándoles a ustedes. Una vez que eso suceda, no les importará dónde se encuentre realmente la ubicación de la antigua ciudad de Zarahemla o qué aspecto tenían el Urim y Tumim. Esas son ramas que, si fuera necesario, podrían podarse del árbol y este seguiría intacto.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163009842\" id=\"p_vCIUH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p20#p19\">Doctrina y Convenios 84:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163009876\" id=\"p_m6CFw\">Véase Joy D. Jones, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/for-him?lang=spa\">Por Él<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 50\u201352.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163009908\" id=\"p_bQvTf\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/3?lang=spa&amp;id=p18#p18\">Génesis 3:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163009942\" id=\"p_rT5LR\">El presidente Nelson ha invitado a todos a \u201chacerse cargo de su propio testimonio de Jesucristo y Su Evangelio. Trabajen para conseguirlo; nútranlo de manera que crezca\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 98).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163009977\" id=\"p_eKCub\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7\">Colosenses 2:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163010011\" id=\"p_tZGqe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p3#p3\">Alma 30:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163010044\" id=\"p_noXQt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p12-p16%2C31#p12\">Alma 30:12\u201316, 31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163010077\" id=\"p_cCciT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p18#p18\">Alma 30:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163010110\" id=\"p_pxeqS\">Curiosamente, los argumentos de Korihor no tuvieron ninguna capacidad de persuasión entre los lamanitas recién convertidos, el pueblo de Ammón (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p19-p20#p19\">Alma 30:19\u201320<\/a>), porque las tradiciones de sus padres no eran el motivo de que ellos siguieran a Cristo.<\/p>\n<p data-aid=\"163010142\" id=\"p_fxRH0\">Por el contrario, el Libro de Mormón también nos habla de una generación de jóvenes que se apartaron voluntariamente de la Iglesia del Señor porque \u201cno creían en la tradición de sus padres\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p1-p4#p1\">Mosíah 26:1\u20134<\/a>). Es bueno que las familias establezcan tradiciones justas, pero es igual de importante que las familias entiendan con claridad el <em>porqué<\/em> de esas tradiciones. ¿Por qué oramos cada mañana y cada noche? ¿Por qué estudiamos las Escrituras en familia? ¿Por qué celebramos la noche de hogar cada semana y participamos en actividades familiares y proyectos de servicio, etc.? Si nuestros hijos entienden el modo en que esas tradiciones nos acercan más al Padre Celestial y a Jesucristo, será más probable que continúen con ellas, y las mejoren, en sus propias familias.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163010175\" id=\"p_zTwt8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p21#p21\">Alma 32:21<\/a>. La fe es poderosa no solo por lo que <em>sabe<\/em>, sino por lo que <em>hace<\/em>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163010185\" id=\"p_ucKQU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=spa&amp;id=p23#p23\">Hebreos 10:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163010203\" id=\"p_peWnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p37%2C41-p43#p37\">Alma 32:37, 41\u201343<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163003200",
+        "id": "note4",
+        "text": "<p data-aid=\"163009577\" id=\"p_i9ofl\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10\">Isaías 54:10<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p10#p10\">3 Nefi 22:10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/54?lang=spa&amp;id=p10#p10",
+            "text": "Isaías 54:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/22?lang=spa&amp;id=p10#p10",
+            "text": "3 Nefi 22:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163003244",
+        "id": "note5",
+        "text": "<p data-aid=\"163009612\" id=\"p_liTnA\">El presidente Thomas S. Monson enseñó esta misma verdad con estas palabras: \u201cCreo que entre las grandes lecciones que debemos aprender en nuestro corto viaje por la tierra se encuentran las lecciones que nos ayudan a distinguir entre lo que es importante y lo que no lo es. Les suplico que no dejen pasar esas cosas tan importantes\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p9#p9\">Encontrar gozo en el trayecto<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2008, pág. 85). De manera similar, cuando recientemente nos instó a pensar \u201cde manera celestial\u201d, el presidente Russell M. Nelson dijo: \u201cLa vida terrenal es una clase magistral sobre cómo aprender a elegir las cosas de mayor importancia eterna\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8#p8\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, pág. 118).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p9#p9",
+            "text": "Encontrar gozo en el trayecto",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p8#p8",
+            "text": "¡Piensen de manera celestial!",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163002749",
+        "id": "note2",
+        "text": "<p data-aid=\"163009508\" id=\"p_hjKEk\">En cierto modo, mis sentimientos por ese edificio son como los del pueblo de Alma por las aguas de Mormón, que para ellos eran un lugar hermoso porque \u201callí llegaron al conocimiento de su Redentor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30\">Mosíah 18:30<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p30#p30",
+          "text": "Mosíah 18:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163003156",
+        "id": "note3",
+        "text": "<p data-aid=\"163009542\" id=\"p_eL27c\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p35#p35\">José Smith\u2014Mateo 1:35<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35",
+            "text": "Mateo 24:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p35#p35",
+            "text": "José Smith\u2014Mateo 1:35",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163008500",
+        "id": "note8",
+        "text": "<p data-aid=\"163009739\" id=\"p_fA330\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p4#p4\">Juan 15:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15?lang=spa&amp;id=p4#p4",
+          "text": "Juan 15:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163008543",
+        "id": "note9",
+        "text": "<p data-aid=\"163009774\" id=\"p_vlpGK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=spa&amp;id=p23#p23\">Mateo 23:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/23?lang=spa&amp;id=p23#p23",
+          "text": "Mateo 23:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163003371",
+        "id": "note6",
+        "text": "<p data-aid=\"163009646\" id=\"p_vW8lC\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-22?lang=spa&amp;id=p8#p8\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a>, 2007, pág. 278; véase también <a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-2?lang=spa&amp;id=title4#title4\"><cite>Enseñanzas de los Presidentes de la Iglesia: Brigham Young<\/cite><\/a>, 1997, págs. 17\u201319.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-22?lang=spa&amp;id=p8#p8",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/teachings-brigham-young/chapter-2?lang=spa&amp;id=title4#title4",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: Brigham Young",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163008414",
+        "id": "note7",
+        "text": "<p data-aid=\"163009681\" id=\"p_j31ZX\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18\">Enseñanzas: José Smith<\/a><\/cite>, págs. 51\u201352.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-3?lang=spa&amp;id=p18#p18",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163009103",
+        "id": "note16",
+        "text": "<p data-aid=\"163010011\" id=\"p_tZGqe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p3#p3\">Alma 30:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=spa&amp;id=p3#p3",
+          "text": "Alma 30:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163009026",
+        "id": "note15",
+        "text": "<p data-aid=\"163009977\" id=\"p_eKCub\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7\">Colosenses 2:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/col/2?lang=spa&amp;id=p7#p7",
+          "text": "Colosenses 2:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163008831",
+        "id": "note14",
+        "text": "<p data-aid=\"163009942\" id=\"p_rT5LR\">El presidente Nelson ha invitado a todos a \u201chacerse cargo de su propio testimonio de Jesucristo y Su Evangelio. Trabajen para conseguirlo; nútranlo de manera que crezca\u201d (véase \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 98).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163008831",
+        "id": "note13",
+        "text": "<p data-aid=\"163009908\" id=\"p_bQvTf\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/3?lang=spa&amp;id=p18#p18\">Génesis 3:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/3?lang=spa&amp;id=p18#p18",
+          "text": "Génesis 3:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163008711",
+        "id": "note12",
+        "text": "<p data-aid=\"163009876\" id=\"p_m6CFw\">Véase Joy D. Jones, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/for-him?lang=spa\">Por Él<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, págs. 50\u201352.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/for-him?lang=spa",
+          "text": "Por Él",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163008670",
+        "id": "note11",
+        "text": "<p data-aid=\"163009842\" id=\"p_vCIUH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p20#p19\">Doctrina y Convenios 84:19\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p20#p19",
+          "text": "Doctrina y Convenios 84:19\u201320",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163009336",
+        "id": "note22",
+        "text": "<p data-aid=\"163010203\" id=\"p_peWnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p37%2C41-p43#p37\">Alma 32:37, 41\u201343<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p37%2C41-p43#p37",
+          "text": "Alma 32:37, 41\u201343",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163008629",
+        "id": "note10",
+        "text": "<p data-aid=\"163009808\" id=\"p_krfMv\">¿Es interesante reconocer las similitudes arqueológicas entre las antiguas culturas del continente americano y los pueblos del Libro de Mormón? Puede que sí. ¿Es útil conocer, a partir de los relatos de los escribientes y de otras personas, los detalles del modo en que José Smith tradujo el Libro de Mormón? Para algunos sí lo es. Pero nada de esto constituye un testimonio duradero de que el Libro de Mormón es la palabra de Dios. Para ello, necesitan encontrar al Salvador en el Libro de Mormón, escuchar Su voz hablándoles a ustedes. Una vez que eso suceda, no les importará dónde se encuentre realmente la ubicación de la antigua ciudad de Zarahemla o qué aspecto tenían el Urim y Tumim. Esas son ramas que, si fuera necesario, podrían podarse del árbol y este seguiría intacto.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163009301",
+        "id": "note21",
+        "text": "<p data-aid=\"163010185\" id=\"p_ucKQU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=spa&amp;id=p23#p23\">Hebreos 10:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/10?lang=spa&amp;id=p23#p23",
+          "text": "Hebreos 10:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163009223",
+        "id": "note20",
+        "text": "<p data-aid=\"163010175\" id=\"p_zTwt8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p21#p21\">Alma 32:21<\/a>. La fe es poderosa no solo por lo que <em>sabe<\/em>, sino por lo que <em>hace<\/em>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p21#p21",
+          "text": "Alma 32:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163002659",
+        "id": "note1",
+        "text": "<p data-aid=\"163009473\" id=\"p_mSAeM\">En el año 2024 también se cumplen treinta años desde que fui llamado como Autoridad General y veinticinco años desde que nuestra familia se tuvo que mudar de Alemania a los Estados Unidos como consecuencia de ese llamamiento. Y hace casi exactamente veinte años, el 2 de octubre de 2004, fui sostenido como miembro del Cuórum de los Doce Apóstoles y testigo especial \u201cdel nombre de Cristo en todo el mundo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 107:23<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 107:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163009103",
+        "id": "note19",
+        "text": "<p data-aid=\"163010110\" id=\"p_pxeqS\">Curiosamente, los argumentos de Korihor no tuvieron ninguna capacidad de persuasión entre los lamanitas recién convertidos, el pueblo de Ammón (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p19-p20#p19\">Alma 30:19\u201320<\/a>), porque las tradiciones de sus padres no eran el motivo de que ellos siguieran a Cristo.<\/p>\n<p data-aid=\"163010142\" id=\"p_fxRH0\">Por el contrario, el Libro de Mormón también nos habla de una generación de jóvenes que se apartaron voluntariamente de la Iglesia del Señor porque \u201cno creían en la tradición de sus padres\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p1-p4#p1\">Mosíah 26:1\u20134<\/a>). Es bueno que las familias establezcan tradiciones justas, pero es igual de importante que las familias entiendan con claridad el <em>porqué<\/em> de esas tradiciones. ¿Por qué oramos cada mañana y cada noche? ¿Por qué estudiamos las Escrituras en familia? ¿Por qué celebramos la noche de hogar cada semana y participamos en actividades familiares y proyectos de servicio, etc.? Si nuestros hijos entienden el modo en que esas tradiciones nos acercan más al Padre Celestial y a Jesucristo, será más probable que continúen con ellas, y las mejoren, en sus propias familias.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/30?lang=spa&amp;id=p19-p20#p19",
+            "text": "Alma 30:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p1-p4#p1",
+            "text": "Mosíah 26:1\u20134",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163009103",
+        "id": "note18",
+        "text": "<p data-aid=\"163010077\" id=\"p_cCciT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p18#p18\">Alma 30:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=spa&amp;id=p18#p18",
+          "text": "Alma 30:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163009103",
+        "id": "note17",
+        "text": "<p data-aid=\"163010044\" id=\"p_noXQt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=spa&amp;id=p12-p16%2C31#p12\">Alma 30:12\u201316, 31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=spa&amp;id=p12-p16%2C31#p12",
+          "text": "Alma 30:12\u201316, 31",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

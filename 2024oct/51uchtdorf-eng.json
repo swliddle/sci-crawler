@@ -1,0 +1,621 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/51uchtdorf?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "22cf621e980c4a11b0c6ba0a5042fdd1",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/51uchtdorf",
+      "data-aid": "162706098",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "4",
+      "data-orig-id": "22cf621e980c4a11b0c6ba0a5042fdd1"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/9693d395810311efae28022e7e432ed9f53a8880-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "Nourish the Roots, and the Branches Will Grow",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162706098",
+      {"key": "162706098"}
+    ],
+    [
+      "162706109",
+      {"key": "162706109"}
+    ],
+    [
+      "162706115",
+      {"key": "162706115"}
+    ],
+    [
+      "162706123",
+      {"key": "162706123"}
+    ],
+    [
+      "162706131",
+      {"key": "162706131"}
+    ],
+    [
+      "162706139",
+      {"key": "162706139"}
+    ],
+    [
+      "162706146",
+      {"key": "162706146"}
+    ],
+    [
+      "162706154",
+      {"key": "162706154"}
+    ],
+    [
+      "162706163",
+      {"key": "162706163"}
+    ],
+    [
+      "162706170",
+      {"key": "162706170"}
+    ],
+    [
+      "162706177",
+      {"key": "162706177"}
+    ],
+    [
+      "162706183",
+      {"key": "162706183"}
+    ],
+    [
+      "162706190",
+      {"key": "162706190"}
+    ],
+    [
+      "162706197",
+      {"key": "162706197"}
+    ],
+    [
+      "162706205",
+      {"key": "162706205"}
+    ],
+    [
+      "162706212",
+      {"key": "162706212"}
+    ],
+    [
+      "162706218",
+      {"key": "162706218"}
+    ],
+    [
+      "162706225",
+      {"key": "162706225"}
+    ],
+    [
+      "162706233",
+      {"key": "162706233"}
+    ],
+    [
+      "162706240",
+      {"key": "162706240"}
+    ],
+    [
+      "162706248",
+      {"key": "162706248"}
+    ],
+    [
+      "162706256",
+      {"key": "162706256"}
+    ],
+    [
+      "162706263",
+      {"key": "162706263"}
+    ],
+    [
+      "162706271",
+      {"key": "162706271"}
+    ],
+    [
+      "162706279",
+      {"key": "162706279"}
+    ],
+    [
+      "162706284",
+      {"key": "162706284"}
+    ],
+    [
+      "162706295",
+      {"key": "162706295"}
+    ],
+    [
+      "162706304",
+      {"key": "162706304"}
+    ],
+    [
+      "162706312",
+      {"key": "162706312"}
+    ],
+    [
+      "162706337",
+      {"key": "162706337"}
+    ],
+    [
+      "162706346",
+      {"key": "162706346"}
+    ],
+    [
+      "162706353",
+      {"key": "162706353"}
+    ],
+    [
+      "162706363",
+      {"key": "162706363"}
+    ],
+    [
+      "162706372",
+      {"key": "162706372"}
+    ],
+    [
+      "162706379",
+      {"key": "162706379"}
+    ],
+    [
+      "162706387",
+      {"key": "162706387"}
+    ],
+    [
+      "162706395",
+      {"key": "162706395"}
+    ],
+    [
+      "162706402",
+      {"key": "162706402"}
+    ],
+    [
+      "162706410",
+      {"key": "162706410"}
+    ],
+    [
+      "162706419",
+      {"key": "162706419"}
+    ],
+    [
+      "162706427",
+      {"key": "162706427"}
+    ],
+    [
+      "162706434",
+      {"key": "162706434"}
+    ],
+    [
+      "162706442",
+      {"key": "162706442"}
+    ],
+    [
+      "162706450",
+      {"key": "162706450"}
+    ],
+    [
+      "162706457",
+      {"key": "162706457"}
+    ],
+    [
+      "162706464",
+      {"key": "162706464"}
+    ],
+    [
+      "162706471",
+      {"key": "162706471"}
+    ],
+    [
+      "162706478",
+      {"key": "162706478"}
+    ],
+    [
+      "162706485",
+      {"key": "162706485"}
+    ],
+    [
+      "162706492",
+      {"key": "162706492"}
+    ],
+    [
+      "162706498",
+      {"key": "162706498"}
+    ],
+    [
+      "162706504",
+      {"key": "162706504"}
+    ],
+    [
+      "162706509",
+      {"key": "162706509"}
+    ],
+    [
+      "162706517",
+      {"key": "162706517"}
+    ],
+    [
+      "162706524",
+      {"key": "162706524"}
+    ],
+    [
+      "162706530",
+      {"key": "162706530"}
+    ],
+    [
+      "162706536",
+      {"key": "162706536"}
+    ],
+    [
+      "162706540",
+      {"key": "162706540"}
+    ],
+    [
+      "162706545",
+      {"key": "162706545"}
+    ],
+    [
+      "162706550",
+      {"key": "162706550"}
+    ],
+    [
+      "162706554",
+      {"key": "162706554"}
+    ],
+    [
+      "162706561",
+      {"key": "162706561"}
+    ],
+    [
+      "162706569",
+      {"key": "162706569"}
+    ],
+    [
+      "162706576",
+      {"key": "162706576"}
+    ],
+    [
+      "162706583",
+      {"key": "162706583"}
+    ],
+    [
+      "162706588",
+      {"key": "162706588"}
+    ],
+    [
+      "162706593",
+      {"key": "162706593"}
+    ],
+    [
+      "162706597",
+      {"key": "162706597"}
+    ],
+    [
+      "162706603",
+      {"key": "162706603"}
+    ],
+    [
+      "162706609",
+      {"key": "162706609"}
+    ],
+    [
+      "162706614",
+      {"key": "162706614"}
+    ],
+    [
+      "162706618",
+      {"key": "162706618"}
+    ],
+    [
+      "162706620",
+      {"key": "162706620"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/51uchtdorf",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Uchtdorf teaches that the branches of our testimonies will grow as we nourish the roots: faith in our Heavenly Father and Jesus Christ.",
+          "title": "Nourish the Roots, and the Branches Will Grow"
+        },
+        "pageSocial": {
+          "description": "Elder Uchtdorf teaches that the branches of our testimonies will grow as we nourish the roots: faith in our Heavenly Father and Jesus Christ.",
+          "title": "Nourish the Roots, and the Branches Will Grow"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/648aa083842011efae28022e7e432ed903417ac0/full/!192%2C/0/default\" data-video-id=\"6362919913112\" data-duration=\"871533\" data-assetId=\"3521d5157c4d11ef8e500626c361eb55fc20535c\" data-ref-id=\"3521d5157c4d11ef8e500626c361eb55fc20535c\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362919913112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276066858\"/><source src=\"https://assets.churchofjesuschrist.org/3521d5157c4d11ef8e500626c361eb55fc20535c-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"59987491\"/><source src=\"https://assets.churchofjesuschrist.org/3521d5157c4d11ef8e500626c361eb55fc20535c-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"100106577\"/><source src=\"https://assets.churchofjesuschrist.org/3521d5157c4d11ef8e500626c361eb55fc20535c-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"276066858\"/><\/video><h1 data-aid=\"162706109\" id=\"p_zPhVb\">Nourish the Roots, and the Branches Will Grow<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"162706115\" id=\"p_oN6k7\">By Elder Dieter F. Uchtdorf<\/p>\n<p class=\"author-role\" data-aid=\"162706123\" id=\"p_lKvke\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"162706131\" id=\"p_xbsdV\">The branches of your testimony will draw strength from your deepening faith in Heavenly Father and His Beloved Son.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_i9yfX\">\n<header>\n<h2 data-aid=\"162706139\" id=\"p_c64GH\">An Old Chapel in Zwickau<\/h2>\n<\/header>\n<p data-aid=\"162706146\" id=\"p_es9x8\">The year 2024 is something of a milestone year for me. It marks 75 years since I was baptized and confirmed a member of The Church of Jesus Christ of Latter-day Saints in Zwickau, Germany.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a><\/p>\n<p data-aid=\"162706154\" id=\"p_rns86\">My membership in the Church of Jesus Christ is precious to me. To be counted among God\u2019s covenant people, with you, my brothers and sisters, is one of the greatest honors of my life.<\/p>\n<p data-aid=\"162706163\" id=\"p_aUI7P\">When I think about my personal journey of discipleship, my mind often goes back to an old villa in Zwickau, where I have cherished memories of attending sacrament meetings of the Church of Jesus Christ as a child. It is there where the seedling of my testimony received its earliest nourishing.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"162706170\" id=\"p_omJEW\">This chapel had an old air-driven organ. Every Sunday a young man was assigned to push up and down the sturdy lever operating the bellows to make the organ work. I sometimes had the great privilege of assisting in this important task.<\/p>\n<p data-aid=\"162706177\" id=\"p_kic42\">While the congregation sang our beloved hymns, I pumped with all my strength so the organ would not run out of wind. From the bellows operator seat, I had a great view of some stunning stained-glass windows, one depicting the Savior Jesus Christ and another portraying Joseph Smith in the Sacred Grove.<\/p>\n<p data-aid=\"162706183\" id=\"p_uJi7H\">I can still remember the sacred feelings I had as I looked at those sunlit windows while listening to the testimonies of the Saints and singing the hymns of Zion.<\/p>\n<p data-aid=\"162706190\" id=\"p_tVzl1\">In that holy place, the Spirit of God bore witness to my mind and heart that it was true: Jesus Christ is the Savior of the world. This is His Church. The Prophet Joseph Smith saw God the Father and Jesus Christ and heard Their voices.<\/p>\n<p data-aid=\"162706197\" id=\"p_tWQnr\">Earlier this year, while on assignment in Europe, I had the opportunity to return to Zwickau. Sadly, that beloved old chapel isn\u2019t there anymore. It was torn down many years ago to make room for a large apartment building.<\/p>\n<\/section>\n<section id=\"sec_rM6T0\">\n<header>\n<h2 data-aid=\"162706205\" id=\"p_eKx84\">What Is Eternal, and What Is Not?<\/h2>\n<\/header>\n<p data-aid=\"162706212\" id=\"p_twS6J\">I admit that it\u2019s sad to know that this beloved building from my childhood is now just a memory. It was a sacred building to me. But it was just a building.<\/p>\n<p data-aid=\"162706218\" id=\"p_zSrp3\">By contrast, the spiritual witness I gained from the Holy Ghost those many years ago has not passed away. In fact, it has grown stronger. The things I learned in my youth about the fundamental principles of the gospel of Jesus Christ have been my firm foundation throughout my life. The covenant connection I forged with my Heavenly Father and His Beloved Son has stayed with me\u2014long after the Zwickau chapel was dismantled and the stained-glass windows were lost.<\/p>\n<p data-aid=\"162706225\" id=\"p_adL6P\">\u201cHeaven and earth shall pass away,\u201d Jesus said, \u201cbut my words shall not pass away.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a><\/p>\n<p data-aid=\"162706233\" id=\"p_lckvi\">\u201cThe mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the Lord.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a><\/p>\n<p data-aid=\"162706240\" id=\"p_lpY6a\">One of the most important things we can learn in this life is the difference between what is eternal and what is not.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> Once we understand that, everything changes\u2014our relationships, the choices we make, the way we treat people.<\/p>\n<p data-aid=\"162706248\" id=\"p_qrNt1\">Knowing what is eternal and what is not is key to growing a testimony of Jesus Christ and His Church.<\/p>\n<\/section>\n<section id=\"sec_xh6Mo\">\n<header>\n<h2 data-aid=\"162706256\" id=\"p_rKQRz\">Don\u2019t Mistake the Branches for the Roots<\/h2>\n<\/header>\n<p data-aid=\"162706263\" id=\"p_kLJnn\">The restored gospel of Jesus Christ, as the Prophet Joseph Smith taught, \u201cembrace[s] all, and every item of truth.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a> But that doesn\u2019t mean that all truth is of equal value. Some truths are core, essential, at the root of our faith. Others are appendages or branches\u2014valuable, but only when they are connected to the fundamentals.<\/p>\n<p data-aid=\"162706271\" id=\"p_yaLIK\">The Prophet Joseph also said, \u201cThe fundamental principles of our religion are the testimony of the Apostles and Prophets, concerning Jesus Christ, that He died, was buried, and rose again the third day, and ascended into heaven; and all other things which pertain to our religion are only appendages to it.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a><\/p>\n<p data-aid=\"162706279\" id=\"p_fLFYI\">In other words, Jesus Christ and His atoning sacrifice are the root of our testimony. All other things are branches.<\/p>\n<p data-aid=\"162706284\" id=\"p_xI4d0\">This is not to say that the branches are unimportant. A tree needs branches. But as the Savior told His disciples, \u201cThe branch cannot bear fruit of itself, except it abide in the vine.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> Without a connection to the Savior, to the nourishment found in the roots, a branch withers and dies.<\/p>\n<p data-aid=\"162706295\" id=\"p_joNBS\">When it comes to nourishing our testimonies of Jesus Christ, I wonder if we sometimes mistake the branches for the roots. This was the mistake Jesus observed in the Pharisees of His day. They paid so much attention to the relatively minor details of the law that they ended up neglecting what the Savior called \u201cthe weightier matters\u201d\u2014fundamental principles like \u201cjustice and mercy and faith.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a><\/p>\n<p data-aid=\"162706304\" id=\"p_k19wP\">If you want to nourish a tree, you don\u2019t splash water on the branches. You water the roots. Similarly, if you want the branches of your testimony to grow and bear fruit, nourish the roots. If you are uncertain about a particular doctrine or practice or element of Church history, seek clarity with faith in Jesus Christ. Seek to understand His sacrifice for you, His love for you, His will for you. Follow Him in humility. The branches of your testimony will draw strength from your deepening faith in Heavenly Father and His Beloved Son.<\/p>\n<p data-aid=\"162706312\" id=\"p_heNHh\">For example, if you want a stronger testimony of the Book of Mormon, focus on its witness of Jesus Christ. Notice how the Book of Mormon testifies of Him, what it teaches about Him, and how it invites and inspires you to come unto Him.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a><\/p>\n<p data-aid=\"162706337\" id=\"p_lyrAo\">If you\u2019re seeking a more meaningful experience in Church meetings or in the temple, try looking for the Savior in the sacred ordinances we receive there.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> Find the Lord in His holy house.<\/p>\n<p data-aid=\"162706346\" id=\"p_uyWEG\">If you ever feel burned out or overwhelmed by your Church calling, try refocusing your service on Jesus Christ. Make it an expression of your love for Him.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"162706353\" id=\"p_prJwq\">Nourish the roots, and the branches will grow. And in time, they will bear fruit.<\/p>\n<\/section>\n<section id=\"sec_ef9gO\">\n<header>\n<h2 data-aid=\"162706363\" id=\"p_z8PNj\">Rooted and Built Up in Him<\/h2>\n<\/header>\n<p data-aid=\"162706372\" id=\"p_gJx5N\">Strong faith in Jesus Christ doesn\u2019t happen overnight. No, in this mortal world, it\u2019s the thorns and thistles of doubt that grow spontaneously.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> The healthy, fruitful tree of faith requires intentional effort.<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> And a vital part of that effort is making sure we are firmly rooted in Christ.<\/p>\n<p data-aid=\"162706379\" id=\"p_slmUH\">For example: At first, we may be drawn to the Savior\u2019s gospel and Church because we are impressed by the friendly members or by the kind bishop or the clean looks of the chapel. These circumstances are certainly important to grow the Church.<\/p>\n<p data-aid=\"162706387\" id=\"p_rr6FO\">Nevertheless, if the roots of our testimony never grow deeper than that, what will happen when we move to a ward that meets in a less impressive building, with members who aren\u2019t so friendly, and the bishop says something that offends us?<\/p>\n<p data-aid=\"162706395\" id=\"p_gjx1u\">Another example: Doesn\u2019t it seem reasonable to hope that if we keep the commandments and are sealed in the temple, we will be blessed with a large, happy family with bright, obedient children, all of whom stay active in the Church, serve missions, sing in the ward choir, and volunteer to help clean the meetinghouse every Saturday morning?<\/p>\n<p data-aid=\"162706402\" id=\"p_ovy15\">I certainly hope that all of us will see this in our lives. But what if it doesn\u2019t happen? Will we stay bound to the Savior regardless of circumstances\u2014trusting Him and His timing?<\/p>\n<p data-aid=\"162706410\" id=\"p_iGvxl\">We must ask ourselves: Is my testimony based on what I hope to happen in my life? Is it dependent on the actions or attitudes of others? Or is it firmly founded on Jesus Christ, \u201crooted and built up in him,\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> regardless of life\u2019s changing circumstances?<\/p>\n<\/section>\n<section id=\"sec_w17zJ\">\n<header>\n<h2 data-aid=\"162706419\" id=\"p_r53qY\">Traditions, Habits, and Faith<\/h2>\n<\/header>\n<p data-aid=\"162706427\" id=\"p_diwks\">The Book of Mormon tells of a people who \u201cwere strict in observing the ordinances of God.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> But then a skeptic named Korihor came along, mocking the Savior\u2019s gospel, calling it the \u201cfoolish\u201d and \u201csilly traditions of their fathers.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a> Korihor led \u201caway the hearts of many, causing them to lift up their heads in their wickedness.\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> But others he could not deceive, because to them, the gospel of Jesus Christ was much more than a tradition.<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<p data-aid=\"162706434\" id=\"p_vWJFk\">Faith is strong when it has deep roots in personal experience, personal commitment to Jesus Christ, independent of what our traditions are or what others may say or do.<\/p>\n<p data-aid=\"162706442\" id=\"p_abrPn\">Our testimony will be tested and tried. Faith is not faith if never tested. Faith is not strong if never opposed. So don\u2019t despair if you have trials of faith or unanswered questions.<\/p>\n<p data-aid=\"162706450\" id=\"p_ppIHQ\">We should not expect to understand everything before we act. That is not faith. As Alma taught, \u201cFaith is not to have a perfect knowledge of things.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> If we wait to act until all of our questions are answered, we severely limit the good we can accomplish, and we limit the power of our faith.<\/p>\n<p data-aid=\"162706457\" id=\"p_joWXk\">Faith is beautiful because it persists even when blessings don\u2019t come as hoped for. We can\u2019t see the future, we don\u2019t know all the answers, but we can trust Jesus Christ as we keep moving forward and upward because He is our Savior and Redeemer.<\/p>\n<p data-aid=\"162706464\" id=\"p_qe6ma\">Faith endures the trials and the uncertainties of life because it is firmly rooted in Christ and His doctrine. Jesus Christ, and our Father in Heaven who sent Him, together constitute the one undeviating, perfectly reliable object of our trust.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a><\/p>\n<p data-aid=\"162706471\" id=\"p_ec39r\">A testimony is not something that you build once and it stands forever. It\u2019s more like a tree that you nourish constantly. Planting the word of God in your heart is only the first step. Once your testimony starts to grow, then the real work begins! That\u2019s when you \u201cnourish it with great care, that it may get root, that it may grow up, and bring forth fruit.\u201d It takes \u201cgreat diligence\u201d and \u201cpatience with the word.\u201d But the Lord\u2019s promises are sure: \u201cYe shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you.\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a><\/p>\n<p data-aid=\"162706478\" id=\"p_kKVW3\">My dear brothers and sisters, my dear friends, there\u2019s a part of me that misses the old Zwickau chapel and its stained-glass windows. But over the past 75 years, Jesus Christ has led me on a journey through life that is more thrilling than I could ever have imagined. He has comforted me in my afflictions, helped me to recognize my weaknesses, healed my spiritual wounds, and nourished me in my growing faith.<\/p>\n<p data-aid=\"162706485\" id=\"p_i0U8n\">It is my sincere prayer and blessing that we will constantly nourish the roots of our faith in the Savior, in His doctrine, and in His Church. Of this I testify in the sacred name of our Savior, our Redeemer, our Master\u2014in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"162706492\" id=\"p_wrUd0\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"162706498\" id=\"p_mSAeM\">The year 2024 also marks 30 years since my call as a General Authority and 25 years since our family had to move from Germany to the United States as a result of that calling. And almost exactly 20 years ago\u2014on October 2, 2004\u2014I was sustained as a member of the Quorum of the Twelve Apostles and a special witness \u201cof the name of Christ in all the world\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 107:23<\/a>).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"162706504\" id=\"p_hjKEk\">In some ways, my feelings about that building are like what Alma\u2019s people felt about the Waters of Mormon\u2014it was a beautiful place to them because \u201cthere [they] came to the knowledge of their Redeemer\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30\">Mosiah 18:30<\/a>).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"162706509\" id=\"p_eL27c\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=eng&amp;id=p35#p35\">Matthew 24:35<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p35#p35\">Joseph Smith\u2014Matthew 1:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"162706517\" id=\"p_i9ofl\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=eng&amp;id=p10#p10\">Isaiah 54:10<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p10#p10\">3 Nephi 22:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"162706524\" id=\"p_liTnA\">President Thomas S. Monson taught this same truth with these words: \u201cI believe that among the greatest lessons we are to learn in this short sojourn upon the earth are lessons that help us distinguish between what is important and what is not. I plead with you not to let those most important things pass you by\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=eng&amp;id=p9#p9\">Finding Joy in the Journey<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2008, 85). Similarly, when President Russell M. Nelson recently encouraged us to \u201cthink celestial,\u201d he said, \u201cMortality is a master class in learning to choose the things of greatest eternal import\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=eng&amp;id=p8#p8\">Think Celestial!<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2023, 118).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"162706530\" id=\"p_vW8lC\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-22?lang=eng&amp;id=p8#p8\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 264; see also <a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-2?lang=eng&amp;id=title4#title4\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 16\u201318.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"162706536\" id=\"p_j31ZX\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=eng&amp;id=p18#p18\">Teachings: Joseph Smith<\/a><\/cite>, 49.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"162706540\" id=\"p_fA330\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=eng&amp;id=p4#p4\">John 15:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"162706545\" id=\"p_vlpGK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=eng&amp;id=p23#p23\">Matthew 23:23<\/a>, New Revised Standard Version.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"162706550\" id=\"p_krfMv\">Is it interesting to note archaeological similarities between ancient American cultures and Book of Mormon peoples? It can be. Is it helpful to learn from the accounts of scribes and others about the details of how Joseph Smith translated the Book of Mormon? It is for some. But none of this constitutes a lasting testimony that the Book of Mormon is the word of God. For that, you need to find the Savior in the Book of Mormon, to hear His voice speaking to you. Once this happens, it won\u2019t matter to you where the ancient city of Zarahemla was actually located or what the Urim and Thummim looked like. Those are branches that can be pruned off your tree if needed, but the tree will remain.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"162706554\" id=\"p_vCIUH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p20#p19\">Doctrine and Covenants 84:19\u201320<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"162706561\" id=\"p_m6CFw\">See Joy D. Jones, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/for-him?lang=eng\">For Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 50\u201352.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"162706569\" id=\"p_bQvTf\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/3?lang=eng&amp;id=p18#p18\">Genesis 3:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"162706576\" id=\"p_rT5LR\">President Nelson has invited all of us \u201cto take charge of [our] own testimony of Jesus Christ and His gospel. Work for it. Nurture it so that it will grow\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p30#p30\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 97).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"162706583\" id=\"p_eKCub\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=eng&amp;id=p7#p7\">Colossians 2:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"162706588\" id=\"p_tZGqe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p3#p3\">Alma 30:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"162706593\" id=\"p_noXQt\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p12-p16%2C31#p12\">Alma 30:12\u201316, 31<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"162706597\" id=\"p_cCciT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p18#p18\">Alma 30:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"162706603\" id=\"p_pxeqS\">Interestingly, Korihor\u2019s arguments were entirely unpersuasive among the recently converted Lamanites, the people of Ammon (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p19-p20#p19\">Alma 30:19\u201320<\/a>), who were following Christ not because of the tradition of their fathers.<\/p>\n<p data-aid=\"162706609\" id=\"p_fxRH0\">By contrast, the Book of Mormon also tells of a generation of young people who separated themselves from the Lord\u2019s Church because \u201cthey did not believe the tradition of their fathers\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=eng&amp;id=p1-p4#p1\">Mosiah 26:1\u20134<\/a>). It\u2019s good for families to establish righteous traditions. But it\u2019s just as important for families to clearly understand the <em>why<\/em> behind those traditions. Why do we pray every morning and night? Why do we have family scripture study? Why do we hold weekly home evening, family activities and service projects, and so on? If our children understand how these traditions draw us closer to Heavenly Father and Jesus Christ, they\u2019ll be more likely to continue them\u2014and improve on them\u2014in their own families.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"162706614\" id=\"p_zTwt8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p21#p21\">Alma 32:21<\/a>. Faith is powerful not because of what it <em>knows<\/em> but because of what it <em>does<\/em>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"162706618\" id=\"p_ucKQU\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=eng&amp;id=p23#p23\">Hebrews 10:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"162706620\" id=\"p_peWnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p37%2C41-p43#p37\">Alma 32:37, 41\u201343<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "162706233",
+        "id": "note4",
+        "text": "<p data-aid=\"162706517\" id=\"p_i9ofl\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/54?lang=eng&amp;id=p10#p10\">Isaiah 54:10<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p10#p10\">3 Nephi 22:10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/54?lang=eng&amp;id=p10#p10",
+            "text": "Isaiah 54:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p10#p10",
+            "text": "3 Nephi 22:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "162706240",
+        "id": "note5",
+        "text": "<p data-aid=\"162706524\" id=\"p_liTnA\">President Thomas S. Monson taught this same truth with these words: \u201cI believe that among the greatest lessons we are to learn in this short sojourn upon the earth are lessons that help us distinguish between what is important and what is not. I plead with you not to let those most important things pass you by\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=eng&amp;id=p9#p9\">Finding Joy in the Journey<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2008, 85). Similarly, when President Russell M. Nelson recently encouraged us to \u201cthink celestial,\u201d he said, \u201cMortality is a master class in learning to choose the things of greatest eternal import\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=eng&amp;id=p8#p8\">Think Celestial!<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2023, 118).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2008/10/finding-joy-in-the-journey?lang=eng&amp;id=p9#p9",
+            "text": "Finding Joy in the Journey",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2023/10/51nelson?lang=eng&amp;id=p8#p8",
+            "text": "Think Celestial!",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "162706163",
+        "id": "note2",
+        "text": "<p data-aid=\"162706504\" id=\"p_hjKEk\">In some ways, my feelings about that building are like what Alma\u2019s people felt about the Waters of Mormon\u2014it was a beautiful place to them because \u201cthere [they] came to the knowledge of their Redeemer\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30\">Mosiah 18:30<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p30#p30",
+          "text": "Mosiah 18:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "162706225",
+        "id": "note3",
+        "text": "<p data-aid=\"162706509\" id=\"p_eL27c\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=eng&amp;id=p35#p35\">Matthew 24:35<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p35#p35\">Joseph Smith\u2014Matthew 1:35<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/24?lang=eng&amp;id=p35#p35",
+            "text": "Matthew 24:35",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p35#p35",
+            "text": "Joseph Smith\u2014Matthew 1:35",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "162706284",
+        "id": "note8",
+        "text": "<p data-aid=\"162706540\" id=\"p_fA330\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=eng&amp;id=p4#p4\">John 15:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15?lang=eng&amp;id=p4#p4",
+          "text": "John 15:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "162706295",
+        "id": "note9",
+        "text": "<p data-aid=\"162706545\" id=\"p_vlpGK\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=eng&amp;id=p23#p23\">Matthew 23:23<\/a>, New Revised Standard Version.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/23?lang=eng&amp;id=p23#p23",
+          "text": "Matthew 23:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "162706263",
+        "id": "note6",
+        "text": "<p data-aid=\"162706530\" id=\"p_vW8lC\"><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-22?lang=eng&amp;id=p8#p8\"><cite>Teachings of Presidents of the Church: Joseph Smith<\/cite><\/a> (2007), 264; see also <a class=\"cross-ref\" href=\"/study/manual/teachings-brigham-young/chapter-2?lang=eng&amp;id=title4#title4\"><cite>Teachings of Presidents of the Church: Brigham Young<\/cite><\/a> (1997), 16\u201318.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-22?lang=eng&amp;id=p8#p8",
+            "text": "Teachings of Presidents of the Church: Joseph Smith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/teachings-brigham-young/chapter-2?lang=eng&amp;id=title4#title4",
+            "text": "Teachings of Presidents of the Church: Brigham Young",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "162706271",
+        "id": "note7",
+        "text": "<p data-aid=\"162706536\" id=\"p_j31ZX\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-3?lang=eng&amp;id=p18#p18\">Teachings: Joseph Smith<\/a><\/cite>, 49.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-3?lang=eng&amp;id=p18#p18",
+          "text": "Teachings: Joseph Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "162706427",
+        "id": "note16",
+        "text": "<p data-aid=\"162706588\" id=\"p_tZGqe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p3#p3\">Alma 30:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p3#p3",
+          "text": "Alma 30:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "162706410",
+        "id": "note15",
+        "text": "<p data-aid=\"162706583\" id=\"p_eKCub\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/col/2?lang=eng&amp;id=p7#p7\">Colossians 2:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/col/2?lang=eng&amp;id=p7#p7",
+          "text": "Colossians 2:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "162706372",
+        "id": "note14",
+        "text": "<p data-aid=\"162706576\" id=\"p_rT5LR\">President Nelson has invited all of us \u201cto take charge of [our] own testimony of Jesus Christ and His gospel. Work for it. Nurture it so that it will grow\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p30#p30\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 97).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p30#p30",
+          "text": "Overcome the World and Find Rest",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "162706372",
+        "id": "note13",
+        "text": "<p data-aid=\"162706569\" id=\"p_bQvTf\">See <a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/3?lang=eng&amp;id=p18#p18\">Genesis 3:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/3?lang=eng&amp;id=p18#p18",
+          "text": "Genesis 3:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "162706346",
+        "id": "note12",
+        "text": "<p data-aid=\"162706561\" id=\"p_m6CFw\">See Joy D. Jones, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/for-him?lang=eng\">For Him<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2018, 50\u201352.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/for-him?lang=eng",
+          "text": "For Him",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "162706337",
+        "id": "note11",
+        "text": "<p data-aid=\"162706554\" id=\"p_vCIUH\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p20#p19\">Doctrine and Covenants 84:19\u201320<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p20#p19",
+          "text": "Doctrine and Covenants 84:19\u201320",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "162706471",
+        "id": "note22",
+        "text": "<p data-aid=\"162706620\" id=\"p_peWnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p37%2C41-p43#p37\">Alma 32:37, 41\u201343<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=eng&amp;id=p37%2C41-p43#p37",
+          "text": "Alma 32:37, 41\u201343",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "162706312",
+        "id": "note10",
+        "text": "<p data-aid=\"162706550\" id=\"p_krfMv\">Is it interesting to note archaeological similarities between ancient American cultures and Book of Mormon peoples? It can be. Is it helpful to learn from the accounts of scribes and others about the details of how Joseph Smith translated the Book of Mormon? It is for some. But none of this constitutes a lasting testimony that the Book of Mormon is the word of God. For that, you need to find the Savior in the Book of Mormon, to hear His voice speaking to you. Once this happens, it won\u2019t matter to you where the ancient city of Zarahemla was actually located or what the Urim and Thummim looked like. Those are branches that can be pruned off your tree if needed, but the tree will remain.<\/p>"
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "162706464",
+        "id": "note21",
+        "text": "<p data-aid=\"162706618\" id=\"p_ucKQU\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=eng&amp;id=p23#p23\">Hebrews 10:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/10?lang=eng&amp;id=p23#p23",
+          "text": "Hebrews 10:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "162706450",
+        "id": "note20",
+        "text": "<p data-aid=\"162706614\" id=\"p_zTwt8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=eng&amp;id=p21#p21\">Alma 32:21<\/a>. Faith is powerful not because of what it <em>knows<\/em> but because of what it <em>does<\/em>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=eng&amp;id=p21#p21",
+          "text": "Alma 32:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "162706146",
+        "id": "note1",
+        "text": "<p data-aid=\"162706498\" id=\"p_mSAeM\">The year 2024 also marks 30 years since my call as a General Authority and 25 years since our family had to move from Germany to the United States as a result of that calling. And almost exactly 20 years ago\u2014on October 2, 2004\u2014I was sustained as a member of the Quorum of the Twelve Apostles and a special witness \u201cof the name of Christ in all the world\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p23#p23\">Doctrine and Covenants 107:23<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p23#p23",
+          "text": "Doctrine and Covenants 107:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "162706427",
+        "id": "note19",
+        "text": "<p data-aid=\"162706603\" id=\"p_pxeqS\">Interestingly, Korihor\u2019s arguments were entirely unpersuasive among the recently converted Lamanites, the people of Ammon (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p19-p20#p19\">Alma 30:19\u201320<\/a>), who were following Christ not because of the tradition of their fathers.<\/p>\n<p data-aid=\"162706609\" id=\"p_fxRH0\">By contrast, the Book of Mormon also tells of a generation of young people who separated themselves from the Lord\u2019s Church because \u201cthey did not believe the tradition of their fathers\u201d (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=eng&amp;id=p1-p4#p1\">Mosiah 26:1\u20134<\/a>). It\u2019s good for families to establish righteous traditions. But it\u2019s just as important for families to clearly understand the <em>why<\/em> behind those traditions. Why do we pray every morning and night? Why do we have family scripture study? Why do we hold weekly home evening, family activities and service projects, and so on? If our children understand how these traditions draw us closer to Heavenly Father and Jesus Christ, they\u2019ll be more likely to continue them\u2014and improve on them\u2014in their own families.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p19-p20#p19",
+            "text": "Alma 30:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/26?lang=eng&amp;id=p1-p4#p1",
+            "text": "Mosiah 26:1\u20134",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "162706427",
+        "id": "note18",
+        "text": "<p data-aid=\"162706597\" id=\"p_cCciT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p18#p18\">Alma 30:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p18#p18",
+          "text": "Alma 30:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "162706427",
+        "id": "note17",
+        "text": "<p data-aid=\"162706593\" id=\"p_noXQt\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/30?lang=eng&amp;id=p12-p16%2C31#p12\">Alma 30:12\u201316, 31<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/30?lang=eng&amp;id=p12-p16%2C31#p12",
+          "text": "Alma 30:12\u201316, 31",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "tableOfContentsUri": "/general-conference/2024/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "archived": false,
+    "canonicalUrl": "/general-conference/2024/10/25buckner?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "c4e9652e48f1484bb4491e6e6778fd5e",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2024/10/25buckner",
+      "data-aid": "162700649",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "e31db55244dd4e95a81f17ac58af804b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/4535960b835d11ef9b3a0626c361eb55eac3a91a/full/!192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/929d5c7f80fa11ef9b3a0626c361eb55af61c0a5-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cSois mis amigos\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2024-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "162700649",
+      {"key": "162700649"}
+    ],
+    [
+      "163020290",
+      {"key": "163020290"}
+    ],
+    [
+      "163020292",
+      {"key": "163020292"}
+    ],
+    [
+      "163020294",
+      {"key": "163020294"}
+    ],
+    [
+      "163020297",
+      {"key": "163020297"}
+    ],
+    [
+      "163020300",
+      {"key": "163020300"}
+    ],
+    [
+      "163020303",
+      {"key": "163020303"}
+    ],
+    [
+      "163020306",
+      {"key": "163020306"}
+    ],
+    [
+      "163020310",
+      {"key": "163020310"}
+    ],
+    [
+      "163020312",
+      {"key": "163020312"}
+    ],
+    [
+      "163020314",
+      {"key": "163020314"}
+    ],
+    [
+      "163020318",
+      {"key": "163020318"}
+    ],
+    [
+      "163020321",
+      {"key": "163020321"}
+    ],
+    [
+      "163020324",
+      {"key": "163020324"}
+    ],
+    [
+      "163020328",
+      {"key": "163020328"}
+    ],
+    [
+      "163020332",
+      {"key": "163020332"}
+    ],
+    [
+      "163020339",
+      {"key": "163020339"}
+    ],
+    [
+      "163020344",
+      {"key": "163020344"}
+    ],
+    [
+      "163020349",
+      {"key": "163020349"}
+    ],
+    [
+      "163020355",
+      {"key": "163020355"}
+    ],
+    [
+      "163020360",
+      {"key": "163020360"}
+    ],
+    [
+      "163020366",
+      {"key": "163020366"}
+    ],
+    [
+      "163020372",
+      {"key": "163020372"}
+    ],
+    [
+      "163020376",
+      {"key": "163020376"}
+    ],
+    [
+      "163022382",
+      {"key": "163022382"}
+    ],
+    [
+      "163022385",
+      {"key": "163022385"}
+    ],
+    [
+      "163022393",
+      {"key": "163022393"}
+    ],
+    [
+      "163022399",
+      {"key": "163022399"}
+    ],
+    [
+      "163022408",
+      {"key": "163022408"}
+    ],
+    [
+      "163022413",
+      {"key": "163022413"}
+    ],
+    [
+      "163022418",
+      {"key": "163022418"}
+    ],
+    [
+      "163022425",
+      {"key": "163022425"}
+    ],
+    [
+      "163022433",
+      {"key": "163022433"}
+    ],
+    [
+      "163022441",
+      {"key": "163022441"}
+    ],
+    [
+      "163022448",
+      {"key": "163022448"}
+    ],
+    [
+      "163022456",
+      {"key": "163022456"}
+    ],
+    [
+      "163022464",
+      {"key": "163022464"}
+    ],
+    [
+      "163022473",
+      {"key": "163022473"}
+    ],
+    [
+      "163022482",
+      {"key": "163022482"}
+    ],
+    [
+      "163022491",
+      {"key": "163022491"}
+    ],
+    [
+      "163022500",
+      {"key": "163022500"}
+    ],
+    [
+      "163022509",
+      {"key": "163022509"}
+    ],
+    [
+      "163022518",
+      {"key": "163022518"}
+    ],
+    [
+      "163022527",
+      {"key": "163022527"}
+    ],
+    [
+      "163022535",
+      {"key": "163022535"}
+    ],
+    [
+      "163022543",
+      {"key": "163022543"}
+    ],
+    [
+      "163022551",
+      {"key": "163022551"}
+    ],
+    [
+      "163022559",
+      {"key": "163022559"}
+    ],
+    [
+      "163022567",
+      {"key": "163022567"}
+    ],
+    [
+      "163022575",
+      {"key": "163022575"}
+    ],
+    [
+      "163022583",
+      {"key": "163022583"}
+    ],
+    [
+      "163022594",
+      {"key": "163022594"}
+    ],
+    [
+      "163022602",
+      {"key": "163022602"}
+    ],
+    [
+      "163022611",
+      {"key": "163022611"}
+    ],
+    [
+      "163022619",
+      {"key": "163022619"}
+    ],
+    [
+      "163022628",
+      {"key": "163022628"}
+    ],
+    [
+      "163022634",
+      {"key": "163022634"}
+    ],
+    [
+      "163022642",
+      {"key": "163022642"}
+    ]
+  ],
+  "uri": "/general-conference/2024/10/25buckner",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Buckner enseña que debemos dejar de buscar motivos para la división y buscar oportunidades de \u201cser uno\u201d.",
+          "title": "\u201cSois mis amigos\u201d"
+        },
+        "pageSocial": {
+          "description": "El élder Buckner enseña que debemos dejar de buscar motivos para la división y buscar oportunidades de \u201cser uno\u201d.",
+          "title": "\u201cSois mis amigos\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/4535960b835d11ef9b3a0626c361eb55eac3a91a/full/!768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/4535960b835d11ef9b3a0626c361eb55eac3a91a/full/!192%2C/0/default\" data-video-id=\"6362889450112\" data-duration=\"648933\" data-assetId=\"a9d424f97f6811efb0ca022e7e432ed90a36d9c8\" data-ref-id=\"a9d424f97f6811efb0ca022e7e432ed90a36d9c8\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6362889450112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"160957818\"/><source src=\"https://assets.churchofjesuschrist.org/a9d424f97f6811efb0ca022e7e432ed90a36d9c8-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"36897456\"/><source src=\"https://assets.churchofjesuschrist.org/a9d424f97f6811efb0ca022e7e432ed90a36d9c8-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"64334400\"/><source src=\"https://assets.churchofjesuschrist.org/a9d424f97f6811efb0ca022e7e432ed90a36d9c8-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"160957818\"/><\/video><h1 data-aid=\"163020290\" id=\"p_aaQPh\">\u201cSois mis amigos\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"163020292\" id=\"p_aErGr\">Por el élder David L. Buckner<\/p>\n<p class=\"author-role\" data-aid=\"163020294\" id=\"p_kfNj3\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"163020297\" id=\"p_kxItx\">La declaración del Salvador \u201csois mis amigos\u201d es como una llamada a la acción para cultivar relaciones más elevadas y santas entre los hijos de Dios.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"163020300\" id=\"p_g6YRR\">En un mundo repleto de contención y división, en donde el diálogo civilizado se ha reemplazado por el juicio y el desdén y las amistades se definen por -ismos e -itas<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>, he llegado a saber que hay un ejemplo claro, simple y divino que podemos observar para tener unidad, amor y un sentido de pertenencia. Ese ejemplo es Jesucristo. Testifico que Él es el gran Unificador.<\/p>\n<section>\n<header>\n<h2 data-aid=\"163020303\" id=\"p_hxPyy\">Somos Sus amigos<\/h2>\n<\/header>\n<p data-aid=\"163020306\" id=\"p_qzoHB\">En diciembre de 1832, cuando \u201cla aparición de problemas entre las naciones\u201d era cada vez \u201cmás visible[]\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> que nunca desde la organización de la Iglesia, los líderes Santos de los Últimos Días en Kirtland, Ohio, se reunieron para una conferencia. Oraron \u201cpor separado y en voz alta al Señor con el fin de que Él [les] revel[ara] Su voluntad\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. En reconocimiento de las oraciones de estos fieles miembros durante un momento de intensa tribulación, el Señor los consoló<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> dirigiéndose a los santos tres veces con dos poderosas palabras: \u201cMis amigos\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163020310\" id=\"p_k7IGx\">Por mucho tiempo Jesucristo ha llamado a Sus fieles seguidores Sus amigos. Catorce veces en Doctrina y Convenios el Salvador utiliza el término <i>amigo<\/i> para definir una relación sagrada y preciada. No me refiero a la palabra <i>amigo<\/i> como la define el mundo, sujeta a los seguidores de las redes sociales o los \u201cme gusta\u201d. No puede plasmarse en un hashtag o un número en Instagram o X.<\/p>\n<p data-aid=\"163020312\" id=\"p_jiPRu\">Debo admitir que recuerdo, de mi adolescencia, temidas conversaciones en las que oía esas palabras hirientes: \u201cOye, ¿podemos ser solo amigos?\u201d o \u201cMejor seamos solo amigos\u201d. En ningún lugar de las Santas Escrituras lo escuchamos a Él decir: \u201cSolo sois mis amigos\u201d. En vez de eso, Él enseñó que \u201cnadie tiene mayor amor que este, que uno ponga su vida por sus amigos\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Y \u201cvosotros sois los que mi Padre me ha dado; sois mis amigos\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163020314\" id=\"p_oo5Ae\">El sentimiento es claro: el Salvador está al tanto de cada uno de nosotros y vela por nosotros. Ese cuidado atento no es trivial o poco significativo; es, en cambio, exaltador, edificante y eterno. Veo la declaración del Salvador \u201csois mis amigos\u201d7 como una llamada a la acción muy clara para cultivar relaciones más elevadas y santas<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> entre los hijos de Dios \u201cpara que seamos uno\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Esto lo conseguimos cuando nos esforzamos juntos por buscar tanto oportunidades para unirnos como un sentido de pertenencia para todos.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"163020318\" id=\"p_bCtFp\">Somos uno en Él<\/h2>\n<\/header>\n<p data-aid=\"163020321\" id=\"p_vJFaJ\">El Salvador demostró esto de manera hermosa en Su llamado: \u201cVen, sígueme\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>. Recurrió a los dones y atributos individuales de un grupo diverso de seguidores para llamar a Sus Apóstoles. Llamó a pescadores<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>, zelotes<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>, hermanos conocidos por sus personalidades estruendosas<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> e incluso a un recaudador de impuestos<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Su creencia en el Salvador y su deseo de acercarse a Él los unió. Miraron hacia Él, vieron a Dios por medio de Él y \u201cdejando al instante las redes, le siguieron\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163020324\" id=\"p_ktApz\">También yo he visto cómo el cultivar relaciones más elevadas y santas nos unifica. Mi esposa, Jennifer, y yo hemos sido bendecidos de criar a nuestros cinco hijos en la ciudad de Nueva York. Allí, en esa ajetreada metrópolis, entablamos relaciones preciadas y sagradas con vecinos, amigos de la escuela, socios de negocios, líderes religiosos y hermanos santos.<\/p>\n<p data-aid=\"163020328\" id=\"p_jj5gk\">En mayo de 2020, justo cuando el mundo estaba luchando contra la propagación de una pandemia mundial, miembros de la Comisión de Líderes Religiosos de la Ciudad de Nueva York tuvieron un encuentro virtual en una reunión convocada de forma abrupta. No había ninguna agenda a seguir ni había invitados especiales; solo una petición para reunirnos y hablar sobre los desafíos a los que todos nos estábamos enfrentando como líderes religiosos. Los Centros para el Control de Enfermedades acababa de informar que nuestra ciudad era el epicentro de la pandemia de COVID-19 en los Estados Unidos, lo cual significaba que no habría más reuniones, no nos juntaríamos más.<\/p>\n<p data-aid=\"163020332\" id=\"p_kl2eE\">Para esos líderes religiosos, retirar la ministración personal, las reuniones de congregación y la adoración semanal fue un golpe devastador. En nuestro pequeño grupo \u2014que incluía un cardenal, un reverendo, un rabino, un imán, un pastor, un monseñor y un élder\u2014 nos escuchamos, consolamos y apoyamos unos a otros. En vez de centrarnos en nuestras diferencias, vimos lo que teníamos en común. Hablamos de posibilidades y luego de probabilidades. Nos solidarizamos y respondimos a preguntas sobre la fe y el futuro, y luego oramos. ¡Oh, cómo oramos!<\/p>\n<p data-aid=\"163020339\" id=\"p_rr6Rz\">En una ciudad ricamente diversa, llena de complejidad y de culturas enfrentadas, vimos cómo nuestras diferencias se disipaban al unirnos como amigos con una voz, un propósito y una oración.<\/p>\n<p data-aid=\"163020344\" id=\"p_cyVhK\">Ya no nos mirábamos los unos a los otros a través de una mesa, sino que todos juntos mirábamos hacia el cielo. Salimos de cada reunión posterior más unidos y listos para recoger nuestras \u201cpalas\u201d y ponernos a trabajar. La colaboración resultante y el servicio que se prestó a miles de neoyorquinos me enseñaron que, en un mundo que insiste en la división, el distanciamiento y el desentenderse, siempre es mucho más lo que nos une que lo que nos divide. El Salvador suplicó: \u201cSed uno; y si no sois uno, no sois míos\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163020349\" id=\"p_vy9Dr\">Hermanos y hermanas, debemos dejar de buscar motivos para la división y en su lugar buscar oportunidades de \u201cse[r] uno\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Él nos ha bendecido con dones y atributos únicos que invitan a aprender unos de otros y al crecimiento personal<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. A menudo les decía a mis alumnos universitarios: \u201cSi yo hago lo que ustedes hacen y ustedes hacen lo que yo hago, no nos necesitamos el uno al otro. Pero ya que ustedes no hacen lo que yo hago ni yo hago lo que ustedes hacen, sí nos necesitamos mutuamente y esa necesidad nos une\u201d. Dividir y conquistar es el plan del adversario para destruir amistades, familias y la fe. Es el Salvador quien une.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"163020355\" id=\"p_sPF2T\">Le pertenecemos a Él<\/h2>\n<\/header>\n<p data-aid=\"163020360\" id=\"p_cHN1Q\">Una de las bendiciones prometidas de \u201cser uno\u201d es un poderoso sentido de pertenencia. El élder Quentin L. Cook enseñó que \u201cla esencia de la verdadera pertenencia consiste en ser uno con Cristo\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163020366\" id=\"p_j4Fof\">En una reciente visita con mi familia al país de Ghana, en África Occidental, me enamoré de una costumbre local. Al llegar a una iglesia u hogar, se nos saludaba con las palabras: \u201cSon bienvenidos\u201d. Cuando se servía la comida, nuestro anfitrión anunciaba: \u201cSe les invita\u201d. Estos buenos deseos tan sencillos se pronunciaban con propósito e intención. <em>Son bienvenidos. Se les invita.<\/em><\/p>\n<p data-aid=\"163020372\" id=\"p_rt5we\">Colocamos declaraciones sagradas similares en la puerta de nuestros centros de reuniones, pero el letrero Los visitantes son bienvenidos no es suficiente. ¿Acogemos cálidamente a todos los que entran por las puertas? Hermanos y hermanas, no basta con tan solo sentarnos en los bancos. Debemos responder al llamado del Salvador de cultivar relaciones más elevadas y santas con todos los hijos de Dios. ¡Debemos vivir nuestra fe! Mi padre a menudo me recordaba que el simple hecho de ocupar un asiento en la iglesia no te convierte en un buen cristiano, tal como dormir en un garaje no te convierte en un automóvil.<\/p>\n<p data-aid=\"163020376\" id=\"p_l3GV6\">Debemos dirigir nuestra vida de tal modo que el mundo no nos vea a nosotros sino que lo vea a Él a través de nosotros. Esto no se lleva a cabo solo los domingos. Se lleva a cabo en el supermercado, en la gasolinera, en las reuniones de la escuela o del vecindario, \u2014todos lugares en que miembros bautizados y no bautizados de nuestra familia trabajan y viven.<\/p>\n<p data-aid=\"163022382\" id=\"p_yPYDr\">Adoro los domingos como recordatorio de que nos necesitamos los unos a los otros y que juntos lo necesitamos a Él. Nuestros dones y talentos únicos, que nos diferencian en un mundo secular, nos unen en un espacio sagrado<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. El Salvador nos ha llamado a ayudarnos unos a otros, a elevarnos unos a otros y a edificarnos entre nosotros. Eso es lo que Él hizo cuando sanó a la mujer enferma de flujo de sangre<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>, limpió al leproso que le rogaba misericordia<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>, le dio consejo al joven rico que le preguntó qué más podía hacer<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>, amó a Nicodemo que sabía, pero flaqueaba en su fe<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a> y se sentó junto al pozo con la mujer que no encajaba con las costumbres de la época pero a quien le declaró Su misión mesiánica<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Para mí esto es la Iglesia: un lugar de reunión y recuperación, reparación y reenfoque. El presidente Russell M. Nelson enseñó: \u201cLa red del Evangelio es la red más grande del mundo. Dios nos ha invitado a <em>todos<\/em> a venir a Él [\u2026]. Hay lugar para todos\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"163022385\" id=\"p_zr6EO\">Algunos habrán tenido experiencias que les hayan hecho sentir que no pertenecían. El mensaje que el Salvador tiene para ustedes y para mí es el mismo: \u201cVenid a mí todos los que estáis trabajados y cargados, y yo os haré descansar\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>. El Evangelio de Jesucristo es el lugar perfecto para nosotros. El venir a la Iglesia ofrece la esperanza de días mejores, la promesa de que no están solos y una familia que nos necesita tanto a nosotros como nosotros a ellos. El élder D. Todd Christofferson afirma que \u201cser uno con el Padre, el Hijo y el Espíritu Santo es, sin duda, el principal sentido de pertenencia\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. A todo aquel que se haya alejado y esté buscando la oportunidad de volver, le ofrezco una verdad eterna y una invitación: perteneces, vuelve, este es el momento.<\/p>\n<p data-aid=\"163022393\" id=\"p_dwNvW\">En un mundo contencioso y dividido, testifico que el Salvador Jesucristo es el gran unificador. Quisiera invitar a cada uno de nosotros a ser digno de la invitación del Salvador de \u201cse[r] uno\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> y declarar osadamente como Él lo hizo: \u201cSois mis amigos\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>. En el sagrado nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"163022399\" id=\"p_pb4dt\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"163022408\" id=\"p_bTc44\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p17#p17\">4 Nefi 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"163022413\" id=\"p_pl2lQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87?lang=spa\">Doctrina y Convenios 87<\/a>, encabezamiento de la sección.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"163022418\" id=\"p_xFPrk\">\u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/minute-book-1/7#X0044F882-8E00-4BF0-A622-7A2C5D369A56\">Minute Book 1<\/a>\u201d, pág. 3, josephsmithpapers.org; se ha modernizado la ortografía.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"163022425\" id=\"p_m55js\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3#p3\">Doctrina y Convenios 88:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"163022433\" id=\"p_yHTDC\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3%2C62%2C117#p3\">Doctrina y Convenios 88:3, 62, 117<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"163022441\" id=\"p_xzAhE\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p13#p13\">Juan 15:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"163022448\" id=\"p_aKKgp\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63\">Doctrina y Convenios 84:63<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14\">Juan 15:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"163022456\" id=\"p_wx0op\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/opening-remarks?lang=spa&amp;id=p3#p3\">Observaciones iniciales<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, pág. 6.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"163022464\" id=\"p_ia6ps\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p23#p23\">3 Nefi 19:23<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p22#p22\">Juan 17:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"163022473\" id=\"p_sU5ax\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22\">Lucas 18:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"163022482\" id=\"p_z6FZW\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p18-p22#p18\">Mateo 4:18\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p16-p20#p16\">Marcos 1:16\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p2-p11#p2\">Lucas 5:2\u201311<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p40-p42#p40\">Juan 1:40\u201342<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"163022491\" id=\"p_tqtld\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p15#p15\">Lucas 6:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"163022500\" id=\"p_hAw1V\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/3?lang=spa&amp;id=p17#p17\">Marcos 3:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"163022509\" id=\"p_eejA9\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p9-p13#p9\">Mateo 9:9\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2?lang=spa&amp;id=p13-p14#p13\">Marcos 2:13\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p27-p32#p27\">Lucas 5:27\u201332<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"163022518\" id=\"p_k1taM\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p20#p20\">Mateo 4:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"163022527\" id=\"p_u3W2d\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"163022535\" id=\"p_cmltw\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p15-p17#p15\">4 Nefi 1:15\u201317<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"163022543\" id=\"p_c4Je4\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12\">1 Corintios 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3\">Efesios 4:3\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"163022551\" id=\"p_hpWSi\">Quentin L. Cook, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/27cook?lang=spa&amp;id=p34#p34\">Ser uno con Cristo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 51.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"163022559\" id=\"p_xu4s7\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12\">1 Corintios 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3\">Efesios 4:3\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"163022567\" id=\"p_oPRMf\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p20-p22#p20\">Mateo 9:20\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=spa&amp;id=p25-p34#p25\">Marcos 5:25\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8?lang=spa&amp;id=p43-p48#p43\">Lucas 8:43\u201348<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"163022575\" id=\"p_fE8mf\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8?lang=spa&amp;id=p1-p4#p1\">Mateo 8:1\u20134<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p40-p45#p40\">Marcos 1:40\u201345<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p12-p16#p12\">Lucas 5:12\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"163022583\" id=\"p_ilPRQ\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19?lang=spa&amp;id=p16-p30#p16\">Mateo 19:16\u201330<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10?lang=spa&amp;id=p17-p31#p17\">Marcos 10:17\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p18-p30#p18\">Lucas 18:18\u201330<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"163022594\" id=\"p_xWggP\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p1-p21#p1\">Juan 3:1\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"163022602\" id=\"p_wK2Vp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4?lang=spa&amp;id=p1-p42#p1\">Juan 4:1\u201342<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"163022611\" id=\"p_rNxwM\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p31#p31\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 100\u2013101.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"163022619\" id=\"p_zsHJ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28\">Mateo 11:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"163022628\" id=\"p_hHtyl\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/28christofferson?lang=spa&amp;id=p39#p39\">La doctrina de pertenencia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 56.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"163022634\" id=\"p_wPNtN\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p13#p13\">Doctrina y Convenios 29:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/35?lang=spa&amp;id=p2#p2\">35:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/51?lang=spa&amp;id=p9#p9\">51:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"163022642\" id=\"p_j52oX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14\">Juan 15:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63\">Doctrina y Convenios 84:63<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "pid": "163020306",
+        "id": "note4",
+        "text": "<p data-aid=\"163022425\" id=\"p_m55js\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3#p3\">Doctrina y Convenios 88:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3#p3",
+          "text": "Doctrina y Convenios 88:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "pid": "163020306",
+        "id": "note5",
+        "text": "<p data-aid=\"163022433\" id=\"p_yHTDC\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3%2C62%2C117#p3\">Doctrina y Convenios 88:3, 62, 117<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p3%2C62%2C117#p3",
+          "text": "Doctrina y Convenios 88:3, 62, 117",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "pid": "163020306",
+        "id": "note2",
+        "text": "<p data-aid=\"163022413\" id=\"p_pl2lQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/87?lang=spa\">Doctrina y Convenios 87<\/a>, encabezamiento de la sección.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/87?lang=spa",
+          "text": "Doctrina y Convenios 87",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "pid": "163020306",
+        "id": "note3",
+        "text": "<p data-aid=\"163022418\" id=\"p_xFPrk\">\u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/minute-book-1/7#X0044F882-8E00-4BF0-A622-7A2C5D369A56\">Minute Book 1<\/a>\u201d, pág. 3, josephsmithpapers.org; se ha modernizado la ortografía.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/minute-book-1/7#X0044F882-8E00-4BF0-A622-7A2C5D369A56",
+          "text": "Minute Book 1"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "pid": "163020314",
+        "id": "note8",
+        "text": "<p data-aid=\"163022456\" id=\"p_wx0op\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/10/opening-remarks?lang=spa&amp;id=p3#p3\">Observaciones iniciales<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2018, pág. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/10/opening-remarks?lang=spa&amp;id=p3#p3",
+          "text": "Observaciones iniciales",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "pid": "163020314",
+        "id": "note9",
+        "text": "<p data-aid=\"163022464\" id=\"p_ia6ps\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p23#p23\">3 Nefi 19:23<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p22#p22\">Juan 17:22<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p23#p23",
+            "text": "3 Nefi 19:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p22#p22",
+            "text": "Juan 17:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "pid": "163020312",
+        "id": "note6",
+        "text": "<p data-aid=\"163022441\" id=\"p_xzAhE\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p13#p13\">Juan 15:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15?lang=spa&amp;id=p13#p13",
+          "text": "Juan 15:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "pid": "163020312",
+        "id": "note7",
+        "text": "<p data-aid=\"163022448\" id=\"p_aKKgp\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63\">Doctrina y Convenios 84:63<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14\">Juan 15:14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63",
+            "text": "Doctrina y Convenios 84:63",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14",
+            "text": "Juan 15:14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "pid": "163022393",
+        "id": "note30",
+        "text": "<p data-aid=\"163022642\" id=\"p_j52oX\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14\">Juan 15:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63\">Doctrina y Convenios 84:63<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/15?lang=spa&amp;id=p14#p14",
+            "text": "Juan 15:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p63#p63",
+            "text": "Doctrina y Convenios 84:63",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "pid": "163020344",
+        "id": "note16",
+        "text": "<p data-aid=\"163022527\" id=\"p_u3W2d\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27",
+          "text": "Doctrina y Convenios 38:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "pid": "163020321",
+        "id": "note15",
+        "text": "<p data-aid=\"163022518\" id=\"p_k1taM\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p20#p20\">Mateo 4:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/4?lang=spa&amp;id=p20#p20",
+          "text": "Mateo 4:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "pid": "163020321",
+        "id": "note14",
+        "text": "<p data-aid=\"163022509\" id=\"p_eejA9\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p9-p13#p9\">Mateo 9:9\u201313<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2?lang=spa&amp;id=p13-p14#p13\">Marcos 2:13\u201314<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p27-p32#p27\">Lucas 5:27\u201332<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/9?lang=spa&amp;id=p9-p13#p9",
+            "text": "Mateo 9:9\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/2?lang=spa&amp;id=p13-p14#p13",
+            "text": "Marcos 2:13\u201314",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/5?lang=spa&amp;id=p27-p32#p27",
+            "text": "Lucas 5:27\u201332",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "pid": "163020321",
+        "id": "note13",
+        "text": "<p data-aid=\"163022500\" id=\"p_hAw1V\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/3?lang=spa&amp;id=p17#p17\">Marcos 3:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/3?lang=spa&amp;id=p17#p17",
+          "text": "Marcos 3:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "pid": "163020321",
+        "id": "note12",
+        "text": "<p data-aid=\"163022491\" id=\"p_tqtld\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p15#p15\">Lucas 6:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/6?lang=spa&amp;id=p15#p15",
+          "text": "Lucas 6:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "pid": "163020321",
+        "id": "note11",
+        "text": "<p data-aid=\"163022482\" id=\"p_z6FZW\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/4?lang=spa&amp;id=p18-p22#p18\">Mateo 4:18\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p16-p20#p16\">Marcos 1:16\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p2-p11#p2\">Lucas 5:2\u201311<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/1?lang=spa&amp;id=p40-p42#p40\">Juan 1:40\u201342<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/4?lang=spa&amp;id=p18-p22#p18",
+            "text": "Mateo 4:18\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/1?lang=spa&amp;id=p16-p20#p16",
+            "text": "Marcos 1:16\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/5?lang=spa&amp;id=p2-p11#p2",
+            "text": "Lucas 5:2\u201311",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/1?lang=spa&amp;id=p40-p42#p40",
+            "text": "Juan 1:40\u201342",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "pid": "163020321",
+        "id": "note10",
+        "text": "<p data-aid=\"163022473\" id=\"p_sU5ax\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22\">Lucas 18:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/18?lang=spa&amp;id=p22#p22",
+          "text": "Lucas 18:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "pid": "163020360",
+        "id": "note19",
+        "text": "<p data-aid=\"163022551\" id=\"p_hpWSi\">Quentin L. Cook, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/27cook?lang=spa&amp;id=p34#p34\">Ser uno con Cristo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 51.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/27cook?lang=spa&amp;id=p34#p34",
+          "text": "Ser uno con Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "pid": "163020349",
+        "id": "note18",
+        "text": "<p data-aid=\"163022543\" id=\"p_c4Je4\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12\">1 Corintios 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3\">Efesios 4:3\u201316<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12",
+            "text": "1 Corintios 12:12\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3",
+            "text": "Efesios 4:3\u201316",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "pid": "163020349",
+        "id": "note17",
+        "text": "<p data-aid=\"163022535\" id=\"p_cmltw\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p15-p17#p15\">4 Nefi 1:15\u201317<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27",
+            "text": "Doctrina y Convenios 38:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p15-p17#p15",
+            "text": "4 Nefi 1:15\u201317",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "pid": "163022385",
+        "id": "note27",
+        "text": "<p data-aid=\"163022619\" id=\"p_zsHJ1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28\">Mateo 11:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28",
+          "text": "Mateo 11:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "pid": "163022382",
+        "id": "note26",
+        "text": "<p data-aid=\"163022611\" id=\"p_rNxwM\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p31#p31\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, págs. 100\u2013101.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p31#p31",
+          "text": "Se necesitan pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "pid": "163022382",
+        "id": "note25",
+        "text": "<p data-aid=\"163022602\" id=\"p_wK2Vp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/4?lang=spa&amp;id=p1-p42#p1\">Juan 4:1\u201342<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/4?lang=spa&amp;id=p1-p42#p1",
+          "text": "Juan 4:1\u201342",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "pid": "163022382",
+        "id": "note24",
+        "text": "<p data-aid=\"163022594\" id=\"p_xWggP\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p1-p21#p1\">Juan 3:1\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/3?lang=spa&amp;id=p1-p21#p1",
+          "text": "Juan 3:1\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "pid": "163022382",
+        "id": "note23",
+        "text": "<p data-aid=\"163022583\" id=\"p_ilPRQ\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19?lang=spa&amp;id=p16-p30#p16\">Mateo 19:16\u201330<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/10?lang=spa&amp;id=p17-p31#p17\">Marcos 10:17\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/18?lang=spa&amp;id=p18-p30#p18\">Lucas 18:18\u201330<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/19?lang=spa&amp;id=p16-p30#p16",
+            "text": "Mateo 19:16\u201330",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/10?lang=spa&amp;id=p17-p31#p17",
+            "text": "Marcos 10:17\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/18?lang=spa&amp;id=p18-p30#p18",
+            "text": "Lucas 18:18\u201330",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "pid": "163022382",
+        "id": "note22",
+        "text": "<p data-aid=\"163022575\" id=\"p_fE8mf\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/8?lang=spa&amp;id=p1-p4#p1\">Mateo 8:1\u20134<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p40-p45#p40\">Marcos 1:40\u201345<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/5?lang=spa&amp;id=p12-p16#p12\">Lucas 5:12\u201316<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/8?lang=spa&amp;id=p1-p4#p1",
+            "text": "Mateo 8:1\u20134",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/1?lang=spa&amp;id=p40-p45#p40",
+            "text": "Marcos 1:40\u201345",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/5?lang=spa&amp;id=p12-p16#p12",
+            "text": "Lucas 5:12\u201316",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note21": {
+        "marker": "21.",
+        "pid": "163022382",
+        "id": "note21",
+        "text": "<p data-aid=\"163022567\" id=\"p_oPRMf\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p20-p22#p20\">Mateo 9:20\u201322<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/5?lang=spa&amp;id=p25-p34#p25\">Marcos 5:25\u201334<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8?lang=spa&amp;id=p43-p48#p43\">Lucas 8:43\u201348<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/9?lang=spa&amp;id=p20-p22#p20",
+            "text": "Mateo 9:20\u201322",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/5?lang=spa&amp;id=p25-p34#p25",
+            "text": "Marcos 5:25\u201334",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/8?lang=spa&amp;id=p43-p48#p43",
+            "text": "Lucas 8:43\u201348",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "pid": "163022382",
+        "id": "note20",
+        "text": "<p data-aid=\"163022559\" id=\"p_xu4s7\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12\">1 Corintios 12:12\u201331<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3\">Efesios 4:3\u201316<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p31#p12",
+            "text": "1 Corintios 12:12\u201331",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/4?lang=spa&amp;id=p3-p16#p3",
+            "text": "Efesios 4:3\u201316",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "pid": "163020300",
+        "id": "note1",
+        "text": "<p data-aid=\"163022408\" id=\"p_bTc44\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p17#p17\">4 Nefi 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/4-ne/1?lang=spa&amp;id=p17#p17",
+          "text": "4 Nefi 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "pid": "163022393",
+        "id": "note29",
+        "text": "<p data-aid=\"163022634\" id=\"p_wPNtN\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27\">Doctrina y Convenios 38:27<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p13#p13\">Doctrina y Convenios 29:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/35?lang=spa&amp;id=p2#p2\">35:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/51?lang=spa&amp;id=p9#p9\">51:9<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/38?lang=spa&amp;id=p27#p27",
+            "text": "Doctrina y Convenios 38:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/29?lang=spa&amp;id=p13#p13",
+            "text": "Doctrina y Convenios 29:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/35?lang=spa&amp;id=p2#p2",
+            "text": "35:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/51?lang=spa&amp;id=p9#p9",
+            "text": "51:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "28.",
+        "pid": "163022385",
+        "id": "note28",
+        "text": "<p data-aid=\"163022628\" id=\"p_hHtyl\">D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/28christofferson?lang=spa&amp;id=p39#p39\">La doctrina de pertenencia<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 56.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/28christofferson?lang=spa&amp;id=p39#p39",
+          "text": "La doctrina de pertenencia",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}
