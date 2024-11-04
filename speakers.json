@@ -3736,7 +3736,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "David L.",
         "lastNames": "Beck",
         "id": 1441,
@@ -4974,5 +4974,53 @@
         "id": 1596,
         "suffix": "",
         "abbr": "Ad"
+    },
+    {
+        "collision": false,
+        "givenNames": "Gregorio E.",
+        "lastNames": "Casillas",
+        "id": 1597,
+        "suffix": "",
+        "abbr": "GEC"
+    },
+    {
+        "collision": false,
+        "givenNames": "I. Raymond",
+        "lastNames": "Egbo",
+        "id": 1598,
+        "suffix": "",
+        "abbr": "IRE"
+    },
+    {
+        "collision": false,
+        "givenNames": "Karl D.",
+        "lastNames": "Hirst",
+        "id": 1599,
+        "suffix": "",
+        "abbr": "KDH"
+    },
+    {
+        "collision": false,
+        "givenNames": "D. Martin",
+        "lastNames": "Goury",
+        "id": 1600,
+        "suffix": "",
+        "abbr": "DMG"
+    },
+    {
+        "collision": true,
+        "givenNames": "David L.",
+        "lastNames": "Buckner",
+        "id": 1601,
+        "suffix": "",
+        "abbr": "DlB"
+    },
+    {
+        "collision": false,
+        "givenNames": "Aroldo B.",
+        "lastNames": "Cavalcante",
+        "id": 1602,
+        "suffix": "",
+        "abbr": "ABC"
     }
 ]
