@@ -75,6 +75,7 @@ public class SciCrawler {
     private static final String O_ACCENT = "(?:o|ó|&#x[fF]3;|&#oacute;)";
     private static final String U_ACCENT = "(?:u|ú|&#x[fF][aA];|&#uacute;)";
     private static final String SPACE = "(?:\\s| |&#x[aA]0;|&#160;)+";
+    private static final String SPACE_OPTIONAL = "(?:\\s| |&#x[aA]0;|&#160;)?";
 
     // Properties
     private static final Logger logger = Logger.getLogger(SciCrawler.class.getName());
@@ -151,7 +152,7 @@ public class SciCrawler {
         paths = new Paths(conferencePath, language);
 
         String chapter = "(\\d+)";
-        String verses = "(\\d+(?:[-–—,]\\d+)*)";
+        String verses = "(\\d+(?:[-–—,]" + SPACE_OPTIONAL + "\\d+)*)";
 
         if (language.equalsIgnoreCase("spa")) {
             String bibleBookName = "(G" + E_ACCENT + "nesis|" + CAP_E_ACCENT + "xodo"
@@ -645,7 +646,7 @@ public class SciCrawler {
             String fullMatch = matcher.group(0);
             String book = matcher.group(1);
             String chapter = matcher.group(2);
-            String verses = matcher.group(3);
+            String verses = matcher.group(3).replaceAll(SPACE, "");
             String bookAbbr = BookFinder.sInstance.abbreviationForBook(book);
             String volume = "jst"; // BookFinder.sInstance.volumeForBook(book);
 
@@ -656,7 +657,7 @@ public class SciCrawler {
             links.add(new Link(
                     talkId, URL_SCRIPTURE_PATH + volume + PATH_SEPARATOR
                             + bookAbbr + PATH_SEPARATOR + chapter + "." + verses + URL_LANG
-                            + language + "#p" + Link.firstVerse(verses),
+                            + language /* + "#p" + Link.firstVerse(verses) */,
                     fullMatch, bookAbbr, chapter, verses, true, footnoteKey));
         }
     }
@@ -714,7 +715,7 @@ public class SciCrawler {
 
             List<Link> jstLinks = new ArrayList<>();
 
-            extractJstLinks(footnote.getString("text"), talkId, key, jstLinks);
+            extractJstLinks(footnote.getString("text").replace("%2C", ","), talkId, key, jstLinks);
 
             if (!jstLinks.isEmpty()) {
                 addNonduplicateLinks(jstLinks, links);
@@ -876,8 +877,11 @@ public class SciCrawler {
     }
 
     private void inlineFootnotes(StringBuilder talk, JSONObject footnotes) {
+        //
+        // <a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a>
+        //
         String markerParser = "<a\\s*class=\"note-ref\"\\s*href=\"#note(\\d+)\">"
-                + "\\s*<sup\\s*class=\"marker\">\\s*(\\d+)\\s*</sup>"
+                + "\\s*<sup\\s*class=\"marker\"\\s*(?:data-value=\"(\\d+)\")?>\\s*(\\d+)?\\s*</sup>"
                 + "\\s*</a>";
         Matcher markerMatcher = Pattern.compile(markerParser).matcher(talk);
         List<FootnoteMatch> matches = new ArrayList<>();
@@ -1367,10 +1371,6 @@ public class SciCrawler {
             citations.append("\t");
             citations.append(talkSpeakerInitials.get(link.talkId));
             citations.append("\t");
-
-            if (pageRanges.get(link.talkId) == null) {
-                System.out.println("Page range is null");
-            }
 
             citations.append(pageRanges.get(link.talkId)[1]);
             citations.append("\t");

@@ -1003,9 +1003,9 @@ public class Database {
             Map<String, String> talkContents, String language) {
         talkContents.forEach((talkId, contents) -> {
             // if (replaceTalkBodies) {
-            // NEEDSWORK
-            // Check to see whether the talk body is different from the one in the database.
-            // If so, update the database.
+                // NEEDSWORK
+                // Check to see whether the talk body is different from the one in the database.
+                // If so, update the database.
             // }
 
             logger.log(Level.INFO, () -> "Need to write talk body for " + talkId + ", length = " + contents.length());

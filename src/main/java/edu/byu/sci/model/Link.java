@@ -315,7 +315,8 @@ public class Link {
                 && textIsSimilar(href, link.href)
                 && talkId.equals(link.talkId)
                 && (footnoteKey.equals(link.footnoteKey) || footnoteKey.equals("body")
-                        || link.footnoteKey.equals("body"));
+                        || link.footnoteKey.equals("body"))
+                        || footnotesSimilar(footnoteKey, link.footnoteKey);
     }
 
     public static String firstVerse(String verses) {
@@ -326,6 +327,18 @@ public class Link {
         }
 
         return verses;
+    }
+
+    private boolean footnotesSimilar(String k1, String k2) {
+        if (k1.contains("-")) {
+            k1 = k1.substring(0, k1.indexOf("-"));
+        }
+
+        if (k2.contains("-")) {
+            k2 = k2.substring(0, k2.indexOf("-"));
+        }
+
+        return k1.equalsIgnoreCase(k2);
     }
 
     private int trailingChapterValue(String chapter1, String chapter2) {
