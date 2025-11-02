@@ -1,0 +1,797 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/41bednar?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "976b91fdc1db4b8097b3668c890f4a3c",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/41bednar",
+      "data-bcp47-lang": "es",
+      "data-aid": "165183384",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "05dad71c2c484eb2b6d83b12a6fdbfeb"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/vt25dbdv7m1kbrh6tgic2yji93pct2ajiyzbdjzi/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/a2kl1i26sqd0fg456xnxwuzyf1phzh0unr9gceh5-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Los tiempos de la restauración de todas las cosas",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165183384",
+      {"key": "165183384"}
+    ],
+    [
+      "165256210",
+      {"key": "165256210"}
+    ],
+    [
+      "165256232",
+      {"key": "165256232"}
+    ],
+    [
+      "165256255",
+      {"key": "165256255"}
+    ],
+    [
+      "165256279",
+      {"key": "165256279"}
+    ],
+    [
+      "165256303",
+      {"key": "165256303"}
+    ],
+    [
+      "165256326",
+      {"key": "165256326"}
+    ],
+    [
+      "165256350",
+      {"key": "165256350"}
+    ],
+    [
+      "165256374",
+      {"key": "165256374"}
+    ],
+    [
+      "165256398",
+      {"key": "165256398"}
+    ],
+    [
+      "165256423",
+      {"key": "165256423"}
+    ],
+    [
+      "165256446",
+      {"key": "165256446"}
+    ],
+    [
+      "165256472",
+      {"key": "165256472"}
+    ],
+    [
+      "165256497",
+      {"key": "165256497"}
+    ],
+    [
+      "165256522",
+      {"key": "165256522"}
+    ],
+    [
+      "165256547",
+      {"key": "165256547"}
+    ],
+    [
+      "165256571",
+      {"key": "165256571"}
+    ],
+    [
+      "165256595",
+      {"key": "165256595"}
+    ],
+    [
+      "165256622",
+      {"key": "165256622"}
+    ],
+    [
+      "165256645",
+      {"key": "165256645"}
+    ],
+    [
+      "165256672",
+      {"key": "165256672"}
+    ],
+    [
+      "165256679",
+      {"key": "165256679"}
+    ],
+    [
+      "165256708",
+      {"key": "165256708"}
+    ],
+    [
+      "165256735",
+      {"key": "165256735"}
+    ],
+    [
+      "165256762",
+      {"key": "165256762"}
+    ],
+    [
+      "165256789",
+      {"key": "165256789"}
+    ],
+    [
+      "165256817",
+      {"key": "165256817"}
+    ],
+    [
+      "165256845",
+      {"key": "165256845"}
+    ],
+    [
+      "165256872",
+      {"key": "165256872"}
+    ],
+    [
+      "165256901",
+      {"key": "165256901"}
+    ],
+    [
+      "165256914",
+      {"key": "165256914"}
+    ],
+    [
+      "165256942",
+      {"key": "165256942"}
+    ],
+    [
+      "165256971",
+      {"key": "165256971"}
+    ],
+    [
+      "165256997",
+      {"key": "165256997"}
+    ],
+    [
+      "165257024",
+      {"key": "165257024"}
+    ],
+    [
+      "165257051",
+      {"key": "165257051"}
+    ],
+    [
+      "165257080",
+      {"key": "165257080"}
+    ],
+    [
+      "165257109",
+      {"key": "165257109"}
+    ],
+    [
+      "165257138",
+      {"key": "165257138"}
+    ],
+    [
+      "165257167",
+      {"key": "165257167"}
+    ],
+    [
+      "165257195",
+      {"key": "165257195"}
+    ],
+    [
+      "165257224",
+      {"key": "165257224"}
+    ],
+    [
+      "165257253",
+      {"key": "165257253"}
+    ],
+    [
+      "165257282",
+      {"key": "165257282"}
+    ],
+    [
+      "165257311",
+      {"key": "165257311"}
+    ],
+    [
+      "165257339",
+      {"key": "165257339"}
+    ],
+    [
+      "165257371",
+      {"key": "165257371"}
+    ],
+    [
+      "165257382",
+      {"key": "165257382"}
+    ],
+    [
+      "165257412",
+      {"key": "165257412"}
+    ],
+    [
+      "165257443",
+      {"key": "165257443"}
+    ],
+    [
+      "165257474",
+      {"key": "165257474"}
+    ],
+    [
+      "165257505",
+      {"key": "165257505"}
+    ],
+    [
+      "165257535",
+      {"key": "165257535"}
+    ],
+    [
+      "165257566",
+      {"key": "165257566"}
+    ],
+    [
+      "165257597",
+      {"key": "165257597"}
+    ],
+    [
+      "165257627",
+      {"key": "165257627"}
+    ],
+    [
+      "165257659",
+      {"key": "165257659"}
+    ],
+    [
+      "165257692",
+      {"key": "165257692"}
+    ],
+    [
+      "165257724",
+      {"key": "165257724"}
+    ],
+    [
+      "165257756",
+      {"key": "165257756"}
+    ],
+    [
+      "165257787",
+      {"key": "165257787"}
+    ],
+    [
+      "165257819",
+      {"key": "165257819"}
+    ],
+    [
+      "165257850",
+      {"key": "165257850"}
+    ],
+    [
+      "165257881",
+      {"key": "165257881"}
+    ],
+    [
+      "165257931",
+      {"key": "165257931"}
+    ],
+    [
+      "165257964",
+      {"key": "165257964"}
+    ],
+    [
+      "165257998",
+      {"key": "165257998"}
+    ],
+    [
+      "165258032",
+      {"key": "165258032"}
+    ],
+    [
+      "165258066",
+      {"key": "165258066"}
+    ],
+    [
+      "165258102",
+      {"key": "165258102"}
+    ],
+    [
+      "165258136",
+      {"key": "165258136"}
+    ],
+    [
+      "165258162",
+      {"key": "165258162"}
+    ],
+    [
+      "165258203",
+      {"key": "165258203"}
+    ],
+    [
+      "165258239",
+      {"key": "165258239"}
+    ],
+    [
+      "165258276",
+      {"key": "165258276"}
+    ],
+    [
+      "165258312",
+      {"key": "165258312"}
+    ],
+    [
+      "165258351",
+      {"key": "165258351"}
+    ],
+    [
+      "165258405",
+      {"key": "165258405"}
+    ],
+    [
+      "165258444",
+      {"key": "165258444"}
+    ],
+    [
+      "165258481",
+      {"key": "165258481"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/41bednar",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Bednar resume los elementos de la Restauración del Evangelio y de la Iglesia de Jesucristo, incluidos la Primera Visión, el Libro de Mormón y el sacerdocio.",
+          "title": "Los tiempos de la restauración de todas las cosas"
+        },
+        "pageSocial": {
+          "description": "El élder Bednar resume los elementos de la Restauración del Evangelio y de la Iglesia de Jesucristo, incluidos la Primera Visión, el Libro de Mormón y el sacerdocio.",
+          "title": "Los tiempos de la restauración de todas las cosas"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/vt25dbdv7m1kbrh6tgic2yji93pct2ajiyzbdjzi/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/vt25dbdv7m1kbrh6tgic2yji93pct2ajiyzbdjzi/full/%21192%2C/0/default\" data-video-title=\"Los tiempos de la restauración de todas las cosas\" data-video-description=\"El élder Bednar resume los elementos de la restauración del Evangelio y de la Iglesia de Jesucristo, incluidos la Primera Visión, el Libro de Mormón y el sacerdocio.\" data-video-id=\"6371140543112\" data-duration=\"921100\" data-assetId=\"27xryl6f2z66pocbkfcgr0a9dwgay7emjfis7lm8\" data-ref-id=\"27xryl6f2z66pocbkfcgr0a9dwgay7emjfis7lm8\" data-duration-string=\"15:21\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371140543112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"269358804\"/><source src=\"https://assets.churchofjesuschrist.org/27xryl6f2z66pocbkfcgr0a9dwgay7emjfis7lm8-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"57713012\"/><source src=\"https://assets.churchofjesuschrist.org/27xryl6f2z66pocbkfcgr0a9dwgay7emjfis7lm8-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"95703709\"/><source src=\"https://assets.churchofjesuschrist.org/27xryl6f2z66pocbkfcgr0a9dwgay7emjfis7lm8-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"269358804\"/><\/video><h1 data-aid=\"165256210\" id=\"p_qFnSt\">Los tiempos de la restauración de todas las cosas<\/h1>\n<p class=\"subtitle\" data-aid=\"165256232\" id=\"p_hD9di\">(<a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3?lang=spa&amp;id=p21#p21\">Hechos 3:21<\/a>)<\/p>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165256255\" id=\"p_rUD8d\">Por el élder David A. Bednar<\/p>\n<p class=\"author-role\" data-aid=\"165256279\" id=\"p_mh06t\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165256303\" id=\"p_yf97w\">Las \u201cbuenas nuevas\u201d más importantes y gloriosas es el mensaje de que el Señor Jesucristo ha restaurado Su Evangelio y Su Iglesia en los últimos días.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"165256326\" id=\"p_saXrj\">La Iglesia de Jesucristo de los Santos de los Últimos fue organizada hace exactamente 195 años, el 6 de abril de 1830.<\/p>\n<p data-aid=\"165256350\" id=\"p_nYXKQ\">Una pequeña congregación de creyentes y amigos se reunió para esta ocasión trascendental y gozosa. Un gran derramamiento del Espíritu bendijo a todos los presentes cuando se administró la ordenanza de la Santa Cena, se confirió el don del Espíritu Santo, se efectuaron ordenaciones al sacerdocio y se predicaron las verdades del Evangelio de Jesucristo.<\/p>\n<p data-aid=\"165256374\" id=\"p_gEmMF\">Al restablecer Su Iglesia, el Señor designó por revelación a José Smith, de veinticuatro años, como su líder en la tierra: \u201cvidente, traductor, profeta, apóstol de Jesucristo, élder de la iglesia por la voluntad de Dios el Padre, y la gracia de tu Señor Jesucristo\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256398\" id=\"p_wgCCj\">Ruego fervientemente la ayuda del Espíritu Santo a medida que consideramos la importancia y el impacto continuo de este acontecimiento singular en la historia del mundo<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<section id=\"sec_n5k3c\">\n<header>\n<h2 data-aid=\"165256423\" id=\"p_iYv7g\">La Primera Visión<\/h2>\n<\/header>\n<p data-aid=\"165256446\" id=\"p_jkENx\">La organización formal de La Iglesia de Jesucristo de los Santos de los Últimos Días fue la culminación de una secuencia de experiencias milagrosas. La primera de esas experiencias ocurrió diez años antes en el norte del estado de Nueva York.<\/p>\n<p data-aid=\"165256472\" id=\"p_x9AR1\">En la primavera de 1820, un joven llamado José Smith fue a un bosque cerca de su casa para orar. Tenía preguntas en cuanto a la salvación de su alma y anhelaba saber \u201ccuál de todas las [iglesias] era la verdadera, a fin de saber a cuál unir[s]e\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. José confiaba en que Dios contestaría su oración y lo guiaría<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256497\" id=\"p_wbCws\">Observen que José no oró simplemente para saber qué era lo correcto. Más bien, oró para saber qué era lo correcto para poder hacer lo que era correcto. José preguntó con fe<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> y estaba decidido a actuar de acuerdo con las respuestas que recibió.<\/p>\n<p data-aid=\"165256522\" id=\"p_dKveK\">\u201cEn respuesta a su oración [sincera], Dios el Padre y Su Hijo Jesucristo se aparecieron a José y dieron comienzo a la \u2018restauración de todas las cosas\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/3?lang=spa&amp;id=p21#p21\">Hechos 3:21<\/a>) como se predijo en la Biblia. En esa visión, José se enteró de que después de la muerte de los apóstoles originales, la Iglesia de Cristo, de la época del Nuevo Testamento, dejó de existir en la tierra\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. José Smith tendría un papel decisivo en la restauración una vez más de la doctrina, la autoridad, los convenios y las ordenanzas de la antigua Iglesia del Salvador.<\/p>\n<img alt=\"La Primera Visión\" id=\"img_sfpRM\" src=\"https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21500%2C/0/default\" data-img-id=\"cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p\" srcset=\"https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p/full/%21640%2C/0/default 640w\" data-assetId=\"cxw52ae2vqjxnkpe3l8g24q21t1wtlxq0g0bhh0p\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Theophany of the First Vision\" data-public-description=\"The Theophany of the First Vision by Walter Rane. Joseph Smith looks up at God the Father and Jesus Christ in the Sacred Grove. It is early spring, and there are trees all around.\"/>\n<p data-aid=\"165256547\" id=\"p_xX2eF\">José afirmó: \u201cVi en el aire arriba de mí a dos Personajes, cuyo fulgor y gloria no admiten descripción. Uno de ellos me habló, llamándome por mi nombre, y dijo, señalando al otro: <em>Este es mi Hijo Amado: ¡Escúchalo!<\/em>\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256571\" id=\"p_hUkbw\">Mediante esa visión y subsiguientes experiencias divinas, José Smith llegó a comprender que Dios y Jesucristo lo conocían como persona, se preocupaban por su salvación eterna y tenían una misión para él. También aprendió lecciones cruciales acerca de los atributos, el carácter y las perfecciones de la Trinidad, y que el Padre y el Hijo son seres separados y distintos. Jesucristo es el Hijo literal de Dios en espíritu y en la carne<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256595\" id=\"p_wbxJe\">José Smith declaró que el Padre Celestial y Jesucristo son seres corpóreos. Él enseñó: \u201cEl Padre tiene un cuerpo de carne y huesos, tangible como el del hombre; así también el Hijo; pero el Espíritu Santo no tiene un cuerpo de carne y huesos, sino es un personaje de Espíritu\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256622\" id=\"p_ey7Gw\">Testifico que la visita del Padre y del Hijo a José Smith fue el acontecimiento que inició la grandiosa \u201crestauración de todas las cosas [\u2026] que se han declarado por boca de todos los santos profetas desde el principio del mundo\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_ifh8V\">\n<header>\n<h2 data-aid=\"165256645\" id=\"p_uD4qs\">El Libro de Mormón<\/h2>\n<\/header>\n<p data-aid=\"165256672\" id=\"p_fVnLl\">La segunda en la secuencia de experiencias milagrosas que condujeron a la organización formal de la Iglesia restaurada del Salvador fue la traducción y salida a la luz del Libro de Mormón.<\/p>\n<img alt=\"El Libro de Mormón: Otro Testamento de Jesucristo\" id=\"img_bEoDI\" src=\"https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21500%2C/0/default\" data-img-id=\"67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn\" srcset=\"https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn/full/%21640%2C/0/default 640w\" data-assetId=\"67c4y43xsj3itibp34qq01gfsi92qr0h3qndd4yn\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"333\" data-aspect-ratio=\"1.5015015015015014\" data-public-title=\"The Book of Mormon - Another Testament of Jesus Christ\" data-public-description=\"The Book of Mormon - Another Testament of Jesus Christ\"/>\n<p data-aid=\"165256679\" id=\"p_fGmMd\">\u201cA José Smith se le dio el don y el poder de Dios para traducir un registro antiguo: El Libro de Mormón, Otro Testamento de Jesucristo. [\u2026] En las páginas de este texto sagrado se halla el relato del ministerio personal de Jesucristo entre la gente del hemisferio occidental poco después de Su resurrección. [El Libro de Mormón] enseña el propósito de la vida y explica la doctrina de Cristo, que es fundamental en ese propósito. Como libro canónico que acompaña a la Biblia, el Libro de Mormón testifica que todos los seres humanos son hijos e hijas de un amoroso Padre Celestial, que Él tiene un plan divino para nuestra vida y que Su Hijo, Jesucristo, nos habla en la actualidad, así como lo hizo en los días antiguos\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256708\" id=\"p_n7HMB\">Como miembros de la Iglesia restaurada del Salvador, \u201ccreemos que la Biblia es la palabra de Dios hasta donde esté traducida correctamente; también creemos que el Libro de Mormón es la palabra de Dios\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. El Libro de Mormón es otro testamento de Jesucristo, confirma la veracidad de la Biblia y restaura verdades claras y preciosas que se perdieron de la Biblia<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_iPJhE\">\n<header>\n<h2 data-aid=\"165256735\" id=\"p_uKQYg\">La restauración del sacerdocio<\/h2>\n<\/header>\n<p data-aid=\"165256762\" id=\"p_od5pE\">La Iglesia de Jesucristo de los Santos de los Últimos Días enseña que la Iglesia original establecida por el Salvador, con su autoridad, doctrina, convenios y ordenanzas divinos, desapareció de la tierra. Como parte de la restauración profetizada de todas las cosas en los últimos días, antiguos profetas y apóstoles confirieron personalmente la autoridad del sacerdocio a José Smith y le entregaron llaves del sacerdocio. Esa fue la tercera en la secuencia de experiencias milagrosas que condujeron a la organización formal de la Iglesia restaurada del Salvador.<\/p>\n<p data-aid=\"165256789\" id=\"p_yURiA\">La autoridad del sacerdocio permite que los siervos de Dios lo \u201crepresent[en] a [Él] [\u2026] y act[úen] en Su nombre\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. \u201cLas llaves del sacerdocio son la autoridad para dirigir el uso del sacerdocio a favor de los hijos de Dios\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<img alt=\"La restauración del sacerdocio\" id=\"img_k4ecB\" src=\"https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21500%2C/0/default\" data-img-id=\"009d037967be638cf0096d375b9daed25e4f4150\" srcset=\"https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/009d037967be638cf0096d375b9daed25e4f4150/full/%21640%2C/0/default 640w\" data-assetId=\"009d037967be638cf0096d375b9daed25e4f4150\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"500\" data-aspect-ratio=\"1.0\" data-public-title=\"Restoration of the Melchezedek Priesthood\" data-public-description=\"Restoration of the Melchezedek Priesthood.\"/>\n<p data-aid=\"165256817\" id=\"p_zBDje\">Bajo la dirección del Padre y del Hijo, Juan el Bautista, como ser resucitado, restauró, en 1829, la autoridad para bautizar por inmersión para la remisión de pecados<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Ese mismo año<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>, tres de los Doce Apóstoles originales \u2014Pedro, Santiago y Juan\u2014 restauraron el apostolado, así como autoridad y llaves adicionales del sacerdocio<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256845\" id=\"p_io8LU\">Seis años después de la organización formal de la Iglesia, en el Templo de Kirtland, Moisés, Elías y Elías el Profeta confirieron a José la autoridad adicional necesaria para llevar a cabo la obra de Dios en los últimos días<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256872\" id=\"p_kWFc7\">Moisés entregó las llaves del recogimiento de Israel<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256901\" id=\"p_mAMab\">Elías entregó la dispensación del evangelio de Abraham, incluso la restauración del convenio abrahámico<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256914\" id=\"p_qR7Xx\">Elías el Profeta entregó las llaves del poder para sellar, proporcionando la autoridad que permite que las ordenanzas que se efectúan en la tierra sean válidas en la eternidad, tales como unir a las familias en relaciones eternas que trascienden la muerte<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_alkvy\">\n<header>\n<h2 data-aid=\"165256942\" id=\"p_zMdts\">Se organiza la Iglesia de Jesucristo<\/h2>\n<\/header>\n<p data-aid=\"165256971\" id=\"p_hf0Ar\">Mientras José Smith traducía el Libro de Mormón, recibió revelaciones que indicaban que la Iglesia de Jesucristo sería restablecida, pero el Señor le indicó a José que no organizara Su Iglesia de inmediato. Más bien, \u201cpor el espíritu de profecía y revelación\u201d, el Señor le reveló a José \u201cel día preciso en el cual [\u2026] habí[a] de proceder a organizar Su Iglesia una vez más [\u2026] sobre la tierra\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256997\" id=\"p_hyPEb\">La Iglesia se organizó en la secuencia adecuada solamente después de la restauración del sacerdocio y de la publicación del Libro de Mormón. Los primeros ejemplares del Libro de Mormón estuvieron disponibles el 26 de marzo de 1830 y la Iglesia se organizó formalmente el 6 de abril.<\/p>\n<img alt=\"El Salvador Jesucristo\" id=\"img_cD3iM\" src=\"https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21500%2C/0/default\" data-img-id=\"b6ac7c0244b511eda716eeeeac1e2c2387289831\" srcset=\"https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b6ac7c0244b511eda716eeeeac1e2c2387289831/full/%21640%2C/0/default 640w\" data-assetId=\"b6ac7c0244b511eda716eeeeac1e2c2387289831\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"262\" data-aspect-ratio=\"1.9083969465648856\" data-public-title=\"Be Not Afraid\" data-public-description=\"Painting of Jesus Christ by Mike Malm. Christ appears to be walking on the water with his arms outstretched to receive those who come, unto Him. There are clouds in the background with sunlight reflecting off the clouds. Light also emanates from around his head.\"/>\n<p data-aid=\"165257024\" id=\"p_iQAGM\">\u201cLa Iglesia de Jesucristo de los Santos de los Últimos Días [\u2026] es la Iglesia restaurada de Cristo, de la época del Nuevo Testamento. Esta Iglesia está fundada sobre la vida perfecta de su principal piedra del ángulo, Jesucristo, y sobre Su Expiación infinita y Resurrección literal. Jesucristo ha llamado de nuevo a apóstoles y les ha dado la autoridad del sacerdocio. Él nos invita a todos a venir a Él y a Su Iglesia, para recibir el Espíritu Santo, las ordenanzas de salvación y para obtener gozo duradero\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_ykTeO\">\n<header>\n<h2 data-aid=\"165257051\" id=\"p_d4VR5\">La dispensación del cumplimiento de los tiempos<\/h2>\n<\/header>\n<p data-aid=\"165257080\" id=\"p_ntzmP\">La aparición del Padre y del Hijo a José Smith, la traducción y salida a la luz del Libro de Mormón, y la restauración de la autoridad y las llaves del sacerdocio fueron requisitos previos necesarios para la organización de la Iglesia restaurada del Señor hace exactamente 195 años.<\/p>\n<p data-aid=\"165257109\" id=\"p_oiGeV\">En el Antiguo Testamento, el profeta Daniel interpretó un sueño sobre una piedra que sería cortada de un monte, no con mano, y que llenaría toda la tierra<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Un año después de la organización de la Iglesia, el Señor indicó a José Smith que las llaves del Reino de Dios habían sido nuevamente \u201centregadas al hombre en la tierra\u201d y que \u201cel evangelio [de Jesucristo rodaría] hasta los extremos de ella, como la piedra cortada del monte, no con mano\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165257138\" id=\"p_th9rT\">Testifico: El Señor está cumpliendo Su promesa. La Iglesia restaurada del Salvador se está estableciendo en todo el mundo y es el instrumento por el cual Dios \u201creunir[á] todas las cosas en Cristo [\u2026], tanto las que están en los cielos, como las que están en la tierra\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165257167\" id=\"p_tAMHa\">La obra del Señor en los últimos días \u201ces una causa que ha interesado al pueblo de Dios en todas las edades; es un tema que los profetas, reyes y sacerdotes han tratado con gozo particular. Han mirado adelante, con gloriosa expectativa, hacia el día en que ahora vivimos; e inspirados por celestiales y gozosas expectativas, han cantado, escrito y profetizado acerca de esta, nuestra época\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165257195\" id=\"p_hXjy8\">En esta, la más grande y la última de todas las dispensaciones del Evangelio, \u201ces menester que una unión entera, completa y perfecta, así como un encadenamiento de dispensaciones, llaves, poderes y glorias se realicen y sean revelados desde los días de Adán hasta el tiempo presente. Y no solo eso, sino que las cosas que jamás se han revelado desde la fundación del mundo [\u2026] serán reveladas [\u2026] en esta, la dispensación del cumplimiento de los tiempos\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165257224\" id=\"p_stTu6\">El profeta José Smith también explicó: \u201cTodas las ordenanzas y los deberes que jamás haya requerido el sacerdocio, bajo la dirección y los mandamientos del Todopoderoso, en cualquiera de las dispensaciones, se hallarán en la última dispensación [\u2026], con lo que se efectuará la restauración de la que han hablado todos los santos profetas\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_o4v6M\">\n<header>\n<h2 data-aid=\"165257253\" id=\"p_t5Ydn\">Promesas y testimonio<\/h2>\n<\/header>\n<p data-aid=\"165257282\" id=\"p_sgNFG\">He intentado resumir los elementos básicos de las \u201cbuenas nuevas\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> más importantes y gloriosas que cualquier persona en cualquier parte del mundo puede recibir: el mensaje de que el Señor Jesucristo ha restaurado Su Evangelio y Su Iglesia en los últimos días.<\/p>\n<p data-aid=\"165257311\" id=\"p_hNu7d\">Invito a todos a aprender y a comprobar este mensaje. Prometo que \u201caquellos que estudien con espíritu de oración el mensaje de la Restauración y actúen con fe serán bendecidos [mediante el poder del Espíritu Santo] para obtener su propio testimonio de la divinidad y del propósito de ella, de preparar al mundo para la Segunda Venida prometida de nuestro Señor y Salvador, Jesucristo\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>. A medida que oren fervientemente con la expectativa de recibir una respuesta de Dios y actuar de acuerdo con ella, como lo hizo el joven José Smith, su capacidad para reconocer y responder a ese testimonio divino aumentará.<\/p>\n<p data-aid=\"165257339\" id=\"p_sZy0Y\">Testifico que Dios, el Padre Eterno, es nuestro Padre. Testifico que Jesucristo es el Hijo Amado del Padre y Su Unigénito en la carne. Él es nuestro Salvador y Redentor.<\/p>\n<p data-aid=\"165257371\" id=\"p_a91gK\">Y testifico alegremente que el Padre y el Hijo se aparecieron al joven José Smith, dando así comienzo a la Restauración del Evangelio de Jesucristo en los últimos días. El Libro de Mormón es otro testamento de Jesucristo y contiene la palabra de Dios. La autoridad del sacerdocio para representar al Salvador y actuar nuevamente en Su nombre se encuentra en la tierra. Y La Iglesia de Jesucristo de los Santos de los Últimos Días es la Iglesia restaurada de Cristo, de la época del Nuevo Testamento. Declaro mi firme testimonio de que todas estas cosas son verdaderas, en el sagrado nombre del Señor Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165257382\" id=\"p_vTLpx\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165257412\" id=\"p_byA7Z\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 21:1<\/a>; véase también <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/the-life-and-ministry-of-joseph-smith?lang=spa&amp;id=p21#p21\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, págs. 9\u201310.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165257443\" id=\"p_lSnHi\">Al preparar este mensaje, me he basado ampliamente en las enseñanzas expuestas en las proclamaciones emitidas por la Primera Presidencia y el Cuórum de los Doce Apóstoles en 1980 y en 2020: \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/proclamation.html\">Proclamación<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1980, pág. 86; \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2\">La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165257474\" id=\"p_d1BOc\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p18#p18\">José Smith\u2014Historia 1:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165257505\" id=\"p_crEnl\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165257535\" id=\"p_yXRUG\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p11-p13#p11\">José Smith\u2014Historia 1:11\u201313<\/a>; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/ask-in-faith?lang=spa\">Pedir con fe<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, págs. 94\u201397.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165257566\" id=\"p_yqdzu\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p3#p3\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165257597\" id=\"p_nqC1L\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165257627\" id=\"p_i1L57\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11?lang=spa&amp;id=p18-p21#p18\">1 Nefi 11:18\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p11-p14%2Cp21#p11\">Doctrina y Convenios 93:11\u201314, 21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165257659\" id=\"p_mEYtL\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165257692\" id=\"p_eYQpU\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p6#p6\">Doctrina y Convenios 27:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165257724\" id=\"p_fOj3K\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p5#p5\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165257756\" id=\"p_gcUEr\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p8#p8\">Artículos de Fe 1:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165257787\" id=\"p_lURQa\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p40#p40\">1 Nefi 13:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165257819\" id=\"p_n8Tnm\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p27#p27\">3.4<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165257850\" id=\"p_gliUN\"><cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p29#p29\">3.4.1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165257881\" id=\"p_tEncl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 13:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165257931\" id=\"p_rqv62\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 18:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">27:12\u201313<\/a>; véase también Revelation Book 1, pág. 24, <a href=\"https://www.josephsmithpapers.org/paper-summary/revelation-book-1/10\">josephsmithpapers.org<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165257964\" id=\"p_tkkrV\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">Doctrina y Convenios 27:12\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165257998\" id=\"p_pmGl2\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11\">Doctrina y Convenios 110:11\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165258032\" id=\"p_oBVYK\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 110:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165258066\" id=\"p_zQWyk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p9-p11#p9\">Abraham 2:9\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165258102\" id=\"p_bhryS\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p9-p10#p9\">Doctrina y Convenios 128:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165258136\" id=\"p_mZelM\"><a class=\"cross-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=study_intro1#study_intro1\">Doctrina y Convenios 20, encabezamiento de la sección<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165258162\" id=\"p_ceJmv\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p6#p6\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165258203\" id=\"p_ekhre\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/2?lang=spa&amp;id=p28%2Cp35%2Cp44#p28\">Daniel 2:28, 35, 44<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/2?lang=spa&amp;id=p1-p45#p1\">versículos 1\u201345<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165258239\" id=\"p_gXWQ7\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 65:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165258276\" id=\"p_tehdw\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165258312\" id=\"p_vFP0U\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-15?lang=spa&amp;id=p8#p8\">Enseñanzas: José Smith<\/a><\/cite>, pág. 186.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165258351\" id=\"p_oUDTN\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 128:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"165258405\" id=\"p_geltM\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p13#p13\">Enseñanzas: José Smith<\/a><\/cite>, pág. 511.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"165258444\" id=\"p_n5aXy\">Guía para el Estudio de las Escrituras, \u201c<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/bd/gospels.html\">Evangelios<\/span>\u201d.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"165258481\" id=\"p_pokod\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p9#p9\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165256472",
+        "id": "note4",
+        "text": "<p data-aid=\"165257505\" id=\"p_crEnl\">Véase \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165256497",
+        "id": "note5",
+        "text": "<p data-aid=\"165257535\" id=\"p_yXRUG\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p11-p13#p11\">José Smith\u2014Historia 1:11\u201313<\/a>; David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/04/ask-in-faith?lang=spa\">Pedir con fe<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2008, págs. 94\u201397.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p11-p13#p11",
+            "text": "José Smith\u2014Historia 1:11\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2008/04/ask-in-faith?lang=spa",
+            "text": "Pedir con fe",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165256398",
+        "id": "note2",
+        "text": "<p data-aid=\"165257443\" id=\"p_lSnHi\">Al preparar este mensaje, me he basado ampliamente en las enseñanzas expuestas en las proclamaciones emitidas por la Primera Presidencia y el Cuórum de los Doce Apóstoles en 1980 y en 2020: \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/proclamation.html\">Proclamación<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1980, pág. 86; \u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2\">La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p2#p2",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo: Una proclamación para el mundo en el bicentenario",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165256472",
+        "id": "note3",
+        "text": "<p data-aid=\"165257474\" id=\"p_d1BOc\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p18#p18\">José Smith\u2014Historia 1:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p18#p18",
+          "text": "José Smith\u2014Historia 1:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165256571",
+        "id": "note8",
+        "text": "<p data-aid=\"165257627\" id=\"p_i1L57\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/11?lang=spa&amp;id=p18-p21#p18\">1 Nefi 11:18\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p11-p14%2Cp21#p11\">Doctrina y Convenios 93:11\u201314, 21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/11?lang=spa&amp;id=p18-p21#p18",
+            "text": "1 Nefi 11:18\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p11-p14%2Cp21#p11",
+            "text": "Doctrina y Convenios 93:11\u201314, 21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165256595",
+        "id": "note9",
+        "text": "<p data-aid=\"165257659\" id=\"p_mEYtL\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22",
+          "text": "Doctrina y Convenios 130:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165256522",
+        "id": "note6",
+        "text": "<p data-aid=\"165257566\" id=\"p_yqdzu\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p3#p3\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p3#p3",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165256547",
+        "id": "note7",
+        "text": "<p data-aid=\"165257597\" id=\"p_nqC1L\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17\">José Smith\u2014Historia 1:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p17#p17",
+          "text": "José Smith\u2014Historia 1:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "165257224",
+        "id": "note30",
+        "text": "<p data-aid=\"165258405\" id=\"p_geltM\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p13#p13\">Enseñanzas: José Smith<\/a><\/cite>, pág. 511.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p13#p13",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165256817",
+        "id": "note16",
+        "text": "<p data-aid=\"165257881\" id=\"p_tEncl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 13:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/13?lang=spa&amp;id=p1#p1",
+          "text": "Doctrina y Convenios 13:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165256789",
+        "id": "note15",
+        "text": "<p data-aid=\"165257850\" id=\"p_gliUN\"><cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p29#p29\">3.4.1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p29#p29",
+          "text": "3.4.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165256789",
+        "id": "note14",
+        "text": "<p data-aid=\"165257819\" id=\"p_n8Tnm\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p27#p27\">3.4<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/3-priesthood-principles?lang=spa&amp;id=p27#p27",
+          "text": "3.4",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165256708",
+        "id": "note13",
+        "text": "<p data-aid=\"165257787\" id=\"p_lURQa\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p40#p40\">1 Nefi 13:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p40#p40",
+          "text": "1 Nefi 13:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165256708",
+        "id": "note12",
+        "text": "<p data-aid=\"165257756\" id=\"p_gcUEr\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p8#p8\">Artículos de Fe 1:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p8#p8",
+          "text": "Artículos de Fe 1:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165256679",
+        "id": "note11",
+        "text": "<p data-aid=\"165257724\" id=\"p_fOj3K\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p5#p5\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p5#p5",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165256622",
+        "id": "note10",
+        "text": "<p data-aid=\"165257692\" id=\"p_eYQpU\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p6#p6\">Doctrina y Convenios 27:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p6#p6",
+          "text": "Doctrina y Convenios 27:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "165257311",
+        "id": "note32",
+        "text": "<p data-aid=\"165258481\" id=\"p_pokod\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p9#p9\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p9#p9",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "165257282",
+        "id": "note31",
+        "text": "<p data-aid=\"165258444\" id=\"p_n5aXy\">Guía para el Estudio de las Escrituras, \u201c<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/bd/gospels.html\">Evangelios<\/span>\u201d.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165256845",
+        "id": "note19",
+        "text": "<p data-aid=\"165257998\" id=\"p_pmGl2\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11\">Doctrina y Convenios 110:11\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11",
+          "text": "Doctrina y Convenios 110:11\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165256817",
+        "id": "note18",
+        "text": "<p data-aid=\"165257964\" id=\"p_tkkrV\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">Doctrina y Convenios 27:12\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12",
+          "text": "Doctrina y Convenios 27:12\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165256817",
+        "id": "note17",
+        "text": "<p data-aid=\"165257931\" id=\"p_rqv62\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 18:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12\">27:12\u201313<\/a>; véase también Revelation Book 1, pág. 24, <a href=\"https://www.josephsmithpapers.org/paper-summary/revelation-book-1/10\">josephsmithpapers.org<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p9#p9",
+            "text": "Doctrina y Convenios 18:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/27?lang=spa&amp;id=p12-p13#p12",
+            "text": "27:12\u201313",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/revelation-book-1/10",
+            "text": "josephsmithpapers.org"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165257138",
+        "id": "note27",
+        "text": "<p data-aid=\"165258276\" id=\"p_tehdw\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10",
+          "text": "Efesios 1:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165257109",
+        "id": "note26",
+        "text": "<p data-aid=\"165258239\" id=\"p_gXWQ7\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p2#p2\">Doctrina y Convenios 65:2<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p2#p2",
+          "text": "Doctrina y Convenios 65:2",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165257109",
+        "id": "note25",
+        "text": "<p data-aid=\"165258203\" id=\"p_ekhre\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/2?lang=spa&amp;id=p28%2Cp35%2Cp44#p28\">Daniel 2:28, 35, 44<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/2?lang=spa&amp;id=p1-p45#p1\">versículos 1\u201345<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/dan/2?lang=spa&amp;id=p28%2Cp35%2Cp44#p28",
+            "text": "Daniel 2:28, 35, 44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/dan/2?lang=spa&amp;id=p1-p45#p1",
+            "text": "versículos 1\u201345",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165257024",
+        "id": "note24",
+        "text": "<p data-aid=\"165258162\" id=\"p_ceJmv\">\u201c<a class=\"cross-ref\" href=\"/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p6#p6\">La Restauración de la plenitud del Evangelio de Jesucristo<\/a>\u201d, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=spa&amp;id=p6#p6",
+          "text": "La Restauración de la plenitud del Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165256971",
+        "id": "note23",
+        "text": "<p data-aid=\"165258136\" id=\"p_mZelM\"><a class=\"cross-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=study_intro1#study_intro1\">Doctrina y Convenios 20, encabezamiento de la sección<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=study_intro1#study_intro1",
+          "text": "Doctrina y Convenios 20, encabezamiento de la sección",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165256914",
+        "id": "note22",
+        "text": "<p data-aid=\"165258102\" id=\"p_bhryS\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p9-p10#p9\">Doctrina y Convenios 128:9\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p9-p10#p9",
+          "text": "Doctrina y Convenios 128:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165256901",
+        "id": "note21",
+        "text": "<p data-aid=\"165258066\" id=\"p_zQWyk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p9-p11#p9\">Abraham 2:9\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/abr/2?lang=spa&amp;id=p9-p11#p9",
+          "text": "Abraham 2:9\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165256872",
+        "id": "note20",
+        "text": "<p data-aid=\"165258032\" id=\"p_oBVYK\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 110:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11#p11",
+          "text": "Doctrina y Convenios 110:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165256374",
+        "id": "note1",
+        "text": "<p data-aid=\"165257412\" id=\"p_byA7Z\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1#p1\">Doctrina y Convenios 21:1<\/a>; véase también <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/the-life-and-ministry-of-joseph-smith?lang=spa&amp;id=p21#p21\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/cite>, 2007, págs. 9\u201310.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1#p1",
+            "text": "Doctrina y Convenios 21:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-joseph-smith/the-life-and-ministry-of-joseph-smith?lang=spa&amp;id=p21#p21",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165257195",
+        "id": "note29",
+        "text": "<p data-aid=\"165258351\" id=\"p_oUDTN\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 128:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p18#p18",
+          "text": "Doctrina y Convenios 128:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165257167",
+        "id": "note28",
+        "text": "<p data-aid=\"165258312\" id=\"p_vFP0U\"><cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-15?lang=spa&amp;id=p8#p8\">Enseñanzas: José Smith<\/a><\/cite>, pág. 186.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-15?lang=spa&amp;id=p8#p8",
+          "text": "Enseñanzas: José Smith",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

@@ -2848,7 +2848,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Stayner",
         "lastNames": "Richards",
         "id": 1329,
@@ -5022,5 +5022,45 @@
         "id": 1602,
         "suffix": "",
         "abbr": "ABC"
+    },
+    {
+        "collision": false,
+        "givenNames": "Steven D.",
+        "lastNames": "Shumway",
+        "id": 1603,
+        "suffix": "",
+        "abbr": "SDS"
+    },
+    {
+        "collision": false,
+        "givenNames": "Christopher H.",
+        "lastNames": "Kim",
+        "id": 1604,
+        "suffix": "",
+        "abbr": "CHK"
+    },
+    {
+        "collision": true,
+        "givenNames": "Sandino",
+        "lastNames": "Roman",
+        "id": 1605,
+        "suffix": "",
+        "abbr": "Sr"
+    },
+    {
+        "collision": false,
+        "givenNames": "Michael B.",
+        "lastNames": "Strong",
+        "id": 1606,
+        "suffix": "",
+        "abbr": "MBS"
+    },
+    {
+        "collision": false,
+        "givenNames": "Sergio R.",
+        "lastNames": "Vargas",
+        "id": 1607,
+        "suffix": "",
+        "abbr": "SRV"
     }
 ]

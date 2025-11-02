@@ -1,0 +1,575 @@
+{
+    "tableOfContentsUri": "/general-conference/2025/04",
+    "meta": {
+        "scopedClassName": "global-template-mobile_lesson",
+        "hasChat": false,
+        "archived": false,
+        "canonicalUrl": "/general-conference/2025/04/14johnson?lang=eng",
+        "pageAttributes": {
+            "data-asset-id": "91dd62e31afd4ca0aa7d9cdeb24e1ea1",
+            "data-content-type": "general-conference-talk",
+            "itemscope": "",
+            "itemtype": "http://schema.org/Article",
+            "data-uri": "/general-conference/2025/04/14johnson",
+            "data-bcp47-lang": "en",
+            "data-aid": "165187834",
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "lang": "eng",
+            "data-aid-version": "2",
+            "data-orig-id": "91dd62e31afd4ca0aa7d9cdeb24e1ea1"
+        },
+        "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/oj63l5mrqyhm8750e16ihe6m0es9xuvpzjlt676a/full/%21192%2C/0/default",
+        "audio": [
+            {
+                "mediaUrl": "https://assets.churchofjesuschrist.org/owl56cnh58bk1ui0gma6f3zghd6eaapl1e3ez84v-128k-en.mp3",
+                "variant": "audio"
+            }
+        ],
+        "title": "Spiritually Whole in Him",
+        "contentType": "text/html",
+        "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+    },
+    "restricted": 0,
+    "verified": true,
+    "pids": [
+        ["165187834", { "key": "165187834" }],
+        ["165187837", { "key": "165187837" }],
+        ["165187840", { "key": "165187840" }],
+        ["165187844", { "key": "165187844" }],
+        ["165187848", { "key": "165187848" }],
+        ["165187852", { "key": "165187852" }],
+        ["165187856", { "key": "165187856" }],
+        ["165187860", { "key": "165187860" }],
+        ["165187865", { "key": "165187865" }],
+        ["165187869", { "key": "165187869" }],
+        ["165187873", { "key": "165187873" }],
+        ["165187877", { "key": "165187877" }],
+        ["165187881", { "key": "165187881" }],
+        ["165187885", { "key": "165187885" }],
+        ["165187891", { "key": "165187891" }],
+        ["165187896", { "key": "165187896" }],
+        ["165187901", { "key": "165187901" }],
+        ["165187906", { "key": "165187906" }],
+        ["165187911", { "key": "165187911" }],
+        ["165187916", { "key": "165187916" }],
+        ["165187921", { "key": "165187921" }],
+        ["165187926", { "key": "165187926" }],
+        ["165187931", { "key": "165187931" }],
+        ["165187936", { "key": "165187936" }],
+        ["165187941", { "key": "165187941" }],
+        ["165187946", { "key": "165187946" }],
+        ["165187950", { "key": "165187950" }],
+        ["165187955", { "key": "165187955" }],
+        ["165187960", { "key": "165187960" }],
+        ["165187965", { "key": "165187965" }],
+        ["165187970", { "key": "165187970" }],
+        ["165187975", { "key": "165187975" }],
+        ["165187981", { "key": "165187981" }],
+        ["165187988", { "key": "165187988" }],
+        ["165187994", { "key": "165187994" }],
+        ["165188001", { "key": "165188001" }],
+        ["165188006", { "key": "165188006" }],
+        ["165188015", { "key": "165188015" }],
+        ["165188018", { "key": "165188018" }],
+        ["165188024", { "key": "165188024" }],
+        ["165188031", { "key": "165188031" }],
+        ["165188038", { "key": "165188038" }],
+        ["165188045", { "key": "165188045" }],
+        ["165188051", { "key": "165188051" }],
+        ["165188057", { "key": "165188057" }],
+        ["165188063", { "key": "165188063" }],
+        ["165188070", { "key": "165188070" }],
+        ["165188077", { "key": "165188077" }],
+        ["165188083", { "key": "165188083" }],
+        ["165188089", { "key": "165188089" }],
+        ["165188095", { "key": "165188095" }],
+        ["165188102", { "key": "165188102" }],
+        ["165188109", { "key": "165188109" }],
+        ["165188116", { "key": "165188116" }],
+        ["165188123", { "key": "165188123" }],
+        ["165188132", { "key": "165188132" }],
+        ["165188139", { "key": "165188139" }],
+        ["165188149", { "key": "165188149" }],
+        ["165188159", { "key": "165188159" }],
+        ["165188169", { "key": "165188169" }],
+        ["165188180", { "key": "165188180" }],
+        ["165188191", { "key": "165188191" }],
+        ["165188204", { "key": "165188204" }],
+        ["165188215", { "key": "165188215" }],
+        ["165188227", { "key": "165188227" }],
+        ["165188240", { "key": "165188240" }],
+        ["165190253", { "key": "165190253" }],
+        ["165190266", { "key": "165190266" }],
+        ["165190279", { "key": "165190279" }],
+        ["165190293", { "key": "165190293" }],
+        ["165190305", { "key": "165190305" }],
+        ["165190317", { "key": "165190317" }],
+        ["165190329", { "key": "165190329" }],
+        ["165190337", { "key": "165190337" }],
+        ["165190351", { "key": "165190351" }],
+        ["165190362", { "key": "165190362" }],
+        ["165190373", { "key": "165190373" }],
+        ["165190384", { "key": "165190384" }],
+        ["165190394", { "key": "165190394" }],
+        ["165190405", { "key": "165190405" }],
+        ["165190416", { "key": "165190416" }],
+        ["165190427", { "key": "165190427" }],
+        ["165190438", { "key": "165190438" }],
+        ["165190449", { "key": "165190449" }],
+        ["165190460", { "key": "165190460" }],
+        ["165190471", { "key": "165190471" }],
+        ["165190481", { "key": "165190481" }],
+        ["165190491", { "key": "165190491" }],
+        ["165190501", { "key": "165190501" }],
+        ["165190511", { "key": "165190511" }],
+        ["165190521", { "key": "165190521" }],
+        ["165190531", { "key": "165190531" }],
+        ["165190541", { "key": "165190541" }],
+        ["165190551", { "key": "165190551" }],
+        ["165190561", { "key": "165190561" }],
+        ["165190569", { "key": "165190569" }],
+        ["165190581", { "key": "165190581" }],
+        ["165190591", { "key": "165190591" }],
+        ["165190601", { "key": "165190601" }]
+    ],
+    "uri": "/general-conference/2025/04/14johnson",
+    "content": {
+        "head": {
+            "links": [
+                {
+                    "orig-type": "text/css",
+                    "rel": "stylesheet",
+                    "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+                    "type": "array"
+                }
+            ],
+            "scripts": [],
+            "page-meta-social": {
+                "pageMeta": {
+                    "description": "President Johnson teaches that we can be spiritually whole as we wait for physical and emotional healing.",
+                    "title": "Spiritually Whole in Him"
+                },
+                "pageSocial": {
+                    "description": "President Johnson teaches that we can be spiritually whole as we wait for physical and emotional healing.",
+                    "title": "Spiritually Whole in Him"
+                }
+            }
+        },
+        "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/oj63l5mrqyhm8750e16ihe6m0es9xuvpzjlt676a/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/oj63l5mrqyhm8750e16ihe6m0es9xuvpzjlt676a/full/%21192%2C/0/default\" data-video-title=\"Spiritually Whole in Him\" data-video-description=\"President Johnson teaches that we can be spiritually whole as we wait for physical and emotional healing.\" data-video-id=\"6371098327112\" data-duration=\"688933\" data-assetId=\"le35ju6y11kz8chjy9tozla0mjtanlfzi48tzf0f\" data-ref-id=\"le35ju6y11kz8chjy9tozla0mjtanlfzi48tzf0f\" data-duration-string=\"11:28\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371098327112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211370463\"/><source src=\"https://assets.churchofjesuschrist.org/le35ju6y11kz8chjy9tozla0mjtanlfzi48tzf0f-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"39178316\"/><source src=\"https://assets.churchofjesuschrist.org/le35ju6y11kz8chjy9tozla0mjtanlfzi48tzf0f-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"74543630\"/><source src=\"https://assets.churchofjesuschrist.org/le35ju6y11kz8chjy9tozla0mjtanlfzi48tzf0f-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"211370463\"/></video><h1 data-aid=\"165187837\" id=\"p_aQzb3\">Spiritually Whole in Him</h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165187840\" id=\"p_jhjuw\">By President Camille N. Johnson</p>\n<p class=\"author-role\" data-aid=\"165187844\" id=\"p_oi8IR\">Relief Society General President</p>\n</div>\n<p class=\"kicker\" data-aid=\"165187848\" id=\"p_l59MK\">Wholeness does not necessarily mean physical and emotional restoration in this life. Wholeness is born of faith in and conversion to Jesus Christ.</p>\n</header>\n<div class=\"body-block\">\n<p data-aid=\"165187852\" id=\"p_nOi5i\">Ten lepers hollered to the Savior, \u201cHave mercy on us.\u201d And Jesus did. He told them to show themselves to the priest, and as they went, they were cleansed of the disease.</p>\n<p data-aid=\"165187856\" id=\"p_sRbN6\">And one of them, when he saw that he was healed, shouted praises to God. He returned to the Savior, fell at His feet, and expressed gratitude.</p>\n<p data-aid=\"165187860\" id=\"p_tmSf0\">And the Savior said to him who was thankful, \u201cThy faith hath made thee whole.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"></sup></a></p>\n<p data-aid=\"165187865\" id=\"p_yHxRB\">Jesus Christ had healed ten lepers. But one, coming back to the Savior, received something in addition. He was made whole.</p>\n<p data-aid=\"165187869\" id=\"p_l02Ud\">Nine lepers were physically healed.</p>\n<p data-aid=\"165187873\" id=\"p_ypvh4\">One was physically healed <em>and</em> made spiritually whole.</p>\n<p data-aid=\"165187877\" id=\"p_dRzpc\">In pondering this story, I have wondered if the converse is true. If healing and wholeness are not the same, can one be made spiritually whole by Him but not yet physically and emotionally healed?</p>\n<p data-aid=\"165187881\" id=\"p_k4Dxb\">The Master Healer will heal all our afflictions\u2014physical and emotional\u2014in His time.<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"></sup></a> But in the waiting to be healed, can one be whole?</p>\n<p data-aid=\"165187885\" id=\"p_cBGMS\">What might it mean to be spiritually whole?</p>\n<p data-aid=\"165187891\" id=\"p_o3mDd\">We are whole in Jesus Christ when we exercise our agency to follow Him in faith, submit our hearts to Him so He can change them, keep His commandments, and enter a covenant relationship with Him, meekly enduring and learning from the challenges of this earthly estate until we return to His presence and are healed in every way. I can be whole while I wait for healing if I am wholehearted in my relationship with Him.</p>\n<p data-aid=\"165187896\" id=\"p_r0lXj\">Faith in Jesus Christ begets hope. I find hope in striving to be whole\u2014a wholeness born of faith in Jesus Christ. Faith in Him increases my hope for healing, and that hope reinforces my faith in Jesus Christ. It is a powerful cycle.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"></sup></a></p>\n<p data-aid=\"165187901\" id=\"p_knTha\">The Lord told Enos his faith had made him \u201cwhole.\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"></sup></a> Wholeness came as Enos pondered on the words of his prophet-father, Jacob, as he hungered to understand the opportunity for eternal life, as he cried unto God in mighty prayer. And in that state of desire and humility, the voice of the Lord came to him, announcing his sins were forgiven. And Enos asked the Lord, \u201cHow is it done?\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"></sup></a> And the Lord responded, \u201cBecause of thy faith in Christ, \u2026 thy faith hath made thee whole.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"></sup></a></p>\n<p data-aid=\"165187906\" id=\"p_tcQcO\">Through our faith in Jesus Christ, we can seek to be spiritually whole while we wait and hope for physical and emotional healing.</p>\n<p data-aid=\"165187911\" id=\"p_dRR0E\">By virtue of His atoning sacrifice, and when we sincerely repent, the Savior heals us from sin, as He did with Enos. His infinite Atonement also reaches our griefs and sorrows.</p>\n<p data-aid=\"165187916\" id=\"p_aKMN0\">But He may not provide healing from illness and disease\u2014chronic pain, autoimmune disorders like multiple sclerosis, cancer, anxiety, depression, and the like. That kind of healing is on the Lord\u2019s time. <em>And</em> in the meantime, we can choose to be made whole by exercising our faith in Him!</p>\n<p data-aid=\"165187921\" id=\"p_kxvTn\">To be whole means to be complete and full. Much like the five wise virgins who had their lamps full with oil when the bridegroom came, we can be whole in Jesus Christ as we fill our lamps with the nourishing oil of conversion to Him.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"></sup></a> In that way, we are prepared for the symbolic wedding supper, His Second Coming.</p>\n<p data-aid=\"165187926\" id=\"p_btCfo\">In the parable all ten of the virgins were in the right location, awaiting the bridegroom. Every one of them came with a lamp.</p>\n<p data-aid=\"165187931\" id=\"p_axC4w\">But when He came, at the unexpected midnight hour, the five foolish did not have sufficient oil for their lamps. They were not described as wicked but rather as foolish.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"></sup></a> The foolish failed to adequately prepare to keep their lamps burning with the oil of conversion.</p>\n<p data-aid=\"165187936\" id=\"p_t4K7e\">And so, in response to their petition to be permitted to enter the wedding supper, the bridegroom responded, \u201cYe know me not.\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"></sup></a></p>\n<p data-aid=\"165187941\" id=\"p_ffV5n\">Implying, then, that the five wise virgins <em>did</em> know Him. They were whole in Him.</p>\n<p data-aid=\"165187946\" id=\"p_wyH60\">Their lamps were full of the precious oil of conversion, which allowed the wise virgins to enter the marriage feast on the right hand of the bridegroom.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"></sup></a></p>\n<p data-aid=\"165187950\" id=\"p_cfgMM\">As expressed by the Savior, \u201cBe faithful, praying always, having your lamps trimmed and burning, and oil with you, that you may be ready at the coming of the Bridegroom.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"></sup></a></p>\n<figure class=\"image no-print\" id=\"fig_iSf0l\">\n<img alt=\"Five Wise Virgins, by Ben Hammond\" id=\"img_dk5x7\" src=\"https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21500%2C/0/default\" data-img-id=\"52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a\" srcset=\"https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a/full/%21640%2C/0/default 640w\" data-assetId=\"52djfh5o9hebk22dj1qmtk2xz66ptoc1i06rr20a\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"The Five Wise Virgins sculpture by Ben Hammond\" data-public-description=\"The Five Wise Virgins sculpture by Ben Hammond, on display in Temple Square\"/>\n<div class=\"credit\">\n<p data-aid=\"165187955\" id=\"p_isfy6\"><cite>Five Wise Virgins</cite>, by Ben Hammond</p>\n</div>\n</figure>\n<p data-aid=\"165187960\" id=\"p_q3cyN\">A magnificent sculpture depicting the five wise virgins was recently placed on Temple Square, just outside the doors to the Relief Society Building and in the shadow of the Salt Lake Temple.<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"></sup></a></p>\n<p data-aid=\"165187965\" id=\"p_mg2iv\">It is a location befitting application of the parable. Because when we make and keep covenants,<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"></sup></a> particularly those available in the house of the Lord, we fill our lamps with the oil of conversion.</p>\n<img alt=\"The five wise virgins sharing their light.\" id=\"img_ydhf1\" src=\"https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21500%2C/0/default\" data-img-id=\"b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj\" srcset=\"https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj/full/%21640%2C/0/default 640w\" data-assetId=\"b36hew8vz73xngwsvtpw7zk1kq6p41xe2324pgfj\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"The Five Wise Virgins sculpture by Ben Hammond\" data-public-description=\"The Five Wise Virgins sculpture by Ben Hammond, on display in Temple Square\"/>\n<img alt=\"The five wise virgins supporting one another.\" id=\"img_nUUXI\" src=\"https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21500%2C/0/default\" data-img-id=\"b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9\" srcset=\"https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9/full/%21640%2C/0/default 640w\" data-assetId=\"b3kzxzr9v9sbhfwsi3yz4y6y91fz40tw2lp03uw9\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"The Five Wise Virgins sculpture by Ben Hammond\" data-public-description=\"The Five Wise Virgins sculpture by Ben Hammond, on display in Temple Square\"/>\n<p data-aid=\"165187970\" id=\"p_jjhKn\">While the women represented as the five wise virgins are not sharing the oil of their conversion, they are sharing their light as they hold up their lamps, which are full of oil and burning brightly. Significantly they are depicted supporting one another\u2014shoulder to shoulder, an arm around another, making eye contact and beckoning others to come to the light.</p>\n<p data-aid=\"165187975\" id=\"p_dLRPp\">Indeed, \u201c[we] are the light of the world.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"></sup></a> The Savior declared:</p>\n<p data-aid=\"165187981\" id=\"p_rfJJI\">\u201cI give unto you to be the light of this people. A city that is set on a hill cannot be hid.</p>\n<p data-aid=\"165187988\" id=\"p_rMOVN\">\u201c\u2026 Do [we] light a candle and put it under a bushel? Nay, but on a candlestick; and it giveth light [unto] all that are in the house;</p>\n<p data-aid=\"165187994\" id=\"p_zTkHE\">\u201cTherefore let your light so shine before this people, that they may see your good works and glorify your Father [which] is in heaven.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"></sup></a></p>\n<p data-aid=\"165188001\" id=\"p_yq4oe\">We are commanded to share His light. So keep your lamp full of the oil of conversion to Jesus Christ and be prepared to keep your lamp trimmed and burning bright. Then let that light shine.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"></sup></a> When we share our light, we bring the relief of Jesus Christ to others, our conversion to Him is deepened, and we can be whole even while we wait for healing. And as we let our light shine brightly, we can be joyful even while we wait.</p>\n<p data-aid=\"165188006\" id=\"p_owrkg\">A scriptural example is useful in reinforcing the principle that we can be whole as we are converted to Jesus Christ and draw strength from Him, even while we wait for healing.</p>\n<p data-aid=\"165188015\" id=\"p_gN3IZ\">The Apostle Paul had some kind of affliction\u2014what he described as a \u201cthorn in the flesh,\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"></sup></a> which three times he had asked the Lord to remove.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"></sup></a> And the Lord said to Paul, \u201cMy grace is sufficient for thee: for my strength is made perfect in weakness.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"></sup></a> To which Paul declared:</p>\n<p data-aid=\"165188018\" id=\"p_hAcnm\">\u201cMost gladly therefore will I \u2026 glory in my infirmities, that the power of Christ may rest upon me.</p>\n<p data-aid=\"165188024\" id=\"p_zB4mR\">\u201cTherefore I take pleasure in infirmities, \u2026 in distresses for Christ\u2019s sake: for when I am weak, then am I strong.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"></sup></a></p>\n<p data-aid=\"165188031\" id=\"p_uHtTT\">Paul\u2019s example suggests that even in our weakness, our strength in Jesus Christ can be made perfect\u2014that is, complete and whole. Those who wrestle with mortal struggles and turn to God in faith like Paul can receive the blessings of becoming acquainted with God.</p>\n<p data-aid=\"165188038\" id=\"p_hZnTn\">Paul was not healed of his affliction, but he was spiritually whole in Jesus Christ. And even in his adversity, the light of his conversion to and strength from Jesus Christ was shining, and he was joyful. In his Epistle to the Philippians, he exclaimed, \u201cRejoice in the Lord alway[s]: and again I say, Rejoice.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"></sup></a></p>\n<p data-aid=\"165188045\" id=\"p_d8lHT\">Sisters and brothers, the answer is yes, we can be spiritually whole, even while we wait for physical and emotional healing. Wholeness does not necessarily mean physical and emotional restoration in this life. Wholeness is born of faith in and conversion to Jesus Christ and in letting the light of that conversion shine.</p>\n<p data-aid=\"165188051\" id=\"p_zYUcF\">\u201cMany are called, but few [choose to be]<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"></sup></a> chosen.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"></sup></a></p>\n<p data-aid=\"165188057\" id=\"p_ddXt1\">All will be physically and emotionally healed in the Resurrection. But will you choose <em>now</em> to be whole in Him?</p>\n<p data-aid=\"165188063\" id=\"p_ihn1e\">I declare with joy that I am converted to the Lord Jesus Christ. I am striving to be whole in Him. I am sure that all things will be restored and healing will come, in His time, because He lives.</p>\n<p data-aid=\"165188070\" id=\"p_bRsZG\">Mary Magdalene was a woman healed of Jesus Christ. And she was a woman whole in Jesus Christ. As His disciple, she followed the Savior throughout Galilee and ministered to Him.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"></sup></a></p>\n<p data-aid=\"165188077\" id=\"p_tvJ3r\">She was present at the foot of the cross, a witness to His death.<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"></sup></a></p>\n<p data-aid=\"165188083\" id=\"p_sc0wz\">She went to His tomb to complete the burial preparations and discovered that the stone covering had been taken away, that the Lord\u2019s body was gone. Mary was at the tomb weeping when she was asked, first by the angels and then by the Savior Himself, \u201cWoman, why weepest thou? whom seekest thou?\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"></sup></a></p>\n<p data-aid=\"165188089\" id=\"p_yNNNa\">Mary cried, \u201cThey have taken away my Lord, and I know not where they have laid him.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"></sup></a></p>\n<p data-aid=\"165188095\" id=\"p_v1Zkc\">And Jesus tenderly called her by name, \u201cMary.\u201d And she recognized Him and reverently replied, \u201cRabboni; \u2026 Master.\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"></sup></a></p>\n<p data-aid=\"165188102\" id=\"p_f4Y8a\">Prophesying of the Savior, Isaiah said, \u201cHe will swallow up death in victory; and the Lord God will wipe away tears from off all faces.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"></sup></a></p>\n<p data-aid=\"165188109\" id=\"p_y1LiX\">His Resurrection allowed Mary\u2019s tears to be wiped away. Surely He will wipe away yours too.</p>\n<p data-aid=\"165188116\" id=\"p_k7PMC\">Mary was the first witness of the resurrected Savior. And she was the first to witness to others of what she had seen.</p>\n<p data-aid=\"165188123\" id=\"p_i7xdA\">I humbly add my testimony to Mary\u2019s. He is risen. Jesus Christ lives. Ultimately all will be healed, physically and emotionally, in Him. And in the waiting for that healing, faith in the Master Healer will make us spiritually whole. In the name of Jesus Christ, amen.</p>\n</div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165188132\" id=\"p_d4W4I\">Notes</p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165188139\" id=\"p_o2Oov\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=eng&amp;id=p11-p19#p11\">Luke 17:11\u201319</a>. The term \u201cmade whole\u201d was translated from a Greek word that means to save, to rescue, to deliver, or to heal. That seems to underscore the vital truth that Jesus Christ can heal us physically <em>and</em> He can also deliver, rescue, save, and heal us in other ways.</p>\n</li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165188149\" id=\"p_spAvr\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23\">Alma 40:23</a>: \u201cThe soul shall be restored to the body, and the body to the soul; yea, and every limb and joint shall be restored to its body; yea, even a hair of the head shall not be lost; but all things shall be restored to their proper and perfect frame.\u201d See also Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng\">Jesus Christ\u2014the Master Healer</a>,\u201d <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2005, 87: \u201cThe gift of resurrection is the Lord\u2019s consummate act of healing.\u201d</p>\n</li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165188159\" id=\"p_ys6sI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p40-p42#p40\">Moroni 7:40\u201342</a>.</p>\n</li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165188169\" id=\"p_aOAqT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8\">Enos 1:8</a>.</p>\n</li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165188180\" id=\"p_pQiWQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p7#p7\">Enos 1:7</a>.</p>\n</li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165188191\" id=\"p_voJxh\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8\">Enos 1:8</a>.</p>\n</li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165188204\" id=\"p_zwEA3\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p1-p13#p1\">Matthew 25:1\u201313</a>.</p>\n</li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165188215\" id=\"p_mmVRC\">Foolish because they did not think that having extra oil was important or necessary.</p>\n</li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165188227\" id=\"p_eqEoQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25?lang=eng&amp;id=p12#p12\">Joseph Smith Translation, Matthew 25:12</a> (in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p12#p12\">Matthew 25:12</a>, footnote <em>a</em>).</p>\n</li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165188240\" id=\"p_xhP8j\">Of the parable of the ten virgins, Elder David A. Bednar taught:</p>\n<p data-aid=\"165190253\" id=\"p_sYQto\">\u201cPlease think of the lamps used by the virgins as the lamps of testimony. The foolish virgins took their lamps of testimony but took no oil with them. Consider the oil to be the oil of conversion. \u2026</p>\n<p data-aid=\"165190266\" id=\"p_t07PE\">\u201cWere the five wise virgins selfish and unwilling to share, or were they indicating correctly that the oil of conversion cannot be borrowed? Can the spiritual strength that results from consistent obedience to the commandments be given to another person? Can the knowledge obtained through diligent study and pondering of the scriptures be conveyed to one who is in need? Can the peace the gospel brings to a faithful Latter-day Saint be transferred to an individual experiencing adversity or great challenge? The clear answer to each of these questions is no.\u201d</p>\n<p data-aid=\"165190279\" id=\"p_nmzoI\">He went on to explain that we have an \u201cindividual responsibility to keep our lamp of testimony burning and to obtain an ample supply of the oil of conversion. This precious oil is acquired one drop at a time\u2014\u2018line upon line [and] precept upon precept\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30\">2 Nephi 28:30</a>), patiently and persistently. No shortcut is available; no last-minute flurry of preparation is possible\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=eng\">Converted unto the Lord</a>,\u201d <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2012, 109).</p>\n</li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165190293\" id=\"p_de9QO\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/33?lang=eng&amp;id=p17#p17\">Doctrine and Covenants 33:17</a>. President Russell M. Nelson has counseled: \u201cNow is the time for you and for me to prepare for the Second Coming of our Lord and Savior, Jesus the Christ. Now is the time for us to make our discipleship our highest priority\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=eng\">The Lord Jesus Christ Will Come Again</a>,\u201d <em>Liahona</em>, Nov. 2024, 121).</p>\n</li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165190305\" id=\"p_ePGoG\">The sculptor of <i>Five Wise Virgins</i> is artist Ben Hammond, who portrayed the five wise virgins as women of various ages and racial backgrounds, representing the diversity of women who are converted disciples of Jesus Christ.</p>\n</li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165190317\" id=\"p_muZPt\">When we partake of the sacrament, we renew all the covenants we have made with the Lord and make a new covenant that we are willing to take upon us the name of Jesus Christ and obey His commandments. Worthy participation in priesthood ordinances and making and keeping covenants make us whole. This principle is beautifully expressed in the sacrament hymn \u201cBread of Life, Living Water\u201d:</p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"165190329\" id=\"p_tzcTu\">Bread of Life, Living Water,</p>\n<p class=\"line\" data-aid=\"165190337\" id=\"p_ivIhD\">Feed my soul, fill my heart.</p>\n<p class=\"line\" data-aid=\"165190351\" id=\"p_mbCtq\">Lord, give me new life in Thee</p>\n<p class=\"line\" data-aid=\"165190362\" id=\"p_wm61F\">And make me <em>whole</em>\u2014complete and holy\u2014</p>\n<p class=\"line\" data-aid=\"165190373\" id=\"p_dwYk7\">Bound to Thee eternally.</p>\n<p class=\"line\" data-aid=\"165190384\" id=\"p_iZuEO\">(<cite>Hymns\u2014For Home and Church</cite>, Gospel Library; emphasis added.)</p>\n</div>\n</div>\n</li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165190394\" id=\"p_oIZxj\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p14#p14\">Matthew 5:14</a>.</p>\n</li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165190405\" id=\"p_m8a8X\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p14-p16#p14\">3 Nephi 12:14\u201316</a>.</p>\n</li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165190416\" id=\"p_eHDXT\">In the words of the hymn:</p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"165190427\" id=\"p_zxcTu\">This little light of mine, I\u2019m gonna let it shine. \u2026</p>\n<p class=\"line\" data-aid=\"165190438\" id=\"p_tasdu\">Ev\u2019rywhere I go, I\u2019m gonna let it shine. \u2026</p>\n<p class=\"line\" data-aid=\"165190449\" id=\"p_thjku\">Jesus gave it to me; I\u2019m gonna let it shine.</p>\n<p class=\"line\" data-aid=\"165190460\" id=\"p_tyuiu\">Let it shine, let it shine, let it shine.</p>\n<p class=\"line\" data-aid=\"165190471\" id=\"p_iZqwe\">(\u201cThis Little Light of Mine,\u201d <cite>Hymns</cite><cite>\u2014For Home and Church</cite>, Gospel Library.)</p>\n</div>\n</div>\n</li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165190481\" id=\"p_neCFk\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p7#p7\">2 Corinthians 12:7</a>.</p>\n</li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165190491\" id=\"p_k0QgO\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p8#p8\">2 Corinthians 12:8</a>.</p>\n</li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165190501\" id=\"p_hHyOH\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9#p9\">2 Corinthians 12:9</a>.</p>\n</li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165190511\" id=\"p_gEy45\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9-p10#p9\">2 Corinthians 12:9\u201310</a>.</p>\n</li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165190521\" id=\"p_zcB4O\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p4#p4\">Philippians 4:4</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1?lang=eng&amp;id=p3-p4#p3\">2 Corinthians 1:3\u20134</a>: \u201cBlessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.\u201d</p>\n</li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165190531\" id=\"p_e4jBA\">See David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/46bednar?lang=eng\">Put On Thy Strength, O Zion</a>,\u201d <em>Liahona</em>, Nov. 2022, 94.</p>\n</li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165190541\" id=\"p_szGwP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p14#p14\">Matthew 22:14</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p34-p35#p34\">Doctrine and Covenants 121:34\u201335</a>.</p>\n</li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165190551\" id=\"p_vmGbw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8?lang=eng&amp;id=p2-p3#p2\">Luke 8:2\u20133</a>.</p>\n</li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165190561\" id=\"p_mWcps\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19?lang=eng&amp;id=p25#p25\">John 19:25</a>.</p>\n</li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165190569\" id=\"p_sjMjD\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p15#p15\">John 20:15</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13\">verse 13</a>.</p>\n</li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165190581\" id=\"p_gzBio\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13\">John 20:13</a>.</p>\n</li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165190591\" id=\"p_vd77g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p16#p16\">John 20:16</a>.</p>\n</li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165190601\" id=\"p_sTNIA\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/25?lang=eng&amp;id=p8#p8\">Isaiah 25:8</a>.</p>\n</li>\n</ol>\n</footer>",
+        "footnotes": {
+            "note4": {
+                "marker": "4.",
+                "context": "",
+                "pid": "165187901",
+                "id": "note4",
+                "text": "<p data-aid=\"165188169\" id=\"p_aOAqT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8\">Enos 1:8</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8",
+                        "text": "Enos 1:8",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note5": {
+                "marker": "5.",
+                "context": "",
+                "pid": "165187901",
+                "id": "note5",
+                "text": "<p data-aid=\"165188180\" id=\"p_pQiWQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p7#p7\">Enos 1:7</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/enos/1?lang=eng&amp;id=p7#p7",
+                        "text": "Enos 1:7",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note2": {
+                "marker": "2.",
+                "context": "",
+                "pid": "165187881",
+                "id": "note2",
+                "text": "<p data-aid=\"165188149\" id=\"p_spAvr\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23\">Alma 40:23</a>: \u201cThe soul shall be restored to the body, and the body to the soul; yea, and every limb and joint shall be restored to its body; yea, even a hair of the head shall not be lost; but all things shall be restored to their proper and perfect frame.\u201d See also Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng\">Jesus Christ\u2014the Master Healer</a>,\u201d <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2005, 87: \u201cThe gift of resurrection is the Lord\u2019s consummate act of healing.\u201d</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23",
+                        "text": "Alma 40:23",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng",
+                        "text": "Jesus Christ\u2014the Master Healer",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note3": {
+                "marker": "3.",
+                "context": "",
+                "pid": "165187896",
+                "id": "note3",
+                "text": "<p data-aid=\"165188159\" id=\"p_ys6sI\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=eng&amp;id=p40-p42#p40\">Moroni 7:40\u201342</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/moro/7?lang=eng&amp;id=p40-p42#p40",
+                        "text": "Moroni 7:40\u201342",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note8": {
+                "marker": "8.",
+                "context": "",
+                "pid": "165187931",
+                "id": "note8",
+                "text": "<p data-aid=\"165188215\" id=\"p_mmVRC\">Foolish because they did not think that having extra oil was important or necessary.</p>"
+            },
+            "note9": {
+                "marker": "9.",
+                "context": "",
+                "pid": "165187936",
+                "id": "note9",
+                "text": "<p data-aid=\"165188227\" id=\"p_eqEoQ\"><a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25?lang=eng&amp;id=p12#p12\">Joseph Smith Translation, Matthew 25:12</a> (in <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p12#p12\">Matthew 25:12</a>, footnote <em>a</em>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/jst/jst-matt/25?lang=eng&amp;id=p12#p12",
+                        "text": "Joseph Smith Translation, Matthew 25:12",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p12#p12",
+                        "text": "Matthew 25:12",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note6": {
+                "marker": "6.",
+                "context": "",
+                "pid": "165187901",
+                "id": "note6",
+                "text": "<p data-aid=\"165188191\" id=\"p_voJxh\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8\">Enos 1:8</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/enos/1?lang=eng&amp;id=p8#p8",
+                        "text": "Enos 1:8",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note7": {
+                "marker": "7.",
+                "context": "",
+                "pid": "165187921",
+                "id": "note7",
+                "text": "<p data-aid=\"165188204\" id=\"p_zwEA3\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p1-p13#p1\">Matthew 25:1\u201313</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p1-p13#p1",
+                        "text": "Matthew 25:1\u201313",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note16": {
+                "marker": "16.",
+                "context": "",
+                "pid": "165188001",
+                "id": "note16",
+                "text": "<p data-aid=\"165190416\" id=\"p_eHDXT\">In the words of the hymn:</p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"165190427\" id=\"p_zxcTu\">This little light of mine, I\u2019m gonna let it shine. \u2026</p>\n<p class=\"line\" data-aid=\"165190438\" id=\"p_tasdu\">Ev\u2019rywhere I go, I\u2019m gonna let it shine. \u2026</p>\n<p class=\"line\" data-aid=\"165190449\" id=\"p_thjku\">Jesus gave it to me; I\u2019m gonna let it shine.</p>\n<p class=\"line\" data-aid=\"165190460\" id=\"p_tyuiu\">Let it shine, let it shine, let it shine.</p>\n<p class=\"line\" data-aid=\"165190471\" id=\"p_iZqwe\">(\u201cThis Little Light of Mine,\u201d <cite>Hymns</cite><cite>\u2014For Home and Church</cite>, Gospel Library.)</p>\n</div>\n</div>"
+            },
+            "note15": {
+                "marker": "15.",
+                "context": "",
+                "pid": "165187994",
+                "id": "note15",
+                "text": "<p data-aid=\"165190405\" id=\"p_m8a8X\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p14-p16#p14\">3 Nephi 12:14\u201316</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p14-p16#p14",
+                        "text": "3 Nephi 12:14\u201316",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note14": {
+                "marker": "14.",
+                "context": "",
+                "pid": "165187975",
+                "id": "note14",
+                "text": "<p data-aid=\"165190394\" id=\"p_oIZxj\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p14#p14\">Matthew 5:14</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p14#p14",
+                        "text": "Matthew 5:14",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note13": {
+                "marker": "13.",
+                "context": "",
+                "pid": "165187965",
+                "id": "note13",
+                "text": "<p data-aid=\"165190317\" id=\"p_muZPt\">When we partake of the sacrament, we renew all the covenants we have made with the Lord and make a new covenant that we are willing to take upon us the name of Jesus Christ and obey His commandments. Worthy participation in priesthood ordinances and making and keeping covenants make us whole. This principle is beautifully expressed in the sacrament hymn \u201cBread of Life, Living Water\u201d:</p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"165190329\" id=\"p_tzcTu\">Bread of Life, Living Water,</p>\n<p class=\"line\" data-aid=\"165190337\" id=\"p_ivIhD\">Feed my soul, fill my heart.</p>\n<p class=\"line\" data-aid=\"165190351\" id=\"p_mbCtq\">Lord, give me new life in Thee</p>\n<p class=\"line\" data-aid=\"165190362\" id=\"p_wm61F\">And make me <em>whole</em>\u2014complete and holy\u2014</p>\n<p class=\"line\" data-aid=\"165190373\" id=\"p_dwYk7\">Bound to Thee eternally.</p>\n<p class=\"line\" data-aid=\"165190384\" id=\"p_iZuEO\">(<cite>Hymns\u2014For Home and Church</cite>, Gospel Library; emphasis added.)</p>\n</div>\n</div>"
+            },
+            "note12": {
+                "marker": "12.",
+                "context": "",
+                "pid": "165187960",
+                "id": "note12",
+                "text": "<p data-aid=\"165190305\" id=\"p_ePGoG\">The sculptor of <i>Five Wise Virgins</i> is artist Ben Hammond, who portrayed the five wise virgins as women of various ages and racial backgrounds, representing the diversity of women who are converted disciples of Jesus Christ.</p>"
+            },
+            "note11": {
+                "marker": "11.",
+                "context": "",
+                "pid": "165187950",
+                "id": "note11",
+                "text": "<p data-aid=\"165190293\" id=\"p_de9QO\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/33?lang=eng&amp;id=p17#p17\">Doctrine and Covenants 33:17</a>. President Russell M. Nelson has counseled: \u201cNow is the time for you and for me to prepare for the Second Coming of our Lord and Savior, Jesus the Christ. Now is the time for us to make our discipleship our highest priority\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=eng\">The Lord Jesus Christ Will Come Again</a>,\u201d <em>Liahona</em>, Nov. 2024, 121).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/33?lang=eng&amp;id=p17#p17",
+                        "text": "Doctrine and Covenants 33:17",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2024/10/57nelson?lang=eng",
+                        "text": "The Lord Jesus Christ Will Come Again",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note10": {
+                "marker": "10.",
+                "context": "",
+                "pid": "165187946",
+                "id": "note10",
+                "text": "<p data-aid=\"165188240\" id=\"p_xhP8j\">Of the parable of the ten virgins, Elder David A. Bednar taught:</p>\n<p data-aid=\"165190253\" id=\"p_sYQto\">\u201cPlease think of the lamps used by the virgins as the lamps of testimony. The foolish virgins took their lamps of testimony but took no oil with them. Consider the oil to be the oil of conversion. \u2026</p>\n<p data-aid=\"165190266\" id=\"p_t07PE\">\u201cWere the five wise virgins selfish and unwilling to share, or were they indicating correctly that the oil of conversion cannot be borrowed? Can the spiritual strength that results from consistent obedience to the commandments be given to another person? Can the knowledge obtained through diligent study and pondering of the scriptures be conveyed to one who is in need? Can the peace the gospel brings to a faithful Latter-day Saint be transferred to an individual experiencing adversity or great challenge? The clear answer to each of these questions is no.\u201d</p>\n<p data-aid=\"165190279\" id=\"p_nmzoI\">He went on to explain that we have an \u201cindividual responsibility to keep our lamp of testimony burning and to obtain an ample supply of the oil of conversion. This precious oil is acquired one drop at a time\u2014\u2018line upon line [and] precept upon precept\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30\">2 Nephi 28:30</a>), patiently and persistently. No shortcut is available; no last-minute flurry of preparation is possible\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=eng\">Converted unto the Lord</a>,\u201d <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2012, 109).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30",
+                        "text": "2 Nephi 28:30",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2012/10/converted-unto-the-lord?lang=eng",
+                        "text": "Converted unto the Lord",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note19": {
+                "marker": "19.",
+                "context": "",
+                "pid": "165188015",
+                "id": "note19",
+                "text": "<p data-aid=\"165190501\" id=\"p_hHyOH\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9#p9\">2 Corinthians 12:9</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9#p9",
+                        "text": "2 Corinthians 12:9",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note18": {
+                "marker": "18.",
+                "context": "",
+                "pid": "165188015",
+                "id": "note18",
+                "text": "<p data-aid=\"165190491\" id=\"p_k0QgO\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p8#p8\">2 Corinthians 12:8</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p8#p8",
+                        "text": "2 Corinthians 12:8",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note17": {
+                "marker": "17.",
+                "context": "",
+                "pid": "165188015",
+                "id": "note17",
+                "text": "<p data-aid=\"165190481\" id=\"p_neCFk\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p7#p7\">2 Corinthians 12:7</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p7#p7",
+                        "text": "2 Corinthians 12:7",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note27": {
+                "marker": "27.",
+                "context": "",
+                "pid": "165188089",
+                "id": "note27",
+                "text": "<p data-aid=\"165190581\" id=\"p_gzBio\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13\">John 20:13</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13",
+                        "text": "John 20:13",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note26": {
+                "marker": "26.",
+                "context": "",
+                "pid": "165188083",
+                "id": "note26",
+                "text": "<p data-aid=\"165190569\" id=\"p_sjMjD\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p15#p15\">John 20:15</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13\">verse 13</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/john/20?lang=eng&amp;id=p15#p15",
+                        "text": "John 20:15",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/john/20?lang=eng&amp;id=p13#p13",
+                        "text": "verse 13",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note25": {
+                "marker": "25.",
+                "context": "",
+                "pid": "165188077",
+                "id": "note25",
+                "text": "<p data-aid=\"165190561\" id=\"p_mWcps\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/19?lang=eng&amp;id=p25#p25\">John 19:25</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/john/19?lang=eng&amp;id=p25#p25",
+                        "text": "John 19:25",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note24": {
+                "marker": "24.",
+                "context": "",
+                "pid": "165188070",
+                "id": "note24",
+                "text": "<p data-aid=\"165190551\" id=\"p_vmGbw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/8?lang=eng&amp;id=p2-p3#p2\">Luke 8:2\u20133</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/luke/8?lang=eng&amp;id=p2-p3#p2",
+                        "text": "Luke 8:2\u20133",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note23": {
+                "marker": "23.",
+                "context": "",
+                "pid": "165188051",
+                "id": "note23",
+                "text": "<p data-aid=\"165190541\" id=\"p_szGwP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p14#p14\">Matthew 22:14</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p34-p35#p34\">Doctrine and Covenants 121:34\u201335</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/22?lang=eng&amp;id=p14#p14",
+                        "text": "Matthew 22:14",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p34-p35#p34",
+                        "text": "Doctrine and Covenants 121:34\u201335",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note22": {
+                "marker": "22.",
+                "context": "",
+                "pid": "165188051",
+                "id": "note22",
+                "text": "<p data-aid=\"165190531\" id=\"p_e4jBA\">See David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/46bednar?lang=eng\">Put On Thy Strength, O Zion</a>,\u201d <em>Liahona</em>, Nov. 2022, 94.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2022/10/46bednar?lang=eng",
+                        "text": "Put On Thy Strength, O Zion",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note21": {
+                "marker": "21.",
+                "context": "",
+                "pid": "165188038",
+                "id": "note21",
+                "text": "<p data-aid=\"165190521\" id=\"p_zcB4O\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/philip/4?lang=eng&amp;id=p4#p4\">Philippians 4:4</a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/1?lang=eng&amp;id=p3-p4#p3\">2 Corinthians 1:3\u20134</a>: \u201cBlessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.\u201d</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/philip/4?lang=eng&amp;id=p4#p4",
+                        "text": "Philippians 4:4",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/2-cor/1?lang=eng&amp;id=p3-p4#p3",
+                        "text": "2 Corinthians 1:3\u20134",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note20": {
+                "marker": "20.",
+                "context": "",
+                "pid": "165188024",
+                "id": "note20",
+                "text": "<p data-aid=\"165190511\" id=\"p_gEy45\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9-p10#p9\">2 Corinthians 12:9\u201310</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p9-p10#p9",
+                        "text": "2 Corinthians 12:9\u201310",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note1": {
+                "marker": "1.",
+                "context": "",
+                "pid": "165187860",
+                "id": "note1",
+                "text": "<p data-aid=\"165188139\" id=\"p_o2Oov\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/17?lang=eng&amp;id=p11-p19#p11\">Luke 17:11\u201319</a>. The term \u201cmade whole\u201d was translated from a Greek word that means to save, to rescue, to deliver, or to heal. That seems to underscore the vital truth that Jesus Christ can heal us physically <em>and</em> He can also deliver, rescue, save, and heal us in other ways.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/luke/17?lang=eng&amp;id=p11-p19#p11",
+                        "text": "Luke 17:11\u201319",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note29": {
+                "marker": "29.",
+                "context": "",
+                "pid": "165188102",
+                "id": "note29",
+                "text": "<p data-aid=\"165190601\" id=\"p_sTNIA\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/25?lang=eng&amp;id=p8#p8\">Isaiah 25:8</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/ot/isa/25?lang=eng&amp;id=p8#p8",
+                        "text": "Isaiah 25:8",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note28": {
+                "marker": "28.",
+                "context": "",
+                "pid": "165188095",
+                "id": "note28",
+                "text": "<p data-aid=\"165190591\" id=\"p_vd77g\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/20?lang=eng&amp;id=p16#p16\">John 20:16</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/john/20?lang=eng&amp;id=p16#p16",
+                        "text": "John 20:16",
+                        "type": "scripture-ref"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,689 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/52strong?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "89ab0fcbd45d4832a18c9581fd0a0383",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/52strong",
+      "data-bcp47-lang": "es",
+      "data-aid": "165182686",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "4e49e91b03224b81a6ec10eafd1843ef"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/54a7grdozx9c8z5sp04epoc3y07lnp2tjzrzsc7r/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/47q0bllnlqev61coq7eqcs7rqw2fb31x4378oguq-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "La caridad: Una señal del verdadero discipulado",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-06T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165182686",
+      {"key": "165182686"}
+    ],
+    [
+      "165252128",
+      {"key": "165252128"}
+    ],
+    [
+      "165252173",
+      {"key": "165252173"}
+    ],
+    [
+      "165252224",
+      {"key": "165252224"}
+    ],
+    [
+      "165263258",
+      {"key": "165263258"}
+    ],
+    [
+      "165263307",
+      {"key": "165263307"}
+    ],
+    [
+      "165263356",
+      {"key": "165263356"}
+    ],
+    [
+      "165263405",
+      {"key": "165263405"}
+    ],
+    [
+      "165263454",
+      {"key": "165263454"}
+    ],
+    [
+      "165263503",
+      {"key": "165263503"}
+    ],
+    [
+      "165263542",
+      {"key": "165263542"}
+    ],
+    [
+      "165263592",
+      {"key": "165263592"}
+    ],
+    [
+      "165263635",
+      {"key": "165263635"}
+    ],
+    [
+      "165263684",
+      {"key": "165263684"}
+    ],
+    [
+      "165263733",
+      {"key": "165263733"}
+    ],
+    [
+      "165263790",
+      {"key": "165263790"}
+    ],
+    [
+      "165263836",
+      {"key": "165263836"}
+    ],
+    [
+      "165263885",
+      {"key": "165263885"}
+    ],
+    [
+      "165263934",
+      {"key": "165263934"}
+    ],
+    [
+      "165263983",
+      {"key": "165263983"}
+    ],
+    [
+      "165264036",
+      {"key": "165264036"}
+    ],
+    [
+      "165264071",
+      {"key": "165264071"}
+    ],
+    [
+      "165264121",
+      {"key": "165264121"}
+    ],
+    [
+      "165264170",
+      {"key": "165264170"}
+    ],
+    [
+      "165264219",
+      {"key": "165264219"}
+    ],
+    [
+      "165265268",
+      {"key": "165265268"}
+    ],
+    [
+      "165265317",
+      {"key": "165265317"}
+    ],
+    [
+      "165265357",
+      {"key": "165265357"}
+    ],
+    [
+      "165265413",
+      {"key": "165265413"}
+    ],
+    [
+      "165265459",
+      {"key": "165265459"}
+    ],
+    [
+      "165265507",
+      {"key": "165265507"}
+    ],
+    [
+      "165265554",
+      {"key": "165265554"}
+    ],
+    [
+      "165265596",
+      {"key": "165265596"}
+    ],
+    [
+      "165265635",
+      {"key": "165265635"}
+    ],
+    [
+      "165265682",
+      {"key": "165265682"}
+    ],
+    [
+      "165265729",
+      {"key": "165265729"}
+    ],
+    [
+      "165265780",
+      {"key": "165265780"}
+    ],
+    [
+      "165265827",
+      {"key": "165265827"}
+    ],
+    [
+      "165265873",
+      {"key": "165265873"}
+    ],
+    [
+      "165265919",
+      {"key": "165265919"}
+    ],
+    [
+      "165265966",
+      {"key": "165265966"}
+    ],
+    [
+      "165266013",
+      {"key": "165266013"}
+    ],
+    [
+      "165266057",
+      {"key": "165266057"}
+    ],
+    [
+      "165266104",
+      {"key": "165266104"}
+    ],
+    [
+      "165266151",
+      {"key": "165266151"}
+    ],
+    [
+      "165266197",
+      {"key": "165266197"}
+    ],
+    [
+      "165266239",
+      {"key": "165266239"}
+    ],
+    [
+      "165266286",
+      {"key": "165266286"}
+    ],
+    [
+      "165266332",
+      {"key": "165266332"}
+    ],
+    [
+      "165266379",
+      {"key": "165266379"}
+    ],
+    [
+      "165266426",
+      {"key": "165266426"}
+    ],
+    [
+      "165266467",
+      {"key": "165266467"}
+    ],
+    [
+      "165266510",
+      {"key": "165266510"}
+    ],
+    [
+      "165266557",
+      {"key": "165266557"}
+    ],
+    [
+      "165266604",
+      {"key": "165266604"}
+    ],
+    [
+      "165266651",
+      {"key": "165266651"}
+    ],
+    [
+      "165266702",
+      {"key": "165266702"}
+    ],
+    [
+      "165266755",
+      {"key": "165266755"}
+    ],
+    [
+      "165266802",
+      {"key": "165266802"}
+    ],
+    [
+      "165266849",
+      {"key": "165266849"}
+    ],
+    [
+      "165266896",
+      {"key": "165266896"}
+    ],
+    [
+      "165266943",
+      {"key": "165266943"}
+    ],
+    [
+      "165266990",
+      {"key": "165266990"}
+    ],
+    [
+      "165267037",
+      {"key": "165267037"}
+    ],
+    [
+      "165267084",
+      {"key": "165267084"}
+    ],
+    [
+      "165267131",
+      {"key": "165267131"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/52strong",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Strong enseña principios que pueden ayudarnos a profundizar nuestro discipulado de Jesucristo y llegar a ser como Él.",
+          "title": "La caridad: Una señal del verdadero discipulado"
+        },
+        "pageSocial": {
+          "description": "El élder Strong enseña principios que pueden ayudarnos a profundizar nuestro discipulado de Jesucristo y llegar a ser como Él.",
+          "title": "La caridad: Una señal del verdadero discipulado"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/54a7grdozx9c8z5sp04epoc3y07lnp2tjzrzsc7r/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/54a7grdozx9c8z5sp04epoc3y07lnp2tjzrzsc7r/full/%21192%2C/0/default\" data-video-title=\"La caridad: Una señal del verdadero discipulado\" data-video-description=\"El élder Strong enseña principios que pueden ayudarnos a profundizar nuestro discipulado de Jesucristo y llegar a ser como Él.\" data-video-id=\"6371148331112\" data-duration=\"689233\" data-assetId=\"z0rpia2vz89y31nked1tsq05znaq8y7tdt0z2em4\" data-ref-id=\"z0rpia2vz89y31nked1tsq05znaq8y7tdt0z2em4\" data-duration-string=\"11:29\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371148331112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"207482152\"/><source src=\"https://assets.churchofjesuschrist.org/z0rpia2vz89y31nked1tsq05znaq8y7tdt0z2em4-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"44594812\"/><source src=\"https://assets.churchofjesuschrist.org/z0rpia2vz89y31nked1tsq05znaq8y7tdt0z2em4-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"75706191\"/><source src=\"https://assets.churchofjesuschrist.org/z0rpia2vz89y31nked1tsq05znaq8y7tdt0z2em4-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"207482152\"/><\/video><h1 data-aid=\"165252128\" id=\"p_zu7Cu\">La caridad: Una señal del verdadero discipulado<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165252173\" id=\"p_m2qD4\">Por el élder Michael B. Strong<\/p>\n<p class=\"author-role\" data-aid=\"165252224\" id=\"p_nCLrC\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165263258\" id=\"p_fk2F4\">El verdadero propósito del discipulado es, literalmente, llegar a ser como Jesucristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"165263307\" id=\"p_rumhX\">El presidente Russell M. Nelson nos invitó hace poco a que \u201chagamos de nuestro discipulado nuestra máxima prioridad\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. Esa poderosa invitación me ha inspirado a meditar profundamente en mi discipulado personal de Jesucristo.<\/p>\n<section id=\"sec_mTdua\">\n<header>\n<h2 data-aid=\"165263356\" id=\"p_bjI75\">El discipulado es deliberado<\/h2>\n<\/header>\n<p data-aid=\"165263405\" id=\"p_eXFpN\">Un discípulo es un seguidor o alumno de otra persona<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. Los discípulos son \u201caprendices\u201d que dedican su vida a llegar a ser como su maestro. Por tanto, ser discípulo de Jesucristo implica más que creer en Sus enseñanzas y doctrina. Implica incluso más que reconocer Su divinidad y aceptarlo como nuestro Salvador y Redentor, por muy importante que esto sea.<\/p>\n<p data-aid=\"165263454\" id=\"p_rv85s\">El presidente Dallin H. Oaks explicó: \u201cSeguir a Cristo no es una práctica casual ni ocasional, sino una dedicación continua y una manera de vivir que debe guiarnos en todo tiempo y en todo lugar\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. El discipulado es un viaje deliberado que emprendemos para ser transformados mediante el sacrificio expiatorio del Señor y Su poder habilitador. El verdadero propósito del discipulado es, literalmente, llegar a ser como Jesucristo, hasta el punto en que recibamos \u201csu imagen en [n]uestros rostros\u201d<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263503\" id=\"p_kaiQ9\">Para ser discípulos del Señor, debemos imitar intencionalmente Sus pensamientos y acciones todos los días; por ejemplo, Su obediencia, humildad y paciencia. A medida que incorporamos gradualmente esos atributos a nuestra propia identidad, llegamos a ser \u201cparticipantes de [Su] naturaleza divina\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. La emulación del carácter del Salvador es la esencia de la adoración a Él. Como enseñó el presidente Nelson: \u201cLa mejor manera de expresar nuestra adoración por Jesús es emulando Su ejemplo\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_yA9JS\">\n<header>\n<h2 data-aid=\"165263542\" id=\"p_ttLJP\">La señal del verdadero discipulado<\/h2>\n<\/header>\n<p data-aid=\"165263592\" id=\"p_upXFX\">De los muchos atributos divinos de Jesucristo que debemos emular, uno sobresale e incluye a todos los demás. Ese atributo es Su amor puro o la caridad. Tanto el profeta Mormón como el apóstol Pablo nos recuerdan que, sin caridad, \u201cno so[mos] nada\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>. O, como le fue revelado al profeta José Smith, sin caridad \u201cno pod[emos] <em>hacer<\/em> nada\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263635\" id=\"p_i7ATn\">El Salvador mismo definió el amor como una señal mediante la cual se reconocería a Sus verdaderos discípulos cuando declaró:<\/p>\n<p data-aid=\"165263684\" id=\"p_sBJGu\">\u201cUn mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis los unos a los otros.<\/p>\n<p data-aid=\"165263733\" id=\"p_iXiSd\">\u201cEn <em>esto conocerán todos que sois mis discípulos<\/em>, si tenéis amor los unos por los otros\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263790\" id=\"p_z3wNL\">La caridad es un concepto significativo que puede ser difícil de definir, pero aquellos a quienes beneficia la perciben fácilmente. <cite>Predicad Mi Evangelio<\/cite> enseña que \u201cla caridad, al igual que la fe, lleva a la acción\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>. De hecho, la caridad se puede describir como \u201cel amor en acción\u201d. Esta descripción da una clara idea de la declaración resumida de la vida del Salvador: Él \u201canduvo haciendo bienes\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263836\" id=\"p_nDuVu\">Como seguidores de Jesucristo, debemos intentar emular el modo en que nuestro Maestro demostró Su amor puro por los demás. Aunque el Salvador manifiesta caridad de muchas maneras, quisiera señalar tres modelos de Su caridad que se pueden ver en Sus verdaderos discípulos.<\/p>\n<\/section>\n<section id=\"sec_gfmOk\">\n<header>\n<h2 data-aid=\"165263885\" id=\"p_tv5Av\">La caridad es mostrar compasión<\/h2>\n<\/header>\n<p data-aid=\"165263934\" id=\"p_kMLAm\">Primero, el Salvador mostró caridad al ser compasivo. Durante Su ministerio entre los nefitas, como se registra en el Libro de Mormón, el Señor invitó al pueblo a volver a casa y meditar en las cosas que había enseñado, y a prepararse para Su regreso al día siguiente<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. El registro luego dice:<\/p>\n<p data-aid=\"165263983\" id=\"p_tTMdU\">\u201cEstaban llorando, y lo miraban fijamente, como si le quisieran pedir que permaneciese un poco más con ellos.<\/p>\n<p data-aid=\"165264036\" id=\"p_gMAw5\">\u201cY les dijo: He aquí, mis entrañas rebosan de compasión por vosotros\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165264071\" id=\"p_y9uGi\">La compasión es la parte de la caridad que procura aliviar el sufrimiento<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Lleno de compasión, el Señor sanó a los enfermos y afligidos del pueblo. Después, bendijo a sus hijos mientras ángeles descendían del cielo y los rodeaban<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Él llevó a cabo esos tiernos y amorosos actos, y muchos más, porque \u201ctuvo compasión\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165264121\" id=\"p_cNyeB\">Mientras servía como joven misionero en Sudamérica, yo también me beneficié de la compasión de un querido amigo. Una noche, mientras conducía con mi compañero hacia la casa de nuestro presidente de misión, un joven en bicicleta giró de repente frente al vehículo. Sucedió tan rápido que no pude evitar la colisión. Trágicamente, ese joven murió por el impacto, y yo quedé devastado por su muerte. Aterrorizado y conmocionado al ver la terrible realidad de lo que acababa de ocurrir, me llevaron a la cárcel y me encerraron<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Nunca me he sentido más asustado y solo. La desesperación y el temor de ser encarcelado por el resto de mi vida me invadieron.<\/p>\n<p data-aid=\"165264170\" id=\"p_zeYpU\">Un compañero de misión, el élder Brian Kochevar, se enteró del accidente y se llenó de compasión. Fue a la cárcel y suplicó a los oficiales que le permitieran quedarse conmigo en la celda para que no estuviera solo. Milagrosamente, aceptaron. Hasta hoy, siento profunda gratitud por el acto de amor cristiano de ese discípulo que me calmó, animó y consoló en el momento de mayor aflicción de mi vida<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. Su caritativa compasión fue una reveladora señal de su discipulado. El presidente Nelson señaló: \u201cUna de las maneras más sencillas de reconocer a un <em>verdadero seguidor<\/em> de Jesucristo es fijarse en qué medida trata a los demás con compasión\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_cv4fG\">\n<header>\n<h2 data-aid=\"165264219\" id=\"p_c9nPq\">La caridad es ministrar para satisfacer las necesidades no expresadas<\/h2>\n<\/header>\n<p data-aid=\"165265268\" id=\"p_defgm\">Otro ejemplo de cómo el Salvador demuestra Su amor es mediante Su observancia y ministración de las necesidades no expresadas de los demás. Al hombre que había estado cojo por treinta y ocho años sin nadie que lo ayudara, el Señor lo sanó y lo animó a vivir rectamente<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. A la mujer sorprendida en adulterio, le ofreció esperanza y consuelo en vez de condenación<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Al hombre paralítico que fue bajado del techo, el Señor le ofreció el perdón de los pecados, no solo la sanación del cuerpo<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165265317\" id=\"p_zTD2H\">Cuando fui llamado como obispo, nuestros seis hijos pequeños hacían de la reunión sacramental un desafío para mi esposa, Cristin, quien tenía que cuidarlos sola mientras yo estaba en el estrado. Como imaginarán, nuestros hijos a menudo eran poco reverentes. Al ver su situación, John y Debbie Benich, miembros de nuestro barrio, comenzaron a sentarse con ella cada domingo para ayudarla. Su bondad continuó por años, y se convirtieron en abuelos sustitutos para nuestra familia. Así como el Señor, esos discípulos vieron la necesidad no expresada y actuaron con amor, lo cual es una señal notoria de su discipulado.<\/p>\n<\/section>\n<section id=\"sec_ta37j\">\n<header>\n<h2 data-aid=\"165265357\" id=\"p_sKkCK\">La caridad es ayudar a los demás a lo largo de la senda de los convenios<\/h2>\n<\/header>\n<p data-aid=\"165265413\" id=\"p_cZn89\">Por último, el amor perfecto del Salvador se centra en posibilitar que todos los hijos de Dios alcancen su potencial divino para que puedan \u201cparticip[ar] de su salvación y del poder de su redención\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. Al llegar a ser más como nuestro Maestro, el deseo de ayudar a nuestros hermanos y hermanas a lo largo de la senda de los convenios aumentará naturalmente.<\/p>\n<p data-aid=\"165265459\" id=\"p_tCwaa\">Por ejemplo, podemos elevar y hermanar a quienes se sientan ofendidos u olvidados, ayudar a los que son nuevos en nuestra congregación a sentirse bienvenidos, o invitar a amigos a adorar con nosotros en la reunión sacramental, quizás en la próxima Pascua de Resurrección. Hay innumerables maneras de alentar y ayudar a los demás en su progreso si buscamos deliberadamente y con oración la ayuda del cielo a fin de tener ojos para ver<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a> como Jesucristo los ve y un corazón para sentir lo que Él siente por ellos<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165265507\" id=\"p_d85Xn\">Ayudar a los demás a lo largo de su senda de los convenios puede tomar la forma de un acto de servicio inusual. Por ejemplo, durante mi asignación actual en Filipinas, supe de la familia Agamata. Fueron bautizados en 2023 y luego fijaron una fecha para ser sellados como familia en el cercano Templo de Urdaneta, Filipinas. Sin embargo, justo antes de la cita de la familia, varios tifones azotaron la región. El hermano Agamata, un agricultor de arroz, no pudo plantar sus cultivos durante las fuertes tormentas. Cuando pasaron las tempestades, tuvo que plantar rápidamente el arroz mientras el suelo estaba empapado de agua, las condiciones ideales para plantar. Lamentablemente, el viaje al templo tendría que posponerse.<\/p>\n<img alt=\"Los misioneros ayudan a plantar arroz.\" id=\"img_ieyQ0\" src=\"https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21500%2C/0/default\" data-img-id=\"e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp\" srcset=\"https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp/full/%21640%2C/0/default 640w\" data-assetId=\"e0n0vt2w1602ojis32yfxwtupvdahl8nzv2wxrvp\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Sister Nemah Agamata and other missionaries pose in a rice paddy in Cambodia\" data-public-description=\"Sister Nemah Agamata and other missionaries pose in a rice paddy in Cambodia\"/>\n<img alt=\"Misioneros plantando arroz.\" id=\"img_x3KoG\" src=\"https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21500%2C/0/default\" data-img-id=\"q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl\" srcset=\"https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl/full/%21640%2C/0/default 640w\" data-assetId=\"q0trz01btegdcnynxohqn3n6js3weqpdmqmho6tl\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Missionaries plant rice in Cambodia\" data-public-description=\"Missionaries plant rice in Cambodia\"/>\n<p data-aid=\"165265554\" id=\"p_hxR7r\">Dos discípulos, el élder y la hermana Cauilan, junto con tres jóvenes misioneros de servicio, supieron de las dificultades de la familia Agamata y ofrecieron ayuda a pesar de su inexperiencia en agricultura. Trabajando bajo un sol abrasador, ayudaron a plantar las plántulas, permitiendo que los Agamata completaran su tarea y asistieran a su sellamiento en el templo según lo programado. El élder Cauilan dijo: \u201cEl semblante [de los Agamata] parecía resplandecer cuando los vimos vestidos de blanco en la Casa del Señor. ¡El gozo que sentimos al ministrar a la persona en particular es indescriptible!\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<img alt=\"La familia Agamata en el exterior del templo.\" id=\"img_whpu2\" src=\"https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21500%2C/0/default\" data-img-id=\"jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj\" srcset=\"https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj/full/%21640%2C/0/default 640w\" data-assetId=\"jz8p5w88am8hlbaucfhrkvqg9mi00nqy9lkv8jtj\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"455\" data-aspect-ratio=\"1.098901098901099\" data-public-title=\"The Agamata Family and Missionaries at the Cambodia Phnom Penh Temple\" data-public-description=\"The Agamata Family and Missionaries at the Temple\"/>\n<p data-aid=\"165265596\" id=\"p_xmjI5\">Los Agamata ahora disfrutan de las ricas bendiciones de estar sellados como familia eterna gracias a que unos condiscípulos llenos de caridad, una señal de su discipulado, decidieron ayudar a sus hermanos y hermanas a avanzar por su senda de los convenios.<\/p>\n<p data-aid=\"165265635\" id=\"p_hwx5S\">Hermanos y hermanas, el discipulado de Jesucristo es el único modo de obtener felicidad duradera. Es una senda repleta de actos de amor deliberados y significativos hacia los demás. Aunque la senda del discipulado sea difícil y desafiante, y aunque a veces tengamos dificultades y fallemos, podemos sentir el consuelo de que Dios nos tiene en cuenta y anhela ayudarnos cada vez que lo intentamos. Isaías nos recuerda que \u201cDios [nos] sostiene de la mano [\u2026] y [nos] dice: No temas, yo te ayudaré\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165265682\" id=\"p_xHpsz\">Con esa certeza que nos da nuestro Padre Celestial en mente, ruego fervientemente que sigamos la invitación del presidente Nelson de priorizar nuestro discipulado. Ruego que \u201cpid[amos] al Padre con toda la energía de [n]uestros corazones que se[amos] llenos de este amor que él ha otorgado a todos los que son discípulos verdaderos de su Hijo Jesucristo; [\u2026] para que cuando él aparezca, seamos semejantes a él\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\",28\"><\/sup><\/a> porque llevaremos una señal del verdadero discipulado, que es \u201cla caridad [\u2026], el amor puro de Cristo\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165265729\" id=\"p_nLifi\">Testifico que Jesucristo es nuestro glorioso y viviente Salvador, Redentor, Ejemplo y Amigo. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165265780\" id=\"p_hDl9n\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165265827\" id=\"p_mMEZy\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_cTk47#p_cTk47\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 121.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165265873\" id=\"p_qmCgK\">Véase <em>Merriam-Webster.com Dictionary<\/em>, \u201cdisciple\u201d.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165265919\" id=\"p_mGA7r\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/18oaks?lang=spa&amp;id=p_fjpqh#p_fjpqh\">Seguir a Cristo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 23.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165265966\" id=\"p_cSdoT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p14#p14\">Alma 5:14<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p19#p19\">Alma 5:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165266013\" id=\"p_wAyaV\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p3-p8#p3\">2 Pedro 1:3\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165266057\" id=\"p_rRyXd\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/perfection-pending?lang=spa&amp;id=p31#p31\">La inminencia de la perfección<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 101.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165266104\" id=\"p_h0oHz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p46#p46\">Moroni 7:46<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p3#p3\">1 Corintios 13:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165266151\" id=\"p_wWY4W\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p19#p19\">Doctrina y Convenios 18:19<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165266197\" id=\"p_tRBML\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa&amp;id=p34-p35#p34\">Juan 13:34\u201335<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165266239\" id=\"p_sWB0h\"><cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=spa&amp;id=p31#p31\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, pág. 127.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165266286\" id=\"p_zh7o1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p38#p38\">Hechos 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165266332\" id=\"p_najZ9\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3\">3 Nefi 17:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165266379\" id=\"p_otT8m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p5-p6#p5\">3 Nefi 17:5\u20136<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165266426\" id=\"p_adVpp\">Véase <em>Merriam-Webster.com Dictionary<\/em>, \u201ccompassion\u201d.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165266467\" id=\"p_o4jfc\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7-p25#p7\">3 Nefi 17:7\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165266510\" id=\"p_pwdVR\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p36#p36\">Mateo 9:36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p14#p14\">14:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p41#p41\">Marcos 1:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/6?lang=spa&amp;id=p34#p34\">6:34<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165266557\" id=\"p_hEwK1\">Los oficiales de policía me enviaron a la cárcel como parte de su procedimiento estándar para casos de accidentes que resultan en muerte. Me separaron de mi compañero porque yo era el conductor. Estuve dos días en la cárcel. Durante la investigación policial, descubrieron que el joven estaba ebrio en el momento del accidente y que eso probablemente hizo que girara de forma repentina frente a nuestro vehículo en movimiento. Comparecí ante un juez en una audiencia formal, donde se determinó que no había evidencia de culpa o negligencia, sino que esto fue simplemente un desafortunado y trágico accidente.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165266604\" id=\"p_bwsuZ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p40#p31\">Mateo 25:31\u201340<\/a>, especialmente el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p36#p36\">versículo 36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165266651\" id=\"p_sweR9\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7#p7\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 98.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165266702\" id=\"p_mlM9c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p2-p9%2Cp14#p2\">Juan 5:2\u20139, 14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165266755\" id=\"p_nJ4fi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p1-p11#p1\">Juan 8:1\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165266802\" id=\"p_dRFVH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2?lang=spa&amp;id=p1-p12#p1\">Marcos 2:1\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165266849\" id=\"p_eTj75\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165266896\" id=\"p_ahx7O\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 76:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165266943\" id=\"p_eqwF0\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24\">2 Nefi 26:24<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165266990\" id=\"p_o8UqH\">Comunicación personal con Darwin Serrano Cauilan, 1 de diciembre de 2024.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165267037\" id=\"p_wN9Jo\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/41?lang=spa&amp;id=p13#p13\">Isaías 41:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165267084\" id=\"p_zm2gz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48\">Moroni 7:48<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165267131\" id=\"p_cd8Dl\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165263454",
+        "id": "note4",
+        "text": "<p data-aid=\"165265966\" id=\"p_cSdoT\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p14#p14\">Alma 5:14<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p19#p19\">Alma 5:19<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p14#p14",
+            "text": "Alma 5:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p19#p19",
+            "text": "Alma 5:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165263503",
+        "id": "note5",
+        "text": "<p data-aid=\"165266013\" id=\"p_wAyaV\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p3-p8#p3\">2 Pedro 1:3\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-pet/1?lang=spa&amp;id=p3-p8#p3",
+          "text": "2 Pedro 1:3\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165263405",
+        "id": "note2",
+        "text": "<p data-aid=\"165265873\" id=\"p_qmCgK\">Véase <em>Merriam-Webster.com Dictionary<\/em>, \u201cdisciple\u201d.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165263454",
+        "id": "note3",
+        "text": "<p data-aid=\"165265919\" id=\"p_mGA7r\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/18oaks?lang=spa&amp;id=p_fjpqh#p_fjpqh\">Seguir a Cristo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 23.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/18oaks?lang=spa&amp;id=p_fjpqh#p_fjpqh",
+          "text": "Seguir a Cristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165263592",
+        "id": "note8",
+        "text": "<p data-aid=\"165266151\" id=\"p_wWY4W\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p19#p19\">Doctrina y Convenios 18:19<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p19#p19",
+          "text": "Doctrina y Convenios 18:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165263733",
+        "id": "note9",
+        "text": "<p data-aid=\"165266197\" id=\"p_tRBML\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa&amp;id=p34-p35#p34\">Juan 13:34\u201335<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/13?lang=spa&amp;id=p34-p35#p34",
+          "text": "Juan 13:34\u201335",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165263503",
+        "id": "note6",
+        "text": "<p data-aid=\"165266057\" id=\"p_rRyXd\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/10/perfection-pending?lang=spa&amp;id=p31#p31\">La inminencia de la perfección<\/a>\u201d, <cite>Liahona<\/cite>, enero de 1996, pág. 101.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1995/10/perfection-pending?lang=spa&amp;id=p31#p31",
+          "text": "La inminencia de la perfección",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165263592",
+        "id": "note7",
+        "text": "<p data-aid=\"165266104\" id=\"p_h0oHz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p46#p46\">Moroni 7:46<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p3#p3\">1 Corintios 13:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p46#p46",
+            "text": "Moroni 7:46",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/13?lang=spa&amp;id=p3#p3",
+            "text": "1 Corintios 13:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165264071",
+        "id": "note16",
+        "text": "<p data-aid=\"165266510\" id=\"p_pwdVR\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/9?lang=spa&amp;id=p36#p36\">Mateo 9:36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/14?lang=spa&amp;id=p14#p14\">14:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=spa&amp;id=p41#p41\">Marcos 1:41<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/6?lang=spa&amp;id=p34#p34\">6:34<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/9?lang=spa&amp;id=p36#p36",
+            "text": "Mateo 9:36",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/14?lang=spa&amp;id=p14#p14",
+            "text": "14:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/1?lang=spa&amp;id=p41#p41",
+            "text": "Marcos 1:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/6?lang=spa&amp;id=p34#p34",
+            "text": "6:34",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165264071",
+        "id": "note15",
+        "text": "<p data-aid=\"165266467\" id=\"p_o4jfc\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7-p25#p7\">3 Nefi 17:7\u201325<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p7-p25#p7",
+          "text": "3 Nefi 17:7\u201325",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165264071",
+        "id": "note14",
+        "text": "<p data-aid=\"165266426\" id=\"p_adVpp\">Véase <em>Merriam-Webster.com Dictionary<\/em>, \u201ccompassion\u201d.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165264036",
+        "id": "note13",
+        "text": "<p data-aid=\"165266379\" id=\"p_otT8m\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p5-p6#p5\">3 Nefi 17:5\u20136<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p5-p6#p5",
+          "text": "3 Nefi 17:5\u20136",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165263934",
+        "id": "note12",
+        "text": "<p data-aid=\"165266332\" id=\"p_najZ9\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3\">3 Nefi 17:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3",
+          "text": "3 Nefi 17:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165263790",
+        "id": "note11",
+        "text": "<p data-aid=\"165266286\" id=\"p_zh7o1\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p38#p38\">Hechos 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10?lang=spa&amp;id=p38#p38",
+          "text": "Hechos 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165263790",
+        "id": "note10",
+        "text": "<p data-aid=\"165266239\" id=\"p_sWB0h\"><cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/14-chapter-6?lang=spa&amp;id=p31#p31\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, pág. 127.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/14-chapter-6?lang=spa&amp;id=p31#p31",
+          "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165264170",
+        "id": "note19",
+        "text": "<p data-aid=\"165266651\" id=\"p_sweR9\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7#p7\">Se necesitan pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 98.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=spa&amp;id=p7#p7",
+          "text": "Se necesitan pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165264170",
+        "id": "note18",
+        "text": "<p data-aid=\"165266604\" id=\"p_bwsuZ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p40#p31\">Mateo 25:31\u201340<\/a>, especialmente el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p36#p36\">versículo 36<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p40#p31",
+            "text": "Mateo 25:31\u201340",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p36#p36",
+            "text": "versículo 36",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165264121",
+        "id": "note17",
+        "text": "<p data-aid=\"165266557\" id=\"p_hEwK1\">Los oficiales de policía me enviaron a la cárcel como parte de su procedimiento estándar para casos de accidentes que resultan en muerte. Me separaron de mi compañero porque yo era el conductor. Estuve dos días en la cárcel. Durante la investigación policial, descubrieron que el joven estaba ebrio en el momento del accidente y que eso probablemente hizo que girara de forma repentina frente a nuestro vehículo en movimiento. Comparecí ante un juez en una audiencia formal, donde se determinó que no había evidencia de culpa o negligencia, sino que esto fue simplemente un desafortunado y trágico accidente.<\/p>"
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165265635",
+        "id": "note27",
+        "text": "<p data-aid=\"165267037\" id=\"p_wN9Jo\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/41?lang=spa&amp;id=p13#p13\">Isaías 41:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/41?lang=spa&amp;id=p13#p13",
+          "text": "Isaías 41:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165265554",
+        "id": "note26",
+        "text": "<p data-aid=\"165266990\" id=\"p_o8UqH\">Comunicación personal con Darwin Serrano Cauilan, 1 de diciembre de 2024.<\/p>"
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165265459",
+        "id": "note25",
+        "text": "<p data-aid=\"165266943\" id=\"p_eqwF0\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24\">2 Nefi 26:24<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24#p24",
+          "text": "2 Nefi 26:24",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165265459",
+        "id": "note24",
+        "text": "<p data-aid=\"165266896\" id=\"p_ahx7O\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 76:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p12#p12",
+          "text": "Doctrina y Convenios 76:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165265413",
+        "id": "note23",
+        "text": "<p data-aid=\"165266849\" id=\"p_eTj75\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/omni/1?lang=spa&amp;id=p26#p26",
+          "text": "Omni 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165265268",
+        "id": "note22",
+        "text": "<p data-aid=\"165266802\" id=\"p_dRFVH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/2?lang=spa&amp;id=p1-p12#p1\">Marcos 2:1\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/2?lang=spa&amp;id=p1-p12#p1",
+          "text": "Marcos 2:1\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165265268",
+        "id": "note21",
+        "text": "<p data-aid=\"165266755\" id=\"p_nJ4fi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p1-p11#p1\">Juan 8:1\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/8?lang=spa&amp;id=p1-p11#p1",
+          "text": "Juan 8:1\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165265268",
+        "id": "note20",
+        "text": "<p data-aid=\"165266702\" id=\"p_mlM9c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p2-p9%2Cp14#p2\">Juan 5:2\u20139, 14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/5?lang=spa&amp;id=p2-p9%2Cp14#p2",
+          "text": "Juan 5:2\u20139, 14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165263307",
+        "id": "note1",
+        "text": "<p data-aid=\"165265827\" id=\"p_mMEZy\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_cTk47#p_cTk47\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_cTk47#p_cTk47",
+          "text": "El Señor Jesucristo vendrá de nuevo",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165265682",
+        "id": "note29",
+        "text": "<p data-aid=\"165267131\" id=\"p_cd8Dl\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47\">Moroni 7:47<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p47#p47",
+          "text": "Moroni 7:47",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165265682",
+        "id": "note28",
+        "text": "<p data-aid=\"165267084\" id=\"p_zm2gz\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48\">Moroni 7:48<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p48#p48",
+          "text": "Moroni 7:48",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

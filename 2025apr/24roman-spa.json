@@ -1,0 +1,882 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/24roman?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "9b748b2f0cbe45afba6abac7c8eae593",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/24roman",
+      "data-bcp47-lang": "es",
+      "data-aid": "165183282",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "bebf7db94d7746cbb7dbf1c965c0db09"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/0sjzn98oa01drzfqig9ds8ir3jwxniqjgace2cts/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/pltp1peblyx71643uynkbi6zjhcbn26v4el6uho4-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "La fe: Un vínculo de confianza y lealtad",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165183282",
+      {"key": "165183282"}
+    ],
+    [
+      "165251671",
+      {"key": "165251671"}
+    ],
+    [
+      "165251688",
+      {"key": "165251688"}
+    ],
+    [
+      "165251701",
+      {"key": "165251701"}
+    ],
+    [
+      "165251722",
+      {"key": "165251722"}
+    ],
+    [
+      "165251736",
+      {"key": "165251736"}
+    ],
+    [
+      "165251744",
+      {"key": "165251744"}
+    ],
+    [
+      "165251764",
+      {"key": "165251764"}
+    ],
+    [
+      "165251778",
+      {"key": "165251778"}
+    ],
+    [
+      "165251792",
+      {"key": "165251792"}
+    ],
+    [
+      "165251814",
+      {"key": "165251814"}
+    ],
+    [
+      "165251828",
+      {"key": "165251828"}
+    ],
+    [
+      "165251846",
+      {"key": "165251846"}
+    ],
+    [
+      "165251864",
+      {"key": "165251864"}
+    ],
+    [
+      "165251890",
+      {"key": "165251890"}
+    ],
+    [
+      "165251910",
+      {"key": "165251910"}
+    ],
+    [
+      "165251938",
+      {"key": "165251938"}
+    ],
+    [
+      "165251962",
+      {"key": "165251962"}
+    ],
+    [
+      "165251985",
+      {"key": "165251985"}
+    ],
+    [
+      "165252013",
+      {"key": "165252013"}
+    ],
+    [
+      "165252042",
+      {"key": "165252042"}
+    ],
+    [
+      "165252077",
+      {"key": "165252077"}
+    ],
+    [
+      "165252115",
+      {"key": "165252115"}
+    ],
+    [
+      "165252157",
+      {"key": "165252157"}
+    ],
+    [
+      "165252206",
+      {"key": "165252206"}
+    ],
+    [
+      "165263264",
+      {"key": "165263264"}
+    ],
+    [
+      "165263302",
+      {"key": "165263302"}
+    ],
+    [
+      "165263351",
+      {"key": "165263351"}
+    ],
+    [
+      "165263400",
+      {"key": "165263400"}
+    ],
+    [
+      "165263449",
+      {"key": "165263449"}
+    ],
+    [
+      "165263498",
+      {"key": "165263498"}
+    ],
+    [
+      "165263551",
+      {"key": "165263551"}
+    ],
+    [
+      "165263600",
+      {"key": "165263600"}
+    ],
+    [
+      "165263649",
+      {"key": "165263649"}
+    ],
+    [
+      "165263698",
+      {"key": "165263698"}
+    ],
+    [
+      "165263747",
+      {"key": "165263747"}
+    ],
+    [
+      "165263782",
+      {"key": "165263782"}
+    ],
+    [
+      "165263834",
+      {"key": "165263834"}
+    ],
+    [
+      "165263883",
+      {"key": "165263883"}
+    ],
+    [
+      "165263932",
+      {"key": "165263932"}
+    ],
+    [
+      "165263981",
+      {"key": "165263981"}
+    ],
+    [
+      "165264030",
+      {"key": "165264030"}
+    ],
+    [
+      "165264078",
+      {"key": "165264078"}
+    ],
+    [
+      "165264125",
+      {"key": "165264125"}
+    ],
+    [
+      "165264174",
+      {"key": "165264174"}
+    ],
+    [
+      "165264223",
+      {"key": "165264223"}
+    ],
+    [
+      "165265272",
+      {"key": "165265272"}
+    ],
+    [
+      "165265321",
+      {"key": "165265321"}
+    ],
+    [
+      "165265363",
+      {"key": "165265363"}
+    ],
+    [
+      "165265403",
+      {"key": "165265403"}
+    ],
+    [
+      "165265449",
+      {"key": "165265449"}
+    ],
+    [
+      "165265497",
+      {"key": "165265497"}
+    ],
+    [
+      "165265544",
+      {"key": "165265544"}
+    ],
+    [
+      "165265574",
+      {"key": "165265574"}
+    ],
+    [
+      "165265637",
+      {"key": "165265637"}
+    ],
+    [
+      "165265684",
+      {"key": "165265684"}
+    ],
+    [
+      "165265731",
+      {"key": "165265731"}
+    ],
+    [
+      "165265777",
+      {"key": "165265777"}
+    ],
+    [
+      "165265824",
+      {"key": "165265824"}
+    ],
+    [
+      "165265870",
+      {"key": "165265870"}
+    ],
+    [
+      "165265916",
+      {"key": "165265916"}
+    ],
+    [
+      "165265962",
+      {"key": "165265962"}
+    ],
+    [
+      "165266009",
+      {"key": "165266009"}
+    ],
+    [
+      "165266046",
+      {"key": "165266046"}
+    ],
+    [
+      "165266095",
+      {"key": "165266095"}
+    ],
+    [
+      "165266142",
+      {"key": "165266142"}
+    ],
+    [
+      "165266189",
+      {"key": "165266189"}
+    ],
+    [
+      "165266237",
+      {"key": "165266237"}
+    ],
+    [
+      "165266284",
+      {"key": "165266284"}
+    ],
+    [
+      "165266330",
+      {"key": "165266330"}
+    ],
+    [
+      "165266377",
+      {"key": "165266377"}
+    ],
+    [
+      "165266424",
+      {"key": "165266424"}
+    ],
+    [
+      "165266461",
+      {"key": "165266461"}
+    ],
+    [
+      "165266509",
+      {"key": "165266509"}
+    ],
+    [
+      "165266556",
+      {"key": "165266556"}
+    ],
+    [
+      "165266603",
+      {"key": "165266603"}
+    ],
+    [
+      "165266650",
+      {"key": "165266650"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/24roman",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Román define la fe como confiar y tener lealtad a Jesucristo y enseña cómo podemos nutrir e incrementar nuestra fe.",
+          "title": "La fe: Un vínculo de confianza y lealtad"
+        },
+        "pageSocial": {
+          "description": "El élder Román define la fe como confiar y tener lealtad a Jesucristo y enseña cómo podemos nutrir e incrementar nuestra fe.",
+          "title": "La fe: Un vínculo de confianza y lealtad"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/0sjzn98oa01drzfqig9ds8ir3jwxniqjgace2cts/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/0sjzn98oa01drzfqig9ds8ir3jwxniqjgace2cts/full/%21192%2C/0/default\" data-video-title=\"La fe: Un vínculo de confianza y lealtad\" data-video-description=\"El élder Román define la fe como confiar y tener lealtad a Jesucristo, y enseña cómo podemos nutrir e incrementar nuestra fe.\" data-video-id=\"6371109501112\" data-duration=\"676700\" data-assetId=\"ohelvqx1mdst77mmp5x4pzn05ut1qmtan3curwzp\" data-ref-id=\"ohelvqx1mdst77mmp5x4pzn05ut1qmtan3curwzp\" data-duration-string=\"11:16\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371109501112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"200442144\"/><source src=\"https://assets.churchofjesuschrist.org/ohelvqx1mdst77mmp5x4pzn05ut1qmtan3curwzp-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"52553398\"/><source src=\"https://assets.churchofjesuschrist.org/ohelvqx1mdst77mmp5x4pzn05ut1qmtan3curwzp-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"84335071\"/><source src=\"https://assets.churchofjesuschrist.org/ohelvqx1mdst77mmp5x4pzn05ut1qmtan3curwzp-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"200442144\"/><\/video><h1 data-aid=\"165251671\" id=\"p_o2lNU\">La fe: Un vínculo de confianza y lealtad<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165251688\" id=\"p_bCDM7\">Por el élder Sandino Román<\/p>\n<p class=\"author-role\" data-aid=\"165251701\" id=\"p_tehrt\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165251722\" id=\"p_gNSIx\">La fe brota cuando confiamos en Jesucristo y florece cuando le somos fieles y leales.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"165251736\" id=\"p_jflgb\">Cuando tenía diecisiete años acordé con mi amigo José Luis que le enseñaría a nadar; así que una mañana dedicamos tiempo a practicar. Cuando terminó la lección y estaba saliendo de la piscina, escuché a mi amigo gritar pidiendo auxilio. Se estaba ahogando en la parte más profunda de la piscina.<\/p>\n<p data-aid=\"165251744\" id=\"p_wP8Nk\">Me tiré al agua y nadé hacia él mientras oraba pidiendo ayuda. Al tomarlo de la mano para sacarlo a la superficie, mi amigo, en su desesperación, se subió a mi espalda y me apretó del cuello con tanta fuerza que me impedía respirar. Ahora los dos nos estábamos ahogando. Yo hacía lo posible por alcanzar la superficie, mientras oraba con todas mis fuerzas pidiendo un milagro de Dios. Entonces, de manera lenta pero constante, el poder de Dios se manifestó cuando sentí una mano que me impulsaba hacia el lado poco profundo de la piscina, poniéndonos a salvo.<\/p>\n<p data-aid=\"165251764\" id=\"p_aHa9U\">Aquella experiencia me confirmó una profunda lección que el presidente Russell M. Nelson enseñó en cierta ocasión: \u201cCuando procuren el poder del Señor en su vida con la misma intensidad que tiene uno que se está ahogando y lucha por respirar, el poder proveniente de Jesucristo será de ustedes\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165251778\" id=\"p_gRs9S\">Queridos niños y jóvenes, hoy quiero dirigirme a ustedes en cuanto al principio esencial de la fe en Jesucristo.<\/p>\n<section id=\"sec_dAQAR\">\n<header>\n<h2 data-aid=\"165251792\" id=\"p_hglky\">Tener fe en Cristo significa confiar en Él<\/h2>\n<\/header>\n<p data-aid=\"165251814\" id=\"p_s9f2p\">¿Qué significa tener fe en Cristo? ¿Significa que <em>creemos en Él<\/em> o que tenemos un testimonio de que Él es real? Esto puede ser un comienzo, pero es más que eso. ¿Alguna vez han pensado en la fe como <em>confianza<\/em>?<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> Piensen en la persona en quien más confían, tal vez un familiar o un amigo. ¿Por qué confían en ella? Quizás sea porque han visto su <em>amor<\/em> y <em>ayuda<\/em> constantes.<\/p>\n<p data-aid=\"165251828\" id=\"p_jpCV4\">Cuando tenemos fe en Cristo, reconocemos Sus bendiciones y desarrollamos una relación de confianza con Él<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<section id=\"sec_mS3Zu\">\n<header>\n<h3 data-aid=\"165251846\" id=\"p_dcyOK\">¿Cómo pueden aumentar su confianza en Cristo?<\/h3>\n<\/header>\n<p data-aid=\"165251864\" id=\"p_uLIGC\">En un devocional reciente para los jóvenes, se les invitó a meditar en una ocasión de su vida en la que recibieron un rayo de luz celestial<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. ¡Prueben este ejercicio!<\/p>\n<p data-aid=\"165251890\" id=\"p_gH1kQ\">Comiencen por meditar acerca de Cristo y la felicidad que Su Expiación y Su Evangelio traen a su propia vida. Además, registren los \u201crecuerdos espiritualmente decisivos\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> en los que Dios ha estado allí para ustedes, para sus seres queridos y para las personas de las Escrituras. Ahora bien, esos testimonios no traerán poder a sus vidas sino hasta que el Espíritu los grabe en las \u201ctablas de carne\u201d del corazón<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Por eso, mediten y registren todo lo que Dios puso en marcha para que esos milagros llegaran en el momento preciso<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165251910\" id=\"p_ay6UL\">Además, usen este ejercicio como una oportunidad para acercarse más a Dios. Oren a su Padre Celestial como si fuera la primera vez. Expresen su amor y gratitud por Sus bendiciones<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. Incluso pregúntenle cómo se siente Él con respecto a ustedes y al rumbo que su vida lleva. <a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165251938\" id=\"p_qqEmX\">Si son sinceros y humildes, escucharán Su respuesta y comenzarán una relación personal y duradera con el Padre Celestial y con Jesucristo. ¡No solo eso, sino que sus hábitos religiosos cobrarán sentido! Por ejemplo, considerarán sus oraciones, estudio personal y su adoración en el templo como oportunidades para llegar a conocerlos y estar con Ellos.<\/p>\n<\/section>\n<\/section>\n<section id=\"sec_wx1Sa\">\n<header>\n<h2 data-aid=\"165251962\" id=\"p_leb2e\">La fe florece con la lealtad<\/h2>\n<\/header>\n<p data-aid=\"165251985\" id=\"p_pVjc2\">Fíjense cómo la fe brota cuando confiamos en Jesucristo y florece cuando le somos fieles y leales. Si desean una verdadera relación con Cristo, demuéstrenlo haciendo convenios y honrándolos con fidelidad y lealtad. Hacer convenios con Jesucristo edifica la esperanza; honrarlos edifica la fe<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165252013\" id=\"p_ataMH\">Permítanme usar un ejemplo personal. Cuando era niño, un día encontré a mi madre llorando a solas. Al preguntarle por qué, me dijo suavemente: \u201cNecesito que seas un buen muchacho\u201d. Aunque sabía que yo no era la causa de su angustia, amaba a mi madre y confiaba en ella como en nadie más y quería hacerle la vida menos difícil. Así que, con lágrimas en los ojos y con toda la solemnidad que puede tener un niño de nueve años, aquel día le prometí que siempre me esforzaría por ser el mejor hijo y que la haría sentirse orgullosa.<\/p>\n<p data-aid=\"165252042\" id=\"p_o0g4d\">¿Se imaginan el poder que aquella promesa tuvo, y todavía tiene, en mí?<\/p>\n<p data-aid=\"165252077\" id=\"p_kX6SO\">Esa promesa guiaría mi vida. Antes de tomar decisiones, consideraba si mis acciones la complacerían. El vínculo de aquella promesa y la relación con mi madre fueron anclas de mi conducta a lo largo de mi vida.<\/p>\n<p data-aid=\"165252115\" id=\"p_miroQ\">Años más tarde, al conocer mejor a Jesucristo, ya sabía cómo basar mi fe en Él. He hecho convenios con el Señor y, al procurar honrarlos, Él ha perdonado mis pecados, ha guiado mi vida y \u201cme ha llenado con su amor\u201d hasta lo más profundo de mi ser<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Cristo ha infundido en mí un profundo amor, respeto y lealtad hacia Él<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165252157\" id=\"p_q9a1U\">¿Entienden por qué la \u201cfe es un principio de acción\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> y que \u201csin fe es imposible agradar a Dios\u201d?<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165252206\" id=\"p_zRQD8\">Al tratar de hacer lo que a Él le agrada<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>, dirán como José en Egipto cuando fue tentado por la esposa de Potifar: \u201c¿Cómo, pues, haría yo este gran mal y pecaría contra Dios?\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Y cuando enfrenten oposición, dirán como el joven profeta José: \u201cYo lo sabía, y sabía que Dios lo sabía; y no podía negarlo [\u2026], sabía que haciéndolo, ofendería a Dios\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263264\" id=\"p_weBsh\">Así pues, la fe en Jesucristo es un vínculo de confianza forjado con lealtad<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> y amor. Es decir, en gratitud por el amor misericordioso de Dios (<em>hesed<\/em><a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>), mostramos nuestro amor leal (<em>emuná<\/em><a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>) al guardar Sus mandamientos.<\/p>\n<p data-aid=\"165263302\" id=\"p_tlixm\">Cristo promete: \u201cEl que tiene mis mandamientos y los guarda [\u2026] será amado por mi Padre, y yo le amaré y me manifestaré a él\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Si se comprometen a serle leales, Él les manifestará el amor que tiene por ustedes<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_mhbxo\">\n<header>\n<h2 data-aid=\"165263351\" id=\"p_fMkft\">Fe ante la adversidad<\/h2>\n<\/header>\n<p data-aid=\"165263400\" id=\"p_lKGxQ\">Pero ¿cómo deberían responder ante situaciones tan adversas que requieran Sus milagros? Si bien los desafíos son inevitables y a veces aterradores, simplemente caminen impávidos<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> hacia Él, tal como nos invita el lema de FSY 2025: \u201cMirad hacia mí en todo pensamiento; no dudéis; no temáis\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<section id=\"sec_qFcyL\">\n<header>\n<h3 data-aid=\"165263449\" id=\"p_zkQrQ\">¿Cómo pueden caminar impávidos hacia Él?<\/h3>\n<\/header>\n<p data-aid=\"165263498\" id=\"p_cTZ4w\">Imaginen que son exploradores en un territorio desconocido. Para superar los obstáculos que les aguardan necesitan una fuente de luz. Su fidelidad a Dios y sus constantes interacciones con Él son el combustible de su linterna. Así, cuando se encuentren en situaciones oscuras y peligrosas, en lugar de caminar a ciegas hacia ellas, encenderán su linterna rebosante del aceite de la fe en Cristo para arrojar destellos de esperanza sobre el camino incierto<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Sus experiencias pasadas aumentarán la esperanza de que el Señor los sostendrá en su jornada.<\/p>\n<img alt=\"Excursionista con una linterna\" id=\"img_tq2xu\" src=\"https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21500%2C/0/default\" data-img-id=\"nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w\" srcset=\"https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w/full/%21640%2C/0/default 640w\" data-assetId=\"nzqfsef8q09nf8ua6tu4lnnyrpxozlrp6zcesg7w\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"280\" data-aspect-ratio=\"1.7857142857142858\" data-public-title=\"Hiker With Lantern - Screen Capture \" data-public-description=\"Hiker With Lantern - Screen Capture \"/>\n<\/section>\n<section id=\"sec_g8eLR\">\n<header>\n<h3 data-aid=\"165263551\" id=\"p_bo1AL\">¿Para cuánto les alcanza su esperanza y su fe en Cristo?<\/h3>\n<\/header>\n<p data-aid=\"165263600\" id=\"p_salgc\">¿Recuerdan el relato de la piscina? En aquel momento de desesperación, el milagro llegó como lo esperaba, pero Dios no garantiza que siempre será de acuerdo con nuestra voluntad. Nuestra fe debe centrarse en Cristo y nuestra esperanza en Sus bendiciones, tal como Él decida enviarlas. \u201cEspere[mos] milagros\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>, pero \u201cdej[emos] que Dios prevalezca en nuestras vidas\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<\/section>\n<\/section>\n<section id=\"sec_mR1O4\">\n<header>\n<h2 data-aid=\"165263649\" id=\"p_zkXEq\">Las promesas de Dios a Su pueblo fiel<\/h2>\n<\/header>\n<p data-aid=\"165263698\" id=\"p_qCPFK\">Mis jóvenes amigos, ¡cuánto los amamos y confiamos en ustedes! Ustedes <em>pertenecen<\/em> a la familia de Dios y son hijos del convenio<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. <em>Crean<\/em> y confíen en Jesucristo. Él los preparará para que <em>lleguen a ser<\/em> verdaderos discípulos Suyos.<\/p>\n<p data-aid=\"165263747\" id=\"p_rtKzm\">Los invito a comenzar hoy a nutrir su relación con Jesucristo<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Comprométanse a no abandonarlo jamás<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263782\" id=\"p_gYc6z\">Su lealtad, amor y confianza en Cristo moldearán su carácter e identidad<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> a semejanza de los de Él. Obtendrán confianza y recibirán fortaleza para superar los ataques de Satanás<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>; y cuando cometan errores, anhelarán Su perdón<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>. Por último, su esperanza en el futuro será brillante<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a>. Él les confiará Su poder para lograr cualquier cosa que espere de ustedes<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a>, incluso el poder para regresar a Su presencia<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165263834\" id=\"p_jG08y\">Les testifico del gozo que proviene de cantar \u201cla canción del amor que redime\u201d<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\" data-value=\"37\"><\/sup><\/a> y de estar \u201cpara siempre envuelto[s] entre los brazos de su amor\u201d<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\" data-value=\"38\"><\/sup><\/a>. En el sagrado nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165263883\" id=\"p_iLjmn\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165263932\" id=\"p_oNxIW\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p29#p29\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 42.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165263981\" id=\"p_cAWYw\">La palabra <i>fe<\/i> proviene del latín <i>fides<\/i>, que significa \u201cconfiar\u201d. Véase Michiel de Vaan, <cite>Etymological Dictionary of Latin and the Other Italic Languages<\/cite>, 2008, entrada \u201cfido\u201d. El cognado griego πίστις se traduce como \u201cconfiando\u201d. Véase Robert Beekes, <cite>Etymological Dictionary of Greek<\/cite>, 2010, págs. 1161\u20131162.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165264030\" id=\"p_chW1c\">\u201cLa fe es la confianza de una persona en Jesucristo\u201d, véase la Guía para el Estudio de las Escrituras, <a class=\"scripture-ref\" href=\"/study/scriptures/gs/faith?lang=spa&amp;id=p1#p1\">\u201cFe\u201d<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165264078\" id=\"p_ssWM6\">\u201cVéase <a href=\"https://www.churchofjesuschrist.org/study/video/face-to-face-events/2025-january-worldwide-discussion-for-youth-look-unto-christ?lang=eng\">Mira hacia Cristo<\/a>\u201d, (análisis mundial para los jóvenes de enero 2025), Biblioteca del Evangelio; véase también Alexander Dushku, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/15dushku?lang=spa\">Columnas y rayos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 14\u201316.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165264125\" id=\"p_faRQz\">Véase Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/15andersen?lang=spa\">Recuerdos espiritualmente decisivos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 18\u201322.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165264174\" id=\"p_yhfYY\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3?lang=spa&amp;id=p2-p3#p2\">2 Corintios 3:2\u20133<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>; Russell M. Nelson, \u201cEscúchalo\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 88\u201392.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165264223\" id=\"p_jGJnZ\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/by-divine-design?lang=spa\">Por designio divino<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, págs. 55\u201357.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165265272\" id=\"p_rNIx0\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p20-p21#p20\">Mosíah 2:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p21#p21\">Doctrina y Convenios 59:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165265321\" id=\"p_qHXM4\">Véase \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/appendix-1-sixth-theological-lecture-on-faith-circa-january-may-1835-as-published-in-latter-day-saints-messenger-and-advocate/1\">Appendix 1: Sixth Theological Lecture on Faith<\/a>, circa January\u2013May 1835, as Published in <cite>Latter Day Saints\u2019 Messenger and Advocate<\/cite>\u201d, págs. 124\u2013125, josephsmithpapers.org.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165265363\" id=\"p_l1zBK\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41\">Moroni 7:41<\/a>; véase también Stephen M.R. Covey y Rebecca R. Merrill, <cite>The Speed of Trust: The One Thing that Changes Everything<\/cite>, 2006, pág. 215.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165265403\" id=\"p_rtMV4\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21\">2 Nefi 4:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165265449\" id=\"p_rdjHp\">\u201cDios es mi amigo. En Él hallaré consuelo [\u2026]. Deseo estar con Cristo. Mi vida no tiene valor para mí, [excepto] para hacer Su voluntad\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-20?lang=spa&amp;id=p17#p17\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a><\/cite>, 2007, págs. 243\u2013244).<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165265497\" id=\"p_eDt1u\">Bible Dictionary, \u201c<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/bd/faith.html?id=p2#p2\">Faith<\/span>\u201d.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165265544\" id=\"p_u5pl9\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=spa&amp;id=p6#p6\">Hebreos 11:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165265574\" id=\"p_wrY5O\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p29#p29\">Juan 8:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165265637\" id=\"p_vZ7yy\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/39?lang=spa&amp;id=p9#p9\">Génesis 39:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165265684\" id=\"p_zeBaE\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165265731\" id=\"p_kpxCi\">El presidente Gordon B.Hinckley enseñó: \u201cOren a su Padre Celestial en el nombre del Señor Jesucristo, y siempre, bajo toda circunstancia, mediante la naturaleza misma de sus vidas, demuestren su lealtad y su amor\u201d (Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/04/loyalty?lang=spa&amp;id=p43#p43\">Lealtad<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2003, pág. 58; véanse también Brent Schmidt, <cite>Relational Faith: The Transformation and Restoration of Pistis as Knowledge, Trust, Confidence, and Covenantal Faithfulness<\/cite>, 2022, pág. 9; Teresa Morgan, <cite>Roman Faith and Christian Faith: Pistis and Fides in the Early Roman Empire and Early Churches<\/cite>, 2015, págs. 127\u2013128).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165265777\" id=\"p_cWDeO\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, págs. 4\u201311.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165265824\" id=\"p_t2Tp5\">\u201cLa palabra hebrea para fe es אמונה (<i>emuná<\/i>) y es una palabra orientada a la acción que significa \u2018apoyo\u2019 [\u2026]. [Eso] hace que la acción recaiga en aquel que \u2018apoya a Dios\u2019. No es saber que Dios actuará, sino que haré lo que pueda para apoyar a Dios. Esta idea de apoyo en la palabra <i>emuná<\/i> se puede ver en <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/17?lang=spa&amp;id=p12#p12\">Éxodo 17:12<\/a> [\u2026]. Es el apoyo o <i>emuná<\/i> de Aarón y Hur que sostenía los brazos de Moisés, no el apoyo o <i>emuná<\/i> de Moisés. Cuando decimos: \u2018Tengo fe en Dios\u2019, deberíamos pensar: \u2018Haré lo que pueda para apoyar a Dios\u2019\u201d, (Jeff A. Benner, \u201cFaith,\u201d Ancient Hebrew Research Center, ancient-hebrew.org).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165265870\" id=\"p_l2nv6\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p21#p21\">Juan 14:21<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23\">versículo 23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165265916\" id=\"p_tsNiU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p9-p10#p9\">Juan 15:9\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165265962\" id=\"p_jkcbD\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, págs. 39\u201342.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165266009\" id=\"p_iTTV2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165266046\" id=\"p_laMmH\">Véase Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa\">La fe no es una casualidad, sino una elección<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, págs. 65\u201368.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165266095\" id=\"p_q2jBX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p29#p29\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165266142\" id=\"p_zr8Gk\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, págs. 92\u201395.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165266189\" id=\"p_rk8qv\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=spa\">Hijos del convenio<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1995, págs. 32\u201335.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165266237\" id=\"p_kujJ8\">\u201c<em>Jesús es mi amigo<\/em>. Ninguna otra persona me ha dado tanto como Él [\u2026]. Espero ser digno de ser llamado amigo de Él\u201d (Gordon B. Hinckley, <a class=\"cross-ref\" href=\"/study/general-conference/2000/04/my-testimony?lang=spa&amp;id=p34#p34\">\u201cMi testimonio\u201d,<\/a> <cite> Liahona,<\/cite> julio de 2000, pág. 85).<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"165266284\" id=\"p_bhURc\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=spa&amp;id=p67-p68#p67\">Juan 6:67\u201368<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p20#p20\">Doctrina y Convenios 6:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"165266330\" id=\"p_kxjqb\">Véanse Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Choices for Eternity<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio; Richard G. Scott, <cite>21 Principles: Divine Truths to Help You Live by the Spirit<\/cite>, 2013, pág. 90.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"165266377\" id=\"p_nPFtT\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/48?lang=spa&amp;id=p17#p17\">Alma 48:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"165266424\" id=\"p_aRbWK\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p2#p2\">Mosíah 4:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=spa&amp;id=p18#p18\">Alma 36:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"165266461\" id=\"p_p2WEJ\">Véase Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2009/04/be-of-good-cheer?lang=spa&amp;id=p44#p44\">Sed de buen ánimo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2009, pág. 92.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"165266509\" id=\"p_dZ194\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/58?lang=spa&amp;id=p9#p9\">Isaías 58:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10?lang=spa&amp;id=p4-p5#p4\">Helamán 10:4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p30#p30\">Éter 12:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p33#p33\">Moroni 7:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"165266556\" id=\"p_ieQb8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23\">2 Nefi 25:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"165266603\" id=\"p_rhSBp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p26#p26\">Alma 5:26<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p9#p9\">Alma 5:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26?lang=spa&amp;id=p13#p13\">Alma 26:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"165266650\" id=\"p_eTh2A\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15\">2 Nefi 1:15<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165251864",
+        "id": "note4",
+        "text": "<p data-aid=\"165264078\" id=\"p_ssWM6\">\u201cVéase <a href=\"https://www.churchofjesuschrist.org/study/video/face-to-face-events/2025-january-worldwide-discussion-for-youth-look-unto-christ?lang=eng\">Mira hacia Cristo<\/a>\u201d, (análisis mundial para los jóvenes de enero 2025), Biblioteca del Evangelio; véase también Alexander Dushku, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/15dushku?lang=spa\">Columnas y rayos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 14\u201316.<\/p>",
+        "referenceUris": [
+          {
+            "href": "https://www.churchofjesuschrist.org/study/video/face-to-face-events/2025-january-worldwide-discussion-for-youth-look-unto-christ?lang=eng",
+            "text": "Mira hacia Cristo"
+          },
+          {
+            "href": "/study/general-conference/2024/04/15dushku?lang=spa",
+            "text": "Columnas y rayos",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165251890",
+        "id": "note5",
+        "text": "<p data-aid=\"165264125\" id=\"p_faRQz\">Véase Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/15andersen?lang=spa\">Recuerdos espiritualmente decisivos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 18\u201322.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/04/15andersen?lang=spa",
+          "text": "Recuerdos espiritualmente decisivos",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165251814",
+        "id": "note2",
+        "text": "<p data-aid=\"165263981\" id=\"p_cAWYw\">La palabra <i>fe<\/i> proviene del latín <i>fides<\/i>, que significa \u201cconfiar\u201d. Véase Michiel de Vaan, <cite>Etymological Dictionary of Latin and the Other Italic Languages<\/cite>, 2008, entrada \u201cfido\u201d. El cognado griego πίστις se traduce como \u201cconfiando\u201d. Véase Robert Beekes, <cite>Etymological Dictionary of Greek<\/cite>, 2010, págs. 1161\u20131162.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165251828",
+        "id": "note3",
+        "text": "<p data-aid=\"165264030\" id=\"p_chW1c\">\u201cLa fe es la confianza de una persona en Jesucristo\u201d, véase la Guía para el Estudio de las Escrituras, <a class=\"scripture-ref\" href=\"/study/scriptures/gs/faith?lang=spa&amp;id=p1#p1\">\u201cFe\u201d<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/gs/faith?lang=spa&amp;id=p1#p1",
+          "text": "\u201cFe\u201d",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165251910",
+        "id": "note8",
+        "text": "<p data-aid=\"165265272\" id=\"p_rNIx0\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p20-p21#p20\">Mosíah 2:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p21#p21\">Doctrina y Convenios 59:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p20-p21#p20",
+            "text": "Mosíah 2:20\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p21#p21",
+            "text": "Doctrina y Convenios 59:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165251910",
+        "id": "note9",
+        "text": "<p data-aid=\"165265321\" id=\"p_qHXM4\">Véase \u201c<a href=\"https://www.josephsmithpapers.org/paper-summary/appendix-1-sixth-theological-lecture-on-faith-circa-january-may-1835-as-published-in-latter-day-saints-messenger-and-advocate/1\">Appendix 1: Sixth Theological Lecture on Faith<\/a>, circa January\u2013May 1835, as Published in <cite>Latter Day Saints\u2019 Messenger and Advocate<\/cite>\u201d, págs. 124\u2013125, josephsmithpapers.org.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/appendix-1-sixth-theological-lecture-on-faith-circa-january-may-1835-as-published-in-latter-day-saints-messenger-and-advocate/1",
+          "text": "Appendix 1: Sixth Theological Lecture on Faith"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165251890",
+        "id": "note6",
+        "text": "<p data-aid=\"165264174\" id=\"p_yhfYY\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/3?lang=spa&amp;id=p2-p3#p2\">2 Corintios 3:2\u20133<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>; Russell M. Nelson, \u201cEscúchalo\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 88\u201392.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/2-cor/3?lang=spa&amp;id=p2-p3#p2",
+            "text": "2 Corintios 3:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3",
+            "text": "Moroni 10:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165251890",
+        "id": "note7",
+        "text": "<p data-aid=\"165264223\" id=\"p_jGJnZ\">Véase Ronald A. Rasband, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/by-divine-design?lang=spa\">Por designio divino<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, págs. 55\u201357.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/by-divine-design?lang=spa",
+          "text": "Por designio divino",
+          "type": "cross-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "165263747",
+        "id": "note30",
+        "text": "<p data-aid=\"165266284\" id=\"p_bhURc\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=spa&amp;id=p67-p68#p67\">Juan 6:67\u201368<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p20#p20\">Doctrina y Convenios 6:20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/6?lang=spa&amp;id=p67-p68#p67",
+            "text": "Juan 6:67\u201368",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p20#p20",
+            "text": "Doctrina y Convenios 6:20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165252206",
+        "id": "note16",
+        "text": "<p data-aid=\"165265637\" id=\"p_vZ7yy\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/gen/39?lang=spa&amp;id=p9#p9\">Génesis 39:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/gen/39?lang=spa&amp;id=p9#p9",
+          "text": "Génesis 39:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "context": "",
+        "pid": "165263834",
+        "id": "note38",
+        "text": "<p data-aid=\"165266650\" id=\"p_eTh2A\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15\">2 Nefi 1:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/1?lang=spa&amp;id=p15#p15",
+          "text": "2 Nefi 1:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165252206",
+        "id": "note15",
+        "text": "<p data-aid=\"165265574\" id=\"p_wrY5O\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/8?lang=spa&amp;id=p29#p29\">Juan 8:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/8?lang=spa&amp;id=p29#p29",
+          "text": "Juan 8:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "context": "",
+        "pid": "165263834",
+        "id": "note37",
+        "text": "<p data-aid=\"165266603\" id=\"p_rhSBp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p26#p26\">Alma 5:26<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p9#p9\">Alma 5:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26?lang=spa&amp;id=p13#p13\">Alma 26:13<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p26#p26",
+            "text": "Alma 5:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p9#p9",
+            "text": "Alma 5:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/26?lang=spa&amp;id=p13#p13",
+            "text": "Alma 26:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165252157",
+        "id": "note14",
+        "text": "<p data-aid=\"165265544\" id=\"p_u5pl9\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/11?lang=spa&amp;id=p6#p6\">Hebreos 11:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/heb/11?lang=spa&amp;id=p6#p6",
+          "text": "Hebreos 11:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note36",
+        "text": "<p data-aid=\"165266556\" id=\"p_ieQb8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23\">2 Nefi 25:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/25?lang=spa&amp;id=p23#p23",
+          "text": "2 Nefi 25:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165252157",
+        "id": "note13",
+        "text": "<p data-aid=\"165265497\" id=\"p_eDt1u\">Bible Dictionary, \u201c<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/bd/faith.html?id=p2#p2\">Faith<\/span>\u201d.<\/p>"
+      },
+      "note35": {
+        "marker": "35.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note35",
+        "text": "<p data-aid=\"165266509\" id=\"p_dZ194\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/58?lang=spa&amp;id=p9#p9\">Isaías 58:9<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/10?lang=spa&amp;id=p4-p5#p4\">Helamán 10:4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p30#p30\">Éter 12:30<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p33#p33\">Moroni 7:33<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/58?lang=spa&amp;id=p9#p9",
+            "text": "Isaías 58:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/hel/10?lang=spa&amp;id=p4-p5#p4",
+            "text": "Helamán 10:4\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p30#p30",
+            "text": "Éter 12:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p33#p33",
+            "text": "Moroni 7:33",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165252115",
+        "id": "note12",
+        "text": "<p data-aid=\"165265449\" id=\"p_rdjHp\">\u201cDios es mi amigo. En Él hallaré consuelo [\u2026]. Deseo estar con Cristo. Mi vida no tiene valor para mí, [excepto] para hacer Su voluntad\u201d (<cite><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-20?lang=spa&amp;id=p17#p17\"><cite>Enseñanzas de los Presidentes de la Iglesia: José Smith<\/cite><\/a><\/cite>, 2007, págs. 243\u2013244).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-joseph-smith/chapter-20?lang=spa&amp;id=p17#p17",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note34",
+        "text": "<p data-aid=\"165266461\" id=\"p_p2WEJ\">Véase Thomas S. Monson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2009/04/be-of-good-cheer?lang=spa&amp;id=p44#p44\">Sed de buen ánimo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2009, pág. 92.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2009/04/be-of-good-cheer?lang=spa&amp;id=p44#p44",
+          "text": "Sed de buen ánimo",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165252115",
+        "id": "note11",
+        "text": "<p data-aid=\"165265403\" id=\"p_rtMV4\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21\">2 Nefi 4:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/4?lang=spa&amp;id=p21#p21",
+          "text": "2 Nefi 4:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note33",
+        "text": "<p data-aid=\"165266424\" id=\"p_aRbWK\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p2#p2\">Mosíah 4:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=spa&amp;id=p18#p18\">Alma 36:18<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p2#p2",
+            "text": "Mosíah 4:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/36?lang=spa&amp;id=p18#p18",
+            "text": "Alma 36:18",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165251985",
+        "id": "note10",
+        "text": "<p data-aid=\"165265363\" id=\"p_l1zBK\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41\">Moroni 7:41<\/a>; véase también Stephen M.R. Covey y Rebecca R. Merrill, <cite>The Speed of Trust: The One Thing that Changes Everything<\/cite>, 2006, pág. 215.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p41#p41",
+          "text": "Moroni 7:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note32",
+        "text": "<p data-aid=\"165266377\" id=\"p_nPFtT\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/48?lang=spa&amp;id=p17#p17\">Alma 48:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/48?lang=spa&amp;id=p17#p17",
+          "text": "Alma 48:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "165263782",
+        "id": "note31",
+        "text": "<p data-aid=\"165266330\" id=\"p_kxjqb\">Véanse Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa\">Choices for Eternity<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio; Richard G. Scott, <cite>21 Principles: Divine Truths to Help You Live by the Spirit<\/cite>, 2013, pág. 90.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa",
+          "text": "Choices for Eternity",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165263264",
+        "id": "note19",
+        "text": "<p data-aid=\"165265777\" id=\"p_cWDeO\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, págs. 4\u201311.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa",
+          "text": "El convenio sempiterno",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165263264",
+        "id": "note18",
+        "text": "<p data-aid=\"165265731\" id=\"p_kpxCi\">El presidente Gordon B.Hinckley enseñó: \u201cOren a su Padre Celestial en el nombre del Señor Jesucristo, y siempre, bajo toda circunstancia, mediante la naturaleza misma de sus vidas, demuestren su lealtad y su amor\u201d (Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/04/loyalty?lang=spa&amp;id=p43#p43\">Lealtad<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2003, pág. 58; véanse también Brent Schmidt, <cite>Relational Faith: The Transformation and Restoration of Pistis as Knowledge, Trust, Confidence, and Covenantal Faithfulness<\/cite>, 2022, pág. 9; Teresa Morgan, <cite>Roman Faith and Christian Faith: Pistis and Fides in the Early Roman Empire and Early Churches<\/cite>, 2015, págs. 127\u2013128).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2003/04/loyalty?lang=spa&amp;id=p43#p43",
+          "text": "Lealtad",
+          "type": "cross-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165252206",
+        "id": "note17",
+        "text": "<p data-aid=\"165265684\" id=\"p_zeBaE\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25",
+          "text": "José Smith\u2014Historia 1:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165263600",
+        "id": "note27",
+        "text": "<p data-aid=\"165266142\" id=\"p_zr8Gk\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, págs. 92\u201395.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=spa",
+          "text": "Que Dios prevalezca",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165263600",
+        "id": "note26",
+        "text": "<p data-aid=\"165266095\" id=\"p_q2jBX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p29#p29\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, pág. 99.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/47nelson?lang=spa&amp;id=p29#p29",
+          "text": "El poder del ímpetu espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165263498",
+        "id": "note25",
+        "text": "<p data-aid=\"165266046\" id=\"p_laMmH\">Véase Neil L. Andersen, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa\">La fe no es una casualidad, sino una elección<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, págs. 65\u201368.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=spa",
+          "text": "La fe no es una casualidad, sino una elección",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165263400",
+        "id": "note24",
+        "text": "<p data-aid=\"165266009\" id=\"p_iTTV2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36\">Doctrina y Convenios 6:36<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p36#p36",
+          "text": "Doctrina y Convenios 6:36",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165263400",
+        "id": "note23",
+        "text": "<p data-aid=\"165265962\" id=\"p_jkcbD\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, págs. 39\u201342.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa",
+          "text": "Cómo obtener el poder de Jesucristo en nuestra vida",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165263302",
+        "id": "note22",
+        "text": "<p data-aid=\"165265916\" id=\"p_tsNiU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/15?lang=spa&amp;id=p9-p10#p9\">Juan 15:9\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/15?lang=spa&amp;id=p9-p10#p9",
+          "text": "Juan 15:9\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165263302",
+        "id": "note21",
+        "text": "<p data-aid=\"165265870\" id=\"p_l2nv6\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p21#p21\">Juan 14:21<\/a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23\">versículo 23<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p21#p21",
+            "text": "Juan 14:21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p23#p23",
+            "text": "versículo 23",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165263264",
+        "id": "note20",
+        "text": "<p data-aid=\"165265824\" id=\"p_t2Tp5\">\u201cLa palabra hebrea para fe es אמונה (<i>emuná<\/i>) y es una palabra orientada a la acción que significa \u2018apoyo\u2019 [\u2026]. [Eso] hace que la acción recaiga en aquel que \u2018apoya a Dios\u2019. No es saber que Dios actuará, sino que haré lo que pueda para apoyar a Dios. Esta idea de apoyo en la palabra <i>emuná<\/i> se puede ver en <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/17?lang=spa&amp;id=p12#p12\">Éxodo 17:12<\/a> [\u2026]. Es el apoyo o <i>emuná<\/i> de Aarón y Hur que sostenía los brazos de Moisés, no el apoyo o <i>emuná<\/i> de Moisés. Cuando decimos: \u2018Tengo fe en Dios\u2019, deberíamos pensar: \u2018Haré lo que pueda para apoyar a Dios\u2019\u201d, (Jeff A. Benner, \u201cFaith,\u201d Ancient Hebrew Research Center, ancient-hebrew.org).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/ex/17?lang=spa&amp;id=p12#p12",
+          "text": "Éxodo 17:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165251764",
+        "id": "note1",
+        "text": "<p data-aid=\"165263932\" id=\"p_oNxIW\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p29#p29\">Cómo obtener el poder de Jesucristo en nuestra vida<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2017, pág. 42.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=spa&amp;id=p29#p29",
+          "text": "Cómo obtener el poder de Jesucristo en nuestra vida",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165263747",
+        "id": "note29",
+        "text": "<p data-aid=\"165266237\" id=\"p_kujJ8\">\u201c<em>Jesús es mi amigo<\/em>. Ninguna otra persona me ha dado tanto como Él [\u2026]. Espero ser digno de ser llamado amigo de Él\u201d (Gordon B. Hinckley, <a class=\"cross-ref\" href=\"/study/general-conference/2000/04/my-testimony?lang=spa&amp;id=p34#p34\">\u201cMi testimonio\u201d,<\/a> <cite> Liahona,<\/cite> julio de 2000, pág. 85).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2000/04/my-testimony?lang=spa&amp;id=p34#p34",
+          "text": "\u201cMi testimonio\u201d,",
+          "type": "cross-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165263698",
+        "id": "note28",
+        "text": "<p data-aid=\"165266189\" id=\"p_rk8qv\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1995/04/children-of-the-covenant?lang=spa\">Hijos del convenio<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1995, págs. 32\u201335.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1995/04/children-of-the-covenant?lang=spa",
+          "text": "Hijos del convenio",
+          "type": "cross-ref"
+        }]
+      }
+    }
+  }
+}

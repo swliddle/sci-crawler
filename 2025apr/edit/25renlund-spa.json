@@ -1,0 +1,664 @@
+{
+    "tableOfContentsUri": "/general-conference/2025/04",
+    "meta": {
+        "scopedClassName": "global-template-mobile_lesson",
+        "hasChat": false,
+        "archived": false,
+        "canonicalUrl": "/general-conference/2025/04/25renlund?lang=spa",
+        "pageAttributes": {
+            "data-asset-id": "73e2445b3ccc4fb19d664f14b2734ccc",
+            "data-content-type": "general-conference-talk",
+            "itemscope": "",
+            "itemtype": "http://schema.org/Article",
+            "data-uri": "/general-conference/2025/04/25renlund",
+            "data-bcp47-lang": "es",
+            "data-aid": "165183292",
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "lang": "spa",
+            "data-aid-version": "4",
+            "data-orig-id": "91bd4c6bfc494b68a0fa6ceb0b40ede6"
+        },
+        "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/wwzr6zox9kb52iy1unjnom4azano7fj2s22yot1h/full/%21192%2C/0/default",
+        "audio": [
+            {
+                "mediaUrl": "https://assets.churchofjesuschrist.org/tc0w701slnwt3rd1kiwd4b9uyvil0zalqvg65cfk-128k-es.mp3",
+                "variant": "audio"
+            }
+        ],
+        "title": "Preparación personal para comparecer ante el Salvador",
+        "contentType": "text/html",
+        "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+    },
+    "restricted": 0,
+    "verified": true,
+    "pids": [
+        ["165183292", { "key": "165183292" }],
+        ["165254135", { "key": "165254135" }],
+        ["165254147", { "key": "165254147" }],
+        ["165254155", { "key": "165254155" }],
+        ["165254164", { "key": "165254164" }],
+        ["165254173", { "key": "165254173" }],
+        ["165254181", { "key": "165254181" }],
+        ["165254192", { "key": "165254192" }],
+        ["165254204", { "key": "165254204" }],
+        ["165254217", { "key": "165254217" }],
+        ["165254229", { "key": "165254229" }],
+        ["165254241", { "key": "165254241" }],
+        ["165254252", { "key": "165254252" }],
+        ["165254264", { "key": "165254264" }],
+        ["165254277", { "key": "165254277" }],
+        ["165254291", { "key": "165254291" }],
+        ["165254304", { "key": "165254304" }],
+        ["165254316", { "key": "165254316" }],
+        ["165254328", { "key": "165254328" }],
+        ["165254341", { "key": "165254341" }],
+        ["165254353", { "key": "165254353" }],
+        ["165254364", { "key": "165254364" }],
+        ["165254378", { "key": "165254378" }],
+        ["165254390", { "key": "165254390" }],
+        ["165254403", { "key": "165254403" }],
+        ["165254416", { "key": "165254416" }],
+        ["165254429", { "key": "165254429" }],
+        ["165254442", { "key": "165254442" }],
+        ["165254455", { "key": "165254455" }],
+        ["165254468", { "key": "165254468" }],
+        ["165254482", { "key": "165254482" }],
+        ["165254506", { "key": "165254506" }],
+        ["165254518", { "key": "165254518" }],
+        ["165254530", { "key": "165254530" }],
+        ["165254543", { "key": "165254543" }],
+        ["165254557", { "key": "165254557" }],
+        ["165254571", { "key": "165254571" }],
+        ["165254585", { "key": "165254585" }],
+        ["165254599", { "key": "165254599" }],
+        ["165254614", { "key": "165254614" }],
+        ["165254626", { "key": "165254626" }],
+        ["165254641", { "key": "165254641" }],
+        ["165254657", { "key": "165254657" }],
+        ["165254673", { "key": "165254673" }],
+        ["165254691", { "key": "165254691" }],
+        ["165254707", { "key": "165254707" }],
+        ["165254724", { "key": "165254724" }],
+        ["165254742", { "key": "165254742" }],
+        ["165254758", { "key": "165254758" }],
+        ["165254773", { "key": "165254773" }],
+        ["165254788", { "key": "165254788" }],
+        ["165254803", { "key": "165254803" }],
+        ["165254817", { "key": "165254817" }],
+        ["165254831", { "key": "165254831" }],
+        ["165254846", { "key": "165254846" }],
+        ["165254860", { "key": "165254860" }],
+        ["165254873", { "key": "165254873" }],
+        ["165254888", { "key": "165254888" }],
+        ["165254903", { "key": "165254903" }],
+        ["165254918", { "key": "165254918" }],
+        ["165254932", { "key": "165254932" }],
+        ["165254947", { "key": "165254947" }],
+        ["165254953", { "key": "165254953" }],
+        ["165254986", { "key": "165254986" }],
+        ["165255002", { "key": "165255002" }],
+        ["165255017", { "key": "165255017" }],
+        ["165255035", { "key": "165255035" }],
+        ["165255053", { "key": "165255053" }],
+        ["165255067", { "key": "165255067" }],
+        ["165255084", { "key": "165255084" }],
+        ["165255101", { "key": "165255101" }],
+        ["165255118", { "key": "165255118" }],
+        ["165255138", { "key": "165255138" }],
+        ["165255157", { "key": "165255157" }],
+        ["165255175", { "key": "165255175" }],
+        ["165255192", { "key": "165255192" }],
+        ["165255210", { "key": "165255210" }]
+    ],
+    "uri": "/general-conference/2025/04/25renlund",
+    "content": {
+        "head": {
+            "links": [
+                {
+                    "orig-type": "text/css",
+                    "rel": "stylesheet",
+                    "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+                    "type": "array"
+                }
+            ],
+            "scripts": [],
+            "page-meta-social": {
+                "pageMeta": {
+                    "description": "El élder Renlund utiliza lecciones de las tres parábolas del Salvador para enseñar cómo podemos prepararnos para la Segunda Venida.",
+                    "title": "Preparación personal para comparecer ante el Salvador"
+                },
+                "pageSocial": {
+                    "description": "El élder Renlund utiliza lecciones de las tres parábolas del Salvador para enseñar cómo podemos prepararnos para la Segunda Venida.",
+                    "title": "Preparación personal para comparecer ante el Salvador"
+                }
+            }
+        },
+        "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/wwzr6zox9kb52iy1unjnom4azano7fj2s22yot1h/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/wwzr6zox9kb52iy1unjnom4azano7fj2s22yot1h/full/%21192%2C/0/default\" data-video-title=\"Preparación personal para comparecer ante el Salvador\" data-video-description=\"El élder Renlund utiliza lecciones de las tres parábolas del Salvador para enseñar cómo podemos prepararnos para la Segunda Venida.\" data-video-id=\"6371109923112\" data-duration=\"849800\" data-assetId=\"qlqobtbf0vxh5o1ibvuqt28cxj5u0jzup7d86bl7\" data-ref-id=\"qlqobtbf0vxh5o1ibvuqt28cxj5u0jzup7d86bl7\" data-duration-string=\"14:09\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371109923112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"242166687\"/><source src=\"https://assets.churchofjesuschrist.org/qlqobtbf0vxh5o1ibvuqt28cxj5u0jzup7d86bl7-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"52126311\"/><source src=\"https://assets.churchofjesuschrist.org/qlqobtbf0vxh5o1ibvuqt28cxj5u0jzup7d86bl7-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"88541698\"/><source src=\"https://assets.churchofjesuschrist.org/qlqobtbf0vxh5o1ibvuqt28cxj5u0jzup7d86bl7-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"242166687\"/></video><h1 data-aid=\"165254135\" id=\"p_sb3JK\">Preparación personal para comparecer ante el Salvador</h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165254147\" id=\"p_qsoWK\">Por el élder Dale G. Renlund</p>\n<p class=\"author-role\" data-aid=\"165254155\" id=\"p_f6SVr\">Del Cuórum de los Doce Apóstoles</p>\n</div>\n<p class=\"kicker\" data-aid=\"165254164\" id=\"p_jy4GR\">Sigan las enseñanzas del Salvador. Sus instrucciones no son misteriosas ni complejas. Cuando las seguimos, no tenemos por qué temer ni sentirnos ansiosos.</p>\n</header>\n<div class=\"body-block\">\n<p data-aid=\"165254173\" id=\"p_dYgDU\">Mis queridos hermanos y hermanas, el pasado mes de octubre, el presidente Russell M. Nelson enseñó: \u201cEste es el momento de que ustedes y yo nos preparemos para la Segunda Venida de nuestro Señor y Salvador, Jesús el Cristo\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"></sup></a>. Cuando el presidente Nelson habla de la Segunda Venida, siempre lo hace con gozoso optimismo. Sin embargo, una niña de la Primaria me dijo hace poco que siente ansiedad cada vez que se menciona la Segunda Venida. Ella dijo: \u201cTengo miedo porque van a suceder cosas malas antes de que Jesús venga de nuevo\u201d.</p>\n<p data-aid=\"165254181\" id=\"p_c6LgR\">No son solo los niños que pueden sentirse así. El mejor consejo para ella, para ustedes y para mí es seguir las enseñanzas del Salvador. Sus instrucciones no son misteriosas ni complejas. Cuando las seguimos, no tenemos por qué temer ni sentirnos ansiosos<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"></sup></a>.</p>\n<p data-aid=\"165254192\" id=\"p_fEW7v\">Hacia el final de Su ministerio terrenal, se le preguntó a Jesucristo cuándo vendría de nuevo. Al responder, enseñó tres parábolas, registradas en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa\">Mateo 25</a>, acerca de cómo prepararnos para comparecer ante Él, ya sea en Su Segunda Venida o cuando dejemos este mundo<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"></sup></a>. Esas enseñanzas son cruciales, porque la preparación personal para comparecer ante Él es un elemento fundamental del propósito de la vida<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"></sup></a>.</p>\n<p data-aid=\"165254204\" id=\"p_hOjzm\">El Salvador relató primero la parábola de las diez vírgenes. En esta parábola, diez vírgenes fueron a una fiesta de bodas. Cinco sabiamente trajeron aceite para llenar sus lámparas y cinco imprudentemente no lo hicieron. Cuando se anunció la inminente llegada del novio, las vírgenes insensatas salieron a comprar aceite. Cuando regresaron, ya era demasiado tarde; la puerta de la fiesta estaba cerrada<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"></sup></a>.</p>\n<p data-aid=\"165254217\" id=\"p_jUj7o\">Jesús señaló tres aspectos de la parábola para ayudarnos. Él explicó:</p>\n<p data-aid=\"165254229\" id=\"p_vbxXw\">\u201cY en aquel día, cuando yo venga en mi gloria, se cumplirá la parábola que hablé acerca de las diez vírgenes.</p>\n<p data-aid=\"165254241\" id=\"p_sPG8B\">\u201cPorque aquellos que son prudentes y han recibido la verdad, y han tomado al Santo Espíritu por guía, y no han sido engañados, de cierto os digo que estos [\u2026] aguantarán el día\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"></sup></a>.</p>\n<p data-aid=\"165254252\" id=\"p_qP6hl\">En otras palabras, no tenían que temer ni estar ansiosos, porque sobrevivirían y prosperarían. Prevalecerían.</p>\n<p data-aid=\"165254264\" id=\"p_izngu\">Si somos sabios, recibimos la verdad al aceptar el Evangelio de Jesucristo por medio de las ordenanzas y los convenios del sacerdocio. Luego, nos esforzamos por mantenernos dignos de tener el Espíritu Santo siempre con nosotros. Esta aptitud debe adquirirse individual y personalmente, gota a gota<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"></sup></a>. Los actos de devoción constantes, personales y privados invitan al Espíritu Santo a guiarnos<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"></sup></a>.</p>\n<p data-aid=\"165254277\" id=\"p_ypzAo\">El tercer elemento que Jesús destacó es evitar el engaño. El Salvador advirtió:</p>\n<p data-aid=\"165254291\" id=\"p_vEQsL\">\u201cMirad que nadie os engañe,</p>\n<p data-aid=\"165254304\" id=\"p_jBxrl\">\u201cporque vendrán muchos en mi nombre, diciendo: Yo soy el Cristo; y a muchos engañarán\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"></sup></a>.</p>\n<p data-aid=\"165254316\" id=\"p_qItQr\">El Salvador sabía que los farsantes tratarían de engañar aun a los mismos elegidos y que muchos discípulos serían engañados<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"></sup></a>. No debemos creer a aquellos que falsamente afirman tener aprobación divina ni aventurarnos en desiertos o aposentos metafóricos para ser instruidos por impostores.</p>\n<p data-aid=\"165254328\" id=\"p_x7gIZ\">El Libro de Mormón nos enseña cómo podemos diferenciar a los engañadores de los discípulos. Los discípulos siempre promueven creer en Dios, servirle y hacer el bien<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"></sup></a>. No seremos engañados cuando busquemos y aceptemos el consejo de personas de confianza que sean a su vez fieles discípulos del Salvador<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"></sup></a>.</p>\n<p data-aid=\"165254341\" id=\"p_nwlrw\">También podemos evitar el engaño al adorar con regularidad en el templo. Esto nos ayuda a mantener una perspectiva eterna y nos protege de las influencias que podrían distraernos o desviarnos de la senda de los convenios<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"></sup></a>.</p>\n<p data-aid=\"165254353\" id=\"p_xJflF\">La lección esencial de esta parábola de las diez vírgenes es que somos sabios cuando aceptamos el Evangelio, procuramos tener el Espíritu Santo con nosotros y evitamos el engaño. Las cinco vírgenes prudentes no pudieron ayudar a las que no tenían aceite; nadie puede aceptar el Evangelio, tomar al Espíritu Santo como guía y evitar el engaño en nuestro nombre<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"></sup></a>. Tenemos que hacerlo por nosotros mismos.</p>\n<p data-aid=\"165254364\" id=\"p_tTOH3\">Luego, el Salvador relató la parábola de los talentos<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"></sup></a>. En esta parábola, un hombre dio a tres siervos cantidades diferentes de dinero, denominado talentos<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"></sup></a>. A un siervo le dio cinco talentos, a otro dos y al tercero uno. Con el tiempo, los dos primeros siervos duplicaron lo que habían recibido, pero el tercer siervo simplemente enterró su único talento. A los dos siervos que habían duplicado sus talentos, el hombre dijo: \u201cBien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"></sup></a>.</p>\n<p data-aid=\"165254378\" id=\"p_lI7zA\">Entonces el hombre reprendió al siervo que había enterrado su talento por ser \u201cmalo y negligente\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"></sup></a>. A este siervo le fue quitado el talento y fue desterrado. Sin embargo, si este siervo hubiera duplicado su talento, habría recibido el mismo elogio y recompensa que los otros siervos<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"></sup></a>.</p>\n<p data-aid=\"165254390\" id=\"p_t0Ub5\">Un mensaje de esta parábola es que Dios espera que magnifiquemos las habilidades que se nos han dado<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"></sup></a>, pero Él no quiere que comparemos nuestras habilidades con las de los demás. Contemplen esta reflexión ofrecida por el erudito jasídico del siglo XVIII, Zusha de Hannopil. Zusha era un maestro de renombre que comenzó a temer al acercarse a la muerte. Sus discípulos le preguntaron: \u201cMaestro, ¿por qué tiemblas? Has vivido una buena vida; seguramente Dios te concederá una gran recompensa\u201d.</p>\n<p data-aid=\"165254403\" id=\"p_hZVIz\">Zusha dijo: \u201cSi Dios me dice: \u2018Zusha, ¿por qué no fuiste otro Moisés?\u2019, le diré: \u2018Porque no me diste la grandeza de alma que le diste a Moisés\u2019. Y si estoy delante de Dios y Él dice: \u2018Zusha, ¿por qué no fuiste otro Salomón?\u2019, le diré: \u2018Porque no me diste la sabiduría de Salomón\u2019. Pero ¡vaya!, ¿qué diré si me presento ante mi Hacedor y Él me dice: \u2018Zusha, ¿por qué no fuiste Zusha? ¿Por qué no fuiste el hombre que te di la capacidad de ser?\u2019? ¡Ay!, por eso tiemblo\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"></sup></a>.</p>\n<p data-aid=\"165254416\" id=\"p_jXCG9\">De hecho, Dios se sentirá decepcionado si no confiamos en los méritos, la misericordia y la gracia del Salvador para magnificar las habilidades que Dios nos ha dado. Con Su amorosa ayuda, espera que lleguemos a ser la mejor versión de nosotros mismos. Que comencemos con diferentes habilidades es irrelevante para Él, y debería serlo para nosotros<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"></sup></a>.</p>\n<p data-aid=\"165254429\" id=\"p_kmhjl\">Por último, el Salvador relató la parábola de las ovejas y los cabritos<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"></sup></a>. Cuando Él regrese en Su gloria, \u201cserán reunidas delante de él todas las naciones; entonces apartará los unos de los otros, como aparta el pastor las ovejas de los cabritos. Y pondrá las ovejas a su derecha, y los cabritos a la izquierda\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"></sup></a>.</p>\n<p data-aid=\"165254442\" id=\"p_jfCRe\">Los que estaban a Su derecha se convirtieron en herederos en Su reino y los que estaban a Su izquierda no recibieron herencia. La característica distintiva era si le daban de comer cuando tenía hambre, si le daban de beber cuando tenía sed, si lo alojaban cuando era forastero, si lo vestían cuando estaba desnudo y si lo visitaban cuando estaba enfermo o en la cárcel.</p>\n<p data-aid=\"165254455\" id=\"p_oYmoV\">Todos estaban perplejos, tanto los que estaban a la derecha como los que estaban a la izquierda. Le preguntaron cuándo le habían dado o no le habían dado comida, bebida y ropa, o lo habían ayudado cuando estaba vulnerable<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"></sup></a>. En respuesta, el Salvador dijo: \u201cDe cierto os digo que en cuanto lo hicisteis a uno de estos, mis hermanos más pequeños, a mí lo hicisteis\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"></sup></a>.</p>\n<p data-aid=\"165254468\" id=\"p_vmWnJ\">El mensaje de la parábola es claro: cuando servimos a los demás, servimos a Dios<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"></sup></a>; cuando no lo hacemos, decepcionamos. Él espera que utilicemos nuestros dones, talentos y habilidades para bendecir la vida de los hijos del Padre Celestial. El impulso divino de servir a los demás se ilustra en un poema escrito en el siglo XIX por el poeta finlandés Johan Ludvig Runeberg. Mis hermanos y yo escuchamos repetidamente el poema \u201cGranjero Paavo\u201d a lo largo de nuestra infancia. En el poema, Paavo era un granjero pobre que vivía con su esposa e hijos en la región de los lagos en el centro de Finlandia. Varios años seguidos, la mayoría de sus cultivos fueron destruidos, ya sea por el exceso de agua resultante del deshielo primaveral, las tormentas de granizo de verano o una helada prematura en otoño. Cada vez que recogían la escasa cosecha, la esposa del granjero se lamentaba: \u201cPaavo, Paavo, desafortunado anciano, Dios nos ha abandonado\u201d. Paavo, a su vez, decía estoicamente: \u201cMezcla la corteza con la harina de centeno para hacer pan, para que los niños no pasen hambre<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"></sup></a>. Trabajaré más duro para drenar los campos pantanosos. Dios nos está probando, pero Él proveerá\u201d.</p>\n<p data-aid=\"165254482\" id=\"p_qWRkN\">Cada vez que se destruían los cultivos, Paavo indicaba a su esposa que duplicara la cantidad de corteza que mezclaba con la harina para evitar la inanición. También trabajaba más duro, cavando zanjas para drenar el suelo y disminuir la susceptibilidad de sus campos al deshielo de primavera y a las heladas prematuras de otoño.</p>\n<p data-aid=\"165254506\" id=\"p_bJEJc\">Después de años de penurias, Paavo finalmente recogió una cosecha abundante. Su esposa se regocijó: \u201c¡Paavo, Paavo, estos son tiempos felices! Es hora de tirar la corteza y hornear pan hecho solo con centeno\u201d. Pero Paavo tomó solemnemente la mano de su esposa y dijo: \u201cMezcla la mitad de la harina con corteza, porque los campos de nuestro vecino se han congelado\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"></sup></a>. Paavo sacrificó su abundancia y la de su familia para ayudar a su devastado e indigente vecino.</p>\n<p data-aid=\"165254518\" id=\"p_oUIWf\">La lección de la parábola del Salvador sobre las ovejas y los cabritos es que debemos utilizar los dones que se nos han dado \u2014tiempo, talentos y bendiciones\u2014 para servir a los hijos del Padre Celestial, especialmente a los más vulnerables y necesitados<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"></sup></a>.</p>\n<p data-aid=\"165254530\" id=\"p_nuwhN\">Mi invitación para la ansiosa niña de la Primaria que mencioné antes, y para cada uno de ustedes, es que sigan a Jesucristo y confíen en el Espíritu Santo como lo harían con un amigo muy querido. Confíen en aquellos que los aman a ustedes y que aman al Salvador. Busquen la guía de Dios para desarrollar sus habilidades únicas y ayudar a los demás, incluso cuando no sea fácil<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"></sup></a>. Estarán listos para comparecer ante el Salvador y podrán unirse al presidente Nelson y ser gozosamente optimistas<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"></sup></a>. Al hacerlo, ayudan al mundo a prepararse para la Segunda Venida de Jesucristo y serán bendecidos con suficiente esperanza para entrar en el reposo y el gozo del Señor, ahora y en el futuro<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"></sup></a>.</p>\n<p data-aid=\"165254543\" id=\"p_t6go9\">Como cantamos en uno de nuestros nuevos himnos:</p>\n<div class=\"poetry\">\n<div class=\"stanza\">\n<p class=\"line\" data-aid=\"165254557\" id=\"p_kXPod\">Tu voz eleva hoy, en verdad volverá. [\u2026]</p>\n<p class=\"line\" data-aid=\"165254571\" id=\"p_epj8N\">Nadie sabe cuándo Él regresará aquí,</p>\n<p class=\"line\" data-aid=\"165254585\" id=\"p_pOgTd\">mas lo hará, escrito está.</p>\n<p class=\"line\" data-aid=\"165254599\" id=\"p_aVa70\">Reinará felicidad el día en que Cristo vuelva aquí<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"></sup></a>.</p>\n</div>\n</div>\n<p data-aid=\"165254614\" id=\"p_nILx1\">En el nombre de Jesucristo. Amén.</p>\n</div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165254626\" id=\"p_xcSo9\">Notas</p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165254641\" id=\"p_cioSP\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_m0YEO#p_m0YEO\">El Señor Jesucristo vendrá de nuevo</a>\u201d, <cite>Liahona</cite>, noviembre de 2024, pág. 121.</p>\n</li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165254657\" id=\"p_fC7rn\">No tenemos por qué sentirnos ansiosos, porque Jesucristo nos transformará para que estemos listos para comparecer ante Él. Al constantemente honrar nuestros convenios y guardar los mandamientos, gradualmente llegamos a ser, mediante Su gracia y bendiciones, más y más como el Salvador. Y conforme lo hagamos, estaremos preparados para Su Segunda Venida. Como se declara en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p2-p3#p2\">1 Juan 3:2\u20133</a>:</p>\n<p data-aid=\"165254673\" id=\"p_n5971\">\u201cMuy amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él aparezca, seremos semejantes a él, porque le veremos tal como él es.</p>\n<p data-aid=\"165254691\" id=\"p_d8UhX\">\u201cY todo aquel que tiene esta esperanza en él se purifica, así como él es puro\u201d.</p>\n</li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165254707\" id=\"p_lGGCo\">La Segunda Venida del Señor ocurrirá al comienzo de la era milenaria, cuando regrese en gloria, y todos reconocerán que Él fue y es el Mesías prometido (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/45?lang=spa&amp;id=p23#p23\">Isaías 45:23</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/12?lang=spa&amp;id=p10#p10\">Zacarías 12:10</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p104#p104\">Doctrina y Convenios 88:104</a>).</p>\n</li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165254724\" id=\"p_x8hnN\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/11nelson?lang=spa&amp;id=p6#p6\">Mensaje de apertura</a>\u201d, <cite>Liahona</cite>, mayo de 2020, págs. 6\u20137.</p>\n</li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165254742\" id=\"p_aeicH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25?lang=spa&amp;id=p1#p1\">Traducción de José Smith, Mateo 25:1</a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p1#p1\">Mateo 25:1</a>, nota <i>a</i> al pie de página); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p1-p4%2Cp6-p13#p1\">Mateo 25:1\u20134, 6\u201313</a>.</p>\n</li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165254758\" id=\"p_cLiys\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p56-p57#p56\">Doctrina y Convenios 45:56\u201357</a>.</p>\n</li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165254773\" id=\"p_hzgKU\">Véase David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;id=p44-p45#p44\">Convertidos al Señor</a>\u201d, <cite>Liahona</cite>, noviembre de 2012, pág. 109.</p>\n</li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165254788\" id=\"p_m1VKR\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">2 Nefi 32:5</a>.</p>\n</li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165254803\" id=\"p_hDPw9\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p4-p5#p4\">Mateo 24:4\u20135</a>.</p>\n</li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165254817\" id=\"p_omv1V\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p5-p6%2Cp8-p9%2Cp21-p22%2Cp25-p26#p5\">José Smith\u2014Mateo 1:5\u20136, 8\u20139, 21\u201322, 25\u201326</a>.</p>\n</li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165254831\" id=\"p_gInan\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p13%2Cp15-p17#p13\">Moroni 7:13, 15\u201317</a>. Las enseñanzas del Libro de Mormón se combinan con las enseñanzas bíblicas y las aclaran \u201cpara confundir las falsas doctrinas\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/3?lang=spa&amp;id=p12#p12\">2 Nefi 3:12</a>). Tal vez esto sea parte del razonamiento de la enseñanza del presidente Russell M. Nelson de que el Libro de Mormón es el instrumento de Dios para preparar al mundo para la Segunda Venida (véase \u201c<a class=\"cross-ref\" href=\"/study/liahona/2014/07/the-book-of-mormon-the-gathering-of-israel-and-the-second-coming?lang=spa&amp;id=p30#p30\">El Libro de Mormón, el recogimiento de Israel y la Segunda Venida</a>\u201d, <cite>Liahona</cite>, julio de 2014, pág. 27).</p>\n</li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165254846\" id=\"p_avemS\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23\">¡Piensen de manera celestial!</a>\u201d, <cite>Liahona</cite>, noviembre de 2023, pág. 119. El presidente Nelson también enseñó: \u201cNo [\u2026] mezclen [su testimonio] con las filosofías falsas de hombres y mujeres incrédulos\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso</a>\u201d, <cite>Liahona</cite>, noviembre de 2022, pág. 98). Lleven sus preguntas al Señor y a otras fuentes fidedignas. [\u2026] Dejen de aumentar sus dudas repitiéndolas con otros incrédulos\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=spa&amp;id=p22#p22\">Cristo ha resucitado; la fe en Él moverá montes</a>\u201d, <cite>Liahona</cite>, mayo de 2021, pág. 103). Como aconsejó Alma, padre, el profeta del Libro de Mormón, \u201c[no] confiéis en nadie para que sea vuestro maestro ni vuestro ministro, a menos que sea un hombre de Dios, que ande en sus vías y guarde sus mandamientos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23?lang=spa&amp;id=p14#p14\">Mosíah 23:14</a>). En esta dispensación, el Salvador nos enseñó a confiar solo en aquellos \u201ccuyo espíritu es contrito [\u2026], cuyo lenguaje es humilde y edifica [\u2026], [quien] tiembl[a] bajo mi poder [\u2026] y [da] frutos de alabanza y sabiduría, de acuerdo con las revelaciones y las verdades que os he dado\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/52?lang=spa&amp;id=p14-p19#p14\">Doctrina y Convenios 52:14\u201319</a>).</p>\n</li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165254860\" id=\"p_i9PX0\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_wwMsT#p_wwMsT\">El Señor Jesucristo vendrá de nuevo</a>\u201d, pág. 121.</p>\n</li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165254873\" id=\"p_jgOVC\">Cuando se efectúan ordenanzas vicarias a favor de antepasados fallecidos, ellos deciden por sí mismos si aceptan el Evangelio y permanecen fieles o no. Incluso en esas circunstancias, nadie toma decisiones por otro.</p>\n</li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165254888\" id=\"p_dMVIU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14\">Mateo 25:14\u201330</a>.</p>\n</li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165254903\" id=\"p_gSxlN\">Véase Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/talent?lang=spa\">Talento</a>\u201d. Un talento era una antigua unidad de peso y valor monetario de las épocas griega y romana. Se estima que un talento valía unos 6000 denarios y dado que un denario equivalía aproximadamente al salario de un día para un trabajador, un solo talento equivaldría a unos veinte años de salario para un trabajador promedio.</p>\n</li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165254918\" id=\"p_g6KTp\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p21#p21\">Mateo 25:21</a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p23#p23\">versículo 23</a>.</p>\n</li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165254932\" id=\"p_tUXrF\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p24-p26#p24\">Mateo 25:24\u201326</a>.</p>\n</li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165254947\" id=\"p_zj3Ip\">Ampliando la aplicación de la parábola, según el orden eterno de las cosas, una vez que cada siervo entra en el gozo de su señor y se convierte en heredero de todo lo que el señor tiene, las aparentes y pequeñas diferencias en lo que cada siervo tenía al principio se vuelven insignificantes.</p>\n</li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165254953\" id=\"p_uTJud\">Además, el Señor compara los talentos a los que se hace referencia en esta parábola con varios aspectos de la vida y del Evangelio, entre ellos el conocimiento y el testimonio (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p35#p35\">Éter 12:35</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/60?lang=spa&amp;id=p2%2Cp13#p2\">Doctrina y Convenios 60:2, 13</a>), así como la propiedad y la mayordomía (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 82:18</a>).</p>\n</li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165254986\" id=\"p_aLyC3\">Véase Harold S. Kushner, <cite>Overcoming Life\u2019s Disappointments</cite>, 2006, pág. 26.</p>\n</li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165255002\" id=\"p_dXMND\">Como se indica en <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p27#p27\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo</a></cite>, 2023, pág. 49, \u201ctodo lo que sea injusto en la vida podrá corregirse por medio de la Expiación de Jesucristo\u201d.</p>\n</li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165255017\" id=\"p_fIBME\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p46#p31\">Mateo 25:31\u201346</a>.</p>\n</li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165255035\" id=\"p_btdjL\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p32-p33#p32\">Mateo 25:32\u201333</a>.</p>\n</li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165255053\" id=\"p_yOVSt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p37-p39%2Cp44#p37\">Mateo 25:37\u201339, 44</a>.</p>\n</li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165255067\" id=\"p_jOgnW\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p40#p40\">Mateo 25:40</a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p45#p45\">versículo 45</a>.</p>\n</li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165255084\" id=\"p_pCLTt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17\">Mosíah 2:17</a>. Participamos en la misión del Salvador cuando compartimos Su Evangelio, ayudamos a sanar a los quebrantados de corazón (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=spa&amp;id=p1-p3#p1\">Isaías 61:1\u20133</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4?lang=spa&amp;id=p16-p21#p16\">Lucas 4:16\u201321</a>), socorremos a los débiles, levantamos las manos caídas y fortalecemos las rodillas debilitadas (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 81:5</a>).</p>\n</li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165255101\" id=\"p_zxVVV\">La capa interna de la corteza del abedul contiene algunos carbohidratos y fibra. Se puede consumir como último recurso.</p>\n</li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165255118\" id=\"p_iHoWD\">Véase Johan Ludvig Runeberg, \u201cHögt Bland Saarijärvis Moar\u201d, Idyll och epigram Dikter, 1830, nummer 25; <cite>Suomen kansalliskirjallisuus</cite>, Helsinki, 1941, tomo IX, págs. 50\u201352; sv.wikisource.org/wiki/Högt_bland_Saarijärvis_moar. Yo hice la traducción del sueco al inglés.</p>\n</li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"165255138\" id=\"p_jYeFw\">Esto representa lo que Dios mandó a hacer al antiguo Israel: \u201cPorque no faltarán menesterosos de en medio de la tierra; por eso yo te mando, diciendo: Abrirás tu mano a tu hermano, al pobre y al menesteroso en tu tierra\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/15?lang=spa&amp;id=p11#p11\">Deuteronomio 15:11</a>).</p>\n</li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"165255157\" id=\"p_lTc9A\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa\">La preparación para la Segunda Venida</a>\u201d, <cite>Liahona</cite>, mayo de 2004, págs. 7\u201310, para leer un maravilloso discurso sobre la Segunda Venida y las maneras de prepararse para ella.</p>\n</li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"165255175\" id=\"p_nPQLl\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso</a>\u201d, págs. 95\u201398. El presidente Nelson enseñó: \u201cUn elemento crucial de este recogimiento es la preparación de un pueblo capaz, preparado y digno de recibir al Señor cuando Él regrese, un pueblo que ya haya elegido a Jesucristo por encima de este mundo caído, un pueblo que se regocije en su albedrío para vivir las leyes mayores y más santas de Jesucristo\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p32#p32\">Vencer al mundo y hallar descanso</a>\u201d, pág. 98).</p>\n</li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"165255192\" id=\"p_qwCmC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p3#p3\">Moroni 7:3</a>. El presidente Joseph F. Smith enseñó: \u201cEl reposo de referencia no es un reposo físico [\u2026]. [Es el] reposo y paz espirituales que nacen de una firme convicción de la verdad [\u2026]. De modo que hoy podemos entrar en el reposo del Señor, si llegamos a entender las verdades del Evangelio. [\u2026] [Quienes han entrado en este reposo son aquellos] cuya mente ya está satisfecha, que han fijado la vista en la meta de su alto llamamiento con una determinación invencible en su corazón de permanecer firmes en la verdad, y que andan con humildad y justicia por el camino que ha sido indicado a los [\u2026] discípulos de Jesucristo. Pero hay muchos que, no habiendo llegado a este punto de convicción decidida, son llevados por todo viento de doctrina, por lo que se sienten inquietos, inestables, intranquilos. Son los que se desaniman con lo que acontece en la Iglesia, y en la nación, y en las agitaciones de los hombres [\u2026]. Abrigan sentimientos de sospecha, inquietud, incertidumbre. Sus pensamientos están perturbados y se agitan con el menor cambio, como el que se encuentra desorientado en medio del mar\u201d (véase <cite>Doctrina del Evangelio</cite>, 1978, págs. 121, 122).</p>\n</li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"165255210\" id=\"p_skmAG\">\u201cCuando vuelva el Salvador\u201d, <cite>Himnos \u2014 Para el hogar y la Iglesia</cite>, Biblioteca del Evangelio.</p>\n</li>\n</ol>\n</footer>",
+        "footnotes": {
+            "note4": {
+                "marker": "4.",
+                "context": "",
+                "pid": "165254192",
+                "id": "note4",
+                "text": "<p data-aid=\"165254724\" id=\"p_x8hnN\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/11nelson?lang=spa&amp;id=p6#p6\">Mensaje de apertura</a>\u201d, <cite>Liahona</cite>, mayo de 2020, págs. 6\u20137.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2020/04/11nelson?lang=spa&amp;id=p6#p6",
+                        "text": "Mensaje de apertura",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note5": {
+                "marker": "5.",
+                "context": "",
+                "pid": "165254204",
+                "id": "note5",
+                "text": "<p data-aid=\"165254742\" id=\"p_aeicH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/jst/jst-matt/25?lang=spa&amp;id=p1#p1\">Traducción de José Smith, Mateo 25:1</a> (en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p1#p1\">Mateo 25:1</a>, nota <i>a</i> al pie de página); <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p1-p4%2Cp6-p13#p1\">Mateo 25:1\u20134, 6\u201313</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/jst/jst-matt/25?lang=spa&amp;id=p1#p1",
+                        "text": "Traducción de José Smith, Mateo 25:1",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p1#p1",
+                        "text": "Mateo 25:1",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p1-p4%2Cp6-p13#p1",
+                        "text": "Mateo 25:1\u20134, 6\u201313",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note2": {
+                "marker": "2.",
+                "context": "",
+                "pid": "165254181",
+                "id": "note2",
+                "text": "<p data-aid=\"165254657\" id=\"p_fC7rn\">No tenemos por qué sentirnos ansiosos, porque Jesucristo nos transformará para que estemos listos para comparecer ante Él. Al constantemente honrar nuestros convenios y guardar los mandamientos, gradualmente llegamos a ser, mediante Su gracia y bendiciones, más y más como el Salvador. Y conforme lo hagamos, estaremos preparados para Su Segunda Venida. Como se declara en <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p2-p3#p2\">1 Juan 3:2\u20133</a>:</p>\n<p data-aid=\"165254673\" id=\"p_n5971\">\u201cMuy amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él aparezca, seremos semejantes a él, porque le veremos tal como él es.</p>\n<p data-aid=\"165254691\" id=\"p_d8UhX\">\u201cY todo aquel que tiene esta esperanza en él se purifica, así como él es puro\u201d.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p2-p3#p2",
+                        "text": "1 Juan 3:2\u20133",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note3": {
+                "marker": "3.",
+                "context": "",
+                "pid": "165254192",
+                "id": "note3",
+                "text": "<p data-aid=\"165254707\" id=\"p_lGGCo\">La Segunda Venida del Señor ocurrirá al comienzo de la era milenaria, cuando regrese en gloria, y todos reconocerán que Él fue y es el Mesías prometido (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/45?lang=spa&amp;id=p23#p23\">Isaías 45:23</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/zech/12?lang=spa&amp;id=p10#p10\">Zacarías 12:10</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p104#p104\">Doctrina y Convenios 88:104</a>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/ot/isa/45?lang=spa&amp;id=p23#p23",
+                        "text": "Isaías 45:23",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/ot/zech/12?lang=spa&amp;id=p10#p10",
+                        "text": "Zacarías 12:10",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p104#p104",
+                        "text": "Doctrina y Convenios 88:104",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note8": {
+                "marker": "8.",
+                "context": "",
+                "pid": "165254264",
+                "id": "note8",
+                "text": "<p data-aid=\"165254788\" id=\"p_m1VKR\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5\">2 Nefi 32:5</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p5#p5",
+                        "text": "2 Nefi 32:5",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note9": {
+                "marker": "9.",
+                "context": "",
+                "pid": "165254304",
+                "id": "note9",
+                "text": "<p data-aid=\"165254803\" id=\"p_hDPw9\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p4-p5#p4\">Mateo 24:4\u20135</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/24?lang=spa&amp;id=p4-p5#p4",
+                        "text": "Mateo 24:4\u20135",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note6": {
+                "marker": "6.",
+                "context": "",
+                "pid": "165254241",
+                "id": "note6",
+                "text": "<p data-aid=\"165254758\" id=\"p_cLiys\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p56-p57#p56\">Doctrina y Convenios 45:56\u201357</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p56-p57#p56",
+                        "text": "Doctrina y Convenios 45:56\u201357",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note7": {
+                "marker": "7.",
+                "context": "",
+                "pid": "165254264",
+                "id": "note7",
+                "text": "<p data-aid=\"165254773\" id=\"p_hzgKU\">Véase David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;id=p44-p45#p44\">Convertidos al Señor</a>\u201d, <cite>Liahona</cite>, noviembre de 2012, pág. 109.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2012/10/converted-unto-the-lord?lang=spa&amp;id=p44-p45#p44",
+                        "text": "Convertidos al Señor",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note30": {
+                "marker": "30.",
+                "context": "",
+                "pid": "165254518",
+                "id": "note30",
+                "text": "<p data-aid=\"165255138\" id=\"p_jYeFw\">Esto representa lo que Dios mandó a hacer al antiguo Israel: \u201cPorque no faltarán menesterosos de en medio de la tierra; por eso yo te mando, diciendo: Abrirás tu mano a tu hermano, al pobre y al menesteroso en tu tierra\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/15?lang=spa&amp;id=p11#p11\">Deuteronomio 15:11</a>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/ot/deut/15?lang=spa&amp;id=p11#p11",
+                        "text": "Deuteronomio 15:11",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note16": {
+                "marker": "16.",
+                "context": "",
+                "pid": "165254364",
+                "id": "note16",
+                "text": "<p data-aid=\"165254903\" id=\"p_gSxlN\">Véase Guía para el Estudio de las Escrituras, \u201c<a class=\"scripture-ref\" href=\"/study/scriptures/gs/talent?lang=spa\">Talento</a>\u201d. Un talento era una antigua unidad de peso y valor monetario de las épocas griega y romana. Se estima que un talento valía unos 6000 denarios y dado que un denario equivalía aproximadamente al salario de un día para un trabajador, un solo talento equivaldría a unos veinte años de salario para un trabajador promedio.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/gs/talent?lang=spa",
+                        "text": "Talento",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note15": {
+                "marker": "15.",
+                "context": "",
+                "pid": "165254364",
+                "id": "note15",
+                "text": "<p data-aid=\"165254888\" id=\"p_dMVIU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14\">Mateo 25:14\u201330</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14",
+                        "text": "Mateo 25:14\u201330",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note14": {
+                "marker": "14.",
+                "context": "",
+                "pid": "165254353",
+                "id": "note14",
+                "text": "<p data-aid=\"165254873\" id=\"p_jgOVC\">Cuando se efectúan ordenanzas vicarias a favor de antepasados fallecidos, ellos deciden por sí mismos si aceptan el Evangelio y permanecen fieles o no. Incluso en esas circunstancias, nadie toma decisiones por otro.</p>"
+            },
+            "note13": {
+                "marker": "13.",
+                "context": "",
+                "pid": "165254341",
+                "id": "note13",
+                "text": "<p data-aid=\"165254860\" id=\"p_i9PX0\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_wwMsT#p_wwMsT\">El Señor Jesucristo vendrá de nuevo</a>\u201d, pág. 121.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_wwMsT#p_wwMsT",
+                        "text": "El Señor Jesucristo vendrá de nuevo",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note12": {
+                "marker": "12.",
+                "context": "",
+                "pid": "165254328",
+                "id": "note12",
+                "text": "<p data-aid=\"165254846\" id=\"p_avemS\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23\">¡Piensen de manera celestial!</a>\u201d, <cite>Liahona</cite>, noviembre de 2023, pág. 119. El presidente Nelson también enseñó: \u201cNo [\u2026] mezclen [su testimonio] con las filosofías falsas de hombres y mujeres incrédulos\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso</a>\u201d, <cite>Liahona</cite>, noviembre de 2022, pág. 98). Lleven sus preguntas al Señor y a otras fuentes fidedignas. [\u2026] Dejen de aumentar sus dudas repitiéndolas con otros incrédulos\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/49nelson?lang=spa&amp;id=p22#p22\">Cristo ha resucitado; la fe en Él moverá montes</a>\u201d, <cite>Liahona</cite>, mayo de 2021, pág. 103). Como aconsejó Alma, padre, el profeta del Libro de Mormón, \u201c[no] confiéis en nadie para que sea vuestro maestro ni vuestro ministro, a menos que sea un hombre de Dios, que ande en sus vías y guarde sus mandamientos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/23?lang=spa&amp;id=p14#p14\">Mosíah 23:14</a>). En esta dispensación, el Salvador nos enseñó a confiar solo en aquellos \u201ccuyo espíritu es contrito [\u2026], cuyo lenguaje es humilde y edifica [\u2026], [quien] tiembl[a] bajo mi poder [\u2026] y [da] frutos de alabanza y sabiduría, de acuerdo con las revelaciones y las verdades que os he dado\u201d (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/52?lang=spa&amp;id=p14-p19#p14\">Doctrina y Convenios 52:14\u201319</a>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23",
+                        "text": "¡Piensen de manera celestial!",
+                        "type": "cross-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30",
+                        "text": "Vencer al mundo y hallar descanso",
+                        "type": "cross-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2021/04/49nelson?lang=spa&amp;id=p22#p22",
+                        "text": "Cristo ha resucitado; la fe en Él moverá montes",
+                        "type": "cross-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/bofm/mosiah/23?lang=spa&amp;id=p14#p14",
+                        "text": "Mosíah 23:14",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/52?lang=spa&amp;id=p14-p19#p14",
+                        "text": "Doctrina y Convenios 52:14\u201319",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note34": {
+                "marker": "34.",
+                "context": "",
+                "pid": "165254599",
+                "id": "note34",
+                "text": "<p data-aid=\"165255210\" id=\"p_skmAG\">\u201cCuando vuelva el Salvador\u201d, <cite>Himnos \u2014 Para el hogar y la Iglesia</cite>, Biblioteca del Evangelio.</p>"
+            },
+            "note11": {
+                "marker": "11.",
+                "context": "",
+                "pid": "165254328",
+                "id": "note11",
+                "text": "<p data-aid=\"165254831\" id=\"p_gInan\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p13%2Cp15-p17#p13\">Moroni 7:13, 15\u201317</a>. Las enseñanzas del Libro de Mormón se combinan con las enseñanzas bíblicas y las aclaran \u201cpara confundir las falsas doctrinas\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/3?lang=spa&amp;id=p12#p12\">2 Nefi 3:12</a>). Tal vez esto sea parte del razonamiento de la enseñanza del presidente Russell M. Nelson de que el Libro de Mormón es el instrumento de Dios para preparar al mundo para la Segunda Venida (véase \u201c<a class=\"cross-ref\" href=\"/study/liahona/2014/07/the-book-of-mormon-the-gathering-of-israel-and-the-second-coming?lang=spa&amp;id=p30#p30\">El Libro de Mormón, el recogimiento de Israel y la Segunda Venida</a>\u201d, <cite>Liahona</cite>, julio de 2014, pág. 27).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p13%2Cp15-p17#p13",
+                        "text": "Moroni 7:13, 15\u201317",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/bofm/2-ne/3?lang=spa&amp;id=p12#p12",
+                        "text": "2 Nefi 3:12",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/liahona/2014/07/the-book-of-mormon-the-gathering-of-israel-and-the-second-coming?lang=spa&amp;id=p30#p30",
+                        "text": "El Libro de Mormón, el recogimiento de Israel y la Segunda Venida",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note33": {
+                "marker": "33.",
+                "context": "",
+                "pid": "165254530",
+                "id": "note33",
+                "text": "<p data-aid=\"165255192\" id=\"p_qwCmC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p3#p3\">Moroni 7:3</a>. El presidente Joseph F. Smith enseñó: \u201cEl reposo de referencia no es un reposo físico [\u2026]. [Es el] reposo y paz espirituales que nacen de una firme convicción de la verdad [\u2026]. De modo que hoy podemos entrar en el reposo del Señor, si llegamos a entender las verdades del Evangelio. [\u2026] [Quienes han entrado en este reposo son aquellos] cuya mente ya está satisfecha, que han fijado la vista en la meta de su alto llamamiento con una determinación invencible en su corazón de permanecer firmes en la verdad, y que andan con humildad y justicia por el camino que ha sido indicado a los [\u2026] discípulos de Jesucristo. Pero hay muchos que, no habiendo llegado a este punto de convicción decidida, son llevados por todo viento de doctrina, por lo que se sienten inquietos, inestables, intranquilos. Son los que se desaniman con lo que acontece en la Iglesia, y en la nación, y en las agitaciones de los hombres [\u2026]. Abrigan sentimientos de sospecha, inquietud, incertidumbre. Sus pensamientos están perturbados y se agitan con el menor cambio, como el que se encuentra desorientado en medio del mar\u201d (véase <cite>Doctrina del Evangelio</cite>, 1978, págs. 121, 122).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p3#p3",
+                        "text": "Moroni 7:3",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note10": {
+                "marker": "10.",
+                "context": "",
+                "pid": "165254316",
+                "id": "note10",
+                "text": "<p data-aid=\"165254817\" id=\"p_omv1V\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p5-p6%2Cp8-p9%2Cp21-p22%2Cp25-p26#p5\">José Smith\u2014Mateo 1:5\u20136, 8\u20139, 21\u201322, 25\u201326</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/pgp/js-m/1?lang=spa&amp;id=p5-p6%2Cp8-p9%2Cp21-p22%2Cp25-p26#p5",
+                        "text": "José Smith\u2014Mateo 1:5\u20136, 8\u20139, 21\u201322, 25\u201326",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note32": {
+                "marker": "32.",
+                "context": "",
+                "pid": "165254530",
+                "id": "note32",
+                "text": "<p data-aid=\"165255175\" id=\"p_nPQLl\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso</a>\u201d, págs. 95\u201398. El presidente Nelson enseñó: \u201cUn elemento crucial de este recogimiento es la preparación de un pueblo capaz, preparado y digno de recibir al Señor cuando Él regrese, un pueblo que ya haya elegido a Jesucristo por encima de este mundo caído, un pueblo que se regocije en su albedrío para vivir las leyes mayores y más santas de Jesucristo\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p32#p32\">Vencer al mundo y hallar descanso</a>\u201d, pág. 98).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2022/10/47nelson?lang=spa",
+                        "text": "Vencer al mundo y hallar descanso",
+                        "type": "cross-ref"
+                    },
+                    {
+                        "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p32#p32",
+                        "text": "Vencer al mundo y hallar descanso",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note31": {
+                "marker": "31.",
+                "context": "",
+                "pid": "165254530",
+                "id": "note31",
+                "text": "<p data-aid=\"165255157\" id=\"p_lTc9A\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa\">La preparación para la Segunda Venida</a>\u201d, <cite>Liahona</cite>, mayo de 2004, págs. 7\u201310, para leer un maravilloso discurso sobre la Segunda Venida y las maneras de prepararse para ella.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2004/04/preparation-for-the-second-coming?lang=spa",
+                        "text": "La preparación para la Segunda Venida",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note19": {
+                "marker": "19.",
+                "context": "",
+                "pid": "165254378",
+                "id": "note19",
+                "text": "<p data-aid=\"165254947\" id=\"p_zj3Ip\">Ampliando la aplicación de la parábola, según el orden eterno de las cosas, una vez que cada siervo entra en el gozo de su señor y se convierte en heredero de todo lo que el señor tiene, las aparentes y pequeñas diferencias en lo que cada siervo tenía al principio se vuelven insignificantes.</p>"
+            },
+            "note18": {
+                "marker": "18.",
+                "context": "",
+                "pid": "165254378",
+                "id": "note18",
+                "text": "<p data-aid=\"165254932\" id=\"p_tUXrF\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p24-p26#p24\">Mateo 25:24\u201326</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p24-p26#p24",
+                        "text": "Mateo 25:24\u201326",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note17": {
+                "marker": "17.",
+                "context": "",
+                "pid": "165254364",
+                "id": "note17",
+                "text": "<p data-aid=\"165254918\" id=\"p_g6KTp\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p21#p21\">Mateo 25:21</a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p23#p23\">versículo 23</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p21#p21",
+                        "text": "Mateo 25:21",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p23#p23",
+                        "text": "versículo 23",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note27": {
+                "marker": "27.",
+                "context": "",
+                "pid": "165254468",
+                "id": "note27",
+                "text": "<p data-aid=\"165255084\" id=\"p_pCLTt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17\">Mosíah 2:17</a>. Participamos en la misión del Salvador cuando compartimos Su Evangelio, ayudamos a sanar a los quebrantados de corazón (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=spa&amp;id=p1-p3#p1\">Isaías 61:1\u20133</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/4?lang=spa&amp;id=p16-p21#p16\">Lucas 4:16\u201321</a>), socorremos a los débiles, levantamos las manos caídas y fortalecemos las rodillas debilitadas (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 81:5</a>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p17#p17",
+                        "text": "Mosíah 2:17",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/ot/isa/61?lang=spa&amp;id=p1-p3#p1",
+                        "text": "Isaías 61:1\u20133",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/luke/4?lang=spa&amp;id=p16-p21#p16",
+                        "text": "Lucas 4:16\u201321",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/81?lang=spa&amp;id=p5#p5",
+                        "text": "Doctrina y Convenios 81:5",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note26": {
+                "marker": "26.",
+                "context": "",
+                "pid": "165254455",
+                "id": "note26",
+                "text": "<p data-aid=\"165255067\" id=\"p_jOgnW\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p40#p40\">Mateo 25:40</a>; véase también el <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p45#p45\">versículo 45</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p40#p40",
+                        "text": "Mateo 25:40",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p45#p45",
+                        "text": "versículo 45",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note25": {
+                "marker": "25.",
+                "context": "",
+                "pid": "165254455",
+                "id": "note25",
+                "text": "<p data-aid=\"165255053\" id=\"p_yOVSt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p37-p39%2Cp44#p37\">Mateo 25:37\u201339, 44</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p37-p39%2Cp44#p37",
+                        "text": "Mateo 25:37\u201339, 44",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note24": {
+                "marker": "24.",
+                "context": "",
+                "pid": "165254429",
+                "id": "note24",
+                "text": "<p data-aid=\"165255035\" id=\"p_btdjL\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p32-p33#p32\">Mateo 25:32\u201333</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p32-p33#p32",
+                        "text": "Mateo 25:32\u201333",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note23": {
+                "marker": "23.",
+                "context": "",
+                "pid": "165254429",
+                "id": "note23",
+                "text": "<p data-aid=\"165255017\" id=\"p_fIBME\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p46#p31\">Mateo 25:31\u201346</a>.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p31-p46#p31",
+                        "text": "Mateo 25:31\u201346",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note22": {
+                "marker": "22.",
+                "context": "",
+                "pid": "165254416",
+                "id": "note22",
+                "text": "<p data-aid=\"165255002\" id=\"p_dXMND\">Como se indica en <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p27#p27\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo</a></cite>, 2023, pág. 49, \u201ctodo lo que sea injusto en la vida podrá corregirse por medio de la Expiación de Jesucristo\u201d.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/09-chapter-3-lesson-2?lang=spa&amp;id=p27#p27",
+                        "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note21": {
+                "marker": "21.",
+                "context": "",
+                "pid": "165254403",
+                "id": "note21",
+                "text": "<p data-aid=\"165254986\" id=\"p_aLyC3\">Véase Harold S. Kushner, <cite>Overcoming Life\u2019s Disappointments</cite>, 2006, pág. 26.</p>"
+            },
+            "note20": {
+                "marker": "20.",
+                "context": "",
+                "pid": "165254390",
+                "id": "note20",
+                "text": "<p data-aid=\"165254953\" id=\"p_uTJud\">Además, el Señor compara los talentos a los que se hace referencia en esta parábola con varios aspectos de la vida y del Evangelio, entre ellos el conocimiento y el testimonio (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p35#p35\">Éter 12:35</a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/60?lang=spa&amp;id=p2%2Cp13#p2\">Doctrina y Convenios 60:2, 13</a>), así como la propiedad y la mayordomía (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/82?lang=spa&amp;id=p18#p18\">Doctrina y Convenios 82:18</a>).</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p35#p35",
+                        "text": "Éter 12:35",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/60?lang=spa&amp;id=p2%2Cp13#p2",
+                        "text": "Doctrina y Convenios 60:2, 13",
+                        "type": "scripture-ref"
+                    },
+                    {
+                        "href": "/study/scriptures/dc-testament/dc/82?lang=spa&amp;id=p18#p18",
+                        "text": "Doctrina y Convenios 82:18",
+                        "type": "scripture-ref"
+                    }
+                ]
+            },
+            "note1": {
+                "marker": "1.",
+                "context": "",
+                "pid": "165254173",
+                "id": "note1",
+                "text": "<p data-aid=\"165254641\" id=\"p_cioSP\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_m0YEO#p_m0YEO\">El Señor Jesucristo vendrá de nuevo</a>\u201d, <cite>Liahona</cite>, noviembre de 2024, pág. 121.</p>",
+                "referenceUris": [
+                    {
+                        "href": "/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_m0YEO#p_m0YEO",
+                        "text": "El Señor Jesucristo vendrá de nuevo",
+                        "type": "cross-ref"
+                    }
+                ]
+            },
+            "note29": {
+                "marker": "29.",
+                "context": "",
+                "pid": "165254506",
+                "id": "note29",
+                "text": "<p data-aid=\"165255118\" id=\"p_iHoWD\">Véase Johan Ludvig Runeberg, \u201cHögt Bland Saarijärvis Moar\u201d, Idyll och epigram Dikter, 1830, nummer 25; <cite>Suomen kansalliskirjallisuus</cite>, Helsinki, 1941, tomo IX, págs. 50\u201352; sv.wikisource.org/wiki/Högt_bland_Saarijärvis_moar. Yo hice la traducción del sueco al inglés.</p>"
+            },
+            "note28": {
+                "marker": "28.",
+                "context": "",
+                "pid": "165254468",
+                "id": "note28",
+                "text": "<p data-aid=\"165255101\" id=\"p_zxVVV\">La capa interna de la corteza del abedul contiene algunos carbohidratos y fibra. Se puede consumir como último recurso.</p>"
+            }
+        }
+    }
+}

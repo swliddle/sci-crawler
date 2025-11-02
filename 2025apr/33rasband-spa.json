@@ -1,0 +1,952 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/33rasband?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "ba2e6aece2ab4381b0ab8eb544a6ac7d",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/33rasband",
+      "data-bcp47-lang": "es",
+      "data-aid": "165183348",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "a951b99493674150813d74bb25d2584b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/bhhhr4n1g5ftefi5urjgvniethih2sl10v1xyh6s-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El plan de misericordia",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165183348",
+      {"key": "165183348"}
+    ],
+    [
+      "165255110",
+      {"key": "165255110"}
+    ],
+    [
+      "165255132",
+      {"key": "165255132"}
+    ],
+    [
+      "165255151",
+      {"key": "165255151"}
+    ],
+    [
+      "165255169",
+      {"key": "165255169"}
+    ],
+    [
+      "165255187",
+      {"key": "165255187"}
+    ],
+    [
+      "165255205",
+      {"key": "165255205"}
+    ],
+    [
+      "165255223",
+      {"key": "165255223"}
+    ],
+    [
+      "165255239",
+      {"key": "165255239"}
+    ],
+    [
+      "165255256",
+      {"key": "165255256"}
+    ],
+    [
+      "165255275",
+      {"key": "165255275"}
+    ],
+    [
+      "165255293",
+      {"key": "165255293"}
+    ],
+    [
+      "165255312",
+      {"key": "165255312"}
+    ],
+    [
+      "165255330",
+      {"key": "165255330"}
+    ],
+    [
+      "165255348",
+      {"key": "165255348"}
+    ],
+    [
+      "165255367",
+      {"key": "165255367"}
+    ],
+    [
+      "165255388",
+      {"key": "165255388"}
+    ],
+    [
+      "165255406",
+      {"key": "165255406"}
+    ],
+    [
+      "165255425",
+      {"key": "165255425"}
+    ],
+    [
+      "165255434",
+      {"key": "165255434"}
+    ],
+    [
+      "165255452",
+      {"key": "165255452"}
+    ],
+    [
+      "165255470",
+      {"key": "165255470"}
+    ],
+    [
+      "165255489",
+      {"key": "165255489"}
+    ],
+    [
+      "165255508",
+      {"key": "165255508"}
+    ],
+    [
+      "165255519",
+      {"key": "165255519"}
+    ],
+    [
+      "165255534",
+      {"key": "165255534"}
+    ],
+    [
+      "165255553",
+      {"key": "165255553"}
+    ],
+    [
+      "165255572",
+      {"key": "165255572"}
+    ],
+    [
+      "165255592",
+      {"key": "165255592"}
+    ],
+    [
+      "165255611",
+      {"key": "165255611"}
+    ],
+    [
+      "165255632",
+      {"key": "165255632"}
+    ],
+    [
+      "165255652",
+      {"key": "165255652"}
+    ],
+    [
+      "165255673",
+      {"key": "165255673"}
+    ],
+    [
+      "165255695",
+      {"key": "165255695"}
+    ],
+    [
+      "165255715",
+      {"key": "165255715"}
+    ],
+    [
+      "165255738",
+      {"key": "165255738"}
+    ],
+    [
+      "165255757",
+      {"key": "165255757"}
+    ],
+    [
+      "165255779",
+      {"key": "165255779"}
+    ],
+    [
+      "165255801",
+      {"key": "165255801"}
+    ],
+    [
+      "165255823",
+      {"key": "165255823"}
+    ],
+    [
+      "165255845",
+      {"key": "165255845"}
+    ],
+    [
+      "165255866",
+      {"key": "165255866"}
+    ],
+    [
+      "165255888",
+      {"key": "165255888"}
+    ],
+    [
+      "165255910",
+      {"key": "165255910"}
+    ],
+    [
+      "165255933",
+      {"key": "165255933"}
+    ],
+    [
+      "165255956",
+      {"key": "165255956"}
+    ],
+    [
+      "165255983",
+      {"key": "165255983"}
+    ],
+    [
+      "165256007",
+      {"key": "165256007"}
+    ],
+    [
+      "165256030",
+      {"key": "165256030"}
+    ],
+    [
+      "165256053",
+      {"key": "165256053"}
+    ],
+    [
+      "165256076",
+      {"key": "165256076"}
+    ],
+    [
+      "165256099",
+      {"key": "165256099"}
+    ],
+    [
+      "165256122",
+      {"key": "165256122"}
+    ],
+    [
+      "165256146",
+      {"key": "165256146"}
+    ],
+    [
+      "165256169",
+      {"key": "165256169"}
+    ],
+    [
+      "165256190",
+      {"key": "165256190"}
+    ],
+    [
+      "165256215",
+      {"key": "165256215"}
+    ],
+    [
+      "165256233",
+      {"key": "165256233"}
+    ],
+    [
+      "165256257",
+      {"key": "165256257"}
+    ],
+    [
+      "165256281",
+      {"key": "165256281"}
+    ],
+    [
+      "165256305",
+      {"key": "165256305"}
+    ],
+    [
+      "165256331",
+      {"key": "165256331"}
+    ],
+    [
+      "165256355",
+      {"key": "165256355"}
+    ],
+    [
+      "165256379",
+      {"key": "165256379"}
+    ],
+    [
+      "165256402",
+      {"key": "165256402"}
+    ],
+    [
+      "165256427",
+      {"key": "165256427"}
+    ],
+    [
+      "165256451",
+      {"key": "165256451"}
+    ],
+    [
+      "165256475",
+      {"key": "165256475"}
+    ],
+    [
+      "165256500",
+      {"key": "165256500"}
+    ],
+    [
+      "165256525",
+      {"key": "165256525"}
+    ],
+    [
+      "165256550",
+      {"key": "165256550"}
+    ],
+    [
+      "165256576",
+      {"key": "165256576"}
+    ],
+    [
+      "165256598",
+      {"key": "165256598"}
+    ],
+    [
+      "165256628",
+      {"key": "165256628"}
+    ],
+    [
+      "165256648",
+      {"key": "165256648"}
+    ],
+    [
+      "165256677",
+      {"key": "165256677"}
+    ],
+    [
+      "165256701",
+      {"key": "165256701"}
+    ],
+    [
+      "165256727",
+      {"key": "165256727"}
+    ],
+    [
+      "165256754",
+      {"key": "165256754"}
+    ],
+    [
+      "165256781",
+      {"key": "165256781"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/33rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Rasband enseña que Dios es misericordioso y el plan de salvación es un plan de misericordia",
+          "title": "El plan de misericordia"
+        },
+        "pageSocial": {
+          "description": "El élder Rasband enseña que Dios es misericordioso y el plan de salvación es un plan de misericordia",
+          "title": "El plan de misericordia"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21192%2C/0/default\" data-video-title=\"El plan de la misericordia\" data-video-description=\"El élder Rasband enseña que Dios es misericordioso y que el Plan de Salvación es un plan de misericordia.\" data-video-id=\"6371117482112\" data-duration=\"665800\" data-assetId=\"th8yktiwp1draeksutilinqa8dqh9r3ruo63se19\" data-ref-id=\"th8yktiwp1draeksutilinqa8dqh9r3ruo63se19\" data-duration-string=\"11:05\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371117482112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"190284483\"/><source src=\"https://assets.churchofjesuschrist.org/th8yktiwp1draeksutilinqa8dqh9r3ruo63se19-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"38782254\"/><source src=\"https://assets.churchofjesuschrist.org/th8yktiwp1draeksutilinqa8dqh9r3ruo63se19-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"67145813\"/><source src=\"https://assets.churchofjesuschrist.org/th8yktiwp1draeksutilinqa8dqh9r3ruo63se19-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"190284483\"/><\/video><h1 data-aid=\"165255110\" id=\"p_u4wud\">El plan de la misericordia<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165255132\" id=\"p_g4xDb\">Por el élder James R. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"165255151\" id=\"p_mBEII\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165255169\" id=\"p_z5Xtr\">El Señor es misericordioso y el Plan de Salvación de nuestro Padre Celestial es verdaderamente un plan de misericordia.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_v1iDp\">\n<header>\n<h2 data-aid=\"165255187\" id=\"p_ngBBE\">La invitación de un profeta<\/h2>\n<\/header>\n<p data-aid=\"165255205\" id=\"p_fAD6U\">El pasado abril, poco después de las gozosas noticias de que la Iglesia había adquirido el Templo de Kirtland, el presidente Russell M. Nelson nos invitó a estudiar la oración dedicatoria de este templo, que se encuentra en la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa\">sección 109 de Doctrina y Convenios<\/a><a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. La oración dedicatoria, dijo el presidente Nelson, \u201cconstituye una instrucción de cómo el templo nos da poder a ustedes y a mí para hacer frente a los desafíos de la vida en estos últimos días\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255223\" id=\"p_b9AFg\">Estoy seguro de que su estudio de la sección 109 ha dado paso a impresiones que los han bendecido. Esta noche compartiré un par de cosas que aprendí al seguir la invitación de nuestro profeta. La senda de paz a la que me dirigió mi estudio me recordó que el Señor es misericordioso y que el Plan de Salvación de nuestro Padre Celestial es verdaderamente un plan de misericordia.<\/p>\n<\/section>\n<section id=\"sec_cck4h\">\n<header>\n<h2 data-aid=\"165255239\" id=\"p_qe1Cy\">Misioneros recién llamados que sirven en el templo<\/h2>\n<\/header>\n<p data-aid=\"165255256\" id=\"p_d2Qye\">Como tal vez ya sepan, \u201cse alienta a los misioneros recién llamados a recibir la investidura del templo lo antes posible y a asistir al templo tan a menudo como las circunstancias lo permitan\u201d. Una vez investidos, ellos también \u201cpodrán servir como obreros [\u2026] del templo antes de comenzar el servicio misional\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255275\" id=\"p_yt3AF\">El tiempo en el templo antes de ingresar al centro de capacitación misional (CCM) puede ser una bendición maravillosa para los nuevos misioneros, pues aprenden más acerca de los convenios del templo antes de compartir las bendiciones de esos convenios con el mundo.<\/p>\n<p data-aid=\"165255293\" id=\"p_zbo70\">Pero al estudiar la sección 109 aprendí que, en el templo, Dios da poder a los misioneros \u2014de hecho, a todos nosotros\u2014 de una manera adicional y sagrada<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. En la oración dedicatoria, dada por revelación, el Profeta José Smith suplicó que \u201ccuando tus siervos salgan de tu casa [\u2026] para dar testimonio de tu nombre\u201d, los \u201ccorazones\u201d de \u201ctodo pueblo [\u2026] se ablanden\u201d, tanto los \u201cgrandes de la tierra\u201d como \u201clos pobres, los necesitados y los afligidos\u201d. Suplicó que \u201csus prejuicios cedan ante la verdad, y tu pueblo halle gracia ante los ojos de todos; para que todos los cabos de la tierra sepan que nosotros, tus siervos, hemos oído tu voz, y que tú nos has enviado\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255312\" id=\"p_mmifF\">Esta es una hermosa promesa para todo misionero recién llamado: que los prejuicios \u201ccedan ante la verdad\u201d, que \u201challe gracia ante los ojos de todos\u201d y que el mundo sepa que es enviado del Señor. Cada uno de nosotros necesita, sin duda, esas mismas bendiciones. Qué bendición sería que se ablandasen los corazones al interactuar con nuestros vecinos y compañeros de trabajo. La oración dedicatoria no explica exactamente cómo el tiempo que pasamos en el templo ablandará los corazones de otras personas, pero estoy convencido de que está relacionado con cómo el tiempo que dedicamos a estar en la Casa del Señor ablanda nuestro propio corazón al centrarnos en Jesucristo y Su misericordia<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_yxTrK\">\n<header>\n<h2 data-aid=\"165255330\" id=\"p_rxkcA\">El Señor responde a la súplica de misericordia de José Smith<\/h2>\n<\/header>\n<p data-aid=\"165255348\" id=\"p_iHUZX\">Al estudiar la oración dedicatoria del Templo de Kirtland, también me sorprendió que José una y otra vez suplicó misericordia para los miembros de la Iglesia<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>, los enemigos de la Iglesia<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>, los líderes del país, las naciones de la tierra<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>; y, de manera muy personal, suplicó al Señor que se acordara de él<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> y tuviera misericordia de su amada Emma y sus hijos<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a><\/p>\n<p data-aid=\"165255367\" id=\"p_jlY87\">Cómo se habrá sentido José cuando una semana más tarde, el día de la Pascua de Resurrección, el 3 de abril de 1836, el Salvador se le apareció a él y a Oliver Cowdery en el Templo de Kirtland y, como consta en la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa\">sección 110 de Doctrina y Convenios<\/a>, dijo: \u201cHe aceptado esta casa, y mi nombre estará aquí; y me manifestaré a mi pueblo en misericordia en esta casa\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. Esta promesa de misericordia debe haber de tenido un significado especial para José<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. Y como enseñó el presidente Nelson en abril del año pasado, esta promesa también \u201cse aplica a <em>cada<\/em> templo dedicado de la actualidad\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_ixiuu\">\n<header>\n<h2 data-aid=\"165255388\" id=\"p_aRGDL\">Hallar misericordia en la Casa del Señor<\/h2>\n<\/header>\n<p data-aid=\"165255406\" id=\"p_c6pFR\">Hay muchas maneras en las que cada uno de nosotros puede hallar misericordia en la Casa del Señor. Esto ha sido así desde que Él mandó por primera vez a Israel construir un tabernáculo y poner en su centro el \u201cpropiciatorio\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. En el templo hallamos misericordia en los convenios que hacemos. Estos, sumados al convenio bautismal, nos vinculan al Padre y al Hijo y nos dan acceso adicional a lo que el presidente Nelson nos ha enseñado que es \u201cun tipo especial de amor y misericordia [\u2026 que] se llama <em>hesed<\/em>\u201d en hebreo<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255425\" id=\"p_tl8aI\">Hallamos misericordia en la oportunidad de ser sellados a nuestra familia por la eternidad. En el templo también llegamos a entender con mayor claridad que la Creación, la Caída, el sacrificio expiatorio del Salvador y nuestra capacidad de entrar de nuevo en la presencia de nuestro Padre Celestial<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a> \u2014en verdad, cada parte del Plan de Salvación\u2014 son manifestaciones de misericordia<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. Podría decirse que el Plan de Salvación es un plan de felicidad precisamente porque es el \u201cplan de misericordia\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_cbE0X\">\n<header>\n<h2 data-aid=\"165255434\" id=\"p_hOZpT\">Buscar el perdón abre la puerta al Espíritu Santo<\/h2>\n<\/header>\n<p data-aid=\"165255452\" id=\"p_d6mMC\">Estoy agradecido por la hermosa promesa de la <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa\">sección 110<\/a>, que dice que el Señor se manifestará en misericordia en Sus templos. También estoy agradecido por lo que revela acerca de cómo Él se manifiesta en misericordia siempre que nosotros, como José, suplicamos misericordia.<\/p>\n<p data-aid=\"165255470\" id=\"p_liTz2\">La petición de misericordia de José Smith que se encuentra en la sección 109 no fue la primera ocasión en que sus súplicas de misericordia tuvieron como resultado revelaciones. En la Arboleda Sagrada, el joven José oró no solo para saber qué iglesia era la verdadera, sino que también dijo que \u201cclam[ó] al Señor pidiendo misericordia, porque no existía nadie más a quien dirigir[se] para obtenerla\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. De algún modo, el hecho de reconocer que necesitaba una misericordia que solo podía proporcionarle el Señor sirvió para abrir las ventanas del cielo. Tres años más tarde, el ángel Moroni se le apareció después de lo que José dijo que fue su [oración] \u201cpidiéndole a Dios Todopoderoso perdón de todos mis pecados e imprudencias\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255489\" id=\"p_r1mvX\">Este modelo de recibir revelación a consecuencia de una petición de misericordia es algo habitual en las Escrituras. Enós escuchó la voz del Señor solo después de orar pidiendo perdón<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. La conversión del padre del rey Lamoni comenzó con esta oración: \u201cAbandonaré todos mis pecados para conocerte\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. Tal vez no seamos bendecidos con experiencias tan espectaculares, pero para aquellos que a veces luchan para sentir respuestas a sus oraciones, buscar la misericordia del Señor es una de las maneras más poderosas de sentir el testimonio del Espíritu Santo<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_gUFo4\">\n<header>\n<h2 data-aid=\"165255508\" id=\"p_lNa8r\">Meditar en la misericordia de Dios abre la puerta a un testimonio del Libro de Mormón<\/h2>\n<\/header>\n<p data-aid=\"165255519\" id=\"p_hHr9p\">En <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3-p5#p3\">Moroni 10:3\u20135<\/a> se enseña de manera muy hermosa un principio similar. Muchas veces simplificamos estos versículos para enseñar que, a través de la oración sincera, podemos saber que el Libro de Mormón es verdadero. Sin embargo, esta simplificación puede dejar de lado el importante papel de la misericordia. Escuchen cómo comienza Moroni su exhortación: \u201cQuisiera exhortaros a que, cuando leáis estas cosas [\u2026], recordéis cuán misericordioso ha sido el Señor con los hijos de los hombres, desde la creación de Adán hasta el tiempo en que recibáis estas cosas, y que lo meditéis en vuestros corazones\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255534\" id=\"p_enZZz\">Moroni nos insta no solo a leer estas cosas, los registros que estaba a punto de sellar, sino también a <em>meditar<\/em> en nuestros corazones lo que el Libro de Mormón revela acerca de \u201ccuán misericordioso ha sido el Señor con los hijos de los hombres\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>. Meditar en la misericordia de Dios es lo que nos prepara para que \u201cpregunt[emos] a Dios el Eterno Padre, en el nombre de Cristo, si no son verdaderas estas cosas\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255553\" id=\"p_oimlM\">Al meditar sobre el Libro de Mormón, podríamos preguntarnos: ¿Es realmente cierto, como enseñó Alma, que el plan de la misericordia de Dios garantiza que cada persona que haya vivido en esta tierra será resucitada<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a> y que todo será \u201crestablecido a su propia y perfecta forma?\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> ¿Tiene razón Amulek en que la misericordia del Salvador satisface <em>todas<\/em> las exigencias reales y amargas de la justicia que, de otro modo, nos veríamos obligados a pagar en lugar de ceñirnos \u201ccon brazos de seguridad\u201d?<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255572\" id=\"p_iwwXo\">¿Es cierto que, como testificó Alma, Cristo sufrió no solo por nuestros pecados sino por nuestros \u201cdolores [\u2026 y] aflicciones\u201d de tal forma que \u201cs[upiera] cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos\u201d?<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>. ¿Es realmente tan misericordioso el Salvador, como enseñó el rey Benjamín, que, como una dádiva gratuita, expió \u201clos pecados de aquellos que [\u2026] han muerto sin saber la voluntad de Dios concerniente a ellos, o que han pecado por ignorancia\u201d?<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255592\" id=\"p_tRoKs\">¿Es cierto que, como dijo Lehi, \u201cAdán cayó para que los hombres existiesen, y existen los hombres para que tengan gozo\u201d?<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>. ¿Y es realmente cierto, como testificó Abinadí citando a Isaías, que Jesucristo \u201cherido fue por nuestras transgresiones, golpeado por nuestras iniquidades; y el castigo de nuestra paz fue sobre él; y con sus llagas somos sanados\u201d?. <a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a><\/p>\n<p data-aid=\"165255611\" id=\"p_ucesu\">En resumen, ¿es el plan del Padre, tal como se enseña en el Libro de Mormón, realmente tan misericordioso? Testifico que lo es y que las enseñanzas de misericordia rebosantes de esperanza y paz del Libro de Mormón son verdaderas.<\/p>\n<p data-aid=\"165255632\" id=\"p_w3krB\">Aun así, imagino que algunos estarán luchando, a pesar de su lectura y oraciones fieles, por cumplir la promesa de Moroni de que el Padre Celestial les \u201cmanifestará la verdad de ellas por el poder del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a>. Conozco esa lucha porque yo la tuve, hace muchos años, cuando mi primer par de lecturas del Libro de Mormón no produjeron una respuesta clara e inmediata a mis oraciones.<\/p>\n<p data-aid=\"165255652\" id=\"p_gCufF\">Si ustedes están teniendo esa lucha, me gustaría invitarlos a seguir el consejo de Moroni de meditar en las muchas maneras en que el Libro de Mormón enseña \u201ccuán misericordioso ha sido el Señor con los hijos de los hombres\u201d?<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a>. Basándome en mi experiencia, espero que, cuando lo hagan, la paz del Espíritu Santo pueda adentrarse en sus corazones y sepan, crean y sientan<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\" data-value=\"37\"><\/sup><\/a> que el Libro de Mormón y el plan de misericordia que en él se enseña son verdaderos<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\" data-value=\"38\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165255673\" id=\"p_ucX90\">Expreso mi gratitud por el gran plan de la misericordia del Padre y por la disposición del Salvador para llevarlo a efecto. Sé que Él se manifestará a Sí mismo en misericordia en Su santo templo y en toda parte de nuestra vida, si lo buscamos. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165255695\" id=\"p_aE6Sx\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165255715\" id=\"p_q3MN5\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 121.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165255738\" id=\"p_oX5xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, pág. 121.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165255757\" id=\"p_obp6B\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/24?lang=spa&amp;id=title37#title37\">24.5.1<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165255779\" id=\"p_rjBN7\">Como sucede con todas las bendiciones del templo, que Dios otorgue estas bendiciones depende de que cumplamos los convenios que hacemos allí. Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p10#p10\">Vencer al mundo y hallar descanso<\/a>,\u201d <cite>Liahona<\/cite>, noviembre de 2022, pág. 96: \u201cCada persona que hace convenios [\u2026] en los templos, y los guarda, tiene un mayor acceso al poder de Jesucristo\u201d.<\/p>\n<p data-aid=\"165255801\" id=\"p_z7E4D\">Como un ejemplo más, consideren la declaración de la Primera Presidencia sobre el uso del gárment del templo: \u201c<em>Al guardar sus convenios<\/em>, incluido el sagrado privilegio de llevar el gárment como se indica en las ordenanzas iniciatorias, tendrá mayor acceso a la misericordia, a la protección, a la fortaleza y al poder\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/26-temple-recommends?lang=spa&amp;id=title31#title31\">26.3.3.2<\/a>; cursiva agregada).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165255823\" id=\"p_z0G4l\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p55-p57#p55\">Doctrina y Convenios 109:55\u201357<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165255845\" id=\"p_fcHLa\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_jO4lS#p_jO4lS\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, págs. 121\u2013122: \u201c<em>Esta es mi promesa para ustedes: todo aquel que busque con sinceridad a Jesucristo lo hallará en el templo.<\/em> Sentirán Su misericordia\u201d.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165255866\" id=\"p_buFt1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p34#p34\">Doctrina y Convenios 109:34<\/a>: \u201cOh Jehová, ten misericordia de este pueblo; y por cuanto todos los hombres pecan, perdona las transgresiones de tu pueblo, y sean borradas para siempre jamás\u201d.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165255888\" id=\"p_njVKC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p50#p50\">Doctrina y Convenios 109:50<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165255910\" id=\"p_yHSzz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p54#p54\">Doctrina y Convenios 109:54<\/a>. José también suplicó al Señor que tuviese \u201cmisericordia de los hijos de Jacob, para que desde esta misma hora comience Jerusalén a ser redimida; y empiece a quebrantarse el yugo de servidumbre de sobre la casa de David; y los hijos de Judá comiencen a volver a las tierras que diste a Abraham, su padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p62-p64#p62\">Doctrina y Convenios 109:62\u201364<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165255933\" id=\"p_vpf3c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p68#p68\">Doctrina y Convenios 109:68<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165255956\" id=\"p_jyB1Z\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p69#p69\">Doctrina y Convenios 109:69<\/a>. El <cite>Oxford English Dictionary<\/cite> define la <em>misericordia<\/em> como \u201cclemencia y compasión que se muestran a una persona que está en una situación de impotencia\u201d. (\u201cmercy,\u201d oed.com). La misericordia, como la gracia, es una expresión del amor y la bondad de Dios: Su <em>hesed<\/em>. Mientras que la <em>misericordia<\/em> se centra en detener un castigo que merecemos, la <em>gracia<\/em> se refiere normalmente a que Dios nos otorga bendiciones que no nos merecemos, y sin tener en cuenta los méritos.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165255983\" id=\"p_jWvQ2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 110:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165256007\" id=\"p_z8j9q\">En una manifestación de misericordia personalizada, se dijo a José y Oliver: \u201cHe aquí, vuestros pecados os son perdonados; os halláis limpios delante de mí; por tanto, alzad la cabeza y regocijaos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 110:5<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165256030\" id=\"p_o9ViL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p9#p9\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, pág. 119. El presidente Nelson dijo: \u201cLos invito a meditar en lo que significa la promesa del Señor para ustedes personalmente\u201d.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165256053\" id=\"p_fkGSf\">Véase Bible Dictionary, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../scriptures/bd/tabernacle.html?id=p7#p7\">Tabernacle<\/span>\u201d: \u201cEl Lugar Santísimo contenía solamente un mueble: el arca del testimonio [\u2026]. Sobre el arca, y formando la cubierta, estaba el propiciatorio. Servía, con el arca debajo, a modo de altar sobre sobre el que se llevaba a cabo la expiación más alta conocida en la ley judía. Sobre él se rociaba la sangre de la ofrenda por el pecado del Día de la Expiación (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/lev/16?lang=spa&amp;id=p14-p15#p14\">Levítico 16:14\u201315<\/a>). El propiciatorio era el lugar donde se manifestaba la gloria de Dios (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25?lang=spa&amp;id=p22#p22\">Éxodo 25:22<\/a>)\u201d.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165256076\" id=\"p_fZvgX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p9#p9\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 5. Como señaló el presidente Nelson, <em>hesed<\/em> no tiene un equivalente preciso en inglés, pero su traducción más habitual en el Antiguo Testamento es <em>misericordia<\/em>. De las 248 veces que aparece la palabra <em>hesed<\/em> en la versión del rey Santiago del Antiguo Testamento, <em>misericordia<\/em> se usa 149 veces, <em>bondad<\/em>, cuarenta y <em>amorosa bondad<\/em>, treinta (véase Blue Letter Bible, blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165256099\" id=\"p_wh7oo\">Véase <cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11\">27.2<\/a>. El Salvador nos enseña que ninguno de nosotros puede ir al Padre excepto por medio de Él (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6\">Juan 14:6<\/a>). En Doctrina y Convenios, el Salvador proporciona esta hermosa descripción de Su súplica de misericordia a nuestro favor:<\/p>\n<p data-aid=\"165256122\" id=\"p_dnhK3\">\u201cEscuchad al que es vuestro intercesor con el Padre, que aboga por vuestra causa ante él,<\/p>\n<p data-aid=\"165256146\" id=\"p_pCvsE\">\u201cdiciendo: Padre, ve los padecimientos y la muerte de aquel que no pecó, en quien te complaciste; ve la sangre de tu Hijo que fue derramada, la sangre de aquel que diste para que tú mismo fueses glorificado;<\/p>\n<p data-aid=\"165256169\" id=\"p_guWRY\">\u201cpor tanto, Padre, perdona a estos mis hermanos que creen en mi nombre, para que vengan a mí y tengan vida sempiterna\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p3-p5#p3\">Doctrina y Convenios 45:3\u20135<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165256190\" id=\"p_hV33K\">El presidente Jeffrey R. Holland dijo en una ocasión: \u201cCiertamente lo que Dios más disfruta de ser Dios es el gozo de ser misericordioso, especialmente con los que no se lo esperan y que a menudo piensan que no se lo merecen\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=spa&amp;id=p14#p14\">Los obreros de la viña<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2012, pág. 33). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p19#p19\">Doctrina y Convenios 128:19<\/a>: \u201cAhora, ¿qué oímos en el evangelio que hemos recibido? ¡Una voz de alegría! Una voz de misericordia del cielo, y una voz de verdad que brota de la tierra; gozosas nuevas para los muertos; una voz de alegría para los vivos y los muertos; buenas nuevas de gran gozo\u201d.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165256215\" id=\"p_iKzmJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>. La misericordia siempre ha estado en el centro mismo del Plan de Salvación. Así lo ilustran tres pasajes de las Escrituras que anticipaban el ministerio de Cristo. Nefi termina el primer capítulo del Libro de Mormón diciendo: \u201cPero he aquí, yo, Nefi, os mostraré que las tiernas misericordias del Señor se extienden sobre todos aquellos que, a causa de su fe, él ha escogido, para hacerlos poderosos, sí, hasta tener el poder de librarse\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>).<\/p>\n<p data-aid=\"165256233\" id=\"p_lwBIR\">En <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/34?lang=spa&amp;id=p6#p6\">Éxodo 34:6<\/a>, el Señor proclama Su nombre a Moisés como \u201cJehová, Dios misericordioso y piadoso, tardo para la ira y abundante en benignidad y verdad\u201d. Algunos han sugerido que este versículo lo hayan citado los profetas del Antiguo Testamento más que cualquier otro versículo en el Antiguo Testamento (véase, por ejemplo, Bible Project, \u201cThe Most Quoted Verse in the Bible,\u201d bibleproject.com/podcast/most-quoted-verse-bible/).<\/p>\n<p data-aid=\"165256257\" id=\"p_ncCl5\">En el Nuevo Testamento, en el libro de Lucas, recordemos que Zacarías quedó \u201cmudo y no p[udo] hablar\u201d cuando dudó de la promesa del ángel de que Elisabet, en su avanzada edad, concebiría un hijo que sería Juan el Bautista (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p20#p20\">Lucas 1:20<\/a>). Cuando Zacarías finalmente recuperó la voz, fue \u201clleno del Espíritu Santo\u201d y, en su primera declaración pública de que el tiempo del Mesías había llegado finalmente, \u201cprofetizó\u201d que el Señor vendría \u201cpara hacer <em>misericordia<\/em> con nuestros padres y acordarse de su santo convenio; del juramento que juró a Abraham, nuestro padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p67%2Cp72-p73#p67\">Lucas 1:67\u201373<\/a>; cursiva agregada).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165256281\" id=\"p_ppPi8\">Ensayos sobre Temas del Evangelio, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics-essays/first-vision-accounts?lang=spa&amp;id=p5#p5\">Relatos de la Primera Visión<\/a>,\u201d Biblioteca del Evangelio; véase especialmente <a class=\"cross-ref\" href=\"/study/manual/first-vision-accounts/1832-account?lang=spa\">el relato de 1832<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165256305\" id=\"p_vQ7Mr\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p29#p29\">José Smith\u2014Historia 1:29<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p5-p6#p5\">Doctrina y Convenios 20:5\u20136<\/a> contiene otra descripción de la función del arrepentimiento en estas dos visiones tan poderosas. José dijo: \u201cEsta confesión no es motivo para que se me juzgue culpable de cometer pecados graves o malos\u201d, pues \u201csolía sentir[se] censurado a causa de [sus] debilidades e imperfecciones\u201d y necesitaba el perdón (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28%2C29#p28\">José Smith\u2014Historia 1:28, 29<\/a>).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165256331\" id=\"p_is7hu\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1-p8#p1\">Enós 1:1\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165256355\" id=\"p_ecMVA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22?lang=spa&amp;id=p18#p18\">Alma 22:18<\/a>. La oración de Alma, \u201c¡Oh Jesús, Hijo de Dios, ten misericordia de mí!\u201d, conduce a obtener un torrente de luz y alivio del dolor (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=spa&amp;id=p17-p20#p17\">Alma 36:17\u201320<\/a>). El presidente Jeffrey R. Holland dijo en una ocasión respecto a dicha súplica: \u201cQuizás tal oración, aunque breve, sea la más significativa que puede pronunciarse en un mundo caído. Sean cuales sean las demás oraciones que ofrezcamos o las demás necesidades que tengamos, todas ellas quedan comprendidas en la súplica \u2018¡Oh Jesús, Hijo de Dios, ten misericordia de mí!\u2019\u201d (<cite>Our Day Star Rising: Exploring the New Testament with Jeffrey R. Holland<\/cite>, 2022, págs. 170\u2013171).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165256379\" id=\"p_v0H2b\">El élder Kyle S. McKay enseñó de manera muy hermosa: \u201cLa vida de arrepentimiento continuo de José me da confianza a mí para \u2018acer[carme], pues, confiadamente al trono de la gracia, para alcanzar misericordia\u2019\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/33mckay?lang=spa&amp;id=p_iIkQy#p_iIkQy\">El hombre que estuvo en comunión con Jehová<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 61).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165256402\" id=\"p_eys2u\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165256427\" id=\"p_yP0G0\">La súplica de Moroni es una conclusión perfecta a las palabras de Nefi al principio del Libro de Mormón, cuando declara su propio propósito para escribir las planchas: \u201cPero he aquí, yo, Nefi, os mostraré que las tiernas misericordias del Señor se extienden sobre todos aquellos que, a causa de su fe, él ha escogido, para hacerlos poderosos, sí, hasta tener el poder de librarse\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165256451\" id=\"p_mrbB7\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165256475\" id=\"p_kUcK7\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/9?lang=spa&amp;id=p13#p13\">Mormón 9:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165256500\" id=\"p_m9MSF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=spa&amp;id=p23#p23\">Alma 40:23<\/a>: \u201cEl alma será restaurada al cuerpo, y el cuerpo al alma; sí, y todo miembro y coyuntura serán restablecidos a su cuerpo; sí, ni un cabello de la cabeza se perderá, sino que todo será restablecido a su propia y perfecta forma\u201d.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"165256525\" id=\"p_xpQnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p16#p16\">Alma 34:16<\/a>. Al considerar lo misericordioso que ha sido el Señor, podríamos tener la tentación de desvincular la misericordia de la justicia y pensar que la amorosa misericordia de nuestro Padre Celestial puede vencer a la justicia. Pero como enseñó Alma, \u201c<em>no se podría realizar<\/em> el plan de la misericordia salvo que se efectuase una expiación; por tanto, Dios mismo expía los pecados del mundo, para realizar el plan de la misericordia, para apaciguar las demandas de la justicia, para que Dios sea un Dios perfecto, justo y misericordioso también\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>; cursiva agregada).<\/p>\n<p data-aid=\"165256550\" id=\"p_gB29M\">Todo el amor misericordioso que el Salvador tiene por nosotros no podría salvarnos. Más bien, es Su sufrimiento de las muy reales y dolorosas exigencias de la justicia lo que nos salva. Esto, por supuesto, no resta importancia a Su amor. Sin duda, fue Su amor por nosotros, y Su deseo de hacer la voluntad del Padre, que también nos ama, lo que hizo que Él estuviera dispuesto a sufrir (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p16#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/34?lang=spa&amp;id=p3#p3\">Doctrina y Convenios 34:3<\/a>). Mas el amor por sí solo no podría hacerlo.<\/p>\n<p data-aid=\"165256576\" id=\"p_nFMVN\">A veces nos centramos tanto en Su amor por nosotros tal como somos, que perdemos la visión del hecho de que nuestra forma de ser \u2014hombres y mujeres naturales cuyo comportamiento inevitablemente se queda corto al vivir los mandamientos\u2014 requiere que la justicia sea satisfecha. Si no entendemos bien y consideramos que Su amor puede anular las exigencias de la justicia, minimizamos el valor del don de Su sacrificio expiatorio y del sufrimiento que soportó para pagar el terrible precio de la justicia. Sería descorazonadoramente irónico que creyéramos que Su amor por nosotros hiciera innecesario Su sacrificio expiatorio. Cuánto mejor es aceptar plenamente las exigencias completas de la justicia y después estar agradecidos porque Él nos amara lo suficiente como para soportar por nosotros esas muy reales exigencias.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"165256598\" id=\"p_r22Kb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"165256628\" id=\"p_zGNuc\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p11#p11\">Mosíah 3:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"165256648\" id=\"p_tmr8L\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25\">2 Nefi 2:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"165256677\" id=\"p_a1uoa\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/14?lang=spa&amp;id=p5#p5\">Mosíah 14:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"165256701\" id=\"p_rjAIn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"165256727\" id=\"p_zEWxy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"165256754\" id=\"p_mmQKC\">El presidente M. Russell Ballard nos alentó a dar testimonio de \u201clo que <em>saben<\/em>, <em>creen<\/em> y <em>sienten<\/em>\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p30#p30\">Recuerden lo más importante<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 107).<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"165256781\" id=\"p_iOcsF\">Al ofrecer esta sugerencia no pretendo dar una \u201cfórmula\u201d substitutiva de un testimonio de la veracidad del Libro de Mormón ni del Evangelio. Como enseñó el élder David A. Bednar, la revelación puede llegar como \u201cuna luz que se enciende en un cuarto oscuro\u201d, donde se recibe \u201crápida y completamente, y todo de una vez\u201d. También llega como un \u201caumento gradual de la luz que irradia el sol naciente [\u2026] \u2018línea por línea, precepto por precepto\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=spa&amp;id=p30#p30\">2 Nefi 28:30<\/a>) [\u2026]. De manera gradual y delicada, esas comunicaciones del Padre Celestial \u2018[destilan] sobre [nuestra alma] como rocío del cielo\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45#p45\">Doctrina y Convenios 121:45<\/a>). Este modelo de revelación tiende a ser más común que infrecuente\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa&amp;id=p13#p13\">El espíritu de revelación<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2011, pág. 88).<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165255293",
+        "id": "note4",
+        "text": "<p data-aid=\"165255779\" id=\"p_rjBN7\">Como sucede con todas las bendiciones del templo, que Dios otorgue estas bendiciones depende de que cumplamos los convenios que hacemos allí. Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p10#p10\">Vencer al mundo y hallar descanso<\/a>,\u201d <cite>Liahona<\/cite>, noviembre de 2022, pág. 96: \u201cCada persona que hace convenios [\u2026] en los templos, y los guarda, tiene un mayor acceso al poder de Jesucristo\u201d.<\/p>\n<p data-aid=\"165255801\" id=\"p_z7E4D\">Como un ejemplo más, consideren la declaración de la Primera Presidencia sobre el uso del gárment del templo: \u201c<em>Al guardar sus convenios<\/em>, incluido el sagrado privilegio de llevar el gárment como se indica en las ordenanzas iniciatorias, tendrá mayor acceso a la misericordia, a la protección, a la fortaleza y al poder\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/26-temple-recommends?lang=spa&amp;id=title31#title31\">26.3.3.2<\/a>; cursiva agregada).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p10#p10",
+            "text": "Vencer al mundo y hallar descanso",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/26-temple-recommends?lang=spa&amp;id=title31#title31",
+            "text": "26.3.3.2",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165255293",
+        "id": "note5",
+        "text": "<p data-aid=\"165255823\" id=\"p_z0G4l\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p55-p57#p55\">Doctrina y Convenios 109:55\u201357<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p55-p57#p55",
+          "text": "Doctrina y Convenios 109:55\u201357",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165255205",
+        "id": "note2",
+        "text": "<p data-aid=\"165255738\" id=\"p_oX5xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, pág. 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25",
+          "text": "Regocíjense en el don de las llaves del sacerdocio",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165255256",
+        "id": "note3",
+        "text": "<p data-aid=\"165255757\" id=\"p_obp6B\"><cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/24?lang=spa&amp;id=title37#title37\">24.5.1<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/24?lang=spa&amp;id=title37#title37",
+          "text": "24.5.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165255348",
+        "id": "note8",
+        "text": "<p data-aid=\"165255888\" id=\"p_njVKC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p50#p50\">Doctrina y Convenios 109:50<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p50#p50",
+          "text": "Doctrina y Convenios 109:50",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165255348",
+        "id": "note9",
+        "text": "<p data-aid=\"165255910\" id=\"p_yHSzz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p54#p54\">Doctrina y Convenios 109:54<\/a>. José también suplicó al Señor que tuviese \u201cmisericordia de los hijos de Jacob, para que desde esta misma hora comience Jerusalén a ser redimida; y empiece a quebrantarse el yugo de servidumbre de sobre la casa de David; y los hijos de Judá comiencen a volver a las tierras que diste a Abraham, su padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p62-p64#p62\">Doctrina y Convenios 109:62\u201364<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p54#p54",
+            "text": "Doctrina y Convenios 109:54",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p62-p64#p62",
+            "text": "Doctrina y Convenios 109:62\u201364",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165255312",
+        "id": "note6",
+        "text": "<p data-aid=\"165255845\" id=\"p_fcHLa\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_jO4lS#p_jO4lS\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, págs. 121\u2013122: \u201c<em>Esta es mi promesa para ustedes: todo aquel que busque con sinceridad a Jesucristo lo hallará en el templo.<\/em> Sentirán Su misericordia\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_jO4lS#p_jO4lS",
+          "text": "El Señor Jesucristo vendrá de nuevo",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165255348",
+        "id": "note7",
+        "text": "<p data-aid=\"165255866\" id=\"p_buFt1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p34#p34\">Doctrina y Convenios 109:34<\/a>: \u201cOh Jehová, ten misericordia de este pueblo; y por cuanto todos los hombres pecan, perdona las transgresiones de tu pueblo, y sean borradas para siempre jamás\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p34#p34",
+          "text": "Doctrina y Convenios 109:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "165255553",
+        "id": "note30",
+        "text": "<p data-aid=\"165256525\" id=\"p_xpQnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p16#p16\">Alma 34:16<\/a>. Al considerar lo misericordioso que ha sido el Señor, podríamos tener la tentación de desvincular la misericordia de la justicia y pensar que la amorosa misericordia de nuestro Padre Celestial puede vencer a la justicia. Pero como enseñó Alma, \u201c<em>no se podría realizar<\/em> el plan de la misericordia salvo que se efectuase una expiación; por tanto, Dios mismo expía los pecados del mundo, para realizar el plan de la misericordia, para apaciguar las demandas de la justicia, para que Dios sea un Dios perfecto, justo y misericordioso también\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>; cursiva agregada).<\/p>\n<p data-aid=\"165256550\" id=\"p_gB29M\">Todo el amor misericordioso que el Salvador tiene por nosotros no podría salvarnos. Más bien, es Su sufrimiento de las muy reales y dolorosas exigencias de la justicia lo que nos salva. Esto, por supuesto, no resta importancia a Su amor. Sin duda, fue Su amor por nosotros, y Su deseo de hacer la voluntad del Padre, que también nos ama, lo que hizo que Él estuviera dispuesto a sufrir (véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=spa&amp;id=p16#p16\">Juan 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/34?lang=spa&amp;id=p3#p3\">Doctrina y Convenios 34:3<\/a>). Mas el amor por sí solo no podría hacerlo.<\/p>\n<p data-aid=\"165256576\" id=\"p_nFMVN\">A veces nos centramos tanto en Su amor por nosotros tal como somos, que perdemos la visión del hecho de que nuestra forma de ser \u2014hombres y mujeres naturales cuyo comportamiento inevitablemente se queda corto al vivir los mandamientos\u2014 requiere que la justicia sea satisfecha. Si no entendemos bien y consideramos que Su amor puede anular las exigencias de la justicia, minimizamos el valor del don de Su sacrificio expiatorio y del sufrimiento que soportó para pagar el terrible precio de la justicia. Sería descorazonadoramente irónico que creyéramos que Su amor por nosotros hiciera innecesario Su sacrificio expiatorio. Cuánto mejor es aceptar plenamente las exigencias completas de la justicia y después estar agradecidos porque Él nos amara lo suficiente como para soportar por nosotros esas muy reales exigencias.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p16#p16",
+            "text": "Alma 34:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15",
+            "text": "Alma 42:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/3?lang=spa&amp;id=p16#p16",
+            "text": "Juan 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/34?lang=spa&amp;id=p3#p3",
+            "text": "Doctrina y Convenios 34:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165255406",
+        "id": "note16",
+        "text": "<p data-aid=\"165256076\" id=\"p_fZvgX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p9#p9\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 5. Como señaló el presidente Nelson, <em>hesed<\/em> no tiene un equivalente preciso en inglés, pero su traducción más habitual en el Antiguo Testamento es <em>misericordia<\/em>. De las 248 veces que aparece la palabra <em>hesed<\/em> en la versión del rey Santiago del Antiguo Testamento, <em>misericordia<\/em> se usa 149 veces, <em>bondad<\/em>, cuarenta y <em>amorosa bondad<\/em>, treinta (véase Blue Letter Bible, blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/).<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p9#p9",
+          "text": "El convenio sempiterno",
+          "type": "cross-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "context": "",
+        "pid": "165255652",
+        "id": "note38",
+        "text": "<p data-aid=\"165256781\" id=\"p_iOcsF\">Al ofrecer esta sugerencia no pretendo dar una \u201cfórmula\u201d substitutiva de un testimonio de la veracidad del Libro de Mormón ni del Evangelio. Como enseñó el élder David A. Bednar, la revelación puede llegar como \u201cuna luz que se enciende en un cuarto oscuro\u201d, donde se recibe \u201crápida y completamente, y todo de una vez\u201d. También llega como un \u201caumento gradual de la luz que irradia el sol naciente [\u2026] \u2018línea por línea, precepto por precepto\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=spa&amp;id=p30#p30\">2 Nefi 28:30<\/a>) [\u2026]. De manera gradual y delicada, esas comunicaciones del Padre Celestial \u2018[destilan] sobre [nuestra alma] como rocío del cielo\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45#p45\">Doctrina y Convenios 121:45<\/a>). Este modelo de revelación tiende a ser más común que infrecuente\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa&amp;id=p13#p13\">El espíritu de revelación<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2011, pág. 88).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/28?lang=spa&amp;id=p30#p30",
+            "text": "2 Nefi 28:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/121?lang=spa&amp;id=p45#p45",
+            "text": "Doctrina y Convenios 121:45",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa&amp;id=p13#p13",
+            "text": "El espíritu de revelación",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165255406",
+        "id": "note15",
+        "text": "<p data-aid=\"165256053\" id=\"p_fkGSf\">Véase Bible Dictionary, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../scriptures/bd/tabernacle.html?id=p7#p7\">Tabernacle<\/span>\u201d: \u201cEl Lugar Santísimo contenía solamente un mueble: el arca del testimonio [\u2026]. Sobre el arca, y formando la cubierta, estaba el propiciatorio. Servía, con el arca debajo, a modo de altar sobre sobre el que se llevaba a cabo la expiación más alta conocida en la ley judía. Sobre él se rociaba la sangre de la ofrenda por el pecado del Día de la Expiación (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/lev/16?lang=spa&amp;id=p14-p15#p14\">Levítico 16:14\u201315<\/a>). El propiciatorio era el lugar donde se manifestaba la gloria de Dios (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25?lang=spa&amp;id=p22#p22\">Éxodo 25:22<\/a>)\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/lev/16?lang=spa&amp;id=p14-p15#p14",
+            "text": "Levítico 16:14\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/25?lang=spa&amp;id=p22#p22",
+            "text": "Éxodo 25:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note37": {
+        "marker": "37.",
+        "context": "",
+        "pid": "165255652",
+        "id": "note37",
+        "text": "<p data-aid=\"165256754\" id=\"p_mmQKC\">El presidente M. Russell Ballard nos alentó a dar testimonio de \u201clo que <em>saben<\/em>, <em>creen<\/em> y <em>sienten<\/em>\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p30#p30\">Recuerden lo más importante<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2023, pág. 107).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p30#p30",
+          "text": "Recuerden lo más importante",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165255367",
+        "id": "note14",
+        "text": "<p data-aid=\"165256030\" id=\"p_o9ViL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p9#p9\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, pág. 119. El presidente Nelson dijo: \u201cLos invito a meditar en lo que significa la promesa del Señor para ustedes personalmente\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p9#p9",
+          "text": "Regocíjense en el don de las llaves del sacerdocio",
+          "type": "cross-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "context": "",
+        "pid": "165255652",
+        "id": "note36",
+        "text": "<p data-aid=\"165256727\" id=\"p_zEWxy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3",
+          "text": "Moroni 10:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165255367",
+        "id": "note13",
+        "text": "<p data-aid=\"165256007\" id=\"p_z8j9q\">En una manifestación de misericordia personalizada, se dijo a José y Oliver: \u201cHe aquí, vuestros pecados os son perdonados; os halláis limpios delante de mí; por tanto, alzad la cabeza y regocijaos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5\">Doctrina y Convenios 110:5<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p5#p5",
+          "text": "Doctrina y Convenios 110:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "context": "",
+        "pid": "165255632",
+        "id": "note35",
+        "text": "<p data-aid=\"165256701\" id=\"p_rjAIn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4",
+          "text": "Moroni 10:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165255367",
+        "id": "note12",
+        "text": "<p data-aid=\"165255983\" id=\"p_jWvQ2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 110:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p7#p7",
+          "text": "Doctrina y Convenios 110:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": "",
+        "pid": "165255592",
+        "id": "note34",
+        "text": "<p data-aid=\"165256677\" id=\"p_a1uoa\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/14?lang=spa&amp;id=p5#p5\">Mosíah 14:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/14?lang=spa&amp;id=p5#p5",
+          "text": "Mosíah 14:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165255348",
+        "id": "note11",
+        "text": "<p data-aid=\"165255956\" id=\"p_jyB1Z\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p69#p69\">Doctrina y Convenios 109:69<\/a>. El <cite>Oxford English Dictionary<\/cite> define la <em>misericordia<\/em> como \u201cclemencia y compasión que se muestran a una persona que está en una situación de impotencia\u201d. (\u201cmercy,\u201d oed.com). La misericordia, como la gracia, es una expresión del amor y la bondad de Dios: Su <em>hesed<\/em>. Mientras que la <em>misericordia<\/em> se centra en detener un castigo que merecemos, la <em>gracia<\/em> se refiere normalmente a que Dios nos otorga bendiciones que no nos merecemos, y sin tener en cuenta los méritos.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p69#p69",
+          "text": "Doctrina y Convenios 109:69",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "165255592",
+        "id": "note33",
+        "text": "<p data-aid=\"165256648\" id=\"p_tmr8L\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25\">2 Nefi 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p25#p25",
+          "text": "2 Nefi 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165255348",
+        "id": "note10",
+        "text": "<p data-aid=\"165255933\" id=\"p_vpf3c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p68#p68\">Doctrina y Convenios 109:68<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=spa&amp;id=p68#p68",
+          "text": "Doctrina y Convenios 109:68",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "165255572",
+        "id": "note32",
+        "text": "<p data-aid=\"165256628\" id=\"p_zGNuc\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p11#p11\">Mosíah 3:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p11#p11",
+          "text": "Mosíah 3:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "165255572",
+        "id": "note31",
+        "text": "<p data-aid=\"165256598\" id=\"p_r22Kb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p11-p12#p11",
+          "text": "Alma 7:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165255425",
+        "id": "note19",
+        "text": "<p data-aid=\"165256215\" id=\"p_iKzmJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15\">Alma 42:15<\/a>. La misericordia siempre ha estado en el centro mismo del Plan de Salvación. Así lo ilustran tres pasajes de las Escrituras que anticipaban el ministerio de Cristo. Nefi termina el primer capítulo del Libro de Mormón diciendo: \u201cPero he aquí, yo, Nefi, os mostraré que las tiernas misericordias del Señor se extienden sobre todos aquellos que, a causa de su fe, él ha escogido, para hacerlos poderosos, sí, hasta tener el poder de librarse\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>).<\/p>\n<p data-aid=\"165256233\" id=\"p_lwBIR\">En <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/34?lang=spa&amp;id=p6#p6\">Éxodo 34:6<\/a>, el Señor proclama Su nombre a Moisés como \u201cJehová, Dios misericordioso y piadoso, tardo para la ira y abundante en benignidad y verdad\u201d. Algunos han sugerido que este versículo lo hayan citado los profetas del Antiguo Testamento más que cualquier otro versículo en el Antiguo Testamento (véase, por ejemplo, Bible Project, \u201cThe Most Quoted Verse in the Bible,\u201d bibleproject.com/podcast/most-quoted-verse-bible/).<\/p>\n<p data-aid=\"165256257\" id=\"p_ncCl5\">En el Nuevo Testamento, en el libro de Lucas, recordemos que Zacarías quedó \u201cmudo y no p[udo] hablar\u201d cuando dudó de la promesa del ángel de que Elisabet, en su avanzada edad, concebiría un hijo que sería Juan el Bautista (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p20#p20\">Lucas 1:20<\/a>). Cuando Zacarías finalmente recuperó la voz, fue \u201clleno del Espíritu Santo\u201d y, en su primera declaración pública de que el tiempo del Mesías había llegado finalmente, \u201cprofetizó\u201d que el Señor vendría \u201cpara hacer <em>misericordia<\/em> con nuestros padres y acordarse de su santo convenio; del juramento que juró a Abraham, nuestro padre\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=spa&amp;id=p67%2Cp72-p73#p67\">Lucas 1:67\u201373<\/a>; cursiva agregada).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p15#p15",
+            "text": "Alma 42:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20",
+            "text": "1 Nefi 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/34?lang=spa&amp;id=p6#p6",
+            "text": "Éxodo 34:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/1?lang=spa&amp;id=p20#p20",
+            "text": "Lucas 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/1?lang=spa&amp;id=p67%2Cp72-p73#p67",
+            "text": "Lucas 1:67\u201373",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165255425",
+        "id": "note18",
+        "text": "<p data-aid=\"165256190\" id=\"p_hV33K\">El presidente Jeffrey R. Holland dijo en una ocasión: \u201cCiertamente lo que Dios más disfruta de ser Dios es el gozo de ser misericordioso, especialmente con los que no se lo esperan y que a menudo piensan que no se lo merecen\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=spa&amp;id=p14#p14\">Los obreros de la viña<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2012, pág. 33). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p19#p19\">Doctrina y Convenios 128:19<\/a>: \u201cAhora, ¿qué oímos en el evangelio que hemos recibido? ¡Una voz de alegría! Una voz de misericordia del cielo, y una voz de verdad que brota de la tierra; gozosas nuevas para los muertos; una voz de alegría para los vivos y los muertos; buenas nuevas de gran gozo\u201d.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=spa&amp;id=p14#p14",
+            "text": "Los obreros de la viña",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p19#p19",
+            "text": "Doctrina y Convenios 128:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165255425",
+        "id": "note17",
+        "text": "<p data-aid=\"165256099\" id=\"p_wh7oo\">Véase <cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11\">27.2<\/a>. El Salvador nos enseña que ninguno de nosotros puede ir al Padre excepto por medio de Él (véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6\">Juan 14:6<\/a>). En Doctrina y Convenios, el Salvador proporciona esta hermosa descripción de Su súplica de misericordia a nuestro favor:<\/p>\n<p data-aid=\"165256122\" id=\"p_dnhK3\">\u201cEscuchad al que es vuestro intercesor con el Padre, que aboga por vuestra causa ante él,<\/p>\n<p data-aid=\"165256146\" id=\"p_pCvsE\">\u201cdiciendo: Padre, ve los padecimientos y la muerte de aquel que no pecó, en quien te complaciste; ve la sangre de tu Hijo que fue derramada, la sangre de aquel que diste para que tú mismo fueses glorificado;<\/p>\n<p data-aid=\"165256169\" id=\"p_guWRY\">\u201cpor tanto, Padre, perdona a estos mis hermanos que creen en mi nombre, para que vengan a mí y tengan vida sempiterna\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p3-p5#p3\">Doctrina y Convenios 45:3\u20135<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11",
+            "text": "27.2",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6",
+            "text": "Juan 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p3-p5#p3",
+            "text": "Doctrina y Convenios 45:3\u20135",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165255534",
+        "id": "note27",
+        "text": "<p data-aid=\"165256451\" id=\"p_mrbB7\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4#p4",
+          "text": "Moroni 10:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165255534",
+        "id": "note26",
+        "text": "<p data-aid=\"165256427\" id=\"p_yP0G0\">La súplica de Moroni es una conclusión perfecta a las palabras de Nefi al principio del Libro de Mormón, cuando declara su propio propósito para escribir las planchas: \u201cPero he aquí, yo, Nefi, os mostraré que las tiernas misericordias del Señor se extienden sobre todos aquellos que, a causa de su fe, él ha escogido, para hacerlos poderosos, sí, hasta tener el poder de librarse\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20",
+          "text": "1 Nefi 1:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165255519",
+        "id": "note25",
+        "text": "<p data-aid=\"165256402\" id=\"p_eys2u\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p3#p3",
+          "text": "Moroni 10:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165255489",
+        "id": "note24",
+        "text": "<p data-aid=\"165256379\" id=\"p_v0H2b\">El élder Kyle S. McKay enseñó de manera muy hermosa: \u201cLa vida de arrepentimiento continuo de José me da confianza a mí para \u2018acer[carme], pues, confiadamente al trono de la gracia, para alcanzar misericordia\u2019\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/33mckay?lang=spa&amp;id=p_iIkQy#p_iIkQy\">El hombre que estuvo en comunión con Jehová<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 61).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/33mckay?lang=spa&amp;id=p_iIkQy#p_iIkQy",
+          "text": "El hombre que estuvo en comunión con Jehová",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165255489",
+        "id": "note23",
+        "text": "<p data-aid=\"165256355\" id=\"p_ecMVA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22?lang=spa&amp;id=p18#p18\">Alma 22:18<\/a>. La oración de Alma, \u201c¡Oh Jesús, Hijo de Dios, ten misericordia de mí!\u201d, conduce a obtener un torrente de luz y alivio del dolor (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=spa&amp;id=p17-p20#p17\">Alma 36:17\u201320<\/a>). El presidente Jeffrey R. Holland dijo en una ocasión respecto a dicha súplica: \u201cQuizás tal oración, aunque breve, sea la más significativa que puede pronunciarse en un mundo caído. Sean cuales sean las demás oraciones que ofrezcamos o las demás necesidades que tengamos, todas ellas quedan comprendidas en la súplica \u2018¡Oh Jesús, Hijo de Dios, ten misericordia de mí!\u2019\u201d (<cite>Our Day Star Rising: Exploring the New Testament with Jeffrey R. Holland<\/cite>, 2022, págs. 170\u2013171).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/22?lang=spa&amp;id=p18#p18",
+            "text": "Alma 22:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/36?lang=spa&amp;id=p17-p20#p17",
+            "text": "Alma 36:17\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165255489",
+        "id": "note22",
+        "text": "<p data-aid=\"165256331\" id=\"p_is7hu\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1-p8#p1\">Enós 1:1\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1-p8#p1",
+          "text": "Enós 1:1\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165255470",
+        "id": "note21",
+        "text": "<p data-aid=\"165256305\" id=\"p_vQ7Mr\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p29#p29\">José Smith\u2014Historia 1:29<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p5-p6#p5\">Doctrina y Convenios 20:5\u20136<\/a> contiene otra descripción de la función del arrepentimiento en estas dos visiones tan poderosas. José dijo: \u201cEsta confesión no es motivo para que se me juzgue culpable de cometer pecados graves o malos\u201d, pues \u201csolía sentir[se] censurado a causa de [sus] debilidades e imperfecciones\u201d y necesitaba el perdón (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28%2C29#p28\">José Smith\u2014Historia 1:28, 29<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p29#p29",
+            "text": "José Smith\u2014Historia 1:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p5-p6#p5",
+            "text": "Doctrina y Convenios 20:5\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p28%2C29#p28",
+            "text": "José Smith\u2014Historia 1:28, 29",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165255470",
+        "id": "note20",
+        "text": "<p data-aid=\"165256281\" id=\"p_ppPi8\">Ensayos sobre Temas del Evangelio, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics-essays/first-vision-accounts?lang=spa&amp;id=p5#p5\">Relatos de la Primera Visión<\/a>,\u201d Biblioteca del Evangelio; véase especialmente <a class=\"cross-ref\" href=\"/study/manual/first-vision-accounts/1832-account?lang=spa\">el relato de 1832<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/gospel-topics-essays/first-vision-accounts?lang=spa&amp;id=p5#p5",
+            "text": "Relatos de la Primera Visión",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/first-vision-accounts/1832-account?lang=spa",
+            "text": "el relato de 1832",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165255205",
+        "id": "note1",
+        "text": "<p data-aid=\"165255715\" id=\"p_q3MN5\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25\">Regocíjense en el don de las llaves del sacerdocio<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, pág. 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=spa&amp;id=p25#p25",
+          "text": "Regocíjense en el don de las llaves del sacerdocio",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165255553",
+        "id": "note29",
+        "text": "<p data-aid=\"165256500\" id=\"p_m9MSF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=spa&amp;id=p23#p23\">Alma 40:23<\/a>: \u201cEl alma será restaurada al cuerpo, y el cuerpo al alma; sí, y todo miembro y coyuntura serán restablecidos a su cuerpo; sí, ni un cabello de la cabeza se perderá, sino que todo será restablecido a su propia y perfecta forma\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/40?lang=spa&amp;id=p23#p23",
+          "text": "Alma 40:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165255553",
+        "id": "note28",
+        "text": "<p data-aid=\"165256475\" id=\"p_kUcK7\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/9?lang=spa&amp;id=p13#p13\">Mormón 9:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/9?lang=spa&amp;id=p13#p13",
+          "text": "Mormón 9:13",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

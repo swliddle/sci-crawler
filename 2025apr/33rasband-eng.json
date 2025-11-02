@@ -1,0 +1,957 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/33rasband?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "a951b99493674150813d74bb25d2584b",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/33rasband",
+      "data-bcp47-lang": "en",
+      "data-aid": "165188101",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "a951b99493674150813d74bb25d2584b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/4m372a6gr9mot39viz4fkny0vy3ghlubv43187zl-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "The Plan of Mercy",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165188101",
+      {"key": "165188101"}
+    ],
+    [
+      "165188108",
+      {"key": "165188108"}
+    ],
+    [
+      "165188115",
+      {"key": "165188115"}
+    ],
+    [
+      "165188121",
+      {"key": "165188121"}
+    ],
+    [
+      "165188130",
+      {"key": "165188130"}
+    ],
+    [
+      "165188134",
+      {"key": "165188134"}
+    ],
+    [
+      "165188141",
+      {"key": "165188141"}
+    ],
+    [
+      "165188150",
+      {"key": "165188150"}
+    ],
+    [
+      "165188160",
+      {"key": "165188160"}
+    ],
+    [
+      "165188170",
+      {"key": "165188170"}
+    ],
+    [
+      "165188181",
+      {"key": "165188181"}
+    ],
+    [
+      "165188192",
+      {"key": "165188192"}
+    ],
+    [
+      "165188203",
+      {"key": "165188203"}
+    ],
+    [
+      "165188211",
+      {"key": "165188211"}
+    ],
+    [
+      "165188228",
+      {"key": "165188228"}
+    ],
+    [
+      "165188241",
+      {"key": "165188241"}
+    ],
+    [
+      "165190254",
+      {"key": "165190254"}
+    ],
+    [
+      "165190267",
+      {"key": "165190267"}
+    ],
+    [
+      "165190280",
+      {"key": "165190280"}
+    ],
+    [
+      "165190292",
+      {"key": "165190292"}
+    ],
+    [
+      "165190304",
+      {"key": "165190304"}
+    ],
+    [
+      "165190316",
+      {"key": "165190316"}
+    ],
+    [
+      "165190328",
+      {"key": "165190328"}
+    ],
+    [
+      "165190333",
+      {"key": "165190333"}
+    ],
+    [
+      "165190344",
+      {"key": "165190344"}
+    ],
+    [
+      "165190355",
+      {"key": "165190355"}
+    ],
+    [
+      "165190366",
+      {"key": "165190366"}
+    ],
+    [
+      "165190377",
+      {"key": "165190377"}
+    ],
+    [
+      "165190388",
+      {"key": "165190388"}
+    ],
+    [
+      "165190399",
+      {"key": "165190399"}
+    ],
+    [
+      "165190410",
+      {"key": "165190410"}
+    ],
+    [
+      "165190421",
+      {"key": "165190421"}
+    ],
+    [
+      "165190432",
+      {"key": "165190432"}
+    ],
+    [
+      "165190443",
+      {"key": "165190443"}
+    ],
+    [
+      "165190454",
+      {"key": "165190454"}
+    ],
+    [
+      "165190465",
+      {"key": "165190465"}
+    ],
+    [
+      "165190476",
+      {"key": "165190476"}
+    ],
+    [
+      "165190486",
+      {"key": "165190486"}
+    ],
+    [
+      "165190496",
+      {"key": "165190496"}
+    ],
+    [
+      "165190506",
+      {"key": "165190506"}
+    ],
+    [
+      "165190516",
+      {"key": "165190516"}
+    ],
+    [
+      "165190526",
+      {"key": "165190526"}
+    ],
+    [
+      "165190536",
+      {"key": "165190536"}
+    ],
+    [
+      "165190546",
+      {"key": "165190546"}
+    ],
+    [
+      "165190556",
+      {"key": "165190556"}
+    ],
+    [
+      "165190568",
+      {"key": "165190568"}
+    ],
+    [
+      "165190577",
+      {"key": "165190577"}
+    ],
+    [
+      "165190587",
+      {"key": "165190587"}
+    ],
+    [
+      "165190597",
+      {"key": "165190597"}
+    ],
+    [
+      "165190607",
+      {"key": "165190607"}
+    ],
+    [
+      "165190615",
+      {"key": "165190615"}
+    ],
+    [
+      "165190623",
+      {"key": "165190623"}
+    ],
+    [
+      "165190631",
+      {"key": "165190631"}
+    ],
+    [
+      "165190639",
+      {"key": "165190639"}
+    ],
+    [
+      "165190647",
+      {"key": "165190647"}
+    ],
+    [
+      "165190655",
+      {"key": "165190655"}
+    ],
+    [
+      "165190662",
+      {"key": "165190662"}
+    ],
+    [
+      "165190669",
+      {"key": "165190669"}
+    ],
+    [
+      "165190676",
+      {"key": "165190676"}
+    ],
+    [
+      "165190683",
+      {"key": "165190683"}
+    ],
+    [
+      "165190690",
+      {"key": "165190690"}
+    ],
+    [
+      "165190697",
+      {"key": "165190697"}
+    ],
+    [
+      "165190703",
+      {"key": "165190703"}
+    ],
+    [
+      "165190709",
+      {"key": "165190709"}
+    ],
+    [
+      "165190715",
+      {"key": "165190715"}
+    ],
+    [
+      "165190720",
+      {"key": "165190720"}
+    ],
+    [
+      "165190725",
+      {"key": "165190725"}
+    ],
+    [
+      "165190730",
+      {"key": "165190730"}
+    ],
+    [
+      "165190735",
+      {"key": "165190735"}
+    ],
+    [
+      "165190739",
+      {"key": "165190739"}
+    ],
+    [
+      "165190743",
+      {"key": "165190743"}
+    ],
+    [
+      "165190747",
+      {"key": "165190747"}
+    ],
+    [
+      "165190751",
+      {"key": "165190751"}
+    ],
+    [
+      "165190755",
+      {"key": "165190755"}
+    ],
+    [
+      "165190759",
+      {"key": "165190759"}
+    ],
+    [
+      "165190763",
+      {"key": "165190763"}
+    ],
+    [
+      "165190767",
+      {"key": "165190767"}
+    ],
+    [
+      "165190770",
+      {"key": "165190770"}
+    ],
+    [
+      "165190774",
+      {"key": "165190774"}
+    ],
+    [
+      "165190778",
+      {"key": "165190778"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/33rasband",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Rasband teaches that God is merciful and the plan of salvation is a plan of mercy.",
+          "title": "The Plan of Mercy"
+        },
+        "pageSocial": {
+          "description": "Elder Rasband teaches that God is merciful and the plan of salvation is a plan of mercy.",
+          "title": "The Plan of Mercy"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/77wdfe8ef7xjbmk80imphj7jyf6sjvcjs2jtw47z/full/%21192%2C/0/default\" data-video-title=\"The Plan of Mercy\" data-video-description=\"Elder Rasband teaches that God is merciful and the plan of salvation is a plan of mercy.\" data-video-id=\"6371115232112\" data-duration=\"665800\" data-assetId=\"weco4m0zvaei88ghps7eyllflk6m7328n0obqmeh\" data-ref-id=\"weco4m0zvaei88ghps7eyllflk6m7328n0obqmeh\" data-duration-string=\"11:05\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371115232112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"190284483\"/><source src=\"https://assets.churchofjesuschrist.org/weco4m0zvaei88ghps7eyllflk6m7328n0obqmeh-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"38782254\"/><source src=\"https://assets.churchofjesuschrist.org/weco4m0zvaei88ghps7eyllflk6m7328n0obqmeh-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"67145813\"/><source src=\"https://assets.churchofjesuschrist.org/weco4m0zvaei88ghps7eyllflk6m7328n0obqmeh-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"190284483\"/><\/video><h1 data-aid=\"165188108\" id=\"p_u4wud\">The Plan of Mercy<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165188115\" id=\"p_g4xDb\">By Elder James R. Rasband<\/p>\n<p class=\"author-role\" data-aid=\"165188121\" id=\"p_mBEII\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165188130\" id=\"p_z5Xtr\">The Lord is merciful and our Heavenly Father\u2019s plan of salvation is truly a plan of mercy.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_v1iDp\">\n<header>\n<h2 data-aid=\"165188134\" id=\"p_ngBBE\">A Prophet\u2019s Invitation<\/h2>\n<\/header>\n<p data-aid=\"165188141\" id=\"p_fAD6U\">Last April, soon after the joyful news that the Church had acquired the Kirtland Temple, President Russell M. Nelson invited us to study the dedicatory prayer of the Kirtland Temple, recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng\">section 109 of the Doctrine and Covenants<\/a>.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> The dedicatory prayer, said President Nelson, \u201cis a tutorial about how the temple spiritually empowers you and me to meet the challenges of life in these last days.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"165188150\" id=\"p_b9AFg\">I am sure your study of section 109 yielded insights that blessed you. This evening, I share a couple of things I learned as I followed our prophet\u2019s invitation. The peace-giving path down which my study led reminded me that the Lord is merciful and that our Heavenly Father\u2019s plan of salvation is truly a plan of mercy.<\/p>\n<\/section>\n<section id=\"sec_cck4h\">\n<header>\n<h2 data-aid=\"165188160\" id=\"p_qe1Cy\">Newly Called Missionaries Serving in the Temple<\/h2>\n<\/header>\n<p data-aid=\"165188170\" id=\"p_d2Qye\">As you may be aware, \u201cnewly called missionaries are encouraged to receive the temple endowment as soon as possible and to attend the temple as often as circumstances allow.\u201d Once endowed, they also \u201cmay serve as temple \u2026 workers before they begin missionary service.\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a><\/p>\n<p data-aid=\"165188181\" id=\"p_yt3AF\">Time in the temple before entering the missionary training center (MTC) can be a wonderful blessing for new missionaries as they learn more about temple covenants before sharing the blessings of those covenants with the world.<\/p>\n<p data-aid=\"165188192\" id=\"p_zbo70\">But in studying section 109, I learned that in the temple, God empowers new missionaries\u2014indeed, all of us\u2014in an additional, sacred way.<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> In the dedicatory prayer, given by revelation, the Prophet Joseph Smith prayed that \u201cwhen thy servants shall go out from thy house \u2026 to bear testimony of thy name,\u201d the \u201chearts\u201d of \u201call people\u201d would \u201cbe softened\u201d\u2014both the \u201cgreat ones of the earth\u201d and \u201call the poor, the needy, and [the] afflicted.\u201d He prayed that \u201ctheir prejudices may give way before the truth, and thy people may obtain favor in the sight of all; that all the ends of the earth may know that we, thy servants, have heard thy voice, and that thou hast sent us.\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a><\/p>\n<p data-aid=\"165188203\" id=\"p_mmifF\">This is a beautiful promise for a newly called missionary\u2014to have prejudices \u201cgive way before the truth,\u201d to \u201cobtain favor in the sight of all,\u201d and to have the world know they are sent by the Lord. Each of us surely needs these same blessings. What a blessing it would be to have hearts softened as we interact with neighbors and coworkers. The dedicatory prayer does not explain exactly how our time in the temple will soften others\u2019 hearts, but I am convinced it is bound up with how time in the house of the Lord softens our own hearts by centering us on Jesus Christ and His mercy.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_yxTrK\">\n<header>\n<h2 data-aid=\"165188211\" id=\"p_rxkcA\">The Lord Answers Joseph Smith\u2019s Plea for Mercy<\/h2>\n<\/header>\n<p data-aid=\"165188228\" id=\"p_iHUZX\">As I studied the Kirtland dedicatory prayer, I was also struck that Joseph again and again pleaded for mercy\u2014for the members of the Church,<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> for the enemies of the Church,<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> for the leaders of the country, for the nations of the earth.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> And, very personally, he pleaded with the Lord to remember him<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> and to have mercy upon his beloved Emma and their children.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a><\/p>\n<p data-aid=\"165188241\" id=\"p_jlY87\">How must Joseph have felt when, one week later, on Easter Day, April 3, 1836, in the Kirtland Temple, the Savior appeared to him and Oliver Cowdery and, as recorded in <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng\">section 110 of the Doctrine and Covenants<\/a>, said, \u201cI have accepted this house, and my name shall be here; and I will manifest myself to my people in mercy in this house.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a> This promise of mercy must have had special meaning to Joseph.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> And as President Nelson taught last April, this promise also \u201capplies to <em>every<\/em> dedicated temple today.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_ixiuu\">\n<header>\n<h2 data-aid=\"165190254\" id=\"p_aRGDL\">Finding Mercy in the House of the Lord<\/h2>\n<\/header>\n<p data-aid=\"165190267\" id=\"p_c6pFR\">There are so many ways in which we each can find mercy in the house of the Lord. This has been true since the Lord first commanded Israel to build a tabernacle and to place at its center the \u201cmercy seat.\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> In the temple, we find mercy in the covenants we make. Those covenants, in addition to the baptismal covenant, bind us to the Father and the Son and give us increased access to what President Nelson has taught is \u201ca special kind of love and mercy \u2026 called <em>hesed<\/em>\u201d in Hebrew.<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<p data-aid=\"165190280\" id=\"p_tl8aI\">We find mercy in the opportunity to be sealed to our families for eternity. In the temple, we also come to understand with greater clarity that the Creation, the Fall, the Savior\u2019s atoning sacrifice, and our ability to enter again into our Heavenly Father\u2019s presence<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>\u2014indeed, every part of the plan of salvation\u2014are manifestations of mercy.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> It might be said that the plan of salvation is a plan of happiness precisely because it is a \u201cplan of mercy.\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_cbE0X\">\n<header>\n<h2 data-aid=\"165190292\" id=\"p_hOZpT\">Seeking Forgiveness Opens the Door to the Holy Ghost<\/h2>\n<\/header>\n<p data-aid=\"165190304\" id=\"p_d6mMC\">I am grateful for the beautiful promise in <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng\">section 110<\/a> that the Lord will manifest Himself in mercy in His temples. I am also grateful for what it reveals about how the Lord will manifest Himself in mercy whenever we, like Joseph, plead for mercy.<\/p>\n<p data-aid=\"165190316\" id=\"p_liTz2\">Joseph Smith\u2019s plea for mercy in section 109 was not the first time his pleas for mercy prompted revelation. In the Sacred Grove, young Joseph prayed not just to know which Church was true, but he also said that he \u201ccried unto the Lord for mercy, for there was none else to whom I could go [to] obtain mercy.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> Somehow his recognition that he needed mercy that only the Lord could provide helped open the windows of heaven. Three years later the angel Moroni appeared, following what Joseph said was his \u201cprayer and supplication to Almighty God for forgiveness of all my sins and follies.\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a><\/p>\n<p data-aid=\"165190328\" id=\"p_r1mvX\">This pattern of revelation following a plea for mercy is a familiar one in the scriptures. Enos heard the voice of the Lord only after praying for forgiveness.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> King Lamoni\u2019s father\u2019s conversion begins with his prayer, \u201cI will give away all my sins to know thee.\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> We may not be blessed with these same dramatic experiences, but for those who sometimes struggle to feel answers to prayer, seeking the Lord\u2019s mercy is one of the most powerful ways to feel the witness of the Holy Ghost.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<\/section>\n<section id=\"sec_gUFo4\">\n<header>\n<h2 data-aid=\"165190333\" id=\"p_lNa8r\">Pondering God\u2019s Mercy Opens the Door to a Testimony of the Book of Mormon<\/h2>\n<\/header>\n<p data-aid=\"165190344\" id=\"p_hHr9p\">A similar principle is beautifully taught in <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3-p5#p3\">Moroni 10:3\u20135<\/a>. We often shorthand these verses to teach that through sincere prayer, we can learn whether the Book of Mormon is true. But this shorthand can neglect the important role of mercy. Listen to how Moroni begins his exhortation: \u201cI would exhort you that when ye shall read these things, \u2026 that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down until the time that ye shall receive these things, and ponder it in your hearts.\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a><\/p>\n<p data-aid=\"165190355\" id=\"p_enZZz\">Moroni urges us not only to read these things\u2014the records he was about to seal up\u2014but also to <em>ponder<\/em> in our hearts what the Book of Mormon reveals about \u201chow merciful the Lord hath been unto the children of men.\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> It is pondering upon the Lord\u2019s mercy that prepares us to \u201cask God, the Eternal Father, in the name of Christ, if these things are not true.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a><\/p>\n<p data-aid=\"165190366\" id=\"p_oimlM\">As we ponder on the Book of Mormon, we might ask: Is it really true, as Alma taught, that God\u2019s plan of mercy assures that every person who ever lived on this earth will be resurrected<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a> and that they will \u201cbe restored to their \u2026 perfect frame\u201d?<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> Is Amulek right\u2014can the Savior\u2019s mercy satisfy <em>all<\/em> the bitterly real demands of justice that we would otherwise be obligated to pay and instead \u201c[encircle us] in the arms of safety\u201d?<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a><\/p>\n<p data-aid=\"165190377\" id=\"p_iwwXo\">Is it true, as Alma testified, that Christ suffered not only for our sins but for our \u201cpains and afflictions\u201d so that He could \u201cknow \u2026 how to succor his people according to their infirmities\u201d?<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> Is the Lord really so merciful, as King Benjamin taught, that as a free gift, He atoned \u201cfor the sins of those \u2026 who have died not knowing the will of God concerning them, or who have ignorantly sinned\u201d?<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a><\/p>\n<p data-aid=\"165190388\" id=\"p_tRoKs\">Is it true, as Lehi said, that \u201cAdam fell that men might be; and men are, that they might have joy\u201d?<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a> And is it really true, as Abinadi testified, quoting Isaiah, that Jesus Christ was \u201cwounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed\u201d?<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a><\/p>\n<p data-aid=\"165190399\" id=\"p_ucesu\">In sum, is the Father\u2019s plan as taught in the Book of Mormon really this merciful? I testify that it is and that the peace-giving and hopeful teachings of mercy in the Book of Mormon are true.<\/p>\n<p data-aid=\"165190410\" id=\"p_w3krB\">Still, I imagine that some may be struggling, despite your faithful reading and prayers, to realize Moroni\u2019s promise that Heavenly Father \u201cwill manifest the truth of it unto you, by the power of the Holy Ghost.\u201d<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a> I know this struggle because I felt it, many years ago, when my own first couple of reads of the Book of Mormon did not yield an immediate and clear answer to my prayers.<\/p>\n<p data-aid=\"165190421\" id=\"p_gCufF\">If you are struggling, may I invite you to follow Moroni\u2019s counsel to ponder on the many ways the Book of Mormon teaches \u201chow merciful the Lord hath been [to] the children of men\u201d?<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a> Based on my experience, I hope that when you do, the peace of the Holy Ghost can enter your heart and you can know, believe, and feel<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\" data-value=\"37\"><\/sup><\/a> that the Book of Mormon and the plan of mercy it teaches are true.<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\" data-value=\"38\"><\/sup><\/a><\/p>\n<p data-aid=\"165190432\" id=\"p_ucX90\">I express my gratitude for the Father\u2019s great plan of mercy and for the Savior\u2019s willingness to carry it out. I know that He will manifest Himself in mercy in His holy temple and in every part of our life if we will seek Him. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165190443\" id=\"p_aE6Sx\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165190454\" id=\"p_q3MN5\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165190465\" id=\"p_oX5xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d 121.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165190476\" id=\"p_obp6B\"><cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/24?lang=eng&amp;id=title37#title37\">24.5.1<\/a>, Gospel Library.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165190486\" id=\"p_rjBN7\">As with all temple blessings, God\u2019s bestowal of these blessings is dependent upon our keeping the covenants we make in the temple. See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p10#p10\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96: \u201cEach person who makes covenants \u2026 in temples\u2014and keeps them\u2014has increased access to the power of Jesus Christ.\u201d<\/p>\n<p data-aid=\"165190496\" id=\"p_z7E4D\">As another example, consider the First Presidency\u2019s statement on wearing the temple garment: \u201c<em>As you keep your covenants<\/em>, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior\u2019s mercy, protection, strength, and power\u201d (<cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/26-temple-recommends?lang=eng&amp;id=title31#title31\">26.3.3.2<\/a>; emphasis added).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165190506\" id=\"p_z0G4l\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p55-p57#p55\">Doctrine and Covenants 109:55\u201357<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165190516\" id=\"p_fcHLa\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=eng&amp;id=p_jO4lS#p_jO4lS\">The Lord Jesus Christ Will Come Again<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2024, 121\u201322: \u201c<em>Here is my promise to you: Every sincere seeker of Jesus Christ will find Him in the temple.<\/em> You will feel His mercy.\u201d<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165190526\" id=\"p_buFt1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p34#p34\">Doctrine and Covenants 109:34<\/a>: \u201cHave mercy upon this people, and as all men sin, forgive the transgressions of thy people, and let them be blotted out forever.\u201d<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165190536\" id=\"p_njVKC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p50#p50\">Doctrine and Covenants 109:50<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165190546\" id=\"p_yHSzz\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p54#p54\">Doctrine and Covenants 109:54<\/a>. Joseph also asked the Lord \u201cto have mercy upon the children of Jacob, that Jerusalem, from this hour, may begin to be redeemed; and the yoke of bondage may begin to be broken off from the house of David; and the children of Judah may begin to return to the lands which thou didst give to Abraham, their father\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p62-p64#p62\">Doctrine and Covenants 109:62\u201364<\/a>).<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165190556\" id=\"p_vpf3c\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p68#p68\">Doctrine and Covenants 109:68<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165190568\" id=\"p_jyB1Z\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p69#p69\">Doctrine and Covenants 109:69<\/a>. The <cite>Oxford English Dictionary<\/cite> defines <em>mercy<\/em> as \u201cclemency and compassion shown to a person who is in a position of powerlessness\u201d (\u201cmercy,\u201d oed.com). Mercy, like grace, is an expression of God\u2019s love and kindness\u2014His <em>hesed<\/em>. Whereas <em>mercy<\/em> is focused on withholding a punishment we deserve, <em>grace<\/em> typically refers to God giving us blessings we do not deserve and without regard to merit.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165190577\" id=\"p_jWvQ2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p7#p7\">Doctrine and Covenants 110:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165190587\" id=\"p_z8j9q\">In a manifestation of personalized mercy, Joseph and Oliver were told, \u201cBehold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 110:5<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165190597\" id=\"p_o9ViL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p9#p9\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d 119. President Nelson said, \u201cI invite you to ponder what the Lord\u2019s promise means for you personally.\u201d<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165190607\" id=\"p_fkGSf\">See Bible Dictionary, \u201c<a class=\"cross-ref\" href=\"/study/scriptures/bd/tabernacle?lang=eng&amp;id=p7#p7\">Tabernacle<\/a>\u201d: \u201cThe Holy of Holies contained only one piece of furniture: the Ark of the Covenant. \u2026 Upon the ark and forming the lid was the mercy seat. It served, with the ark beneath, as an altar on which the highest atonement known to the Jewish law was effected. On it was sprinkled the blood of the sin offering of the Day of Atonement (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/lev/16?lang=eng&amp;id=p14-p15#p14\">Lev. 16:14\u201315<\/a>). The mercy seat was the place of the manifestation of God\u2019s glory (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25?lang=eng&amp;id=p22#p22\">Ex. 25:22<\/a>).\u201d<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165190615\" id=\"p_fZvgX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;id=p9#p9\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 5. As President Nelson points out, <em>hesed<\/em> has no precise English equivalent, but its most common translation in the Old Testament is <em>mercy<\/em>. Of the 248 times the word <em>hesed<\/em> appears in the King James Version of the Old Testament, <em>mercy<\/em> is used 149 times, <em>kindness<\/em> 40 times, and <em>lovingkindness<\/em> 30 times (see Blue Letter Bible, blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/).<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165190623\" id=\"p_wh7oo\">See <cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11\">27.2<\/a>. The Savior teaches us that none of us can come unto the Father except through Him (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p6#p6\">John 14:6<\/a>). In the Doctrine and Covenants, the Savior provides this beautiful description of His plea for mercy on our behalf:<\/p>\n<p data-aid=\"165190631\" id=\"p_dnhK3\">\u201cListen to him who is the advocate with the Father, who is pleading your cause before him\u2014<\/p>\n<p data-aid=\"165190639\" id=\"p_pCvsE\">\u201cSaying: Father, behold the sufferings and death of him who did no sin, in whom thou wast well pleased; behold the blood of thy Son which was shed, the blood of him whom thou gavest that thyself might be glorified;<\/p>\n<p data-aid=\"165190647\" id=\"p_guWRY\">\u201cWherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3\">Doctrine and Covenants 45:3\u20135<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165190655\" id=\"p_hV33K\">President Jeffrey R. Holland once said, \u201cSurely the thing God enjoys most about being God is the thrill of being merciful, especially to those who don\u2019t expect it and often feel they don\u2019t deserve it\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=eng&amp;id=p14#p14\">The Laborers in the Vineyard<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 33). See also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=eng&amp;id=p19#p19\">Doctrine and Covenants 128:19<\/a>: \u201cNow, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy.\u201d<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165190662\" id=\"p_iKzmJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15\">Alma 42:15<\/a>. Mercy has always been at the very center of the plan of salvation. Three advent scriptures are illustrative. Nephi concludes the very first chapter of the Book of Mormon by saying, \u201cBehold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20\">1 Nephi 1:20<\/a>).<\/p>\n<p data-aid=\"165190669\" id=\"p_lwBIR\">In <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/34?lang=eng&amp;id=p6#p6\">Exodus 34:6<\/a>, the Lord proclaims His name to Moses as \u201cThe Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth.\u201d Some have suggested that this verse may be referenced by Old Testament prophets more than any other verse in the Old Testament (see, for example, Bible Project, \u201cThe Most Quoted Verse in the Bible,\u201d bibleproject.com/podcast/most-quoted-verse-bible/).<\/p>\n<p data-aid=\"165190676\" id=\"p_ncCl5\">In the New Testament, in the book of Luke, recall that Zacharias was struck \u201cdumb, and not able to speak\u201d when he doubted the angel\u2019s promise that Elisabeth in her old age would bear a son, who would be John the Baptist (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=eng&amp;id=p20#p20\">Luke 1:20<\/a>). When Zacharias\u2019s voice was finally loosed, he was \u201cfilled with the Holy Ghost,\u201d and in the first public declaration that the time for the Messiah had finally arrived, he prophesied that the Lord would come \u201cto perform <em>the mercy<\/em> promised to our fathers, and to remember his holy covenant; the oath which he sware to our father Abraham\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=eng&amp;id=p67%2Cp72-p73#p67\">Luke 1:67, 72\u201373<\/a>; emphasis added).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165190683\" id=\"p_ppPi8\">Gospel Topics Essays, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics-essays/first-vision-accounts?lang=eng&amp;id=p5#p5\">First Vision Accounts<\/a>,\u201d Gospel Library; see especially <a class=\"cross-ref\" href=\"/study/manual/first-vision-accounts/1832-account?lang=eng\">the 1832 account<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165190690\" id=\"p_vQ7Mr\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p29#p29\">Joseph Smith\u2014History 1:29<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p5-p6#p5\">Doctrine and Covenants 20:5\u20136<\/a> provides another description of the role of repentance in these two powerful visions. Joseph said that \u201cno one need suppose me guilty of any great or malignant sins,\u201d but he \u201cfelt condemned for [his] weaknesses and imperfections\u201d and needed forgiveness (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p28%2C29#p28\">Joseph Smith\u2014History 1:28, 29<\/a>).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165190697\" id=\"p_is7hu\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p1-p8#p1\">Enos 1:1\u20138<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165190703\" id=\"p_ecMVA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22?lang=eng&amp;id=p18#p18\">Alma 22:18<\/a>. Alma\u2019s prayer, \u201cO Jesus, thou Son of God, have mercy on me,\u201d leads to a flood of light and relief from pain (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=eng&amp;id=p17-p20#p17\">Alma 36:17\u201320<\/a>). President Jeffrey R. Holland once said of Alma\u2019s plea: \u201cPerhaps such a prayer, though brief, is the most significant one that can be uttered in a fallen world. Whatever other prayers we offer, whatever other needs we have, all come back to that plea: \u2018O Jesus, thou Son of God, have mercy on me\u2019\u201d (<cite>Our Day Star Rising: Exploring the New Testament with Jeffrey R. Holland<\/cite> [2022], 170\u201371).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165190709\" id=\"p_v0H2b\">Elder Kyle S. McKay beautifully taught, \u201cJoseph\u2019s life of regular repentance gives me confidence to \u2018come boldly unto the throne of grace, that [I] may obtain mercy\u2019\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/33mckay?lang=eng&amp;id=p_iIkQy#p_iIkQy\">The Man Who Communed with Jehovah<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2024, 61).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165190715\" id=\"p_eys2u\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165190720\" id=\"p_yP0G0\">Moroni\u2019s plea is a bookend to Nephi\u2019s statement at the very beginning of the Book of Mormon, where he states his own purpose in writing on the plates: \u201cBehold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20\">1 Nephi 1:20<\/a>).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165190725\" id=\"p_mrbB7\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165190730\" id=\"p_kUcK7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/9?lang=eng&amp;id=p13#p13\">Mormon 9:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165190735\" id=\"p_m9MSF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23\">Alma 40:23<\/a>: \u201cThe soul shall be restored to the body, and the body to the soul; yea, and every limb and joint shall be restored to its body; yea, even a hair of the head shall not be lost; but all things shall be restored to their proper and perfect frame.\u201d<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"165190739\" id=\"p_xpQnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16\">Alma 34:16<\/a>. As we consider how merciful the Lord has been, we may be tempted to disconnect mercy from justice\u2014to think that our Heavenly Father\u2019s loving mercy alone can overcome justice. But as Alma taught, \u201cThe plan of mercy <em>could not be brought about<\/em> except an atonement should be made; therefore God himself atoneth for the sins of the world, to bring about the plan of mercy, to appease the demands of justice, that God might be a perfect, just God, and a merciful God also\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15\">Alma 42:15<\/a>; emphasis added).<\/p>\n<p data-aid=\"165190743\" id=\"p_gB29M\">All the Savior\u2019s merciful love for us could not save us. Rather, it was His suffering the very real and painful demands of justice that saves us. This does not, of course, diminish the importance of His love. Surely it was His love for us\u2014and His desire to do the will of the Father, who also loves us\u2014that caused Him to be willing to suffer (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16\">John 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/34?lang=eng&amp;id=p3#p3\">Doctrine and Covenants 34:3<\/a>). But love alone could not work.<\/p>\n<p data-aid=\"165190747\" id=\"p_nFMVN\">Sometimes we may focus so much on His love for us just the way we are that we lose sight of the fact that the way we are\u2014as natural men and women whose behavior inevitably falls short of living the commandments\u2014demands that justice be satisfied. If we misunderstand and view His love as doing away with the demands of justice, we diminish the gift of His atoning sacrifice and the suffering He did to pay the terrible price of justice. It would be discouragingly ironic if His love for us were understood to make unnecessary His atoning sacrifice. How much better it is to look squarely at the full demands of justice and to then be grateful that He loved us enough to bear those very real demands on our behalf.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"165190751\" id=\"p_r22Kb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"165190755\" id=\"p_zGNuc\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p11#p11\">Mosiah 3:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"165190759\" id=\"p_tmr8L\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25\">2 Nephi 2:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"165190763\" id=\"p_a1uoa\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p5#p5\">Mosiah 14:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"165190767\" id=\"p_rjAIn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"165190770\" id=\"p_zEWxy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"165190774\" id=\"p_mmQKC\">President M. Russell Ballard encouraged us \u201cto bear testimony of what you <em>know<\/em> and <em>believe<\/em> and what you <em>feel<\/em>\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=eng&amp;id=p30#p30\">Remember What Matters Most<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 107).<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"165190778\" id=\"p_iOcsF\">In offering this suggestion, I do not intend to offer a substitute \u201cformula\u201d for a testimony of the truthfulness of the Book of Mormon or the gospel. As Elder David A. Bednar has taught, revelation can come like \u201ca light turned on in a dark room,\u201d where the revelation is received \u201cquickly, completely and all at once.\u201d It can also come like the \u201cgradual increase of light radiating from the rising sun, \u2026 \u2018line upon line, precept upon precept\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30\">2 Nephi 28:30<\/a>). \u2026 Such communications from Heavenly Father gradually and gently \u2018distil upon [our souls] as the dews from heaven\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45#p45\">Doctrine and Covenants 121:45<\/a>]. This pattern of revelation tends to be more common than rare\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=eng&amp;id=p13#p13\">The Spirit of Revelation<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2011, 88).<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165188192",
+        "id": "note4",
+        "text": "<p data-aid=\"165190486\" id=\"p_rjBN7\">As with all temple blessings, God\u2019s bestowal of these blessings is dependent upon our keeping the covenants we make in the temple. See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p10#p10\">Overcome the World and Find Rest<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2022, 96: \u201cEach person who makes covenants \u2026 in temples\u2014and keeps them\u2014has increased access to the power of Jesus Christ.\u201d<\/p>\n<p data-aid=\"165190496\" id=\"p_z7E4D\">As another example, consider the First Presidency\u2019s statement on wearing the temple garment: \u201c<em>As you keep your covenants<\/em>, including the sacred privilege to wear the garment as instructed in the initiatory ordinances, you will have greater access to the Savior\u2019s mercy, protection, strength, and power\u201d (<cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/26-temple-recommends?lang=eng&amp;id=title31#title31\">26.3.3.2<\/a>; emphasis added).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p10#p10",
+            "text": "Overcome the World and Find Rest",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/26-temple-recommends?lang=eng&amp;id=title31#title31",
+            "text": "26.3.3.2",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165188192",
+        "id": "note5",
+        "text": "<p data-aid=\"165190506\" id=\"p_z0G4l\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p55-p57#p55\">Doctrine and Covenants 109:55\u201357<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p55-p57#p55",
+          "text": "Doctrine and Covenants 109:55\u201357",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165188141",
+        "id": "note2",
+        "text": "<p data-aid=\"165190465\" id=\"p_oX5xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25",
+          "text": "Rejoice in the Gift of Priesthood Keys",
+          "type": "cross-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165188170",
+        "id": "note3",
+        "text": "<p data-aid=\"165190476\" id=\"p_obp6B\"><cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/24?lang=eng&amp;id=title37#title37\">24.5.1<\/a>, Gospel Library.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/24?lang=eng&amp;id=title37#title37",
+          "text": "24.5.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165188228",
+        "id": "note8",
+        "text": "<p data-aid=\"165190536\" id=\"p_njVKC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p50#p50\">Doctrine and Covenants 109:50<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p50#p50",
+          "text": "Doctrine and Covenants 109:50",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165188228",
+        "id": "note9",
+        "text": "<p data-aid=\"165190546\" id=\"p_yHSzz\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p54#p54\">Doctrine and Covenants 109:54<\/a>. Joseph also asked the Lord \u201cto have mercy upon the children of Jacob, that Jerusalem, from this hour, may begin to be redeemed; and the yoke of bondage may begin to be broken off from the house of David; and the children of Judah may begin to return to the lands which thou didst give to Abraham, their father\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p62-p64#p62\">Doctrine and Covenants 109:62\u201364<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p54#p54",
+            "text": "Doctrine and Covenants 109:54",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p62-p64#p62",
+            "text": "Doctrine and Covenants 109:62\u201364",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165188203",
+        "id": "note6",
+        "text": "<p data-aid=\"165190516\" id=\"p_fcHLa\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=eng&amp;id=p_jO4lS#p_jO4lS\">The Lord Jesus Christ Will Come Again<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2024, 121\u201322: \u201c<em>Here is my promise to you: Every sincere seeker of Jesus Christ will find Him in the temple.<\/em> You will feel His mercy.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/57nelson?lang=eng&amp;id=p_jO4lS#p_jO4lS",
+          "text": "The Lord Jesus Christ Will Come Again",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165188228",
+        "id": "note7",
+        "text": "<p data-aid=\"165190526\" id=\"p_buFt1\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p34#p34\">Doctrine and Covenants 109:34<\/a>: \u201cHave mercy upon this people, and as all men sin, forgive the transgressions of thy people, and let them be blotted out forever.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p34#p34",
+          "text": "Doctrine and Covenants 109:34",
+          "type": "scripture-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "165190366",
+        "id": "note30",
+        "text": "<p data-aid=\"165190739\" id=\"p_xpQnR\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16\">Alma 34:16<\/a>. As we consider how merciful the Lord has been, we may be tempted to disconnect mercy from justice\u2014to think that our Heavenly Father\u2019s loving mercy alone can overcome justice. But as Alma taught, \u201cThe plan of mercy <em>could not be brought about<\/em> except an atonement should be made; therefore God himself atoneth for the sins of the world, to bring about the plan of mercy, to appease the demands of justice, that God might be a perfect, just God, and a merciful God also\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15\">Alma 42:15<\/a>; emphasis added).<\/p>\n<p data-aid=\"165190743\" id=\"p_gB29M\">All the Savior\u2019s merciful love for us could not save us. Rather, it was His suffering the very real and painful demands of justice that saves us. This does not, of course, diminish the importance of His love. Surely it was His love for us\u2014and His desire to do the will of the Father, who also loves us\u2014that caused Him to be willing to suffer (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16\">John 3:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/34?lang=eng&amp;id=p3#p3\">Doctrine and Covenants 34:3<\/a>). But love alone could not work.<\/p>\n<p data-aid=\"165190747\" id=\"p_nFMVN\">Sometimes we may focus so much on His love for us just the way we are that we lose sight of the fact that the way we are\u2014as natural men and women whose behavior inevitably falls short of living the commandments\u2014demands that justice be satisfied. If we misunderstand and view His love as doing away with the demands of justice, we diminish the gift of His atoning sacrifice and the suffering He did to pay the terrible price of justice. It would be discouragingly ironic if His love for us were understood to make unnecessary His atoning sacrifice. How much better it is to look squarely at the full demands of justice and to then be grateful that He loved us enough to bear those very real demands on our behalf.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16",
+            "text": "Alma 34:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15",
+            "text": "Alma 42:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16",
+            "text": "John 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/34?lang=eng&amp;id=p3#p3",
+            "text": "Doctrine and Covenants 34:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165190267",
+        "id": "note16",
+        "text": "<p data-aid=\"165190615\" id=\"p_fZvgX\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;id=p9#p9\">The Everlasting Covenant<\/a>,\u201d <cite>Liahona<\/cite>, Oct. 2022, 5. As President Nelson points out, <em>hesed<\/em> has no precise English equivalent, but its most common translation in the Old Testament is <em>mercy<\/em>. Of the 248 times the word <em>hesed<\/em> appears in the King James Version of the Old Testament, <em>mercy<\/em> is used 149 times, <em>kindness<\/em> 40 times, and <em>lovingkindness<\/em> 30 times (see Blue Letter Bible, blueletterbible.org/lexicon/h2617/kjv/wlc/0-1/).<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng&amp;id=p9#p9",
+          "text": "The Everlasting Covenant",
+          "type": "cross-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "context": "",
+        "pid": "165190421",
+        "id": "note38",
+        "text": "<p data-aid=\"165190778\" id=\"p_iOcsF\">In offering this suggestion, I do not intend to offer a substitute \u201cformula\u201d for a testimony of the truthfulness of the Book of Mormon or the gospel. As Elder David A. Bednar has taught, revelation can come like \u201ca light turned on in a dark room,\u201d where the revelation is received \u201cquickly, completely and all at once.\u201d It can also come like the \u201cgradual increase of light radiating from the rising sun, \u2026 \u2018line upon line, precept upon precept\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30\">2 Nephi 28:30<\/a>). \u2026 Such communications from Heavenly Father gradually and gently \u2018distil upon [our souls] as the dews from heaven\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45#p45\">Doctrine and Covenants 121:45<\/a>]. This pattern of revelation tends to be more common than rare\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=eng&amp;id=p13#p13\">The Spirit of Revelation<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2011, 88).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30",
+            "text": "2 Nephi 28:30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45#p45",
+            "text": "Doctrine and Covenants 121:45",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2011/04/the-spirit-of-revelation?lang=eng&amp;id=p13#p13",
+            "text": "The Spirit of Revelation",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165190267",
+        "id": "note15",
+        "text": "<p data-aid=\"165190607\" id=\"p_fkGSf\">See Bible Dictionary, \u201c<a class=\"cross-ref\" href=\"/study/scriptures/bd/tabernacle?lang=eng&amp;id=p7#p7\">Tabernacle<\/a>\u201d: \u201cThe Holy of Holies contained only one piece of furniture: the Ark of the Covenant. \u2026 Upon the ark and forming the lid was the mercy seat. It served, with the ark beneath, as an altar on which the highest atonement known to the Jewish law was effected. On it was sprinkled the blood of the sin offering of the Day of Atonement (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/lev/16?lang=eng&amp;id=p14-p15#p14\">Lev. 16:14\u201315<\/a>). The mercy seat was the place of the manifestation of God\u2019s glory (<a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/25?lang=eng&amp;id=p22#p22\">Ex. 25:22<\/a>).\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bd/tabernacle?lang=eng&amp;id=p7#p7",
+            "text": "Tabernacle",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/lev/16?lang=eng&amp;id=p14-p15#p14",
+            "text": "Lev. 16:14\u201315",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/25?lang=eng&amp;id=p22#p22",
+            "text": "Ex. 25:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note37": {
+        "marker": "37.",
+        "context": "",
+        "pid": "165190421",
+        "id": "note37",
+        "text": "<p data-aid=\"165190774\" id=\"p_mmQKC\">President M. Russell Ballard encouraged us \u201cto bear testimony of what you <em>know<\/em> and <em>believe<\/em> and what you <em>feel<\/em>\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=eng&amp;id=p30#p30\">Remember What Matters Most<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 107).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/52ballard?lang=eng&amp;id=p30#p30",
+          "text": "Remember What Matters Most",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165188241",
+        "id": "note14",
+        "text": "<p data-aid=\"165190597\" id=\"p_o9ViL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p9#p9\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d 119. President Nelson said, \u201cI invite you to ponder what the Lord\u2019s promise means for you personally.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p9#p9",
+          "text": "Rejoice in the Gift of Priesthood Keys",
+          "type": "cross-ref"
+        }]
+      },
+      "note36": {
+        "marker": "36.",
+        "context": "",
+        "pid": "165190421",
+        "id": "note36",
+        "text": "<p data-aid=\"165190770\" id=\"p_zEWxy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3",
+          "text": "Moroni 10:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165188241",
+        "id": "note13",
+        "text": "<p data-aid=\"165190587\" id=\"p_z8j9q\">In a manifestation of personalized mercy, Joseph and Oliver were told, \u201cBehold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 110:5<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p5#p5",
+          "text": "Doctrine and Covenants 110:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note35": {
+        "marker": "35.",
+        "context": "",
+        "pid": "165190410",
+        "id": "note35",
+        "text": "<p data-aid=\"165190767\" id=\"p_rjAIn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4",
+          "text": "Moroni 10:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165188241",
+        "id": "note12",
+        "text": "<p data-aid=\"165190577\" id=\"p_jWvQ2\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p7#p7\">Doctrine and Covenants 110:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p7#p7",
+          "text": "Doctrine and Covenants 110:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": "",
+        "pid": "165190388",
+        "id": "note34",
+        "text": "<p data-aid=\"165190763\" id=\"p_a1uoa\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p5#p5\">Mosiah 14:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p5#p5",
+          "text": "Mosiah 14:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165188228",
+        "id": "note11",
+        "text": "<p data-aid=\"165190568\" id=\"p_jyB1Z\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p69#p69\">Doctrine and Covenants 109:69<\/a>. The <cite>Oxford English Dictionary<\/cite> defines <em>mercy<\/em> as \u201cclemency and compassion shown to a person who is in a position of powerlessness\u201d (\u201cmercy,\u201d oed.com). Mercy, like grace, is an expression of God\u2019s love and kindness\u2014His <em>hesed<\/em>. Whereas <em>mercy<\/em> is focused on withholding a punishment we deserve, <em>grace<\/em> typically refers to God giving us blessings we do not deserve and without regard to merit.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p69#p69",
+          "text": "Doctrine and Covenants 109:69",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "165190388",
+        "id": "note33",
+        "text": "<p data-aid=\"165190759\" id=\"p_tmr8L\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25\">2 Nephi 2:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25",
+          "text": "2 Nephi 2:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165188228",
+        "id": "note10",
+        "text": "<p data-aid=\"165190556\" id=\"p_vpf3c\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p68#p68\">Doctrine and Covenants 109:68<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p68#p68",
+          "text": "Doctrine and Covenants 109:68",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "165190377",
+        "id": "note32",
+        "text": "<p data-aid=\"165190755\" id=\"p_zGNuc\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p11#p11\">Mosiah 3:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p11#p11",
+          "text": "Mosiah 3:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "165190377",
+        "id": "note31",
+        "text": "<p data-aid=\"165190751\" id=\"p_r22Kb\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11\">Alma 7:11\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11",
+          "text": "Alma 7:11\u201312",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165190280",
+        "id": "note19",
+        "text": "<p data-aid=\"165190662\" id=\"p_iKzmJ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15\">Alma 42:15<\/a>. Mercy has always been at the very center of the plan of salvation. Three advent scriptures are illustrative. Nephi concludes the very first chapter of the Book of Mormon by saying, \u201cBehold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20\">1 Nephi 1:20<\/a>).<\/p>\n<p data-aid=\"165190669\" id=\"p_lwBIR\">In <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/34?lang=eng&amp;id=p6#p6\">Exodus 34:6<\/a>, the Lord proclaims His name to Moses as \u201cThe Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth.\u201d Some have suggested that this verse may be referenced by Old Testament prophets more than any other verse in the Old Testament (see, for example, Bible Project, \u201cThe Most Quoted Verse in the Bible,\u201d bibleproject.com/podcast/most-quoted-verse-bible/).<\/p>\n<p data-aid=\"165190676\" id=\"p_ncCl5\">In the New Testament, in the book of Luke, recall that Zacharias was struck \u201cdumb, and not able to speak\u201d when he doubted the angel\u2019s promise that Elisabeth in her old age would bear a son, who would be John the Baptist (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=eng&amp;id=p20#p20\">Luke 1:20<\/a>). When Zacharias\u2019s voice was finally loosed, he was \u201cfilled with the Holy Ghost,\u201d and in the first public declaration that the time for the Messiah had finally arrived, he prophesied that the Lord would come \u201cto perform <em>the mercy<\/em> promised to our fathers, and to remember his holy covenant; the oath which he sware to our father Abraham\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/1?lang=eng&amp;id=p67%2Cp72-p73#p67\">Luke 1:67, 72\u201373<\/a>; emphasis added).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/42?lang=eng&amp;id=p15#p15",
+            "text": "Alma 42:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20",
+            "text": "1 Nephi 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/34?lang=eng&amp;id=p6#p6",
+            "text": "Exodus 34:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/1?lang=eng&amp;id=p20#p20",
+            "text": "Luke 1:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/1?lang=eng&amp;id=p67%2Cp72-p73#p67",
+            "text": "Luke 1:67, 72\u201373",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165190280",
+        "id": "note18",
+        "text": "<p data-aid=\"165190655\" id=\"p_hV33K\">President Jeffrey R. Holland once said, \u201cSurely the thing God enjoys most about being God is the thrill of being merciful, especially to those who don\u2019t expect it and often feel they don\u2019t deserve it\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=eng&amp;id=p14#p14\">The Laborers in the Vineyard<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 33). See also <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=eng&amp;id=p19#p19\">Doctrine and Covenants 128:19<\/a>: \u201cNow, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy.\u201d<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2012/04/the-laborers-in-the-vineyard?lang=eng&amp;id=p14#p14",
+            "text": "The Laborers in the Vineyard",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/128?lang=eng&amp;id=p19#p19",
+            "text": "Doctrine and Covenants 128:19",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165190280",
+        "id": "note17",
+        "text": "<p data-aid=\"165190623\" id=\"p_wh7oo\">See <cite>General Handbook<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11\">27.2<\/a>. The Savior teaches us that none of us can come unto the Father except through Him (see <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p6#p6\">John 14:6<\/a>). In the Doctrine and Covenants, the Savior provides this beautiful description of His plea for mercy on our behalf:<\/p>\n<p data-aid=\"165190631\" id=\"p_dnhK3\">\u201cListen to him who is the advocate with the Father, who is pleading your cause before him\u2014<\/p>\n<p data-aid=\"165190639\" id=\"p_pCvsE\">\u201cSaying: Father, behold the sufferings and death of him who did no sin, in whom thou wast well pleased; behold the blood of thy Son which was shed, the blood of him whom thou gavest that thyself might be glorified;<\/p>\n<p data-aid=\"165190647\" id=\"p_guWRY\">\u201cWherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3\">Doctrine and Covenants 45:3\u20135<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng&amp;id=title11#title11",
+            "text": "27.2",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=eng&amp;id=p6#p6",
+            "text": "John 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p3-p5#p3",
+            "text": "Doctrine and Covenants 45:3\u20135",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165190355",
+        "id": "note27",
+        "text": "<p data-aid=\"165190725\" id=\"p_mrbB7\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4\">Moroni 10:4<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4",
+          "text": "Moroni 10:4",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165190355",
+        "id": "note26",
+        "text": "<p data-aid=\"165190720\" id=\"p_yP0G0\">Moroni\u2019s plea is a bookend to Nephi\u2019s statement at the very beginning of the Book of Mormon, where he states his own purpose in writing on the plates: \u201cBehold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20\">1 Nephi 1:20<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20",
+          "text": "1 Nephi 1:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165190344",
+        "id": "note25",
+        "text": "<p data-aid=\"165190715\" id=\"p_eys2u\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3\">Moroni 10:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3#p3",
+          "text": "Moroni 10:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165190328",
+        "id": "note24",
+        "text": "<p data-aid=\"165190709\" id=\"p_v0H2b\">Elder Kyle S. McKay beautifully taught, \u201cJoseph\u2019s life of regular repentance gives me confidence to \u2018come boldly unto the throne of grace, that [I] may obtain mercy\u2019\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/33mckay?lang=eng&amp;id=p_iIkQy#p_iIkQy\">The Man Who Communed with Jehovah<\/a>,\u201d <cite>Liahona<\/cite>, Nov. 2024, 61).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/33mckay?lang=eng&amp;id=p_iIkQy#p_iIkQy",
+          "text": "The Man Who Communed with Jehovah",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165190328",
+        "id": "note23",
+        "text": "<p data-aid=\"165190703\" id=\"p_ecMVA\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/22?lang=eng&amp;id=p18#p18\">Alma 22:18<\/a>. Alma\u2019s prayer, \u201cO Jesus, thou Son of God, have mercy on me,\u201d leads to a flood of light and relief from pain (see <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/36?lang=eng&amp;id=p17-p20#p17\">Alma 36:17\u201320<\/a>). President Jeffrey R. Holland once said of Alma\u2019s plea: \u201cPerhaps such a prayer, though brief, is the most significant one that can be uttered in a fallen world. Whatever other prayers we offer, whatever other needs we have, all come back to that plea: \u2018O Jesus, thou Son of God, have mercy on me\u2019\u201d (<cite>Our Day Star Rising: Exploring the New Testament with Jeffrey R. Holland<\/cite> [2022], 170\u201371).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/22?lang=eng&amp;id=p18#p18",
+            "text": "Alma 22:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/36?lang=eng&amp;id=p17-p20#p17",
+            "text": "Alma 36:17\u201320",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165190328",
+        "id": "note22",
+        "text": "<p data-aid=\"165190697\" id=\"p_is7hu\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=eng&amp;id=p1-p8#p1\">Enos 1:1\u20138<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/enos/1?lang=eng&amp;id=p1-p8#p1",
+          "text": "Enos 1:1\u20138",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165190316",
+        "id": "note21",
+        "text": "<p data-aid=\"165190690\" id=\"p_vQ7Mr\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p29#p29\">Joseph Smith\u2014History 1:29<\/a>. <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p5-p6#p5\">Doctrine and Covenants 20:5\u20136<\/a> provides another description of the role of repentance in these two powerful visions. Joseph said that \u201cno one need suppose me guilty of any great or malignant sins,\u201d but he \u201cfelt condemned for [his] weaknesses and imperfections\u201d and needed forgiveness (<a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p28%2C29#p28\">Joseph Smith\u2014History 1:28, 29<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p29#p29",
+            "text": "Joseph Smith\u2014History 1:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p5-p6#p5",
+            "text": "Doctrine and Covenants 20:5\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p28%2C29#p28",
+            "text": "Joseph Smith\u2014History 1:28, 29",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165190316",
+        "id": "note20",
+        "text": "<p data-aid=\"165190683\" id=\"p_ppPi8\">Gospel Topics Essays, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics-essays/first-vision-accounts?lang=eng&amp;id=p5#p5\">First Vision Accounts<\/a>,\u201d Gospel Library; see especially <a class=\"cross-ref\" href=\"/study/manual/first-vision-accounts/1832-account?lang=eng\">the 1832 account<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/gospel-topics-essays/first-vision-accounts?lang=eng&amp;id=p5#p5",
+            "text": "First Vision Accounts",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/manual/first-vision-accounts/1832-account?lang=eng",
+            "text": "the 1832 account",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165188141",
+        "id": "note1",
+        "text": "<p data-aid=\"165190454\" id=\"p_q3MN5\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25\">Rejoice in the Gift of Priesthood Keys<\/a>,\u201d <cite>Liahona<\/cite>, May 2024, 121.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/04/57nelson?lang=eng&amp;id=p25#p25",
+          "text": "Rejoice in the Gift of Priesthood Keys",
+          "type": "cross-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165190366",
+        "id": "note29",
+        "text": "<p data-aid=\"165190735\" id=\"p_m9MSF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23\">Alma 40:23<\/a>: \u201cThe soul shall be restored to the body, and the body to the soul; yea, and every limb and joint shall be restored to its body; yea, even a hair of the head shall not be lost; but all things shall be restored to their proper and perfect frame.\u201d<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/40?lang=eng&amp;id=p23#p23",
+          "text": "Alma 40:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165190366",
+        "id": "note28",
+        "text": "<p data-aid=\"165190730\" id=\"p_kUcK7\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/morm/9?lang=eng&amp;id=p13#p13\">Mormon 9:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/morm/9?lang=eng&amp;id=p13#p13",
+          "text": "Mormon 9:13",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

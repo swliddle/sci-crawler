@@ -1,0 +1,773 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/04",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/04/35christofferson?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "5bb0568bcb4b4bbda84124dd0f3ef288",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/04/35christofferson",
+      "data-bcp47-lang": "es",
+      "data-aid": "165183368",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "6f612cebdca8479baaa356b8ccd467af"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/xrr8vcmq8qf4ol6op0c43rn4yv83niak62p3mght/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/mcnttanpzabozvpokqqhsm0d1iqjo7y2h3dc27oc-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "La adoración",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-04-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "165183368",
+      {"key": "165183368"}
+    ],
+    [
+      "165255898",
+      {"key": "165255898"}
+    ],
+    [
+      "165255927",
+      {"key": "165255927"}
+    ],
+    [
+      "165255951",
+      {"key": "165255951"}
+    ],
+    [
+      "165255974",
+      {"key": "165255974"}
+    ],
+    [
+      "165255998",
+      {"key": "165255998"}
+    ],
+    [
+      "165256021",
+      {"key": "165256021"}
+    ],
+    [
+      "165256045",
+      {"key": "165256045"}
+    ],
+    [
+      "165256069",
+      {"key": "165256069"}
+    ],
+    [
+      "165256092",
+      {"key": "165256092"}
+    ],
+    [
+      "165256115",
+      {"key": "165256115"}
+    ],
+    [
+      "165256138",
+      {"key": "165256138"}
+    ],
+    [
+      "165256160",
+      {"key": "165256160"}
+    ],
+    [
+      "165256180",
+      {"key": "165256180"}
+    ],
+    [
+      "165256199",
+      {"key": "165256199"}
+    ],
+    [
+      "165256223",
+      {"key": "165256223"}
+    ],
+    [
+      "165256245",
+      {"key": "165256245"}
+    ],
+    [
+      "165256269",
+      {"key": "165256269"}
+    ],
+    [
+      "165256292",
+      {"key": "165256292"}
+    ],
+    [
+      "165256316",
+      {"key": "165256316"}
+    ],
+    [
+      "165256340",
+      {"key": "165256340"}
+    ],
+    [
+      "165256364",
+      {"key": "165256364"}
+    ],
+    [
+      "165256388",
+      {"key": "165256388"}
+    ],
+    [
+      "165256411",
+      {"key": "165256411"}
+    ],
+    [
+      "165256436",
+      {"key": "165256436"}
+    ],
+    [
+      "165256461",
+      {"key": "165256461"}
+    ],
+    [
+      "165256486",
+      {"key": "165256486"}
+    ],
+    [
+      "165256511",
+      {"key": "165256511"}
+    ],
+    [
+      "165256537",
+      {"key": "165256537"}
+    ],
+    [
+      "165256561",
+      {"key": "165256561"}
+    ],
+    [
+      "165256586",
+      {"key": "165256586"}
+    ],
+    [
+      "165256623",
+      {"key": "165256623"}
+    ],
+    [
+      "165256654",
+      {"key": "165256654"}
+    ],
+    [
+      "165256695",
+      {"key": "165256695"}
+    ],
+    [
+      "165256721",
+      {"key": "165256721"}
+    ],
+    [
+      "165256748",
+      {"key": "165256748"}
+    ],
+    [
+      "165256774",
+      {"key": "165256774"}
+    ],
+    [
+      "165256802",
+      {"key": "165256802"}
+    ],
+    [
+      "165256829",
+      {"key": "165256829"}
+    ],
+    [
+      "165256857",
+      {"key": "165256857"}
+    ],
+    [
+      "165256885",
+      {"key": "165256885"}
+    ],
+    [
+      "165256911",
+      {"key": "165256911"}
+    ],
+    [
+      "165256939",
+      {"key": "165256939"}
+    ],
+    [
+      "165256967",
+      {"key": "165256967"}
+    ],
+    [
+      "165256992",
+      {"key": "165256992"}
+    ],
+    [
+      "165257019",
+      {"key": "165257019"}
+    ],
+    [
+      "165257046",
+      {"key": "165257046"}
+    ],
+    [
+      "165257075",
+      {"key": "165257075"}
+    ],
+    [
+      "165257104",
+      {"key": "165257104"}
+    ],
+    [
+      "165257133",
+      {"key": "165257133"}
+    ],
+    [
+      "165257162",
+      {"key": "165257162"}
+    ],
+    [
+      "165257190",
+      {"key": "165257190"}
+    ],
+    [
+      "165257219",
+      {"key": "165257219"}
+    ],
+    [
+      "165257248",
+      {"key": "165257248"}
+    ],
+    [
+      "165257276",
+      {"key": "165257276"}
+    ],
+    [
+      "165257305",
+      {"key": "165257305"}
+    ],
+    [
+      "165257335",
+      {"key": "165257335"}
+    ],
+    [
+      "165257367",
+      {"key": "165257367"}
+    ],
+    [
+      "165257381",
+      {"key": "165257381"}
+    ],
+    [
+      "165257417",
+      {"key": "165257417"}
+    ],
+    [
+      "165257448",
+      {"key": "165257448"}
+    ],
+    [
+      "165257479",
+      {"key": "165257479"}
+    ],
+    [
+      "165257510",
+      {"key": "165257510"}
+    ],
+    [
+      "165257541",
+      {"key": "165257541"}
+    ],
+    [
+      "165257572",
+      {"key": "165257572"}
+    ],
+    [
+      "165257603",
+      {"key": "165257603"}
+    ],
+    [
+      "165257635",
+      {"key": "165257635"}
+    ],
+    [
+      "165257667",
+      {"key": "165257667"}
+    ],
+    [
+      "165257699",
+      {"key": "165257699"}
+    ],
+    [
+      "165257732",
+      {"key": "165257732"}
+    ],
+    [
+      "165257764",
+      {"key": "165257764"}
+    ],
+    [
+      "165257795",
+      {"key": "165257795"}
+    ],
+    [
+      "165257827",
+      {"key": "165257827"}
+    ]
+  ],
+  "uri": "/general-conference/2025/04/35christofferson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder D. Todd Christofferson enseña acerca de las acciones que constituyen la adoración; las actitudes relacionadas con la adoración; la exclusividad de nuestra adoración; y la necesidad de emular a los Seres que adoramos.",
+          "title": "La adoración"
+        },
+        "pageSocial": {
+          "description": "El élder D. Todd Christofferson enseña acerca de las acciones que constituyen la adoración; las actitudes relacionadas con la adoración; la exclusividad de nuestra adoración; y la necesidad de emular a los Seres que adoramos.",
+          "title": "La adoración"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/xrr8vcmq8qf4ol6op0c43rn4yv83niak62p3mght/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/xrr8vcmq8qf4ol6op0c43rn4yv83niak62p3mght/full/%21192%2C/0/default\" data-video-title=\"La adoración\" data-video-description=\"El élder D. Todd Christofferson enseña acerca de las acciones que constituyen la adoración, las actitudes relacionadas con la adoración, la exclusividad de nuestra adoración y la necesidad de emular a los Seres a quienes adoramos.\" data-video-id=\"6371117989112\" data-duration=\"854100\" data-assetId=\"7gv0rvd6vif2c2rqp9wgd2l07f9kqnetnaudu39n\" data-ref-id=\"7gv0rvd6vif2c2rqp9wgd2l07f9kqnetnaudu39n\" data-duration-string=\"14:14\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6371117989112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"221698782\"/><source src=\"https://assets.churchofjesuschrist.org/7gv0rvd6vif2c2rqp9wgd2l07f9kqnetnaudu39n-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"45593487\"/><source src=\"https://assets.churchofjesuschrist.org/7gv0rvd6vif2c2rqp9wgd2l07f9kqnetnaudu39n-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"79988528\"/><source src=\"https://assets.churchofjesuschrist.org/7gv0rvd6vif2c2rqp9wgd2l07f9kqnetnaudu39n-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"221698782\"/><\/video><h1 data-aid=\"165255898\" id=\"p_vOpkv\">La adoración<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"165255927\" id=\"p_c2a82\">Por el élder D. Todd Christofferson<\/p>\n<p class=\"author-role\" data-aid=\"165255951\" id=\"p_ikiLw\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"165255974\" id=\"p_zAZWy\">¿Qué significa adorar a Dios para ustedes y para mí?<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"165255998\" id=\"p_vuZWz\">\u201cY cuando Jesús nació en Belén de Judea en los días del rey Herodes, he aquí, unos magos vinieron del oriente a Jerusalén,<\/p>\n<p data-aid=\"165256021\" id=\"p_kvY0x\">\u201cdiciendo: ¿Dónde está el Rey de los judíos que ha nacido? Porque su estrella hemos visto en el oriente y venimos a <em>adorarle<\/em>\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256045\" id=\"p_c5fj7\">Los Reyes Magos, como a veces se les llama, fueron sabios al procurar hallar y adorar al Mesías. Para ellos, adorar significaba postrarse ante Él y ofrecerle presentes de oro y preciadas especias aromáticas<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256069\" id=\"p_zSoSK\">¿Qué significa adorar a Dios para ustedes y para mí?<\/p>\n<p data-aid=\"165256092\" id=\"p_fd4jN\">Cuando pensamos en la adoración, nuestros pensamientos comúnmente se tornan a las maneras en que mostramos devoción religiosa, tanto en privado como en los servicios de la Iglesia. Al considerar la cuestión de adorar a nuestro Padre Celestial y a Su Hijo Amado, nuestro Salvador, me han acudido a la mente cuatro conceptos: <em>primero<\/em>, las acciones que constituyen nuestra adoración; <em>segundo<\/em>, las actitudes y sentimientos que son parte de nuestra adoración; <em>tercero<\/em>, la exclusividad de nuestra adoración; y <em>cuarto<\/em>, la necesidad de emular a los Santos Seres que adoramos.<\/p>\n<section id=\"sec_rZtyC\">\n<header>\n<h2 data-aid=\"165256115\" id=\"p_qWvAd\">Primero, las acciones que constituyen nuestra adoración<\/h2>\n<\/header>\n<p data-aid=\"165256138\" id=\"p_tvPiF\">Una de las formas más comunes e importantes de adoración es congregarse en un espacio consagrado para efectuar actos de devoción. El Señor dice: \u201cY para que más íntegramente te conserves sin mancha del mundo, irás a la casa de oración y ofrecerás tus sacramentos en mi día santo\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. Esa es, desde luego, nuestra principal motivación al edificar capillas; pero, si es necesario, un espacio no dedicado será suficiente, si podemos investirlo de algún grado de santidad.<\/p>\n<img alt=\"Reunión sacramental.\" id=\"img_tAq5h\" src=\"https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21500%2C/0/default\" data-img-id=\"7u7x0xionj70rvketdorup0uc0kvucar32mgi49f\" srcset=\"https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/7u7x0xionj70rvketdorup0uc0kvucar32mgi49f/full/%21640%2C/0/default 640w\" data-assetId=\"7u7x0xionj70rvketdorup0uc0kvucar32mgi49f\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Sacrament Meeting\" data-public-description=\"Members singing in a sacrament meeting in Ghana, Africa.\"/>\n<p data-aid=\"165256160\" id=\"p_z4RbN\">Lo más importante es lo que hacemos cuando nos congregamos en el día del Señor. Desde luego, nos vestimos lo mejor que podamos de acuerdo con nuestros medios, no de forma extravagante, sino modesta, de un modo que indique nuestro respeto y reverencia por la Deidad. De igual manera, nuestra conducta es reverente y respetuosa. Adoramos al unirnos en oración; adoramos al cantar himnos (no solo al oírlos, sino al cantarlos); adoramos al instruirnos y aprender unos de otros. Jesús dice \u201crecuerda que en este, el día del Señor, ofrecerás tus ofrendas [\u2018es decir, ofrendas de tiempo, de talentos o de bienes al servicio de Dios y del prójimo\u2019<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>] y tus sacramentos al Altísimo, confesando tus pecados a tus hermanos, y ante el Señor\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. No nos reunimos para entretener ni para que se nos entretenga \u2014como, por ejemplo, por medio de una banda musical\u2014, sino para recordarlo a Él y ser \u201cmás perfectamente instruidos\u201d en Su Evangelio<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256180\" id=\"p_zsAZk\">En la conferencia general más reciente, el élder Patrick Kearon nos recordó que \u201cno nos reunimos en el día de reposo simplemente para asistir a la reunión sacramental y marcarlo en una lista; nos reunimos para adorar. Existe una diferencia significativa entre las dos cosas. <em>Asistir<\/em> significa estar físicamente presente. ¡Pero <em>adorar<\/em> es alabar y venerar intencionalmente a nuestro Dios de una forma que nos transforma!\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256199\" id=\"p_jQxgz\">Dedicar nuestros días de reposo al Señor y Sus propósitos es en sí mismo un acto de adoración. Hace algunos años, el entonces élder Russell M. Nelson declaró: \u201c¿Cómo <em>santificamos<\/em> el día de reposo? En mi juventud estudiaba las listas que otras personas habían recopilado de lo que se podía y lo que <em>no<\/em> se podía hacer en el día de reposo. No fue sino hasta más adelante que aprendí de las Escrituras que mi conducta y mi actitud en el día de reposo constituían una <em>señal<\/em> entre mi Padre Celestial y yo [véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/31?lang=spa&amp;id=p13#p13\">Éxodo 31:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ezek/20?lang=spa&amp;id=p12%2Cp20#p12\">Ezequiel 20:12, 20<\/a>]. Con ese entendimiento, ya no necesité más listas de lo que se podía y no se podía hacer. Cuando tenía que tomar una decisión en cuanto a si una actividad era o no era apropiada para el día de reposo, simplemente me preguntaba a mí mismo: \u2018¿Qué <em>señal<\/em> quiero darle a Dios?\u2019\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256223\" id=\"p_irgGi\">La adoración en el día del Señor está marcada por un énfasis particular en el gran sacrificio expiatorio de Jesucristo. Celebramos apropiada y especialmente Su Resurrección en la Pascua, pero también <em>cada<\/em> semana al participar de los emblemas sacramentales de Su Expiación, incluyendo Su Resurrección. Para la persona contrita, tomar la Santa Cena es el acto central de la adoración del día de reposo.<\/p>\n<p data-aid=\"165256245\" id=\"p_k8zQd\">Adorar juntos como el \u201ccuerpo de Cristo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> tiene poder y beneficios singulares al enseñarnos, servirnos y sostenernos unos a otros. Curiosamente, un estudio reciente halló que quienes ven su vida espiritual como algo <em>enteramente privado<\/em> son menos propensos a priorizar el crecimiento espiritual, o a decir que su fe es muy importante, o a dedicar tiempo a adorar a Dios con regularidad<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>. Como comunidad de santos, nos fortalecemos unos a otros en la adoración y en la fe.<\/p>\n<p data-aid=\"165256269\" id=\"p_gozgt\">Aun así, no podemos olvidar los actos diarios de adoración en los que participamos individualmente y en el hogar. El Salvador nos recuerda: \u201cSin embargo, tus votos se ofrecerán en rectitud todos los días y a todo tiempo\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Una hermana observó sabiamente: \u201cNo imagino ninguna forma más profunda de adorar a Dios que recibir a Sus pequeñitos en nuestra vida, y cuidarlos y enseñarles el plan que Él tiene para ellos\u201d.<\/p>\n<p data-aid=\"165256292\" id=\"p_hB2u6\">Alma y Amulek enseñaron a los zoramitas, a quienes se les había prohibido entrar en sus sinagogas, que adoraran a Dios no solo una vez por semana, sino siempre y \u201cen cualquier lugar en que estuviereis\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. Hablaron sobre la oración como modo de adoración:<\/p>\n<p data-aid=\"165256316\" id=\"p_alU91\">\u201cDebéis derramar vuestra alma en vuestros aposentos, en vuestros sitios secretos y en vuestros yermos.<\/p>\n<p data-aid=\"165256340\" id=\"p_gW4zW\">\u201cSí, y cuando no estéis clamando al Señor, dejad que rebosen vuestros corazones, entregados continuamente en oración a él\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256364\" id=\"p_lsCIY\">También hablaron de escudriñar las Escrituras, de dar testimonio de Cristo, de realizar actos y servicio caritativos, de recibir al Espíritu Santo, y de vivir cada día en acción de gracias<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Consideren esa idea: \u201cVivir cada día en acción de gracias\u201d; aquello hace referencia a mi segundo concepto:<\/p>\n<\/section>\n<section id=\"sec_furPt\">\n<header>\n<h2 data-aid=\"165256388\" id=\"p_cwWJs\">Las actitudes y los sentimientos inherentes a la adoración<\/h2>\n<\/header>\n<p data-aid=\"165256411\" id=\"p_z4Ry7\">Sentir y expresar gratitud a Dios es, de hecho, lo que infunde a la adoración un sentido de gozosa renovación, en lugar de verla solo como un deber más.<\/p>\n<p data-aid=\"165256436\" id=\"p_ijABs\">La verdadera adoración significa amar a Dios y someter a Él nuestra voluntad, que es la dádiva más preciada que podemos ofrecer. Cuando se le preguntó cuál era el gran mandamiento de toda la ley, Jesús replicó: \u201cAmarás al Señor tu Dios con todo tu corazón, y con toda tu alma y con toda tu mente\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Además, lo llamó el primer mandamiento.<\/p>\n<p data-aid=\"165256461\" id=\"p_lBhot\">Esa fue la norma personal de Jesús de adoración del Padre. Su vida y Su sacrificio expiatorio fueron dedicados a la gloria del Padre. Recordamos conmovidos el desgarrador ruego de Jesús en medio de un sufrimiento y una angustia inimaginables: \u201cPadre mío, si es posible, pase de mí esta copa\u201d, aunque luego Su sumiso \u201cpero no sea como yo quiero, sino como tú\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<img alt=\"Cristo en Getsemaní\" id=\"img_n10TN\" src=\"https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21500%2C/0/default\" data-img-id=\"md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp\" srcset=\"https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp/full/%21640%2C/0/default 640w\" data-assetId=\"md37jmul5vm4bhv7d2um28urqjff9juzn1a86vzp\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Christ in Gethsemane\" data-public-description=\"Jesus Christ kneeling as He prays and atones in the Garden of Gethsemane. Christ is depicted wearing red and blue robes. He has His hands clasped and is resting them on a large rock. A small stream of light coming through the darkened and cloudy background shines on the face of Christ. Light emanates around Christ's head.\"/>\n<p data-aid=\"165256486\" id=\"p_aq1kl\">La adoración es esforzarse por seguir ese ejemplo perfecto<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. No lograremos la perfección en este curso de la noche a la mañana, pero si cada día le \u201cofrece[mos] [a Él] como sacrificio un corazón quebrantado y un espíritu contrito\u201d, Él nos bautizará de nuevo con Su Espíritu y nos llenará de Su gracia<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_e34GV\">\n<header>\n<h2 data-aid=\"165256511\" id=\"p_q2fmd\">Tercero, la exclusividad de nuestra adoración<\/h2>\n<\/header>\n<p data-aid=\"165256537\" id=\"p_a1m48\">En la primera sección de Doctrina y Convenios, el Señor pronuncia esta reprobación al mundo:<\/p>\n<p data-aid=\"165256561\" id=\"p_b9h5Y\">\u201cPorque se han desviado de mis ordenanzas y han violado mi convenio sempiterno.<\/p>\n<p data-aid=\"165256586\" id=\"p_hlcRG\">\u201cNo buscan al Señor para establecer su justicia, antes todo hombre anda por su propio camino, y en pos de la imagen de su propio dios, cuya imagen es a semejanza del mundo\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256623\" id=\"p_sxKQa\">Es bueno que recordemos el ejemplo de los tres jóvenes judíos, Ananías, Misael y Azarías, que fueron llevados cautivos a Babilonia no mucho después que Lehi y su familia salieran de Jerusalén. Un oficial de Babilonia los llamó Sadrac, Mesac y Abed\u2013nego. Más adelante, cuando los tres se negaron a adorar una imagen que el rey Nabucodonosor había levantado, este mandó que los echaran dentro de un horno de fuego ardiente, y les dijo: \u201c¿Y qué dios será el que os libre de mis manos?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"165256654\" id=\"p_tRgb8\">Recordarán su valiente respuesta:<\/p>\n<p data-aid=\"165256695\" id=\"p_f9S18\">\u201c\u2026nuestro Dios a quien servimos puede librarnos del horno de fuego ardiente; y de tus manos, oh rey, él nos librará.<\/p>\n<p data-aid=\"165256721\" id=\"p_p66yr\">\u201cY si no, has de saber [\u2026] que no serviremos a tus dioses ni tampoco adoraremos la estatua que has levantado\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<img alt=\"Sadrac, Mesac y Abed-nego salvados en el horno ardiente\" id=\"img_pKJgy\" src=\"https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21500%2C/0/default\" data-img-id=\"az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m\" srcset=\"https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m/full/%21640%2C/0/default 640w\" data-assetId=\"az5e1v14h1yiai99mnsfbzbp4kv07ffxyy4gio9m\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Three Friends in a Fire: Shadrach, Meshach and Abednego\" data-public-description=\"Three Friends in a Fire: Shadrach, Meshach and Abednego\"/>\n<p data-aid=\"165256748\" id=\"p_hwH6g\">El horno estaba tan caliente que mató a quienes los arrojaron dentro de él, pero Sadrac, Mesac y Abed\u2013nego resultaron ilesos. Entonces \u201cNabucodonosor habló y dijo: Bendito sea el Dios de ellos, de Sadrac, de Mesac y de Abed\u2013nego, que [\u2026] libró a sus siervos que confiaron en él [\u2026] y entregaron sus cuerpos antes que servir y adorar a otro dios que no fuese su Dios\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Confiaron en Jehová para su liberación, \u201cy si no\u201d, es decir, aunque Dios en Su sabiduría no impidiera su muerte, aun así se mantendrían fieles a Él.<\/p>\n<p data-aid=\"165256774\" id=\"p_gUB5r\">Cualquier cosa que tenga precedencia por encima de la adoración al Padre y al Hijo se vuelve un ídolo. Quienes rechazan a Dios como la fuente de la verdad o repudian toda responsabilidad ante Él en efecto lo sustituyen y se erigen <em>a sí mismos<\/em> como su propio dios. Aquel que antepone la lealtad a algún partido o alguna causa a la dirección divina adora a un dios falso. Incluso quienes aparentan adorar a Dios pero no guardan Sus mandamientos andan por sus propios caminos: \u201cCon sus labios me honran, pero su corazón lejos está de mí\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. El objeto de nuestra adoración es exclusivamente \u201cel único Dios verdadero, y [\u2026] Jesucristo, a quien [Él] h[a] enviado\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_ttusH\">\n<header>\n<h2 data-aid=\"165256802\" id=\"p_e43W6\">Finalmente, la necesidad de emular al Padre y al Hijo<\/h2>\n<\/header>\n<p data-aid=\"165256829\" id=\"p_hY9kI\">En última instancia, la forma en que vivimos podría ser la mejor y más genuina forma de adoración. Mostrar nuestra devoción significa emular al Padre y al Hijo, cultivando Sus atributos y carácter en nosotros mismos. Si, como dice el refrán [en inglés], la imitación es el modo más sincero de alabar, entonces podríamos decir con respecto a la Deidad que la emulación es el modo más sincero de venerar. Aquello implica un esfuerzo activo y sostenido de nuestra parte por buscar la santidad. Pero llegar a ser más semejantes a Cristo es también el resultado natural de nuestros actos de adoración. La frase del élder Kearon citada anteriormente sobre adorar \u201cde una forma que nos transforma\u201d es significativa. La verdadera adoración es transformadora.<\/p>\n<p data-aid=\"165256857\" id=\"p_oBzA3\">Esa es la belleza de la senda de los convenios; la senda de la adoración, del amor y de la lealtad a Dios. Entramos en esa senda mediante el bautismo, prometiendo tomar sobre nosotros el nombre de Cristo y guardar Sus mandamientos. Recibimos el don del Espíritu Santo, el Mensajero de la gracia del Salvador, que nos redime y nos limpia del pecado conforme nos arrepentimos<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Incluso podríamos decir que al arrepentirnos lo estamos adorando.<\/p>\n<p data-aid=\"165256885\" id=\"p_h3amr\">Luego siguen ordenanzas y convenios del sacerdocio adicionales que se hacen en la Casa del Señor, los cuales nos santifican aún más. Las ceremonias y ordenanzas del templo constituyen una forma elevada de adoración.<\/p>\n<p data-aid=\"165256911\" id=\"p_tmAR4\">El presidente Russell M. Nelson ha recalcado que \u201ctodo hombre y toda mujer que participa en las ordenanzas del sacerdocio, y que hace y guarda convenios con Dios tiene acceso directo al poder de Dios\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>. Aquel no es tan solo un poder al que recurrimos para servir y bendecir, también es el poder divino que obra en nosotros para refinarnos y purificarnos. Al andar por la senda de los convenios, \u201cse manifiesta el [santificador] poder de la divinidad\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> en nosotros.<\/p>\n<p data-aid=\"165256939\" id=\"p_lwIJL\">Ruego que, como los antiguos nefitas y lamanitas, caigamos \u201ca los pies de Jesús, y lo [adoremos]\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. Ruego que, como mandó Jesús, nos \u201cpost[remos] y ador[emos] al Padre en [Su] nombre\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Ruego que recibamos al Espíritu Santo y entreguemos el corazón a Dios, que no tengamos dioses ajenos delante de Él, y que como discípulos de Jesucristo emulemos Su carácter en nuestra propia vida. Testifico que conforme lo hagamos, experimentaremos gozo en la adoración. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"165256967\" id=\"p_tjBgS\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"165256992\" id=\"p_xhW2P\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/2?lang=spa&amp;id=p1-p2#p1\">Mateo 2:1\u20132<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"165257019\" id=\"p_mefmN\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/2?lang=spa&amp;id=p11#p11\">Mateo 2:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"165257046\" id=\"p_utMck\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 59:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"165257075\" id=\"p_rxNm1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 59:12<\/a>, nota <em>b<\/em> al pie de la página.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"165257104\" id=\"p_bjNsP\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 59:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"165257133\" id=\"p_wSNwk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p78#p78\">Doctrina y Convenios 88:78<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"165257162\" id=\"p_emqmY\">Patrick Kearon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/24kearon?lang=spa&amp;id=p_mGMBE#p_mGMBE\">Bienvenidos a la Iglesia de gozo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 36.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"165257190\" id=\"p_vkE5N\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11\">El día de reposo es una delicia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 130.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"165257219\" id=\"p_n5g20\">Véase, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p27#p12\">1 Corintios 12:12\u201327<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"165257248\" id=\"p_zjn7L\">Véase \u201cStats for Sermons: Most Christians Have Entirely Private Spiritual Lives\u201d, Barna Group, 21 de febrero de 2025, barna.com/trends/stat-download-spiritual-lives.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"165257276\" id=\"p_ncaA3\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 59:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"165257305\" id=\"p_svI14\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p38#p38\">Alma 34:38<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p10-p11#p10\">Alma 32:10\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"165257335\" id=\"p_tojL2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p26-p27#p26\">Alma 34:26\u201327<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p3-p11#p3\">Alma 33:3\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"165257367\" id=\"p_d7pwY\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p12-p23#p12\">Alma 33:12\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p8%2Cp28-p39#p8\">34:8, 28\u201339<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"165257381\" id=\"p_uRsT1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36\">Mateo 22:36-38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12?lang=spa&amp;id=p28-p30#p28\">Marcos 12:28-30<\/a>. No se preguntó a Jesús cuál era el segundo mandamiento, pero Él lo dijo por voluntad propia: \u201cY el segundo es semejante a este: Amarás a tu prójimo como a ti mismo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p39#p39\">Mateo 22:39<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12?lang=spa&amp;id=p31#p31\">Marcos 12:31<\/a>).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"165257417\" id=\"p_dqAXT\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa&amp;id=p39#p39\">Mateo 26:39<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14?lang=spa&amp;id=p36#p36\">Marcos 14:36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42\">Lucas 22:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"165257448\" id=\"p_xIDv7\">Jesucristo sencillamente dijo: \u201cSi me amáis, guardad mis mandamientos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15\">Juan 14:15<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"165257479\" id=\"p_iv0AU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20\">3 Nefi 9:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"165257510\" id=\"p_jFPch\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p15-p16#p15\">Doctrina y Convenios 1:15\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"165257541\" id=\"p_cJPni\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p15#p15\">Daniel 3:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"165257572\" id=\"p_f3VTn\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p17-p18#p17\">Daniel 3:17\u201318<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"165257603\" id=\"p_yK5D1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p28#p28\">Daniel 3:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"165257635\" id=\"p_q6Rst\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19\">José Smith\u2014Historia 1:19<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/29?lang=spa&amp;id=p13#p13\">Isaías 29:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p46#p46\">Lucas 6:46<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"165257667\" id=\"p_jbhBP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p3#p3\">Juan 17:3<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/20?lang=spa&amp;id=p2-p3#p2\">Éxodo 20:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/12?lang=spa&amp;id=p33-p35#p33\">Mosíah 12:33\u201335<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p17-p19#p17\">Doctrina y Convenios 20:17\u201319<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"165257699\" id=\"p_ttFXw\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p17#p17\">2 Nefi 31:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"165257732\" id=\"p_hcOhM\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p49#p49\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 10.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"165257764\" id=\"p_w18Sp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"165257795\" id=\"p_iAfAy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p17#p17\">3 Nefi 11:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"165257827\" id=\"p_hcfxU\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 18:40<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "165256160",
+        "id": "note4",
+        "text": "<p data-aid=\"165257075\" id=\"p_rxNm1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 59:12<\/a>, nota <em>b<\/em> al pie de la página.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12",
+          "text": "Doctrina y Convenios 59:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "165256160",
+        "id": "note5",
+        "text": "<p data-aid=\"165257104\" id=\"p_bjNsP\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12\">Doctrina y Convenios 59:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p12#p12",
+          "text": "Doctrina y Convenios 59:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "165256045",
+        "id": "note2",
+        "text": "<p data-aid=\"165257019\" id=\"p_mefmN\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/2?lang=spa&amp;id=p11#p11\">Mateo 2:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/2?lang=spa&amp;id=p11#p11",
+          "text": "Mateo 2:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "165256138",
+        "id": "note3",
+        "text": "<p data-aid=\"165257046\" id=\"p_utMck\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 59:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p9#p9",
+          "text": "Doctrina y Convenios 59:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "165256199",
+        "id": "note8",
+        "text": "<p data-aid=\"165257190\" id=\"p_vkE5N\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11\">El día de reposo es una delicia<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2015, pág. 130.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=spa&amp;id=p11#p11",
+          "text": "El día de reposo es una delicia",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "165256245",
+        "id": "note9",
+        "text": "<p data-aid=\"165257219\" id=\"p_n5g20\">Véase, por ejemplo, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p27#p12\">1 Corintios 12:12\u201327<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p12-p27#p12",
+          "text": "1 Corintios 12:12\u201327",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "165256160",
+        "id": "note6",
+        "text": "<p data-aid=\"165257133\" id=\"p_wSNwk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p78#p78\">Doctrina y Convenios 88:78<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p78#p78",
+          "text": "Doctrina y Convenios 88:78",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "165256180",
+        "id": "note7",
+        "text": "<p data-aid=\"165257162\" id=\"p_emqmY\">Patrick Kearon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/24kearon?lang=spa&amp;id=p_mGMBE#p_mGMBE\">Bienvenidos a la Iglesia de gozo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2024, pág. 36.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/24kearon?lang=spa&amp;id=p_mGMBE#p_mGMBE",
+          "text": "Bienvenidos a la Iglesia de gozo",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "165256461",
+        "id": "note16",
+        "text": "<p data-aid=\"165257417\" id=\"p_dqAXT\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/26?lang=spa&amp;id=p39#p39\">Mateo 26:39<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/14?lang=spa&amp;id=p36#p36\">Marcos 14:36<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42\">Lucas 22:42<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/26?lang=spa&amp;id=p39#p39",
+            "text": "Mateo 26:39",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/14?lang=spa&amp;id=p36#p36",
+            "text": "Marcos 14:36",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/22?lang=spa&amp;id=p42#p42",
+            "text": "Lucas 22:42",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "165256436",
+        "id": "note15",
+        "text": "<p data-aid=\"165257381\" id=\"p_uRsT1\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36\">Mateo 22:36-38<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12?lang=spa&amp;id=p28-p30#p28\">Marcos 12:28-30<\/a>. No se preguntó a Jesús cuál era el segundo mandamiento, pero Él lo dijo por voluntad propia: \u201cY el segundo es semejante a este: Amarás a tu prójimo como a ti mismo\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p39#p39\">Mateo 22:39<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/12?lang=spa&amp;id=p31#p31\">Marcos 12:31<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p38#p36",
+            "text": "Mateo 22:36-38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/12?lang=spa&amp;id=p28-p30#p28",
+            "text": "Marcos 12:28-30",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p39#p39",
+            "text": "Mateo 22:39",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/mark/12?lang=spa&amp;id=p31#p31",
+            "text": "Marcos 12:31",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "165256364",
+        "id": "note14",
+        "text": "<p data-aid=\"165257367\" id=\"p_d7pwY\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p12-p23#p12\">Alma 33:12\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p8%2Cp28-p39#p8\">34:8, 28\u201339<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/33?lang=spa&amp;id=p12-p23#p12",
+            "text": "Alma 33:12\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p8%2Cp28-p39#p8",
+            "text": "34:8, 28\u201339",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "165256340",
+        "id": "note13",
+        "text": "<p data-aid=\"165257335\" id=\"p_tojL2\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p26-p27#p26\">Alma 34:26\u201327<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p3-p11#p3\">Alma 33:3\u201311<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p26-p27#p26",
+            "text": "Alma 34:26\u201327",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/33?lang=spa&amp;id=p3-p11#p3",
+            "text": "Alma 33:3\u201311",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "165256292",
+        "id": "note12",
+        "text": "<p data-aid=\"165257305\" id=\"p_svI14\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p38#p38\">Alma 34:38<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p10-p11#p10\">Alma 32:10\u201311<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p38#p38",
+            "text": "Alma 34:38",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p10-p11#p10",
+            "text": "Alma 32:10\u201311",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "165256269",
+        "id": "note11",
+        "text": "<p data-aid=\"165257276\" id=\"p_ncaA3\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 59:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p11#p11",
+          "text": "Doctrina y Convenios 59:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "165256245",
+        "id": "note10",
+        "text": "<p data-aid=\"165257248\" id=\"p_zjn7L\">Véase \u201cStats for Sermons: Most Christians Have Entirely Private Spiritual Lives\u201d, Barna Group, 21 de febrero de 2025, barna.com/trends/stat-download-spiritual-lives.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "165256586",
+        "id": "note19",
+        "text": "<p data-aid=\"165257510\" id=\"p_jFPch\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p15-p16#p15\">Doctrina y Convenios 1:15\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p15-p16#p15",
+          "text": "Doctrina y Convenios 1:15\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "165256486",
+        "id": "note18",
+        "text": "<p data-aid=\"165257479\" id=\"p_iv0AU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20\">3 Nefi 9:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20",
+          "text": "3 Nefi 9:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "165256486",
+        "id": "note17",
+        "text": "<p data-aid=\"165257448\" id=\"p_xIDv7\">Jesucristo sencillamente dijo: \u201cSi me amáis, guardad mis mandamientos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15\">Juan 14:15<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15",
+          "text": "Juan 14:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "165256911",
+        "id": "note27",
+        "text": "<p data-aid=\"165257764\" id=\"p_w18Sp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19\">Doctrina y Convenios 84:19\u201321<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p19-p21#p19",
+          "text": "Doctrina y Convenios 84:19\u201321",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "165256911",
+        "id": "note26",
+        "text": "<p data-aid=\"165257732\" id=\"p_hcOhM\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p49#p49\">El convenio sempiterno<\/a>\u201d, <cite>Liahona<\/cite>, octubre de 2022, pág. 10.<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2022/10/04-the-everlasting-covenant?lang=spa&amp;id=p49#p49",
+          "text": "El convenio sempiterno",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "165256857",
+        "id": "note25",
+        "text": "<p data-aid=\"165257699\" id=\"p_ttFXw\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p17#p17\">2 Nefi 31:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p17#p17",
+          "text": "2 Nefi 31:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "165256774",
+        "id": "note24",
+        "text": "<p data-aid=\"165257667\" id=\"p_jbhBP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p3#p3\">Juan 17:3<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ex/20?lang=spa&amp;id=p2-p3#p2\">Éxodo 20:2\u20133<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/12?lang=spa&amp;id=p33-p35#p33\">Mosíah 12:33\u201335<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p17-p19#p17\">Doctrina y Convenios 20:17\u201319<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p3#p3",
+            "text": "Juan 17:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ex/20?lang=spa&amp;id=p2-p3#p2",
+            "text": "Éxodo 20:2\u20133",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/12?lang=spa&amp;id=p33-p35#p33",
+            "text": "Mosíah 12:33\u201335",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p17-p19#p17",
+            "text": "Doctrina y Convenios 20:17\u201319",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "165256774",
+        "id": "note23",
+        "text": "<p data-aid=\"165257635\" id=\"p_q6Rst\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19\">José Smith\u2014Historia 1:19<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/29?lang=spa&amp;id=p13#p13\">Isaías 29:13<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p46#p46\">Lucas 6:46<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p19#p19",
+            "text": "José Smith\u2014Historia 1:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/29?lang=spa&amp;id=p13#p13",
+            "text": "Isaías 29:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/6?lang=spa&amp;id=p46#p46",
+            "text": "Lucas 6:46",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "165256748",
+        "id": "note22",
+        "text": "<p data-aid=\"165257603\" id=\"p_yK5D1\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p28#p28\">Daniel 3:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/3?lang=spa&amp;id=p28#p28",
+          "text": "Daniel 3:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "165256721",
+        "id": "note21",
+        "text": "<p data-aid=\"165257572\" id=\"p_f3VTn\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p17-p18#p17\">Daniel 3:17\u201318<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/3?lang=spa&amp;id=p17-p18#p17",
+          "text": "Daniel 3:17\u201318",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "165256623",
+        "id": "note20",
+        "text": "<p data-aid=\"165257541\" id=\"p_cJPni\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/dan/3?lang=spa&amp;id=p15#p15\">Daniel 3:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/dan/3?lang=spa&amp;id=p15#p15",
+          "text": "Daniel 3:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "165256021",
+        "id": "note1",
+        "text": "<p data-aid=\"165256992\" id=\"p_xhW2P\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/2?lang=spa&amp;id=p1-p2#p1\">Mateo 2:1\u20132<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/2?lang=spa&amp;id=p1-p2#p1",
+          "text": "Mateo 2:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "165256939",
+        "id": "note29",
+        "text": "<p data-aid=\"165257827\" id=\"p_hcfxU\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 18:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/18?lang=spa&amp;id=p40#p40",
+          "text": "Doctrina y Convenios 18:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "165256939",
+        "id": "note28",
+        "text": "<p data-aid=\"165257795\" id=\"p_iAfAy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p17#p17\">3 Nefi 11:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p17#p17",
+          "text": "3 Nefi 11:17",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}
