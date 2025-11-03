@@ -2792,7 +2792,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Matthew",
         "lastNames": "Cowley",
         "id": 1322,
@@ -4096,7 +4096,7 @@
         "suffix": ""
     },
     {
-        "collision": false,
+        "collision": true,
         "givenNames": "Chi Hong (Sam)",
         "lastNames": "Wong",
         "id": 1486,
@@ -5062,5 +5062,85 @@
         "id": 1607,
         "suffix": "",
         "abbr": "SRV"
+    },
+    {
+        "collision": false,
+        "givenNames": "Steven C.",
+        "lastNames": "Barlow",
+        "id": 1608,
+        "suffix": "",
+        "abbr": "SCB"
+    },
+    {
+        "collision": true,
+        "givenNames": "Chad H",
+        "lastNames": "Webb",
+        "id": 1609,
+        "suffix": "",
+        "abbr": "ChW"
+    },
+    {
+        "collision": false,
+        "givenNames": "B. Corey",
+        "lastNames": "Cuvelier",
+        "id": 1610,
+        "suffix": "",
+        "abbr": "BCC"
+    },
+    {
+        "collision": false,
+        "givenNames": "John D.",
+        "lastNames": "Amos",
+        "id": 1611,
+        "suffix": "",
+        "abbr": "JDA"
+    },
+    {
+        "collision": false,
+        "givenNames": "Ozani",
+        "lastNames": "Farias",
+        "id": 1612,
+        "suffix": "",
+        "abbr": "OF"
+    },
+    {
+        "collision": false,
+        "givenNames": "James E.",
+        "lastNames": "Evanson",
+        "id": 1613,
+        "suffix": "",
+        "abbr": "JEE"
+    },
+    {
+        "collision": false,
+        "givenNames": "Brik V.",
+        "lastNames": "Eyre",
+        "id": 1614,
+        "suffix": "",
+        "abbr": "BVE"
+    },
+    {
+        "collision": false,
+        "givenNames": "Kevin G.",
+        "lastNames": "Brown",
+        "id": 1615,
+        "suffix": "",
+        "abbr": "KGB"
+    },
+    {
+        "collision": false,
+        "givenNames": "Ronald M.",
+        "lastNames": "Barcellos",
+        "id": 1616,
+        "suffix": "",
+        "abbr": "RMB"
+    },
+    {
+        "collision": true,
+        "givenNames": "Michael",
+        "lastNames": "Cziesla",
+        "id": 1617,
+        "suffix": "",
+        "abbr": "MCz"
     }
 ]

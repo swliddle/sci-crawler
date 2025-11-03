@@ -1,0 +1,572 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/12stevenson?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "3f998da6373d45fe83508aa28aeecbe2",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/12stevenson",
+      "data-bcp47-lang": "en",
+      "data-aid": "168178983",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "2",
+      "data-orig-id": "3f998da6373d45fe83508aa28aeecbe2"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/kf8r8q4s4huj7bwsybv6uq1nkmxntxzj8duor0r7/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/q3xnzwtyox9ne5jkpb6l9rtnrqrsxjgi9w2jgpja-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "Blessed Are the Peacemakers",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168178983",
+      {"key": "168178983"}
+    ],
+    [
+      "168178985",
+      {"key": "168178985"}
+    ],
+    [
+      "168178986",
+      {"key": "168178986"}
+    ],
+    [
+      "168178989",
+      {"key": "168178989"}
+    ],
+    [
+      "168178991",
+      {"key": "168178991"}
+    ],
+    [
+      "168178993",
+      {"key": "168178993"}
+    ],
+    [
+      "168178995",
+      {"key": "168178995"}
+    ],
+    [
+      "168178998",
+      {"key": "168178998"}
+    ],
+    [
+      "168179001",
+      {"key": "168179001"}
+    ],
+    [
+      "168179004",
+      {"key": "168179004"}
+    ],
+    [
+      "168179007",
+      {"key": "168179007"}
+    ],
+    [
+      "168179010",
+      {"key": "168179010"}
+    ],
+    [
+      "168179013",
+      {"key": "168179013"}
+    ],
+    [
+      "168179017",
+      {"key": "168179017"}
+    ],
+    [
+      "168179021",
+      {"key": "168179021"}
+    ],
+    [
+      "168179024",
+      {"key": "168179024"}
+    ],
+    [
+      "168179026",
+      {"key": "168179026"}
+    ],
+    [
+      "168179029",
+      {"key": "168179029"}
+    ],
+    [
+      "168179033",
+      {"key": "168179033"}
+    ],
+    [
+      "168179036",
+      {"key": "168179036"}
+    ],
+    [
+      "168179039",
+      {"key": "168179039"}
+    ],
+    [
+      "168179042",
+      {"key": "168179042"}
+    ],
+    [
+      "168179045",
+      {"key": "168179045"}
+    ],
+    [
+      "168179050",
+      {"key": "168179050"}
+    ],
+    [
+      "168179053",
+      {"key": "168179053"}
+    ],
+    [
+      "168179055",
+      {"key": "168179055"}
+    ],
+    [
+      "168179058",
+      {"key": "168179058"}
+    ],
+    [
+      "168179061",
+      {"key": "168179061"}
+    ],
+    [
+      "168179065",
+      {"key": "168179065"}
+    ],
+    [
+      "168179067",
+      {"key": "168179067"}
+    ],
+    [
+      "168179071",
+      {"key": "168179071"}
+    ],
+    [
+      "168179074",
+      {"key": "168179074"}
+    ],
+    [
+      "168179076",
+      {"key": "168179076"}
+    ],
+    [
+      "168179079",
+      {"key": "168179079"}
+    ],
+    [
+      "168179082",
+      {"key": "168179082"}
+    ],
+    [
+      "168179083",
+      {"key": "168179083"}
+    ],
+    [
+      "168179088",
+      {"key": "168179088"}
+    ],
+    [
+      "168179090",
+      {"key": "168179090"}
+    ],
+    [
+      "168179094",
+      {"key": "168179094"}
+    ],
+    [
+      "168179097",
+      {"key": "168179097"}
+    ],
+    [
+      "168179099",
+      {"key": "168179099"}
+    ],
+    [
+      "168179101",
+      {"key": "168179101"}
+    ],
+    [
+      "168179103",
+      {"key": "168179103"}
+    ],
+    [
+      "168179107",
+      {"key": "168179107"}
+    ],
+    [
+      "168179110",
+      {"key": "168179110"}
+    ],
+    [
+      "168179113",
+      {"key": "168179113"}
+    ],
+    [
+      "168179117",
+      {"key": "168179117"}
+    ],
+    [
+      "168179119",
+      {"key": "168179119"}
+    ],
+    [
+      "168179122",
+      {"key": "168179122"}
+    ],
+    [
+      "168179126",
+      {"key": "168179126"}
+    ],
+    [
+      "168179129",
+      {"key": "168179129"}
+    ],
+    [
+      "168179132",
+      {"key": "168179132"}
+    ],
+    [
+      "168179135",
+      {"key": "168179135"}
+    ],
+    [
+      "168179138",
+      {"key": "168179138"}
+    ],
+    [
+      "168179141",
+      {"key": "168179141"}
+    ],
+    [
+      "168179144",
+      {"key": "168179144"}
+    ],
+    [
+      "168179146",
+      {"key": "168179146"}
+    ],
+    [
+      "168179149",
+      {"key": "168179149"}
+    ],
+    [
+      "168179151",
+      {"key": "168179151"}
+    ],
+    [
+      "168179156",
+      {"key": "168179156"}
+    ],
+    [
+      "168179160",
+      {"key": "168179160"}
+    ],
+    [
+      "168179162",
+      {"key": "168179162"}
+    ],
+    [
+      "168179165",
+      {"key": "168179165"}
+    ],
+    [
+      "168179167",
+      {"key": "168179167"}
+    ],
+    [
+      "168179172",
+      {"key": "168179172"}
+    ],
+    [
+      "168179175",
+      {"key": "168179175"}
+    ],
+    [
+      "168179178",
+      {"key": "168179178"}
+    ],
+    [
+      "168179181",
+      {"key": "168179181"}
+    ],
+    [
+      "168179183",
+      {"key": "168179183"}
+    ],
+    [
+      "168179185",
+      {"key": "168179185"}
+    ],
+    [
+      "168179188",
+      {"key": "168179188"}
+    ],
+    [
+      "168179190",
+      {"key": "168179190"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/12stevenson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Stevenson teaches us to follow the Savior\u2019s admonition to be peacemakers\u2014in our hearts, at home, and in our communities. ",
+          "title": "Blessed Are the Peacemakers"
+        },
+        "pageSocial": {
+          "description": "Elder Stevenson teaches us to follow the Savior\u2019s admonition to be peacemakers\u2014in our hearts, at home, and in our communities. ",
+          "title": "Blessed Are the Peacemakers"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/kf8r8q4s4huj7bwsybv6uq1nkmxntxzj8duor0r7/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/kf8r8q4s4huj7bwsybv6uq1nkmxntxzj8duor0r7/full/%21192%2C/0/default\" data-video-title=\"Blessed Are the Peacemakers\" data-video-description=\"Elder Stevenson teaches us to follow the Savior\u2019s admonition to be peacemakers\u2014in our hearts, at home, and in our communities.\" data-video-id=\"6382039116112\" data-duration=\"795561\" data-assetId=\"puoe346wqnbcamoklz3u2rlvkxkrscgjefgefbrq\" data-ref-id=\"puoe346wqnbcamoklz3u2rlvkxkrscgjefgefbrq\" data-duration-string=\"13:15\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382039116112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253177761\"/><source src=\"https://assets.churchofjesuschrist.org/puoe346wqnbcamoklz3u2rlvkxkrscgjefgefbrq-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"53506224\"/><source src=\"https://assets.churchofjesuschrist.org/puoe346wqnbcamoklz3u2rlvkxkrscgjefgefbrq-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"100476597\"/><source src=\"https://assets.churchofjesuschrist.org/puoe346wqnbcamoklz3u2rlvkxkrscgjefgefbrq-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"253177761\"/><\/video><h1 data-aid=\"168178985\" id=\"p_b9Bmw\">Blessed Are the Peacemakers<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168178986\" id=\"p_kyK8l\">By Elder Gary E. Stevenson<\/p>\n<p class=\"author-role\" data-aid=\"168178989\" id=\"p_fnsuF\">Of the Quorum of the Twelve Apostles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168178991\" id=\"p_dmTcz\">Peacemaking still begins in the most basic place\u2014in our hearts. Then in homes and families.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168178993\" id=\"p_rfBkx\">Welcome to general conference. How grateful we are to be gathered.<\/p>\n<p data-aid=\"168178995\" id=\"p_emxHH\">As we anticipate these conference proceedings, we are acutely aware of the weeks leading up to it. We realize that our hearts are mourning loss, and some feel uncertainty caused by violence or tragedy throughout the world. Even devout people gathered in sacred spaces\u2014including our hallowed chapel in Michigan\u2014have lost their lives or loved ones. I speak from my heart, realizing that many of your hearts are burdened by what you, your families, and our world have undergone since last general conference.<\/p>\n<section id=\"sec_y023R\">\n<header>\n<h2 data-aid=\"168178998\" id=\"p_k3VYz\">Capernaum in Galilee<\/h2>\n<\/header>\n<p data-aid=\"168179001\" id=\"p_mNfY0\">Imagine with me you are a young teenager in Capernaum, near the Sea of Galilee, during the ministry of Jesus Christ. Word spreads of a rabbi\u2014a teacher\u2014whose message draws multitudes. Neighbors plan to travel to a mount overlooking the sea to hear Him.<\/p>\n<p data-aid=\"168179004\" id=\"p_wZHHR\">You join others walking the dusty roads of Galilee. Upon your arrival, the large crowd gathered to hear this Jesus surprises you. Some quietly whisper, \u201cMessiah.\u201d<\/p>\n<p data-aid=\"168179007\" id=\"p_dcVJH\">You listen. His words touch your heart. On the long walk home, you choose quiet over conversation.<\/p>\n<p data-aid=\"168179010\" id=\"p_ogPsk\">You ponder wondrous things\u2014things that transcend even the law of Moses. He spoke of turning the other cheek and loving your enemies.<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> He promised, \u201cBlessed are the peacemakers: for they shall be called the children of God.\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a><\/p>\n<p data-aid=\"168179013\" id=\"p_aoPez\">In your reality, as you feel the weight of difficult days\u2014uncertainty and fear\u2014peace feels distant.<\/p>\n<p data-aid=\"168179017\" id=\"p_bBoiS\">Your pace quickens; you arrive home breathless. Your family gathers; your father asks, \u201cTell us what you heard and feel.\u201d<\/p>\n<p data-aid=\"168179021\" id=\"p_gGZUn\">You share that He invited you to let your light shine before others, to seek righteousness even when persecuted.<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> Your voice catches as you repeat, \u201cBlessed are the peacemakers: for they shall be called the children of God.\u201d<\/p>\n<p data-aid=\"168179024\" id=\"p_rSLp2\">You ask, \u201cCan I truly become a peacemaker when the world is in commotion, when my heart is filled with fear, and when peace seems so far away?\u201d<\/p>\n<p data-aid=\"168179026\" id=\"p_dIulA\">Your father glances at your mother and answers gently, \u201cYes. We begin in the most basic place\u2014in our hearts. Then in our homes and families. As we practice there, peacemaking can spread to our streets and villages.\u201d<\/p>\n<\/section>\n<section id=\"sec_mkq1l\">\n<header>\n<h2 data-aid=\"168179029\" id=\"p_i0dNm\">Fast Forward 2,000 Years<\/h2>\n<\/header>\n<p data-aid=\"168179033\" id=\"p_kaVqH\">Fast forward 2,000 years. No need to imagine\u2014this is our reality. Although the pressures felt by today\u2019s rising generation differ from those of the young person in Galilee\u2014polarization, secularization, retaliation, road rage, outrage, and social media pile-ons\u2014both generations face cultures of conflict and tension.<\/p>\n<p data-aid=\"168179036\" id=\"p_tuVpy\">Gratefully, our young men and women are similarly drawn to their Sermon-on-the-Mount moments: seminary, For the Strength of Youth conferences, and <em>Come, Follow Me<\/em>. Here they receive the same enduring invitations from the Lord: to let their light shine before others,<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> to seek righteousness even when persecuted,<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> and to love their enemies.<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/p>\n<p data-aid=\"168179039\" id=\"p_kXbYi\">They also receive encouraging words from living prophets of the Restoration: \u201cPeacemakers needed.\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> Disagree without being disagreeable.<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> Replace contention and pride with forgiveness and love.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> Build bridges of cooperation and understanding, not walls of prejudice or segregation.<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> And the same promise: \u201cBlessed are the peacemakers: for they shall be called the children of God.\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a><\/p>\n<p data-aid=\"168179042\" id=\"p_m12kz\">The hearts of today\u2019s rising generation are filled with a testimony of Jesus Christ and a hope for the future. Yet they too ask, \u201cCan I truly become a peacemaker when the world is in commotion, my heart is filled with fear, and peace seems so far away?\u201d<\/p>\n<p data-aid=\"168179045\" id=\"p_uA26T\">The resounding response is once again yes! We embrace the words of the Savior: \u201cPeace I leave with you, my peace I give unto you. \u2026 Let not your heart be troubled, neither let it be afraid.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"168179050\" id=\"p_h5GSW\">Today, peacemaking still begins in the most basic place\u2014in our hearts. Then in homes and families. As we practice there, peacemaking will spread into our neighborhoods and communities.<\/p>\n<p data-aid=\"168179053\" id=\"p_zDI9T\">Let\u2019s further consider these three places where a modern-day Latter-day Saint makes peace.<\/p>\n<\/section>\n<section id=\"sec_dtJkM\">\n<header>\n<h2 data-aid=\"168179055\" id=\"p_mzYBK\">Peacemaking in Our Hearts<\/h2>\n<\/header>\n<p data-aid=\"168179058\" id=\"p_sROot\">The first is in our hearts. A visible element of Christ\u2019s ministry demonstrates how children were drawn to Him. Therein lies a clue. Looking into the pure and innocent peacemaking heart of a child can be an inspiration for our hearts. Here is how several Primary-age children answered \u201cWhat does it look like to be a peacemaker?\u201d<\/p>\n<p data-aid=\"168179061\" id=\"p_tzgFP\">I share their responses straight from their hearts! Luke said, \u201cAlways help others.\u201d Grace shared how important it is to forgive each other, even when it doesn\u2019t feel fair. Anna said, \u201cI saw someone who didn\u2019t have anyone to play with, so I went to play with her.\u201d Lindy reflected that to be a peacemaker is to help others. \u201cThen you pass it on. It will just keep going on and on.\u201d Liam said, \u201cDon\u2019t be mean to people, even if they are mean to you.\u201d London exclaimed, \u201cIf someone teases or is mean to you, you say, \u2018Please stop.\u2019\u201d Trevor observed, \u201cIf there is one donut left and you all want it, you share.\u201d<\/p>\n<p data-aid=\"168179065\" id=\"p_e0kzq\">These children\u2019s responses are evidence to me that we are all born with divine inclinations toward kindness and compassion. The gospel of Jesus Christ nurtures and knits these divine traits, including peacemaking, into our hearts, blessing us in this life and the next.<\/p>\n<\/section>\n<section id=\"sec_yRmTD\">\n<header>\n<h2 data-aid=\"168179067\" id=\"p_rPs03\">Peacemaking at Home<\/h2>\n<\/header>\n<p data-aid=\"168179071\" id=\"p_r0d69\">Second, building peacemaking in our homes by using the Lord\u2019s pattern to influence our relationships with one another: persuasion, long-suffering, gentleness, kindness, meekness, and love unfeigned.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"168179074\" id=\"p_hPsuq\">Here is an inspiring story that demonstrates how one family made peacemaking a family affair, putting these principles into practice.<\/p>\n<p data-aid=\"168179076\" id=\"p_jplkX\">Children in this family were struggling in their relationship with an adult whose demeanor was often grumpy, condescending, and curt. The children, hurt and frustrated, began to wonder if the only way forward was to mirror that same mean-spirited behavior.<\/p>\n<p data-aid=\"168179079\" id=\"p_pvNRf\">One evening the family spoke openly together about the tension and the toll it was taking. And then an idea emerged\u2014not just a solution but an experiment.<\/p>\n<p data-aid=\"168179082\" id=\"p_lpMaS\">Instead of responding with silence or retaliation, the children would do something unexpected: they would respond with kindness. Not just polite restraint but a deliberate, heartfelt outpouring of kind words and thoughtful deeds, no matter how they were treated in return. All agreed to try it for a set time, after which they\u2019d regroup and reflect.<\/p>\n<p data-aid=\"168179083\" id=\"p_q71uv\">Though some were hesitant at first, they committed to the plan with genuine hearts.<\/p>\n<p data-aid=\"168179088\" id=\"p_n7y2x\">What happened next was nothing short of remarkable.<\/p>\n<p data-aid=\"168179090\" id=\"p_meoXQ\">The cold exchanges began to thaw. Smiles replaced scowls. The adult, once distant and harsh, began to change. The children, empowered by their choice to lead with love, found joy in the transformation. The change was so profound that the planned follow-up meeting was never needed. Kindness had done its quiet work.<\/p>\n<p data-aid=\"168179094\" id=\"p_os8wV\">In time, true bonds of friendship were formed, lifting everyone. To be peacemakers, we forgive others and deliberately build others up instead of tearing them down.<\/p>\n<\/section>\n<section id=\"sec_jzaS1\">\n<header>\n<h2 data-aid=\"168179097\" id=\"p_mjbAu\">Peacemaking in Our Communities<\/h2>\n<\/header>\n<p data-aid=\"168179099\" id=\"p_s4Nqi\">Third, peacemaking in our communities. In the troubled years of World War II, Elder John A. Widtsoe taught: \u201cThe only way to build a peaceful community is to build men and women who are lovers and makers of peace. Each individual, by that doctrine of Christ \u2026 holds in his hands the peace of the [whole] world.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<p data-aid=\"168179101\" id=\"p_obkQ9\">The following story beautifully illustrates that precept.<\/p>\n<p data-aid=\"168179103\" id=\"p_iSDep\">Several years ago, two men\u2014a Muslim imam and a Christian pastor from Nigeria\u2014stood on opposite sides of a painful religious divide. Each had suffered deeply. And yet, through the healing power of forgiveness, they chose to walk a path together.<\/p>\n<img alt=\"Pastor James Wuye and Imam Muhammad Ashafa\" id=\"img_w4fR4\" src=\"https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21500%2C/0/default\" data-img-id=\"z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw\" srcset=\"https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw/full/%21640%2C/0/default 640w\" data-assetId=\"z9qdlvc83dvvtmsh70fuz4ba7qvysnfhc8pfzvjw\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Imam Muhammad Nurayn Ashafa and Pastor James Movel Wuye\" data-public-description=\"Imam Muhammad Nurayn Ashafa and Pastor James Movel Wuye\"/>\n<p data-aid=\"168179107\" id=\"p_iX6CW\">Imam Muhammad Ashafa and Pastor James Wuye became friends and unlikely partners in peace. Together they established a center for interfaith mediation. They now teach others to replace hatred with hope. As two-time nominees for the Nobel Peace Prize, they recently became inaugural recipients of the Commonwealth Peace Prize.<\/p>\n<p data-aid=\"168179110\" id=\"p_utJih\">These former enemies now travel side by side rebuilding what was broken, living witnesses that the Savior\u2019s invitation to be peacemakers is not only possible\u2014it is powerful.<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a><\/p>\n<p data-aid=\"168179113\" id=\"p_mVZFN\">When we come to know the glory of God, then we \u201cwill not have a mind to injure one another, but to live peaceably.\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a> In our congregations and our communities, may we choose to see one another as children of God.<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"168179117\" id=\"p_yobtw\">A One-Week Peacemaker Plan<\/h2>\n<\/header>\n<p data-aid=\"168179119\" id=\"p_eZFoh\">In summary, I offer an invitation. Peacemaking demands action\u2014what might that be, for each of us, starting tomorrow? Would you consider a one-week, three-step peacemaker plan?<\/p>\n<ol class=\"decimal\" start=\"1\">\n<li data-marker=\"1.\">\n<p data-aid=\"168179122\" id=\"p_fZnKn\">A contention-free home zone: When contention starts, pause and reboot with kind words and deeds.<\/p>\n<\/li>\n<li data-marker=\"2.\">\n<p data-aid=\"168179126\" id=\"p_hhsUf\">Digital bridge building: Before posting, replying, or commenting online, ask, Will this build a bridge? If not, stop. Do not send. Instead, share goodness. Publish peace in the place of hate.<\/p>\n<\/li>\n<li data-marker=\"3.\">\n<p data-aid=\"168179129\" id=\"p_sPZ9G\">Repair and reunite: Each family member could seek out a strained relationship in order to apologize, minister, repair, and reunite.<\/p>\n<\/li>\n<\/ol>\n<\/section>\n<section id=\"sec_l8eR6\">\n<header>\n<h2 data-aid=\"168179132\" id=\"p_jzDWY\">Conclusion<\/h2>\n<\/header>\n<p data-aid=\"168179135\" id=\"p_wFdfH\">It has been a few months since I felt an undeniable impression leading to this message: \u201cBlessed Are the Peacemakers.\u201d In conclusion, may I share impressions that have pressed upon my heart over this time.<\/p>\n<p data-aid=\"168179138\" id=\"p_tyj40\">Peacemaking is a Christlike attribute. Peacemakers are sometimes labeled naive or weak\u2014from all sides. Yet, to be a peacemaker is not to be weak but to be strong in a way that the world may not understand. Peacemaking requires courage and compromise but does not require sacrifice of principle. Peacemaking is to lead with an open heart, not a closed mind. It is to approach one another with extended hands, not clenched fists. Peacemaking is not a new thing, hot off the press. It was taught by Jesus Christ Himself, both to those in the Bible and the Book of Mormon. Peacemaking has since been taught by modern-day prophets from the earliest days of the Restoration even to this day.<\/p>\n<p data-aid=\"168179141\" id=\"p_xN1YB\">We fulfill our divine role as children of a loving Heavenly Father as we strive to become peacemakers. I bear testimony of Jesus Christ, who is the Prince of Peace, the Son of the living God, in the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168179144\" id=\"p_taoSA\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168179146\" id=\"p_iHRuD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p39%2Cp44#p39\">Matthew 5:39, 44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168179149\" id=\"p_qgvWf\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168179151\" id=\"p_ye5FB\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p10%2Cp16#p10\">Matthew 5:10, 16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168179156\" id=\"p_cVNtJ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p16#p16\">Matthew 5:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p16#p16\">3 Nephi 12:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 115:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168179160\" id=\"p_s2JId\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p10-p12#p10\">Matthew 5:10\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p14#p14\">1 Peter 3:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p14#p14\">Mosiah 24:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p10#p10\">3 Nephi 12:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168179162\" id=\"p_aO7Jl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44\">Matthew 5:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=eng&amp;id=p27#p27\">Luke 6:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44\">3 Nephi 12:44<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168179165\" id=\"p_vbtPd\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=eng\">Peacemakers Needed<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 98\u2013101.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168179167\" id=\"p_cpo5F\">See Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng\">Loving Others and Living with Differences<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 25\u201328.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168179172\" id=\"p_z1Dh1\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng\">The Merciful Obtain Mercy<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 70, 75\u201377.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168179175\" id=\"p_eNWkj\">See Russell M. Nelson, Facebook, June 1, 2018, facebook.com/russell.m.nelson.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168179178\" id=\"p_uYo0h\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9\">3 Nephi 12:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168179181\" id=\"p_iw0rw\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168179183\" id=\"p_kmWlc\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41#p41\">Doctrine and Covenants 121:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168179185\" id=\"p_mLDGa\">John A. Widtsoe, in Conference Report, Oct. 1943, 113.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168179188\" id=\"p_b0rZw\">See Tanenbaum Center for Interreligious Understanding, tanenbaum.org.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168179190\" id=\"p_toZNw\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p13#p13\">Mosiah 4:13<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168179036",
+        "id": "note4",
+        "text": "<p data-aid=\"168179156\" id=\"p_cVNtJ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p16#p16\">Matthew 5:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p16#p16\">3 Nephi 12:16<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p5#p5\">Doctrine and Covenants 115:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p16#p16",
+            "text": "Matthew 5:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p16#p16",
+            "text": "3 Nephi 12:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/115?lang=eng&amp;id=p5#p5",
+            "text": "Doctrine and Covenants 115:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168179036",
+        "id": "note5",
+        "text": "<p data-aid=\"168179160\" id=\"p_s2JId\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p10-p12#p10\">Matthew 5:10\u201312<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p14#p14\">1 Peter 3:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p14#p14\">Mosiah 24:14<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p10#p10\">3 Nephi 12:10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p10-p12#p10",
+            "text": "Matthew 5:10\u201312",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p14#p14",
+            "text": "1 Peter 3:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p14#p14",
+            "text": "Mosiah 24:14",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p10#p10",
+            "text": "3 Nephi 12:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168179010",
+        "id": "note2",
+        "text": "<p data-aid=\"168179149\" id=\"p_qgvWf\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9",
+          "text": "Matthew 5:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168179021",
+        "id": "note3",
+        "text": "<p data-aid=\"168179151\" id=\"p_ye5FB\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p10%2Cp16#p10\">Matthew 5:10, 16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p10%2Cp16#p10",
+          "text": "Matthew 5:10, 16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168179039",
+        "id": "note8",
+        "text": "<p data-aid=\"168179167\" id=\"p_cpo5F\">See Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng\">Loving Others and Living with Differences<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2014, 25\u201328.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2014/10/loving-others-and-living-with-differences?lang=eng",
+          "text": "Loving Others and Living with Differences",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168179039",
+        "id": "note9",
+        "text": "<p data-aid=\"168179172\" id=\"p_z1Dh1\">See Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng\">The Merciful Obtain Mercy<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2012, 70, 75\u201377.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2012/04/the-merciful-obtain-mercy?lang=eng",
+          "text": "The Merciful Obtain Mercy",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168179036",
+        "id": "note6",
+        "text": "<p data-aid=\"168179162\" id=\"p_aO7Jl\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44\">Matthew 5:44<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=eng&amp;id=p27#p27\">Luke 6:27<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44\">3 Nephi 12:44<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44",
+            "text": "Matthew 5:44",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/6?lang=eng&amp;id=p27#p27",
+            "text": "Luke 6:27",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p44#p44",
+            "text": "3 Nephi 12:44",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168179039",
+        "id": "note7",
+        "text": "<p data-aid=\"168179165\" id=\"p_vbtPd\">See Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/47nelson?lang=eng\">Peacemakers Needed<\/a>,\u201d <cite>Liahona<\/cite>, May 2023, 98\u2013101.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/04/47nelson?lang=eng",
+          "text": "Peacemakers Needed",
+          "type": "cross-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168179113",
+        "id": "note16",
+        "text": "<p data-aid=\"168179190\" id=\"p_toZNw\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p13#p13\">Mosiah 4:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p13#p13",
+          "text": "Mosiah 4:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168179110",
+        "id": "note15",
+        "text": "<p data-aid=\"168179188\" id=\"p_b0rZw\">See Tanenbaum Center for Interreligious Understanding, tanenbaum.org.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168179099",
+        "id": "note14",
+        "text": "<p data-aid=\"168179185\" id=\"p_mLDGa\">John A. Widtsoe, in Conference Report, Oct. 1943, 113.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168179071",
+        "id": "note13",
+        "text": "<p data-aid=\"168179183\" id=\"p_kmWlc\">See <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41#p41\">Doctrine and Covenants 121:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41#p41",
+          "text": "Doctrine and Covenants 121:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168179045",
+        "id": "note12",
+        "text": "<p data-aid=\"168179181\" id=\"p_iw0rw\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27\">John 14:27<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27",
+          "text": "John 14:27",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168179039",
+        "id": "note11",
+        "text": "<p data-aid=\"168179178\" id=\"p_uYo0h\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9\">Matthew 5:9<\/a>; see also <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9\">3 Nephi 12:9<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p9#p9",
+            "text": "Matthew 5:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p9#p9",
+            "text": "3 Nephi 12:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168179039",
+        "id": "note10",
+        "text": "<p data-aid=\"168179175\" id=\"p_eNWkj\">See Russell M. Nelson, Facebook, June 1, 2018, facebook.com/russell.m.nelson.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168179010",
+        "id": "note1",
+        "text": "<p data-aid=\"168179146\" id=\"p_iHRuD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p39%2Cp44#p39\">Matthew 5:39, 44<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p39%2Cp44#p39",
+          "text": "Matthew 5:39, 44",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

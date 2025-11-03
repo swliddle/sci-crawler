@@ -1,0 +1,828 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/42evanson?lang=eng",
+    "pageAttributes": {
+      "data-asset-id": "71466ff890bb4bbcb852dcd6c06e7de4",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/42evanson",
+      "data-bcp47-lang": "en",
+      "data-aid": "168179380",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "eng",
+      "data-aid-version": "3",
+      "data-orig-id": "71466ff890bb4bbcb852dcd6c06e7de4"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/c98d03wv2p93b8o3uc8t92jcgxszui5rxulu6l83/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/6newkuxpux20s4op0r0jagwtma1l9jjrpvgidse5-128k-en.mp3",
+      "variant": "audio"
+    }],
+    "title": "Go and Do Likewise",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168179380",
+      {"key": "168179380"}
+    ],
+    [
+      "168179391",
+      {"key": "168179391"}
+    ],
+    [
+      "168179397",
+      {"key": "168179397"}
+    ],
+    [
+      "168179402",
+      {"key": "168179402"}
+    ],
+    [
+      "168179408",
+      {"key": "168179408"}
+    ],
+    [
+      "168179414",
+      {"key": "168179414"}
+    ],
+    [
+      "168179420",
+      {"key": "168179420"}
+    ],
+    [
+      "168179429",
+      {"key": "168179429"}
+    ],
+    [
+      "168179434",
+      {"key": "168179434"}
+    ],
+    [
+      "168179440",
+      {"key": "168179440"}
+    ],
+    [
+      "168179443",
+      {"key": "168179443"}
+    ],
+    [
+      "168179447",
+      {"key": "168179447"}
+    ],
+    [
+      "168179452",
+      {"key": "168179452"}
+    ],
+    [
+      "168179458",
+      {"key": "168179458"}
+    ],
+    [
+      "168179464",
+      {"key": "168179464"}
+    ],
+    [
+      "168179468",
+      {"key": "168179468"}
+    ],
+    [
+      "168179474",
+      {"key": "168179474"}
+    ],
+    [
+      "168179478",
+      {"key": "168179478"}
+    ],
+    [
+      "168179482",
+      {"key": "168179482"}
+    ],
+    [
+      "168179488",
+      {"key": "168179488"}
+    ],
+    [
+      "168180495",
+      {"key": "168180495"}
+    ],
+    [
+      "168180500",
+      {"key": "168180500"}
+    ],
+    [
+      "168180504",
+      {"key": "168180504"}
+    ],
+    [
+      "168180511",
+      {"key": "168180511"}
+    ],
+    [
+      "168180516",
+      {"key": "168180516"}
+    ],
+    [
+      "168180520",
+      {"key": "168180520"}
+    ],
+    [
+      "168180525",
+      {"key": "168180525"}
+    ],
+    [
+      "168180528",
+      {"key": "168180528"}
+    ],
+    [
+      "168180531",
+      {"key": "168180531"}
+    ],
+    [
+      "168180535",
+      {"key": "168180535"}
+    ],
+    [
+      "168180538",
+      {"key": "168180538"}
+    ],
+    [
+      "168180543",
+      {"key": "168180543"}
+    ],
+    [
+      "168180548",
+      {"key": "168180548"}
+    ],
+    [
+      "168180552",
+      {"key": "168180552"}
+    ],
+    [
+      "168180554",
+      {"key": "168180554"}
+    ],
+    [
+      "168180556",
+      {"key": "168180556"}
+    ],
+    [
+      "168180560",
+      {"key": "168180560"}
+    ],
+    [
+      "168180562",
+      {"key": "168180562"}
+    ],
+    [
+      "168180565",
+      {"key": "168180565"}
+    ],
+    [
+      "168180567",
+      {"key": "168180567"}
+    ],
+    [
+      "168180568",
+      {"key": "168180568"}
+    ],
+    [
+      "168180572",
+      {"key": "168180572"}
+    ],
+    [
+      "168180575",
+      {"key": "168180575"}
+    ],
+    [
+      "168180579",
+      {"key": "168180579"}
+    ],
+    [
+      "168180583",
+      {"key": "168180583"}
+    ],
+    [
+      "168180584",
+      {"key": "168180584"}
+    ],
+    [
+      "168180588",
+      {"key": "168180588"}
+    ],
+    [
+      "168180591",
+      {"key": "168180591"}
+    ],
+    [
+      "168180595",
+      {"key": "168180595"}
+    ],
+    [
+      "168180599",
+      {"key": "168180599"}
+    ],
+    [
+      "168180605",
+      {"key": "168180605"}
+    ],
+    [
+      "168180611",
+      {"key": "168180611"}
+    ],
+    [
+      "168180618",
+      {"key": "168180618"}
+    ],
+    [
+      "168180626",
+      {"key": "168180626"}
+    ],
+    [
+      "168180633",
+      {"key": "168180633"}
+    ],
+    [
+      "168180640",
+      {"key": "168180640"}
+    ],
+    [
+      "168180648",
+      {"key": "168180648"}
+    ],
+    [
+      "168180656",
+      {"key": "168180656"}
+    ],
+    [
+      "168180664",
+      {"key": "168180664"}
+    ],
+    [
+      "168180672",
+      {"key": "168180672"}
+    ],
+    [
+      "168180680",
+      {"key": "168180680"}
+    ],
+    [
+      "168180688",
+      {"key": "168180688"}
+    ],
+    [
+      "168180696",
+      {"key": "168180696"}
+    ],
+    [
+      "168180703",
+      {"key": "168180703"}
+    ],
+    [
+      "168180711",
+      {"key": "168180711"}
+    ],
+    [
+      "168180719",
+      {"key": "168180719"}
+    ],
+    [
+      "168180727",
+      {"key": "168180727"}
+    ],
+    [
+      "168180735",
+      {"key": "168180735"}
+    ],
+    [
+      "168180743",
+      {"key": "168180743"}
+    ],
+    [
+      "168180750",
+      {"key": "168180750"}
+    ],
+    [
+      "168180758",
+      {"key": "168180758"}
+    ],
+    [
+      "168180764",
+      {"key": "168180764"}
+    ],
+    [
+      "168180772",
+      {"key": "168180772"}
+    ],
+    [
+      "168180778",
+      {"key": "168180778"}
+    ],
+    [
+      "168180786",
+      {"key": "168180786"}
+    ],
+    [
+      "168180794",
+      {"key": "168180794"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/42evanson",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "Elder Evanson highlights service missionaries and teaches how their service helps bring people to Christ and sets an example for us.",
+          "title": "Go and Do Likewise"
+        },
+        "pageSocial": {
+          "description": "Elder Evanson highlights service missionaries and teaches how their service helps bring people to Christ and sets an example for us.",
+          "title": "Go and Do Likewise"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/c98d03wv2p93b8o3uc8t92jcgxszui5rxulu6l83/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/c98d03wv2p93b8o3uc8t92jcgxszui5rxulu6l83/full/%21192%2C/0/default\" data-video-title=\"Go and Do Likewise\" data-video-description=\"Elder Evanson highlights service missionaries and teaches how their service helps bring people to Christ and sets an example for us.\" data-video-id=\"6382068491112\" data-duration=\"627593\" data-assetId=\"8ilv3jsvb5p4nlliqat8waq55s5fa896jo1wu512\" data-ref-id=\"8ilv3jsvb5p4nlliqat8waq55s5fa896jo1wu512\" data-duration-string=\"10:27\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382068491112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"198339978\"/><source src=\"https://assets.churchofjesuschrist.org/8ilv3jsvb5p4nlliqat8waq55s5fa896jo1wu512-360p-en.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"38321088\"/><source src=\"https://assets.churchofjesuschrist.org/8ilv3jsvb5p4nlliqat8waq55s5fa896jo1wu512-720p-en.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"72155726\"/><source src=\"https://assets.churchofjesuschrist.org/8ilv3jsvb5p4nlliqat8waq55s5fa896jo1wu512-1080p-en.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"198339978\"/><\/video><h1 data-aid=\"168179391\" id=\"p_aGXdJ\">Go and Do Likewise<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168179397\" id=\"p_n8BjZ\">By Elder James E. Evanson<\/p>\n<p class=\"author-role\" data-aid=\"168179402\" id=\"p_twrj6\">Of the Seventy<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168179408\" id=\"p_yAGvk\">I would like to highlight those missionaries who are called to service assignments. They are examples to us.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168179414\" id=\"p_rrFha\">While the Savior was traveling through Bethsaida, some individuals brought a blind man to Him. Perhaps they were hoping to see a miracle firsthand. The Savior \u201ctook the blind man by the hand, and led him out of the town\u201d to heal him privately. Initially, the healing seemed less than effective. The man \u201clooked up, and said, I see men as trees, walking.\u201d Jesus, compassionately, \u201cput his hands again upon his eyes, and made him look up.\u201d With that additional touch of the Savior\u2019s hands, the blind man now \u201csaw \u2026 clearly.\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a><\/p>\n<p data-aid=\"168179420\" id=\"p_enq1o\">This is just one example of how the Savior\u2019s life is characterized by humble acts of service. He reminds us that He \u201ccame not to be ministered unto, but to minister\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> and then invites us to follow His example by going the extra mile,<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a> giving to those who ask of us,<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a> and loving our neighbor.<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a> When asked, \u201cWho is my neighbour?\u201d Christ shared the parable of the good Samaritan, with a charge to \u201cgo, and do thou likewise.\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/p>\n<p data-aid=\"168179429\" id=\"p_m8X8H\">Missionaries of The Church of Jesus Christ of Latter-day Saints are modern-day examples of the good Samaritan that Christ invites us to become. I would like to highlight those missionaries who are called to service assignments.<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> They are examples to us of how service (1) opens hearts to the gospel of Jesus Christ, (2) allows all of us to minister regardless of our circumstances, and (3) brings the power of Christ into our lives.<\/p>\n<section id=\"sec_gZy6f\">\n<header>\n<h2 data-aid=\"168179434\" id=\"p_iejiz\">First, Service Opens Hearts to the Gospel of Jesus Christ<\/h2>\n<\/header>\n<p data-aid=\"168179440\" id=\"p_bqdSR\">In about 91 BC, Ammon, a Book of Mormon missionary, introduced himself to King Lamoni by saying, \u201cI desire to dwell among this people for a time; \u2026 [and] I will be thy servant.\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> Because of his service to the king, Ammon was granted an opportunity to \u201cspeak boldly, \u2026 and tell [King Lamoni] \u2026 by what power\u201d he had performed his service.<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a> In return, the king promised that \u201cwhatsoever [Ammon] desirest \u2026 [the king would] grant it.\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> Ammon\u2019s only request was that the king listen to the message of the gospel of Jesus Christ.<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> Ammon\u2019s service resulted in \u201cthousands of souls [brought] to repentance.\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a><\/p>\n<p data-aid=\"168179443\" id=\"p_eLYCS\">In our day, service continues to lead others to the gospel. Sister Bevan was serving as a teaching missionary when she began experiencing health issues requiring her to return home for treatment. Instead of being released, she was able to continue serving as a service missionary from home.<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a><\/p>\n<p data-aid=\"168179447\" id=\"p_xBsc3\">While visiting a park, Sister Bevan and a friend were prompted to talk to a mother with four young children, but they hesitated and the family drove away. The next day, they returned to the park, praying that this family would be there. Miraculously, the mother was sitting in the exact same spot as the day before. This time Sister Bevan and her friend approached the mother, got to know her, and discovered that she was in desperate need of temporal help. They provided assistance and then invited her to learn about the gospel.<\/p>\n<p data-aid=\"168179452\" id=\"p_efWzZ\">Because of that service and invitation, the mother and her oldest child were baptized, followed by the next oldest a year later. They remain active members today. Sister Bevan knew this experience was divinely inspired, and it \u201cproved to [her] that [she] was exactly where God needed [her] to be.\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a><\/p>\n<p data-aid=\"168179458\" id=\"p_wg9U9\">Like Ammon and Sister Bevan, as we serve others, we \u201cshow forth good examples unto them\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a> and they desire to know the \u201creason of the hope that is in [us].\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a><\/p>\n<p data-aid=\"168179464\" id=\"p_v5URg\">Jesus invites us to \u201cgo, and do thou likewise.\u201d<\/p>\n<\/section>\n<section id=\"sec_mX3vQ\">\n<header>\n<h2 data-aid=\"168179468\" id=\"p_bLqKA\">Second, Service Allows All of Us to Minister Regardless of Our Circumstances<\/h2>\n<\/header>\n<p data-aid=\"168179474\" id=\"p_bYIN7\">President Russell M. Nelson called on \u201c<em>every<\/em> worthy, able young man to prepare for and serve a mission\u201d and for every able young sister to \u201cpray to know if the Lord would have [her] serve a mission.\u201d He promised that \u201cyour decision to serve a mission, whether a proselyting or a service mission, will bless you and many others.\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a> Service missions changed the definition of the word <i>able<\/i>.<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> Now every worthy young man and woman who desires to serve a full-time mission for the Lord can do so, with very few exceptions.<\/p>\n<p data-aid=\"168179478\" id=\"p_vJirW\">Elder Holgado is an example of being able to serve regardless of personal circumstances. He was born with a rare genetic disorder,<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> which precluded him from serving a teaching mission. Elder Holgado was called as a service missionary and volunteered in the bishops\u2019 storehouse, where he helped others get the assistance they needed. He stocked shelves, bagged vegetables, and crushed cardboard boxes.<\/p>\n<p data-aid=\"168179482\" id=\"p_rL11Z\">As Elder Holgado spoke in sacrament meeting after his mission, he shared that \u201cGod needs service missionaries. He needs people to love and serve others. These people stock toilet paper, bag broccoli, build furniture, and are good to people.\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a><\/p>\n<p data-aid=\"168179488\" id=\"p_lL5qI\">You don\u2019t need to have a service assignment or wear a name tag to do good. Every act of service is recognized by the Savior. We are all able to help others come unto Christ by serving with loving-kindness. We can all minister in Christ\u2019s name to the one through the power of the Holy Ghost and live as examples of faith in Jesus Christ.<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a> Service allows us to present ourselves as living sacrifices who are acceptable to God.<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a><\/p>\n<p data-aid=\"168180495\" id=\"p_seU0F\">Jesus invites us to \u201cgo, and do thou likewise.\u201d<\/p>\n<\/section>\n<section>\n<header>\n<h2 data-aid=\"168180500\" id=\"p_a6E40\">Third, Service Brings the Power of Christ into Our Lives<\/h2>\n<\/header>\n<p data-aid=\"168180504\" id=\"p_d1apB\">A young missionary who transferred from a teaching assignment to a service assignment struggled with some personal challenges that left him needing Christ\u2019s healing power. Consecrated service brought that power into his life. He said, \u201cI felt that when I was struggling, I could feel Christ lifting me up. There is something special about seeing Him bless people through a food pantry, in the temple, and through His gospel.\u201d<\/p>\n<p data-aid=\"168180511\" id=\"p_qKo0o\">This elder began to feel deeper joy, and his newfound enthusiasm blessed him and his entire family. The Spirit entered their home more abundantly, they attended the temple together more regularly, and Christ became a greater focus in their family. This missionary believes that Christ saved his life and blessed his family through service.<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a><\/p>\n<p data-aid=\"168180516\" id=\"p_gzwCE\">President Nelson taught, \u201cWillingness to serve and strengthen others stands as a symbol of one\u2019s readiness to be healed\u201d by the redemptive power of the Savior.<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a><\/p>\n<p data-aid=\"168180520\" id=\"p_sTdSN\">Jesus invites us to \u201cgo, and do thou likewise.\u201d<\/p>\n<\/section>\n<section id=\"sec_s0DC0\">\n<header>\n<h2 data-aid=\"168180525\" id=\"p_bA4Bs\">Service Missionaries Are Examples of Consecrated Disciples of Jesus Christ<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"168180528\" id=\"p_x0p79\">When you or a family member is blessed with a call as a service missionary, that is a moment to celebrate.<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a> Your family will now have a set-apart representative of the Lord Jesus Christ living in your home. That will change all of you for the good. There should be no disappointment in any call to serve. We sing, \u201cI\u2019ll go where you want me to go\u201d and \u201cI\u2019ll be what you want me to be.\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a> Here is an opportunity to show that we really mean what we say!<\/p>\n<p data-aid=\"168180531\" id=\"p_aQRXm\">To all of you who serve, and especially to the over 4,000 young service missionaries, we love you! If teaching missionaries are the Lord\u2019s mouth, then service missionaries are the Lord\u2019s hands, and you are not second-class missionaries.<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a> Each of you is vital to the gathering of Israel. President Nelson taught that \u201canytime we do anything that helps anyone \u2026 to make and keep their covenants with God, we are helping to gather Israel.\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a><\/p>\n<p data-aid=\"168180535\" id=\"p_wvKDf\">You service missionaries gather Israel in so many ways, and your service changes lives. Often you don\u2019t know who the beneficiary of your service is, but God knows. Always remember that \u201cinasmuch as ye [serve] one of the least of these, \u2026 ye [serve Him].\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a> We hear your voices as you volunteer at Church call centers; we see your smiles as you help in community organizations; and we feel your light as you serve in temples. You feed the hungry, clothe the naked, and give drink to the thirsty.<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a><\/p>\n<p data-aid=\"168180538\" id=\"p_qpzO7\">We all need to go and do likewise.<\/p>\n<\/section>\n<section id=\"sec_kSD9B\">\n<header>\n<h2 data-aid=\"168180543\" id=\"p_xJmxg\">Service Is the Lifeblood of Disciples of Christ<\/h2>\n<\/header>\n<p data-aid=\"168180548\" id=\"p_b9fJR\">Service has the power to open hearts to the gospel and allows all of us to give our whole soul to Christ.<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a> It changes our hearts to become more like Him, and in the process, we lift others. President Nelson once asked, \u201cIn this world smitten with spiritual decay, can individuals \u2026 make a difference?\u201d His answer: \u201cYes! \u2026 \u2018The covenant people of the Lord, \u2026 armed \u2026 with the power of God in great glory\u2019 \u2026 can lift the lives of all humankind.\u201d<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a> Through service we change hearts\u2014and the world.<\/p>\n<p data-aid=\"168180552\" id=\"p_mgGL4\">Christ \u201cwent about doing good.\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a> He ministered to the sick,<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a> gave sight to the blind,<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a> and visited the downtrodden.<a class=\"note-ref\" href=\"#note37\"><sup class=\"marker\" data-value=\"37\"><\/sup><\/a> He cooked meals,<a class=\"note-ref\" href=\"#note38\"><sup class=\"marker\" data-value=\"38\"><\/sup><\/a> helped at wedding feasts,<a class=\"note-ref\" href=\"#note39\"><sup class=\"marker\" data-value=\"39\"><\/sup><\/a> and fed thousands who were hungry.<a class=\"note-ref\" href=\"#note40\"><sup class=\"marker\" data-value=\"40\"><\/sup><\/a> As we give service in Christ\u2019s name to the one, we become increasingly holy and worthy of the gift of eternal life.<a class=\"note-ref\" href=\"#note41\"><sup class=\"marker\" data-value=\"41\"><\/sup><\/a> Jesus Christ lives. He is my Savior and yours. He is our Redeemer. He is our great example of ministering. I invite each of us to go and do likewise. In the name of Jesus Christ, amen.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168180554\" id=\"p_iB0dX\">Notes<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168180556\" id=\"p_q7AUG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22\">Mark 8:22\u201326<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168180560\" id=\"p_vZ7Qu\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20?lang=eng&amp;id=p28#p28\">Matthew 20:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168180562\" id=\"p_m1EEZ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p41#p41\">Matthew 5:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168180565\" id=\"p_dpZHq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p42#p42\">Matthew 5:42<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168180567\" id=\"p_h0L3e\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p39#p39\">Matthew 22:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168180568\" id=\"p_kq7Ky\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10?lang=eng&amp;id=p29-37#p29\">Luke 10:29\u201337<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168180572\" id=\"p_gF1ZL\">For information on young service missionaries and how to apply to serve, please visit <a href=\"https://www.ChurchofJesusChrist.org/service-missionary\">ChurchofJesusChrist.org/service-missionary<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168180575\" id=\"p_w5JDF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p23%2Cp25#p23\">Alma 17:23, 25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168180579\" id=\"p_ag86p\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p31-p39#p31\">Alma 17:31\u201339<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p9-p10%2Cp20#p9\">18:9\u201310, 20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168180583\" id=\"p_wCkgn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p21#p21\">Alma 18:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168180584\" id=\"p_m8AE9\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p22#p22\">Alma 18:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168180588\" id=\"p_aYION\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26?lang=eng&amp;id=p22#p22\">Alma 26:22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168180591\" id=\"p_m2LPP\">Sister Bevan served a teaching mission in the Florida Tampa Mission and a service mission in the Orem Utah Mission.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168180595\" id=\"p_iDPsT\">Personal interview with Janae Bevan held on June 10, 2025. Story and quotes used with permission.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168180599\" id=\"p_mHlJl\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p11#p11\">Alma 17:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168180605\" id=\"p_hwp8Z\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p15#p15\">1 Peter 3:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168180611\" id=\"p_gwmGe\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=eng&amp;id=p7-p8#p7\">Preaching the Gospel of Peace<\/a>,\u201d <i>Liahona<\/i>, May 2022, 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168180618\" id=\"p_u6r1w\">I am grateful to Sister Amy A. Wright, First Counselor in the Primary General Presidency, who has taught this principle widely.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168180626\" id=\"p_cdkOA\">Rubinstein-Taybi syndrome.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168180633\" id=\"p_qF3Zt\">Personal interview with Scott and Tricia Holgado held on June 3, 2025. Story and quotes used with permission.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168180640\" id=\"p_rksji\">Service missionary purpose statement: \u201cHelp others come unto Christ by serving with loving kindness as the Savior would. Minister in His name to the one through the power of the Holy Ghost and live as an example of faith in Jesus Christ, repentance, covenant keeping with God, and enduring to the end\u201d (<cite>Missionary Standards for Disciples of Jesus Christ\u2014Service Missionaries<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/missionary-standards-service-missionaries-2025/01-your-missionary-experience?lang=eng&amp;id=p_yDeKf#p_yDeKf\">1.0<\/a>, Gospel Library).<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168180648\" id=\"p_aNLSn\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1\">Romans 12:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168180656\" id=\"p_tQert\">Personal interview with Jordan Fry held on June 12, 2025. Story and quotes used with permission.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168180664\" id=\"p_qoOkc\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng&amp;id=p32#p32\">Jesus Christ\u2014the Master Healer<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2005, 87.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"168180672\" id=\"p_xtCzk\">In July 2022, Sister Evanson and I were serving as mission leaders for the Utah Orem Mission. With another nine missions in the world, we were given the privilege of participating in a pilot project that incorporated young service missionaries into our mission. After our first meeting, I wrote in my journal: \u201cTonight we had a very special meeting. We met over 140 new missionaries in our mission and their parents. The chapel and gym were filled to capacity, and we held a Spirit-filled, energetic meeting to welcome the service missionaries into the Utah Orem Mission. I was overwhelmed by the feeling of love that we have for them. All are willing to serve. It was a beautiful sight.\u201d The circumstances of these missionaries extended from former teaching missionaries recovering from injuries to nonspeaking missionaries using wheelchairs. After that meeting, Sister Evanson said to me, \u201cNow our mission feels complete.\u201d<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"168180680\" id=\"p_dXhK9\">See David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/called-to-the-work?lang=eng\">Called to the Work<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 67\u201370.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"168180688\" id=\"p_e788r\">\u201cI\u2019ll Go Where You Want Me to Go,\u201d <cite>Hymns<\/cite>, no. 270.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"168180696\" id=\"p_w68Cw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=eng&amp;id=p11#p11\">Matthew 23:11<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"168180703\" id=\"p_xlNfm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p11#p11\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 92\u201393.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"168180711\" id=\"p_rat0f\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p40#p40\">Matthew 25:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"168180719\" id=\"p_oP4lJ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p34-p36#p34\">Matthew 25:34\u201336.<\/a><\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"168180727\" id=\"p_mp2nD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=eng&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"168180735\" id=\"p_xG3Ss\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=eng&amp;id=p29#p29\">Personal Preparation for Temple Blessings<\/a>,\u201d <cite>Ensign<\/cite>, May 2001, 34; <cite>Liahona<\/cite>, July 2001, 39.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"168180743\" id=\"p_ecTC2\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=eng&amp;id=p38#p38\">Acts 10:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"168180750\" id=\"p_qRIgC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=eng&amp;id=p30-p31#p30\">Mark 1:30\u201331<\/a>.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"168180758\" id=\"p_xphAe\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22\">Mark 8:22\u201326<\/a>.<\/p>\n<\/li>\n<li data-marker=\"37.\" id=\"note37\" data-full-marker=\"37.\">\n<p data-aid=\"168180764\" id=\"p_dFaoi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19?lang=eng&amp;id=p1-p10#p1\">Luke 19:1\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"38.\" id=\"note38\" data-full-marker=\"38.\">\n<p data-aid=\"168180772\" id=\"p_eCQSr\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=eng&amp;id=p9#p9\">John 21:9<\/a>.<\/p>\n<\/li>\n<li data-marker=\"39.\" id=\"note39\" data-full-marker=\"39.\">\n<p data-aid=\"168180778\" id=\"p_cwrNg\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/2?lang=eng&amp;id=p1-p10#p1\">John 2:1\u201310<\/a>.<\/p>\n<\/li>\n<li data-marker=\"40.\" id=\"note40\" data-full-marker=\"40.\">\n<p data-aid=\"168180786\" id=\"p_r1kNb\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=eng&amp;id=p5-p13#p5\">John 6:5\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"41.\" id=\"note41\" data-full-marker=\"41.\">\n<p data-aid=\"168180794\" id=\"p_fU36M\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p34#p34\">Matthew 25:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1\">Romans 12:1<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168179420",
+        "id": "note4",
+        "text": "<p data-aid=\"168180565\" id=\"p_dpZHq\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p42#p42\">Matthew 5:42<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p42#p42",
+          "text": "Matthew 5:42",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168179420",
+        "id": "note5",
+        "text": "<p data-aid=\"168180567\" id=\"p_h0L3e\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=eng&amp;id=p39#p39\">Matthew 22:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/22?lang=eng&amp;id=p39#p39",
+          "text": "Matthew 22:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168179420",
+        "id": "note2",
+        "text": "<p data-aid=\"168180560\" id=\"p_vZ7Qu\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/20?lang=eng&amp;id=p28#p28\">Matthew 20:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/20?lang=eng&amp;id=p28#p28",
+          "text": "Matthew 20:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168179420",
+        "id": "note3",
+        "text": "<p data-aid=\"168180562\" id=\"p_m1EEZ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/5?lang=eng&amp;id=p41#p41\">Matthew 5:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/5?lang=eng&amp;id=p41#p41",
+          "text": "Matthew 5:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168179440",
+        "id": "note8",
+        "text": "<p data-aid=\"168180575\" id=\"p_w5JDF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p23%2Cp25#p23\">Alma 17:23, 25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/17?lang=eng&amp;id=p23%2Cp25#p23",
+          "text": "Alma 17:23, 25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168179440",
+        "id": "note9",
+        "text": "<p data-aid=\"168180579\" id=\"p_ag86p\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p31-p39#p31\">Alma 17:31\u201339<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p9-p10%2Cp20#p9\">18:9\u201310, 20<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/17?lang=eng&amp;id=p31-p39#p31",
+            "text": "Alma 17:31\u201339",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/18?lang=eng&amp;id=p9-p10%2Cp20#p9",
+            "text": "18:9\u201310, 20",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168179420",
+        "id": "note6",
+        "text": "<p data-aid=\"168180568\" id=\"p_kq7Ky\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10?lang=eng&amp;id=p29-37#p29\">Luke 10:29\u201337<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/10?lang=eng&amp;id=p29-37#p29",
+          "text": "Luke 10:29\u201337",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168179429",
+        "id": "note7",
+        "text": "<p data-aid=\"168180572\" id=\"p_gF1ZL\">For information on young service missionaries and how to apply to serve, please visit <a href=\"https://www.ChurchofJesusChrist.org/service-missionary\">ChurchofJesusChrist.org/service-missionary<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "https://www.ChurchofJesusChrist.org/service-missionary",
+          "text": "ChurchofJesusChrist.org/service-missionary"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168180535",
+        "id": "note30",
+        "text": "<p data-aid=\"168180711\" id=\"p_rat0f\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p40#p40\">Matthew 25:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p40#p40",
+          "text": "Matthew 25:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168179458",
+        "id": "note16",
+        "text": "<p data-aid=\"168180605\" id=\"p_hwp8Z\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p15#p15\">1 Peter 3:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p15#p15",
+          "text": "1 Peter 3:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note38": {
+        "marker": "38.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note38",
+        "text": "<p data-aid=\"168180772\" id=\"p_eCQSr\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/21?lang=eng&amp;id=p9#p9\">John 21:9<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/21?lang=eng&amp;id=p9#p9",
+          "text": "John 21:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168179458",
+        "id": "note15",
+        "text": "<p data-aid=\"168180599\" id=\"p_mHlJl\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/17?lang=eng&amp;id=p11#p11\">Alma 17:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/17?lang=eng&amp;id=p11#p11",
+          "text": "Alma 17:11",
+          "type": "scripture-ref"
+        }]
+      },
+      "note37": {
+        "marker": "37.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note37",
+        "text": "<p data-aid=\"168180764\" id=\"p_dFaoi\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/19?lang=eng&amp;id=p1-p10#p1\">Luke 19:1\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/luke/19?lang=eng&amp;id=p1-p10#p1",
+          "text": "Luke 19:1\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168179452",
+        "id": "note14",
+        "text": "<p data-aid=\"168180595\" id=\"p_iDPsT\">Personal interview with Janae Bevan held on June 10, 2025. Story and quotes used with permission.<\/p>"
+      },
+      "note36": {
+        "marker": "36.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note36",
+        "text": "<p data-aid=\"168180758\" id=\"p_xphAe\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22\">Mark 8:22\u201326<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22",
+          "text": "Mark 8:22\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168179443",
+        "id": "note13",
+        "text": "<p data-aid=\"168180591\" id=\"p_m2LPP\">Sister Bevan served a teaching mission in the Florida Tampa Mission and a service mission in the Orem Utah Mission.<\/p>"
+      },
+      "note35": {
+        "marker": "35.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note35",
+        "text": "<p data-aid=\"168180750\" id=\"p_qRIgC\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/1?lang=eng&amp;id=p30-p31#p30\">Mark 1:30\u201331<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/1?lang=eng&amp;id=p30-p31#p30",
+          "text": "Mark 1:30\u201331",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168179440",
+        "id": "note12",
+        "text": "<p data-aid=\"168180588\" id=\"p_aYION\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/26?lang=eng&amp;id=p22#p22\">Alma 26:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/26?lang=eng&amp;id=p22#p22",
+          "text": "Alma 26:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note34",
+        "text": "<p data-aid=\"168180743\" id=\"p_ecTC2\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=eng&amp;id=p38#p38\">Acts 10:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/10?lang=eng&amp;id=p38#p38",
+          "text": "Acts 10:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168179440",
+        "id": "note11",
+        "text": "<p data-aid=\"168180584\" id=\"p_m8AE9\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p22#p22\">Alma 18:22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/18?lang=eng&amp;id=p22#p22",
+          "text": "Alma 18:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "168180548",
+        "id": "note33",
+        "text": "<p data-aid=\"168180735\" id=\"p_xG3Ss\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=eng&amp;id=p29#p29\">Personal Preparation for Temple Blessings<\/a>,\u201d <cite>Ensign<\/cite>, May 2001, 34; <cite>Liahona<\/cite>, July 2001, 39.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2001/04/personal-preparation-for-temple-blessings?lang=eng&amp;id=p29#p29",
+          "text": "Personal Preparation for Temple Blessings",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168179440",
+        "id": "note10",
+        "text": "<p data-aid=\"168180583\" id=\"p_wCkgn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/18?lang=eng&amp;id=p21#p21\">Alma 18:21<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/18?lang=eng&amp;id=p21#p21",
+          "text": "Alma 18:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "168180548",
+        "id": "note32",
+        "text": "<p data-aid=\"168180727\" id=\"p_mp2nD\">See <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/omni/1?lang=eng&amp;id=p26#p26\">Omni 1:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/omni/1?lang=eng&amp;id=p26#p26",
+          "text": "Omni 1:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168180535",
+        "id": "note31",
+        "text": "<p data-aid=\"168180719\" id=\"p_oP4lJ\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p34-p36#p34\">Matthew 25:34\u201336.<\/a><\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p34-p36#p34",
+          "text": "Matthew 25:34\u201336.",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168179478",
+        "id": "note19",
+        "text": "<p data-aid=\"168180626\" id=\"p_cdkOA\">Rubinstein-Taybi syndrome.<\/p>"
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168179474",
+        "id": "note18",
+        "text": "<p data-aid=\"168180618\" id=\"p_u6r1w\">I am grateful to Sister Amy A. Wright, First Counselor in the Primary General Presidency, who has taught this principle widely.<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168179474",
+        "id": "note17",
+        "text": "<p data-aid=\"168180611\" id=\"p_gwmGe\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/11nelson?lang=eng&amp;id=p7-p8#p7\">Preaching the Gospel of Peace<\/a>,\u201d <i>Liahona<\/i>, May 2022, 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/04/11nelson?lang=eng&amp;id=p7-p8#p7",
+          "text": "Preaching the Gospel of Peace",
+          "type": "cross-ref"
+        }]
+      },
+      "note39": {
+        "marker": "39.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note39",
+        "text": "<p data-aid=\"168180778\" id=\"p_cwrNg\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/2?lang=eng&amp;id=p1-p10#p1\">John 2:1\u201310<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/2?lang=eng&amp;id=p1-p10#p1",
+          "text": "John 2:1\u201310",
+          "type": "scripture-ref"
+        }]
+      },
+      "note41": {
+        "marker": "41.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note41",
+        "text": "<p data-aid=\"168180794\" id=\"p_fU36M\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=eng&amp;id=p34#p34\">Matthew 25:34<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1\">Romans 12:1<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=eng&amp;id=p34#p34",
+            "text": "Matthew 25:34",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1",
+            "text": "Romans 12:1",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note40": {
+        "marker": "40.",
+        "context": "",
+        "pid": "168180552",
+        "id": "note40",
+        "text": "<p data-aid=\"168180786\" id=\"p_r1kNb\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/6?lang=eng&amp;id=p5-p13#p5\">John 6:5\u201313<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/6?lang=eng&amp;id=p5-p13#p5",
+          "text": "John 6:5\u201313",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168180528",
+        "id": "note27",
+        "text": "<p data-aid=\"168180688\" id=\"p_e788r\">\u201cI\u2019ll Go Where You Want Me to Go,\u201d <cite>Hymns<\/cite>, no. 270.<\/p>"
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168180528",
+        "id": "note26",
+        "text": "<p data-aid=\"168180680\" id=\"p_dXhK9\">See David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/04/called-to-the-work?lang=eng\">Called to the Work<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, May 2017, 67\u201370.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/04/called-to-the-work?lang=eng",
+          "text": "Called to the Work",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168180525",
+        "id": "note25",
+        "text": "<p data-aid=\"168180672\" id=\"p_xtCzk\">In July 2022, Sister Evanson and I were serving as mission leaders for the Utah Orem Mission. With another nine missions in the world, we were given the privilege of participating in a pilot project that incorporated young service missionaries into our mission. After our first meeting, I wrote in my journal: \u201cTonight we had a very special meeting. We met over 140 new missionaries in our mission and their parents. The chapel and gym were filled to capacity, and we held a Spirit-filled, energetic meeting to welcome the service missionaries into the Utah Orem Mission. I was overwhelmed by the feeling of love that we have for them. All are willing to serve. It was a beautiful sight.\u201d The circumstances of these missionaries extended from former teaching missionaries recovering from injuries to nonspeaking missionaries using wheelchairs. After that meeting, Sister Evanson said to me, \u201cNow our mission feels complete.\u201d<\/p>"
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168180516",
+        "id": "note24",
+        "text": "<p data-aid=\"168180664\" id=\"p_qoOkc\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng&amp;id=p32#p32\">Jesus Christ\u2014the Master Healer<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2005, 87.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2005/10/jesus-christ-the-master-healer?lang=eng&amp;id=p32#p32",
+          "text": "Jesus Christ\u2014the Master Healer",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168180511",
+        "id": "note23",
+        "text": "<p data-aid=\"168180656\" id=\"p_tQert\">Personal interview with Jordan Fry held on June 12, 2025. Story and quotes used with permission.<\/p>"
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168179488",
+        "id": "note22",
+        "text": "<p data-aid=\"168180648\" id=\"p_aNLSn\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1\">Romans 12:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/rom/12?lang=eng&amp;id=p1#p1",
+          "text": "Romans 12:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168179488",
+        "id": "note21",
+        "text": "<p data-aid=\"168180640\" id=\"p_rksji\">Service missionary purpose statement: \u201cHelp others come unto Christ by serving with loving kindness as the Savior would. Minister in His name to the one through the power of the Holy Ghost and live as an example of faith in Jesus Christ, repentance, covenant keeping with God, and enduring to the end\u201d (<cite>Missionary Standards for Disciples of Jesus Christ\u2014Service Missionaries<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/missionary-standards-service-missionaries-2025/01-your-missionary-experience?lang=eng&amp;id=p_yDeKf#p_yDeKf\">1.0<\/a>, Gospel Library).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/missionary-standards-service-missionaries-2025/01-your-missionary-experience?lang=eng&amp;id=p_yDeKf#p_yDeKf",
+          "text": "1.0",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168179482",
+        "id": "note20",
+        "text": "<p data-aid=\"168180633\" id=\"p_qF3Zt\">Personal interview with Scott and Tricia Holgado held on June 3, 2025. Story and quotes used with permission.<\/p>"
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168179414",
+        "id": "note1",
+        "text": "<p data-aid=\"168180556\" id=\"p_q7AUG\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22\">Mark 8:22\u201326<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/mark/8?lang=eng&amp;id=p22-p26#p22",
+          "text": "Mark 8:22\u201326",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168180531",
+        "id": "note29",
+        "text": "<p data-aid=\"168180703\" id=\"p_xlNfm\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p11#p11\">Let God Prevail<\/a>,\u201d <cite>Ensign<\/cite> or <cite>Liahona<\/cite>, Nov. 2020, 92\u201393.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p11#p11",
+          "text": "Let God Prevail",
+          "type": "cross-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168180531",
+        "id": "note28",
+        "text": "<p data-aid=\"168180696\" id=\"p_w68Cw\">See <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/23?lang=eng&amp;id=p11#p11\">Matthew 23:11<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/23?lang=eng&amp;id=p11#p11",
+          "text": "Matthew 23:11",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}
