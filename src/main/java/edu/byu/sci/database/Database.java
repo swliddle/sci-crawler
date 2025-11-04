@@ -78,7 +78,7 @@ public class Database {
 
     public Database() {
         try {
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/sci2p?user=sci2puser&password=sci44access");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:13306/sci2p?user=sci2puser&password=sci44access");
         } catch (SQLException e) {
             logError(e);
         }

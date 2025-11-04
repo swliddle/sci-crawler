@@ -1,0 +1,673 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/35andersen?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "42b9e04d19a44129a8f7e5f57f97db44",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/35andersen",
+      "data-bcp47-lang": "es",
+      "data-aid": "168174558",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "beead9ed790b41de92bff6bc1a1aa453"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/dbuahig7d9mp2eyt4ym5r5v6huxzljmnhb2j32ox/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/3ar7dx8tvtpzebq0111j0gblj8lxyq8k1q8w426d-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El amor expiatorio de Jesucristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168174558",
+      {"key": "168174558"}
+    ],
+    [
+      "168240271",
+      {"key": "168240271"}
+    ],
+    [
+      "168240272",
+      {"key": "168240272"}
+    ],
+    [
+      "168240273",
+      {"key": "168240273"}
+    ],
+    [
+      "168240274",
+      {"key": "168240274"}
+    ],
+    [
+      "168240275",
+      {"key": "168240275"}
+    ],
+    [
+      "168240278",
+      {"key": "168240278"}
+    ],
+    [
+      "168240279",
+      {"key": "168240279"}
+    ],
+    [
+      "168240282",
+      {"key": "168240282"}
+    ],
+    [
+      "168240283",
+      {"key": "168240283"}
+    ],
+    [
+      "168240285",
+      {"key": "168240285"}
+    ],
+    [
+      "168240287",
+      {"key": "168240287"}
+    ],
+    [
+      "168240290",
+      {"key": "168240290"}
+    ],
+    [
+      "168240292",
+      {"key": "168240292"}
+    ],
+    [
+      "168240294",
+      {"key": "168240294"}
+    ],
+    [
+      "168240296",
+      {"key": "168240296"}
+    ],
+    [
+      "168240298",
+      {"key": "168240298"}
+    ],
+    [
+      "168240300",
+      {"key": "168240300"}
+    ],
+    [
+      "168240302",
+      {"key": "168240302"}
+    ],
+    [
+      "168240304",
+      {"key": "168240304"}
+    ],
+    [
+      "168240306",
+      {"key": "168240306"}
+    ],
+    [
+      "168240308",
+      {"key": "168240308"}
+    ],
+    [
+      "168240310",
+      {"key": "168240310"}
+    ],
+    [
+      "168240312",
+      {"key": "168240312"}
+    ],
+    [
+      "168240313",
+      {"key": "168240313"}
+    ],
+    [
+      "168240315",
+      {"key": "168240315"}
+    ],
+    [
+      "168240317",
+      {"key": "168240317"}
+    ],
+    [
+      "168240319",
+      {"key": "168240319"}
+    ],
+    [
+      "168240321",
+      {"key": "168240321"}
+    ],
+    [
+      "168240322",
+      {"key": "168240322"}
+    ],
+    [
+      "168240324",
+      {"key": "168240324"}
+    ],
+    [
+      "168240326",
+      {"key": "168240326"}
+    ],
+    [
+      "168240328",
+      {"key": "168240328"}
+    ],
+    [
+      "168240330",
+      {"key": "168240330"}
+    ],
+    [
+      "168406283",
+      {"key": "168406283"}
+    ],
+    [
+      "168240334",
+      {"key": "168240334"}
+    ],
+    [
+      "168240336",
+      {"key": "168240336"}
+    ],
+    [
+      "168240338",
+      {"key": "168240338"}
+    ],
+    [
+      "168240340",
+      {"key": "168240340"}
+    ],
+    [
+      "168240342",
+      {"key": "168240342"}
+    ],
+    [
+      "168240344",
+      {"key": "168240344"}
+    ],
+    [
+      "168240346",
+      {"key": "168240346"}
+    ],
+    [
+      "168240348",
+      {"key": "168240348"}
+    ],
+    [
+      "168240349",
+      {"key": "168240349"}
+    ],
+    [
+      "168240351",
+      {"key": "168240351"}
+    ],
+    [
+      "168240353",
+      {"key": "168240353"}
+    ],
+    [
+      "168240355",
+      {"key": "168240355"}
+    ],
+    [
+      "168406284",
+      {"key": "168406284"}
+    ],
+    [
+      "168406285",
+      {"key": "168406285"}
+    ],
+    [
+      "168240360",
+      {"key": "168240360"}
+    ],
+    [
+      "168240362",
+      {"key": "168240362"}
+    ],
+    [
+      "168240364",
+      {"key": "168240364"}
+    ],
+    [
+      "168240366",
+      {"key": "168240366"}
+    ],
+    [
+      "168240369",
+      {"key": "168240369"}
+    ],
+    [
+      "168240371",
+      {"key": "168240371"}
+    ],
+    [
+      "168240373",
+      {"key": "168240373"}
+    ],
+    [
+      "168240374",
+      {"key": "168240374"}
+    ],
+    [
+      "168240375",
+      {"key": "168240375"}
+    ],
+    [
+      "168240376",
+      {"key": "168240376"}
+    ],
+    [
+      "168240377",
+      {"key": "168240377"}
+    ],
+    [
+      "168240378",
+      {"key": "168240378"}
+    ],
+    [
+      "168240379",
+      {"key": "168240379"}
+    ],
+    [
+      "168240380",
+      {"key": "168240380"}
+    ],
+    [
+      "168240381",
+      {"key": "168240381"}
+    ],
+    [
+      "168240382",
+      {"key": "168240382"}
+    ],
+    [
+      "168240383",
+      {"key": "168240383"}
+    ],
+    [
+      "168240385",
+      {"key": "168240385"}
+    ],
+    [
+      "168240387",
+      {"key": "168240387"}
+    ],
+    [
+      "168240389",
+      {"key": "168240389"}
+    ],
+    [
+      "168240391",
+      {"key": "168240391"}
+    ],
+    [
+      "168240393",
+      {"key": "168240393"}
+    ],
+    [
+      "168240395",
+      {"key": "168240395"}
+    ],
+    [
+      "168240396",
+      {"key": "168240396"}
+    ],
+    [
+      "168240399",
+      {"key": "168240399"}
+    ],
+    [
+      "168240400",
+      {"key": "168240400"}
+    ],
+    [
+      "168240402",
+      {"key": "168240402"}
+    ],
+    [
+      "168240404",
+      {"key": "168240404"}
+    ],
+    [
+      "168240405",
+      {"key": "168240405"}
+    ],
+    [
+      "168240407",
+      {"key": "168240407"}
+    ],
+    [
+      "168240409",
+      {"key": "168240409"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/35andersen",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Andersen enseña acerca del poder de Jesucristo para conceder el perdón a quienes han pecado y brindar sanación a quienes han resultado heridos por los pecados de otras personas.",
+          "title": "El amor expiatorio de Jesucristo"
+        },
+        "pageSocial": {
+          "description": "El élder Andersen enseña acerca del poder de Jesucristo para conceder el perdón a quienes han pecado y brindar sanación a quienes han resultado heridos por los pecados de otras personas.",
+          "title": "El amor expiatorio de Jesucristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/dbuahig7d9mp2eyt4ym5r5v6huxzljmnhb2j32ox/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/dbuahig7d9mp2eyt4ym5r5v6huxzljmnhb2j32ox/full/%21192%2C/0/default\" data-video-title=\"El amor expiatorio de Jesucristo\" data-video-description=\"El élder Andersen enseña acerca del poder de Jesucristo para conceder el perdón a quienes han pecado y brindar sanación a quienes han resultado heridos por los pecados de otras personas.\" data-video-id=\"6382053717112\" data-duration=\"874000\" data-assetId=\"q4nqumciurz1t44xi8v4ikbqdki3rrihgb5e6ff9\" data-ref-id=\"q4nqumciurz1t44xi8v4ikbqdki3rrihgb5e6ff9\" data-duration-string=\"14:34\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382053717112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"189111991\"/><source src=\"https://assets.churchofjesuschrist.org/q4nqumciurz1t44xi8v4ikbqdki3rrihgb5e6ff9-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"56111073\"/><source src=\"https://assets.churchofjesuschrist.org/q4nqumciurz1t44xi8v4ikbqdki3rrihgb5e6ff9-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"94265795\"/><source src=\"https://assets.churchofjesuschrist.org/q4nqumciurz1t44xi8v4ikbqdki3rrihgb5e6ff9-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"189111991\"/><\/video><h1 data-aid=\"168240271\" id=\"p_aPnv0\">El amor expiatorio de Jesucristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168240272\" id=\"p_cDubc\">Por el élder Neil L. Andersen<\/p>\n<p class=\"author-role\" data-aid=\"168240273\" id=\"p_wNEcL\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168240274\" id=\"p_zGn3K\">La sanación y el perdón se hallan en toda su plenitud en el amor expiatorio de Jesucristo.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168240275\" id=\"p_lRVTB\">Expreso mi amor por el presidente Russell M. Nelson y mi gratitud por la notable influencia que ha tenido en cada uno de nosotros. Y en nombre de todos nosotros, doy gracias a Dios por haber preservado y magnificado la noble vida del presidente Dallin H. Oaks.<\/p>\n<p data-aid=\"168240278\" id=\"p_kRIYd\">Con cada año que pasa, siento más amor por nuestro Salvador, Jesucristo, y Su misericordiosa Expiación. Su sacrificio supremo, que aseguró la victoria sobre la muerte y el pecado, es la contribución de mayor trascendencia en toda la historia de la humanidad. Comprender Su don divino es para mí una lección celestial inconclusa que continuará más allá de la tumba.<\/p>\n<img alt=\"El Señor Jesucristo\" id=\"img_dIuM4\" src=\"https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21500%2C/0/default\" data-img-id=\"4a2af126f211eee8bd0df6f93e7ced52d3b955ba\" srcset=\"https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/4a2af126f211eee8bd0df6f93e7ced52d3b955ba/full/%21640%2C/0/default 640w\" data-assetId=\"4a2af126f211eee8bd0df6f93e7ced52d3b955ba\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"256\" data-aspect-ratio=\"1.953125\" data-public-title=\"[Christ's image]\" data-public-description=\"Frontal head and shoulders portrait of Jesus Christ. Christ is depicted wearing a pale red robe with a white and blue shawl over one shoulder. Light emanates from His face.\"/>\n<p data-aid=\"168240279\" id=\"p_oKX3o\">La poderosa compasión del Salvador al perdonar el pecado y sanar las heridas causadas por los pecados de otros es la manifestación más milagrosa del amor de Dios.<\/p>\n<p data-aid=\"168240282\" id=\"p_mWwbV\">Mi deseo es dar esperanza a quienes buscan el perdón de pecados muy graves y brindar consuelo a quienes buscan sanación de las angustiosas heridas causadas por los pecados graves de otras personas<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240283\" id=\"p_ui3JV\">La sanación y el perdón se hallan en toda su plenitud en el amor expiatorio de Jesucristo.<\/p>\n<section id=\"sec_hbjnq\">\n<header>\n<h2 data-aid=\"168240285\" id=\"p_gi9xl\">Fe en Jesucristo<\/h2>\n<\/header>\n<p data-aid=\"168240287\" id=\"p_r3HIV\">Si han cometido pecados graves y están en el proceso de arrepentirse, o tienen el deseo de arrepentirse por completo y sentir el gozo inefable del perdón, sepan que ese milagro los espera<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. El Salvador continuamente invita: \u201cVenid a mí\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240290\" id=\"p_skriC\">Fortalecer su fe en nuestro Salvador, Jesucristo, vigorizará el anhelo del alma de conocerlo, creer en Él y entregarle el corazón<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. Enós preguntó sobre su propio perdón: \u201cSeñor, ¿cómo se lleva esto a efecto?\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. El Señor respondió: \u201cPor tu fe en Cristo, a quien nunca jamás has oído ni visto\u201d<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240292\" id=\"p_k23n0\">Moroni agregó: \u201cSi os abstenéis de toda impiedad, y amáis a Dios con todo vuestro poder, mente y fuerza, entonces su gracia os es suficiente\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240294\" id=\"p_pt8Xm\">Dejar el pecado, volverse hacia Dios y fortalecer su fe en Jesucristo constituyen un hermoso comienzo. Someter humildemente su voluntad a Dios incluye reconocer los pecados graves ante su obispo o presidente de rama<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>, mas su perdón completo viene del Salvador<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. El perdón es un don divino que se ofrece mediante la gracia de Jesucristo.<\/p>\n<\/section>\n<section id=\"sec_nifJT\">\n<header>\n<h2 data-aid=\"168240296\" id=\"p_iUcZ2\">Honestidad<\/h2>\n<\/header>\n<p data-aid=\"168240298\" id=\"p_cTwO0\">El deseo de regresar a Dios se acompaña de la determinación de ser totalmente honestos con su Padre Celestial, con ustedes mismos, con quienes han sufrido daño y con su líder del sacerdocio. Su Padre Celestial se regocija en la determinación de ustedes de venir a Él<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> con un corazón quebrantado y un espíritu contrito<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Tener un espíritu contrito es ponerse en las manos de Dios; tener un corazón quebrantado trae lo que Pablo describió como la \u201ctristeza que es según Dios\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>, un profundo deseo de volver a Él sea cual sea el costo.<\/p>\n<\/section>\n<section id=\"sec_nRj9g\">\n<header>\n<h2 data-aid=\"168240300\" id=\"p_pNJ64\">Restaurar lo que está roto<\/h2>\n<\/header>\n<p data-aid=\"168240302\" id=\"p_gVAtp\">Su anhelo los lleva a querer reparar lo que han roto, aunque, al darse cuenta de que hay cosas que no pueden reparar, oran con fervor para que el Señor, mediante Su gracia, ayude a sanar a quienes han sido heridos por las acciones de ustedes.<\/p>\n<p data-aid=\"168240304\" id=\"p_tn77O\">Los efectos de los pecados graves en los demás suelen ser muy difíciles de superar. ¿Están siguiendo el ejemplo de los hijos de Mosíah, quienes se \u201cesforz[aron] celosamente por reparar todos los daños que habían causado\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>? Hablen con aquellos a quienes respeten en cuanto a lo que quizás ustedes no estén viendo.<\/p>\n<p data-aid=\"168240306\" id=\"p_bL4KI\">Mientras preparaba este discurso, recibí un correo electrónico inesperado de una persona en proceso de arrepentimiento que desea volver a la Iglesia. Su exesposa aún sufría por la pérdida \u201cde [su] matrimonio eterno, [las dificultades con los hijos], la pérdida de seguridad económica [\u2026], el no [poder] estar al día con los gastos [y] los sentimientos sumamente agobiantes de haber sido traicionada\u201d.<\/p>\n<p data-aid=\"168240308\" id=\"p_qn13i\">Me contó que su líder del sacerdocio \u201cse sintió inspirado a [pedirle] que considerara, con espíritu de oración, qué [más podía hacer por su exesposa e hijos]\u201d. Con permiso, cito una parte del correo electrónico:<\/p>\n<p data-aid=\"168240310\" id=\"p_hFVt9\">\u201c[Primero] pensé que el [dinero] que cedí en la sentencia de divorcio era más que generoso, pero mi presidente de rama me animó a ayunar y orar al respecto [\u2026].<\/p>\n<p data-aid=\"168240312\" id=\"p_qjUi0\">\u201cAl principio batallé con la idea de una mayor restitución. Dado que mis pecados no eran de índole económica, me preguntaba por el verdadero significado de \u2018restitución generosa\u2019 [\u2026], [pero] pronto me di cuenta de que no se trataba solo de un asunto de dinero.<\/p>\n<p data-aid=\"168240313\" id=\"p_sn4sM\">\u201cMis líderes del sacerdocio se reunieron con [mi exesposa] y mis hijos y notaron que aún sufrían y que no habían sanado [\u2026].<\/p>\n<p data-aid=\"168240315\" id=\"p_sUdxa\">\u201cMi nueva meta era seguir adelante con fe [\u2026]. Simplemente expresé mi deseo de ayudar sin condiciones [\u2026]. Decidí [enviar a mi exesposa una cantidad específica] de cada paga, que era una buena parte de mi salario neto. Antes de hacer el primer pago, el Señor [inspiró en mi mente la necesidad] de pagar [el doble de esa cantidad].<\/p>\n<p data-aid=\"168240317\" id=\"p_ovIAJ\">\u201cHe aprendido que la restitución no consiste solo en el dinero, sino en dedicar humildemente mi vida al Señor [\u2026]. El dinero es para ayudar a sustituir lo que le quité a mi familia por mis malas decisiones. Se trata de hacer y cumplir promesas sin esperar nada a cambio y evitar que ella se preocupe por las cuentas para que pueda buscar al Espíritu\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240319\" id=\"p_pPak3\">Tal vez los esfuerzos de ustedes por restaurar lo que han roto no tengan que ver con el dinero, pero al deliberar humildemente en consejo con el Señor, quizás descubran que pueden hacer más.<\/p>\n<\/section>\n<section id=\"sec_kc7mQ\">\n<header>\n<h2 data-aid=\"168240321\" id=\"p_g8HZF\">Aprobación divina gradual<\/h2>\n<\/header>\n<p data-aid=\"168240322\" id=\"p_kMY1B\">Cuando busquen el perdón del Señor, sean pacientes mientras aguardan Su aprobación plena. Consideren estos versículos:<\/p>\n<p data-aid=\"168240324\" id=\"p_glOBm\">\u201cSe humillaron hasta lo más profundo de la humildad y clamaron fuertemente a Dios; sí, todo el día [\u2026]. [Pero] el Señor fue lento en oír su clamor a causa de sus iniquidades\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240326\" id=\"p_a380V\">\u201cSin embargo, oyó sus clamores, y empezó [\u2026] a aligerar sus cargas; [\u2026] y [\u2026] empezaron a prosperar gradualmente\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240328\" id=\"p_tb6ke\">Sean pacientes mientras el Señor les da Su bendición y aprobación gradualmente.<\/p>\n<p data-aid=\"168240330\" id=\"p_nQvpt\">En el tiempo del Señor, sentirán Su voz diciéndoles: \u201cNo dej[es] que te perturb[en] más estas cosas\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Si siguen acudiendo al Salvador, un día su Padre Celestial \u201cdepura[rá] [sus] corazones de toda culpa, por los méritos de su Hijo\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_j994M\">\n<header>\n<h2 data-aid=\"168406283\" id=\"p_mE3tN\">Heridos y en sufrimiento<\/h2>\n<\/header>\n<p data-aid=\"168240334\" id=\"p_tRHPt\">Deseo compartir el amor y la compasión del Salvador, Su consuelo y paz, con aquellos de ustedes que han sido injustamente heridos por los pecados graves de otra persona.<\/p>\n<p data-aid=\"168240336\" id=\"p_uYbCW\">Pese a la tristeza que han sentido, el dolor, la pérdida, el agobiante sentimiento de traición, el vuelco radical que ha dado su vida, les aseguro con toda certeza que el Salvador los conoce y los ama. Acudan a Él. Él es su consuelo y fortaleza; Él enviará a Sus ángeles para sostenerlos. ¿Cuándo desaparecerá el dolor, disminuirá el pesar, se olvidarán de los recuerdos no deseados? No lo sé. Pero sí sé que Él tiene el poder de extraer belleza de las cenizas del sufrimiento<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240338\" id=\"p_nQTkr\">Nuestros amados hermanos y hermanas de Grand Blanc, Míchigan, con su fe inquebrantable en Jesucristo, con su valentía y altruismo, han recibido y seguirán recibiendo en abundancia, en las próximas semanas y meses, el amor y la gracia incomparables del Salvador.<\/p>\n<p data-aid=\"168240340\" id=\"p_coIZa\">Al continuar depositando su confianza en Él, sus nubes de tinieblas y sus sollozos nocturnos de angustia se transformarán en cascadas de lágrimas de gozo y paz al alba<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. \u201cVuestra tristeza se convertirá en gozo [\u2026]. Y nadie os quitará vuestro gozo\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Ese momento llegará. Testifico que llegará.<\/p>\n<img alt=\"Presidente Dallin&lt;nb/&gt;H. Oaks\" id=\"img_jLTqh\" src=\"https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21500%2C/0/default\" data-img-id=\"yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3\" srcset=\"https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3/full/%21640%2C/0/default 640w\" data-assetId=\"yfl2w3388eppetnxr40lof32ixwd4gynfpa0b1l3\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Dallin H. Oaks\" data-public-description=\"The Official Portrait of Dallin H. Oaks. This is a wider version of the original.\"/>\n<p data-aid=\"168240342\" id=\"p_hcNW2\">Es posible hallar el amor expiatorio de Jesucristo aun en las situaciones más difíciles, pero todos tenemos la necesidad constante de la gracia expiatoria de nuestro Salvador. El presidente Dallin H. Oaks ha enseñado: \u201cDebido a Su experiencia expiatoria en la vida terrenal, el Salvador puede consolar, sanar y fortalecer a todos los hombres y mujeres de todas partes; pero creo que lo hace solamente con aquellos que lo buscan y piden Su ayuda. El apóstol Santiago enseñó: \u2018Humillaos delante del Señor, y él os ensalzará\u2019 (Santiago 4:10). Nos hacemos merecedores de esa bendición si creemos en Él y oramos para pedir Su ayuda\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<\/section>\n<img alt=\"Élder Robert&lt;nb/&gt;E. Wells con el élder Neil&lt;nb/&gt;L. Andersen\" id=\"img_h2ueU\" src=\"https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21500%2C/0/default\" data-img-id=\"n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz\" srcset=\"https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz/full/%21640%2C/0/default 640w\" data-assetId=\"n0xxt8rp86svkp9xu3ldvkav0mck32n1wk03lxlz\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Neil L. Andersen and Elder Robert E. Wells\" data-public-description=\"Elder Neil L. Andersen and Elder Robert E. Wells\"/>\n<section id=\"sec_aTiPu\">\n<header>\n<h2 data-aid=\"168240344\" id=\"p_qk6YY\">Élder Robert E. Wells<\/h2>\n<\/header>\n<p data-aid=\"168240346\" id=\"p_wFyX1\">El élder Robert E. Wells, querido amigo y Setenta Autoridad General emérita, de noventa y siete años, me autorizó a contar su experiencia de hace más de sesenta años:<\/p>\n<p data-aid=\"168240348\" id=\"p_v2awN\">En 1960, mientras vivía en Paraguay y trabajaba en la banca internacional, Robert Wells, de treinta y dos años, y su esposa, Meryl, volaban desde Uruguay hasta su hogar en Paraguay piloteando cada uno una avioneta. Al encontrarse con nubes espesas, Robert y Meryl perdieron contacto visual y radial entre sí. Robert aterrizó sin demora y se enteró de que la avioneta de su esposa se había estrellado. No sobrevivieron ni su esposa ni los dos amigos que volaban con ella. Sus hijos de siete, cinco y dos años estaban en casa en Asunción.<\/p>\n<img alt=\"La familia Wells\" id=\"img_bQOlP\" src=\"https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21500%2C/0/default\" data-img-id=\"lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh\" srcset=\"https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh/full/%21640%2C/0/default 640w\" data-assetId=\"lx7lxxpv5k35pamtn8yjkll06o6wvcvo746l40mh\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"725\" data-aspect-ratio=\"0.6896551724137931\" data-public-title=\"Elder Robert E. Wells and his family\" data-public-description=\"Elder Robert E. Wells and his family\"/>\n<p data-aid=\"168240349\" id=\"p_rzysT\">El élder Wells habló de su pesar:<\/p>\n<p data-aid=\"168240351\" id=\"p_w57gV\">\u201cLas palabras jamás bastarán para expresar el dolor que me traspasaba, que me consumía las emociones y me entumecía los sentidos. Derramaba lágrimas de profunda tristeza sin cesar. Para empeorar la situación, mientras mi cabeza trataba de lidiar con la devastadora realidad del fallecimiento de mi esposa, comencé a sufrir una tremenda culpa al sentirme responsable del accidente\u201d.<\/p>\n<p data-aid=\"168240353\" id=\"p_kkatz\">Robert se culpaba por no haber pedido que se revisara mejor la avioneta y por no haber dado a su esposa mejores instrucciones para emplear los instrumentos de vuelo. Se culpaba de tal negligencia.<\/p>\n<p data-aid=\"168240355\" id=\"p_mtJN1\">Robert dijo:<\/p>\n<p data-aid=\"168406284\" id=\"p_tnnb5\">\u201cMi mente se hallaba en un oscuro aturdimiento [\u2026]. Simplemente existía [por el bien de los niños], nada más.<\/p>\n<p data-aid=\"168406285\" id=\"p_vGucs\">\u201cYo [\u2026] perdí mis ganas de continuar\u201d.<\/p>\n<p data-aid=\"168240360\" id=\"p_bDSzZ\">Con el tiempo, Robert fue bendecido con una experiencia profundamente espiritual y relató lo siguiente:<\/p>\n<p data-aid=\"168240362\" id=\"p_amj56\">\u201cUna noche, aproximadamente un año después, mientras me encontraba de rodillas orando, ocurrió un milagro. Mientras oraba e invocaba a mi Padre Celestial, sentí como si el Salvador se pusiera a mi lado y oí una voz clara que pronunciaba estas palabras a mi alma y a mis oídos: \u2018Robert, Mi sacrificio expiatorio pagó por tus pecados y tus errores; tu esposa te perdona, tus amigos te perdonan. Yo te quitaré esa carga [\u2026]\u2019.<\/p>\n<p data-aid=\"168240364\" id=\"p_uLcTT\">\u201cDesde ese momento, aquella carga de culpa [y desesperación] desapareció de mí de manera asombrosa. ¡Había sido rescatado! De inmediato, comprendí el poder confortante de la Expiación del Salvador y [\u2026] que se llevaba a efecto directamente en mí [\u2026], y [\u2026] experimenté una luz y un gozo como nunca antes [\u2026]. Se me había dado un don que yo no había merecido: el don de la gracia [\u2026] del Señor [\u2026]. No lo merec[ía]; no había hecho nada para merecerlo, pero Él me lo dio de todos modos\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240366\" id=\"p_iF55n\">Hermanos y hermanas, ruego que sean \u201csantificados en Cristo por la gracia de Dios, mediante el derramamiento de la sangre de Cristo, [\u2026] [y lleguen a ser] santos, sin mancha\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168240369\" id=\"p_te5Js\">Testifico del amor, la misericordia y la gracia de nuestro Salvador y Redentor. Él vive. Nosotros somos Suyos, somos hijos del convenio. Al grado en que creamos en Él, lo sigamos y confiemos en Él, Él nos elevará por encima de nuestros pesares y pecados. Entonces viviremos con Él por siempre jamás, más allá de esta vida terrenal, en la casa de nuestro Padre. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168240371\" id=\"p_dTkoJ\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168240373\" id=\"p_oolbF\">\u201cEn esto hemos conocido el amor de Dios, en que él puso su vida por nosotros\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p16#p16\">1 Juan 3:16<\/a>).<\/p>\n<p data-aid=\"168240374\" id=\"p_wvBqT\">\u201cY tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí, para que sus entrañas sean llenas de misericordia, según la carne, a fin de que según la carne sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p12#p12\">Alma 7:12<\/a>).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168240375\" id=\"p_zESaP\">\u201cHe aquí, quien se ha arrepentido de sus pecados es perdonado; y yo, el Señor, no los recuerdo más\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p42#p42\">Doctrina y Convenios 58:42<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p30#p30\">Mosíah 26:30<\/a>).<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168240376\" id=\"p_xTTEP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28\">Mateo 11:28<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168240377\" id=\"p_heV6H\">El aumento de su fe hará que sus oraciones sean más sinceras, su estudio de las Escrituras más significativo y sus deseos más precisos en cuanto a guardar los mandamientos de Dios.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168240378\" id=\"p_t8re5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p7#p7\">Enós 1:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168240379\" id=\"p_mMNz3\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p8#p8\">Enós 1:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168240380\" id=\"p_oLFD6\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168240381\" id=\"p_ihMlz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p43#p43\">Doctrina y Convenios 58:43<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168240382\" id=\"p_lvb8m\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p29#p29\">Mosíah 26:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168240383\" id=\"p_tJyMm\">\u201cSí, te las digo para que sepas que no hay quien conozca tus pensamientos y las intenciones de tu corazón sino Dios\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 6:16<\/a>).<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168240385\" id=\"p_oPoKA\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20\">3 Nefi 9:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 59:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168240387\" id=\"p_sDCFp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/7?lang=spa&amp;id=p8-p11#p8\">2 Corintios 7:8\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168240389\" id=\"p_tdlSp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p35#p35\">Mosíah 27:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168240391\" id=\"p_sUOzC\">Correo electrónico personal recibido el 22 de agosto de 2025.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168240393\" id=\"p_tJ1vD\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p14-p15#p14\">Mosíah 21:14\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168240395\" id=\"p_sJiCk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p15-p16#p15\">Mosíah 21:15\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168240396\" id=\"p_wpsgy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p29#p29\">Alma 42:29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168240399\" id=\"p_m6sQq\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/24?lang=spa&amp;id=p10#p10\">Alma 24:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168240400\" id=\"p_onhXc\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=spa&amp;id=p3#p3\">Isaías 61:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168240402\" id=\"p_tsefC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/3?lang=spa&amp;id=p1-p2#p1\">Jacob 3:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168240404\" id=\"p_l0paO\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=spa&amp;id=p20%2Cp22#p20\">Juan 16:20, 22<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168240405\" id=\"p_nvfwq\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&amp;id=p44#p44\">Fortalecidos por la expiación de Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, pág. 64.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168240407\" id=\"p_n3QD0\">Véase Neil L. Andersen, <cite>El don divino del perdón<\/cite>, 2019, págs. 280\u2013282.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168240409\" id=\"p_aydBF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p33#p33\">Moroni 10:33<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168240290",
+        "id": "note4",
+        "text": "<p data-aid=\"168240377\" id=\"p_heV6H\">El aumento de su fe hará que sus oraciones sean más sinceras, su estudio de las Escrituras más significativo y sus deseos más precisos en cuanto a guardar los mandamientos de Dios.<\/p>"
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168240290",
+        "id": "note5",
+        "text": "<p data-aid=\"168240378\" id=\"p_t8re5\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p7#p7\">Enós 1:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p7#p7",
+          "text": "Enós 1:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168240287",
+        "id": "note2",
+        "text": "<p data-aid=\"168240375\" id=\"p_zESaP\">\u201cHe aquí, quien se ha arrepentido de sus pecados es perdonado; y yo, el Señor, no los recuerdo más\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p42#p42\">Doctrina y Convenios 58:42<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p30#p30\">Mosíah 26:30<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p42#p42",
+            "text": "Doctrina y Convenios 58:42",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p30#p30",
+            "text": "Mosíah 26:30",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168240287",
+        "id": "note3",
+        "text": "<p data-aid=\"168240376\" id=\"p_xTTEP\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28\">Mateo 11:28<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/11?lang=spa&amp;id=p28#p28",
+          "text": "Mateo 11:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168240294",
+        "id": "note8",
+        "text": "<p data-aid=\"168240381\" id=\"p_ihMlz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p43#p43\">Doctrina y Convenios 58:43<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p43#p43",
+          "text": "Doctrina y Convenios 58:43",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168240294",
+        "id": "note9",
+        "text": "<p data-aid=\"168240382\" id=\"p_lvb8m\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p29#p29\">Mosíah 26:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/26?lang=spa&amp;id=p29#p29",
+          "text": "Mosíah 26:29",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168240290",
+        "id": "note6",
+        "text": "<p data-aid=\"168240379\" id=\"p_mMNz3\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p8#p8\">Enós 1:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p8#p8",
+          "text": "Enós 1:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168240292",
+        "id": "note7",
+        "text": "<p data-aid=\"168240380\" id=\"p_oLFD6\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32\">Moroni 10:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p32#p32",
+          "text": "Moroni 10:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168240326",
+        "id": "note16",
+        "text": "<p data-aid=\"168240395\" id=\"p_sJiCk\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p15-p16#p15\">Mosíah 21:15\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p15-p16#p15",
+          "text": "Mosíah 21:15\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168240324",
+        "id": "note15",
+        "text": "<p data-aid=\"168240393\" id=\"p_tJ1vD\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p14-p15#p14\">Mosíah 21:14\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/21?lang=spa&amp;id=p14-p15#p14",
+          "text": "Mosíah 21:14\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168240317",
+        "id": "note14",
+        "text": "<p data-aid=\"168240391\" id=\"p_sUOzC\">Correo electrónico personal recibido el 22 de agosto de 2025.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168240304",
+        "id": "note13",
+        "text": "<p data-aid=\"168240389\" id=\"p_tdlSp\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p35#p35\">Mosíah 27:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/27?lang=spa&amp;id=p35#p35",
+          "text": "Mosíah 27:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168240366",
+        "id": "note24",
+        "text": "<p data-aid=\"168240409\" id=\"p_aydBF\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p33#p33\">Moroni 10:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p33#p33",
+          "text": "Moroni 10:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168240298",
+        "id": "note12",
+        "text": "<p data-aid=\"168240387\" id=\"p_sDCFp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/7?lang=spa&amp;id=p8-p11#p8\">2 Corintios 7:8\u201311<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/7?lang=spa&amp;id=p8-p11#p8",
+          "text": "2 Corintios 7:8\u201311",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168240364",
+        "id": "note23",
+        "text": "<p data-aid=\"168240407\" id=\"p_n3QD0\">Véase Neil L. Andersen, <cite>El don divino del perdón<\/cite>, 2019, págs. 280\u2013282.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168240298",
+        "id": "note11",
+        "text": "<p data-aid=\"168240385\" id=\"p_oPoKA\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20\">3 Nefi 9:20<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p8#p8\">Doctrina y Convenios 59:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/3-ne/9?lang=spa&amp;id=p20#p20",
+            "text": "3 Nefi 9:20",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p8#p8",
+            "text": "Doctrina y Convenios 59:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168240342",
+        "id": "note22",
+        "text": "<p data-aid=\"168240405\" id=\"p_nvfwq\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&amp;id=p44#p44\">Fortalecidos por la expiación de Jesucristo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2015, pág. 64.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=spa&amp;id=p44#p44",
+          "text": "Fortalecidos por la expiación de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168240298",
+        "id": "note10",
+        "text": "<p data-aid=\"168240383\" id=\"p_tJyMm\">\u201cSí, te las digo para que sepas que no hay quien conozca tus pensamientos y las intenciones de tu corazón sino Dios\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p16#p16\">Doctrina y Convenios 6:16<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p16#p16",
+          "text": "Doctrina y Convenios 6:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168240340",
+        "id": "note21",
+        "text": "<p data-aid=\"168240404\" id=\"p_l0paO\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/16?lang=spa&amp;id=p20%2Cp22#p20\">Juan 16:20, 22<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/16?lang=spa&amp;id=p20%2Cp22#p20",
+          "text": "Juan 16:20, 22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168240340",
+        "id": "note20",
+        "text": "<p data-aid=\"168240402\" id=\"p_tsefC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/3?lang=spa&amp;id=p1-p2#p1\">Jacob 3:1\u20132<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/3?lang=spa&amp;id=p1-p2#p1",
+          "text": "Jacob 3:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168240282",
+        "id": "note1",
+        "text": "<p data-aid=\"168240373\" id=\"p_oolbF\">\u201cEn esto hemos conocido el amor de Dios, en que él puso su vida por nosotros\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p16#p16\">1 Juan 3:16<\/a>).<\/p>\n<p data-aid=\"168240374\" id=\"p_wvBqT\">\u201cY tomará sobre sí la muerte, para soltar las ligaduras de la muerte que sujetan a su pueblo; y sus debilidades tomará él sobre sí, para que sus entrañas sean llenas de misericordia, según la carne, a fin de que según la carne sepa cómo socorrer a los de su pueblo, de acuerdo con las debilidades de ellos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/7?lang=spa&amp;id=p12#p12\">Alma 7:12<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-jn/3?lang=spa&amp;id=p16#p16",
+            "text": "1 Juan 3:16",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/7?lang=spa&amp;id=p12#p12",
+            "text": "Alma 7:12",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168240336",
+        "id": "note19",
+        "text": "<p data-aid=\"168240400\" id=\"p_onhXc\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/61?lang=spa&amp;id=p3#p3\">Isaías 61:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/61?lang=spa&amp;id=p3#p3",
+          "text": "Isaías 61:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168240330",
+        "id": "note18",
+        "text": "<p data-aid=\"168240399\" id=\"p_m6sQq\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/24?lang=spa&amp;id=p10#p10\">Alma 24:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/24?lang=spa&amp;id=p10#p10",
+          "text": "Alma 24:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168240330",
+        "id": "note17",
+        "text": "<p data-aid=\"168240396\" id=\"p_wpsgy\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/42?lang=spa&amp;id=p29#p29\">Alma 42:29<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/42?lang=spa&amp;id=p29#p29",
+          "text": "Alma 42:29",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

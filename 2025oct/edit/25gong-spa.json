@@ -1,0 +1,686 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/25gong?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "d74e8c1ae3814ea9af8986980a1a6abf",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/25gong",
+      "data-bcp47-lang": "es",
+      "data-aid": "168174550",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "ef508cd75f454f5d8533f40943117563"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/erq8kg104bmpm6x48jnas9vor9tth26wbf0s48o1/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/qa2uwfriwy0ms2yd1qdtaipq1p8o4ysyiow7i66l-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Que nadie esté sentado solo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168174550",
+      {"key": "168174550"}
+    ],
+    [
+      "168241907",
+      {"key": "168241907"}
+    ],
+    [
+      "168241910",
+      {"key": "168241910"}
+    ],
+    [
+      "168241913",
+      {"key": "168241913"}
+    ],
+    [
+      "168241914",
+      {"key": "168241914"}
+    ],
+    [
+      "168241916",
+      {"key": "168241916"}
+    ],
+    [
+      "168241918",
+      {"key": "168241918"}
+    ],
+    [
+      "168241920",
+      {"key": "168241920"}
+    ],
+    [
+      "168241922",
+      {"key": "168241922"}
+    ],
+    [
+      "168241924",
+      {"key": "168241924"}
+    ],
+    [
+      "168241926",
+      {"key": "168241926"}
+    ],
+    [
+      "168241928",
+      {"key": "168241928"}
+    ],
+    [
+      "168241930",
+      {"key": "168241930"}
+    ],
+    [
+      "168241932",
+      {"key": "168241932"}
+    ],
+    [
+      "168241934",
+      {"key": "168241934"}
+    ],
+    [
+      "168241936",
+      {"key": "168241936"}
+    ],
+    [
+      "168241938",
+      {"key": "168241938"}
+    ],
+    [
+      "168241941",
+      {"key": "168241941"}
+    ],
+    [
+      "168241944",
+      {"key": "168241944"}
+    ],
+    [
+      "168241947",
+      {"key": "168241947"}
+    ],
+    [
+      "168241950",
+      {"key": "168241950"}
+    ],
+    [
+      "168241953",
+      {"key": "168241953"}
+    ],
+    [
+      "168241954",
+      {"key": "168241954"}
+    ],
+    [
+      "168241955",
+      {"key": "168241955"}
+    ],
+    [
+      "168241956",
+      {"key": "168241956"}
+    ],
+    [
+      "168241957",
+      {"key": "168241957"}
+    ],
+    [
+      "168241958",
+      {"key": "168241958"}
+    ],
+    [
+      "168241959",
+      {"key": "168241959"}
+    ],
+    [
+      "168241960",
+      {"key": "168241960"}
+    ],
+    [
+      "168241961",
+      {"key": "168241961"}
+    ],
+    [
+      "168241964",
+      {"key": "168241964"}
+    ],
+    [
+      "168241967",
+      {"key": "168241967"}
+    ],
+    [
+      "168241971",
+      {"key": "168241971"}
+    ],
+    [
+      "168241973",
+      {"key": "168241973"}
+    ],
+    [
+      "168241976",
+      {"key": "168241976"}
+    ],
+    [
+      "168241979",
+      {"key": "168241979"}
+    ],
+    [
+      "168241981",
+      {"key": "168241981"}
+    ],
+    [
+      "168241984",
+      {"key": "168241984"}
+    ],
+    [
+      "168241987",
+      {"key": "168241987"}
+    ],
+    [
+      "168241989",
+      {"key": "168241989"}
+    ],
+    [
+      "168241992",
+      {"key": "168241992"}
+    ],
+    [
+      "168241995",
+      {"key": "168241995"}
+    ],
+    [
+      "168241998",
+      {"key": "168241998"}
+    ],
+    [
+      "168242001",
+      {"key": "168242001"}
+    ],
+    [
+      "168242004",
+      {"key": "168242004"}
+    ],
+    [
+      "168242007",
+      {"key": "168242007"}
+    ],
+    [
+      "168242010",
+      {"key": "168242010"}
+    ],
+    [
+      "168242013",
+      {"key": "168242013"}
+    ],
+    [
+      "168242016",
+      {"key": "168242016"}
+    ],
+    [
+      "168242020",
+      {"key": "168242020"}
+    ],
+    [
+      "168242024",
+      {"key": "168242024"}
+    ],
+    [
+      "168242027",
+      {"key": "168242027"}
+    ],
+    [
+      "168242030",
+      {"key": "168242030"}
+    ],
+    [
+      "168242033",
+      {"key": "168242033"}
+    ],
+    [
+      "168242036",
+      {"key": "168242036"}
+    ],
+    [
+      "168242039",
+      {"key": "168242039"}
+    ],
+    [
+      "168242042",
+      {"key": "168242042"}
+    ],
+    [
+      "168242045",
+      {"key": "168242045"}
+    ],
+    [
+      "168242048",
+      {"key": "168242048"}
+    ],
+    [
+      "168242051",
+      {"key": "168242051"}
+    ],
+    [
+      "168242055",
+      {"key": "168242055"}
+    ],
+    [
+      "168242058",
+      {"key": "168242058"}
+    ],
+    [
+      "168242061",
+      {"key": "168242061"}
+    ],
+    [
+      "168242065",
+      {"key": "168242065"}
+    ],
+    [
+      "168242069",
+      {"key": "168242069"}
+    ],
+    [
+      "168242073",
+      {"key": "168242073"}
+    ],
+    [
+      "168242076",
+      {"key": "168242076"}
+    ],
+    [
+      "168242079",
+      {"key": "168242079"}
+    ],
+    [
+      "168242082",
+      {"key": "168242082"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/25gong",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Gong enseña que el Señor nos invita a todos a venir a Él y a mantenernos unidos en Su Iglesia.",
+          "title": "Que nadie esté sentado solo"
+        },
+        "pageSocial": {
+          "description": "El élder Gong enseña que el Señor nos invita a todos a venir a Él y a mantenernos unidos en Su Iglesia.",
+          "title": "Que nadie esté sentado solo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/erq8kg104bmpm6x48jnas9vor9tth26wbf0s48o1/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/erq8kg104bmpm6x48jnas9vor9tth26wbf0s48o1/full/%21192%2C/0/default\" data-video-title=\"Nadie se sienta solo\" data-video-description=\"El élder Gong enseña que el Señor nos invita a todos a venir a Él y a mantenernos unidos en Su Iglesia.\" data-video-id=\"6382045663112\" data-duration=\"842933\" data-assetId=\"th5e3zykpq7ed0dpd7c51tuctkh2ajfig168yyls\" data-ref-id=\"th5e3zykpq7ed0dpd7c51tuctkh2ajfig168yyls\" data-duration-string=\"14:02\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382045663112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"205819569\"/><source src=\"https://assets.churchofjesuschrist.org/th5e3zykpq7ed0dpd7c51tuctkh2ajfig168yyls-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"50879329\"/><source src=\"https://assets.churchofjesuschrist.org/th5e3zykpq7ed0dpd7c51tuctkh2ajfig168yyls-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"87306114\"/><source src=\"https://assets.churchofjesuschrist.org/th5e3zykpq7ed0dpd7c51tuctkh2ajfig168yyls-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"205819569\"/><\/video><h1 data-aid=\"168241907\" id=\"p_mJWN8\">Que nadie esté sentado solo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168241910\" id=\"p_kS51q\">Por el élder Gerrit W. Gong<\/p>\n<p class=\"author-role\" data-aid=\"168241913\" id=\"p_b4qvM\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168241914\" id=\"p_bTER2\">Vivir el Evangelio de Jesucristo incluye hacer lugar para todos en Su Iglesia restaurada.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_eYeeb\">\n<header>\n<h2 data-aid=\"168241916\" id=\"p_tp6oo\">I.<\/h2>\n<\/header>\n<p data-aid=\"168241918\" id=\"p_aQsjx\">Durante cincuenta años he estudiado la cultura, incluida la cultura del Evangelio. Empecé con las galletas de la fortuna.<\/p>\n<p data-aid=\"168241920\" id=\"p_dNByj\">En el barrio chino de San Francisco, las cenas de la familia Gong concluían con una galleta de la fortuna y un sabio dicho como: \u201cUn viaje de mil kilómetros comienza con un solo paso\u201d.<\/p>\n<img alt=\"La fortuna en una galleta de la fortuna\" id=\"img_o2W5Q\" src=\"https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21500%2C/0/default\" data-img-id=\"uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry\" srcset=\"https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry/full/%21640%2C/0/default 640w\" data-assetId=\"uz1c944fhhwalwj1h9kzxmpmyb70jjalshjia5ry\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Fresh Made Fortune Cookie\" data-public-description=\"Fresh Made Fortune Cookie\"/>\n<p data-aid=\"168241922\" id=\"p_hSn5b\">Cuando yo era joven adulto, hice galletas de la fortuna. Con ayuda de unos guantes blancos de algodón, doblaba y daba forma a las galletas redondas recién salidas del horno.<\/p>\n<img alt=\"Haciendo galletas de la fortuna\" id=\"img_bqDM5\" src=\"https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21500%2C/0/default\" data-img-id=\"cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv\" srcset=\"https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv/full/%21640%2C/0/default 640w\" data-assetId=\"cmk6b8crrvaae2mlt20zd7u7xcds0jvdtaoaz0lv\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Gerrit W. Gong, 195th Semi-Annual General Conference Visual Aid: Making Fortune Cookies\" data-public-description=\"A person makes fortune cookies inside a kitchen. Image taken to serve as a visual aid for Elder Gong\u2019s 195th General Conference talk.\"/>\n<img alt=\"Doblando una galleta de la fortuna\" id=\"img_kTsIT\" src=\"https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21500%2C/0/default\" data-img-id=\"fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx\" srcset=\"https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx/full/%21640%2C/0/default 640w\" data-assetId=\"fbti3pfs3qbwuxhg7enjlwol0efdsvxusnbnqfzx\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Gerrit W. Gong, 195th Semi-Annual General Conference Visual Aid: Making Fortune Cookies\" data-public-description=\"A person makes fortune cookies inside a kitchen. Image taken to serve as a visual aid for Elder Gong\u2019s 195th General Conference talk.\"/>\n<p data-aid=\"168241924\" id=\"p_ziL8s\">Para mi sorpresa, descubrí que las galletas de la fortuna no son, originalmente, parte de la cultura china. Para distinguir la cultura de las galletas de la fortuna china, estadounidense y europea, busqué galletas de la fortuna en varios continentes, al igual que uno usaría múltiples ubicaciones para triangular un incendio forestal. Los restaurantes chinos de San Francisco, Los Ángeles y Nueva York sirven galletas de la fortuna, pero no los de Pekín, Londres o Sídney. Solo los estadounidenses celebran el Día Nacional de la Galleta de la Fortuna. Y, solo los anuncios chinos ofrecen \u201cAuténticas galletas de la fortuna estadounidenses\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241926\" id=\"p_oM772\">Las galletas de la fortuna son un ejemplo divertido y sencillo, pero el mismo principio de comparar las prácticas en diferentes contextos culturales puede ayudarnos a distinguir la cultura del Evangelio<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. Y ahora el Señor nos está abriendo las puertas a nuevas oportunidades para aprender la cultura del Evangelio a medida que se cumplen las profecías de las alegorías del Libro de Mormón y de las parábolas del Nuevo Testamento.<\/p>\n<\/section>\n<section id=\"sec_etRPq\">\n<header>\n<h2 data-aid=\"168241928\" id=\"p_ri2JQ\">II.<\/h2>\n<\/header>\n<p data-aid=\"168241930\" id=\"p_oSnLy\">La gente en todas partes se está mudando. Las Naciones Unidas informan de 281 millones de migrantes internacionales. Esto es 128 millones de personas más que en 1990 y más de tres veces lo estimado en 1970<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. En todas partes, un número récord de conversos está encontrando La Iglesia de Jesucristo de los Santos de los Últimos Días. Cada día de reposo, miembros y amigos originarios de 195 países y territorios se reúnen en 31 916 congregaciones de la Iglesia. Hablamos 125 idiomas.<\/p>\n<img alt=\"Reunión con los santos de Albania\" id=\"img_sjxgm\" src=\"https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21500%2C/0/default\" data-img-id=\"zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5\" srcset=\"https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5/full/%21640%2C/0/default 640w\" data-assetId=\"zvryfokqkn1epe893g1m864uwu1gsyjam6htkom5\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong with a congregation of Saints in Albania\" data-public-description=\"Elder Gong with a congregation of Saints in Albania\"/>\n<img alt=\"Reunión con los santos de Macedonia del Norte\" id=\"img_ra9MU\" src=\"https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21500%2C/0/default\" data-img-id=\"7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs\" srcset=\"https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs/full/%21640%2C/0/default 640w\" data-assetId=\"7f5wmytiu7lpzra85rzaw7r04ke5hx2lz81mqiqs\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong with a group of Saints in Macedonia\" data-public-description=\"Elder Gong with a group of Saints in Macedonia\"/>\n<img alt=\"Reunión con los santos de Kosovo\" id=\"img_fNv0L\" src=\"https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21500%2C/0/default\" data-img-id=\"o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg\" srcset=\"https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg/full/%21640%2C/0/default 640w\" data-assetId=\"o7gruvpz5shei5qpzy1c51324sdjs4s5hk7qy8bg\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong with a congregation of Saints in Kosovo\" data-public-description=\"Elder Gong with a congregation of Saints in Kosovo\"/>\n<img alt=\"Reunión con los santos de Suiza\" id=\"img_eFVs5\" src=\"https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21500%2C/0/default\" data-img-id=\"0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska\" srcset=\"https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska/full/%21640%2C/0/default 640w\" data-assetId=\"0lu3ezc62dbt2gks47i01ooqi0g8odz5l5rxqska\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong greets members in Switzerland.\" data-public-description=\"Elder Gong greets members in Switzerland.\"/>\n<img alt=\"Reunión con los santos de Alemania\" id=\"img_gINF0\" src=\"https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21500%2C/0/default\" data-img-id=\"8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm\" srcset=\"https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm/full/%21640%2C/0/default 640w\" data-assetId=\"8afrbznbpa6eunca9vt2dvn10l3afz9auyqasnfm\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong meets with a family in Germany\" data-public-description=\"Elder Gong meets with a family in Germany\"/>\n<img alt=\"Reunión con los santos de Alemania\" id=\"img_nQuvW\" src=\"https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21500%2C/0/default\" data-img-id=\"s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc\" srcset=\"https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc/full/%21640%2C/0/default 640w\" data-assetId=\"s6l4xtizl0u85axlua0gbhdxgktw8clhg7rr3sfc\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Gong greets members in Munich Germany.\" data-public-description=\"Elder Gong greets members in Munich Germany.\"/>\n<p data-aid=\"168241932\" id=\"p_aSSPx\">Hace poco, en Albania, Macedonia del Norte, Kosovo, Suiza y Alemania fui testigo del cumplimiento de la alegoría del olivo del Libro de Mormón en los nuevos miembros<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. En Jacob 5, el Señor de la viña y Sus siervos fortalecen tanto las raíces como las ramas de los olivos al juntar e injertar las procedentes de diferentes lugares. En la actualidad, los hijos de Dios se congregan como uno en Jesucristo; el Señor nos ofrece un medio extraordinario y natural de ampliar la manera en que vivimos la plenitud de Su Evangelio restaurado<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241934\" id=\"p_iWwLG\">En preparación para el reino de los cielos, Jesús nos relata las parábolas de la gran cena y la fiesta de bodas. En estas parábolas, los invitados se excusan para no asistir. El amo instruye a sus siervos a ir \u201cpronto por las plazas y por las calles de la ciudad\u201d y \u201cpor los caminos y los vallados\u201d para \u201ctrae[r] acá\u201d a los pobres, a los mancos, a los cojos y a los ciegos<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Espiritualmente hablando, somos cada uno de nosotros.<\/p>\n<p data-aid=\"168241936\" id=\"p_tVZcb\">Las Escrituras declaran:<\/p>\n<p data-aid=\"168241938\" id=\"p_b4EIV\">\u201cSerán convidadas todas las naciones\u201d a \u201cuna cena de la casa del Señor\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241941\" id=\"p_hkhpa\">\u201cPreparad la vía del Señor [\u2026] a fin de que su reino se extienda sobre la faz de la tierra, para que sus habitantes lo reciban y estén preparados para los días que han de venir\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241944\" id=\"p_dMXox\">Hoy, los invitados a la cena del Señor provienen de todo lugar y cultura. Ancianos y jóvenes, ricos y pobres, locales y mundiales, hacemos que nuestras congregaciones de la Iglesia se parezcan a nuestras comunidades.<\/p>\n<p data-aid=\"168241947\" id=\"p_hKFba\">Como apóstol principal, Pedro vio abrirse en el cielo una visión de \u201cun gran lienzo [\u2026] atado de los cuatro cabos [\u2026], en el cual había toda clase de [\u2026] [animales]\u201d. Pedro enseñó: \u201cEn verdad comprendo que Dios no hace acepción de personas [\u2026], sino que en toda nación [el Señor] se agrada del que le teme y hace lo justo\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<img alt=\"El buen samaritano\" id=\"img_nMxmW\" src=\"https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21500%2C/0/default\" data-img-id=\"11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6\" srcset=\"https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6/full/%21640%2C/0/default 640w\" data-assetId=\"11da64e4bc8d11ee8f86eeeeac1e40e58b1bcef6\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"The Good Samaritan\" data-public-description=\"The Good Samaritan, by Walter Rane (62156); GAK 218; GAB 44; nursery manual lesson 18, page 78; Luke 10:25\u201337\" data-credit-line=\"Walter Rane, (c) IRI\"/>\n<p data-aid=\"168241950\" id=\"p_hoSry\">En la parábola del buen samaritano, Jesús nos invita a venir los unos a los otros y a Él en Su mesón: Su Iglesia. Él nos invita a ser buenos prójimos. El Buen Samaritano promete regresar y recompensar el cuidado de los que están en Su mesón. Vivir el Evangelio de Jesucristo incluye hacer lugar para todos en Su Iglesia restaurada<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241953\" id=\"p_qTEZ8\">El espíritu del \u201clugar [\u2026] en el mesón\u201d incluye \u201cque nadie esté sentado solo\u201d. Cuando vengan a la iglesia, si ven a alguien solo, ¿podrían saludarlo y sentarse con él o ella? Puede que esta no sea su costumbre. La persona puede lucir o hablar diferente a ustedes. Y, por supuesto, como diría una galleta de la fortuna: \u201cUn viaje de amistad y amor en el Evangelio comienza con un primer saludo y nadie sentado solo\u201d.<\/p>\n<p data-aid=\"168241954\" id=\"p_pnqlu\">\u201cQue nadie esté sentado solo\u201d también significa que nadie esté sentado solo emocional o espiritualmente. Fui con un padre desconsolado a visitar a su hijo. Años antes, el hijo estaba entusiasmado por convertirse en un nuevo diácono. La ocasión incluyó que la familia le comprara su primer par de zapatos nuevos.<\/p>\n<p data-aid=\"168241955\" id=\"p_uWFoC\">Sin embargo, los diáconos se rieron de él en la iglesia. Los zapatos eran nuevos, pero no estaban a la moda. Avergonzado y dolido, el joven diácono dijo que nunca iría a la iglesia otra vez. Mi corazón todavía está quebrantado por él y su familia.<\/p>\n<p data-aid=\"168241956\" id=\"p_qXFX9\">En los polvorientos caminos que conducen a Jericó, cada uno de nosotros ha recibido burlas, vergüenza y dolor, y tal vez menosprecio o maltrato. Y, con varios grados de intención, cada uno de nosotros también ha ignorado, no ha visto u oído, o tal vez ha herido de manera deliberada a los demás. Es precisamente porque hemos sido heridos y causado heridas a otros que Jesucristo nos lleva a todos a Su mesón. Venimos los unos a los otros y a Jesucristo en Su Iglesia y por medio de Sus ordenanzas y convenios. Amamos y somos amados, servimos y se nos presta servicio, perdonamos y somos perdonados<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Por favor, recuerden que \u201cno hay pesar en la tierra que el cielo no pueda sanar\u201d<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. Las cargas terrenales se aligeran: el gozo de nuestro Salvador es real.<\/p>\n<p data-aid=\"168241957\" id=\"p_mRbru\">En <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/19.1-24?lang=spa\">1 Nefi 19<\/a> leemos: \u201cHasta al mismo Dios de Israel huellan [\u2026] bajo sus pies [\u2026]. [L]o estiman como nada [\u2026]. Por tanto, lo azotan, y él lo soporta; lo hieren y él lo soporta. Sí, escupen sobre él, y él lo soporta\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241958\" id=\"p_f3aEB\">Mi amigo, el profesor Terry Warner, dice que los juicios, los azotes, los golpes y los escupitajos no fueron eventos ocasionales que solo ocurrieron durante la vida terrenal de Cristo. La forma en que nos tratamos unos a otros \u2014especialmente al hambriento, al sediento y a los que se quedan solos\u2014 es la forma en que lo tratamos a Él<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241959\" id=\"p_sTTlJ\">En Su Iglesia restaurada, todos somos mejores cuando nadie está sentado solo. No nos limitemos simplemente a dar cabida o tolerar. Recibamos, reconozcamos, ministremos y amemos de forma genuina. Que cada amigo, hermana y hermano no sea extranjero ni advenedizo, sino un hijo en casa<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>.<\/p>\n<img alt=\"Mujeres solas en la iglesia\" id=\"img_sSar2\" src=\"https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21500%2C/0/default\" data-img-id=\"1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g\" srcset=\"https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g/full/%21640%2C/0/default 640w\" data-assetId=\"1fsaoao12h411ckyjv0ouhjcnlsjzwn2o0iiul7g\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Gerrit W. Gong, 195th Semi-Annual General Conference Visual Aid: Sacrament Meeting\" data-public-description=\"A group of people gather together inside an LDS meetinghouse. The image highlights a woman who is sitting alone and is probably unnoticed. Image taken to serve as a visual aid for Elder Gong\u2019s 195th General Conference talk.\"/>\n<p data-aid=\"168241960\" id=\"p_wlLUo\">Hoy, muchos se sienten solos y aislados. Las redes sociales y la inteligencia artificial pueden dejarnos sedientos de cercanía y contacto humanos. Queremos oír a los demás y ser oídos; queremos pertenecer y recibir bondad de manera auténtica.<\/p>\n<img alt=\"Sentarse con amigos en la iglesia\" id=\"img_nbEjC\" src=\"https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21500%2C/0/default\" data-img-id=\"8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o\" srcset=\"https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o/full/%21640%2C/0/default 640w\" data-assetId=\"8fr30h8wa1fazj6bc21qsztasjqgosdbw6s2zx7o\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Gerrit W. Gong, 195th Semi-Annual General Conference Visual Aid: Sacrament Meeting\" data-public-description=\"A group of individuals gathers inside an LDS meetinghouse. The image focuses on two women engaged in conversation, one of whom had previously been sitting alone. Image taken to serve as a visual aid for Elder Gong\u2019s 195th General Conference talk.\"/>\n<p data-aid=\"168241961\" id=\"p_uEmHI\">Hay muchas razones por las que podemos sentir que no encajamos en la iglesia y por eso, hablando en sentido figurado, nos sentamos solos. Tal vez nos preocupe nuestro acento, ropa, o situación familiar. Quizás nos sintamos inadecuados, que tengamos olor a tabaco, anhelemos la pureza moral, hayamos roto con alguien y nos sintamos heridos y avergonzados, o nos preocupe esta o aquella norma de la Iglesia. Tal vez seamos solteros, divorciados o viudos. Puede que nuestros hijos sean ruidosos o que no tengamos hijos. Quizás no servimos en una misión o regresamos a casa antes de tiempo. Y la lista continúa.<\/p>\n<p data-aid=\"168241964\" id=\"p_rMrlT\">En <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p21#p21\">Mosíah 18:21<\/a> se nos invita a entrelazar nuestros corazones con amor<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Los invito, y me incluyo, a que nos preocupemos menos, juzguemos menos, seamos menos exigentes con los demás y, cuando sea necesario, seamos menos duros con nosotros mismos. No crearemos Sion en un día, pero cada \u201chola\u201d, cada gesto cálido, nos acerca más a Sion. Confiemos más en el Señor y escojamos gozosamente obedecer todos Sus mandamientos.<\/p>\n<\/section>\n<section id=\"sec_y703Q\">\n<header>\n<h2 data-aid=\"168241967\" id=\"p_j8Chx\">III.<\/h2>\n<\/header>\n<p data-aid=\"168241971\" id=\"p_foKvz\">Doctrinalmente, en la familia de la fe y el hermanamiento de los santos, nadie está sentado solo porque, por convenio, pertenece a Jesucristo.<\/p>\n<p data-aid=\"168241973\" id=\"p_gCstz\">El profeta José Smith enseñó: \u201cA nosotros nos es permitido [ver], participar [\u2026] y ayudar a extender esta gloria de los últimos días, \u2018la dispensación del cumplimiento de los tiempos\u2019 [\u2026], cuando los santos de Dios serán recogidos de toda nación, y tribu, y lengua, y pueblo\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241976\" id=\"p_kO53U\">Dios \u201cno hace nada a menos que sea para el beneficio del mundo [\u2026]; para traer a <em>todos<\/em> los hombres [y mujeres] a él. [\u2026]<\/p>\n<p data-aid=\"168241979\" id=\"p_bgalY\">\u201cÉl invita a <em>todos<\/em> ellos a que vengan a él y participen de su bondad; [\u2026] y <em>todos<\/em> son iguales ante Dios\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241981\" id=\"p_rnmEx\">La conversión a Jesucristo requiere que nos despojemos del hombre natural y de la cultura del mundo. Como enseña el presidente Dallin H. Oaks, debemos abandonar cualquier tradición y práctica cultural que sea contraria a los mandamientos de Dios y convertirnos en Santos de los Últimos Días<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. Además, él explica: \u201cExiste una cultura singular del Evangelio, un conjunto de valores, expectativas y prácticas comunes para todos los miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. La cultura del Evangelio incluye la castidad, la asistencia semanal a la iglesia, la abstinencia de alcohol, tabaco, té y café. Incluye la honradez y la integridad, así como entender que avanzamos, no hacia arriba ni hacia abajo, en los cargos de la Iglesia<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241984\" id=\"p_ukRqr\">Yo aprendo de miembros y amigos fieles de toda tierra y cultura<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Las Escrituras que se estudian en varios idiomas, así como las perspectivas culturales, profundizan la comprensión del Evangelio. Las diferentes expresiones de atributos semejantes a los de Cristo profundizan mi amor y comprensión de mi Salvador. Todos somos bendecidos cuando definimos nuestra identidad cultural, como enseñó el presidente Russell M. Nelson, como hijos de Dios, hijos del convenio, discípulos de Jesucristo<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241987\" id=\"p_uQgLv\">La paz de Jesucristo es para nosotros, personalmente. Hace poco, un joven me preguntó con seriedad: \u201cÉlder Gong, ¿todavía puedo ir al cielo?\u201d. Se preguntaba si alguna vez podría ser perdonado. Le pregunté su nombre, lo escuché con atención, lo invité a hablar con su obispo y le di un fuerte abrazo. Se fue con esperanza en Jesucristo.<\/p>\n<p data-aid=\"168241989\" id=\"p_pQK4A\">Mencioné a este joven en otra ocasión y más tarde recibí una carta anónima que decía: \u201cÉlder Gong, mi esposa y yo hemos criado a nueve hijos [\u2026] y servido en dos misiones\u201d. Pero \u201csiempre sentí que no se me permitiría entrar en el Reino Celestial [\u2026] ¡porque mis pecados de cuando era joven fueron terribles!\u201d.<\/p>\n<p data-aid=\"168241992\" id=\"p_zh30T\">La carta proseguía así: \u201cÉlder Gong, cuando usted habló del joven que había recibido esperanza en el perdón, me llené de gozo y empecé a darme cuenta de que tal vez yo [podría ser perdonado]\u201d. La carta concluye diciendo: \u201c¡Incluso ahora me gusta quien soy!\u201d.<\/p>\n<p data-aid=\"168241995\" id=\"p_qvubS\">A medida que acudimos los unos a los otros y al Señor en Su mesón profundizamos la pertenencia por convenio. Él nos bendice a todos cuando nadie está sentado solo. Y, ¿quién sabe? Tal vez la persona con quien nos sentemos se convierta en nuestro mejor amigo de las galletas de la fortuna. Ruego que encontremos y hagamos lugar para Él y los demás en la cena del Cordero, lo ruego humildemente<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>, en el santo nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168241998\" id=\"p_q4mun\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168242001\" id=\"p_rROG1\">Véase \u201cFortune Cookies Didn\u2019t Come from China\u201d, <cite>Royal Examiner<\/cite>, 26 de diciembre de 2021, royalexaminer.com/fortune-cookies-didnt-come-from-china; \u201cNational Fortune Cookie Day\u201d, Days of the Year, daysoftheyear.com/days/fortune-cookie-day.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168242004\" id=\"p_v7Okl\">Un proceso de triangulación cultural también puede servir para distinguir lo que podría considerarse la cultura del Evangelio, la cultura nacional local y la cultura cosmopolita moderna.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168242007\" id=\"p_yE2bm\">International Organization for Migration, <cite>World Migration Report 2024<\/cite>, pág. 21, publications.iom.int/books/world-migration-report-2024. \u201cEn 2022, hubo 117 millones de personas desplazadas en el mundo y 71,2 millones de personas desplazadas internamente\u201d (<cite>Informe sobre las migraciones en el mundo, 2024<\/cite>, pág. xii).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168242010\" id=\"p_jt6uy\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5.1-77?lang=spa\">Jacob 5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168242013\" id=\"p_vWPWb\">Cada idioma y cultura tiene palabras y términos que describen las cosas tiernas del corazón. La plenitud vivida de Su Evangelio restaurado se expande a medida que aprendemos los unos de los otros. Recientemente, las hermanas Annalie (oriunda de Múnich) y Suzy Myers; el élder Erich Kopischke y su esposa, Christiane; y el élder Jörg Klebingat y su esposa, Julia, compartieron palabras únicas en alemán que hablan al corazón. Los sentimientos que describen dichas palabras van más allá de la formalidad superficial, van más allá de la rutina o del deber. Estos sentimientos hablan del corazón, de relaciones cálidas y cercanas, del gozo espiritual en nuestras almas divinas. Esas palabras especiales en alemán incluyen <i>Gemütlichkeit<\/i> y <i>gemütlich<\/i>, <i>Heimat<\/i>, <i>Heimweh<\/i>, <i>Geborgenheit<\/i>, <i>Zuflucht<\/i>, <i>Herzensangelegenheit<\/i>, <i>Herzensmensch<\/i> y<i> Schummerstunde<\/i> (un término poco conocido y poético del norte).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168242016\" id=\"p_lBYuB\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/14?lang=spa&amp;id=p21%2Cp23#p21\">Lucas 14:21, 23<\/a>. De manera similar, en la parábola de la fiesta de bodas, cuando los invitados no llegan, el rey manda a sus siervos que vayan a juntar \u201ca cuantos hall[en]\u201d en los \u201ccaminos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p9#p9\">Mateo 22:9<\/a>).<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168242020\" id=\"p_rEJHt\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 58:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p6-p8%2Cp10-p12#p6\">Doctrina y Convenios 58:6\u20138, 10\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168242024\" id=\"p_zYdZ9\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p3%2Cp5#p3\">Doctrina y Convenios 65:3, 5<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/33?lang=spa&amp;id=p17#p17\">Doctrina y Convenios 33:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168242027\" id=\"p_iA4Za\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p11-p12%2Cp34-p35#p11\">Hechos 10:11\u201312, 34\u201335<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p9-p10%2Cp13-p18%2Cp24-p33%2Cp44-p48#p9\">Hechos 10:9\u201310, 13\u201318, 24\u201333, 44\u201348<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/11?lang=spa&amp;id=p1-p18#p1\">11:1\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/15?lang=spa&amp;id=p6-p11#p6\">15:6\u201311<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168242030\" id=\"p_l5uw7\">La imagen de nosotros reuniéndonos los unos con los otros y con Él en Su mesón se expresa en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p32#p32\">3 Nefi 18:32<\/a>. \u201cQue nadie esté sentado solo\u201d en nuestros lugares de adoración, y nuestra continua y cálida ministración mutua pueden ser, en efecto, el medio por el cual nosotros y ellos \u201cvuelvan, y se arrepientan, y vengan a [Él] con íntegro propósito de corazón, y [Él] los sane; y [n]osotros se[amos] el medio de traerles la salvación\u201d.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168242033\" id=\"p_i2Fpj\">En <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104?lang=spa&amp;id=p15%2Cp17#p15\">Doctrina y Convenios 104:15, 17<\/a> se nos recuerda: \u201cTodas las cosas son [del Señor]\u201d y \u201cla tierra está llena, y hay suficiente y de sobra\u201d. Por consiguiente, tanto el pobre como el rico han de ayudar a todos a ser exaltados y humildes. Del mismo modo, el rey Benjamín pregunta: \u201c¿No somos todos mendigos?\u201d. De ese modo, tanto el rico como el pobre están obligados voluntariamente a \u201c[impartir] el uno al otro de [sus] bienes\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p19%2Cp21#p19\">Mosíah 4:19, 21<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p25-p27#p25\">Mosíah 4:25\u201327<\/a>).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168242036\" id=\"p_mciH9\">En \u201cCome, Ye Disconsolate\u201d (<cite>Hymns<\/cite>, nro. 115), Thomas Moore escribe: \u201cAcérquense al propiciatorio y arrodíllense sin dudar. Traed vuestro corazón herido; vuestra angustia derramada. No hay pesar en la tierra que el cielo no pueda sanar\u201d.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168242039\" id=\"p_z64Kn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/19?lang=spa&amp;id=p7%2Cp9#p7\">1 Nefi 19:7, 9<\/a>. El Señor dice en el Sermón del Monte: \u201cY al que te golpee en la mejilla, preséntale también la otra; y al que te quite la capa, ni aun la túnica le niegues\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p29#p29\">Lucas 6:29<\/a>).<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168242042\" id=\"p_oXGdn\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p35-p40#p35\">Mateo 25:35\u201340<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168242045\" id=\"p_x3HEV\">\u201cAbrázame, oh, buen pastor, sin separarnos más\u201d (\u201c<a class=\"cross-ref\" href=\"/study/music/hymns-for-home-and-church/my-shepherd-will-supply-my-need?lang=spa&amp;id=figure1_p23-figure1_p24#figure1_p23\">Mi buen pastor es Jehová<\/a>\u201d, <cite>Himnos \u2014 Para el hogar y la Iglesia<\/cite>, Biblioteca del Evangelio).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168242048\" id=\"p_yDeBL\">El Evangelio de Jesucristo trasciende el tiempo y la cultura. Para mí es un testimonio extraordinario que el Libro de Mormón enseña la plenitud del Evangelio de Jesucristo en el contexto de un entorno cultural antiguo en las Américas.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168242051\" id=\"p_puGYg\">Tal como enseñaron el profeta José Smith y sus consejeros de la Primera Presidencia en <i><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/i>, 2007, pág. 195; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>\n<p data-aid=\"168242055\" id=\"p_chknY\">En la actualidad, los miembros de la Iglesia viven en una amplia variedad de condiciones políticas, sociales y económicas. Nuestros barrios y ramas varían en tamaño y recursos de liderazgo. Los principios de \u201cuniformidad y adaptación\u201d pueden ayudar a fortalecer a la familia y a Su Iglesia restaurada en formas propias del Evangelio dondequiera que vivamos (véase <cite>Manual 2: Administración de la Iglesia<\/cite>, 2010, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/uniformity-and-adaptation?lang=spa\">17.0<\/a>).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168242058\" id=\"p_uKI8J\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24%2Cp33#p24\">2 Nefi 26:24, 33<\/a>, cursiva agregada; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.1-14?lang=spa\">2 Nefi 29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/29?lang=spa&amp;id=p8#p8\">Alma 29:8<\/a>. En <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 90:11<\/a> se promete que \u201ctodo hombre oirá la plenitud del evangelio en su propia lengua y en su propio idioma\u201d. Esta promesa se cumple al combinar las lenguas con el lenguaje cultural del Evangelio en el hogar y en la Iglesia.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168242061\" id=\"p_s02ai\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa\">Arrepentimiento y cambio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2003, págs. 37\u201340.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168242065\" id=\"p_mpy7d\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p32#p32\">Arrepentimiento y cambio<\/a>\u201d, pág. 39.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168242069\" id=\"p_dVXNF\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p28-p29#p28\">Arrepentimiento y cambio<\/a>\u201d, págs. 38\u201339.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168242073\" id=\"p_c4o7k\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p13#p13\">Artículos de Fe 1:13<\/a>. A medida que las distintas ramas y raíces se entrelazan como una sola en Jesucristo, hallamos más de lo que es \u201cvirtuoso, o bello, o de buena reputación, o digno de alabanza\u201d. Vemos lo primero de último, y lo último de primero. Nos regocijamos cuando los alumnos enseñan y los maestros aprenden. Todos entienden, son edificados y se regocijan juntamente (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 50:22<\/a>).<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168242076\" id=\"p_gLRl0\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p37-p38#p37\">Decisiones para la eternidad<\/a>\u201d (devocional mundial para jóvenes adultos, 15 de mayo de 2022), Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168242079\" id=\"p_jGBdg\">Jedediah M. Grant, quien sirvió en la Primera Presidencia con Brigham Young, relató una visión del mundo de los espíritus que incluía numerosos tipos de hermosas flores que crecían juntas, tal vez como una metáfora de la unidad y de la belleza en la diversidad. \u201cHe visto buenos jardines en esta tierra, pero nunca vi ninguno que se compare con los que había allí\u201d, dijo él. \u201cVi flores de muchas clases, y algunas con entre cincuenta y cien flores de diferentes colores que crecían en un tallo\u201d. Él experimentó \u201cla belleza y la gloria del mundo de los espíritus, donde los espíritus de los justos están reunidos\u201d (\u201cRemarks, at the Funeral of President Jedediah M. Grant, by President Heber C. Kimball\u201d, <cite>Deseret News<\/cite>, 10 de diciembre de 1856, pág. 317).<\/p>\n<p data-aid=\"168242082\" id=\"p_v5txJ\">El presidente David O. McKay también registró un sueño o una visión de la ciudad eterna de Dios, donde vio árboles, frutas, arbustos y flores en perfecta floración. \u201cCreía ver los árboles cargados de abundante fruto, los arbustos con follaje de color brillante y las flores perfectas por todas partes\u201d (<i><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-1?lang=spa&amp;id=p2#p2\">Enseñanzas de los Presidentes de la Iglesia: David O. McKay<\/a><\/i>, 2003, pág. 1).<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168241932",
+        "id": "note4",
+        "text": "<p data-aid=\"168242010\" id=\"p_jt6uy\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/jacob/5.1-77?lang=spa\">Jacob 5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/jacob/5.1-77?lang=spa",
+          "text": "Jacob 5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168241932",
+        "id": "note5",
+        "text": "<p data-aid=\"168242013\" id=\"p_vWPWb\">Cada idioma y cultura tiene palabras y términos que describen las cosas tiernas del corazón. La plenitud vivida de Su Evangelio restaurado se expande a medida que aprendemos los unos de los otros. Recientemente, las hermanas Annalie (oriunda de Múnich) y Suzy Myers; el élder Erich Kopischke y su esposa, Christiane; y el élder Jörg Klebingat y su esposa, Julia, compartieron palabras únicas en alemán que hablan al corazón. Los sentimientos que describen dichas palabras van más allá de la formalidad superficial, van más allá de la rutina o del deber. Estos sentimientos hablan del corazón, de relaciones cálidas y cercanas, del gozo espiritual en nuestras almas divinas. Esas palabras especiales en alemán incluyen <i>Gemütlichkeit<\/i> y <i>gemütlich<\/i>, <i>Heimat<\/i>, <i>Heimweh<\/i>, <i>Geborgenheit<\/i>, <i>Zuflucht<\/i>, <i>Herzensangelegenheit<\/i>, <i>Herzensmensch<\/i> y<i> Schummerstunde<\/i> (un término poco conocido y poético del norte).<\/p>"
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168241926",
+        "id": "note2",
+        "text": "<p data-aid=\"168242004\" id=\"p_v7Okl\">Un proceso de triangulación cultural también puede servir para distinguir lo que podría considerarse la cultura del Evangelio, la cultura nacional local y la cultura cosmopolita moderna.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168241930",
+        "id": "note3",
+        "text": "<p data-aid=\"168242007\" id=\"p_yE2bm\">International Organization for Migration, <cite>World Migration Report 2024<\/cite>, pág. 21, publications.iom.int/books/world-migration-report-2024. \u201cEn 2022, hubo 117 millones de personas desplazadas en el mundo y 71,2 millones de personas desplazadas internamente\u201d (<cite>Informe sobre las migraciones en el mundo, 2024<\/cite>, pág. xii).<\/p>"
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168241941",
+        "id": "note8",
+        "text": "<p data-aid=\"168242024\" id=\"p_zYdZ9\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p3%2Cp5#p3\">Doctrina y Convenios 65:3, 5<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/33?lang=spa&amp;id=p17#p17\">Doctrina y Convenios 33:17<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/65?lang=spa&amp;id=p3%2Cp5#p3",
+            "text": "Doctrina y Convenios 65:3, 5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/33?lang=spa&amp;id=p17#p17",
+            "text": "Doctrina y Convenios 33:17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168241947",
+        "id": "note9",
+        "text": "<p data-aid=\"168242027\" id=\"p_iA4Za\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p11-p12%2Cp34-p35#p11\">Hechos 10:11\u201312, 34\u201335<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/10?lang=spa&amp;id=p9-p10%2Cp13-p18%2Cp24-p33%2Cp44-p48#p9\">Hechos 10:9\u201310, 13\u201318, 24\u201333, 44\u201348<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/11?lang=spa&amp;id=p1-p18#p1\">11:1\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/15?lang=spa&amp;id=p6-p11#p6\">15:6\u201311<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/acts/10?lang=spa&amp;id=p11-p12%2Cp34-p35#p11",
+            "text": "Hechos 10:11\u201312, 34\u201335",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/10?lang=spa&amp;id=p9-p10%2Cp13-p18%2Cp24-p33%2Cp44-p48#p9",
+            "text": "Hechos 10:9\u201310, 13\u201318, 24\u201333, 44\u201348",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/11?lang=spa&amp;id=p1-p18#p1",
+            "text": "11:1\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/acts/15?lang=spa&amp;id=p6-p11#p6",
+            "text": "15:6\u201311",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168241934",
+        "id": "note6",
+        "text": "<p data-aid=\"168242016\" id=\"p_lBYuB\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/14?lang=spa&amp;id=p21%2Cp23#p21\">Lucas 14:21, 23<\/a>. De manera similar, en la parábola de la fiesta de bodas, cuando los invitados no llegan, el rey manda a sus siervos que vayan a juntar \u201ca cuantos hall[en]\u201d en los \u201ccaminos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p9#p9\">Mateo 22:9<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/14?lang=spa&amp;id=p21%2Cp23#p21",
+            "text": "Lucas 14:21, 23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p9#p9",
+            "text": "Mateo 22:9",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168241938",
+        "id": "note7",
+        "text": "<p data-aid=\"168242020\" id=\"p_rEJHt\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p9#p9\">Doctrina y Convenios 58:9<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p6-p8%2Cp10-p12#p6\">Doctrina y Convenios 58:6\u20138, 10\u201312<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p9#p9",
+            "text": "Doctrina y Convenios 58:9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/58?lang=spa&amp;id=p6-p8%2Cp10-p12#p6",
+            "text": "Doctrina y Convenios 58:6\u20138, 10\u201312",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168241964",
+        "id": "note16",
+        "text": "<p data-aid=\"168242048\" id=\"p_yDeBL\">El Evangelio de Jesucristo trasciende el tiempo y la cultura. Para mí es un testimonio extraordinario que el Libro de Mormón enseña la plenitud del Evangelio de Jesucristo en el contexto de un entorno cultural antiguo en las Américas.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168241959",
+        "id": "note15",
+        "text": "<p data-aid=\"168242045\" id=\"p_x3HEV\">\u201cAbrázame, oh, buen pastor, sin separarnos más\u201d (\u201c<a class=\"cross-ref\" href=\"/study/music/hymns-for-home-and-church/my-shepherd-will-supply-my-need?lang=spa&amp;id=figure1_p23-figure1_p24#figure1_p23\">Mi buen pastor es Jehová<\/a>\u201d, <cite>Himnos \u2014 Para el hogar y la Iglesia<\/cite>, Biblioteca del Evangelio).<\/p>",
+        "referenceUris": [{
+          "href": "/study/music/hymns-for-home-and-church/my-shepherd-will-supply-my-need?lang=spa&amp;id=figure1_p23-figure1_p24#figure1_p23",
+          "text": "Mi buen pastor es Jehová",
+          "type": "cross-ref"
+        }]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168241958",
+        "id": "note14",
+        "text": "<p data-aid=\"168242042\" id=\"p_oXGdn\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p35-p40#p35\">Mateo 25:35\u201340<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p35-p40#p35",
+          "text": "Mateo 25:35\u201340",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168241957",
+        "id": "note13",
+        "text": "<p data-aid=\"168242039\" id=\"p_z64Kn\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/19?lang=spa&amp;id=p7%2Cp9#p7\">1 Nefi 19:7, 9<\/a>. El Señor dice en el Sermón del Monte: \u201cY al que te golpee en la mejilla, preséntale también la otra; y al que te quite la capa, ni aun la túnica le niegues\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/6?lang=spa&amp;id=p29#p29\">Lucas 6:29<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/19?lang=spa&amp;id=p7%2Cp9#p7",
+            "text": "1 Nefi 19:7, 9",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/luke/6?lang=spa&amp;id=p29#p29",
+            "text": "Lucas 6:29",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168241995",
+        "id": "note24",
+        "text": "<p data-aid=\"168242079\" id=\"p_jGBdg\">Jedediah M. Grant, quien sirvió en la Primera Presidencia con Brigham Young, relató una visión del mundo de los espíritus que incluía numerosos tipos de hermosas flores que crecían juntas, tal vez como una metáfora de la unidad y de la belleza en la diversidad. \u201cHe visto buenos jardines en esta tierra, pero nunca vi ninguno que se compare con los que había allí\u201d, dijo él. \u201cVi flores de muchas clases, y algunas con entre cincuenta y cien flores de diferentes colores que crecían en un tallo\u201d. Él experimentó \u201cla belleza y la gloria del mundo de los espíritus, donde los espíritus de los justos están reunidos\u201d (\u201cRemarks, at the Funeral of President Jedediah M. Grant, by President Heber C. Kimball\u201d, <cite>Deseret News<\/cite>, 10 de diciembre de 1856, pág. 317).<\/p>\n<p data-aid=\"168242082\" id=\"p_v5txJ\">El presidente David O. McKay también registró un sueño o una visión de la ciudad eterna de Dios, donde vio árboles, frutas, arbustos y flores en perfecta floración. \u201cCreía ver los árboles cargados de abundante fruto, los arbustos con follaje de color brillante y las flores perfectas por todas partes\u201d (<i><a class=\"cross-ref\" href=\"/study/manual/teachings-david-o-mckay/chapter-1?lang=spa&amp;id=p2#p2\">Enseñanzas de los Presidentes de la Iglesia: David O. McKay<\/a><\/i>, 2003, pág. 1).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teachings-david-o-mckay/chapter-1?lang=spa&amp;id=p2#p2",
+          "text": "Enseñanzas de los Presidentes de la Iglesia: David O. McKay",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168241956",
+        "id": "note12",
+        "text": "<p data-aid=\"168242036\" id=\"p_mciH9\">En \u201cCome, Ye Disconsolate\u201d (<cite>Hymns<\/cite>, nro. 115), Thomas Moore escribe: \u201cAcérquense al propiciatorio y arrodíllense sin dudar. Traed vuestro corazón herido; vuestra angustia derramada. No hay pesar en la tierra que el cielo no pueda sanar\u201d.<\/p>"
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168241984",
+        "id": "note23",
+        "text": "<p data-aid=\"168242076\" id=\"p_gLRl0\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p37-p38#p37\">Decisiones para la eternidad<\/a>\u201d (devocional mundial para jóvenes adultos, 15 de mayo de 2022), Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p37-p38#p37",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168241956",
+        "id": "note11",
+        "text": "<p data-aid=\"168242033\" id=\"p_i2Fpj\">En <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/104?lang=spa&amp;id=p15%2Cp17#p15\">Doctrina y Convenios 104:15, 17<\/a> se nos recuerda: \u201cTodas las cosas son [del Señor]\u201d y \u201cla tierra está llena, y hay suficiente y de sobra\u201d. Por consiguiente, tanto el pobre como el rico han de ayudar a todos a ser exaltados y humildes. Del mismo modo, el rey Benjamín pregunta: \u201c¿No somos todos mendigos?\u201d. De ese modo, tanto el rico como el pobre están obligados voluntariamente a \u201c[impartir] el uno al otro de [sus] bienes\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p19%2Cp21#p19\">Mosíah 4:19, 21<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p25-p27#p25\">Mosíah 4:25\u201327<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/104?lang=spa&amp;id=p15%2Cp17#p15",
+            "text": "Doctrina y Convenios 104:15, 17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p19%2Cp21#p19",
+            "text": "Mosíah 4:19, 21",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p25-p27#p25",
+            "text": "Mosíah 4:25\u201327",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168241984",
+        "id": "note22",
+        "text": "<p data-aid=\"168242073\" id=\"p_c4o7k\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p13#p13\">Artículos de Fe 1:13<\/a>. A medida que las distintas ramas y raíces se entrelazan como una sola en Jesucristo, hallamos más de lo que es \u201cvirtuoso, o bello, o de buena reputación, o digno de alabanza\u201d. Vemos lo primero de último, y lo último de primero. Nos regocijamos cuando los alumnos enseñan y los maestros aprenden. Todos entienden, son edificados y se regocijan juntamente (véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 50:22<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p13#p13",
+            "text": "Artículos de Fe 1:13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/50?lang=spa&amp;id=p22#p22",
+            "text": "Doctrina y Convenios 50:22",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168241950",
+        "id": "note10",
+        "text": "<p data-aid=\"168242030\" id=\"p_l5uw7\">La imagen de nosotros reuniéndonos los unos con los otros y con Él en Su mesón se expresa en <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p32#p32\">3 Nefi 18:32<\/a>. \u201cQue nadie esté sentado solo\u201d en nuestros lugares de adoración, y nuestra continua y cálida ministración mutua pueden ser, en efecto, el medio por el cual nosotros y ellos \u201cvuelvan, y se arrepientan, y vengan a [Él] con íntegro propósito de corazón, y [Él] los sane; y [n]osotros se[amos] el medio de traerles la salvación\u201d.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/18?lang=spa&amp;id=p32#p32",
+          "text": "3 Nefi 18:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168241981",
+        "id": "note21",
+        "text": "<p data-aid=\"168242069\" id=\"p_dVXNF\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p28-p29#p28\">Arrepentimiento y cambio<\/a>\u201d, págs. 38\u201339.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p28-p29#p28",
+          "text": "Arrepentimiento y cambio",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168241981",
+        "id": "note20",
+        "text": "<p data-aid=\"168242065\" id=\"p_mpy7d\">Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p32#p32\">Arrepentimiento y cambio<\/a>\u201d, pág. 39.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2003/10/repentance-and-change?lang=spa&amp;id=p32#p32",
+          "text": "Arrepentimiento y cambio",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168241924",
+        "id": "note1",
+        "text": "<p data-aid=\"168242001\" id=\"p_rROG1\">Véase \u201cFortune Cookies Didn\u2019t Come from China\u201d, <cite>Royal Examiner<\/cite>, 26 de diciembre de 2021, royalexaminer.com/fortune-cookies-didnt-come-from-china; \u201cNational Fortune Cookie Day\u201d, Days of the Year, daysoftheyear.com/days/fortune-cookie-day.<\/p>"
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168241981",
+        "id": "note19",
+        "text": "<p data-aid=\"168242061\" id=\"p_s02ai\">Véase Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2003/10/repentance-and-change?lang=spa\">Arrepentimiento y cambio<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2003, págs. 37\u201340.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2003/10/repentance-and-change?lang=spa",
+          "text": "Arrepentimiento y cambio",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168241979",
+        "id": "note18",
+        "text": "<p data-aid=\"168242058\" id=\"p_uKI8J\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24%2Cp33#p24\">2 Nefi 26:24, 33<\/a>, cursiva agregada; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/29.1-14?lang=spa\">2 Nefi 29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/29?lang=spa&amp;id=p8#p8\">Alma 29:8<\/a>. En <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/90?lang=spa&amp;id=p11#p11\">Doctrina y Convenios 90:11<\/a> se promete que \u201ctodo hombre oirá la plenitud del evangelio en su propia lengua y en su propio idioma\u201d. Esta promesa se cumple al combinar las lenguas con el lenguaje cultural del Evangelio en el hogar y en la Iglesia.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/2-ne/26?lang=spa&amp;id=p24%2Cp33#p24",
+            "text": "2 Nefi 26:24, 33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/29.1-14?lang=spa",
+            "text": "2 Nefi 29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/29?lang=spa&amp;id=p8#p8",
+            "text": "Alma 29:8",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/90?lang=spa&amp;id=p11#p11",
+            "text": "Doctrina y Convenios 90:11",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168241973",
+        "id": "note17",
+        "text": "<p data-aid=\"168242051\" id=\"p_puGYg\">Tal como enseñaron el profeta José Smith y sus consejeros de la Primera Presidencia en <i><a class=\"cross-ref\" href=\"/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p24#p24\">Enseñanzas de los Presidentes de la Iglesia: José Smith<\/a><\/i>, 2007, pág. 195; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10\">Efesios 1:10<\/a>.<\/p>\n<p data-aid=\"168242055\" id=\"p_chknY\">En la actualidad, los miembros de la Iglesia viven en una amplia variedad de condiciones políticas, sociales y económicas. Nuestros barrios y ramas varían en tamaño y recursos de liderazgo. Los principios de \u201cuniformidad y adaptación\u201d pueden ayudar a fortalecer a la familia y a Su Iglesia restaurada en formas propias del Evangelio dondequiera que vivamos (véase <cite>Manual 2: Administración de la Iglesia<\/cite>, 2010, <a class=\"cross-ref\" href=\"/study/manual/handbook-2-administering-the-church/uniformity-and-adaptation?lang=spa\">17.0<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/teachings-joseph-smith/chapter-44?lang=spa&amp;id=p24#p24",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: José Smith",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/1?lang=spa&amp;id=p10#p10",
+            "text": "Efesios 1:10",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/handbook-2-administering-the-church/uniformity-and-adaptation?lang=spa",
+            "text": "17.0",
+            "type": "cross-ref"
+          }
+        ]
+      }
+    }
+  }
+}

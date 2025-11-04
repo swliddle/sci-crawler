@@ -1,0 +1,738 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/27cook?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "eb2c9005a3b84111836c778af128fb3f",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/27cook",
+      "data-bcp47-lang": "es",
+      "data-aid": "168174556",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "dd73aa0b5fdb4aa782c38025de0aed2a"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/icqm02179z2g4z4lvddkbwpsyk17w4xb0hk7sn27/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/67exr9hyrszlnteo8r14cn99olp43rjycgb1ukug-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El Señor está apresurando Su obra",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168174556",
+      {"key": "168174556"}
+    ],
+    [
+      "168282317",
+      {"key": "168282317"}
+    ],
+    [
+      "168282321",
+      {"key": "168282321"}
+    ],
+    [
+      "168282325",
+      {"key": "168282325"}
+    ],
+    [
+      "168282329",
+      {"key": "168282329"}
+    ],
+    [
+      "168282333",
+      {"key": "168282333"}
+    ],
+    [
+      "168282339",
+      {"key": "168282339"}
+    ],
+    [
+      "168282344",
+      {"key": "168282344"}
+    ],
+    [
+      "168282349",
+      {"key": "168282349"}
+    ],
+    [
+      "168282355",
+      {"key": "168282355"}
+    ],
+    [
+      "168282360",
+      {"key": "168282360"}
+    ],
+    [
+      "168282365",
+      {"key": "168282365"}
+    ],
+    [
+      "168282371",
+      {"key": "168282371"}
+    ],
+    [
+      "168282378",
+      {"key": "168282378"}
+    ],
+    [
+      "168282384",
+      {"key": "168282384"}
+    ],
+    [
+      "168282390",
+      {"key": "168282390"}
+    ],
+    [
+      "168282396",
+      {"key": "168282396"}
+    ],
+    [
+      "168282402",
+      {"key": "168282402"}
+    ],
+    [
+      "168282408",
+      {"key": "168282408"}
+    ],
+    [
+      "168282415",
+      {"key": "168282415"}
+    ],
+    [
+      "168282422",
+      {"key": "168282422"}
+    ],
+    [
+      "168282429",
+      {"key": "168282429"}
+    ],
+    [
+      "168282436",
+      {"key": "168282436"}
+    ],
+    [
+      "168282443",
+      {"key": "168282443"}
+    ],
+    [
+      "168282451",
+      {"key": "168282451"}
+    ],
+    [
+      "168282459",
+      {"key": "168282459"}
+    ],
+    [
+      "168282478",
+      {"key": "168282478"}
+    ],
+    [
+      "168282487",
+      {"key": "168282487"}
+    ],
+    [
+      "168283507",
+      {"key": "168283507"}
+    ],
+    [
+      "168283519",
+      {"key": "168283519"}
+    ],
+    [
+      "168283530",
+      {"key": "168283530"}
+    ],
+    [
+      "168283540",
+      {"key": "168283540"}
+    ],
+    [
+      "168283560",
+      {"key": "168283560"}
+    ],
+    [
+      "168283571",
+      {"key": "168283571"}
+    ],
+    [
+      "168283581",
+      {"key": "168283581"}
+    ],
+    [
+      "168283592",
+      {"key": "168283592"}
+    ],
+    [
+      "168283594",
+      {"key": "168283594"}
+    ],
+    [
+      "168283605",
+      {"key": "168283605"}
+    ],
+    [
+      "168283616",
+      {"key": "168283616"}
+    ],
+    [
+      "168283627",
+      {"key": "168283627"}
+    ],
+    [
+      "168283634",
+      {"key": "168283634"}
+    ],
+    [
+      "168283645",
+      {"key": "168283645"}
+    ],
+    [
+      "168283655",
+      {"key": "168283655"}
+    ],
+    [
+      "168283666",
+      {"key": "168283666"}
+    ],
+    [
+      "168283677",
+      {"key": "168283677"}
+    ],
+    [
+      "168283688",
+      {"key": "168283688"}
+    ],
+    [
+      "168283699",
+      {"key": "168283699"}
+    ],
+    [
+      "168283710",
+      {"key": "168283710"}
+    ],
+    [
+      "168283721",
+      {"key": "168283721"}
+    ],
+    [
+      "168283732",
+      {"key": "168283732"}
+    ],
+    [
+      "168283743",
+      {"key": "168283743"}
+    ],
+    [
+      "168283753",
+      {"key": "168283753"}
+    ],
+    [
+      "168283766",
+      {"key": "168283766"}
+    ],
+    [
+      "168283776",
+      {"key": "168283776"}
+    ],
+    [
+      "168283786",
+      {"key": "168283786"}
+    ],
+    [
+      "168283797",
+      {"key": "168283797"}
+    ],
+    [
+      "168283807",
+      {"key": "168283807"}
+    ],
+    [
+      "168283818",
+      {"key": "168283818"}
+    ],
+    [
+      "168283828",
+      {"key": "168283828"}
+    ],
+    [
+      "168283839",
+      {"key": "168283839"}
+    ],
+    [
+      "168283850",
+      {"key": "168283850"}
+    ],
+    [
+      "168283857",
+      {"key": "168283857"}
+    ],
+    [
+      "168283869",
+      {"key": "168283869"}
+    ],
+    [
+      "168283878",
+      {"key": "168283878"}
+    ],
+    [
+      "168283889",
+      {"key": "168283889"}
+    ],
+    [
+      "168283900",
+      {"key": "168283900"}
+    ],
+    [
+      "168283911",
+      {"key": "168283911"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/27cook",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Cook enseña que, a medida que el Señor apresura Su obra, los miembros de la Iglesia tienen el deber sagrado de aceptar a los miembros nuevos y a los que regresan a la actividad y darles la bienvenida. Ofrece consejos para dichos miembros nuevos o que regresan a la actividad.",
+          "title": "El Señor está apresurando Su obra"
+        },
+        "pageSocial": {
+          "description": "El élder Cook enseña que, a medida que el Señor apresura Su obra, los miembros de la Iglesia tienen el deber sagrado de aceptar a los miembros nuevos y a los que regresan a la actividad y darles la bienvenida. Ofrece consejos para dichos miembros nuevos o que regresan a la actividad.",
+          "title": "El Señor está apresurando Su obra"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/icqm02179z2g4z4lvddkbwpsyk17w4xb0hk7sn27/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/icqm02179z2g4z4lvddkbwpsyk17w4xb0hk7sn27/full/%21192%2C/0/default\" data-video-title=\"El Señor está apresurando Su obra\" data-video-description=\"El élder Cook enseña que, a medida que el Señor apresura Su obra, los miembros de la Iglesia tienen el deber sagrado de aceptar a los miembros nuevos y a los que regresan a la actividad y darles la bienvenida. Ofrece consejos para dichos miembros nuevos o para los que regresan a la actividad.\" data-video-id=\"6382047369112\" data-duration=\"895300\" data-assetId=\"effyrbq5cn6n73wqpt5re1tu6zp95zlua2ffipt4\" data-ref-id=\"effyrbq5cn6n73wqpt5re1tu6zp95zlua2ffipt4\" data-duration-string=\"14:55\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382047369112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"220980790\"/><source src=\"https://assets.churchofjesuschrist.org/effyrbq5cn6n73wqpt5re1tu6zp95zlua2ffipt4-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"49357456\"/><source src=\"https://assets.churchofjesuschrist.org/effyrbq5cn6n73wqpt5re1tu6zp95zlua2ffipt4-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"86635039\"/><source src=\"https://assets.churchofjesuschrist.org/effyrbq5cn6n73wqpt5re1tu6zp95zlua2ffipt4-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"220980790\"/><\/video><h1 data-aid=\"168282317\" id=\"p_uKCoS\">El Señor está apresurando Su obra<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168282321\" id=\"p_wU3sN\">Por el élder Quentin L. Cook<\/p>\n<p class=\"author-role\" data-aid=\"168282325\" id=\"p_b7giR\">Del Cuórum de los Doce Apóstoles<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168282329\" id=\"p_gsw7q\">A medida que el Señor apresura Su obra, debemos amar, nutrir y servir a quienes acepten Su Evangelio.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168282333\" id=\"p_eaJiP\">Es de sobra conocido que Charles Dickens comenzó su novela clásica <i>Historia de dos ciudades<\/i> con esta afirmación: \u201cEra el mejor de los tiempos, era el peor de los tiempos\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>. En cierto sentido, también es así hoy en día<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282339\" id=\"p_htoW9\">Vivimos en una época turbulenta en la que \u201ctoda la tierra est[á] en conmoción\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. El élder Gary E. Stevenson destacó maravillosamente esta mañana la admonición del presidente Russell M. Nelson de que, como seguidores de Jesucristo, debemos ser pacificadores<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. Esa es una parte esencial de fomentar la unidad, la paz y la sanación en \u201cel peor de los tiempos\u201d.<\/p>\n<p data-aid=\"168282344\" id=\"p_sxBBj\">También vivimos en \u201cel mejor de los tiempos\u201d, que es en lo que voy a centrarme. El Señor, en el prefacio de <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa\">Doctrina y Convenios, la sección 1<\/a>, declaró que la plenitud del Evangelio \u201cse[ría] proclamada [\u2026] hasta los cabos de la tierra\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. No cabe duda de que el Señor está apresurando Su obra en nuestra época<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. Debemos estar profundamente agradecidos por el apresuramiento que se ha producido, y se está produciendo, a pesar de estos tiempos difíciles. Vivimos en una época en la que los seguidores del Señor tienen el privilegio de escuchar Su voz y responder con un corazón y una mente abiertos. Los miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, que están comprometidos con el Salvador y Sus mandamientos, están hallando propósito y una profunda paz personal<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282349\" id=\"p_c9V4W\">En varias épocas de la historia de la Iglesia ha habido un aumento significativo de quienes han entrado en la senda de los convenios<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. Uno de esos períodos ocurrió entre 1837 y 1850. Algunos de los primeros apóstoles de la Iglesia restaurada del Señor sirvieron en misiones en el Reino Unido<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. A consecuencia de ello, miles de personas se unieron a la Iglesia y para 1850 había más miembros de la Iglesia viviendo en el Reino Unido que en los Estados Unidos. En ese momento, el Señor mandó a aquellos santos que se congregaran en Utah<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>. Se produjo una emigración masiva y algunos recibieron el apoyo de los préstamos del Fondo Perpetuo para la Emigración.<\/p>\n<p data-aid=\"168282355\" id=\"p_yiMC0\">Me encanta el relato de la llegada al valle del Lago Salado de un gran número de conversos procedentes de Inglaterra y Gales en 1852. La Primera Presidencia los recibió en la entrada del cañón Emigration, acompañados por la banda del capitán Pitt. El periódico <cite>Deseret News<\/cite> los describió como \u201cun grupo de peregrinos [que incluía] hermanas y niños, que llegaban caminando, quemados por el sol y curtidos por la intemperie, pero no desamparados; de corazones alegres y optimistas, lo cual se manifestaba claramente en sus semblantes felices y gozosos\u201d.<\/p>\n<p data-aid=\"168282360\" id=\"p_ijoY3\">A su paso \u201cpor la Manzana del Templo, [\u2026] miles de hombres, mujeres y niños de varias partes de la ciudad se congregaron para unirse a la gloriosa y gozosa bienvenida\u201d. El presidente Brigham Young les dirigió las siguientes palabras: \u201cRuego que el Señor Dios de Israel los bendiga [\u2026]. Hemos orado por ustedes continuamente; se han ofrecido miles de oraciones por ustedes, día tras día, a Aquel que nos ha mandado recoger a Israel, salvar a los hijos de los hombres mediante la predicación del Evangelio y prepararlos para la venida del Mesías\u201d<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282365\" id=\"p_tjwaF\">Con el espíritu de aquella gozosa ocasión, permítanme asegurar una vez más a todos los nuevos conversos y a los que regresan a la Iglesia del Señor: los amamos, los necesitamos; el Señor los necesita. Tal vez no los recibamos con bandas de música, pero rogamos que las bendiciones del cielo acompañen sus esfuerzos por progresar a lo largo de la senda de los convenios que conduce a Dios el Padre y a Jesucristo en el Reino Celestial<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282371\" id=\"p_ycX8m\">Hay una clara evidencia de que la fe en Jesucristo está aumentando hoy en día. Ha habido un notable aumento en las conversiones y en la participación de los conversos en La Iglesia de Jesucristo de los Santos de los Últimos Días<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. En los últimos treinta y seis meses se han unido a la Iglesia cerca de 900 000 conversos, los cuales constituyen casi el cinco por ciento del total de miembros de la Iglesia<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Recibimos a los nuevos miembros con los brazos abiertos y un profundo aprecio por el camino que han elegido.<\/p>\n<p data-aid=\"168282378\" id=\"p_ac3vB\">Estos 900 000 conversos de los últimos treinta y seis meses superan el total de miembros que tenía la Iglesia en su 110 aniversario, en 1940, cuando apenas alcanzaba los 860 000 miembros<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Aquel fue el año en que nacimos el élder Jeffrey R. Holland, el élder Dieter F. Uchtdorf y yo.<\/p>\n<p data-aid=\"168282384\" id=\"p_udt86\">Estos maravillosos nuevos conversos proceden de todas partes del mundo. En los primeros seis meses de este año, las conversiones han aumentado en más de un veinte por ciento con respecto al año anterior en Europa, África, Asia, el Pacífico y América Latina. En Norteamérica hemos visto un aumento del diecisiete por ciento<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. La obra del Señor sigue avanzando con fuerza. Estas cifras en aumento son un claro testimonio de que el Evangelio está tocando corazones y cambiando vidas por doquier.<\/p>\n<p data-aid=\"168282390\" id=\"p_f1MaI\">Hoy en día, estos preciados conversos ya no se reúnen en un lugar central<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Gracias a la fe y la consagración de los miembros de la Iglesia, disponemos de recursos para apoyar a las congregaciones, mediante la construcción de capillas y templos, en todo el mundo. Con las llaves necesarias del sacerdocio<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a> y los recursos proporcionados, las ordenanzas de salvación ya están disponibles en la mayor parte del mundo.<\/p>\n<p data-aid=\"168282396\" id=\"p_jOiPP\">Independientemente de dónde vivamos, los miembros actuales deben recibir a cientos de miles de nuevos miembros como hicimos con los santos ingleses y galeses de los primeros años de nuestra historia que acabo de describir. Me encantó el discurso del élder Gerrit W. Gong en esta sesión, donde nos enseñó que nadie debe sentarse solo, ya sea emocional o espiritualmente<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282402\" id=\"p_eIgHR\">Tenemos el deber sagrado de aceptar a los miembros nuevos y a los que regresan a la actividad y darles la bienvenida. A medida que el Señor apresura Su obra, debemos amar, nutrir y servir a quienes acepten Su Evangelio. Podemos contribuir a edificar un pueblo de Sion, donde seamos \u201cuno en corazón y voluntad, y viv[amos] en rectitud\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>. Para ser uno con el Señor, debemos ser uno ante Él<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Todos los miembros, independientemente de la fecha de su bautismo, comparten la responsabilidad de dar la bienvenida a los demás.<\/p>\n<p data-aid=\"168282408\" id=\"p_wINRD\">Mi consejo a los miembros de la Iglesia es que abracen a estas personas valiosas y escogidas que han aceptado el Evangelio de Jesucristo.<\/p>\n<p data-aid=\"168282415\" id=\"p_y3zOo\">El presidente Gordon B. Hinckley nos enseñó que los nuevos conversos necesitan \u201cun amigo, una responsabilidad y ser nutridos por \u2018la buena palabra de Dios\u2019 (Moroni 6:4)\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>. Podemos estar entre los amigos que les aseguren que ellos también pertenecen y que no son solo invitados. Podemos ayudarles a entender que son discípulos de Jesucristo que pueden ministrar a los demás y aceptar llamamientos para servir. Los conversos jóvenes deben considerar el servir en una misión de tiempo completo. Todos deben estar resueltos a esforzarse por llevar una vida semejante a la de Cristo.<\/p>\n<p data-aid=\"168282422\" id=\"p_exubd\">Muchos se unen a la Iglesia tras un gran sacrificio personal y necesitan desesperadamente el amor y el apoyo de otros santos<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282429\" id=\"p_d3WlA\">A aquellos de ustedes que son nuevos o que están volviendo a la fe, les digo que hay desafíos que tal vez enfrenten. Tengan paciencia con ustedes mismos. Los misioneros les han enseñado la doctrina esencial y les han explicado los convenios y las ordenanzas del reino, tal como se describen en las Escrituras y en <cite>Predicad Mi Evangelio<\/cite><a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282436\" id=\"p_goyo6\">Es esencial que reciban las ordenanzas y los convenios y que vivan los mandamientos<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Céntrense en los convenios necesarios para la exaltación. El Evangelio hace posible la exaltación, la cual requiere que se hagan y observen convenios sagrados con Dios. Excepto por el bautismo, la confirmación y el conferimiento del Sacerdocio de Melquisedec a los varones, los convenios que concertamos se realizan en el templo. En el caso de las personas fallecidas, cada una de estas ordenanzas de salvación se efectúa únicamente en el templo. Por consiguiente, prepararse uno mismo para el templo debe ser una meta inmediata.<\/p>\n<p data-aid=\"168282443\" id=\"p_jNBAV\">A veces se sentirán inadecuados en cuanto a lo que saben. El conocimiento del Evangelio es una gran bendición que se obtiene gradualmente con el tiempo, pero no es una ordenanza de salvación. El Evangelio no es un examen de conocimientos. No obstante, el presidente Nelson prometió: \u201cSi <em>cada día<\/em> estudian el Libro de Mormón con espíritu de oración, <em>cada día<\/em> tomarán mejores decisiones [\u2026]. Cuando mediten en lo que estudien, se abrirán las ventanas de los cielos y recibirán respuestas a sus preguntas y dirección para su vida\u201d<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282451\" id=\"p_juKcE\">Además, cada año y de manera rotativa, el curso de estudio de la Iglesia en las reuniones dominicales abarca el Antiguo Testamento, el Nuevo Testamento, el Libro de Mormón y Doctrina y Convenios. Con el tiempo tendrán mayor confianza según crezca su conocimiento del Evangelio. El estudio habitual de las Escrituras bendecirá y enriquecerá su vida al profundizar su conversión al Evangelio de Jesucristo<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282459\" id=\"p_lulvy\">El aprendizaje de la doctrina pura de Jesucristo es un proceso de toda la vida, tanto para entender la doctrina como para llevar una vida semejante a la de Cristo. Los convenios esenciales proporcionan un marco al que nos referimos como la senda de los convenios. El presidente Nelson ha enseñado estos principios con poder. Todos los miembros, especialmente los nuevos y los que regresan, serán bendecidos al estudiar e incorporar sus mensajes proféticos sobre los convenios y la senda de los convenios<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168282478\" id=\"p_mU6xR\">Si se fijan la meta de recibir dignamente cada convenio necesario para la exaltación, estarán en la senda que conduce al Reino Celestial. Debemos centrarnos en el templo y en las ordenanzas del templo. La mayoría de los convenios están al alcance de cada persona. Uno de ellos, el matrimonio eterno, implica sumar sus esfuerzos a los de un cónyuge. Nuestra meta debe ser encontrar a ese compañero eterno.<\/p>\n<p data-aid=\"168282487\" id=\"p_ahwHO\">No obstante, no se desanimen si el matrimonio eterno no es viable en este momento. Los profetas han enseñado que no se retendrá ninguna bendición a los miembros fieles que guarden los mandamientos. Un profeta del Libro de Mormón, el rey Benjamín, lo expresó con esta belleza: \u201cAquellos que guardan los mandamientos de Dios [\u2026] son bendecidos en todas las cosas [\u2026]; y si [son] fieles hasta el fin [\u2026] mor[arán] con Dios en un estado de interminable felicidad\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168283507\" id=\"p_aKW7U\">Descubrirán, si es que aún no lo han hecho, que los miembros no son perfectos. La doctrina revelada deja bien claro que cometeremos errores durante nuestro paso por la tierra. Vivimos en un mundo imperfecto y caído, no en un mundo celestial. Esta vida es un tiempo de probación, con oportunidades constantes de arrepentirnos y probarnos a nosotros mismos<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168283519\" id=\"p_t1CMO\">Todos nos sentimos inadecuados cuando nos esforzamos por llegar a ser como Jesucristo. Su Expiación nos permite arrepentirnos a diario cuando nos equivocamos. Nefi, otro profeta del Libro de Mormón, lo expresó así: \u201cDeb[emos] seguir adelante con firmeza en Cristo, teniendo un fulgor perfecto de esperanza y amor por Dios y por todos los hombres. Por tanto, si march[amos] adelante, deleitándo[nos] en la palabra de Cristo, y persever[amos] hasta el fin, he aquí, así dice el Padre: Tendréis la vida eterna\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168283530\" id=\"p_rgYhh\">Al contemplar los desafíos de nuestros días, debemos recordar que el Salvador, durante Su ministerio terrenal, también vivió en tiempos turbulentos y violentos. Su atención no se centró en los desafíos políticos del momento, sino que estaba dirigida al perfeccionamiento de los santos<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168283540\" id=\"p_gCUs9\">Seguir al Salvador, Su doctrina y Sus enseñanzas nunca ha sido fácil en un mundo que está en conmoción permanente. No fue fácil para el Salvador en el volátil mundo de Su jornada terrenal, no fue fácil para nuestros primeros líderes y tampoco lo es para nosotros. Felizmente, los profetas vivientes nos brindan la guía que necesitamos de forma específica para nuestros días. El presidente Dallin H. Oaks continuará ese legado espiritualmente poderoso.<\/p>\n<p data-aid=\"168283560\" id=\"p_eatDv\">Testifico que la doctrina de la Iglesia de Jesucristo es eterna y verdadera. Expreso mi testimonio inequívoco y cierto de que Jesucristo vive y de que podemos ser uno con Él gracias a Su Expiación<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>. En el sagrado nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168283571\" id=\"p_skZQk\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168283581\" id=\"p_xPZOi\">Charles Dickens, <cite>Historia de dos ciudades<\/cite>, Madrid, Cátedra, 2013, pág. 1.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168283592\" id=\"p_vyXBV\">Uno de los temas recurrentes de la obra de Dickens es la idea de la transformación del individuo en una época de agitación social.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168283594\" id=\"p_q2p87\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26\">Doctrina y Convenios 45:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168283605\" id=\"p_dJp9W\">Véase Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/10/12stevenson?lang=spa\">Bienaventurados los pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2025, págs. 6\u20139.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168283616\" id=\"p_m3rGt\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 1:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168283627\" id=\"p_vfJwl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p73#p73\">Doctrina y Convenios 88:73<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168283634\" id=\"p_pHesU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 59:23<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27\">Juan 14:27<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168283645\" id=\"p_jPhwH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/2?lang=spa&amp;id=p41#p41\">Hechos 2:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168283655\" id=\"p_iJzgP\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/112?lang=spa\">Doctrina y Convenios 112<\/a>. Esta revelación se recibió el 23 de julio de 1837, el día en que el Evangelio se predicó por primera vez en Inglaterra en esta dispensación. Para saber más acerca de estas misiones, véase James B. Allen, Ronald K. Esplin y David J. Whittaker, <cite>Men with a Mission: The Quorum of the Twelve Apostles in the British Isles, 1837\u20131841<\/cite>, 1992.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168283666\" id=\"p_y3lJC\">La mayoría de aquellos conversos provenían de la clase trabajadora. Charles Dickens observó a algunos de ellos mientras se preparaban para su viaje a los Estados Unidos en el barco <i>Amazon<\/i> y fue favorable en su apreciación, describiéndolos del modo siguiente: \u201cDentro de su condición social, [son] la flor y nata de Inglaterra\u201d (\u201cThe Uncommercial Traveller\u201d, <cite>All the Year Round<\/cite>, 4 de julio de 1863, pág. 446). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/1?lang=spa&amp;id=p26-p28#p26\">1 Corintios 1:26\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168283677\" id=\"p_p9BEa\">Véase \u201cArrival from England, by the \u2018Perpetual Emigrating Fund\u2019\u201d, <cite>Deseret News<\/cite>, 18 de septiembre de 1852, pág. 90.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168283688\" id=\"p_sFcTj\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p62%2Cp70#p62\">Doctrina y Convenios 76:62, 70<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15?lang=spa&amp;id=p40-p42#p40\">1 Corintios 15:40\u201342<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168283699\" id=\"p_cWak9\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168283710\" id=\"p_qNBcf\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168283721\" id=\"p_klQzj\">Información proporcionada por Registros de Miembros y Estadísticas.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168283732\" id=\"p_jBRyB\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168283743\" id=\"p_aXAPl\">En la década de 1890, los líderes de la Iglesia comenzaron a alentar a los miembros a permanecer en sus países de origen en lugar de congregarse en Utah. Las primeras estacas fuera de la región de las montañas Rocosas se crearon en la década de 1920 y la primera estaca fuera de los Estados Unidos y Canadá se creó en Nueva Zelanda (véase Brandon S. Plewe, editor, <cite>Mapping Mormonism: An Atlas of Latter-day Saint History<\/cite>, 2014, págs. 184\u2013185).<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168283753\" id=\"p_wcimQ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11\">Doctrina y Convenios 110:11\u201316<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168283766\" id=\"p_vXJq0\">Véase Gerrit W. Gong, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/10/25gong?lang=spa\">Nadie esté sentado solo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2025, págs. 40\u201343.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168283776\" id=\"p_hbOYj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18#p18\">Moisés 7:18<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168283786\" id=\"p_svIfI\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p21#p20\">Juan 17:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p11-p31#p11\">1 Corintios 12:11\u201331<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168283797\" id=\"p_izwr0\">Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1997/04/converts-and-young-men?lang=spa&amp;id=p7#p7\">Los conversos y los hombres jóvenes<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1997, pág. 53.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168283807\" id=\"p_vK8FH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/2?lang=spa&amp;id=p5#p5\">Santiago 2:5<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19?lang=spa&amp;id=p29#p29\">Mateo 19:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2?lang=spa&amp;id=p11#p11\">Romanos 2:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19\">Efesios 2:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168283818\" id=\"p_sWQ1X\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-2?lang=spa\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, pág. 17.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"168283828\" id=\"p_c2ejt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 14:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"168283839\" id=\"p_tNGHC\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;id=p39#p39\">El Libro de Mormón: ¿Cómo sería su vida sin él?<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, pág. 62; véase también Spencer W. Kimball: \u201cCuando parece que no hay oído divino que [nos] escuche ni voz divina que [nos] hable [\u2026], si [nos] sumer[gimos] en las Escrituras, la distancia se acorta y vuelve la espiritualidad\u201d (<cite><span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/teachings-spencer-w-kimball/chapter-6.html?id=p33#p33\">Enseñanzas de los Presidentes de la Iglesia: Spencer W. Kimball<\/span><\/cite>, 2006, pág. 75).<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"168283850\" id=\"p_z6zqv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p39#p39\">Juan 5:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"168283857\" id=\"p_l3c7T\">Véanse, por ejemplo, Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, págs. 92\u201395; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97\u2013100; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 95\u201398.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"168283869\" id=\"p_aJHCS\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41\">Mosíah 2:41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"168283878\" id=\"p_kqwAt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p32#p32\">Alma 34:32<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"168283889\" id=\"p_iWdmE\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"168283900\" id=\"p_vShan\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p11-p15#p11\">Efesios 4:11\u201315<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"168283911\" id=\"p_xjH96\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p22#p20\">Juan 17:20\u201322<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168282339",
+        "id": "note4",
+        "text": "<p data-aid=\"168283605\" id=\"p_dJp9W\">Véase Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/10/12stevenson?lang=spa\">Bienaventurados los pacificadores<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2025, págs. 6\u20139.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2025/10/12stevenson?lang=spa",
+          "text": "Bienaventurados los pacificadores",
+          "type": "cross-ref"
+        }]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168282344",
+        "id": "note5",
+        "text": "<p data-aid=\"168283616\" id=\"p_m3rGt\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 1:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 1:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168282333",
+        "id": "note2",
+        "text": "<p data-aid=\"168283592\" id=\"p_vyXBV\">Uno de los temas recurrentes de la obra de Dickens es la idea de la transformación del individuo en una época de agitación social.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168282339",
+        "id": "note3",
+        "text": "<p data-aid=\"168283594\" id=\"p_q2p87\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26\">Doctrina y Convenios 45:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/45?lang=spa&amp;id=p26#p26",
+          "text": "Doctrina y Convenios 45:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168282349",
+        "id": "note8",
+        "text": "<p data-aid=\"168283645\" id=\"p_jPhwH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/acts/2?lang=spa&amp;id=p41#p41\">Hechos 2:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/acts/2?lang=spa&amp;id=p41#p41",
+          "text": "Hechos 2:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168282349",
+        "id": "note9",
+        "text": "<p data-aid=\"168283655\" id=\"p_iJzgP\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/112?lang=spa\">Doctrina y Convenios 112<\/a>. Esta revelación se recibió el 23 de julio de 1837, el día en que el Evangelio se predicó por primera vez en Inglaterra en esta dispensación. Para saber más acerca de estas misiones, véase James B. Allen, Ronald K. Esplin y David J. Whittaker, <cite>Men with a Mission: The Quorum of the Twelve Apostles in the British Isles, 1837\u20131841<\/cite>, 1992.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/112?lang=spa",
+          "text": "Doctrina y Convenios 112",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168282344",
+        "id": "note6",
+        "text": "<p data-aid=\"168283627\" id=\"p_vfJwl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p73#p73\">Doctrina y Convenios 88:73<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p73#p73",
+          "text": "Doctrina y Convenios 88:73",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168282344",
+        "id": "note7",
+        "text": "<p data-aid=\"168283634\" id=\"p_pHesU\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 59:23<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27\">Juan 14:27<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/59?lang=spa&amp;id=p23#p23",
+            "text": "Doctrina y Convenios 59:23",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p27#p27",
+            "text": "Juan 14:27",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168283507",
+        "id": "note30",
+        "text": "<p data-aid=\"168283878\" id=\"p_kqwAt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p32#p32\">Alma 34:32<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p32#p32",
+          "text": "Alma 34:32",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168282384",
+        "id": "note16",
+        "text": "<p data-aid=\"168283732\" id=\"p_jBRyB\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168282378",
+        "id": "note15",
+        "text": "<p data-aid=\"168283721\" id=\"p_klQzj\">Información proporcionada por Registros de Miembros y Estadísticas.<\/p>"
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168282371",
+        "id": "note14",
+        "text": "<p data-aid=\"168283710\" id=\"p_qNBcf\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>"
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168282371",
+        "id": "note13",
+        "text": "<p data-aid=\"168283699\" id=\"p_cWak9\">Información proporcionada por Registros de Miembros y Estadísticas y el Departamento Misional.<\/p>"
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168282365",
+        "id": "note12",
+        "text": "<p data-aid=\"168283688\" id=\"p_sFcTj\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p62%2Cp70#p62\">Doctrina y Convenios 76:62, 70<\/a>; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/15?lang=spa&amp;id=p40-p42#p40\">1 Corintios 15:40\u201342<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p62%2Cp70#p62",
+            "text": "Doctrina y Convenios 76:62, 70",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/15?lang=spa&amp;id=p40-p42#p40",
+            "text": "1 Corintios 15:40\u201342",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168282360",
+        "id": "note11",
+        "text": "<p data-aid=\"168283677\" id=\"p_p9BEa\">Véase \u201cArrival from England, by the \u2018Perpetual Emigrating Fund\u2019\u201d, <cite>Deseret News<\/cite>, 18 de septiembre de 1852, pág. 90.<\/p>"
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "168283560",
+        "id": "note33",
+        "text": "<p data-aid=\"168283911\" id=\"p_xjH96\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p22#p20\">Juan 17:20\u201322<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p22#p20",
+          "text": "Juan 17:20\u201322",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168282349",
+        "id": "note10",
+        "text": "<p data-aid=\"168283666\" id=\"p_y3lJC\">La mayoría de aquellos conversos provenían de la clase trabajadora. Charles Dickens observó a algunos de ellos mientras se preparaban para su viaje a los Estados Unidos en el barco <i>Amazon<\/i> y fue favorable en su apreciación, describiéndolos del modo siguiente: \u201cDentro de su condición social, [son] la flor y nata de Inglaterra\u201d (\u201cThe Uncommercial Traveller\u201d, <cite>All the Year Round<\/cite>, 4 de julio de 1863, pág. 446). Véase también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/1?lang=spa&amp;id=p26-p28#p26\">1 Corintios 1:26\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/1?lang=spa&amp;id=p26-p28#p26",
+          "text": "1 Corintios 1:26\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "168283530",
+        "id": "note32",
+        "text": "<p data-aid=\"168283900\" id=\"p_vShan\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/4?lang=spa&amp;id=p11-p15#p11\">Efesios 4:11\u201315<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/eph/4?lang=spa&amp;id=p11-p15#p11",
+          "text": "Efesios 4:11\u201315",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168283519",
+        "id": "note31",
+        "text": "<p data-aid=\"168283889\" id=\"p_iWdmE\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20\">2 Nefi 31:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p20#p20",
+          "text": "2 Nefi 31:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168282396",
+        "id": "note19",
+        "text": "<p data-aid=\"168283766\" id=\"p_vXJq0\">Véase Gerrit W. Gong, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/10/25gong?lang=spa\">Nadie esté sentado solo<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2025, págs. 40\u201343.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2025/10/25gong?lang=spa",
+          "text": "Nadie esté sentado solo",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168282390",
+        "id": "note18",
+        "text": "<p data-aid=\"168283753\" id=\"p_wcimQ\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11\">Doctrina y Convenios 110:11\u201316<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/110?lang=spa&amp;id=p11-p16#p11",
+          "text": "Doctrina y Convenios 110:11\u201316",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168282390",
+        "id": "note17",
+        "text": "<p data-aid=\"168283743\" id=\"p_aXAPl\">En la década de 1890, los líderes de la Iglesia comenzaron a alentar a los miembros a permanecer en sus países de origen en lugar de congregarse en Utah. Las primeras estacas fuera de la región de las montañas Rocosas se crearon en la década de 1920 y la primera estaca fuera de los Estados Unidos y Canadá se creó en Nueva Zelanda (véase Brandon S. Plewe, editor, <cite>Mapping Mormonism: An Atlas of Latter-day Saint History<\/cite>, 2014, págs. 184\u2013185).<\/p>"
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168282451",
+        "id": "note27",
+        "text": "<p data-aid=\"168283850\" id=\"p_z6zqv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p39#p39\">Juan 5:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/5?lang=spa&amp;id=p39#p39",
+          "text": "Juan 5:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168282443",
+        "id": "note26",
+        "text": "<p data-aid=\"168283839\" id=\"p_tNGHC\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;id=p39#p39\">El Libro de Mormón: ¿Cómo sería su vida sin él?<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2017, pág. 62; véase también Spencer W. Kimball: \u201cCuando parece que no hay oído divino que [nos] escuche ni voz divina que [nos] hable [\u2026], si [nos] sumer[gimos] en las Escrituras, la distancia se acorta y vuelve la espiritualidad\u201d (<cite><span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/teachings-spencer-w-kimball/chapter-6.html?id=p33#p33\">Enseñanzas de los Presidentes de la Iglesia: Spencer W. Kimball<\/span><\/cite>, 2006, pág. 75).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2017/10/the-book-of-mormon-what-would-your-life-be-like-without-it?lang=spa&amp;id=p39#p39",
+          "text": "El Libro de Mormón: ¿Cómo sería su vida sin él?",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168282436",
+        "id": "note25",
+        "text": "<p data-aid=\"168283828\" id=\"p_c2ejt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7\">Doctrina y Convenios 14:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/14?lang=spa&amp;id=p7#p7",
+          "text": "Doctrina y Convenios 14:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168282429",
+        "id": "note24",
+        "text": "<p data-aid=\"168283818\" id=\"p_sWQ1X\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-2?lang=spa\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, pág. 17.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/04-chapter-2?lang=spa",
+          "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168282422",
+        "id": "note23",
+        "text": "<p data-aid=\"168283807\" id=\"p_vK8FH\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/2?lang=spa&amp;id=p5#p5\">Santiago 2:5<\/a>; véanse también <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/19?lang=spa&amp;id=p29#p29\">Mateo 19:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/rom/2?lang=spa&amp;id=p11#p11\">Romanos 2:11<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19\">Efesios 2:19<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8\">Mosíah 18:8\u20139<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/james/2?lang=spa&amp;id=p5#p5",
+            "text": "Santiago 2:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/matt/19?lang=spa&amp;id=p29#p29",
+            "text": "Mateo 19:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/rom/2?lang=spa&amp;id=p11#p11",
+            "text": "Romanos 2:11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/eph/2?lang=spa&amp;id=p19#p19",
+            "text": "Efesios 2:19",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/18?lang=spa&amp;id=p8-p9#p8",
+            "text": "Mosíah 18:8\u20139",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168282415",
+        "id": "note22",
+        "text": "<p data-aid=\"168283797\" id=\"p_izwr0\">Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1997/04/converts-and-young-men?lang=spa&amp;id=p7#p7\">Los conversos y los hombres jóvenes<\/a>\u201d, <cite>Liahona<\/cite>, julio de 1997, pág. 53.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1997/04/converts-and-young-men?lang=spa&amp;id=p7#p7",
+          "text": "Los conversos y los hombres jóvenes",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168282402",
+        "id": "note21",
+        "text": "<p data-aid=\"168283786\" id=\"p_svIfI\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p21#p20\">Juan 17:20\u201321<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p11-p31#p11\">1 Corintios 12:11\u201331<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/17?lang=spa&amp;id=p20-p21#p20",
+            "text": "Juan 17:20\u201321",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/1-cor/12?lang=spa&amp;id=p11-p31#p11",
+            "text": "1 Corintios 12:11\u201331",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168282402",
+        "id": "note20",
+        "text": "<p data-aid=\"168283776\" id=\"p_hbOYj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18#p18\">Moisés 7:18<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/7?lang=spa&amp;id=p18#p18",
+          "text": "Moisés 7:18",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168282333",
+        "id": "note1",
+        "text": "<p data-aid=\"168283581\" id=\"p_xPZOi\">Charles Dickens, <cite>Historia de dos ciudades<\/cite>, Madrid, Cátedra, 2013, pág. 1.<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168282487",
+        "id": "note29",
+        "text": "<p data-aid=\"168283869\" id=\"p_aJHCS\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41\">Mosíah 2:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41",
+          "text": "Mosíah 2:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168282459",
+        "id": "note28",
+        "text": "<p data-aid=\"168283857\" id=\"p_l3c7T\">Véanse, por ejemplo, Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/10/46nelson?lang=spa\">Que Dios prevalezca<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2020, págs. 92\u201395; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/04/47nelson?lang=spa\">El poder del ímpetu espiritual<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2022, págs. 97\u2013100; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 95\u201398.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2020/10/46nelson?lang=spa",
+            "text": "Que Dios prevalezca",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/04/47nelson?lang=spa",
+            "text": "El poder del ímpetu espiritual",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/10/47nelson?lang=spa",
+            "text": "Vencer al mundo y hallar descanso",
+            "type": "cross-ref"
+          }
+        ]
+      }
+    }
+  }
+}

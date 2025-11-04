@@ -1,0 +1,925 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/24brown?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "f9583f9f068b4523b0e62a2dd8dccd09",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/24brown",
+      "data-bcp47-lang": "es",
+      "data-aid": "168173710",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "3",
+      "data-orig-id": "f59d6e7713454e1f9e40b45f44106d65"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/vvh7sohevnhipj1rfefre5w57l5i0zqrfdj0io62/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/hreisfomawyeqepqzu6q6fzmgz2k4bmnysxvt3ap-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "El don eterno del testimonio",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168173710",
+      {"key": "168173710"}
+    ],
+    [
+      "168216099",
+      {"key": "168216099"}
+    ],
+    [
+      "168216101",
+      {"key": "168216101"}
+    ],
+    [
+      "168216103",
+      {"key": "168216103"}
+    ],
+    [
+      "168216105",
+      {"key": "168216105"}
+    ],
+    [
+      "168216107",
+      {"key": "168216107"}
+    ],
+    [
+      "168216109",
+      {"key": "168216109"}
+    ],
+    [
+      "168216112",
+      {"key": "168216112"}
+    ],
+    [
+      "168216113",
+      {"key": "168216113"}
+    ],
+    [
+      "168216115",
+      {"key": "168216115"}
+    ],
+    [
+      "168216118",
+      {"key": "168216118"}
+    ],
+    [
+      "168216120",
+      {"key": "168216120"}
+    ],
+    [
+      "168216122",
+      {"key": "168216122"}
+    ],
+    [
+      "168216124",
+      {"key": "168216124"}
+    ],
+    [
+      "168216126",
+      {"key": "168216126"}
+    ],
+    [
+      "168216128",
+      {"key": "168216128"}
+    ],
+    [
+      "168216130",
+      {"key": "168216130"}
+    ],
+    [
+      "168216132",
+      {"key": "168216132"}
+    ],
+    [
+      "168216134",
+      {"key": "168216134"}
+    ],
+    [
+      "168216137",
+      {"key": "168216137"}
+    ],
+    [
+      "168216139",
+      {"key": "168216139"}
+    ],
+    [
+      "168216140",
+      {"key": "168216140"}
+    ],
+    [
+      "168216143",
+      {"key": "168216143"}
+    ],
+    [
+      "168216145",
+      {"key": "168216145"}
+    ],
+    [
+      "168216147",
+      {"key": "168216147"}
+    ],
+    [
+      "168216148",
+      {"key": "168216148"}
+    ],
+    [
+      "168216150",
+      {"key": "168216150"}
+    ],
+    [
+      "168216151",
+      {"key": "168216151"}
+    ],
+    [
+      "168216153",
+      {"key": "168216153"}
+    ],
+    [
+      "168216154",
+      {"key": "168216154"}
+    ],
+    [
+      "168216156",
+      {"key": "168216156"}
+    ],
+    [
+      "168216159",
+      {"key": "168216159"}
+    ],
+    [
+      "168216160",
+      {"key": "168216160"}
+    ],
+    [
+      "168216162",
+      {"key": "168216162"}
+    ],
+    [
+      "168216163",
+      {"key": "168216163"}
+    ],
+    [
+      "168216165",
+      {"key": "168216165"}
+    ],
+    [
+      "168216167",
+      {"key": "168216167"}
+    ],
+    [
+      "168216168",
+      {"key": "168216168"}
+    ],
+    [
+      "168216171",
+      {"key": "168216171"}
+    ],
+    [
+      "168216172",
+      {"key": "168216172"}
+    ],
+    [
+      "168216174",
+      {"key": "168216174"}
+    ],
+    [
+      "168216176",
+      {"key": "168216176"}
+    ],
+    [
+      "168216178",
+      {"key": "168216178"}
+    ],
+    [
+      "168216180",
+      {"key": "168216180"}
+    ],
+    [
+      "168216181",
+      {"key": "168216181"}
+    ],
+    [
+      "168216183",
+      {"key": "168216183"}
+    ],
+    [
+      "168216184",
+      {"key": "168216184"}
+    ],
+    [
+      "168216186",
+      {"key": "168216186"}
+    ],
+    [
+      "168216188",
+      {"key": "168216188"}
+    ],
+    [
+      "168216190",
+      {"key": "168216190"}
+    ],
+    [
+      "168216193",
+      {"key": "168216193"}
+    ],
+    [
+      "168216195",
+      {"key": "168216195"}
+    ],
+    [
+      "168216197",
+      {"key": "168216197"}
+    ],
+    [
+      "168216200",
+      {"key": "168216200"}
+    ],
+    [
+      "168216202",
+      {"key": "168216202"}
+    ],
+    [
+      "168216204",
+      {"key": "168216204"}
+    ],
+    [
+      "168216205",
+      {"key": "168216205"}
+    ],
+    [
+      "168216208",
+      {"key": "168216208"}
+    ],
+    [
+      "168216210",
+      {"key": "168216210"}
+    ],
+    [
+      "168216211",
+      {"key": "168216211"}
+    ],
+    [
+      "168216213",
+      {"key": "168216213"}
+    ],
+    [
+      "168216216",
+      {"key": "168216216"}
+    ],
+    [
+      "168216218",
+      {"key": "168216218"}
+    ],
+    [
+      "168216220",
+      {"key": "168216220"}
+    ],
+    [
+      "168216222",
+      {"key": "168216222"}
+    ],
+    [
+      "168216223",
+      {"key": "168216223"}
+    ],
+    [
+      "168216226",
+      {"key": "168216226"}
+    ],
+    [
+      "168216228",
+      {"key": "168216228"}
+    ],
+    [
+      "168216230",
+      {"key": "168216230"}
+    ],
+    [
+      "168216232",
+      {"key": "168216232"}
+    ],
+    [
+      "168216234",
+      {"key": "168216234"}
+    ],
+    [
+      "168216236",
+      {"key": "168216236"}
+    ],
+    [
+      "168216238",
+      {"key": "168216238"}
+    ],
+    [
+      "168216240",
+      {"key": "168216240"}
+    ],
+    [
+      "168216242",
+      {"key": "168216242"}
+    ],
+    [
+      "168216245",
+      {"key": "168216245"}
+    ],
+    [
+      "168216248",
+      {"key": "168216248"}
+    ],
+    [
+      "168216250",
+      {"key": "168216250"}
+    ],
+    [
+      "168216253",
+      {"key": "168216253"}
+    ],
+    [
+      "168216254",
+      {"key": "168216254"}
+    ],
+    [
+      "168216255",
+      {"key": "168216255"}
+    ],
+    [
+      "168216256",
+      {"key": "168216256"}
+    ],
+    [
+      "168216257",
+      {"key": "168216257"}
+    ],
+    [
+      "168216258",
+      {"key": "168216258"}
+    ],
+    [
+      "168216260",
+      {"key": "168216260"}
+    ],
+    [
+      "168216262",
+      {"key": "168216262"}
+    ],
+    [
+      "168216264",
+      {"key": "168216264"}
+    ],
+    [
+      "168216266",
+      {"key": "168216266"}
+    ],
+    [
+      "168216268",
+      {"key": "168216268"}
+    ],
+    [
+      "168216271",
+      {"key": "168216271"}
+    ],
+    [
+      "168216273",
+      {"key": "168216273"}
+    ],
+    [
+      "168216275",
+      {"key": "168216275"}
+    ],
+    [
+      "168216277",
+      {"key": "168216277"}
+    ],
+    [
+      "168216279",
+      {"key": "168216279"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/24brown",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Brown enseña tres verdades que fundamentan nuestros testimonios y nos alientan a elegir creer.",
+          "title": "El don eterno del testimonio"
+        },
+        "pageSocial": {
+          "description": "El élder Brown enseña tres verdades que fundamentan nuestros testimonios y nos alientan a elegir creer.",
+          "title": "El don eterno del testimonio"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/vvh7sohevnhipj1rfefre5w57l5i0zqrfdj0io62/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/vvh7sohevnhipj1rfefre5w57l5i0zqrfdj0io62/full/%21192%2C/0/default\" data-video-title=\"El don eterno del testimonio\" data-video-description=\"El élder Brown enseña tres verdades que fundamentan nuestros testimonios y nos alientan a elegir creer.\" data-video-id=\"6382047508112\" data-duration=\"737000\" data-assetId=\"u5fb0oenpdnm1wwi7h7s0sa3cx9a16moxu5u6x9b\" data-ref-id=\"u5fb0oenpdnm1wwi7h7s0sa3cx9a16moxu5u6x9b\" data-duration-string=\"12:17\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382047508112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"232485097\"/><source src=\"https://assets.churchofjesuschrist.org/u5fb0oenpdnm1wwi7h7s0sa3cx9a16moxu5u6x9b-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"54026349\"/><source src=\"https://assets.churchofjesuschrist.org/u5fb0oenpdnm1wwi7h7s0sa3cx9a16moxu5u6x9b-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"90427328\"/><source src=\"https://assets.churchofjesuschrist.org/u5fb0oenpdnm1wwi7h7s0sa3cx9a16moxu5u6x9b-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"232485097\"/><\/video><h1 data-aid=\"168216099\" id=\"p_fFfmB\">El don eterno del testimonio<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168216101\" id=\"p_nzQ3N\">Por el élder Kevin G. Brown<\/p>\n<p class=\"author-role\" data-aid=\"168216103\" id=\"p_kULHC\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168216105\" id=\"p_zJMUn\">Todo hijo o hija de Dios puede obtener por sí mismo un conocimiento más profundo, más firme y más seguro.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168216107\" id=\"p_jDcPw\">Mis queridos hermanos y hermanas, últimamente he estado reflexionando sobre tres poderosas verdades de la Restauración. Esas verdades han bendecido mi vida profundamente. Hoy me gustaría relatarles cómo estas verdades me han guiado en mi trayecto hacia <em>un testimonio seguro<\/em> del Evangelio de Jesucristo.<\/p>\n<section id=\"sec_bpHCg\">\n<header>\n<h2 data-aid=\"168216109\" id=\"p_sYaRl\">1. Dios es nuestro amoroso Padre Celestial<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"168216112\" id=\"p_u4EoM\">Él es omnisciente y omnipotente. Por medio de la Luz de Cristo y de la ministración del Espíritu Santo, Su influencia está en todas partes<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>. <em>El bendecirnos está en Su naturaleza<\/em><a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216113\" id=\"p_q1O3f\">Él ve nuestro pasado, nuestro presente y nuestro destino eterno. <i>Nada se le puede ocultar<\/i><a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216115\" id=\"p_bfWh0\">La invitación del presidente Russell M. Nelson de \u201cpensar de manera celestial\u201d nos alienta a emular la visión y la naturaleza de nuestro Padre Celestial<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216118\" id=\"p_tJqLH\">Debido a Sus atributos divinos, nuestro Padre Celestial nos da toda buena dádiva, cada una con Su perspectiva y visión eternas en mente.<\/p>\n<\/section>\n<section id=\"sec_wmTeH\">\n<header>\n<h2 data-aid=\"168216120\" id=\"p_dtBcv\">2. El albedrío es el don para elegir y actuar por nosotros mismos<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"168216122\" id=\"p_zaJer\">También es la responsabilidad para elegir bien.<\/p>\n<p data-aid=\"168216124\" id=\"p_grPdT\">Jesucristo pagó el más alto precio por ese privilegio con Su preciosa sangre<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216126\" id=\"p_uLGC4\">A veces podríamos creer que el albedrío significa hacer lo que queramos. Sin embargo, el hecho de que el precio ya se haya pagado<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a> significa que el albedrío es un don sagrado.<\/p>\n<p data-aid=\"168216128\" id=\"p_f6gHR\">Somos agentes, y los agentes son responsables de algo. En este caso, somos responsables por las decisiones que tomamos basadas en el conocimiento que tenemos y los dones que se nos dan. No podemos tomar una decisión sin ser responsables de las consecuencias<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216130\" id=\"p_ufsMa\">¿Por qué tenemos el albedrío?<\/p>\n<p data-aid=\"168216132\" id=\"p_qHPcL\">Para elegir lo bueno.<\/p>\n<p data-aid=\"168216134\" id=\"p_mE0Gh\">Para elegir a Cristo.<\/p>\n<p data-aid=\"168216137\" id=\"p_gBcJR\">Para elegir la vida eterna, una y otra vez<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_dkEaq\">\n<header>\n<h2 data-aid=\"168216139\" id=\"p_f2KN9\">3. Nuestro testimonio viene por medio del poder del Espíritu Santo<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a><\/h2>\n<\/header>\n<p data-aid=\"168216140\" id=\"p_emz4D\">El testimonio que proviene del Espíritu Santo es más poderoso que lo que se ve<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. Él es el testigo preeminente del Padre y del Hijo<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>. El presidente Russell M. Nelson enseñó: \u201cEn los días futuros, no será posible sobrevivir espiritualmente sin la influencia guiadora, orientadora, consoladora y constante del Espíritu Santo\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216143\" id=\"p_teb5v\">Hermanos y hermanas, esa es la razón por la que cada uno de nosotros necesita el poder del Espíritu Santo hoy.<\/p>\n<p data-aid=\"168216145\" id=\"p_c7BQR\">El testimonio por medio del Espíritu Santo se puede recibir de muchas maneras. Al igual que un foco en un cuarto oscuro, puede encenderse de forma drástica y repentina. Puede llegar como la salida del sol, gradualmente y con el tiempo. Puede venir como rayos de luz, como una exposición intermitente a inteligencia pura<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Sea cual sea la manera, viene por medio del Espíritu Santo.<\/p>\n<\/section>\n<section id=\"sec_e5Emz\">\n<header>\n<h2 data-aid=\"168216147\" id=\"p_wU8Vs\">En busca de un testimonio en Jamaica<\/h2>\n<\/header>\n<p data-aid=\"168216148\" id=\"p_yAoN3\">Crecí en la hermosa isla de Jamaica; fue divertido y maravilloso. Sin embargo, cuando comencé la escuela secundaria, algunos compañeros de clase y amigos no podían entender mi decisión de ser miembro de la Iglesia de Jesucristo. \u201c¿Cómo pudiste unirte a esa Iglesia?\u201d, preguntaban. \u201c¿Cómo puedes creer esa historia?\u201d, refiriéndose a la Primera Visión. \u201c¿Cómo puedes leer ese libro?\u201d, refiriéndose al Libro de Mormón. \u201c¿De veras crees en todo eso?\u201d y \u201c¿Por qué desperdicias tu vida?\u201d.<\/p>\n<img alt=\"El Templo de Salt Lake\" id=\"img_d7eZd\" src=\"https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21500%2C/0/default\" data-img-id=\"3a345774b9bb0becc34c6c50930d5c89616b9919\" srcset=\"https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/3a345774b9bb0becc34c6c50930d5c89616b9919/full/%21640%2C/0/default 640w\" data-assetId=\"3a345774b9bb0becc34c6c50930d5c89616b9919\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"250\" data-aspect-ratio=\"2.0\" data-public-title=\"Salt Lake Temple\" data-public-description=\"Exterior of the Salt Lake Temple and surrounding area.\"/>\n<img alt=\"La Arboleda Sagrada\" id=\"img_ofGrR\" src=\"https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21500%2C/0/default\" data-img-id=\"901e818bc43ec458dcfe32971e3dbfd1006ef415\" srcset=\"https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/901e818bc43ec458dcfe32971e3dbfd1006ef415/full/%21640%2C/0/default 640w\" data-assetId=\"901e818bc43ec458dcfe32971e3dbfd1006ef415\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"263\" data-aspect-ratio=\"1.9011406844106464\" data-public-title=\"The First Vision\" data-public-description=\"Painting of young Joseph Smith looking up at God the Father and Jesus Christ in a burst of light.\"/>\n<img alt=\"El Libro de Mormón\" id=\"img_vjGUx\" src=\"https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21500%2C/0/default\" data-img-id=\"e8140f1d429e1a6f850e2ae58c360cc2dbfab552\" srcset=\"https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/e8140f1d429e1a6f850e2ae58c360cc2dbfab552/full/%21640%2C/0/default 640w\" data-assetId=\"e8140f1d429e1a6f850e2ae58c360cc2dbfab552\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"260\" data-aspect-ratio=\"1.9230769230769231\" data-public-title=\"Book Of Mormon\" data-public-description=\"Missionary elder holding out a Book of Mormon. (vert)\"/>\n<p data-aid=\"168216150\" id=\"p_gWcyv\">Era doloroso, especialmente cuando venía de personas que me importaban.<\/p>\n<p data-aid=\"168216151\" id=\"p_ktY55\">Pero lo que ellos no sabían era esto: yo había tenido una experiencia con el Espíritu Santo. A medida que ese testimonio llenó mi corazón, se mitigó mi dolor de cada día y, por un breve momento, \u201cvislumbr[é] [\u2026] el resplandor del reino celestial\u201d<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216153\" id=\"p_cbjkh\">Tal vez a ustedes les hayan hecho algunas de esas preguntas. Quizás, incluso ahora, están siendo bombardeados como lo fui yo.<\/p>\n<p data-aid=\"168216154\" id=\"p_fdbuS\">El don y el testimonio del Espíritu Santo están al alcance de todos<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216156\" id=\"p_ttQ7n\">Jamaica es para mí lo que Palmyra fue para José Smith. Es mi Arboleda Sagrada. No sé el lugar exacto donde José se arrodilló para orar en la Arboleda Sagrada, pero sé exactamente dónde estaba yo cuando mi Arboleda Sagrada se hizo realidad. Sucedió en Four Grove Road, Mandeville, Jamaica, en el cuarto de baño, a las seis de la mañana de un miércoles, tres años después de mi bautismo. Esa sagrada experiencia sucedió porque, dos semanas antes, una inspirada misionera me invitó a leer el Libro de Mormón. La hermana Audrey Krauss está presente hoy en esta conferencia con su familia, y la querré siempre.<\/p>\n<img alt=\"El élder Brown de niño con la hermana misionera\" id=\"img_sF1pZ\" src=\"https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21500%2C/0/default\" data-img-id=\"4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q\" srcset=\"https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q/full/%21640%2C/0/default 640w\" data-assetId=\"4dh6xnjwc26897w4k96cvd51w8jc1yxx96xzg63q\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"645\" data-aspect-ratio=\"0.7751937984496124\" data-public-title=\"Elder Kevin G. Brown's Baptism\" data-public-description=\"Sister Krauss and young Elder Brown at his baptism\"/>\n<p data-aid=\"168216159\" id=\"p_pnsuO\">Aquella experiencia me cambió.<\/p>\n<p data-aid=\"168216160\" id=\"p_k5bbr\">Hermanos y hermanas, un testimonio no se da para usarlo temporalmente. Este don de nuestro amoroso Padre Celestial está destinado a ser eterno porque el Dador es eterno<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. Un testimonio no debe tener fecha de caducidad. No se debe debilitar ni disminuir porque algo en mi vida haya cambiado o algo en el mundo haya cambiado. Debería fortalecerse porque, al igual que los talentos del siervo en la parábola de los talentos, mi testimonio personal es un don que debe multiplicarse, no enterrarse<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216162\" id=\"p_mCNUG\">Recordar aquellos días difíciles de pruebas y persecución por los que pasé cuando era niño me ha ayudado a llegar al punto en que <em>ahora sé por mí mismo<\/em>. No solo creo, tengo esperanza o confío, aunque esas son partes importantes de la fe en el camino hacia un <em>testimonio seguro<\/em>. Los felicito por forjar su propio camino al hacer preguntas, estudiar, orar, ayunar y meditar. Por favor, no dejen de hacerlo. Vale la pena todo esfuerzo para seguir este camino hacia el testimonio. ¿A quién o a qué le permitirán que se lo arrebate? \u201c¿Qué mayor testimonio puede[n] tener que de Dios?\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216163\" id=\"p_oiWpm\">Todo hijo o hija de Dios puede obtener por sí mismo un conocimiento más profundo, más firme y más seguro. Al igual que José Smith, quien declaró su testimonio a pesar de la oposición, con valentía podemos decir: \u201cYo lo sabía, y sabía que Dios lo sabía; y no podía negarlo, ni osaría hacerlo\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216165\" id=\"p_ovUjG\">Mis queridos hermanos y hermanas, permitan que la pequeña semilla del testimonio obre en ustedes hasta que brote para convertirse en un <em>conocimiento seguro sempiternamente glorioso<\/em><a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216167\" id=\"p_n3nZp\">Si son bautizados y confirmados miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, pero todavía luchan con un \u201cno estoy seguro de saberlo\u201d, recuerden esta promesa de la oración de la Santa Cena: \u201cQue siempre puedan tener su Espíritu consigo\u201d<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. Gracias a esa promesa, cada uno de nosotros puede seguir el camino que conduce al testimonio <em>y al conocimiento seguro<\/em>.<\/p>\n<\/section>\n<section id=\"sec_m9q9U\">\n<header>\n<h2 data-aid=\"168216168\" id=\"p_ogvlC\">Sean responsables de su testimonio<\/h2>\n<\/header>\n<p data-aid=\"168216171\" id=\"p_tImdk\">Ahora bien, he aquí una gran verdad: Sea cual sea la forma en que se dé un testimonio \u2014ya sea que destile como el amanecer o que llegue en una gloriosa visión\u2014 incluso así es necesario <em>elegir<\/em> recibir ese precioso don<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216172\" id=\"p_hi7Wr\">Decir \u201cyo elijo creer\u201d hace que sea más fácil recibir un testimonio de Dios. Si notamos que nuestro testimonio se debilita, recuerden que son las decisiones que tomamos las que disminuyen el poder del testimonio. Pero el testimonio no se ha ido a ninguna parte; solo tenemos que elegir volver a reconectarnos con él.<\/p>\n<p data-aid=\"168216174\" id=\"p_d4OJr\">Elegir creer es una manera sabia y poderosa de utilizar nuestro albedrío.<\/p>\n<p data-aid=\"168216176\" id=\"p_xp2Vj\">No veo una mejor manera de utilizar mi albedrío que en defensa de mi testimonio.<\/p>\n<p data-aid=\"168216178\" id=\"p_p9kRT\">El presidente Nelson enseñó: \u201cLes ruego que se hagan cargo de su propio testimonio. Trabajen para conseguirlo; háganse responsables de él. Cuídenlo, nútranlo de manera que crezca, aliméntenlo con la verdad\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216180\" id=\"p_iZ52y\">Para mí, las palabras <em>hacerse cargo, trabajar, cuidar, ser responsables, nutrir<\/em> y <em>alimentar<\/em> suenan como un <em>agente<\/em> al que se le ha dado mayordomía de algo precioso e importante<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216181\" id=\"p_vsJ2v\">En los primeros años de la Iglesia, Parley P. Pratt se sentía descontento con el profeta José Smith y <em>eligió<\/em> criticarlo a él y a la Iglesia. \u201cEstando John Taylor\u201d, a quien Parley había enseñado el Evangelio, \u201cen la ciudad, Parley habló con él en privado y le advirtió que no siguiera a José\u201d. John Taylor le dijo a Parley:<\/p>\n<p data-aid=\"168216183\" id=\"p_aoIdm\">\u201cAntes de partir de Canadá, compartiste un fuerte testimonio de que José Smith era un profeta de Dios, [\u2026] y dijiste que sabías estas cosas por revelación y por el don del Espíritu Santo. [\u2026]<\/p>\n<p data-aid=\"168216184\" id=\"p_tKeGv\">\u201cAhora yo tengo el mismo testimonio del que tú gozabas en ese entonces. Si la obra era verdadera hace seis meses, hoy es verdadera. Si José Smith era un profeta en ese entonces, hoy es un profeta\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216186\" id=\"p_lKbaw\">Testifico que José Smith fue un profeta de Dios y que el manto profético que recibió continúa hoy en día. Jesucristo dirige esta obra.<\/p>\n<p data-aid=\"168216188\" id=\"p_gO2Pg\">Los invito a pensar en su camino hacia <em>un testimonio seguro<\/em> de Jesucristo y Su Evangelio. Sean responsables de su testimonio; usen su albedrío sabiamente y reconozcan al Dador y todos Sus gloriosos atributos. Testifico que el poder está dentro de ustedes. Nadie puede elegir por ustedes; nadie puede quitarles ese don. Pueden <em>elegir creer<\/em><a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216190\" id=\"p_uGxKe\">Les prometo que, al hacerlo, su testimonio será un \u201c<em>manantial de aguas vivas<\/em> que brota para vida sempiterna\u201d<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Será un <em>ancla<\/em> y un <em>motivador<\/em>, y los <em>sostendrá<\/em> en los momentos difíciles. Les <em>permitirá<\/em> desarrollar dones espirituales. Les <em>ayudará<\/em> en su ministerio y servicio personales. Será un <em>arma<\/em> contra Satanás y sus adversarios. Su testimonio les brindará <em>gozo<\/em> al verlo reflejado en sus hijos, nietos y bisnietos, y en aquellos a quienes aman y sirven. Será <em>poderoso<\/em> cuando lo expresen y lo utilicen para testificar.<\/p>\n<p data-aid=\"168216193\" id=\"p_gVPZz\">Si lo saben, lo saben. Yo sé que lo sé. Necesitamos <em>testimonios más seguros<\/em> de Jesucristo y de Su Evangelio<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>. ¡Obténganlo! ¡Búsquenlo! ¡Es urgente! Esta es la última dispensación: la dispensación del cumplimiento de los tiempos<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216195\" id=\"p_dsXz6\">Jesucristo declaró esta verdad: \u201cEl cielo y la tierra pasarán, pero mis palabras no pasarán\u201d<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168216197\" id=\"p_u1fbu\">Hermanos y hermanas, el testimonio de Jesucristo nunca tuvo como fin ser un don temporal. Nada en cuanto a él es temporal: ni el que lo da, ni la dádiva en sí, ni el que entrega la dádiva, ni de quién trata la dádiva. Ruego que su testimonio se describa de esta misma manera. Aunque \u201cel cielo y la tierra pasarán\u201d, su testimonio del Evangelio de Jesucristo <em>no<\/em> pasará. Ahora es el momento de procurar este preciado don<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>. En el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168216200\" id=\"p_avi8J\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168216202\" id=\"p_goOpA\">\u201cDios es nuestro Padre Celestial y nosotros somos Sus hijos. Él nos creó a Su imagen. Él tiene \u2018un cuerpo [glorificado y perfecto] de carne y huesos, tangible como el del hombre\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>).<\/p>\n<p data-aid=\"168216204\" id=\"p_wOaF7\">\u201cDios nos conoce personalmente y nos ama más de lo que podemos comprender. Él entiende nuestras pruebas, pesares y debilidades, y se ofrece a apoyarnos mientras los experimentamos. Se regocija con nuestro progreso y nos ayudará a tomar las decisiones correctas. Él desea comunicarse con nosotros, y nosotros podemos comunicarnos con Él mediante la oración\u201d (véase <a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=spa&amp;id=p53#p53\"><cite>Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/cite><\/a>, 2023, pág. 34.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168216205\" id=\"p_jQh2j\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46-p47#p46\">Doctrina y Convenios 84:46\u201347<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12\">88:12\u201313<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168216208\" id=\"p_akbGC\">\u201cSimplemente porque Dios es Dios y porque Cristo es Cristo, no pueden hacer otra cosa que no sea cuidarnos, bendecirnos y ayudarnos si tan solo venimos a Ellos, acercándonos a Su trono de gracia con mansedumbre y humildad de corazón. No pueden evitar bendecirnos. Tienen que hacerlo. Es Su naturaleza\u201d (véase Jeffrey R. Holland, \u201c<a href=\"https://speeches.byu.edu/talks/jeffrey-r-holland/come-unto\">Come unto Me<\/a>\u201d [Devocional pronunciado en la Universidad Brigham Young, 2 de marzo de 1997], pág. 4, speeches.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168216210\" id=\"p_xt2Of\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=spa&amp;id=p2#p2\">Lucas 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p22#p22\">Moroni 7:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p8#p8\">Abraham 2:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168216211\" id=\"p_bpw2q\">\u201c¡Los invito a adoptar la costumbre de \u2018pensar de manera celestial\u2019! Pensar de manera celestial significa ser de mente espiritual. Del profeta Jacob, en el Libro de Mormón, aprendemos que \u2018ser de mente espiritual es vida eterna\u2019\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p7#p7\">¡Piensen de manera celestial!<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2023, pág. 117).<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168216213\" id=\"p_tuhW8\">Véase Temas y preguntas, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/agency-and-accountability?lang=spa\">Albedrío y responsabilidad<\/a>\u201d, Biblioteca del Evangelio; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11%2Cp16#p11\">2 Nefi 2:11, 16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168216216\" id=\"p_iqQ0X\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p18-p20#p18\">1 Pedro 1:18\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p28#p22\">Abraham 3:22\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168216218\" id=\"p_lmnzx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/6?lang=spa&amp;id=p20#p20\">1 Corintios 6:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168216220\" id=\"p_kUlAt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p78#p78\">Doctrina y Convenios 101:78<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168216222\" id=\"p_dIVPJ\">\u201cEl Evangelio de Jesucristo es un plan que nos muestra cómo llegar a ser lo que nuestro Padre Celestial desea que lleguemos a ser. [\u2026]<\/p>\n<p data-aid=\"168216223\" id=\"p_lDqvW\">\u201cEse estado perfeccionado y sin mancha será el resultado de la sucesión constante de convenios, ordenanzas y acciones, <i>de una acumulación de decisiones correctas<\/i> y del arrepentimiento continuo\u201d (Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/the-challenge-to-become?lang=spa&amp;id=p6#p6\">El desafío de lo que debemos llegar a ser<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, pág. 41; cursiva agregada); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33\">Moisés 7:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168216226\" id=\"p_mIoxl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4-p5#p4\">Moroni 10:4\u20135<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168216228\" id=\"p_fyDSN\">\u201cEl Espíritu no tiene por qué limitarse a las palabras; puede comunicarse de Espíritu a espíritu, con un lenguaje que es inconfundible, porque no tiene palabras. Es una comunicación de conocimiento puro e inteligencia del Espíritu, y me he dado cuenta de que en verdad es la mejor manera de adquirir conocimiento. Es más poderoso y más duradero que el conocimiento que obtenemos palpando o viendo; mientras que podemos llegar a dudar de los sentidos físicos, no podemos dudar cuando nos habla el Santo Espíritu. Es el testimonio más seguro. Por esta razón, el pecado imperdonable es negar al Espíritu Santo o el testimonio del Espíritu Santo\u201d (D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2013/06/youth/strong-impressions-of-the-spirit?lang=spa&amp;id=p7#p7\">Fuertes impresiones del Espíritu<\/a>\u201d, <cite>Liahona<\/cite>, junio de 2013, pág. 49).<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168216230\" id=\"p_xjK7x\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p32#p32\">Juan 5:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p18#p18\">2 Nefi 31:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p36#p36\">3 Nefi 11:36<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168216232\" id=\"p_i6AHz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p32#p32\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96. En ese mismo discurso él dijo:<\/p>\n<p data-aid=\"168216234\" id=\"p_wj8jd\">\u201cLos exhorto a que se esfuercen más allá de su capacidad espiritual actual para recibir revelación personal [\u2026].<\/p>\n<p data-aid=\"168216236\" id=\"p_vSZR8\">\u201cHay mucho más que su Padre Celestial quiere que sepan. Tal como el élder Neal A. Maxwell enseñó: \u2018Para aquellos que tienen ojos para ver y oídos para oír, ¡está claro que el Padre y el Hijo están divulgando los secretos del universo!\u2019 [\u2026].<\/p>\n<p data-aid=\"168216238\" id=\"p_wWcJ6\">\u201cElijan hacer el trabajo espiritual que se necesita para disfrutar del don del Espíritu Santo y oír la voz del Espíritu con mayor frecuencia y claridad\u201d (págs. 95, 96).<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168216240\" id=\"p_nA6JA\">Véanse David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa\">El espíritu de revelación<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2011, págs. 87\u201390; Alexander Dushku, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/15dushku?lang=spa\">Columnas y rayos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 14\u201316.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168216242\" id=\"p_neIF6\">\u201cTestimonio\u201d, <cite>Himnos<\/cite>, nro. 75.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168216245\" id=\"p_nCRUm\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/num/11?lang=spa&amp;id=p29#p29\">Números 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1?lang=spa&amp;id=p5#p5\">Santiago 1:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168216248\" id=\"p_qVHKt\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p28#p28\">Doctrina y Convenios 20:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p3#p3\">Moisés 1:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168216250\" id=\"p_oHhL8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14\">Mateo 25:14\u201330<\/a>. \u201cEl testimonio espiritual que obtuve del Espíritu Santo [\u2026] no ha dejado de existir; de hecho, se ha hecho más fuerte. Las cosas que aprendí en mi juventud acerca de los principios fundamentales del Evangelio de Jesucristo han sido un cimiento firme a lo largo de mi vida\u201d (Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/51uchtdorf?lang=spa&amp;id=p_zSrp3#p_zSrp3\">Nutran las raíces, y las ramas crecerán<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 101).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168216253\" id=\"p_i2XLH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 6:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168216254\" id=\"p_tSWmS\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168216255\" id=\"p_iUttd\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p27%2Cp30%2Cp37-p38%2Cp41#p27\">Alma 32:27, 30, 37\u201338, 41<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168216256\" id=\"p_h5bCq\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168216257\" id=\"p_np1aC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p33#p33\">Doctrina y Convenios 88:33<\/a>.<\/p>\n<p data-aid=\"168216258\" id=\"p_z2Qmc\">\u201cLuego viene quizás la parte más importante: <em>recibir el<\/em> regalo. [\u2026] Recibimos verdaderamente un regalo cuando llegamos a valorarlo por nosotros mismos, le damos un uso pleno en nuestra vida y luego recordamos con gratitud a quien lo dio.<\/p>\n<p data-aid=\"168216260\" id=\"p_xQik5\">\u201cRecibir un regalo no es un acto pasivo sino un proceso significativo hecho con intención, que va mucho más allá de solo abrir un paquete. Recibir es apreciar y conectarse tanto con el regalo como con el corazón de quien lo dio, de un modo que se refuercen los lazos entre el que lo da y el que lo recibe\u201d (Patrick Kearon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/55kearon?lang=spa&amp;id=p_lYbGE#p_lYbGE\">Reciban Su don<\/a>\u201d, <i>Liahona<\/i>, mayo de 2025, págs. 121\u2013122).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"168216262\" id=\"p_fJrNL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"168216264\" id=\"p_rHMqz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/70?lang=spa&amp;id=p3-p4#p3\">Doctrina y Convenios 70:3\u20134<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"168216266\" id=\"p_iMAw5\"><a class=\"cross-ref\" href=\"/study/history/saints-v1/24-truth-shall-prevail?lang=spa&amp;id=p27#p27\"><i>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/i><\/a>, tomo I, <i>El Estandarte de la Verdad, 1815\u20131846<\/i>, 2018, págs. 280\u2013281<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"168216268\" id=\"p_uJc3m\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p9-p12#p9\">Mosíah 4:9\u201312<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"168216271\" id=\"p_pEYBH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 63:23<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"168216273\" id=\"p_cUGVY\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46-p48#p46\">Alma 5:46\u201348<\/a>. José Smith enseñó: \u201cLa salvación no puede venir sin revelación; es en vano que persona alguna ejerza su ministerio sin ella. Ningún hombre puede ser ministro de Jesucristo sin ser profeta. Ningún hombre puede ser ministro de Jesucristo a menos que tenga el testimonio de Jesús, y ese es el espíritu de profecía\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/547#historical-intro\"><i>The Joseph Smith Papers<\/i><\/a>, Historia, 1838\u20131856, tomo C-1 [2 de noviembre de 1838\u201331 de julio de 1842] [adenda], pág. 12, josephsmithpapers.org; la ortografía, el uso de las mayúsculas y la puntuación se han actualizado).<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"168216275\" id=\"p_bFTvy\">\u201cNos encontramos en el cenit de los tiempos, sobrecogidos por un grandioso y solemne sentimiento del pasado. Esta es la dispensación final y última hacia la cual han señalado todas las anteriores\u201d (Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/at-the-summit-of-the-ages?lang=spa&amp;id=p50#p50\">En el cenit de los tiempos<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2000, pág. 90).<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"168216277\" id=\"p_rjL9o\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"168216279\" id=\"p_lfe0c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p30#p30\">Moroni 10:30<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168216113",
+        "id": "note4",
+        "text": "<p data-aid=\"168216210\" id=\"p_xt2Of\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/12?lang=spa&amp;id=p2#p2\">Lucas 12:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p22#p22\">Moroni 7:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/2?lang=spa&amp;id=p8#p8\">Abraham 2:8<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/12?lang=spa&amp;id=p2#p2",
+            "text": "Lucas 12:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p22#p22",
+            "text": "Moroni 7:22",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/2?lang=spa&amp;id=p8#p8",
+            "text": "Abraham 2:8",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168216115",
+        "id": "note5",
+        "text": "<p data-aid=\"168216211\" id=\"p_bpw2q\">\u201c¡Los invito a adoptar la costumbre de \u2018pensar de manera celestial\u2019! Pensar de manera celestial significa ser de mente espiritual. Del profeta Jacob, en el Libro de Mormón, aprendemos que \u2018ser de mente espiritual es vida eterna\u2019\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p7#p7\">¡Piensen de manera celestial!<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2023, pág. 117).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p7#p7",
+          "text": "¡Piensen de manera celestial!",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168216112",
+        "id": "note2",
+        "text": "<p data-aid=\"168216205\" id=\"p_jQh2j\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46-p47#p46\">Doctrina y Convenios 84:46\u201347<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12\">88:12\u201313<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/84?lang=spa&amp;id=p46-p47#p46",
+            "text": "Doctrina y Convenios 84:46\u201347",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p12-p13#p12",
+            "text": "88:12\u201313",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168216112",
+        "id": "note3",
+        "text": "<p data-aid=\"168216208\" id=\"p_akbGC\">\u201cSimplemente porque Dios es Dios y porque Cristo es Cristo, no pueden hacer otra cosa que no sea cuidarnos, bendecirnos y ayudarnos si tan solo venimos a Ellos, acercándonos a Su trono de gracia con mansedumbre y humildad de corazón. No pueden evitar bendecirnos. Tienen que hacerlo. Es Su naturaleza\u201d (véase Jeffrey R. Holland, \u201c<a href=\"https://speeches.byu.edu/talks/jeffrey-r-holland/come-unto\">Come unto Me<\/a>\u201d [Devocional pronunciado en la Universidad Brigham Young, 2 de marzo de 1997], pág. 4, speeches.byu.edu).<\/p>",
+        "referenceUris": [{
+          "href": "https://speeches.byu.edu/talks/jeffrey-r-holland/come-unto",
+          "text": "Come unto Me"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168216126",
+        "id": "note8",
+        "text": "<p data-aid=\"168216218\" id=\"p_lmnzx\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-cor/6?lang=spa&amp;id=p20#p20\">1 Corintios 6:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/1-cor/6?lang=spa&amp;id=p20#p20",
+          "text": "1 Corintios 6:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168216128",
+        "id": "note9",
+        "text": "<p data-aid=\"168216220\" id=\"p_kUlAt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p78#p78\">Doctrina y Convenios 101:78<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/101?lang=spa&amp;id=p78#p78",
+          "text": "Doctrina y Convenios 101:78",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168216120",
+        "id": "note6",
+        "text": "<p data-aid=\"168216213\" id=\"p_tuhW8\">Véase Temas y preguntas, \u201c<a class=\"cross-ref\" href=\"/study/manual/gospel-topics/agency-and-accountability?lang=spa\">Albedrío y responsabilidad<\/a>\u201d, Biblioteca del Evangelio; véase también <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11%2Cp16#p11\">2 Nefi 2:11, 16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/gospel-topics/agency-and-accountability?lang=spa",
+            "text": "Albedrío y responsabilidad",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/2?lang=spa&amp;id=p11%2Cp16#p11",
+            "text": "2 Nefi 2:11, 16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168216124",
+        "id": "note7",
+        "text": "<p data-aid=\"168216216\" id=\"p_iqQ0X\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p18-p20#p18\">1 Pedro 1:18\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p28#p22\">Abraham 3:22\u201328<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/1-pet/1?lang=spa&amp;id=p18-p20#p18",
+            "text": "1 Pedro 1:18\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/abr/3?lang=spa&amp;id=p22-p28#p22",
+            "text": "Abraham 3:22\u201328",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168216193",
+        "id": "note30",
+        "text": "<p data-aid=\"168216273\" id=\"p_cUGVY\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46-p48#p46\">Alma 5:46\u201348<\/a>. José Smith enseñó: \u201cLa salvación no puede venir sin revelación; es en vano que persona alguna ejerza su ministerio sin ella. Ningún hombre puede ser ministro de Jesucristo sin ser profeta. Ningún hombre puede ser ministro de Jesucristo a menos que tenga el testimonio de Jesús, y ese es el espíritu de profecía\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/547#historical-intro\"><i>The Joseph Smith Papers<\/i><\/a>, Historia, 1838\u20131856, tomo C-1 [2 de noviembre de 1838\u201331 de julio de 1842] [adenda], pág. 12, josephsmithpapers.org; la ortografía, el uso de las mayúsculas y la puntuación se han actualizado).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/5?lang=spa&amp;id=p46-p48#p46",
+            "text": "Alma 5:46\u201348",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/547#historical-intro",
+            "text": "The Joseph Smith Papers"
+          }
+        ]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168216151",
+        "id": "note16",
+        "text": "<p data-aid=\"168216242\" id=\"p_neIF6\">\u201cTestimonio\u201d, <cite>Himnos<\/cite>, nro. 75.<\/p>"
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168216145",
+        "id": "note15",
+        "text": "<p data-aid=\"168216240\" id=\"p_nA6JA\">Véanse David A. Bednar, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa\">El espíritu de revelación<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2011, págs. 87\u201390; Alexander Dushku, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/15dushku?lang=spa\">Columnas y rayos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 14\u201316.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2011/04/the-spirit-of-revelation?lang=spa",
+            "text": "El espíritu de revelación",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2024/04/15dushku?lang=spa",
+            "text": "Columnas y rayos",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168216140",
+        "id": "note14",
+        "text": "<p data-aid=\"168216232\" id=\"p_i6AHz\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p32#p32\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, pág. 96. En ese mismo discurso él dijo:<\/p>\n<p data-aid=\"168216234\" id=\"p_wj8jd\">\u201cLos exhorto a que se esfuercen más allá de su capacidad espiritual actual para recibir revelación personal [\u2026].<\/p>\n<p data-aid=\"168216236\" id=\"p_vSZR8\">\u201cHay mucho más que su Padre Celestial quiere que sepan. Tal como el élder Neal A. Maxwell enseñó: \u2018Para aquellos que tienen ojos para ver y oídos para oír, ¡está claro que el Padre y el Hijo están divulgando los secretos del universo!\u2019 [\u2026].<\/p>\n<p data-aid=\"168216238\" id=\"p_wWcJ6\">\u201cElijan hacer el trabajo espiritual que se necesita para disfrutar del don del Espíritu Santo y oír la voz del Espíritu con mayor frecuencia y claridad\u201d (págs. 95, 96).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa&amp;id=p32#p32",
+          "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+          "type": "cross-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168216140",
+        "id": "note13",
+        "text": "<p data-aid=\"168216230\" id=\"p_xjK7x\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/5?lang=spa&amp;id=p32#p32\">Juan 5:32<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p18#p18\">2 Nefi 31:18<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p36#p36\">3 Nefi 11:36<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/5?lang=spa&amp;id=p32#p32",
+            "text": "Juan 5:32",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/2-ne/31?lang=spa&amp;id=p18#p18",
+            "text": "2 Nefi 31:18",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/11?lang=spa&amp;id=p36#p36",
+            "text": "3 Nefi 11:36",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168216140",
+        "id": "note12",
+        "text": "<p data-aid=\"168216228\" id=\"p_fyDSN\">\u201cEl Espíritu no tiene por qué limitarse a las palabras; puede comunicarse de Espíritu a espíritu, con un lenguaje que es inconfundible, porque no tiene palabras. Es una comunicación de conocimiento puro e inteligencia del Espíritu, y me he dado cuenta de que en verdad es la mejor manera de adquirir conocimiento. Es más poderoso y más duradero que el conocimiento que obtenemos palpando o viendo; mientras que podemos llegar a dudar de los sentidos físicos, no podemos dudar cuando nos habla el Santo Espíritu. Es el testimonio más seguro. Por esta razón, el pecado imperdonable es negar al Espíritu Santo o el testimonio del Espíritu Santo\u201d (D. Todd Christofferson, \u201c<a class=\"cross-ref\" href=\"/study/liahona/2013/06/youth/strong-impressions-of-the-spirit?lang=spa&amp;id=p7#p7\">Fuertes impresiones del Espíritu<\/a>\u201d, <cite>Liahona<\/cite>, junio de 2013, pág. 49).<\/p>",
+        "referenceUris": [{
+          "href": "/study/liahona/2013/06/youth/strong-impressions-of-the-spirit?lang=spa&amp;id=p7#p7",
+          "text": "Fuertes impresiones del Espíritu",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168216139",
+        "id": "note11",
+        "text": "<p data-aid=\"168216226\" id=\"p_mIoxl\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4-p5#p4\">Moroni 10:4\u20135<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p4-p5#p4",
+          "text": "Moroni 10:4\u20135",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "168216197",
+        "id": "note33",
+        "text": "<p data-aid=\"168216279\" id=\"p_lfe0c\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p30#p30\">Moroni 10:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p30#p30",
+          "text": "Moroni 10:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168216137",
+        "id": "note10",
+        "text": "<p data-aid=\"168216222\" id=\"p_dIVPJ\">\u201cEl Evangelio de Jesucristo es un plan que nos muestra cómo llegar a ser lo que nuestro Padre Celestial desea que lleguemos a ser. [\u2026]<\/p>\n<p data-aid=\"168216223\" id=\"p_lDqvW\">\u201cEse estado perfeccionado y sin mancha será el resultado de la sucesión constante de convenios, ordenanzas y acciones, <i>de una acumulación de decisiones correctas<\/i> y del arrepentimiento continuo\u201d (Dallin H. Oaks, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2000/10/the-challenge-to-become?lang=spa&amp;id=p6#p6\">El desafío de lo que debemos llegar a ser<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2001, pág. 41; cursiva agregada); véase también <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33\">Moisés 7:33<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2000/10/the-challenge-to-become?lang=spa&amp;id=p6#p6",
+            "text": "El desafío de lo que debemos llegar a ser",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/7?lang=spa&amp;id=p33#p33",
+            "text": "Moisés 7:33",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "168216195",
+        "id": "note32",
+        "text": "<p data-aid=\"168216277\" id=\"p_rjL9o\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35\">Mateo 24:35<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/matt/24?lang=spa&amp;id=p35#p35",
+          "text": "Mateo 24:35",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168216193",
+        "id": "note31",
+        "text": "<p data-aid=\"168216275\" id=\"p_bFTvy\">\u201cNos encontramos en el cenit de los tiempos, sobrecogidos por un grandioso y solemne sentimiento del pasado. Esta es la dispensación final y última hacia la cual han señalado todas las anteriores\u201d (Gordon B. Hinckley, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/at-the-summit-of-the-ages?lang=spa&amp;id=p50#p50\">En el cenit de los tiempos<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2000, pág. 90).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1999/10/at-the-summit-of-the-ages?lang=spa&amp;id=p50#p50",
+          "text": "En el cenit de los tiempos",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168216160",
+        "id": "note19",
+        "text": "<p data-aid=\"168216250\" id=\"p_oHhL8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14\">Mateo 25:14\u201330<\/a>. \u201cEl testimonio espiritual que obtuve del Espíritu Santo [\u2026] no ha dejado de existir; de hecho, se ha hecho más fuerte. Las cosas que aprendí en mi juventud acerca de los principios fundamentales del Evangelio de Jesucristo han sido un cimiento firme a lo largo de mi vida\u201d (Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/51uchtdorf?lang=spa&amp;id=p_zSrp3#p_zSrp3\">Nutran las raíces, y las ramas crecerán<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 101).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/25?lang=spa&amp;id=p14-p30#p14",
+            "text": "Mateo 25:14\u201330",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2024/10/51uchtdorf?lang=spa&amp;id=p_zSrp3#p_zSrp3",
+            "text": "Nutran las raíces, y las ramas crecerán",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168216160",
+        "id": "note18",
+        "text": "<p data-aid=\"168216248\" id=\"p_qVHKt\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p28#p28\">Doctrina y Convenios 20:28<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/1?lang=spa&amp;id=p3#p3\">Moisés 1:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p28#p28",
+            "text": "Doctrina y Convenios 20:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/moses/1?lang=spa&amp;id=p3#p3",
+            "text": "Moisés 1:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168216154",
+        "id": "note17",
+        "text": "<p data-aid=\"168216245\" id=\"p_nCRUm\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/num/11?lang=spa&amp;id=p29#p29\">Números 11:29<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1?lang=spa&amp;id=p5#p5\">Santiago 1:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/num/11?lang=spa&amp;id=p29#p29",
+            "text": "Números 11:29",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/james/1?lang=spa&amp;id=p5#p5",
+            "text": "Santiago 1:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168216184",
+        "id": "note27",
+        "text": "<p data-aid=\"168216266\" id=\"p_iMAw5\"><a class=\"cross-ref\" href=\"/study/history/saints-v1/24-truth-shall-prevail?lang=spa&amp;id=p27#p27\"><i>Santos: La historia de la Iglesia de Jesucristo en los últimos días<\/i><\/a>, tomo I, <i>El Estandarte de la Verdad, 1815\u20131846<\/i>, 2018, págs. 280\u2013281<\/p>",
+        "referenceUris": [{
+          "href": "/study/history/saints-v1/24-truth-shall-prevail?lang=spa&amp;id=p27#p27",
+          "text": "Santos: La historia de la Iglesia de Jesucristo en los últimos días",
+          "type": "cross-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168216180",
+        "id": "note26",
+        "text": "<p data-aid=\"168216264\" id=\"p_rHMqz\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/70?lang=spa&amp;id=p3-p4#p3\">Doctrina y Convenios 70:3\u20134<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/70?lang=spa&amp;id=p3-p4#p3",
+          "text": "Doctrina y Convenios 70:3\u20134",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168216178",
+        "id": "note25",
+        "text": "<p data-aid=\"168216262\" id=\"p_fJrNL\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65\">Decisiones para la eternidad<\/a>\u201d, devocional mundial para jóvenes adultos, 15 de mayo de 2022, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [{
+          "href": "/study/broadcasts/worldwide-devotional-for-young-adults/2022/05/12nelson?lang=spa&amp;id=p65#p65",
+          "text": "Decisiones para la eternidad",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168216171",
+        "id": "note24",
+        "text": "<p data-aid=\"168216257\" id=\"p_np1aC\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p33#p33\">Doctrina y Convenios 88:33<\/a>.<\/p>\n<p data-aid=\"168216258\" id=\"p_z2Qmc\">\u201cLuego viene quizás la parte más importante: <em>recibir el<\/em> regalo. [\u2026] Recibimos verdaderamente un regalo cuando llegamos a valorarlo por nosotros mismos, le damos un uso pleno en nuestra vida y luego recordamos con gratitud a quien lo dio.<\/p>\n<p data-aid=\"168216260\" id=\"p_xQik5\">\u201cRecibir un regalo no es un acto pasivo sino un proceso significativo hecho con intención, que va mucho más allá de solo abrir un paquete. Recibir es apreciar y conectarse tanto con el regalo como con el corazón de quien lo dio, de un modo que se refuercen los lazos entre el que lo da y el que lo recibe\u201d (Patrick Kearon, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/55kearon?lang=spa&amp;id=p_lYbGE#p_lYbGE\">Reciban Su don<\/a>\u201d, <i>Liahona<\/i>, mayo de 2025, págs. 121\u2013122).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p33#p33",
+            "text": "Doctrina y Convenios 88:33",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2025/04/55kearon?lang=spa&amp;id=p_lYbGE#p_lYbGE",
+            "text": "Reciban Su don",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168216167",
+        "id": "note23",
+        "text": "<p data-aid=\"168216256\" id=\"p_h5bCq\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77\">Doctrina y Convenios 20:77<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p77#p77",
+          "text": "Doctrina y Convenios 20:77",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168216165",
+        "id": "note22",
+        "text": "<p data-aid=\"168216255\" id=\"p_iUttd\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/32?lang=spa&amp;id=p27%2Cp30%2Cp37-p38%2Cp41#p27\">Alma 32:27, 30, 37\u201338, 41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/32?lang=spa&amp;id=p27%2Cp30%2Cp37-p38%2Cp41#p27",
+          "text": "Alma 32:27, 30, 37\u201338, 41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168216163",
+        "id": "note21",
+        "text": "<p data-aid=\"168216254\" id=\"p_tSWmS\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25\">José Smith\u2014Historia 1:25<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/js-h/1?lang=spa&amp;id=p25#p25",
+          "text": "José Smith\u2014Historia 1:25",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168216162",
+        "id": "note20",
+        "text": "<p data-aid=\"168216253\" id=\"p_i2XLH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 6:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/6?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 6:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168216109",
+        "id": "note1",
+        "text": "<p data-aid=\"168216202\" id=\"p_goOpA\">\u201cDios es nuestro Padre Celestial y nosotros somos Sus hijos. Él nos creó a Su imagen. Él tiene \u2018un cuerpo [glorificado y perfecto] de carne y huesos, tangible como el del hombre\u2019 (<a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 130:22<\/a>).<\/p>\n<p data-aid=\"168216204\" id=\"p_wOaF7\">\u201cDios nos conoce personalmente y nos ama más de lo que podemos comprender. Él entiende nuestras pruebas, pesares y debilidades, y se ofrece a apoyarnos mientras los experimentamos. Se regocija con nuestro progreso y nos ayudará a tomar las decisiones correctas. Él desea comunicarse con nosotros, y nosotros podemos comunicarnos con Él mediante la oración\u201d (véase <a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=spa&amp;id=p53#p53\"><cite>Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/cite><\/a>, 2023, pág. 34.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/130?lang=spa&amp;id=p22#p22",
+            "text": "Doctrina y Convenios 130:22",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/08-chapter-3-lesson-1?lang=spa&amp;id=p53#p53",
+            "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168216190",
+        "id": "note29",
+        "text": "<p data-aid=\"168216271\" id=\"p_pEYBH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/63?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 63:23<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/63?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 63:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168216188",
+        "id": "note28",
+        "text": "<p data-aid=\"168216268\" id=\"p_uJc3m\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p9-p12#p9\">Mosíah 4:9\u201312<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p9-p12#p9",
+          "text": "Mosíah 4:9\u201312",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

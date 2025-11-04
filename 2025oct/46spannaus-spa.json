@@ -1,0 +1,799 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/46spannaus?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "1e8f3181379744ef81a177998c05ace1",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/46spannaus",
+      "data-bcp47-lang": "es",
+      "data-aid": "168175430",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "5",
+      "data-orig-id": "e056e5d00df643ee9fc0d862c004d68d"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/kjs6522dh4ne0w1eh4wd7nahvahzmbo2gnwg2z1j/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/i277trlc5nvrfsrlxjz1roqe7xxtqcl1pk3k8urm-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "Profetas de Dios",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-05T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168175430",
+      {"key": "168175430"}
+    ],
+    [
+      "168224913",
+      {"key": "168224913"}
+    ],
+    [
+      "168224919",
+      {"key": "168224919"}
+    ],
+    [
+      "168224924",
+      {"key": "168224924"}
+    ],
+    [
+      "168224929",
+      {"key": "168224929"}
+    ],
+    [
+      "168224935",
+      {"key": "168224935"}
+    ],
+    [
+      "168224940",
+      {"key": "168224940"}
+    ],
+    [
+      "168224945",
+      {"key": "168224945"}
+    ],
+    [
+      "168224949",
+      {"key": "168224949"}
+    ],
+    [
+      "168224954",
+      {"key": "168224954"}
+    ],
+    [
+      "168224959",
+      {"key": "168224959"}
+    ],
+    [
+      "168224964",
+      {"key": "168224964"}
+    ],
+    [
+      "168224969",
+      {"key": "168224969"}
+    ],
+    [
+      "168224974",
+      {"key": "168224974"}
+    ],
+    [
+      "168224978",
+      {"key": "168224978"}
+    ],
+    [
+      "168224982",
+      {"key": "168224982"}
+    ],
+    [
+      "168224987",
+      {"key": "168224987"}
+    ],
+    [
+      "168224992",
+      {"key": "168224992"}
+    ],
+    [
+      "168224997",
+      {"key": "168224997"}
+    ],
+    [
+      "168225002",
+      {"key": "168225002"}
+    ],
+    [
+      "168225007",
+      {"key": "168225007"}
+    ],
+    [
+      "168225012",
+      {"key": "168225012"}
+    ],
+    [
+      "168225017",
+      {"key": "168225017"}
+    ],
+    [
+      "168225022",
+      {"key": "168225022"}
+    ],
+    [
+      "168225027",
+      {"key": "168225027"}
+    ],
+    [
+      "168225032",
+      {"key": "168225032"}
+    ],
+    [
+      "168225037",
+      {"key": "168225037"}
+    ],
+    [
+      "168225042",
+      {"key": "168225042"}
+    ],
+    [
+      "168225047",
+      {"key": "168225047"}
+    ],
+    [
+      "168225052",
+      {"key": "168225052"}
+    ],
+    [
+      "168225057",
+      {"key": "168225057"}
+    ],
+    [
+      "168225061",
+      {"key": "168225061"}
+    ],
+    [
+      "168225063",
+      {"key": "168225063"}
+    ],
+    [
+      "168225074",
+      {"key": "168225074"}
+    ],
+    [
+      "168225080",
+      {"key": "168225080"}
+    ],
+    [
+      "168225085",
+      {"key": "168225085"}
+    ],
+    [
+      "168225091",
+      {"key": "168225091"}
+    ],
+    [
+      "168225095",
+      {"key": "168225095"}
+    ],
+    [
+      "168225101",
+      {"key": "168225101"}
+    ],
+    [
+      "168225106",
+      {"key": "168225106"}
+    ],
+    [
+      "168225111",
+      {"key": "168225111"}
+    ],
+    [
+      "168225116",
+      {"key": "168225116"}
+    ],
+    [
+      "168225121",
+      {"key": "168225121"}
+    ],
+    [
+      "168225126",
+      {"key": "168225126"}
+    ],
+    [
+      "168225131",
+      {"key": "168225131"}
+    ],
+    [
+      "168225136",
+      {"key": "168225136"}
+    ],
+    [
+      "168225141",
+      {"key": "168225141"}
+    ],
+    [
+      "168225145",
+      {"key": "168225145"}
+    ],
+    [
+      "168225149",
+      {"key": "168225149"}
+    ],
+    [
+      "168225154",
+      {"key": "168225154"}
+    ],
+    [
+      "168225159",
+      {"key": "168225159"}
+    ],
+    [
+      "168225164",
+      {"key": "168225164"}
+    ],
+    [
+      "168225171",
+      {"key": "168225171"}
+    ],
+    [
+      "168225177",
+      {"key": "168225177"}
+    ],
+    [
+      "168225183",
+      {"key": "168225183"}
+    ],
+    [
+      "168225190",
+      {"key": "168225190"}
+    ],
+    [
+      "168225194",
+      {"key": "168225194"}
+    ],
+    [
+      "168225200",
+      {"key": "168225200"}
+    ],
+    [
+      "168225206",
+      {"key": "168225206"}
+    ],
+    [
+      "168225210",
+      {"key": "168225210"}
+    ],
+    [
+      "168225215",
+      {"key": "168225215"}
+    ],
+    [
+      "168225221",
+      {"key": "168225221"}
+    ],
+    [
+      "168225226",
+      {"key": "168225226"}
+    ],
+    [
+      "168225231",
+      {"key": "168225231"}
+    ],
+    [
+      "168225235",
+      {"key": "168225235"}
+    ],
+    [
+      "168225239",
+      {"key": "168225239"}
+    ],
+    [
+      "168225244",
+      {"key": "168225244"}
+    ],
+    [
+      "168225249",
+      {"key": "168225249"}
+    ],
+    [
+      "168225254",
+      {"key": "168225254"}
+    ],
+    [
+      "168225259",
+      {"key": "168225259"}
+    ],
+    [
+      "168225264",
+      {"key": "168225264"}
+    ],
+    [
+      "168225269",
+      {"key": "168225269"}
+    ],
+    [
+      "168225274",
+      {"key": "168225274"}
+    ],
+    [
+      "168225279",
+      {"key": "168225279"}
+    ],
+    [
+      "168225284",
+      {"key": "168225284"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/46spannaus",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "La hermana Spannaus enseña cómo los jóvenes pueden obtener su propio testimonio de los profetas vivientes de Dios.",
+          "title": "Profetas de Dios"
+        },
+        "pageSocial": {
+          "description": "La hermana Spannaus enseña cómo los jóvenes pueden obtener su propio testimonio de los profetas vivientes de Dios.",
+          "title": "Profetas de Dios"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/kjs6522dh4ne0w1eh4wd7nahvahzmbo2gnwg2z1j/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/kjs6522dh4ne0w1eh4wd7nahvahzmbo2gnwg2z1j/full/%21192%2C/0/default\" data-video-title=\"Profetas de Dios\" data-video-description=\"La hermana Spannaus enseña cómo los jóvenes pueden obtener su propio testimonio de los profetas vivientes de Dios.\" data-video-id=\"6382070377112\" data-duration=\"668200\" data-assetId=\"m1thhecmhqm3bxkquycco917l2vtgsqtczsxdyd2\" data-ref-id=\"m1thhecmhqm3bxkquycco917l2vtgsqtczsxdyd2\" data-duration-string=\"11:08\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382070377112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"220341394\"/><source src=\"https://assets.churchofjesuschrist.org/m1thhecmhqm3bxkquycco917l2vtgsqtczsxdyd2-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"46490517\"/><source src=\"https://assets.churchofjesuschrist.org/m1thhecmhqm3bxkquycco917l2vtgsqtczsxdyd2-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"92078742\"/><source src=\"https://assets.churchofjesuschrist.org/m1thhecmhqm3bxkquycco917l2vtgsqtczsxdyd2-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"220341394\"/><\/video><h1 data-aid=\"168224913\" id=\"p_yB27s\">Profetas de Dios<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168224919\" id=\"p_eG3MB\">Por la hermana Andrea Muñoz Spannaus<\/p>\n<p class=\"author-role\" data-aid=\"168224924\" id=\"p_dGAR3\">Segunda Consejera de la Presidencia General de las Mujeres Jóvenes<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168224929\" id=\"p_zaHS6\">Escuchar y obedecer la voz del profeta es crucial para aferrarse a todo lo bueno hasta la Segunda Venida.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168224935\" id=\"p_eTQf5\">Queridos jóvenes, ¡qué hermosa sesión de conferencia estamos teniendo! Ya escuchamos a tres apóstoles vivientes de Jesucristo. ¡Eso es una bendición maravillosa! Y todavía escucharemos a uno más, el élder Henry B. Eyring. ¡La fiesta espiritual continúa!<\/p>\n<p data-aid=\"168224940\" id=\"p_bb8Lo\">Cuando hablé el año pasado, aprendimos cómo enfrentar este mundo a través de la experiencia de David con Goliat. ¿Recuerdan las cinco piedras? Hoy voy a compartir una historia del Antiguo Testamento que leí a la edad de ustedes y que me dejó con ganas de ser como la protagonista. La Biblia no nos dice su nombre, así que la llamaremos la mujer de Sunem porque ese es el nombre de su pueblo.<\/p>\n<img alt=\"Mujer haciendo pan para el profeta\" id=\"img_y06u4\" src=\"https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21500%2C/0/default\" data-img-id=\"j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf\" srcset=\"https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf/full/%21640%2C/0/default 640w\" data-assetId=\"j93gzjr8l8p5xtldd9b1il7misa9j44rqgs55ztf\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Preparing Bread for Elisha\" data-public-description=\"Preparing Bread for Elisha - Maureen Merrell\"/>\n<p data-aid=\"168224945\" id=\"p_j71Ll\">Un día, el profeta Eliseo pasaba por Sunem, y leemos que \u201chabía allí una mujer importante que le invitaba insistentemente a que comiese; y sucedía que cuando él pasaba por allí, entraba en su casa a comer\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"\"><\/sup><\/a>. ¡Me imagino al profeta Eliseo muy feliz por la invitación a comer en la casa de ella! Ya había ido varias veces, cuando un día la mujer le dijo a su marido: \u201cAhora yo entiendo que este que siempre pasa por nuestra casa <em>es un hombre santo de Dios\u201d<\/em><a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168224949\" id=\"p_tM8og\">La mujer dice: \u201c<em>Ahora<\/em> yo entiendo\u201d. Pareciera que invitaba a Eliseo a su casa sin saber que él era el profeta; ella recibió su testimonio por medio del Espíritu Santo al escuchar atentamente lo que Eliseo decía y enseñaba. (Recordemos que ¡no había fotos en esa época! Así que era difícil reconocer al profeta solo viendo su cara).<\/p>\n<img alt=\"Mujer preparando un cuarto para el profeta\" id=\"img_eJRpl\" src=\"https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21500%2C/0/default\" data-img-id=\"20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41\" srcset=\"https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41/full/%21640%2C/0/default 640w\" data-assetId=\"20jrushwt0u2gi9sa5se9y2asxcjg3vpq9amyk41\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Preparing a Room for Elisha\" data-public-description=\"Preparing a Room for Elisha - Maureen Merrell\"/>\n<p data-aid=\"168224954\" id=\"p_unnln\">Pero la historia no termina ahí. Un día, la mujer le dijo a su marido: \u201cYo te ruego que hagas un pequeño aposento [\u2026], y pongamos en él cama, y mesa, y silla y candelero, para que cuando venga a nosotros, se quede en él\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168224959\" id=\"p_xZ3XY\">¡Esta mujer fiel estuvo dispuesta a construir una habitación en su casa para que el profeta, al pasar por la ciudad, tuviera un lugar donde quedarse!<\/p>\n<p data-aid=\"168224964\" id=\"p_q1fwY\">Hoy podemos aprender una poderosa lección de esta experiencia:<\/p>\n<p data-aid=\"168224969\" id=\"p_wdKDG\">El Señor le testificó a la mujer de Sunem que Eliseo era un profeta de Dios y ella actuó abriendo su casa para recibirlo.<\/p>\n<p data-aid=\"168224974\" id=\"p_ntRaT\">Nosotros también podemos recibir un <em>testimonio personal de los profetas de Dios hoy día<\/em>, y podemos abrir nuestro corazón y nuestra mente \u2014nuestra casa\u2014 al mensaje que nuestro Padre Celestial tiene para nosotros en estos últimos días.<\/p>\n<p data-aid=\"168224978\" id=\"p_jQap8\">Queridos jóvenes, los invito a hacerse esta pregunta: \u201c¿Tengo yo un testimonio personal de los profetas vivientes de Dios?\u201d<\/p>\n<p data-aid=\"168224982\" id=\"p_sbNDB\">Empecemos por el principio.<\/p>\n<p data-aid=\"168224987\" id=\"p_g4kTQ\"><strong>¿Qué es un profeta?<\/strong> Un profeta es un hombre a quien Dios ha llamado para hablar por Él<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. Hay profetas en la tierra hoy día como los hubo en la antigüedad<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168224992\" id=\"p_q2rtv\"><strong>Los profetas son videntes y reveladores.<\/strong> Eso significa que pueden ver lo que otros no pueden ver, y pueden profetizar acontecimientos futuros. También pueden prepararnos para las calamidades. Los profetas reciben mandamientos y revelaciones del Señor<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. El <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p9#p9\">noveno Artículo de Fe<\/a> habla de la revelación continua en estos últimos días. Dice: \u201cCreemos todo lo que Dios ha revelado, todo lo que actualmente revela, y creemos que aún revelará muchos grandes e importantes asuntos pertenecientes al reino de Dios\u201d.<\/p>\n<p data-aid=\"168224997\" id=\"p_jRH0h\">El élder Gary E. Stevenson dijo: \u201cEl Señor continúa revelando Sus mandamientos y voluntad a Sus profetas en la actualidad porque desea conducirnos a la felicidad en esta vida y a la gloria celestial en la vida venidera\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225002\" id=\"p_yi6bx\">Los profetas también proclaman el Evangelio; son maestros inspirados y mensajeros de Dios para todos los que habitan en la tierra<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225007\" id=\"p_yjS4Q\">Cada uno de los miembros de la Primera Presidencia y del Cuórum de los Doce Apóstoles es un profeta, vidente y revelador<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>. Al servir como consejo bajo la dirección del Señor, ellos tienen la autoridad para declarar e interpretar la doctrina y establecer las normas de Su Iglesia<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Oran y deliberan cuidadosamente, ya que las decisiones de estos cuórums deben ser unánimes. De esta manera, el Señor nos asegura que se hará Su voluntad<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225012\" id=\"p_vNfne\"><strong>Los profetas testifican de Cristo<\/strong>, Su existencia, Su ministerio y Su divinidad<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225017\" id=\"p_nmXg4\">Leamos algunos testimonios de profetas del Libro de Mormón.<\/p>\n<p data-aid=\"168225022\" id=\"p_vJw34\">Abinadí proclamó:<\/p>\n<p data-aid=\"168225027\" id=\"p_vNXa4\">\u201cDios mismo descenderá entre los hijos de los hombres, y redimirá a su pueblo.<\/p>\n<p data-aid=\"168225032\" id=\"p_tMqGO\">\u201cY porque morará en la carne, será llamado el Hijo de Dios\u201d<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225037\" id=\"p_vELy4\">Samuel el Lamanita también testificó que Jesucristo es \u201cel Hijo de Dios, el Padre del cielo y de la tierra, el Creador de todas las cosas desde el principio\u201d<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225042\" id=\"p_cRdTT\">Y el profeta Moroni dijo: \u201cHe visto a Jesús, y [\u2026] él ha hablado conmigo cara a cara\u201d<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225047\" id=\"p_tLK2j\">Cuando Cristo visitó a los nefitas, una de las primeras cosas que hizo fue llamar a Doce Apóstoles<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Y dijo al pueblo: \u201c<em>Bienaventurados<\/em> sois si <em>prestáis atención<\/em> a las palabras de estos doce que yo he escogido\u201d<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225052\" id=\"p_a3hvB\">Ahora permítanme compartir algunas palabras dirigidas a los padres o a quienes tienen la responsabilidad de la crianza en el hogar: El Señor mismo les enseñó a Adán y a Eva las verdades del Plan de Salvación. Y entonces les dijo: \u201c[Les] doy el mandamiento <em>de enseñar estas cosas sin reserva<\/em> a [s]us hijos\u201d<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225057\" id=\"p_h4yHB\">¿Qué significa enseñar sin reserva? Es aprender las verdades del Evangelio, es tener un testimonio personal de ellas y es compartir ese conocimiento con nuestros hijos<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>. Es propiciar momentos de enseñanza, tanto formales como informales<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. Es vivir de acuerdo con ese conocimiento y testimonio.<\/p>\n<p data-aid=\"168225061\" id=\"p_uC1cy\">El Libro de Mormón describe a los 2060<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> jóvenes guerreros como \u201chombres verídicos y serios, pues <em>se les había enseñado<\/em> a guardar los mandamientos de Dios y a andar rectamente ante él\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>. Esos jóvenes obedecieron fielmente a Helamán, que en ese tiempo era su líder militar, pero también era su profeta; y reconocieron que sus madres habían llenado sus corazones de verdad y fe<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225063\" id=\"p_uPs1h\">Padres, en este mundo donde hay muchas voces y, a veces, mucha oscuridad, Dios mismo nos ha mandado criar a nuestros hijos en <em>la luz y la verdad<\/em><a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. Él nos confió la responsabilidad de enseñar a nuestros hijos las verdades salvadoras del Evangelio. Si nosotros no se las enseñamos, el mundo tampoco lo hará<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225074\" id=\"p_hhQ1W\">Queridos jóvenes amigos, tengo una invitación para ustedes: en los próximos días, los invito a arrodillarse, abrir su corazón y orar con fe al Padre Celestial para pedirle que les confirme que Su profeta y Sus apóstoles escogidos son Su voz en la tierra hoy.<\/p>\n<p data-aid=\"168225080\" id=\"p_mIrk2\">La mujer de Sunem nos enseñó que podemos tener ese testimonio por medio del Espíritu Santo. Les prometo que una vez que <em>sepamos<\/em> que ellos son los ungidos de Dios, nuestra vida será más fácil a pesar de nuestros desafíos continuos<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>, porque obedeceremos su voz con confianza, fe y esperanza. <em>Escuchar y obedecer<\/em> la voz del profeta es crucial para <em>aferrarse a todo lo bueno<\/em> hasta la Segunda Venida de nuestro Salvador<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225085\" id=\"p_gLnsz\">La iniquidad del mundo está creciendo, pero la Iglesia de Jesucristo y Su Reino están más fuertes que nunca. Sion se está vistiendo de ropas hermosas<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>, y el trono de Cristo no caerá<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. El Señor espera que seamos fuertes en nuestros testimonios, que estemos llenos de fe y que nos arrepintamos diariamente. Nuestro Salvador, Jesucristo, cuenta con cada uno de nosotros para llevar a cabo Su obra.<\/p>\n<p data-aid=\"168225091\" id=\"p_bN4Mp\">Una vez, el profeta José Smith dijo: \u201cHermanos, ¿no hemos de seguir adelante en una causa tan grande?\u201d. Sin embargo, como este mensaje es principalmente para ustedes, los jóvenes, me gustaría usar la palabra <em>jóvenes<\/em> en lugar de <em>hermanos<\/em>. ¿Listos?<\/p>\n<p data-aid=\"168225095\" id=\"p_n52aZ\">\u201c[Jóvenes], ¿no hemos de <em>seguir adelante<\/em> en una causa tan grande? <em>Avanzad<\/em>, en vez de retroceder. ¡<em>Valor<\/em>, [jóvenes]; e id adelante, <em>adelante a la victoria<\/em>! ¡Regocíjense vuestros corazones y <em>llenaos de alegría<\/em>!\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168225101\" id=\"p_sPrza\">Estoy agradecida por la guía y los esfuerzos consagrados de los profetas vivientes. Les doy mi solemne testimonio de que son llamados por Dios para llevar a cabo, establecer y gobernar Su Reino en la tierra hoy<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>. Y siempre será así. Siempre será el Señor quien elija a Sus siervos<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>. En el nombre de Jesucristo. Amén.<\/p>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168225106\" id=\"p_rJHD4\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"\" id=\"note1\" data-full-marker=\"\">\n<p data-aid=\"168225111\" id=\"p_nNaa9\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p8#p8\">2 Reyes 4:8<\/a>.<\/p>\n<\/li>\n<li data-marker=\"1.\" id=\"note2\" data-full-marker=\"1.\">\n<p data-aid=\"168225116\" id=\"p_wH59s\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p9#p9\">2 Reyes 4:9<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note3\" data-full-marker=\"2.\">\n<p data-aid=\"168225121\" id=\"p_bEG2E\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p10#p10\">2 Reyes 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note4\" data-full-marker=\"3.\">\n<p data-aid=\"168225126\" id=\"p_vl2Pw\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/amos/3?lang=spa&amp;id=p7#p7\">Amós 3:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note5\" data-full-marker=\"4.\">\n<p data-aid=\"168225131\" id=\"p_eBhRA\">\u201c[El presidente de la Iglesia] preside la Iglesia bajo la dirección del Señor y es la única persona sobre la tierra autorizada a hacer uso de todas las llaves del sacerdocio. [\u2026] Tiene autoridad para recibir revelación y declarar la voluntad del Señor a toda la Iglesia\u201d (<cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>, Biblioteca del Evangelio).<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note6\" data-full-marker=\"5.\">\n<p data-aid=\"168225136\" id=\"p_ry19z\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38\">Doctrina y Convenios 1:38<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note7\" data-full-marker=\"6.\">\n<p data-aid=\"168225141\" id=\"p_kgucl\">Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2025/07/02-the-gospel-of-jesus-christ-a-cheering-sound?lang=spa\">El Evangelio de Jesucristo: Un alegre son<\/a>\u201d, <cite>Para la Fortaleza de la Juventud<\/cite>, julio de 2025, pág. 5.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note8\" data-full-marker=\"7.\">\n<p data-aid=\"168225145\" id=\"p_bqAWs\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p19-p20#p19\">Mateo 28:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1%2Cp4-p5#p1\">Doctrina y Convenios 21:1, 4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p35#p35\">107:35<\/a>.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note9\" data-full-marker=\"8.\">\n<p data-aid=\"168225149\" id=\"p_nltPt\">\u201cCada Apóstol posee todas las llaves del reino y hace uso de ellas bajo la dirección del Presidente de la Iglesia\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note10\" data-full-marker=\"9.\">\n<p data-aid=\"168225154\" id=\"p_hqYFI\">Véase <cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note11\" data-full-marker=\"10.\">\n<p data-aid=\"168225159\" id=\"p_cvMJD\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p27-p31#p27\">Doctrina y Convenios 107:27\u201331<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note12\" data-full-marker=\"11.\">\n<p data-aid=\"168225164\" id=\"p_qrdTc\">\u201cLos Doce Apóstoles son \u2018testigos especiales\u2019 del nombre de Jesucristo [\u2026]; dan testimonio al mundo de Su divinidad y de la realidad de Su Resurrección\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note13\" data-full-marker=\"12.\">\n<p data-aid=\"168225171\" id=\"p_mKf94\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p1-p2#p1\">Mosíah 15:1\u20132<\/a>.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note14\" data-full-marker=\"13.\">\n<p data-aid=\"168225177\" id=\"p_phzbZ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/14?lang=spa&amp;id=p12#p12\">Helamán 14:12<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note15\" data-full-marker=\"14.\">\n<p data-aid=\"168225183\" id=\"p_vPb1O\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p39#p39\">Éter 12:39<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note16\" data-full-marker=\"15.\">\n<p data-aid=\"168225190\" id=\"p_v2ABc\">Al hablar del Libro de Mormón, el profeta José Smith enseñó: \u201cEste libro también relata que nuestro Salvador se apareció en este continente luego de Su Resurrección; que implantó aquí el Evangelio en toda su plenitud, con toda su riqueza, poder y bendiciones; que tuvieron apóstoles, profetas, pastores, maestros y evangelistas; que, al igual que en Oriente Medio, gozaron del mismo orden, el mismo sacerdocio, las mismas ordenanzas, dones, poderes y bendiciones\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/456\">History, 1838\u20131856, tomo C-1 [2 de noviembre de 1838\u201331 de julio de 1842]<\/a>, pág. 1282, josephsmithpapers.org).<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note17\" data-full-marker=\"16.\">\n<p data-aid=\"168225194\" id=\"p_vQCMe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p1#p1\">3 Nefi 12:1<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note18\" data-full-marker=\"17.\">\n<p data-aid=\"168225200\" id=\"p_gxdvj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p58#p58\">Moisés 6:58<\/a>, cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note19\" data-full-marker=\"18.\">\n<p data-aid=\"168225206\" id=\"p_h92Br\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p25-p28#p25\">Doctrina y Convenios 68:25\u201328<\/a>.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note20\" data-full-marker=\"19.\">\n<p data-aid=\"168225210\" id=\"p_qWfNw\">\u201cDebemos aprovechar toda oportunidad para compartir las enseñanzas de Jesucristo con los niños. Esos momentos de enseñanza son preciosos y son muy pocos comparados con los esfuerzos incesantes de las fuerzas opositoras. Por cada hora que se usa para inculcar doctrina en la vida de un niño, hay incontables horas de oposición llenas de mensajes e imágenes que desafían o ignoran esas verdades salvadoras.<\/p>\n<p data-aid=\"168225215\" id=\"p_wd1Es\">\u201cAlgunos de ustedes tal vez se pregunten si no sería mejor acercar a sus hijos más a ustedes por medio de la diversión, o quizás se pregunten si su hijo podría sentirse abrumado por sus enseñanzas. En vez de ello, deberíamos considerar: \u2018Con tan poco tiempo y tan pocas oportunidades, ¿qué palabras de doctrina puedo compartir que los fortalezcan contra los inevitables desafíos a su fe?\u2019. Las palabras que les compartan hoy podrían ser las que ellos se lleven consigo, y el día de hoy pasará pronto\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/47eyring?lang=spa\">Es sencilla la doctrina de Jesucristo<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 97).<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note21\" data-full-marker=\"20.\">\n<p data-aid=\"168225221\" id=\"p_unMBx\">¡Cada joven es importante! (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p6%2Cp20#p6\">Alma 57:6, 20<\/a>).<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note22\" data-full-marker=\"21.\">\n<p data-aid=\"168225226\" id=\"p_oMZgV\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=spa&amp;id=p21#p21\">Alma 53:21<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note23\" data-full-marker=\"22.\">\n<p data-aid=\"168225231\" id=\"p_teZzn\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/56?lang=spa&amp;id=p44-p48#p44\">Alma 56:44\u201348<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p21#p21\">57:21<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note24\" data-full-marker=\"23.\">\n<p data-aid=\"168225235\" id=\"p_qg9lM\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 93:40<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note25\" data-full-marker=\"24.\">\n<p data-aid=\"168225239\" id=\"p_f9nG5\">También tenemos el ejemplo de los padres de Enós, quienes lo criaron \u201cen disciplina y amonestación del Señor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1#p1\">Enós 1:1<\/a>) y le enseñaron sobre \u201cla vida eterna y el gozo de los santos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3\">Enós 1:3<\/a>). Enós conocía el carácter de Dios (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p6%2Cp15%2Cp17#p6\">Enós 1:6, 15, 17<\/a>).<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note26\" data-full-marker=\"25.\">\n<p data-aid=\"168225244\" id=\"p_xm5lH\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1-p2%2Cp4-p6#p1\">Doctrina y Convenios 21:1\u20132, 4\u20136<\/a>. \u201cAunque el mundo insista en que el poder, las posesiones, la popularidad y los placeres de la carne brindan felicidad, ¡no es así! ¡No pueden hacerlo! Lo que producen no es más que un sustituto vacío del \u2018bendito y feliz estado de aquellos que guardan los mandamientos de Dios\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41\">Mosíah 2:41<\/a>].<\/p>\n<p data-aid=\"168225249\" id=\"p_pqrZu\">\u201c¡La verdad es que es mucho <em>más agotador<\/em> buscar la felicidad donde <em>nunca<\/em> podrán hallarla! Sin embargo, cuando llevan el yugo con Jesucristo y hacen el trabajo espiritual que se requiere para vencer al mundo, Él, y solo Él, tiene el poder de elevarlos por encima de la influencia de este mundo.<\/p>\n<p data-aid=\"168225254\" id=\"p_tudak\">\u201cAhora bien, ¿cómo bendice nuestra vida el hecho de vencer al mundo? La respuesta es clara: Concertar una relación por convenio con Dios nos une a Él de una manera que hace que <em>todo<\/em> en la vida sea más fácil. No me malinterpreten: <em>no<\/em> he dicho que efectuar convenios haga que la vida sea <em>fácil<\/em>. De hecho, esperen tener oposición, porque el adversario no quiere que descubran el poder de Jesucristo, pero llevar el yugo con el Salvador significa que tienen acceso a <em>Su<\/em> fortaleza y poder redentor\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 97).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note27\" data-full-marker=\"26.\">\n<p data-aid=\"168225259\" id=\"p_tVUDN\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/8?lang=spa&amp;id=p26#p26\">Éter 8:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p19-p25#p19\">Moroni 7:19\u201325<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note28\" data-full-marker=\"27.\">\n<p data-aid=\"168225264\" id=\"p_e0wBr\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/52?lang=spa&amp;id=p1#p1\">Isaías 52:1<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note29\" data-full-marker=\"28.\">\n<p data-aid=\"168225269\" id=\"p_nQfBn\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/125?lang=spa&amp;id=p1#p1\">Salmo 125:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/28?lang=spa&amp;id=p16#p16\">Isaías 28:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note30\" data-full-marker=\"29.\">\n<p data-aid=\"168225274\" id=\"p_hzUjp\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 128:22<\/a>; cursiva agregada.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note31\" data-full-marker=\"30.\">\n<p data-aid=\"168225279\" id=\"p_u2iIt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p30#p30\">Doctrina y Convenios 1:30<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note32\" data-full-marker=\"31.\">\n<p data-aid=\"168225284\" id=\"p_rIlDe\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p5#p5\">Artículos de Fe 1:5<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168224987",
+        "id": "note4",
+        "text": "<p data-aid=\"168225126\" id=\"p_vl2Pw\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/amos/3?lang=spa&amp;id=p7#p7\">Amós 3:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/amos/3?lang=spa&amp;id=p7#p7",
+          "text": "Amós 3:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note5": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168224987",
+        "id": "note5",
+        "text": "<p data-aid=\"168225131\" id=\"p_eBhRA\">\u201c[El presidente de la Iglesia] preside la Iglesia bajo la dirección del Señor y es la única persona sobre la tierra autorizada a hacer uso de todas las llaves del sacerdocio. [\u2026] Tiene autoridad para recibir revelación y declarar la voluntad del Señor a toda la Iglesia\u201d (<cite>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>, Biblioteca del Evangelio).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3",
+          "text": "5.1.1.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note2": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168224945",
+        "id": "note2",
+        "text": "<p data-aid=\"168225116\" id=\"p_wH59s\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p9#p9\">2 Reyes 4:9<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p9#p9",
+          "text": "2 Reyes 4:9",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168224954",
+        "id": "note3",
+        "text": "<p data-aid=\"168225121\" id=\"p_bEG2E\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p10#p10\">2 Reyes 4:10<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p10#p10",
+          "text": "2 Reyes 4:10",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168225002",
+        "id": "note8",
+        "text": "<p data-aid=\"168225145\" id=\"p_bqAWs\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/28?lang=spa&amp;id=p19-p20#p19\">Mateo 28:19\u201320<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1%2Cp4-p5#p1\">Doctrina y Convenios 21:1, 4\u20135<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p35#p35\">107:35<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/28?lang=spa&amp;id=p19-p20#p19",
+            "text": "Mateo 28:19\u201320",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1%2Cp4-p5#p1",
+            "text": "Doctrina y Convenios 21:1, 4\u20135",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p35#p35",
+            "text": "107:35",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note9": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168225007",
+        "id": "note9",
+        "text": "<p data-aid=\"168225149\" id=\"p_nltPt\">\u201cCada Apóstol posee todas las llaves del reino y hace uso de ellas bajo la dirección del Presidente de la Iglesia\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3",
+          "text": "5.1.1.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note6": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168224992",
+        "id": "note6",
+        "text": "<p data-aid=\"168225136\" id=\"p_ry19z\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38\">Doctrina y Convenios 1:38<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p38#p38",
+          "text": "Doctrina y Convenios 1:38",
+          "type": "scripture-ref"
+        }]
+      },
+      "note7": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168224997",
+        "id": "note7",
+        "text": "<p data-aid=\"168225141\" id=\"p_kgucl\">Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/ftsoy/2025/07/02-the-gospel-of-jesus-christ-a-cheering-sound?lang=spa\">El Evangelio de Jesucristo: Un alegre son<\/a>\u201d, <cite>Para la Fortaleza de la Juventud<\/cite>, julio de 2025, pág. 5.<\/p>",
+        "referenceUris": [{
+          "href": "/study/ftsoy/2025/07/02-the-gospel-of-jesus-christ-a-cheering-sound?lang=spa",
+          "text": "El Evangelio de Jesucristo: Un alegre son",
+          "type": "cross-ref"
+        }]
+      },
+      "note30": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168225095",
+        "id": "note30",
+        "text": "<p data-aid=\"168225274\" id=\"p_hzUjp\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p22#p22\">Doctrina y Convenios 128:22<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/128?lang=spa&amp;id=p22#p22",
+          "text": "Doctrina y Convenios 128:22",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168225047",
+        "id": "note16",
+        "text": "<p data-aid=\"168225190\" id=\"p_v2ABc\">Al hablar del Libro de Mormón, el profeta José Smith enseñó: \u201cEste libro también relata que nuestro Salvador se apareció en este continente luego de Su Resurrección; que implantó aquí el Evangelio en toda su plenitud, con toda su riqueza, poder y bendiciones; que tuvieron apóstoles, profetas, pastores, maestros y evangelistas; que, al igual que en Oriente Medio, gozaron del mismo orden, el mismo sacerdocio, las mismas ordenanzas, dones, poderes y bendiciones\u201d (<a href=\"https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/456\">History, 1838\u20131856, tomo C-1 [2 de noviembre de 1838\u201331 de julio de 1842]<\/a>, pág. 1282, josephsmithpapers.org).<\/p>",
+        "referenceUris": [{
+          "href": "https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-2-november-1838-31-july-1842/456",
+          "text": "History, 1838\u20131856, tomo C-1 [2 de noviembre de 1838\u201331 de julio de 1842]"
+        }]
+      },
+      "note15": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168225042",
+        "id": "note15",
+        "text": "<p data-aid=\"168225183\" id=\"p_vPb1O\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p39#p39\">Éter 12:39<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p39#p39",
+          "text": "Éter 12:39",
+          "type": "scripture-ref"
+        }]
+      },
+      "note14": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168225037",
+        "id": "note14",
+        "text": "<p data-aid=\"168225177\" id=\"p_phzbZ\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/hel/14?lang=spa&amp;id=p12#p12\">Helamán 14:12<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/hel/14?lang=spa&amp;id=p12#p12",
+          "text": "Helamán 14:12",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168225032",
+        "id": "note13",
+        "text": "<p data-aid=\"168225171\" id=\"p_mKf94\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p1-p2#p1\">Mosíah 15:1\u20132<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/15?lang=spa&amp;id=p1-p2#p1",
+          "text": "Mosíah 15:1\u20132",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168225012",
+        "id": "note12",
+        "text": "<p data-aid=\"168225164\" id=\"p_qrdTc\">\u201cLos Doce Apóstoles son \u2018testigos especiales\u2019 del nombre de Jesucristo [\u2026]; dan testimonio al mundo de Su divinidad y de la realidad de Su Resurrección\u201d (<cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3",
+          "text": "5.1.1.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168225007",
+        "id": "note11",
+        "text": "<p data-aid=\"168225159\" id=\"p_cvMJD\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p27-p31#p27\">Doctrina y Convenios 107:27\u201331<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/107?lang=spa&amp;id=p27-p31#p27",
+          "text": "Doctrina y Convenios 107:27\u201331",
+          "type": "scripture-ref"
+        }]
+      },
+      "note10": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168225007",
+        "id": "note10",
+        "text": "<p data-aid=\"168225154\" id=\"p_hqYFI\">Véase <cite>Manual General<\/cite>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3\">5.1.1.1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/general-handbook/5-general-and-area-leadership?lang=spa&amp;id=title_number3#title_number3",
+          "text": "5.1.1.1",
+          "type": "cross-ref"
+        }]
+      },
+      "note32": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168225101",
+        "id": "note32",
+        "text": "<p data-aid=\"168225284\" id=\"p_rIlDe\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p5#p5\">Artículos de Fe 1:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p5#p5",
+          "text": "Artículos de Fe 1:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168225101",
+        "id": "note31",
+        "text": "<p data-aid=\"168225279\" id=\"p_u2iIt\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p30#p30\">Doctrina y Convenios 1:30<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/1?lang=spa&amp;id=p30#p30",
+          "text": "Doctrina y Convenios 1:30",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168225057",
+        "id": "note19",
+        "text": "<p data-aid=\"168225206\" id=\"p_h92Br\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p25-p28#p25\">Doctrina y Convenios 68:25\u201328<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p25-p28#p25",
+          "text": "Doctrina y Convenios 68:25\u201328",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168225052",
+        "id": "note18",
+        "text": "<p data-aid=\"168225200\" id=\"p_gxdvj\"><a class=\"scripture-ref\" href=\"/study/scriptures/pgp/moses/6?lang=spa&amp;id=p58#p58\">Moisés 6:58<\/a>, cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/pgp/moses/6?lang=spa&amp;id=p58#p58",
+          "text": "Moisés 6:58",
+          "type": "scripture-ref"
+        }]
+      },
+      "note17": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168225047",
+        "id": "note17",
+        "text": "<p data-aid=\"168225194\" id=\"p_vQCMe\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p1#p1\">3 Nefi 12:1<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/3-ne/12?lang=spa&amp;id=p1#p1",
+          "text": "3 Nefi 12:1",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168225080",
+        "id": "note27",
+        "text": "<p data-aid=\"168225259\" id=\"p_tVUDN\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/8?lang=spa&amp;id=p26#p26\">Éter 8:26<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/7?lang=spa&amp;id=p19-p25#p19\">Moroni 7:19\u201325<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/ether/8?lang=spa&amp;id=p26#p26",
+            "text": "Éter 8:26",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/7?lang=spa&amp;id=p19-p25#p19",
+            "text": "Moroni 7:19\u201325",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note26": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168225080",
+        "id": "note26",
+        "text": "<p data-aid=\"168225244\" id=\"p_xm5lH\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1-p2%2Cp4-p6#p1\">Doctrina y Convenios 21:1\u20132, 4\u20136<\/a>. \u201cAunque el mundo insista en que el poder, las posesiones, la popularidad y los placeres de la carne brindan felicidad, ¡no es así! ¡No pueden hacerlo! Lo que producen no es más que un sustituto vacío del \u2018bendito y feliz estado de aquellos que guardan los mandamientos de Dios\u2019 [<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41\">Mosíah 2:41<\/a>].<\/p>\n<p data-aid=\"168225249\" id=\"p_pqrZu\">\u201c¡La verdad es que es mucho <em>más agotador<\/em> buscar la felicidad donde <em>nunca<\/em> podrán hallarla! Sin embargo, cuando llevan el yugo con Jesucristo y hacen el trabajo espiritual que se requiere para vencer al mundo, Él, y solo Él, tiene el poder de elevarlos por encima de la influencia de este mundo.<\/p>\n<p data-aid=\"168225254\" id=\"p_tudak\">\u201cAhora bien, ¿cómo bendice nuestra vida el hecho de vencer al mundo? La respuesta es clara: Concertar una relación por convenio con Dios nos une a Él de una manera que hace que <em>todo<\/em> en la vida sea más fácil. No me malinterpreten: <em>no<\/em> he dicho que efectuar convenios haga que la vida sea <em>fácil<\/em>. De hecho, esperen tener oposición, porque el adversario no quiere que descubran el poder de Jesucristo, pero llevar el yugo con el Salvador significa que tienen acceso a <em>Su<\/em> fortaleza y poder redentor\u201d (Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, pág. 97).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/dc-testament/dc/21?lang=spa&amp;id=p1-p2%2Cp4-p6#p1",
+            "text": "Doctrina y Convenios 21:1\u20132, 4\u20136",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/2?lang=spa&amp;id=p41#p41",
+            "text": "Mosíah 2:41",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2022/10/47nelson?lang=spa",
+            "text": "Vencer al mundo y hallar descanso",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note25": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168225063",
+        "id": "note25",
+        "text": "<p data-aid=\"168225239\" id=\"p_f9nG5\">También tenemos el ejemplo de los padres de Enós, quienes lo criaron \u201cen disciplina y amonestación del Señor\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1#p1\">Enós 1:1<\/a>) y le enseñaron sobre \u201cla vida eterna y el gozo de los santos\u201d (<a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3\">Enós 1:3<\/a>). Enós conocía el carácter de Dios (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/enos/1?lang=spa&amp;id=p6%2Cp15%2Cp17#p6\">Enós 1:6, 15, 17<\/a>).<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p1#p1",
+            "text": "Enós 1:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p3#p3",
+            "text": "Enós 1:3",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/enos/1?lang=spa&amp;id=p6%2Cp15%2Cp17#p6",
+            "text": "Enós 1:6, 15, 17",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note24": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168225063",
+        "id": "note24",
+        "text": "<p data-aid=\"168225235\" id=\"p_qg9lM\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p40#p40\">Doctrina y Convenios 93:40<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p40#p40",
+          "text": "Doctrina y Convenios 93:40",
+          "type": "scripture-ref"
+        }]
+      },
+      "note23": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168225061",
+        "id": "note23",
+        "text": "<p data-aid=\"168225231\" id=\"p_teZzn\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/56?lang=spa&amp;id=p44-p48#p44\">Alma 56:44\u201348<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p21#p21\">57:21<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/56?lang=spa&amp;id=p44-p48#p44",
+            "text": "Alma 56:44\u201348",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/alma/57?lang=spa&amp;id=p21#p21",
+            "text": "57:21",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note22": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168225061",
+        "id": "note22",
+        "text": "<p data-aid=\"168225226\" id=\"p_oMZgV\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/53?lang=spa&amp;id=p21#p21\">Alma 53:21<\/a>; cursiva agregada.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/53?lang=spa&amp;id=p21#p21",
+          "text": "Alma 53:21",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168225061",
+        "id": "note21",
+        "text": "<p data-aid=\"168225221\" id=\"p_unMBx\">¡Cada joven es importante! (véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/57?lang=spa&amp;id=p6%2Cp20#p6\">Alma 57:6, 20<\/a>).<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/57?lang=spa&amp;id=p6%2Cp20#p6",
+          "text": "Alma 57:6, 20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168225057",
+        "id": "note20",
+        "text": "<p data-aid=\"168225210\" id=\"p_qWfNw\">\u201cDebemos aprovechar toda oportunidad para compartir las enseñanzas de Jesucristo con los niños. Esos momentos de enseñanza son preciosos y son muy pocos comparados con los esfuerzos incesantes de las fuerzas opositoras. Por cada hora que se usa para inculcar doctrina en la vida de un niño, hay incontables horas de oposición llenas de mensajes e imágenes que desafían o ignoran esas verdades salvadoras.<\/p>\n<p data-aid=\"168225215\" id=\"p_wd1Es\">\u201cAlgunos de ustedes tal vez se pregunten si no sería mejor acercar a sus hijos más a ustedes por medio de la diversión, o quizás se pregunten si su hijo podría sentirse abrumado por sus enseñanzas. En vez de ello, deberíamos considerar: \u2018Con tan poco tiempo y tan pocas oportunidades, ¿qué palabras de doctrina puedo compartir que los fortalezcan contra los inevitables desafíos a su fe?\u2019. Las palabras que les compartan hoy podrían ser las que ellos se lleven consigo, y el día de hoy pasará pronto\u201d (Henry B. Eyring, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/47eyring?lang=spa\">Es sencilla la doctrina de Jesucristo<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 97).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/47eyring?lang=spa",
+          "text": "Es sencilla la doctrina de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "",
+        "context": "",
+        "pid": "168224945",
+        "id": "note1",
+        "text": "<p data-aid=\"168225111\" id=\"p_nNaa9\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p8#p8\">2 Reyes 4:8<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/4?lang=spa&amp;id=p8#p8",
+          "text": "2 Reyes 4:8",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168225085",
+        "id": "note29",
+        "text": "<p data-aid=\"168225269\" id=\"p_nQfBn\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/125?lang=spa&amp;id=p1#p1\">Salmo 125:1<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/28?lang=spa&amp;id=p16#p16\">Isaías 28:16<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/125?lang=spa&amp;id=p1#p1",
+            "text": "Salmo 125:1",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/28?lang=spa&amp;id=p16#p16",
+            "text": "Isaías 28:16",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note28": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168225085",
+        "id": "note28",
+        "text": "<p data-aid=\"168225264\" id=\"p_e0wBr\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/52?lang=spa&amp;id=p1#p1\">Isaías 52:1<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/isa/52?lang=spa&amp;id=p1#p1",
+          "text": "Isaías 52:1",
+          "type": "scripture-ref"
+        }]
+      }
+    }
+  }
+}

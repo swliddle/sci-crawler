@@ -1,0 +1,738 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/26cziesla?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "801d187710db4532b174237adea2b82f",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/26cziesla",
+      "data-bcp47-lang": "es",
+      "data-aid": "168174554",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "6",
+      "data-orig-id": "30e8ed94a947436080455a9d8b8d0d48"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/q760ppctkrsjukd71zw4mn8kf9kkcn5zmfgpmzye/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/j6c65nc32lagkbx2p8kwnm9vounwi3ih0346g8gj-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "La sencillez en Cristo",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168174554",
+      {"key": "168174554"}
+    ],
+    [
+      "168223004",
+      {"key": "168223004"}
+    ],
+    [
+      "168223006",
+      {"key": "168223006"}
+    ],
+    [
+      "168223007",
+      {"key": "168223007"}
+    ],
+    [
+      "168223010",
+      {"key": "168223010"}
+    ],
+    [
+      "168223012",
+      {"key": "168223012"}
+    ],
+    [
+      "168223014",
+      {"key": "168223014"}
+    ],
+    [
+      "168223016",
+      {"key": "168223016"}
+    ],
+    [
+      "168223018",
+      {"key": "168223018"}
+    ],
+    [
+      "168223020",
+      {"key": "168223020"}
+    ],
+    [
+      "168223021",
+      {"key": "168223021"}
+    ],
+    [
+      "168223023",
+      {"key": "168223023"}
+    ],
+    [
+      "168223025",
+      {"key": "168223025"}
+    ],
+    [
+      "168223027",
+      {"key": "168223027"}
+    ],
+    [
+      "168223029",
+      {"key": "168223029"}
+    ],
+    [
+      "168223031",
+      {"key": "168223031"}
+    ],
+    [
+      "168223033",
+      {"key": "168223033"}
+    ],
+    [
+      "168223036",
+      {"key": "168223036"}
+    ],
+    [
+      "168223037",
+      {"key": "168223037"}
+    ],
+    [
+      "168223039",
+      {"key": "168223039"}
+    ],
+    [
+      "168223042",
+      {"key": "168223042"}
+    ],
+    [
+      "168223043",
+      {"key": "168223043"}
+    ],
+    [
+      "168223045",
+      {"key": "168223045"}
+    ],
+    [
+      "168223047",
+      {"key": "168223047"}
+    ],
+    [
+      "168223050",
+      {"key": "168223050"}
+    ],
+    [
+      "168223052",
+      {"key": "168223052"}
+    ],
+    [
+      "168223054",
+      {"key": "168223054"}
+    ],
+    [
+      "168223056",
+      {"key": "168223056"}
+    ],
+    [
+      "168223058",
+      {"key": "168223058"}
+    ],
+    [
+      "168223060",
+      {"key": "168223060"}
+    ],
+    [
+      "168223062",
+      {"key": "168223062"}
+    ],
+    [
+      "168223064",
+      {"key": "168223064"}
+    ],
+    [
+      "168223065",
+      {"key": "168223065"}
+    ],
+    [
+      "168223067",
+      {"key": "168223067"}
+    ],
+    [
+      "168223070",
+      {"key": "168223070"}
+    ],
+    [
+      "168223072",
+      {"key": "168223072"}
+    ],
+    [
+      "168223075",
+      {"key": "168223075"}
+    ],
+    [
+      "168223076",
+      {"key": "168223076"}
+    ],
+    [
+      "168223080",
+      {"key": "168223080"}
+    ],
+    [
+      "168223084",
+      {"key": "168223084"}
+    ],
+    [
+      "168223086",
+      {"key": "168223086"}
+    ],
+    [
+      "168223089",
+      {"key": "168223089"}
+    ],
+    [
+      "168223092",
+      {"key": "168223092"}
+    ],
+    [
+      "168223095",
+      {"key": "168223095"}
+    ],
+    [
+      "168223098",
+      {"key": "168223098"}
+    ],
+    [
+      "168223100",
+      {"key": "168223100"}
+    ],
+    [
+      "168223104",
+      {"key": "168223104"}
+    ],
+    [
+      "168223107",
+      {"key": "168223107"}
+    ],
+    [
+      "168223109",
+      {"key": "168223109"}
+    ],
+    [
+      "168223111",
+      {"key": "168223111"}
+    ],
+    [
+      "168223114",
+      {"key": "168223114"}
+    ],
+    [
+      "168223117",
+      {"key": "168223117"}
+    ],
+    [
+      "168223120",
+      {"key": "168223120"}
+    ],
+    [
+      "168223122",
+      {"key": "168223122"}
+    ],
+    [
+      "168223126",
+      {"key": "168223126"}
+    ],
+    [
+      "168223128",
+      {"key": "168223128"}
+    ],
+    [
+      "168223131",
+      {"key": "168223131"}
+    ],
+    [
+      "168223133",
+      {"key": "168223133"}
+    ],
+    [
+      "168223136",
+      {"key": "168223136"}
+    ],
+    [
+      "168223139",
+      {"key": "168223139"}
+    ],
+    [
+      "168223142",
+      {"key": "168223142"}
+    ],
+    [
+      "168223144",
+      {"key": "168223144"}
+    ],
+    [
+      "168223148",
+      {"key": "168223148"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/26cziesla",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El élder Cziesla enseña que poner en práctica la doctrina de Cristo de manera sencilla nos traerá gozo, nos dará guía en nuestros llamamientos, responderá algunas de las preguntas más complejas de la vida y nos proporcionará fortaleza.",
+          "title": "La sencillez en Cristo"
+        },
+        "pageSocial": {
+          "description": "El élder Cziesla enseña que poner en práctica la doctrina de Cristo de manera sencilla nos traerá gozo, nos dará guía en nuestros llamamientos, responderá algunas de las preguntas más complejas de la vida y nos proporcionará fortaleza.",
+          "title": "La sencillez en Cristo"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/q760ppctkrsjukd71zw4mn8kf9kkcn5zmfgpmzye/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/q760ppctkrsjukd71zw4mn8kf9kkcn5zmfgpmzye/full/%21192%2C/0/default\" data-video-title=\"La sencillez en Cristo\" data-video-description=\"El élder Cziesla enseña que poner en práctica la doctrina de Cristo de manera sencilla nos traerá gozo, nos dará guía en nuestros llamamientos, responderá algunas de las preguntas más complejas de la vida y nos proporcionará fortaleza.\" data-video-id=\"6382048307112\" data-duration=\"678333\" data-assetId=\"05y03v2npo9vobz99ynbya5xsbjak5qsbynclb3m\" data-ref-id=\"05y03v2npo9vobz99ynbya5xsbjak5qsbynclb3m\" data-duration-string=\"11:18\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382048307112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"162311850\"/><source src=\"https://assets.churchofjesuschrist.org/05y03v2npo9vobz99ynbya5xsbjak5qsbynclb3m-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"36460003\"/><source src=\"https://assets.churchofjesuschrist.org/05y03v2npo9vobz99ynbya5xsbjak5qsbynclb3m-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"61798390\"/><source src=\"https://assets.churchofjesuschrist.org/05y03v2npo9vobz99ynbya5xsbjak5qsbynclb3m-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"162311850\"/><\/video><h1 data-aid=\"168223004\" id=\"p_ui3SA\">La sencillez en Cristo<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168223006\" id=\"p_cQRJZ\">Por el élder Michael Cziesla<\/p>\n<p class=\"author-role\" data-aid=\"168223007\" id=\"p_k9cJD\">De los Setenta<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168223010\" id=\"p_iymCh\">Poner en práctica la doctrina de Cristo de manera sencilla y centrada nos ayudará a hallar gozo en nuestra vida diaria.<\/p>\n<\/header>\n<div class=\"body-block\">\n<section id=\"sec_cOmHI\">\n<header>\n<h2 data-aid=\"168223012\" id=\"p_iDUDm\">1. Introducción<\/h2>\n<\/header>\n<p data-aid=\"168223014\" id=\"p_qnO0Q\">Hace treinta y tres años, recibí mi llamamiento para servir como misionero en la Misión Utah Ogden. Por supuesto, al provenir yo de Europa, algunas tradiciones locales de Utah como la \u201cgelatina verde con zanahorias\u201d y las \u201cpatatas [papas] de funeral\u201d<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a> ¡me resultaron algo peculiares!<\/p>\n<p data-aid=\"168223016\" id=\"p_mD975\">Sin embargo, me impresionó profundamente la devoción y el discipulado de muchos de los santos, la gran cantidad de personas en las reuniones de la Iglesia y la magnitud de los programas de la Iglesia en pleno funcionamiento. Cuando mi misión llegó a su fin, quise asegurarme de que el gozo que yo sentía y la fortaleza y madurez espirituales que había observado, también estuvieran al alcance de mi futura familia. Estaba decidido a regresar pronto para vivir mi vida en \u201clos collados eternos\u201d<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168223018\" id=\"p_zEnXM\">Sin embargo, el Señor tenía planes diferentes. En mi primer domingo en casa, mi sabio obispo me llamó a servir como presidente de los Hombres Jóvenes de nuestro barrio. Al servir a ese maravilloso grupo de jóvenes, aprendí rápidamente que el gozo que proviene de ser discípulo de Cristo tiene muy poco que ver con el tamaño de las reuniones de la Iglesia o la magnitud de los programas.<\/p>\n<p data-aid=\"168223020\" id=\"p_aF6Cb\">Así que, cuando me casé con mi bella esposa, Margret, decidimos con alegría quedarnos en Europa y criar a nuestra familia en nuestro país natal, Alemania. Juntos fuimos testigos de lo que enseñó el presidente Russell M. Nelson hace muchos años: \u201cEl gozo que sentimos tiene poco que ver con las circunstancias de nuestra vida, y tiene todo que ver con el enfoque de nuestra vida\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. Al centrar nuestra vida en Cristo y en Su mensaje del Evangelio, podemos experimentar las plenas bendiciones del discipulado dondequiera que vivamos.<\/p>\n<\/section>\n<section id=\"sec_aXhX7\">\n<header>\n<h2 data-aid=\"168223021\" id=\"p_v1hey\">2. La sencillez que es en Cristo<\/h2>\n<\/header>\n<p data-aid=\"168223023\" id=\"p_yG1EP\">Sin embargo, en un mundo cada vez más secular, complejo y confuso, con mensajes y exigencias diferentes, y a menudo contradictorios, ¿cómo podemos evitar que se nos cieguen los ojos y endurezca el corazón, y permanecer centrados en las cosas \u201cclaras y [\u2026] preciosas\u201d del Evangelio de Jesucristo?<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>. Durante una época de confusión, el apóstol Pablo dio un gran consejo a los santos de Corinto al recordarles que se centraran en \u201cla sencillez que es en Cristo\u201d<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168223025\" id=\"p_mKkMK\">La doctrina de Cristo y la ley del Evangelio son tan sencillas que hasta los niños pequeños pueden entenderlas. Podemos acceder al poder redentor de Jesucristo y recibir todas las bendiciones espirituales que nuestro Padre Celestial nos ha preparado al ejercer fe en Jesucristo, arrepentirnos, ser bautizados, santificarnos mediante el don del Espíritu Santo y perseverar hasta el fin<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>. El presidente Nelson describió esta travesía muy bellamente como la \u201c[senda] de los convenios\u201d<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a> y el proceso de llegar a ser \u201cdevotos discípulos de Jesucristo\u201d<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168223027\" id=\"p_zK1Mc\">Si este mensaje es tan sencillo, ¿por qué a menudo parece tan difícil vivir la ley de Cristo y seguir Su ejemplo? Puede ser que malinterpretemos la sencillez como algo que es fácil de lograr, sin esfuerzo ni diligencia. Seguir a Cristo requiere un esfuerzo constante y un cambio continuo. Debemos \u201cdespoj[arnos] del hombre natural, y [\u2026] v[olvernos] como un niño\u201d<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Eso incluye \u201cconfi[ar] en Jehová\u201d<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a> y dejar de lado la complejidad, tal como lo hacen los niños pequeños<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a>. Poner en práctica la doctrina de Cristo de manera sencilla y centrada nos ayudará a hallar gozo en nuestra vida diaria, nos dará guía en nuestros llamamientos, responderá algunas de las preguntas más complejas de la vida y nos dará fuerza para afrontar nuestros mayores desafíos.<\/p>\n<p data-aid=\"168223029\" id=\"p_mLhpq\">¿Pero cómo podemos en la práctica implementar esta sencillez en nuestra trayectoria de toda la vida como discípulos de Cristo? El presidente Nelson nos recordó que nos centremos en la \u201cverdad pura, doctrina pura y revelación pura\u201d al procurar seguir al Salvador<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. El preguntar con regularidad: \u201c¿que querría el Señor Jesucristo que yo hiciera?\u201d revela una profunda guía. El seguir Su ejemplo proporciona una senda segura a través de la incertidumbre<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a> y una amorosa mano de guía a la cual tomar día a día. Él es el Príncipe de paz y el Buen Pastor<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a>. Él es nuestro Consolador y Libertador<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Él es nuestra Roca y nuestro Refugio<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>. Él es un Amigo \u2014¡su amigo y mi amigo!<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>. Él nos invita a todos a amar a Dios, guardar Sus mandamientos y amar al prójimo<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168223031\" id=\"p_kOIrt\">Al decidir seguir Su ejemplo y avanzar con fe en Cristo, aceptar el poder de Su Expiación y recordar nuestros convenios, el amor nos llena el corazón, la esperanza y la sanación nos elevan el espíritu, y la amargura y la pena son reemplazadas por la gratitud y la paciencia para esperar las bendiciones prometidas. En ocasiones, quizá tengamos que distanciarnos de alguna situación poco sana o buscar ayuda profesional. Pero en todos los casos, el poner en práctica principios sencillos del Evangelio nos ayudará a atravesar los desafíos de la vida a la manera del Señor.<\/p>\n<p data-aid=\"168223033\" id=\"p_bNjU2\">A veces subestimamos la fortaleza que recibimos de actos simples como orar, ayunar, estudiar las Escrituras, arrepentirnos a diario, tomar la Santa Cena semanalmente y adorar en la Casa del Señor con regularidad. Sin embargo, cuando reconocemos que no necesitamos hacer \u201calguna gran cosa\u201d<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a> y nos centramos en poner en práctica la doctrina pura y sencilla, comenzamos a ver cómo el Evangelio \u201cfunciona de maravilla\u201d<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a> para nosotros, aun en las circunstancias más difíciles. Encontramos fortaleza y \u201cconfianza ante Dios\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>, aun cuando experimentamos pesares. El élder M. Russell Ballard nos ha recordado muchas veces: \u201cEn esa simplicidad, hallar[emos] la paz, el gozo y la felicidad\u201d<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168223036\" id=\"p_rTdxR\">Poner en práctica la sencillez que es en Cristo nos hace priorizar a las personas por encima de los procesos, y las relaciones eternas por encima de los comportamientos a corto plazo<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a>. En la obra de Dios de salvación y exaltación, nos centramos en \u201clas cosas más importantes\u201d<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a>, en vez de quedar enfrascados en administrar nuestra ministración. Nos liberamos para priorizar las cosas que <i>podemos<\/i> hacer en vez de sentirnos agobiados por las que <i>no podemos<\/i> hacer. El Señor nos ha recordado: \u201cPor tanto, no os canséis de hacer lo bueno, porque estáis poniendo los cimientos de una gran obra. Y de las cosas pequeñas proceden las grandes\u201d<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>. Qué poderosa motivación para actuar con sencillez y humildad, sean cuales sean nuestras circunstancias.<\/p>\n<\/section>\n<section id=\"sec_rZKEz\">\n<header>\n<h2 data-aid=\"168223037\" id=\"p_sld8A\">3. Oma Cziesla<\/h2>\n<\/header>\n<p data-aid=\"168223039\" id=\"p_ybVB8\">Mi abuela, Marta Cziesla fue un maravilloso ejemplo de cómo hacer \u201ccosas pequeñas y sencillas\u201d para realizar grandes cosas<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>. La llamábamos \u201cOma Cziesla\u201d afectuosamente. Oma aceptó el Evangelio en la pequeña aldea de Selbongen, en Prusia Oriental, junto con mi bisabuela, el 30 de mayo de 1926.<\/p>\n<figure class=\"image no-print\" id=\"fig_gk73K\">\n<img alt=\"La abuela del élder Cziesla (derecha)\" id=\"img_lPSXO\" src=\"https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21500%2C/0/default\" data-img-id=\"ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf\" srcset=\"https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf/full/%21640%2C/0/default 640w\" data-assetId=\"ctpayhbbxa2ufdzrgf6jjbg3qvbh4rbys4xraghf\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Elder Michael Cziesla Grandmother circa 1930.\" data-public-description=\"Elder Michael Cziesla Grandmother circa 1930.\"/>\n<div class=\"credit\">\n<p data-aid=\"168223042\" id=\"p_ultRZ\">Marta Cziesla (derecha) en el día de su bautismo.<\/p>\n<\/div>\n<\/figure>\n<p data-aid=\"168223043\" id=\"p_e7Ejl\">Ella amaba al Señor y Su Evangelio, y estaba decidida a guardar los convenios que había hecho. En 1930 se casó con mi abuelo, que no era miembro de la Iglesia. En ese momento, a Oma le era imposible asistir a las reuniones de la Iglesia, pues la granja de mi abuelo estaba a mucha distancia de la congregación más cercana, pero ella se centró en lo que sí podía hacer. Oma continuó orando, leyendo las Escrituras y cantando los himnos de Sion.<\/p>\n<p data-aid=\"168223045\" id=\"p_b5PRk\">Algunas personas podrían haber pensado que ya no era activa en su fe, pero nada más lejos de la verdad. Cuando nacieron mi tía y mi padre, sin poseedores del sacerdocio en casa, sin reuniones de la Iglesia ni acceso a las ordenanzas cerca, ella volvió a hacer lo que podía y se centró en enseñar a sus hijos \u201ca orar y a andar rectamente delante del Señor\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>. Les leía las Escrituras, cantaba con ellos los himnos de Sion y, por supuesto, oraba con ellos todos los días; era vivir la Iglesia centrada en el hogar al cien por ciento.<\/p>\n<p data-aid=\"168223047\" id=\"p_fzO9I\">En 1945, mi abuelo prestaba servicio en la guerra, lejos de casa. Cuando los enemigos se acercaron a la granja, Oma tomó a sus dos hijitos y dejó atrás su amada granja para buscar refugio en un lugar más seguro. Tras un viaje difícil y con peligro de muerte, finalmente encontraron refugio en mayo de 1945 en el norte de Alemania. No les quedaba nada, excepto la ropa que llevaban puesta. Sin embargo, Oma siguió haciendo lo que podía hacer: oraba con sus hijos \u2014cada día. Cantaba con ellos los himnos de Sion que había memorizado \u2014cada día.<\/p>\n<p data-aid=\"168223050\" id=\"p_m0XFH\">La vida era extremadamente difícil y durante muchos años se centró simplemente en asegurarse de que hubiera comida en la mesa. Sin embargo, en 1955, mi padre, quien entonces tenía diecisiete años, asistía a la escuela de oficios en la ciudad de Rendsburg. Pasó junto a un edificio y vio un pequeño letrero afuera que decía: \u201cKirche Jesu Christi der Heiligen der Letzten Tage\u201d, \u201cLa Iglesia de Jesucristo de los Santos de los Últimos Días\u201d. Él pensó: \u201cQué curioso, es la iglesia de mamá\u201d. Así que cuando llegó a casa, le dijo a Oma que había encontrado su iglesia.<\/p>\n<p data-aid=\"168223052\" id=\"p_xcD9J\">Pueden imaginar cómo se debe haber sentido después de casi veinticinco años sin tener contacto con la Iglesia. Estaba decidida a asistir el domingo siguiente y convenció a mi padre para que la acompañara. Rendsburg estaba a más de treinta y dos kilómetros [veinte millas] de distancia del pequeño poblado donde vivían, pero eso no impediría que Oma asistiera a la Iglesia. Al domingo siguiente, se subió a su bicicleta con mi padre y pedalearon hasta la iglesia.<\/p>\n<p data-aid=\"168223054\" id=\"p_eAZ7g\">Cuando comenzó la reunión sacramental, mi papá se sentó en la última fila, esperando que terminara pronto. Esa era la iglesia de Oma y no la suya. Lo que vio no fue muy alentador: solo unas pocas mujeres mayores que asistieron y dos jóvenes misioneros que eficazmente dirigieron todo en la reunión. Pero luego comenzaron a cantar y cantaron los himnos de Sion que mi papá había escuchado desde que era niño: \u201c¡Oh, está todo bien!\u201d<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>, \u201cOh mi Padre\u201d <a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a> y \u201cLoor al Profeta\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>. Oír a ese pequeño rebaño cantar las canciones de Sion que él había conocido desde la niñez le conmovió el corazón, y supo de inmediato y sin duda alguna que la Iglesia era verdadera.<\/p>\n<p data-aid=\"168223056\" id=\"p_wUmXw\">La primera reunión sacramental a la que asistió mi abuela tras veinticinco años fue aquella en la que mi padre recibió la confirmación personal de la veracidad del Evangelio restaurado de Jesucristo. Fue bautizado tres semanas después, el 25 de septiembre de 1955, junto con mi abuelo y mi tía.<\/p>\n<p data-aid=\"168223058\" id=\"p_q4nSZ\">Han pasado más de setenta años desde aquella pequeña reunión sacramental en Rendsburg. A menudo pienso en Oma, en cómo debe haberse sentido en esas noches solitarias, al hacer las cosas pequeñas y sencillas que podía hacer, como orar, leer y cantar. Al estar aquí hoy en la conferencia general y hablar de mi Oma, su determinación de guardar sus convenios y confiar en Jehová pese a sus dificultades, se me llena el corazón de humildad y gratitud, no solo por ella, sino por muchos de nuestros maravillosos santos de todo el mundo que se centran en la sencillez en Cristo en sus difíciles circunstancias, quizá viendo pocos cambios ahora, pero confiando en que grandes cosas han de acontecer algún día en el futuro.<\/p>\n<\/section>\n<section id=\"sec_vM2Ih\">\n<header>\n<h2 data-aid=\"168223060\" id=\"p_uVWnP\">4. Las cosas pequeñas y sencillas<\/h2>\n<\/header>\n<p data-aid=\"168223062\" id=\"p_dwijr\">He aprendido por experiencia propia que las cosas pequeñas y sencillas del Evangelio y el centrarnos fielmente en Cristo nos conducen al verdadero gozo, producen grandes milagros y nos otorgan confianza en que todas las bendiciones prometidas han de acontecer. Eso es tan cierto para ustedes como para mí. En palabras del élder Jeffrey R. Holland: \u201cAlgunas bendiciones nos llegan pronto, otras llevan más tiempo, y otras no se reciben hasta llegar al cielo; pero para aquellos que aceptan el Evangelio de Jesucristo, <i>siempre llegan<\/i>\u201d<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a>. De ello también testifico en el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168223064\" id=\"p_wPkMP\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168223065\" id=\"p_w68Hz\">La gelatina verde con zanahorias es un plato local de Utah; para prepararlo, se agregan zanahorias ralladas a la gelatina a enfriar; para preparar las papas de funeral, se esparcen hojuelas [copos] de maíz encima de un plato de patatas [papas] (véase Rachel E. Teixeira, \u201cUtah Food Lore\u201d, <cite>Y Magazine<\/cite>, verano de 2022, magazine.byu.edu).<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168223067\" id=\"p_q45KW\">Referencia a la famosa frase final de <i>Música &amp; y palabras de inspiración<\/i>, pronunciada por primera vez por Richard L. Evans: \u201cNos despedimos desde los collados eternos. Que la paz los acompañe hoy y siempre\u201d.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168223070\" id=\"p_of5Fb\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14\">El gozo y la supervivencia espiritual<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2016, pág. 82.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168223072\" id=\"p_vFW1S\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p28#p28\">1 Nefi 13:28<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p26-p29#p26\">versículos 26\u201327, 29<\/a>.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168223075\" id=\"p_lZ1hh\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/11?lang=spa&amp;id=p3#p3\">2 Corintios 11:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168223076\" id=\"p_d5KMY\">Véanse <i><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/10-chapter-3-lesson-3?lang=spa\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/i>, 2023, pág. 61; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p4#p4\">Artículos de Fe 1:4<\/a>. En cuanto a la \u201cley del Evangelio\u201d, véase <i>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/i>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11\">27.2<\/a>, Biblioteca del Evangelio.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168223080\" id=\"p_uWjyw\">\u201cManténganse [en la senda] de los convenios\u201d fue el mensaje del presidente Russell M. Nelson a cada miembro de la Iglesia durante su primer discurso como Presidente de La Iglesia de Jesucristo de los Santos de los Últimos Días (\u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=title3#title3\">Al avanzar juntos<\/a>\u201d, <i>Liahona<\/i>, abril de 2018, pág. 7). Véase también Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/46nelson?lang=spa\">Ven, sígueme<\/a>, <i>Liahona<\/i>, mayo de 2019, págs. 88\u201391.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168223084\" id=\"p_iYG3l\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_fholN#p_fholN\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 122.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168223086\" id=\"p_yYOTu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168223089\" id=\"p_b4Ikk\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=spa&amp;id=p5#p5\">Proverbios 3:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168223092\" id=\"p_prNmt\">Véanse las palabras del élder Patrick Kearon durante una visita reciente a Filipinas (video en \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/elder-patrick-kearon-concludes-philippines-ministry-humanitarian-interfaith-devotional\">Elder Patrick Kearon Concludes His Ministry to the Philippines<\/a>\u201d, Newsroom, 20 de julio de 2025, newsroom.ChurchofJesusChrist.org).<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168223095\" id=\"p_uM0Xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2021, pág. 6.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168223098\" id=\"p_dJ8pv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=spa&amp;id=p6#p6\">Proverbios 3:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168223100\" id=\"p_ejcbo\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6\">Isaías 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11?lang=spa\">Juan 11<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12?lang=spa\">12<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa\">13<\/a>, y <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa\">14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168223104\" id=\"p_ygvCu\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/144?lang=spa&amp;id=p2#p2\">Salmo 144:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49?lang=spa&amp;id=p13#p13\">Isaías 49:13<\/a><\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168223107\" id=\"p_xCfb9\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/32?lang=spa&amp;id=p4#p4\">Deuteronomio 32:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/91?lang=spa&amp;id=p2#p2\">Salmo 91:2<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168223109\" id=\"p_opi16\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p45#p45\">Doctrina y Convenios 93:45<\/a>.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168223111\" id=\"p_pslh5\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36\">Mateo 22:36\u201340<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15\">Juan 14:15<\/a>; véase también Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/53stevenson?lang=spa\">Conectar los dos grandes mandamientos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 104\u2013107.<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168223114\" id=\"p_iCQQb\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5?lang=spa&amp;id=p13#p13\">2 Reyes 5:13<\/a>.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168223117\" id=\"p_cTMhA\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/it-works-wonderfully?lang=spa\">¡Funciona de maravilla!<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2015, pág. 23.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168223120\" id=\"p_iwuJQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm\">Confianza en la presencia de Dios<\/a>\u201d, <i>Liahona<\/i>, mayo de 2025, pág. 127.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168223122\" id=\"p_umcZa\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/23ballard?lang=spa&amp;id=p24#p24\">El Evangelio verdadero, puro y sencillo de Jesucristo<\/a>\u201d, <i>Liahona<\/i>, mayo de 2019, pág. 30<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168223126\" id=\"p_nKZJ0\">El presidente Thomas S. Monson nos recordó: \u201cNunca permitan que el problema que se tenga que resolver llegue a ser más importante que la persona a la que se tenga que amar\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p19#p19\">Encontrar gozo en el trayecto<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2008, pág. 86).<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168223128\" id=\"p_gIyaD\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p22#p22\">Recuerden lo más importante<\/a>\u201d, <i>Liahona<\/i>, mayo de 2023, pág. 107; Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2010/10/of-things-that-matter-most?lang=spa&amp;id=p24#p24\">De las cosas que más importan<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2010, págs. 20, 21.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"168223131\" id=\"p_bmbRH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64?lang=spa&amp;id=p33#p33\">Doctrina y Convenios 64:33<\/a>.<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"168223133\" id=\"p_h4Gi8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=spa&amp;id=p6#p6\">Alma 37:6<\/a>.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"168223136\" id=\"p_vmeoL\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p28#p28\">Doctrina y Convenios 68:28<\/a>. Para leer la historia completa, véase Armin L. Cziesla, <i>Meine Lebensgeschichte<\/i> (<i>Mi historia<\/i>), 2021.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"168223139\" id=\"p_cegxs\">\u201c¡Oh, está todo bien!\u201d, <cite>Himnos<\/cite>, nro. 17.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"168223142\" id=\"p_q5Zon\">\u201cOh mi Padre\u201d, <cite>Himnos<\/cite>, nro. 187<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"168223144\" id=\"p_omBBN\">\u201cLoor al Profeta\u201d, <cite>Himnos<\/cite>, nro. 15.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"168223148\" id=\"p_pajh7\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=spa&amp;id=p26#p26\">Sumo sacerdote de los bienes venideros<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2000, pág. 45.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168223023",
+        "id": "note4",
+        "text": "<p data-aid=\"168223072\" id=\"p_vFW1S\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p28#p28\">1 Nefi 13:28<\/a>; véanse también los <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p26-p29#p26\">versículos 26\u201327, 29<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p28#p28",
+            "text": "1 Nefi 13:28",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/1-ne/13?lang=spa&amp;id=p26-p29#p26",
+            "text": "versículos 26\u201327, 29",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168223023",
+        "id": "note5",
+        "text": "<p data-aid=\"168223075\" id=\"p_lZ1hh\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/2-cor/11?lang=spa&amp;id=p3#p3\">2 Corintios 11:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/2-cor/11?lang=spa&amp;id=p3#p3",
+          "text": "2 Corintios 11:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168223016",
+        "id": "note2",
+        "text": "<p data-aid=\"168223067\" id=\"p_q45KW\">Referencia a la famosa frase final de <i>Música &amp; y palabras de inspiración<\/i>, pronunciada por primera vez por Richard L. Evans: \u201cNos despedimos desde los collados eternos. Que la paz los acompañe hoy y siempre\u201d.<\/p>"
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168223020",
+        "id": "note3",
+        "text": "<p data-aid=\"168223070\" id=\"p_of5Fb\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14\">El gozo y la supervivencia espiritual<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2016, pág. 82.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2016/10/joy-and-spiritual-survival?lang=spa&amp;id=p14#p14",
+          "text": "El gozo y la supervivencia espiritual",
+          "type": "cross-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168223025",
+        "id": "note8",
+        "text": "<p data-aid=\"168223084\" id=\"p_iYG3l\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_fholN#p_fholN\">El Señor Jesucristo vendrá de nuevo<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2024, pág. 122.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2024/10/57nelson?lang=spa&amp;id=p_fholN#p_fholN",
+          "text": "El Señor Jesucristo vendrá de nuevo",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168223027",
+        "id": "note9",
+        "text": "<p data-aid=\"168223086\" id=\"p_yYOTu\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19\">Mosíah 3:19<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/mosiah/3?lang=spa&amp;id=p19#p19",
+          "text": "Mosíah 3:19",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168223025",
+        "id": "note6",
+        "text": "<p data-aid=\"168223076\" id=\"p_d5KMY\">Véanse <i><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/04-chapter-3/10-chapter-3-lesson-3?lang=spa\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/i>, 2023, pág. 61; <a class=\"scripture-ref\" href=\"/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p4#p4\">Artículos de Fe 1:4<\/a>. En cuanto a la \u201cley del Evangelio\u201d, véase <i>Manual General: Servir en La Iglesia de Jesucristo de los Santos de los Últimos Días<\/i>, <a class=\"cross-ref\" href=\"/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11\">27.2<\/a>, Biblioteca del Evangelio.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/manual/preach-my-gospel-2023/04-chapter-3/10-chapter-3-lesson-3?lang=spa",
+            "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/scriptures/pgp/a-of-f/1?lang=spa&amp;id=p4#p4",
+            "text": "Artículos de Fe 1:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=spa&amp;id=title11#title11",
+            "text": "27.2",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168223025",
+        "id": "note7",
+        "text": "<p data-aid=\"168223080\" id=\"p_uWjyw\">\u201cManténganse [en la senda] de los convenios\u201d fue el mensaje del presidente Russell M. Nelson a cada miembro de la Iglesia durante su primer discurso como Presidente de La Iglesia de Jesucristo de los Santos de los Últimos Días (\u201c<a class=\"cross-ref\" href=\"/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=title3#title3\">Al avanzar juntos<\/a>\u201d, <i>Liahona<\/i>, abril de 2018, pág. 7). Véase también Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/46nelson?lang=spa\">Ven, sígueme<\/a>, <i>Liahona<\/i>, mayo de 2019, págs. 88\u201391.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/liahona/2018/04/as-we-go-forward-together?lang=spa&amp;id=title3#title3",
+            "text": "Al avanzar juntos",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2019/04/46nelson?lang=spa",
+            "text": "Ven, sígueme",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168223054",
+        "id": "note30",
+        "text": "<p data-aid=\"168223144\" id=\"p_omBBN\">\u201cLoor al Profeta\u201d, <cite>Himnos<\/cite>, nro. 15.<\/p>"
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note16",
+        "text": "<p data-aid=\"168223107\" id=\"p_xCfb9\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/32?lang=spa&amp;id=p4#p4\">Deuteronomio 32:4<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/91?lang=spa&amp;id=p2#p2\">Salmo 91:2<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/deut/32?lang=spa&amp;id=p4#p4",
+            "text": "Deuteronomio 32:4",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/ps/91?lang=spa&amp;id=p2#p2",
+            "text": "Salmo 91:2",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note15",
+        "text": "<p data-aid=\"168223104\" id=\"p_ygvCu\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/ps/144?lang=spa&amp;id=p2#p2\">Salmo 144:2<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/49?lang=spa&amp;id=p13#p13\">Isaías 49:13<\/a><\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/ps/144?lang=spa&amp;id=p2#p2",
+            "text": "Salmo 144:2",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/ot/isa/49?lang=spa&amp;id=p13#p13",
+            "text": "Isaías 49:13",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note14",
+        "text": "<p data-aid=\"168223100\" id=\"p_ejcbo\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6\">Isaías 9:6<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/11?lang=spa\">Juan 11<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/12?lang=spa\">12<\/a>, <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/13?lang=spa\">13<\/a>, y <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa\">14<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/ot/isa/9?lang=spa&amp;id=p6#p6",
+            "text": "Isaías 9:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/11?lang=spa",
+            "text": "Juan 11",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/12?lang=spa",
+            "text": "12",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/13?lang=spa",
+            "text": "13",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa",
+            "text": "14",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note13",
+        "text": "<p data-aid=\"168223098\" id=\"p_dJ8pv\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=spa&amp;id=p6#p6\">Proverbios 3:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/prov/3?lang=spa&amp;id=p6#p6",
+          "text": "Proverbios 3:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note12",
+        "text": "<p data-aid=\"168223095\" id=\"p_uM0Xr\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/10/11nelson?lang=spa\">Verdad pura, doctrina pura y revelación pura<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2021, pág. 6.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2021/10/11nelson?lang=spa",
+          "text": "Verdad pura, doctrina pura y revelación pura",
+          "type": "cross-ref"
+        }]
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168223027",
+        "id": "note11",
+        "text": "<p data-aid=\"168223092\" id=\"p_prNmt\">Véanse las palabras del élder Patrick Kearon durante una visita reciente a Filipinas (video en \u201c<a href=\"https://newsroom.churchofjesuschrist.org/article/elder-patrick-kearon-concludes-philippines-ministry-humanitarian-interfaith-devotional\">Elder Patrick Kearon Concludes His Ministry to the Philippines<\/a>\u201d, Newsroom, 20 de julio de 2025, newsroom.ChurchofJesusChrist.org).<\/p>",
+        "referenceUris": [{
+          "href": "https://newsroom.churchofjesuschrist.org/article/elder-patrick-kearon-concludes-philippines-ministry-humanitarian-interfaith-devotional",
+          "text": "Elder Patrick Kearon Concludes His Ministry to the Philippines"
+        }]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168223027",
+        "id": "note10",
+        "text": "<p data-aid=\"168223089\" id=\"p_b4Ikk\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/prov/3?lang=spa&amp;id=p5#p5\">Proverbios 3:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/prov/3?lang=spa&amp;id=p5#p5",
+          "text": "Proverbios 3:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168223062",
+        "id": "note31",
+        "text": "<p data-aid=\"168223148\" id=\"p_pajh7\">Jeffrey R. Holland, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=spa&amp;id=p26#p26\">Sumo sacerdote de los bienes venideros<\/a>\u201d, <cite>Liahona<\/cite>, enero de 2000, pág. 45.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=spa&amp;id=p26#p26",
+          "text": "Sumo sacerdote de los bienes venideros",
+          "type": "cross-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168223033",
+        "id": "note19",
+        "text": "<p data-aid=\"168223114\" id=\"p_iCQQb\"><a class=\"scripture-ref\" href=\"/study/scriptures/ot/2-kgs/5?lang=spa&amp;id=p13#p13\">2 Reyes 5:13<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/2-kgs/5?lang=spa&amp;id=p13#p13",
+          "text": "2 Reyes 5:13",
+          "type": "scripture-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note18",
+        "text": "<p data-aid=\"168223111\" id=\"p_pslh5\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36\">Mateo 22:36\u201340<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15\">Juan 14:15<\/a>; véase también Gary E. Stevenson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2024/04/53stevenson?lang=spa\">Conectar los dos grandes mandamientos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2024, págs. 104\u2013107.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/22?lang=spa&amp;id=p36-p40#p36",
+            "text": "Mateo 22:36\u201340",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p15#p15",
+            "text": "Juan 14:15",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/general-conference/2024/04/53stevenson?lang=spa",
+            "text": "Conectar los dos grandes mandamientos",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168223029",
+        "id": "note17",
+        "text": "<p data-aid=\"168223109\" id=\"p_opi16\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p45#p45\">Doctrina y Convenios 93:45<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/93?lang=spa&amp;id=p45#p45",
+          "text": "Doctrina y Convenios 93:45",
+          "type": "scripture-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168223045",
+        "id": "note27",
+        "text": "<p data-aid=\"168223136\" id=\"p_vmeoL\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p28#p28\">Doctrina y Convenios 68:28<\/a>. Para leer la historia completa, véase Armin L. Cziesla, <i>Meine Lebensgeschichte<\/i> (<i>Mi historia<\/i>), 2021.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/68?lang=spa&amp;id=p28#p28",
+          "text": "Doctrina y Convenios 68:28",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168223039",
+        "id": "note26",
+        "text": "<p data-aid=\"168223133\" id=\"p_h4Gi8\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/37?lang=spa&amp;id=p6#p6\">Alma 37:6<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/37?lang=spa&amp;id=p6#p6",
+          "text": "Alma 37:6",
+          "type": "scripture-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168223036",
+        "id": "note25",
+        "text": "<p data-aid=\"168223131\" id=\"p_bmbRH\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/64?lang=spa&amp;id=p33#p33\">Doctrina y Convenios 64:33<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/64?lang=spa&amp;id=p33#p33",
+          "text": "Doctrina y Convenios 64:33",
+          "type": "scripture-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168223036",
+        "id": "note24",
+        "text": "<p data-aid=\"168223128\" id=\"p_gIyaD\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p22#p22\">Recuerden lo más importante<\/a>\u201d, <i>Liahona<\/i>, mayo de 2023, pág. 107; Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2010/10/of-things-that-matter-most?lang=spa&amp;id=p24#p24\">De las cosas que más importan<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2010, págs. 20, 21.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2023/04/52ballard?lang=spa&amp;id=p22#p22",
+            "text": "Recuerden lo más importante",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2010/10/of-things-that-matter-most?lang=spa&amp;id=p24#p24",
+            "text": "De las cosas que más importan",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168223036",
+        "id": "note23",
+        "text": "<p data-aid=\"168223126\" id=\"p_nKZJ0\">El presidente Thomas S. Monson nos recordó: \u201cNunca permitan que el problema que se tenga que resolver llegue a ser más importante que la persona a la que se tenga que amar\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p19#p19\">Encontrar gozo en el trayecto<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2008, pág. 86).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2008/10/finding-joy-in-the-journey?lang=spa&amp;id=p19#p19",
+          "text": "Encontrar gozo en el trayecto",
+          "type": "cross-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168223033",
+        "id": "note22",
+        "text": "<p data-aid=\"168223122\" id=\"p_umcZa\">M. Russell Ballard, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2019/04/23ballard?lang=spa&amp;id=p24#p24\">El Evangelio verdadero, puro y sencillo de Jesucristo<\/a>\u201d, <i>Liahona<\/i>, mayo de 2019, pág. 30<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2019/04/23ballard?lang=spa&amp;id=p24#p24",
+          "text": "El Evangelio verdadero, puro y sencillo de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168223033",
+        "id": "note21",
+        "text": "<p data-aid=\"168223120\" id=\"p_iwuJQ\">Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm\">Confianza en la presencia de Dios<\/a>\u201d, <i>Liahona<\/i>, mayo de 2025, pág. 127.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm",
+          "text": "Confianza en la presencia de Dios",
+          "type": "cross-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168223033",
+        "id": "note20",
+        "text": "<p data-aid=\"168223117\" id=\"p_cTMhA\">Dieter F. Uchtdorf, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2015/10/it-works-wonderfully?lang=spa\">¡Funciona de maravilla!<\/a>\u201d, <i>Liahona<\/i>, noviembre de 2015, pág. 23.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2015/10/it-works-wonderfully?lang=spa",
+          "text": "¡Funciona de maravilla!",
+          "type": "cross-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168223014",
+        "id": "note1",
+        "text": "<p data-aid=\"168223065\" id=\"p_w68Hz\">La gelatina verde con zanahorias es un plato local de Utah; para prepararlo, se agregan zanahorias ralladas a la gelatina a enfriar; para preparar las papas de funeral, se esparcen hojuelas [copos] de maíz encima de un plato de patatas [papas] (véase Rachel E. Teixeira, \u201cUtah Food Lore\u201d, <cite>Y Magazine<\/cite>, verano de 2022, magazine.byu.edu).<\/p>"
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168223054",
+        "id": "note29",
+        "text": "<p data-aid=\"168223142\" id=\"p_q5Zon\">\u201cOh mi Padre\u201d, <cite>Himnos<\/cite>, nro. 187<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168223054",
+        "id": "note28",
+        "text": "<p data-aid=\"168223139\" id=\"p_cegxs\">\u201c¡Oh, está todo bien!\u201d, <cite>Himnos<\/cite>, nro. 17.<\/p>"
+      }
+    }
+  }
+}

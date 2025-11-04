@@ -1,0 +1,827 @@
+{
+  "tableOfContentsUri": "/general-conference/2025/10",
+  "meta": {
+    "scopedClassName": "global-template-mobile_lesson",
+    "hasChat": false,
+    "archived": false,
+    "canonicalUrl": "/general-conference/2025/10/22webb?lang=spa",
+    "pageAttributes": {
+      "data-asset-id": "b09381ef32c04487860b8d7e4d263660",
+      "data-content-type": "general-conference-talk",
+      "itemscope": "",
+      "itemtype": "http://schema.org/Article",
+      "data-uri": "/general-conference/2025/10/22webb",
+      "data-bcp47-lang": "es",
+      "data-aid": "168173708",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "lang": "spa",
+      "data-aid-version": "4",
+      "data-orig-id": "8c6859e98b974696bce8a502b678dd1b"
+    },
+    "ogTagImageUrl": "https://www.churchofjesuschrist.org/imgs/pyn0ph75j1773hb8cp02zkwsyq1e62di2x58qyl1/full/%21192%2C/0/default",
+    "audio": [{
+      "mediaUrl": "https://assets.churchofjesuschrist.org/josyzj1ydtounw9i2716gz9xsrmjcur67z7zd33y-128k-es.mp3",
+      "variant": "audio"
+    }],
+    "title": "\u201cPara que [\u2026] todos sean edificados\u201d",
+    "contentType": "text/html",
+    "structuredData": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"datePublished\":\"2025-10-04T00:00:00.000Z\"}"
+  },
+  "restricted": 0,
+  "verified": true,
+  "pids": [
+    [
+      "168173708",
+      {"key": "168173708"}
+    ],
+    [
+      "168241901",
+      {"key": "168241901"}
+    ],
+    [
+      "168241904",
+      {"key": "168241904"}
+    ],
+    [
+      "168241906",
+      {"key": "168241906"}
+    ],
+    [
+      "168241909",
+      {"key": "168241909"}
+    ],
+    [
+      "168241912",
+      {"key": "168241912"}
+    ],
+    [
+      "168241915",
+      {"key": "168241915"}
+    ],
+    [
+      "168241917",
+      {"key": "168241917"}
+    ],
+    [
+      "168241919",
+      {"key": "168241919"}
+    ],
+    [
+      "168241921",
+      {"key": "168241921"}
+    ],
+    [
+      "168241923",
+      {"key": "168241923"}
+    ],
+    [
+      "168241925",
+      {"key": "168241925"}
+    ],
+    [
+      "168241927",
+      {"key": "168241927"}
+    ],
+    [
+      "168241929",
+      {"key": "168241929"}
+    ],
+    [
+      "168241931",
+      {"key": "168241931"}
+    ],
+    [
+      "168241933",
+      {"key": "168241933"}
+    ],
+    [
+      "168241935",
+      {"key": "168241935"}
+    ],
+    [
+      "168241937",
+      {"key": "168241937"}
+    ],
+    [
+      "168241939",
+      {"key": "168241939"}
+    ],
+    [
+      "168241942",
+      {"key": "168241942"}
+    ],
+    [
+      "168241945",
+      {"key": "168241945"}
+    ],
+    [
+      "168241948",
+      {"key": "168241948"}
+    ],
+    [
+      "168241952",
+      {"key": "168241952"}
+    ],
+    [
+      "168241962",
+      {"key": "168241962"}
+    ],
+    [
+      "168241965",
+      {"key": "168241965"}
+    ],
+    [
+      "168241968",
+      {"key": "168241968"}
+    ],
+    [
+      "168241970",
+      {"key": "168241970"}
+    ],
+    [
+      "168241974",
+      {"key": "168241974"}
+    ],
+    [
+      "168241977",
+      {"key": "168241977"}
+    ],
+    [
+      "168241980",
+      {"key": "168241980"}
+    ],
+    [
+      "168241982",
+      {"key": "168241982"}
+    ],
+    [
+      "168241986",
+      {"key": "168241986"}
+    ],
+    [
+      "168241988",
+      {"key": "168241988"}
+    ],
+    [
+      "168241991",
+      {"key": "168241991"}
+    ],
+    [
+      "168241994",
+      {"key": "168241994"}
+    ],
+    [
+      "168241997",
+      {"key": "168241997"}
+    ],
+    [
+      "168242000",
+      {"key": "168242000"}
+    ],
+    [
+      "168242003",
+      {"key": "168242003"}
+    ],
+    [
+      "168242006",
+      {"key": "168242006"}
+    ],
+    [
+      "168242009",
+      {"key": "168242009"}
+    ],
+    [
+      "168242012",
+      {"key": "168242012"}
+    ],
+    [
+      "168242015",
+      {"key": "168242015"}
+    ],
+    [
+      "168242018",
+      {"key": "168242018"}
+    ],
+    [
+      "168242021",
+      {"key": "168242021"}
+    ],
+    [
+      "168242023",
+      {"key": "168242023"}
+    ],
+    [
+      "168242026",
+      {"key": "168242026"}
+    ],
+    [
+      "168242029",
+      {"key": "168242029"}
+    ],
+    [
+      "168242032",
+      {"key": "168242032"}
+    ],
+    [
+      "168242035",
+      {"key": "168242035"}
+    ],
+    [
+      "168242038",
+      {"key": "168242038"}
+    ],
+    [
+      "168242041",
+      {"key": "168242041"}
+    ],
+    [
+      "168242044",
+      {"key": "168242044"}
+    ],
+    [
+      "168242047",
+      {"key": "168242047"}
+    ],
+    [
+      "168242050",
+      {"key": "168242050"}
+    ],
+    [
+      "168242053",
+      {"key": "168242053"}
+    ],
+    [
+      "168242056",
+      {"key": "168242056"}
+    ],
+    [
+      "168242059",
+      {"key": "168242059"}
+    ],
+    [
+      "168242063",
+      {"key": "168242063"}
+    ],
+    [
+      "168242067",
+      {"key": "168242067"}
+    ],
+    [
+      "168242071",
+      {"key": "168242071"}
+    ],
+    [
+      "168242074",
+      {"key": "168242074"}
+    ],
+    [
+      "168242077",
+      {"key": "168242077"}
+    ],
+    [
+      "168242080",
+      {"key": "168242080"}
+    ],
+    [
+      "168242083",
+      {"key": "168242083"}
+    ],
+    [
+      "168242086",
+      {"key": "168242086"}
+    ]
+  ],
+  "uri": "/general-conference/2025/10/22webb",
+  "content": {
+    "head": {
+      "links": [{
+        "orig-type": "text/css",
+        "rel": "stylesheet",
+        "href": "https://ips-cdn-edge.churchofjesuschrist.org/styles/css/style_global-template-mobile_lesson_scoped.css",
+        "type": "array"
+      }],
+      "scripts": [],
+      "page-meta-social": {
+        "pageMeta": {
+          "description": "El hermano Webb enseña cómo podemos invitar al Espíritu Santo a enseñarnos verdades del Evangelio.",
+          "title": "\u201cPara que [\u2026] todos sean edificados\u201d"
+        },
+        "pageSocial": {
+          "description": "El hermano Webb enseña cómo podemos invitar al Espíritu Santo a enseñarnos verdades del Evangelio.",
+          "title": "\u201cPara que [\u2026] todos sean edificados\u201d"
+        }
+      }
+    },
+    "body": "<header>\n\n<video controls=\"controls\" poster=\"https://www.churchofjesuschrist.org/imgs/pyn0ph75j1773hb8cp02zkwsyq1e62di2x58qyl1/full/%21768%2C/0/default\" thumbnail=\"https://www.churchofjesuschrist.org/imgs/pyn0ph75j1773hb8cp02zkwsyq1e62di2x58qyl1/full/%21192%2C/0/default\" data-video-title=\"\u201cPara que [\u2026] todos sean edificados\u201d\" data-video-description=\"El hermano Webb enseña cómo podemos invitar al Espíritu Santo a enseñarnos verdades del Evangelio.\" data-video-id=\"6382046288112\" data-duration=\"681414\" data-assetId=\"8cvo5gcqcppj5f84z7p19otm7728xy1r90avk7a2\" data-ref-id=\"8cvo5gcqcppj5f84z7p19otm7728xy1r90avk7a2\" data-duration-string=\"11:21\" id=\"video2\"><source src=\"https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382046288112.m3u8\" type=\"application/vnd.apple.mpegurl\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"249344252\"/><source src=\"https://assets.churchofjesuschrist.org/8cvo5gcqcppj5f84z7p19otm7728xy1r90avk7a2-360p-es.mp4\" type=\"video/mp4\" data-width=\"640\" data-height=\"360\" data-file-size=\"40786543\"/><source src=\"https://assets.churchofjesuschrist.org/8cvo5gcqcppj5f84z7p19otm7728xy1r90avk7a2-720p-es.mp4\" type=\"video/mp4\" data-width=\"1280\" data-height=\"720\" data-file-size=\"76890211\"/><source src=\"https://assets.churchofjesuschrist.org/8cvo5gcqcppj5f84z7p19otm7728xy1r90avk7a2-1080p-es.mp4\" type=\"video/mp4\" data-width=\"1920\" data-height=\"1080\" data-file-size=\"249344252\"/><\/video><h1 data-aid=\"168241901\" id=\"p_lJv60\">\u201cPara que [\u2026] todos sean edificados\u201d<\/h1>\n<div class=\"byline\">\n<p class=\"author-name\" data-aid=\"168241904\" id=\"p_aQbTy\">Por el hermano Chad H Webb<\/p>\n<p class=\"author-role\" data-aid=\"168241906\" id=\"p_s2qRb\">Primer Consejero de la Presidencia General de la Escuela Dominical<\/p>\n<\/div>\n<p class=\"kicker\" data-aid=\"168241909\" id=\"p_yWjC8\">Al centrarnos en Jesucristo, enseñar Su doctrina y aprender diligentemente, invitamos al Espíritu Santo a profundizar nuestra fe en Jesucristo y a ayudarnos a llegar a ser más semejantes a Él.<\/p>\n<\/header>\n<div class=\"body-block\">\n<p data-aid=\"168241912\" id=\"p_cVpsm\">Se cuenta la historia de un joven estudiante universitario que batallaba con una clase difícil, por lo que contrató a un tutor para que lo ayudara. Casi al final del curso, el profesor anunció que los estudiantes podían llevar al examen final una hoja de papel en la que podían colocar lo que quisieran. Algunos estudiantes se prepararon tomando pequeñas notas con información de lecciones y libros de texto, legibles solo con una lupa. Pero el joven llegó al examen final con una hoja de papel en blanco y un hombre desconocido. Cuando el profesor le preguntó al respecto, el joven respondió: \u201cUsted dijo que podía traer una hoja de papel con cualquier cosa en ella\u201d. Luego colocó el papel en el suelo junto a su pupitre y dijo: \u201cMe gustaría que mi tutor se parara sobre mi hoja de papel\u201d.<\/p>\n<section id=\"sec_lyoCm\">\n<header>\n<h2 data-aid=\"168241915\" id=\"p_jEY6P\">El Espíritu Santo<\/h2>\n<\/header>\n<p data-aid=\"168241917\" id=\"p_pZYBW\">Como miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días, bendecidos con la compañía de un miembro de la Trinidad, podemos contar con la ayuda del Tutor perfecto. El Espíritu Santo sabe todas las cosas<a class=\"note-ref\" href=\"#note1\"><sup class=\"marker\" data-value=\"1\"><\/sup><\/a>, testifica de la verdad<a class=\"note-ref\" href=\"#note2\"><sup class=\"marker\" data-value=\"2\"><\/sup><\/a> y \u201c[nos] recordará todo\u201d<a class=\"note-ref\" href=\"#note3\"><sup class=\"marker\" data-value=\"3\"><\/sup><\/a>. El presidente Russell M. Nelson hablaba con frecuencia sobre la importancia de escuchar la voz del Señor. Él nos enseñó cómo invitar la guía del Espíritu Santo y nos suplicó repetidamente que aumentemos nuestra capacidad espiritual para recibir revelación<a class=\"note-ref\" href=\"#note4\"><sup class=\"marker\" data-value=\"4\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241919\" id=\"p_eg53n\">Hoy los invito a considerar la función del Espíritu Santo, específicamente relacionada con el aprendizaje y la enseñanza del Evangelio en el hogar y en la Iglesia. El Espíritu Santo se da por la oración de fe y conforme nos esforzamos por vivir dignos de ese precioso don<a class=\"note-ref\" href=\"#note5\"><sup class=\"marker\" data-value=\"5\"><\/sup><\/a>. El inspirado manual de la Iglesia <span class=\"legacy-cross-ref\" data-legacy-href=\"../../../manual/teaching-in-the-saviors-way/introduction-teaching-in-the-saviors-way.html\"><cite>Enseñar a la manera del Salvador<\/cite><\/span> describe principios adicionales que el Señor ha establecido que ayudarán a invitar la influencia del Espíritu Santo<a class=\"note-ref\" href=\"#note6\"><sup class=\"marker\" data-value=\"6\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_mHMEx\">\n<header>\n<h2 data-aid=\"168241921\" id=\"p_pXlUs\">Fomentar el aprendizaje diligente<\/h2>\n<\/header>\n<p data-aid=\"168241923\" id=\"p_l9Ypc\">Uno de esos principios es el de fomentar el aprendizaje diligente<a class=\"note-ref\" href=\"#note7\"><sup class=\"marker\" data-value=\"7\"><\/sup><\/a>. En el pasado, tal vez hayamos pensado en la enseñanza como una oportunidad para que un padre o maestro invite al Espíritu a su propia preparación y luego comparta lo que ha aprendido con sus hijos o los miembros de la clase, cuya función ha sido escuchar. Pero aún más eficaz es cuando nosotros, como alumnos, también venimos preparados y cuando los maestros crean experiencias de aprendizaje que fomentan la revelación personal directamente a nuestro corazón y mente. Luego, cuando se nos dan oportunidades de compartir lo que estamos aprendiendo por medio de nuestro estudio y del Espíritu Santo<a class=\"note-ref\" href=\"#note8\"><sup class=\"marker\" data-value=\"8\"><\/sup><\/a>, nos ayudamos unos a otros a ser instruidos y edificados<a class=\"note-ref\" href=\"#note9\"><sup class=\"marker\" data-value=\"9\"><\/sup><\/a>. Al aplicar esos principios del Evangelio, el Espíritu nuevamente da testimonio de su veracidad<a class=\"note-ref\" href=\"#note10\"><sup class=\"marker\" data-value=\"10\"><\/sup><\/a>.<\/p>\n<img alt=\"Oportunidades para compartir\" id=\"img_o8AaX\" src=\"https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21500%2C/0/default\" data-img-id=\"u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj\" srcset=\"https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj/full/%21640%2C/0/default 640w\" data-assetId=\"u6hqnulh65789gyfmj56w514hnbqjlxnwjsy6qcj\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Chad H. Webb - General Conference October 2025\" data-public-description=\"As we share what we are learning through the Holy Ghost, we can help others be instructed and edified. \"/>\n<p data-aid=\"168241925\" id=\"p_uEtHF\">Como en todas las cosas, Jesucristo es el ejemplo perfecto. Él nos ha invitado a cada uno a ser alumnos diligentes<a class=\"note-ref\" href=\"#note11\"><sup class=\"marker\" data-value=\"11\"><\/sup><\/a> y a hacernos cargo de nuestro propio testimonio<a class=\"note-ref\" href=\"#note12\"><sup class=\"marker\" data-value=\"12\"><\/sup><\/a>. Invitó a Sus discípulos a prepararse para aprender<a class=\"note-ref\" href=\"#note13\"><sup class=\"marker\" data-value=\"13\"><\/sup><\/a>, a compartir lo que estaban aprendiendo<a class=\"note-ref\" href=\"#note14\"><sup class=\"marker\" data-value=\"14\"><\/sup><\/a> y a actuar con fe<a class=\"note-ref\" href=\"#note15\"><sup class=\"marker\" data-value=\"15\"><\/sup><\/a>. Oró por ellos<a class=\"note-ref\" href=\"#note16\"><sup class=\"marker\" data-value=\"16\"><\/sup><\/a>, vio su potencial divino, los escuchó y los ayudó a saber que eran amados y necesarios<a class=\"note-ref\" href=\"#note17\"><sup class=\"marker\" data-value=\"17\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241927\" id=\"p_iTqz3\">Como maestros, podemos centrarnos más en el progreso de los alumnos, en satisfacer sus necesidades y en ayudarlos a desarrollar hábitos espirituales de discipulado para toda la vida. Como alumnos, cuando ejercemos nuestro albedrío en el proceso de aprendizaje, le indicamos al Espíritu Santo nuestra disposición a que nos enseñe<a class=\"note-ref\" href=\"#note18\"><sup class=\"marker\" data-value=\"18\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241929\" id=\"p_rvgHM\">Estoy agradecido por una maestra que me invitó a ser un mejor alumno. Cuando comencé la universidad, pensé erróneamente en los estudios como algo que había que soportar para poder practicar deportes. Un día, después de leer un ensayo que yo había escrito, mi profesora me dijo que pensaba que yo tenía un gran talento para pensar de forma analítica. Yo no sabía ni qué significaba eso. Dijo que, con un esfuerzo más enfocado, podría ser un buen alumno. Nunca había pensado en ello. Su interés, su aliento y sus invitaciones cambiaron el curso de mi educación y fueron una gran bendición en mi vida.<\/p>\n<\/section>\n<section id=\"sec_se8Uk\">\n<header>\n<h2 data-aid=\"168241931\" id=\"p_sH0n4\">Enseñar la doctrina<\/h2>\n<\/header>\n<p data-aid=\"168241933\" id=\"p_e61sf\">Otro principio relevante para invitar al Espíritu Santo es enseñar la doctrina verdadera<a class=\"note-ref\" href=\"#note19\"><sup class=\"marker\" data-value=\"19\"><\/sup><\/a>. Eso significa que nuestro estudio e instrucción del Evangelio están arraigados en la palabra de Dios y que no recurrimos al sensacionalismo ni especulamos sobre lo que el Señor no ha revelado. En cambio, nos centramos en los principios esenciales y eternos del Evangelio<a class=\"note-ref\" href=\"#note20\"><sup class=\"marker\" data-value=\"20\"><\/sup><\/a>, lo cual permite que el Espíritu testifique de la verdad. Una vez más, seguimos el ejemplo del Salvador. Él dijo: \u201cMi doctrina no es mía, sino de aquel que me envió\u201d<a class=\"note-ref\" href=\"#note21\"><sup class=\"marker\" data-value=\"21\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241935\" id=\"p_fURV3\">La doctrina verdadera se encuentra en las Escrituras y en las enseñanzas de los profetas modernos. La exhortación del Señor de estudiar las Escrituras individualmente<a class=\"note-ref\" href=\"#note22\"><sup class=\"marker\" data-value=\"22\"><\/sup><\/a> y en familia<a class=\"note-ref\" href=\"#note23\"><sup class=\"marker\" data-value=\"23\"><\/sup><\/a> y de asistir a la Iglesia<a class=\"note-ref\" href=\"#note24\"><sup class=\"marker\" data-value=\"24\"><\/sup><\/a> cada semana para estudiar Su Evangelio proporciona un modelo extraordinario para aprender Su doctrina y escuchar Su voz. Escudriñamos las Escrituras para entender la narrativa, los principios que enseñan y la aplicación de esas verdades en nuestra vida. Qué bendición es tener las Escrituras al alcance de la mano. Imaginen a Adán y Eva, a Abinadí o incluso al Maestro de maestros, Jesucristo, visitando nuestros hogares o clases para enseñarnos. Ellos pueden hacerlo cuando nos deleitamos en la palabra de Dios. Con esfuerzo constante, podemos aprender a comprender y amar las Escrituras y confiar en que tienen las respuestas a las preguntas del alma<a class=\"note-ref\" href=\"#note25\"><sup class=\"marker\" data-value=\"25\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241937\" id=\"p_aqp6d\">Hubo un tiempo, antes de casarnos, en el que, a mi esposa, Kristi, le costaba sentir el amor del Padre Celestial y entender el plan que Él tiene para ella. Mientras oraba para recibir guía, recibió la impresión de que debía asistir a Instituto, por lo que se inscribió en una clase del Nuevo Testamento. La forma en que su maestro de Instituto enseñaba de las Escrituras \u2014incluso la forma en que las sostenía\u2014 demostraba cuánto amaba la palabra de Dios. Al estar asistiendo, el Espíritu Santo le susurró que había algo en las Escrituras que ella necesitaba. El amor de su maestro por las Escrituras y las impresiones del Espíritu Santo le dieron el deseo de comenzar un estudio serio de la palabra de Dios, lo que se convirtió en un trayecto de toda la vida de conversión profunda y servicio consagrado.<\/p>\n<\/section>\n<section id=\"sec_zYREf\">\n<header>\n<h2 data-aid=\"168241939\" id=\"p_nRbSF\">Centrarse en Jesucristo<\/h2>\n<\/header>\n<p data-aid=\"168241942\" id=\"p_hJPtA\">Por último, como se sugiere en <cite>Enseñar a la manera del Salvador<\/cite>, nuestra enseñanza y aprendizaje siempre deben centrarse en Jesucristo<a class=\"note-ref\" href=\"#note26\"><sup class=\"marker\" data-value=\"26\"><\/sup><\/a>. Podemos hablar de Él con más frecuencia y más reverencia, y buscar más oportunidades de expresar [nuestro] testimonio, gratitud y amor por Él. Sea cual sea el contexto, al recordarlo a Él, podemos tener \u201csu Espíritu [con nosotros]\u201d<a class=\"note-ref\" href=\"#note27\"><sup class=\"marker\" data-value=\"27\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241945\" id=\"p_otGPC\">Una manera de colocar a Jesucristo al centro de nuestra enseñanza es enfatizar que Él es el ejemplo perfecto, la personificación y expresión de todos los principios del Evangelio<a class=\"note-ref\" href=\"#note28\"><sup class=\"marker\" data-value=\"28\"><\/sup><\/a>. Aunque no se haga referencia directa a Él en un relato de las Escrituras, podemos señalarlo como el ejemplo del principio que se enseña. Podríamos simplemente preguntar: \u201c¿Recuerdan alguna ocasión en la que Jesucristo ejemplificó este principio?\u201d.<\/p>\n<p data-aid=\"168241948\" id=\"p_hgCV4\">También podemos centrarnos en Él al aprender acerca de Sus títulos, funciones y atributos, procurando no solo aprender lo que ha hecho, sino también comprender mejor quién es. Por ejemplo, al estudiar el principio del arrepentimiento, es importante entender cómo arrepentirse; pero también es esencial recordar lo que Jesucristo ha hecho para hacer posible el arrepentimiento y comprender lo que este nos enseña sobre Él, sobre Su verdadera naturaleza y características. ¿Qué dice la oportunidad de arrepentirnos acerca de Su amor, paciencia y misericordia, de Su creencia en nuestro potencial divino, de Su disposición a expiar nuestros pecados y del gozo que siente al perdonar? Y comprender Sus títulos \u2014tales como Cordero de Dios, Redentor y Médico\u2014 nos ayuda a ver que el arrepentimiento es Su invitación a purificarnos, cambiarnos y sanarnos<a class=\"note-ref\" href=\"#note29\"><sup class=\"marker\" data-value=\"29\"><\/sup><\/a>. Centrarnos en lo que Él ha hecho por nosotros y en lo que eso dice acerca de quién es Él puede ayudarnos a tener \u201cfe para arrepentimiento\u201d<a class=\"note-ref\" href=\"#note30\"><sup class=\"marker\" data-value=\"30\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241952\" id=\"p_d0Ycj\">A veces, es posible que no veamos de inmediato los atributos del Salvador detallados en un relato de las Escrituras. Por ejemplo, al leer acerca de Nefi cuando construyó un barco, podríamos centrarnos solo en Nefi. Sin embargo, centrarnos en el Salvador puede ayudarnos a ver que este registro no se preservó para enseñarnos acerca de la grandeza de Nefi, sino para mostrarnos la grandeza de Dios: que Él nos da fortaleza para guardar Sus mandamientos<a class=\"note-ref\" href=\"#note31\"><sup class=\"marker\" data-value=\"31\"><\/sup><\/a> y nos libra en tiempos de necesidad<a class=\"note-ref\" href=\"#note32\"><sup class=\"marker\" data-value=\"32\"><\/sup><\/a>.<\/p>\n<p data-aid=\"168241962\" id=\"p_lt4OM\">También podemos concentrarnos en la función central de Jesucristo en el plan perfecto de felicidad del Padre Celestial. Eso puede cambiar el curso de nuestra vida para ver nuestras circunstancias a través del lente del plan eterno de Dios en lugar de ver el plan a través del lente de nuestras circunstancias temporales. El Evangelio no es una lista de exigencias; es las buenas nuevas de que Jesucristo venció el pecado y la muerte<a class=\"note-ref\" href=\"#note33\"><sup class=\"marker\" data-value=\"33\"><\/sup><\/a>. Es cuando accedemos a Su asombrosa gracia mediante el cumplimiento de nuestros convenios con Dios que podemos vivir con gozo ahora y prepararnos para la vida con nuestro Padre Celestial en las eternidades. A medida que aprendamos a ver al Padre Celestial y al Salvador en las Escrituras, llegaremos a conocerlos mejor y veremos Su amor e influencia con mayor frecuencia y poder en nuestra propia vida.<\/p>\n<p data-aid=\"168241965\" id=\"p_hGHkv\">Siempre recordaré el Espíritu que sentí de joven cuando nuestro maestro enseñó acerca de los últimos días de la vida del Salvador. Nos ayudó a ver la importancia de los acontecimientos en el aposento alto, en Getsemaní, en Gólgota y en el sepulcro vacío. Expresó su profunda gratitud por el Salvador y su ferviente deseo de seguirlo. Su enseñanza fue una invitación para que el Espíritu Santo testificara de Jesucristo. Y el Espíritu que sentí en esa clase profundizó mi fe y aumentó mi amor y aprecio por el Salvador. La influencia de ese maestro ha permanecido conmigo toda mi vida. Como se dijo de otro maestro: \u201cPodíamos calentarnos las manos al fuego que irradiaba su fe\u201d<a class=\"note-ref\" href=\"#note34\"><sup class=\"marker\" data-value=\"34\"><\/sup><\/a>.<\/p>\n<\/section>\n<section id=\"sec_hf304\">\n<header>\n<h2 data-aid=\"168241968\" id=\"p_poaB0\">Conclusión<\/h2>\n<\/header>\n<p data-aid=\"168241970\" id=\"p_oPnSZ\">En nuestros hogares y reuniones de la Iglesia, al centrarnos en Jesucristo, enseñar Su doctrina y aprender diligentemente, invitamos al Espíritu Santo a profundizar nuestra fe en Jesucristo y a ayudarnos a llegar a ser más semejantes a Él, que es el objetivo de toda enseñanza y aprendizaje del Evangelio<a class=\"note-ref\" href=\"#note35\"><sup class=\"marker\" data-value=\"35\"><\/sup><\/a>.<\/p>\n<img alt=\"Diagrama didáctico\" id=\"img_dQuIO\" src=\"https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21500%2C/0/default\" data-img-id=\"wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d\" srcset=\"https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d/full/%21640%2C/0/default 640w\" data-assetId=\"wcu07zfgj6rlmy1ux4wgwhmsalbyodnmbrs0ou3d\" data-missing-asset=\"false\" data-width=\"500\" data-height=\"281\" data-aspect-ratio=\"1.7793594306049823\" data-public-title=\"Teaching Graphic - Chad Webb\" data-public-description=\"Teaching Graphic - Three conjoined circles within a larger ring\"/>\n<p data-aid=\"168241974\" id=\"p_lnmJ2\">Estoy agradecido por los maestros en mi vida, desde buenos padres, líderes y maestros locales hasta los hombres y mujeres que han sido llamados a enseñar y testificar desde este púlpito, quienes nos ayudan a conocer y seguir a Jesucristo<a class=\"note-ref\" href=\"#note36\"><sup class=\"marker\" data-value=\"36\"><\/sup><\/a>. Y estoy agradecido por el Espíritu Santo, el Tutor perfecto. Es por medio del Espíritu Santo que sé que el Padre Celestial nos ama y tiene un plan perfecto para nosotros; que Jesús es el Cristo, el Salvador y Redentor del mundo; y que Su Evangelio y Su Iglesia han sido restaurados. Testifico con agradecimiento de estas cosas en el nombre de Jesucristo. Amén.<\/p>\n<\/section>\n<\/div>\n<footer class=\"notes\">\n<p class=\"title\" data-aid=\"168241977\" id=\"p_eSvCI\">Notas<\/p>\n<ol class=\"decimal\" data-type=\"marker\" start=\"1\">\n<li data-marker=\"1.\" id=\"note1\" data-full-marker=\"1.\">\n<p data-aid=\"168241980\" id=\"p_dwNs8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p17#p17\">Doctrina y Convenios 42:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"2.\" id=\"note2\" data-full-marker=\"2.\">\n<p data-aid=\"168241982\" id=\"p_wnzNF\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p5#p5\">Moroni 10:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"3.\" id=\"note3\" data-full-marker=\"3.\">\n<p data-aid=\"168241986\" id=\"p_sXM0D\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p26#p26\">Juan 14:26<\/a>.<\/p>\n<\/li>\n<li data-marker=\"4.\" id=\"note4\" data-full-marker=\"4.\">\n<p data-aid=\"168241988\" id=\"p_hRNr0\">Véanse Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, págs. 93\u201396; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=spa\">Escúchalo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 88\u201392; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/36nelson?lang=spa&amp;id=p21-p23#p21\">Lo que estamos aprendiendo y que jamás olvidaremos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021, págs. 78\u201380; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm\">Confianza en la presencia de Dios<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2025, págs. 127\u2013129.<\/p>\n<\/li>\n<li data-marker=\"5.\" id=\"note5\" data-full-marker=\"5.\">\n<p data-aid=\"168241991\" id=\"p_ikCpp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p14#p14\">Doctrina y Convenios 42:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"6.\" id=\"note6\" data-full-marker=\"6.\">\n<p data-aid=\"168241994\" id=\"p_kAfgb\">Véase también <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/18-chapter-10?lang=spa&amp;id=p12-p22#p12\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, págs. 184\u2013185.<\/p>\n<\/li>\n<li data-marker=\"7.\" id=\"note7\" data-full-marker=\"7.\">\n<p data-aid=\"168241997\" id=\"p_eMmFY\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, 2022, págs. 24\u201328.<\/p>\n<\/li>\n<li data-marker=\"8.\" id=\"note8\" data-full-marker=\"8.\">\n<p data-aid=\"168242000\" id=\"p_wHI8b\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa&amp;id=p18-p19#p18\">Enseñar a la manera del Salvador<\/a><\/cite>, pág. 26.<\/p>\n<\/li>\n<li data-marker=\"9.\" id=\"note9\" data-full-marker=\"9.\">\n<p data-aid=\"168242003\" id=\"p_cYPb4\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122\">Doctrina y Convenios 88:122<\/a>.<\/p>\n<\/li>\n<li data-marker=\"10.\" id=\"note10\" data-full-marker=\"10.\">\n<p data-aid=\"168242006\" id=\"p_m92Q6\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7?lang=spa&amp;id=p17#p17\">Juan 7:17<\/a>.<\/p>\n<\/li>\n<li data-marker=\"11.\" id=\"note11\" data-full-marker=\"11.\">\n<p data-aid=\"168242009\" id=\"p_eHUYk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>\n<\/li>\n<li data-marker=\"12.\" id=\"note12\" data-full-marker=\"12.\">\n<p data-aid=\"168242012\" id=\"p_zEheI\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 97\u201398.<\/p>\n<\/li>\n<li data-marker=\"13.\" id=\"note13\" data-full-marker=\"13.\">\n<p data-aid=\"168242015\" id=\"p_sX0hC\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13?lang=spa&amp;id=p1-p9%2Cp18-p23#p1\">Mateo 13:1\u20139, 18\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3\">3 Nefi 17:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"14.\" id=\"note14\" data-full-marker=\"14.\">\n<p data-aid=\"168242018\" id=\"p_b63FJ\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p13-p17#p13\">Mateo 16:13\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5\">Moroni 6:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122\">Doctrina y Convenios 88:122<\/a>.<\/p>\n<\/li>\n<li data-marker=\"15.\" id=\"note15\" data-full-marker=\"15.\">\n<p data-aid=\"168242021\" id=\"p_sxW1P\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10?lang=spa&amp;id=p36-p37#p36\">Lucas 10:36\u201337<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1?lang=spa&amp;id=p22#p22\">Santiago 1:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p10#p10\">Mosíah 4:10<\/a>.<\/p>\n<\/li>\n<li data-marker=\"16.\" id=\"note16\" data-full-marker=\"16.\">\n<p data-aid=\"168242023\" id=\"p_cOjnV\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p31-p32#p31\">Lucas 22:31\u201332<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa\">Juan 17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p15-p18#p15\">3 Nefi 17:15\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p19-p23%2Cp27-p34#p19\">19:19\u201323, 27\u201334<\/a>.<\/p>\n<\/li>\n<li data-marker=\"17.\" id=\"note17\" data-full-marker=\"17.\">\n<p data-aid=\"168242026\" id=\"p_dDPDS\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/08-love-those-you-teach?lang=spa&amp;id=p1-p21#p1\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 12\u201315.<\/p>\n<\/li>\n<li data-marker=\"18.\" id=\"note18\" data-full-marker=\"18.\">\n<p data-aid=\"168242029\" id=\"p_nkYkm\">El élder David A. Bednar enseñó: \u201cEl alumno que ejerce su albedrío para actuar en consonancia con principios que son correctos, abre su corazón al Espíritu Santo e invita tanto a Su poder para enseñar y testificar, como a Su testimonio confirmador. Aprender por la fe requiere un esfuerzo espiritual, mental y físico, y no tan solo una recepción pasiva. Es la sinceridad y la constancia de nuestros actos inspirados en la fe que indica a nuestro Padre Celestial y a Su Hijo Jesucristo nuestra disposición para aprender y recibir instrucción del Espíritu Santo. Por tanto, aprender por la fe implica el ejercicio del albedrío moral para actuar con la certeza de lo que se espera, e invita a la convicción de lo que no se ve, la cual procede del único maestro verdadero: el Espíritu del Señor\u201d (\u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/2007/09/seek-learning-by-faith.html?id=p25#p25\">Buscar conocimiento por la fe<\/span>\u201d, <cite>Liahona<\/cite>, septiembre de 2007, pág. 20).<\/p>\n<\/li>\n<li data-marker=\"19.\" id=\"note19\" data-full-marker=\"19.\">\n<p data-aid=\"168242032\" id=\"p_cptWU\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/10-teach-the-doctrine?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 20\u201323.<\/p>\n<\/li>\n<li data-marker=\"20.\" id=\"note20\" data-full-marker=\"20.\">\n<p data-aid=\"168242035\" id=\"p_dgzRi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p14#p14\">1 Nefi 15:14<\/a>.<\/p>\n<\/li>\n<li data-marker=\"21.\" id=\"note21\" data-full-marker=\"21.\">\n<p data-aid=\"168242038\" id=\"p_nVfmf\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7?lang=spa&amp;id=p16#p16\">Juan 7:16<\/a>.<\/p>\n<\/li>\n<li data-marker=\"22.\" id=\"note22\" data-full-marker=\"22.\">\n<p data-aid=\"168242041\" id=\"p_o1ULj\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>\n<\/li>\n<li data-marker=\"23.\" id=\"note23\" data-full-marker=\"23.\">\n<p data-aid=\"168242044\" id=\"p_i7gDL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/6?lang=spa&amp;id=p5-p7#p5\">Deuteronomio 6:5\u20137<\/a>.<\/p>\n<\/li>\n<li data-marker=\"24.\" id=\"note24\" data-full-marker=\"24.\">\n<p data-aid=\"168242047\" id=\"p_uGNxS\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=spa&amp;id=p25#p25\">Hebreos 10:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5\">Moroni 6:5<\/a>.<\/p>\n<\/li>\n<li data-marker=\"25.\" id=\"note25\" data-full-marker=\"25.\">\n<p data-aid=\"168242050\" id=\"p_d6Ab0\">El élder Robert D. Hales enseñó: \u201cSi deseamos hablar con Dios, oramos; y si deseamos que Él nos hable, escudriñamos las Escrituras, porque por medio de Sus profetas recibimos Sus palabras. De modo que Él nos enseñará a medida que prestemos atención a la inspiración del Espíritu Santo\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=spa&amp;id=p24#p24\">Las Santas Escrituras: El poder de Dios para nuestra salvación<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2006, pág. 27).<\/p>\n<\/li>\n<li data-marker=\"26.\" id=\"note26\" data-full-marker=\"26.\">\n<p data-aid=\"168242053\" id=\"p_ikYWR\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 6\u20137.<\/p>\n<\/li>\n<li data-marker=\"27.\" id=\"note27\" data-full-marker=\"27.\">\n<p data-aid=\"168242056\" id=\"p_m04a7\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p79#p79\">Doctrina y Convenios 20:79<\/a>.<\/p>\n<\/li>\n<li data-marker=\"28.\" id=\"note28\" data-full-marker=\"28.\">\n<p data-aid=\"168242059\" id=\"p_jhuEb\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6\">Juan 14:6<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-of-presidents-of-the-church-howard-w-hunter/chapter-24-following-the-example-of-jesus-christ?lang=spa&amp;id=p7-p24#p7\">Enseñanzas de los Presidentes de la Iglesia: Howard W. Hunter<\/a><\/cite>, 2015, págs. 323\u2013325.<\/p>\n<\/li>\n<li data-marker=\"29.\" id=\"note29\" data-full-marker=\"29.\">\n<p data-aid=\"168242063\" id=\"p_ojQow\">Véase Lynnette McConkie, \u201cElder Gerrit W. Gong: The Missionary Purpose in \u2018Repentance, Commitment, Conversion\u2019\u201d, <cite>Church News<\/cite>, 21 de junio de 2025, thechurchnews.com.<\/p>\n<\/li>\n<li data-marker=\"30.\" id=\"note30\" data-full-marker=\"30.\">\n<p data-aid=\"168242067\" id=\"p_miZn4\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p15#p15\">Alma 34:15<\/a>.<\/p>\n<\/li>\n<li data-marker=\"31.\" id=\"note31\" data-full-marker=\"31.\">\n<p data-aid=\"168242071\" id=\"p_mbgL5\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3?lang=spa&amp;id=p7#p7\">1 Nefi 3:7<\/a>.<\/p>\n<\/li>\n<li data-marker=\"32.\" id=\"note32\" data-full-marker=\"32.\">\n<p data-aid=\"168242074\" id=\"p_xxTgX\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>.<\/p>\n<\/li>\n<li data-marker=\"33.\" id=\"note33\" data-full-marker=\"33.\">\n<p data-aid=\"168242077\" id=\"p_nwUTg\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p22-p23#p22\">Alma 33:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p40-p42#p40\">Doctrina y Convenios 76:40\u201342<\/a>.<\/p>\n<\/li>\n<li data-marker=\"34.\" id=\"note34\" data-full-marker=\"34.\">\n<p data-aid=\"168242080\" id=\"p_tIQ5r\">Boyd K. Packer, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/a-tribute-to-the-rank-and-file-of-the-church.html?id=p26#p26\">Tributo a los santos del Señor<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1980, pág. 100.<\/p>\n<\/li>\n<li data-marker=\"35.\" id=\"note35\" data-full-marker=\"35.\">\n<p data-aid=\"168242083\" id=\"p_o1241\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/001-conversion?lang=spa&amp;id=p1#p1\">Ven, sígueme \u2014 Para el hogar y la Iglesia: Doctrina y Convenios 2025<\/a><\/cite>, pág. 1.<\/p>\n<\/li>\n<li data-marker=\"36.\" id=\"note36\" data-full-marker=\"36.\">\n<p data-aid=\"168242086\" id=\"p_cr9k9\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p41#p41\">Éter 12:41<\/a>.<\/p>\n<\/li>\n<\/ol>\n<\/footer>",
+    "footnotes": {
+      "note4": {
+        "marker": "4.",
+        "context": "",
+        "pid": "168241917",
+        "id": "note4",
+        "text": "<p data-aid=\"168241988\" id=\"p_hRNr0\">Véanse Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa\">Revelación para la Iglesia, revelación para nuestras vidas<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2018, págs. 93\u201396; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2020/04/45nelson?lang=spa\">Escúchalo<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2020, págs. 88\u201392; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2021/04/36nelson?lang=spa&amp;id=p21-p23#p21\">Lo que estamos aprendiendo y que jamás olvidaremos<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2021, págs. 78\u201380; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23\">¡Piensen de manera celestial!<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2023, págs. 117\u2013120; \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm\">Confianza en la presencia de Dios<\/a>\u201d, <cite>Liahona<\/cite>, mayo de 2025, págs. 127\u2013129.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=spa",
+            "text": "Revelación para la Iglesia, revelación para nuestras vidas",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2020/04/45nelson?lang=spa",
+            "text": "Escúchalo",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2021/04/36nelson?lang=spa&amp;id=p21-p23#p21",
+            "text": "Lo que estamos aprendiendo y que jamás olvidaremos",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2023/10/51nelson?lang=spa&amp;id=p23#p23",
+            "text": "¡Piensen de manera celestial!",
+            "type": "cross-ref"
+          },
+          {
+            "href": "/study/general-conference/2025/04/57nelson?lang=spa&amp;id=p_p2Phm#p_p2Phm",
+            "text": "Confianza en la presencia de Dios",
+            "type": "cross-ref"
+          }
+        ]
+      },
+      "note5": {
+        "marker": "5.",
+        "context": "",
+        "pid": "168241919",
+        "id": "note5",
+        "text": "<p data-aid=\"168241991\" id=\"p_ikCpp\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p14#p14\">Doctrina y Convenios 42:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p14#p14",
+          "text": "Doctrina y Convenios 42:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note2": {
+        "marker": "2.",
+        "context": "",
+        "pid": "168241917",
+        "id": "note2",
+        "text": "<p data-aid=\"168241982\" id=\"p_wnzNF\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/10?lang=spa&amp;id=p5#p5\">Moroni 10:5<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/moro/10?lang=spa&amp;id=p5#p5",
+          "text": "Moroni 10:5",
+          "type": "scripture-ref"
+        }]
+      },
+      "note3": {
+        "marker": "3.",
+        "context": "",
+        "pid": "168241917",
+        "id": "note3",
+        "text": "<p data-aid=\"168241986\" id=\"p_sXM0D\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p26#p26\">Juan 14:26<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p26#p26",
+          "text": "Juan 14:26",
+          "type": "scripture-ref"
+        }]
+      },
+      "note8": {
+        "marker": "8.",
+        "context": "",
+        "pid": "168241923",
+        "id": "note8",
+        "text": "<p data-aid=\"168242000\" id=\"p_wHI8b\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa&amp;id=p18-p19#p18\">Enseñar a la manera del Salvador<\/a><\/cite>, pág. 26.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa&amp;id=p18-p19#p18",
+          "text": "Enseñar a la manera del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note9": {
+        "marker": "9.",
+        "context": "",
+        "pid": "168241923",
+        "id": "note9",
+        "text": "<p data-aid=\"168242003\" id=\"p_cYPb4\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122\">Doctrina y Convenios 88:122<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122",
+          "text": "Doctrina y Convenios 88:122",
+          "type": "scripture-ref"
+        }]
+      },
+      "note6": {
+        "marker": "6.",
+        "context": "",
+        "pid": "168241919",
+        "id": "note6",
+        "text": "<p data-aid=\"168241994\" id=\"p_kAfgb\">Véase también <cite><a class=\"cross-ref\" href=\"/study/manual/preach-my-gospel-2023/18-chapter-10?lang=spa&amp;id=p12-p22#p12\">Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo<\/a><\/cite>, 2023, págs. 184\u2013185.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/preach-my-gospel-2023/18-chapter-10?lang=spa&amp;id=p12-p22#p12",
+          "text": "Predicad Mi Evangelio: Una guía para compartir el Evangelio de Jesucristo",
+          "type": "cross-ref"
+        }]
+      },
+      "note7": {
+        "marker": "7.",
+        "context": "",
+        "pid": "168241923",
+        "id": "note7",
+        "text": "<p data-aid=\"168241997\" id=\"p_eMmFY\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, 2022, págs. 24\u201328.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/07-part-2/11-invite-diligent-learning?lang=spa",
+          "text": "Enseñar a la manera del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note30": {
+        "marker": "30.",
+        "context": "",
+        "pid": "168241948",
+        "id": "note30",
+        "text": "<p data-aid=\"168242067\" id=\"p_miZn4\"><a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/34?lang=spa&amp;id=p15#p15\">Alma 34:15<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/alma/34?lang=spa&amp;id=p15#p15",
+          "text": "Alma 34:15",
+          "type": "scripture-ref"
+        }]
+      },
+      "note16": {
+        "marker": "16.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note16",
+        "text": "<p data-aid=\"168242023\" id=\"p_cOjnV\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/22?lang=spa&amp;id=p31-p32#p31\">Lucas 22:31\u201332<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/17?lang=spa\">Juan 17<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p15-p18#p15\">3 Nefi 17:15\u201318<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p19-p23%2Cp27-p34#p19\">19:19\u201323, 27\u201334<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/22?lang=spa&amp;id=p31-p32#p31",
+            "text": "Lucas 22:31\u201332",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/john/17?lang=spa",
+            "text": "Juan 17",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p15-p18#p15",
+            "text": "3 Nefi 17:15\u201318",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/19?lang=spa&amp;id=p19-p23%2Cp27-p34#p19",
+            "text": "19:19\u201323, 27\u201334",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note15": {
+        "marker": "15.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note15",
+        "text": "<p data-aid=\"168242021\" id=\"p_sxW1P\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/luke/10?lang=spa&amp;id=p36-p37#p36\">Lucas 10:36\u201337<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/nt/james/1?lang=spa&amp;id=p22#p22\">Santiago 1:22<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p10#p10\">Mosíah 4:10<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/luke/10?lang=spa&amp;id=p36-p37#p36",
+            "text": "Lucas 10:36\u201337",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/nt/james/1?lang=spa&amp;id=p22#p22",
+            "text": "Santiago 1:22",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/mosiah/4?lang=spa&amp;id=p10#p10",
+            "text": "Mosíah 4:10",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note14": {
+        "marker": "14.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note14",
+        "text": "<p data-aid=\"168242018\" id=\"p_b63FJ\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/16?lang=spa&amp;id=p13-p17#p13\">Mateo 16:13\u201317<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5\">Moroni 6:5<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122\">Doctrina y Convenios 88:122<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/16?lang=spa&amp;id=p13-p17#p13",
+            "text": "Mateo 16:13\u201317",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5",
+            "text": "Moroni 6:5",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/88?lang=spa&amp;id=p122#p122",
+            "text": "Doctrina y Convenios 88:122",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note36": {
+        "marker": "36.",
+        "context": "",
+        "pid": "168241974",
+        "id": "note36",
+        "text": "<p data-aid=\"168242086\" id=\"p_cr9k9\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/ether/12?lang=spa&amp;id=p41#p41\">Éter 12:41<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/ether/12?lang=spa&amp;id=p41#p41",
+          "text": "Éter 12:41",
+          "type": "scripture-ref"
+        }]
+      },
+      "note13": {
+        "marker": "13.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note13",
+        "text": "<p data-aid=\"168242015\" id=\"p_sX0hC\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/13?lang=spa&amp;id=p1-p9%2Cp18-p23#p1\">Mateo 13:1\u20139, 18\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3\">3 Nefi 17:3<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/matt/13?lang=spa&amp;id=p1-p9%2Cp18-p23#p1",
+            "text": "Mateo 13:1\u20139, 18\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/3-ne/17?lang=spa&amp;id=p3#p3",
+            "text": "3 Nefi 17:3",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note35": {
+        "marker": "35.",
+        "context": "",
+        "pid": "168241970",
+        "id": "note35",
+        "text": "<p data-aid=\"168242083\" id=\"p_o1241\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/001-conversion?lang=spa&amp;id=p1#p1\">Ven, sígueme \u2014 Para el hogar y la Iglesia: Doctrina y Convenios 2025<\/a><\/cite>, pág. 1.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025/001-conversion?lang=spa&amp;id=p1#p1",
+          "text": "Ven, sígueme \u2014 Para el hogar y la Iglesia: Doctrina y Convenios 2025",
+          "type": "cross-ref"
+        }]
+      },
+      "note12": {
+        "marker": "12.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note12",
+        "text": "<p data-aid=\"168242012\" id=\"p_zEheI\">Véase Russell M. Nelson, \u201c<a class=\"cross-ref\" href=\"/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30\">Vencer al mundo y hallar descanso<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2022, págs. 97\u201398.<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2022/10/47nelson?lang=spa&amp;id=p30#p30",
+          "text": "Vencer al mundo y hallar descanso",
+          "type": "cross-ref"
+        }]
+      },
+      "note34": {
+        "marker": "34.",
+        "context": "",
+        "pid": "168241965",
+        "id": "note34",
+        "text": "<p data-aid=\"168242080\" id=\"p_tIQ5r\">Boyd K. Packer, \u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../general-conference/1980/04/a-tribute-to-the-rank-and-file-of-the-church.html?id=p26#p26\">Tributo a los santos del Señor<\/span>\u201d, <cite>Liahona<\/cite>, julio de 1980, pág. 100.<\/p>"
+      },
+      "note11": {
+        "marker": "11.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note11",
+        "text": "<p data-aid=\"168242009\" id=\"p_eHUYk\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p23#p23\">Doctrina y Convenios 19:23<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/19?lang=spa&amp;id=p23#p23",
+          "text": "Doctrina y Convenios 19:23",
+          "type": "scripture-ref"
+        }]
+      },
+      "note33": {
+        "marker": "33.",
+        "context": "",
+        "pid": "168241962",
+        "id": "note33",
+        "text": "<p data-aid=\"168242077\" id=\"p_nwUTg\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/alma/33?lang=spa&amp;id=p22-p23#p22\">Alma 33:22\u201323<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p40-p42#p40\">Doctrina y Convenios 76:40\u201342<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/bofm/alma/33?lang=spa&amp;id=p22-p23#p22",
+            "text": "Alma 33:22\u201323",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/dc-testament/dc/76?lang=spa&amp;id=p40-p42#p40",
+            "text": "Doctrina y Convenios 76:40\u201342",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note10": {
+        "marker": "10.",
+        "context": "",
+        "pid": "168241923",
+        "id": "note10",
+        "text": "<p data-aid=\"168242006\" id=\"p_m92Q6\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7?lang=spa&amp;id=p17#p17\">Juan 7:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/7?lang=spa&amp;id=p17#p17",
+          "text": "Juan 7:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note32": {
+        "marker": "32.",
+        "context": "",
+        "pid": "168241952",
+        "id": "note32",
+        "text": "<p data-aid=\"168242074\" id=\"p_xxTgX\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20\">1 Nefi 1:20<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/1?lang=spa&amp;id=p20#p20",
+          "text": "1 Nefi 1:20",
+          "type": "scripture-ref"
+        }]
+      },
+      "note31": {
+        "marker": "31.",
+        "context": "",
+        "pid": "168241952",
+        "id": "note31",
+        "text": "<p data-aid=\"168242071\" id=\"p_mbgL5\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/3?lang=spa&amp;id=p7#p7\">1 Nefi 3:7<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/3?lang=spa&amp;id=p7#p7",
+          "text": "1 Nefi 3:7",
+          "type": "scripture-ref"
+        }]
+      },
+      "note19": {
+        "marker": "19.",
+        "context": "",
+        "pid": "168241933",
+        "id": "note19",
+        "text": "<p data-aid=\"168242032\" id=\"p_cptWU\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/10-teach-the-doctrine?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 20\u201323.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/07-part-2/10-teach-the-doctrine?lang=spa",
+          "text": "Enseñar a la manera del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note18": {
+        "marker": "18.",
+        "context": "",
+        "pid": "168241927",
+        "id": "note18",
+        "text": "<p data-aid=\"168242029\" id=\"p_nkYkm\">El élder David A. Bednar enseñó: \u201cEl alumno que ejerce su albedrío para actuar en consonancia con principios que son correctos, abre su corazón al Espíritu Santo e invita tanto a Su poder para enseñar y testificar, como a Su testimonio confirmador. Aprender por la fe requiere un esfuerzo espiritual, mental y físico, y no tan solo una recepción pasiva. Es la sinceridad y la constancia de nuestros actos inspirados en la fe que indica a nuestro Padre Celestial y a Su Hijo Jesucristo nuestra disposición para aprender y recibir instrucción del Espíritu Santo. Por tanto, aprender por la fe implica el ejercicio del albedrío moral para actuar con la certeza de lo que se espera, e invita a la convicción de lo que no se ve, la cual procede del único maestro verdadero: el Espíritu del Señor\u201d (\u201c<span class=\"legacy-cross-ref\" data-legacy-href=\"../../../ensign/2007/09/seek-learning-by-faith.html?id=p25#p25\">Buscar conocimiento por la fe<\/span>\u201d, <cite>Liahona<\/cite>, septiembre de 2007, pág. 20).<\/p>"
+      },
+      "note17": {
+        "marker": "17.",
+        "context": "",
+        "pid": "168241925",
+        "id": "note17",
+        "text": "<p data-aid=\"168242026\" id=\"p_dDPDS\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/07-part-2/08-love-those-you-teach?lang=spa&amp;id=p1-p21#p1\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 12\u201315.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/07-part-2/08-love-those-you-teach?lang=spa&amp;id=p1-p21#p1",
+          "text": "Enseñar a la manera del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note27": {
+        "marker": "27.",
+        "context": "",
+        "pid": "168241942",
+        "id": "note27",
+        "text": "<p data-aid=\"168242056\" id=\"p_m04a7\"><a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p79#p79\">Doctrina y Convenios 20:79<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/20?lang=spa&amp;id=p79#p79",
+          "text": "Doctrina y Convenios 20:79",
+          "type": "scripture-ref"
+        }]
+      },
+      "note26": {
+        "marker": "26.",
+        "context": "",
+        "pid": "168241942",
+        "id": "note26",
+        "text": "<p data-aid=\"168242053\" id=\"p_ikYWR\">Véase <cite><a class=\"cross-ref\" href=\"/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=spa\">Enseñar a la manera del Salvador<\/a><\/cite>, págs. 6\u20137.<\/p>",
+        "referenceUris": [{
+          "href": "/study/manual/teaching-in-the-saviors-way-2022/04-part-1/05-teach-about-jesus-christ?lang=spa",
+          "text": "Enseñar a la manera del Salvador",
+          "type": "cross-ref"
+        }]
+      },
+      "note25": {
+        "marker": "25.",
+        "context": "",
+        "pid": "168241935",
+        "id": "note25",
+        "text": "<p data-aid=\"168242050\" id=\"p_d6Ab0\">El élder Robert D. Hales enseñó: \u201cSi deseamos hablar con Dios, oramos; y si deseamos que Él nos hable, escudriñamos las Escrituras, porque por medio de Sus profetas recibimos Sus palabras. De modo que Él nos enseñará a medida que prestemos atención a la inspiración del Espíritu Santo\u201d (\u201c<a class=\"cross-ref\" href=\"/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=spa&amp;id=p24#p24\">Las Santas Escrituras: El poder de Dios para nuestra salvación<\/a>\u201d, <cite>Liahona<\/cite>, noviembre de 2006, pág. 27).<\/p>",
+        "referenceUris": [{
+          "href": "/study/general-conference/2006/10/holy-scriptures-the-power-of-god-unto-our-salvation?lang=spa&amp;id=p24#p24",
+          "text": "Las Santas Escrituras: El poder de Dios para nuestra salvación",
+          "type": "cross-ref"
+        }]
+      },
+      "note24": {
+        "marker": "24.",
+        "context": "",
+        "pid": "168241935",
+        "id": "note24",
+        "text": "<p data-aid=\"168242047\" id=\"p_uGNxS\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/heb/10?lang=spa&amp;id=p25#p25\">Hebreos 10:25<\/a>; <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5\">Moroni 6:5<\/a>.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/heb/10?lang=spa&amp;id=p25#p25",
+            "text": "Hebreos 10:25",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/scriptures/bofm/moro/6?lang=spa&amp;id=p5#p5",
+            "text": "Moroni 6:5",
+            "type": "scripture-ref"
+          }
+        ]
+      },
+      "note23": {
+        "marker": "23.",
+        "context": "",
+        "pid": "168241935",
+        "id": "note23",
+        "text": "<p data-aid=\"168242044\" id=\"p_i7gDL\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/ot/deut/6?lang=spa&amp;id=p5-p7#p5\">Deuteronomio 6:5\u20137<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/ot/deut/6?lang=spa&amp;id=p5-p7#p5",
+          "text": "Deuteronomio 6:5\u20137",
+          "type": "scripture-ref"
+        }]
+      },
+      "note22": {
+        "marker": "22.",
+        "context": "",
+        "pid": "168241935",
+        "id": "note22",
+        "text": "<p data-aid=\"168242041\" id=\"p_o1ULj\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3\">2 Nefi 32:3<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/2-ne/32?lang=spa&amp;id=p3#p3",
+          "text": "2 Nefi 32:3",
+          "type": "scripture-ref"
+        }]
+      },
+      "note21": {
+        "marker": "21.",
+        "context": "",
+        "pid": "168241933",
+        "id": "note21",
+        "text": "<p data-aid=\"168242038\" id=\"p_nVfmf\"><a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/7?lang=spa&amp;id=p16#p16\">Juan 7:16<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/nt/john/7?lang=spa&amp;id=p16#p16",
+          "text": "Juan 7:16",
+          "type": "scripture-ref"
+        }]
+      },
+      "note20": {
+        "marker": "20.",
+        "context": "",
+        "pid": "168241933",
+        "id": "note20",
+        "text": "<p data-aid=\"168242035\" id=\"p_dgzRi\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p14#p14\">1 Nefi 15:14<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/bofm/1-ne/15?lang=spa&amp;id=p14#p14",
+          "text": "1 Nefi 15:14",
+          "type": "scripture-ref"
+        }]
+      },
+      "note1": {
+        "marker": "1.",
+        "context": "",
+        "pid": "168241917",
+        "id": "note1",
+        "text": "<p data-aid=\"168241980\" id=\"p_dwNs8\">Véase <a class=\"scripture-ref\" href=\"/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p17#p17\">Doctrina y Convenios 42:17<\/a>.<\/p>",
+        "referenceUris": [{
+          "href": "/study/scriptures/dc-testament/dc/42?lang=spa&amp;id=p17#p17",
+          "text": "Doctrina y Convenios 42:17",
+          "type": "scripture-ref"
+        }]
+      },
+      "note29": {
+        "marker": "29.",
+        "context": "",
+        "pid": "168241948",
+        "id": "note29",
+        "text": "<p data-aid=\"168242063\" id=\"p_ojQow\">Véase Lynnette McConkie, \u201cElder Gerrit W. Gong: The Missionary Purpose in \u2018Repentance, Commitment, Conversion\u2019\u201d, <cite>Church News<\/cite>, 21 de junio de 2025, thechurchnews.com.<\/p>"
+      },
+      "note28": {
+        "marker": "28.",
+        "context": "",
+        "pid": "168241945",
+        "id": "note28",
+        "text": "<p data-aid=\"168242059\" id=\"p_jhuEb\">Véanse <a class=\"scripture-ref\" href=\"/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6\">Juan 14:6<\/a>; <cite><a class=\"cross-ref\" href=\"/study/manual/teachings-of-presidents-of-the-church-howard-w-hunter/chapter-24-following-the-example-of-jesus-christ?lang=spa&amp;id=p7-p24#p7\">Enseñanzas de los Presidentes de la Iglesia: Howard W. Hunter<\/a><\/cite>, 2015, págs. 323\u2013325.<\/p>",
+        "referenceUris": [
+          {
+            "href": "/study/scriptures/nt/john/14?lang=spa&amp;id=p6#p6",
+            "text": "Juan 14:6",
+            "type": "scripture-ref"
+          },
+          {
+            "href": "/study/manual/teachings-of-presidents-of-the-church-howard-w-hunter/chapter-24-following-the-example-of-jesus-christ?lang=spa&amp;id=p7-p24#p7",
+            "text": "Enseñanzas de los Presidentes de la Iglesia: Howard W. Hunter",
+            "type": "cross-ref"
+          }
+        ]
+      }
+    }
+  }
+}
